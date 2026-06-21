@@ -44,10 +44,22 @@
 // with the article below. Keep the bits compact so all 7 links + brand fit one
 // row in the ~630px column instead of wrapping.
 // Component CSS (Navbar.css) is appended after this file, so override with !important.
-.navbar { gap: 0.5rem !important; }
-.navbar-brand { font-size: 0.95rem !important; }
-.navbar-links { gap: 0.1rem !important; }
-.navbar-links a { font-size: 0.75rem !important; padding: 0.26rem 0.42rem !important; }
+// Thick, bold navbar with the brand on top and the nav links stacked BELOW it
+// (vertical layout), large bold link text.
+.navbar {
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  gap: 0.6rem !important;
+  padding-top: 1.05rem !important;
+  padding-bottom: 1.05rem !important;
+}
+.navbar-brand { font-size: 1.35rem !important; }
+.navbar-links {
+  margin-left: 0 !important;
+  gap: 0.4rem !important;
+  row-gap: 0.4rem !important;
+}
+.navbar-links a { font-size: 1rem !important; font-weight: 700 !important; padding: 0.5rem 0.95rem !important; }
 
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
