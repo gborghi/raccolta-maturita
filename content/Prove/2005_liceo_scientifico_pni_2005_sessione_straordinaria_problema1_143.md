@@ -1,0 +1,44 @@
+---
+tipo: prova
+prova_id: prova_2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema1_143
+anno: '2005'
+pdf: Prova_Maturita_2005.pdf
+cluster: Geometria
+tags:
+  - maturita/prova
+  - area/geometria
+  - cluster/geometria
+  - anno/2005
+title: 2005 PNI Straordinaria — Problema 1
+---
+
+# 2005 PNI Straordinaria — Problema 1
+
+Fonte:  · p.143 · 📄 Apri PDF
+**Cluster:** [[Geometria|Geometria]]
+
+## Problema 1
+
+Considerato un triangolo $ABC$, acutangolo e isoscele sulla base $BC$, si chiami $D$ il piede della sua altezza condotta per $C$ e si costruisca, dalla stessa parte di $A$ rispetto a $BC$, il punto $E$ in modo che il triangolo $ECD$ sia simile ad $ABC$.
+
+**a)** Dimostrare che:
+
+1. $EC$ è perpendicolare a $CB$;
+2. i triangoli $EFC$ e $AFD$ — dove $F$ è il punto comune ai segmenti $ED$ e $AC$ — sono simili e, di conseguenza, anche i triangoli $EFA$ e $CFD$ sono simili e gli angoli $\widehat{AEF}$ e $\widehat{FCD}$ sono congruenti;
+3. $EA$ è parallela a $CB$;
+4. il quadrilatero $AECD$ è inscrivibile in una circonferenza.
+
+**b)** Ammesso che le misure di $BC$ e $CD$, rispetto a un'assegnata unità di misura, siano $6$ e $\dfrac{24}{5}$, dopo aver riferito il piano della figura a un conveniente sistema di assi cartesiani, determinare:
+
+1. il seno e il coseno dell'angolo $\widehat{BCD}$;
+2. le equazioni della similitudine che trasforma il triangolo $ABC$ nel triangolo $EDC$.
+
+*(figura nel PDF)*
+
+**Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]], [[Trigonometria]]
+**Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
+**Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema1_143#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.143
+
+
+#maturita/prova #area/geometria #cluster/geometria

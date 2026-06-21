@@ -1,0 +1,74 @@
+---
+tipo: prova
+prova_id: prova_simzan_simzan_parte1_2014_11_124
+anno: '2014'
+pdf: SimZan_parte1.pdf
+cluster: Calcolo Integrale e Aree
+tags:
+  - maturita/prova
+  - area/analisi
+  - cluster/calcolo_integrale_e_aree
+  - anno/2014
+title: 'Simulazione Zanichelli 2014 Problemi Tradizionali #11'
+---
+
+# Simulazione Zanichelli 2014 Problemi Tradizionali #11
+
+Fonte:  · p.124 · 📄 Apri PDF
+**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+
+## Problema 1
+
+Nella figura è rappresentato in modo qualitativo il grafico cartesiano di una funzione reale $f(x)$, definita, continua e derivabile in $\mathbb{R}$, e di cui si sa che:
+- $\displaystyle\lim_{x\to\infty} f(x)=0$;
+- è simmetrica rispetto all'origine $O$ del riferimento;
+- ammette un solo massimo relativo e un solo minimo relativo.
+
+*(figura nel PDF)*
+
+a) Stabilisci, motivando la risposta, a quale tra le seguenti famiglie di funzioni può appartenere $f(x)$:
+$$f_1(x)=\frac{ax}{1+b^2x^2},\qquad f_2(x)=bxe^{a^2x^2},\qquad\text{con } a,b\in\mathbb{R}.$$
+
+b) Dopo aver dimostrato che $f(x)$ è del tipo $f_1(x)$, determina i rispettivi valori di $a$ e $b$ per i quali sono soddisfatte le seguenti condizioni:
+   - $f(x)$ presenti il massimo relativo in corrispondenza di $x=2$;
+   - il coefficiente angolare della retta tangente al grafico di $f(x)$ nell'origine sia 2.
+
+c) Stabilito che i valori di $a$ e $b$ richiesti nel punto precedente sono $a=2$ e $b=\dfrac{1}{2}$, sia $f(x)$ la funzione corrispondente. Calcola l'area della regione finita del piano delimitata dal grafico della funzione e dalle rette tangenti al grafico nell'origine $O$ e nel punto di massimo $M$.
+
+d) Supponi che, per $x\ge 0$, $x$ rappresenti il tempo (in secondi) e $f(x)$ la velocità istantanea (in m/s) di un punto in moto rettilineo. In quali intervalli di tempo l'accelerazione istantanea è positiva, in quali è negativa, e in quali istanti è nulla? Qual è la distanza complessivamente percorsa dal punto rispetto all'origine nell'intervallo di tempo compreso tra $x=0$ e $x=T$? Tale distanza ha un limite superiore o cresce indefinitamente al crescere del tempo $T$? Motiva la risposta.
+
+**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Fisica]]
+**Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
+**Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
+**Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_11_124#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+
+## Problema 2
+
+Si vuole sperimentare una nuova turbina, con una pala che ha la forma schematizzata in figura. Una qualunque sezione con un piano perpendicolare all'asse di rotazione $z$ può essere rappresentata con la funzione $f(x)$, definita e continua nell'intervallo $[-4;6]$, di cui è assegnato il grafico in figura e di cui si sa che:
+- i tratti $AB$, $CD$ ed $EF$ sono segmenti di retta;
+- il tratto $BC$ è un arco di parabola con asse parallelo all'asse $y$ e vertice di ordinata 3;
+- il tratto $DE$ è un arco di circonferenza di centro $Q(3;-1)$.
+
+*(figura nel PDF)*
+
+a) Determina l'espressione analitica di $f(x)$ nell'intervallo di definizione $[-4;6]$.
+
+b) Dimostra che $f(x)$ è derivabile in ogni punto dell'intervallo di definizione.
+
+c) Detto $P$ un punto dell'arco $BC$, ricava la posizione di $P$ in modo che il quadrilatero $APCO$ abbia area massima e determina il valore di tale area.
+
+d) Sia $F(x)=\displaystyle\int_{-4}^{x} f(t)\,dt$, con $x\in[-4;6]$. Calcola $F(0)$ e $F(1)$, quindi determina l'errore relativo percentuale che si compie sul valore di $F(0)$ se si approssima il calcolo dell'integrale utilizzando il metodo dei trapezi, con una suddivisione in 8 parti uguali dell'intervallo di integrazione.
+
+e) A partire dal valore di $F(1)$ determinato al punto d), stima i valori di $F(3)$ e poi di $F(2)$, senza ricorrere a un ulteriore calcolo integrale. Utilizza il risultato per determinare:
+   - tra quali valori interi di $x$ è compreso $x_0$ tale che $F(x_0)=0$;
+   - il volume approssimato $V$ complessivamente racchiuso tra il piano $xz$ e le due ali della pala.
+
+**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]], [[Massimi e Minimi]]
+**Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
+**Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Lettura e interpretazione di grafici e funzioni]]
+**Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_11_124#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+
+
+#maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

@@ -1,0 +1,40 @@
+---
+tipo: prova
+prova_id: prova_2014_ordinamento_2014_sessione_straordinaria_problema2_138
+anno: '2014'
+pdf: Prova_Maturita_2014.pdf
+cluster: Studio di Funzione
+tags:
+  - maturita/prova
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2014
+title: Ordinamento 2014 Straordinaria — Problema 2
+---
+
+# Ordinamento 2014 Straordinaria — Problema 2
+
+Fonte:  · p.138 · 📄 Apri PDF
+**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+
+## Problema 1
+
+Si consideri la funzione:
+$$f(x) = \frac{1}{3}\operatorname{tg}^3 x + \operatorname{tg}^2 x + \operatorname{tg} x.$$
+
+1. Si studi tale funzione e si tracci il suo grafico $\gamma$ nell'intervallo $0 \le x \le 2\pi$.
+
+2. Si scrivano le equazioni delle tangenti a $\gamma$ nei punti di intersezione con l'asse $x$ e si verifichi che sono parallele.
+
+3. Si calcoli l'area del triangolo che la prima di tali tangenti forma con l'asse $x$ e con la retta $x = \dfrac{\pi}{2}$, e il volume del cono generato da una rotazione completa attorno all'asse $x$ del succitato triangolo.
+
+4. Si calcoli l'area, nell'intervallo $\left[0, \dfrac{\pi}{4}\right]$, della superficie piana $\sigma$, delimitata dalla curva $\gamma$, dall'asse $x$ e dalla retta $x = \dfrac{\pi}{4}$.
+
+**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
+**Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Visualizzazione spaziale e geometrica]]
+**Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
+**Soluzione:** [[Soluzioni/2014_ordinamento_2014_sessione_straordinaria_problema2_138#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.138
+
+
+#maturita/prova #area/analisi #cluster/studio_di_funzione

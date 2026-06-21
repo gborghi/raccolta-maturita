@@ -1,0 +1,39 @@
+---
+tipo: prova
+prova_id: prova_2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema1_14
+anno: '2010'
+pdf: Prova_Maturita_2010.pdf
+cluster: Studio di Funzione
+tags:
+  - maturita/prova
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2010
+title: 2010 Estero Americhe Ordinaria — Problema 1
+---
+
+# 2010 Estero Americhe Ordinaria — Problema 1
+
+Fonte:  · p.14 · 📄 Apri PDF
+**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+
+## Problema 1
+
+Nel piano riferito a coordinate cartesiane $Oxy$:
+
+**1)** Si studi la funzione $f(x)=\dfrac{x^2+1}{\sqrt{3}\,x}$ e se ne tracci il grafico $\gamma$.
+
+**2)** Si determini l'ampiezza degli angoli individuati dai due asintoti.
+
+**3)** Si verifichi che il parallelogramma, avente due lati consecutivi sugli asintoti e un vertice su $\gamma$, ha area costante, mentre il suo perimetro ammette un valore minimo ma non un valore massimo.
+
+**4)** Tra le infinite primitive di $f(x)$ si determini quella che passa per il punto di coordinate $(1;\,0)$.
+
+**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
+**Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
+**Tipo funzione:** [[Razionale fratta]]
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema1_14#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.14
+
+
+#maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -1,0 +1,36 @@
+---
+tipo: prova
+prova_id: prova_1999_sessione_suppletiva_1999_problema3_7
+anno: '1999'
+pdf: Prova_Maturita_1999.pdf
+cluster: Calcolo Integrale e Aree
+tags:
+  - maturita/prova
+  - area/analisi
+  - cluster/calcolo_integrale_e_aree
+  - anno/1999
+title: 1999 Suppletiva — Problema 3
+---
+
+# 1999 Suppletiva — Problema 3
+
+Fonte:  · p.7 · 📄 Apri PDF
+**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+
+## Problema 1
+
+L'informazione che si ha della parabola $f(x) = ax^2 + bx + c$ è tutta concentrata nel punto di ascissa $x = 5$ ed è:
+
+$$f(5) = 0, \qquad f'(5) = -1 \qquad \text{e} \qquad f''(5) = -2.$$
+
+a) Determinata la parabola e detti $A$ e $B$ i suoi punti d'intersezione con l'asse $x$, calcolare l'area del triangolo $ABC$ ove con $C$ si è denotato il punto d'incontro delle tangenti alla parabola in $A$ e in $B$ e stabilire il rapporto tra tale area e quella del segmento parabolico di base $AB$;
+
+b) stabilire altresì il rapporto tra i volumi descritti dalle aree (regioni) prima considerate per effetto della loro rotazione completa attorno all'asse $x$.
+
+**Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
+**Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
+**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_1999_problema3_7#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+
+
+#maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

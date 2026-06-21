@@ -1,0 +1,43 @@
+---
+tipo: prova
+prova_id: prova_2013_pni_2013_sessione_suppletiva_problema2_81
+anno: '2013'
+pdf: Prova_Maturita_2013.pdf
+cluster: Studio di Funzione
+tags:
+  - maturita/prova
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2013
+title: 2013 PNI Suppletiva — Problema 2
+---
+
+# 2013 PNI Suppletiva — Problema 2
+
+Fonte:  · p.81 · 📄 Apri PDF
+**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+
+## Problema 1
+
+**PNI 2013 – Sessione suppletiva — Problema 2**
+
+Si consideri la funzione:
+
+$$f(x)=x-2\arctan x$$
+
+1) Si studi tale funzione e si tracci il suo grafico $\gamma$, su un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$.
+
+2) La curva $\gamma$ incontra l'asse $x$, oltre che nell'origine, in altri due punti aventi ascisse opposte. Detta $c$ l'ascissa positiva, si dimostri che $2<c<3$ e se ne calcoli un valore approssimato con due cifre decimali esatte.
+
+3) Si scriva l'equazione della tangente a $\gamma$ nel suo punto di flesso, si verifichi che essa risulta perpendicolare ad entrambi gli asintoti e si calcoli l'area del triangolo che essa forma con uno degli asintoti e l'asse $y$.
+
+4) Si calcoli l'area della regione di piano, delimitata da $\gamma$ e dall'asse $x$ sull'intervallo chiuso $[0;1]$.
+
+**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
+**Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
+**Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Mista  trascendente composita|Mista / trascendente composita]]
+**Soluzione:** [[Soluzioni/2013_pni_2013_sessione_suppletiva_problema2_81#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+
+
+#maturita/prova #area/analisi #cluster/studio_di_funzione

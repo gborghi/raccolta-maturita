@@ -1,0 +1,53 @@
+---
+tipo: prova
+prova_id: prova_2018_sessione_straordinaria_2018_problema2_69
+anno: '2018'
+pdf: Prova_Maturita_2018.pdf
+cluster: Studio di Funzione
+tags:
+  - maturita/prova
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2018
+title: 2018 Sessione straordinaria — Problema 2
+---
+
+# 2018 Sessione straordinaria — Problema 2
+
+Fonte:  · p.69 · 📄 Apri PDF
+**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+
+## Problema 1
+
+Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, così definita:
+
+$$f(x)=\ln(a\cdot e^{bx}+c)$$
+
+al variare di $a,b,c$ parametri reali positivi.
+
+1. Verifica che, comunque si scelgano i parametri, si ha:
+
+   $$f'(x)>0\ \forall x\in\mathbb{R},\qquad f''(x)>0\ \forall x\in\mathbb{R}.$$
+
+2. Verifica inoltre che, comunque si scelgano i parametri, la funzione $f$ ha un asintoto orizzontale, per $x\to-\infty$, e un asintoto obliquo, per $x\to+\infty$; determina $a,b,c$ in modo che l'asintoto orizzontale, per $x\to-\infty$, sia la retta di equazione $y=0$ e l'asintoto obliquo, per $x\to+\infty$, sia la retta di equazione $y=x$.
+
+3. Dimostra che ponendo $a=b=c=1$ si ha:
+
+   $$x<f(x)<e^x\quad \forall x\in\mathbb{R}.$$
+
+4. Verifica inoltre che ponendo $a=b=c=1$ e detta $A$ l'area della parte di piano compresa tra il grafico della funzione $h(x)=f(-|x|)$ e l'asse $x$ del riferimento cartesiano, si ha
+
+   $$A<2.$$
+
+   Inoltre, a partire dalle caratteristiche del grafico della funzione $h(x)$, determina un numero reale $S$, quanto più grande possibile, tale che
+
+   $$A>S.$$
+
+**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]], [[Studio di funzione completo]]
+**Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]]
+**Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
+**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_problema2_69#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+
+
+#maturita/prova #area/analisi #cluster/studio_di_funzione
