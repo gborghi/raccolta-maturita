@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>2019 Ordinaria — Prova — Quesito 8 — Svolgimento</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&amp;family=Nunito Sans:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Maturità Scientifica — Raccolta Prove"/><meta property="og:title" content="2019 Ordinaria — Prova — Quesito 8 — Svolgimento"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="2019 Ordinaria — Prova — Quesito 8 — Svolgimento"/><meta name="twitter:description" content="Quesito: 2019 Ordinaria — Prova — Quesito 8 · Prova: 2019 Ordinaria — Prova Liceo Scientifico 2019 - Quesiti QUESITO 8 B= 1.00mT= 10-3T, \Delta x= 38.1 cm= 0.381 m , r= 0.105 m Detta vx la componente di v lungo la direzione del campo magnetico, T il periodo di rotazione del protone, \omega la veloci..."/><meta property="og:description" content="Quesito: 2019 Ordinaria — Prova — Quesito 8 · Prova: 2019 Ordinaria — Prova Liceo Scientifico 2019 - Quesiti QUESITO 8 B= 1.00mT= 10-3T, \Delta x= 38.1 cm= 0.381 m , r= 0.105 m Detta vx la componente di v lungo la direzione del campo magnetico, T il periodo di rotazione del protone, \omega la veloci..."/><meta property="og:image:alt" content="Quesito: 2019 Ordinaria — Prova — Quesito 8 · Prova: 2019 Ordinaria — Prova Liceo Scientifico 2019 - Quesiti QUESITO 8 B= 1.00mT= 10-3T, \Delta x= 38.1 cm= 0.381 m , r= 0.105 m Detta vx la componente di v lungo la direzione del campo magnetico, T il periodo di rotazione del protone, \omega la veloci..."/><meta property="og:image" content="https://gborghi.github.io/raccolta-maturita/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-maturita/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-maturita/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-maturita"/><meta property="og:url" content="https://gborghi.github.io/raccolta-maturita/Svolgimenti/sol_ques_2019_sessione_ordinaria_2019_prova_6_8"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-maturita/Svolgimenti/sol_ques_2019_sessione_ordinaria_2019_prova_6_8"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Quesito: 2019 Ordinaria — Prova — Quesito 8 · Prova: 2019 Ordinaria — Prova Liceo Scientifico 2019 - Quesiti QUESITO 8 B= 1.00mT= 10-3T, \Delta x= 38.1 cm= 0.381 m , r= 0.105 m Detta vx la componente di v lungo la direzione del campo magnetico, T il periodo di rotazione del protone, \omega la veloci..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFx1dGVudGVcXHNpdGUtbWF0dXJpdGFcXHF1YXJ0elxcY29tcG9uZW50c1xcc3R5bGVzIiwic291cmNlcyI6WyJtZXJtYWlkLmlubGluZS5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFHRjtFQUNFOzs7QUFLRjtFQUNFO0VBQ0E7OztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG4jbWVybWFpZC1jb250YWluZXIge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGNvbnRhaW46IGxheW91dDtcbiAgei1pbmRleDogOTk5O1xuICBsZWZ0OiAwO1xuICB0b3A6IDA7XG4gIHdpZHRoOiAxMDB2dztcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgZGlzcGxheTogbm9uZTtcbiAgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDRweCk7XG4gIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgMC41KTtcblxuICAmLmFjdGl2ZSB7XG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICB9XG5cbiAgJiA+ICNtZXJtYWlkLXNwYWNlIHtcbiAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgcG9zaXRpb246IGZpeGVkO1xuICAgIHRvcDogNTAlO1xuICAgIGxlZnQ6IDUwJTtcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICBoZWlnaHQ6IDgwdmg7XG4gICAgd2lkdGg6IDgwdnc7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcblxuICAgICYgPiAubWVybWFpZC1jb250ZW50IHtcbiAgICAgIHBhZGRpbmc6IDJyZW07XG4gICAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgICB0cmFuc2Zvcm0tb3JpZ2luOiAwIDA7XG4gICAgICB0cmFuc2l0aW9uOiB0cmFuc2Zvcm0gMC4xcyBlYXNlO1xuICAgICAgb3ZlcmZsb3c6IHZpc2libGU7XG4gICAgICBtaW4taGVpZ2h0OiAyMDBweDtcbiAgICAgIG1pbi13aWR0aDogMjAwcHg7XG5cbiAgICAgIHByZSB7XG4gICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgYm9yZGVyOiBub25lO1xuICAgICAgfVxuXG4gICAgICBzdmcge1xuICAgICAgICBtYXgtd2lkdGg6IG5vbmU7XG4gICAgICAgIGhlaWdodDogYXV0bztcbiAgICAgIH1cbiAgICB9XG5cbiAgICAmID4gLm1lcm1haWQtY29udHJvbHMge1xuICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgYm90dG9tOiAyMHB4O1xuICAgICAgcmlnaHQ6IDIwcHg7XG4gICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgZ2FwOiA4cHg7XG4gICAgICBwYWRkaW5nOiA4cHg7XG4gICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgYm9yZGVyLXJhZGl1czogNnB4O1xuICAgICAgYm94LXNoYWRvdzogMCAycHggNHB4IHJnYmEoMCwgMCwgMCwgMC4xKTtcbiAgICAgIHotaW5kZXg6IDI7XG5cbiAgICAgIC5tZXJtYWlkLWNvbnRyb2wtYnV0dG9uIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIHdpZHRoOiAzMnB4O1xuICAgICAgICBoZWlnaHQ6IDMycHg7XG4gICAgICAgIHBhZGRpbmc6IDA7XG4gICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgICAgY29sb3I6IHZhcigtLWRhcmspO1xuICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgICAgZm9udC1zaXplOiAxNnB4O1xuICAgICAgICBmb250LWZhbWlseTogdmFyKC0tYm9keUZvbnQpO1xuICAgICAgICB0cmFuc2l0aW9uOiBhbGwgMC4ycyBlYXNlO1xuXG4gICAgICAgICY6aG92ZXIge1xuICAgICAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICAgIH1cblxuICAgICAgICAmOmFjdGl2ZSB7XG4gICAgICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDFweCk7XG4gICAgICAgIH1cblxuICAgICAgICAvLyBTdHlsZSB0aGUgcmVzZXQgYnV0dG9uIGRpZmZlcmVudGx5XG4gICAgICAgICY6bnRoLWNoaWxkKDIpIHtcbiAgICAgICAgICB3aWR0aDogYXV0bztcbiAgICAgICAgICBwYWRkaW5nOiAwIDEycHg7XG4gICAgICAgICAgZm9udC1zaXplOiAxNHB4O1xuICAgICAgICB9XG4gICAgICB9XG4gICAgfVxuICB9XG59XG4iXX0= */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://gborghi.github.io/raccolta-maturita/index.xml"/></head><body data-slug="Svolgimenti/sol_ques_2019_sessione_ordinaria_2019_prova_6_8"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-maturita/"><img class="navbar-logo" src="/raccolta-maturita/static/maturita-icon.svg" alt aria-hidden="true"/>Maturità Scientifica</a><div class="navbar-links"><a href="/raccolta-maturita/Clusters/">Cluster</a><a href="/raccolta-maturita/Topics/">Argomenti</a><a href="/raccolta-maturita/Methods/">Metodi</a><a href="/raccolta-maturita/Skills/">Competenze</a><a href="/raccolta-maturita/Prove/">Prove</a><a href="/raccolta-maturita/Problemi/">Problemi</a><a href="/raccolta-maturita/Quesiti/">Quesiti</a><a href="/raccolta-maturita/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-5685"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-5685" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Svolgimenti/">Svolgimenti</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>2019 Ordinaria — Prova — Quesito 8 — Svolgimento</a></div></nav><h1 class="article-title">2019 Ordinaria — Prova — Quesito 8 — Svolgimento</h1><p show-comma="true" class="content-meta"><time datetime="2026-06-22T17:49:57.713Z">22 giu 2026</time><span>26 minuti</span></p><ul class="tags"><li><a href="../tags/maturita/soluzione" class="internal tag-link">maturita/soluzione</a></li><li><a href="../tags/area/analisi" class="internal tag-link">area/analisi</a></li><li><a href="../tags/cluster/studio_di_funzione" class="internal tag-link">cluster/studio_di_funzione</a></li><li><a href="../tags/anno/2019" class="internal tag-link">anno/2019</a></li></ul></div></div><article class="popover-hint"><p><strong>Quesito:</strong> <a href="../Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_8" class="internal alias" data-slug="Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_8">2019 Ordinaria — Prova — Quesito 8</a> · <strong>Prova:</strong> <a href="../Prove/2019_sessione_ordinaria_2019_prova_6" class="internal alias" data-slug="Prove/2019_sessione_ordinaria_2019_prova_6">2019 Ordinaria — Prova</a></p>
+<p>Liceo Scientifico 2019 - Quesiti</p>
+<p>QUESITO <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">8</span></span></span></span></p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">1.00</span><span class="mord mathnormal">m</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord">3</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mpunct">,</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">38.1</span><span class="mord mathnormal">c</span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">0.381</span><span class="mord mathnormal">m</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">0.105</span><span class="mord mathnormal">m</span></span></span></span></p>
+<p>Detta <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">vx</span></span></span></span> la componente di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span></span></span></span> lungo la direzione del campo magnetico, <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span></span></span></span> il periodo di rotazione del protone,
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span></span></span></span> la velocità angolare del protone, si ha:</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord mathnormal">vx</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord mathnormal">vx</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal" style="margin-right:0.03588em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">vx</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal" style="margin-right:0.03588em;">π</span></span></span></span></p>
+<p>Sia <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span></span> la componente di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span></span></span></span> ortogonale a B⃗ . Per la legge di Lorentz abbiamo:</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">q</span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ma</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">m</span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mord">2</span></span></span></span>
+da cui: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span></span></span></span> qBr
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">:</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.05017em;">qB</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">m</span></span></span></span> , quindi:</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">vx</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal" style="margin-right:0.03588em;">π</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">vx</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span> x∙qB
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal">πm</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">0.381</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.602</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">19</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal" style="margin-right:0.03588em;">π</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.673</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">27</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.589em;"></span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≅</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">5.81</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">103</span><span class="mord mathnormal">m</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">vx</span></span></span></span></p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span></span></span></span> qBr
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.602</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">19</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">0.105</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.673</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">27</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.589em;"></span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≅</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.01</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">104</span><span class="mord mathnormal">m</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span></span></p>
+<p>Quindi il modulo del vettore velocità è:</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.04em;vertical-align:-0.1328em;"></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9072em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord" style="padding-left:0.833em;"><span class="mord mathnormal">vx</span><span class="mord">2</span></span></span><span style="top:-2.8672em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg xmlns="http://www.w3.org/2000/svg" width="400em" height="1.08em" viewBox="0 0 400000 1080" preserveAspectRatio="xMinYMin slice"><path d="M95,702
+c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
+c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
+c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
+s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
+c69,-144,104.5,-217.7,106.5,-221
+l0 -0
+c5.3,-9.3,12,-14,20,-14
+H400000v40H845.2724
+s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
+c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
+M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.1328em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mord">2</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.244em;vertical-align:-0.1328em;"></span><span class="mord"><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9072em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord" style="padding-left:0.833em;"><span class="mord">5.81</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">103</span></span></span><span style="top:-2.8672em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg xmlns="http://www.w3.org/2000/svg" width="400em" height="1.08em" viewBox="0 0 400000 1080" preserveAspectRatio="xMinYMin slice"><path d="M95,702
+c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
+c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
+c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
+s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
+c69,-144,104.5,-217.7,106.5,-221
+l0 -0
+c5.3,-9.3,12,-14,20,-14
+H400000v40H845.2724
+s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
+c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
+M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.1328em;"><span></span></span></span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.1112em;"><span style="top:-3.3601em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord">1.01</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord">104</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≅</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.17</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">104</span><span class="mord mathnormal">m</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span></span></span></span></p>
+<p>L’angolo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> che il vettore velocità forma con il vettore campo è tale che:</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8095em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">t</span><span class="mord mathnormal" style="margin-right:0.0037em;">gα</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">vx</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.589em;"></span><span class="mrel">≅</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.01</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">104</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">5.81</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">∙</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">103</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">10.1</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">5.81</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≅</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1.74</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">⇒</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span></span></span></span> arctg <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord">1.74</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≅</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord">60.</span><span class="mord"><span class="mord">1</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span></span></span></span></p>
+<p>Con la collaborazione di Angela Santamaria e Stefano Scoleri</p>
+<p>Quadro di riferimento per la redazione e lo svolgimento</p>
+<p>PERCORSI LICEALI
+CODICE <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord">03</span></span></span></span>
+LICEO SCIENTIFICO - OPZIONE SCIENZE APPLICATE</p>
+<p>DISCIPLINA: MATEMATICA
+Caratteristiche della prova d’esame</p>
+<p>La prova consiste nella soluzione di un problema a scelta del candidato tra due proposte e nella risposta a
+quattro quesiti tra otto proposte.
+Essa è finalizzata <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> accertare l’acquisizione dei principali concetti e metodi della matematica di base,
+anche in una prospettiva <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7429em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">t</span><span class="mord mathnormal" style="margin-right:0.02778em;">or</span><span class="mord mathnormal">i</span><span class="mord mathnormal">co</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.854em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">cr</span><span class="mord mathnormal">i</span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal">c</span><span class="mord mathnormal">a</span><span class="mpunct">,</span></span></span></span> in relazione <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> contenuti previsti dalle vigenti Indicazioni Nazionali
+per l’intero percorso di studio del liceo scientifico.
+In particolare, la prova mira a rilevare la comprensione e la padronanza del metodo dimostrativo nei vari
+ambiti della matematica e la capacità di argomentare correttamente applicando metodi e concetti
+matematici, attraverso l’uso del ragionamento logico.
+In riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> vari nuclei tematici potrà essere richiesta sia la verifica o la dimostrazione di proposizioni,
+anche utilizzando il principio di induzione, sia la costruzione di esempi o controesempi, l’applicazione di
+teoremi o procedure, come anche la costruzione o la discussione di modelli e la risoluzione di problemi.
+I problemi potranno avere carattere astratto, applicativo o anche contenere riferimenti a testi classici o
+momenti storici significativi della matematica. Il ruolo dei calcoli sarà limitato a situazioni semplici e non
+artificiose.
+Durata della prova: da quattro a sei ore
+Nuclei tematici fondamentali
+ARITMETICA E ALGEBRA
+Rappresentazioni dei numeri e operazioni aritmetiche
+Algebra dei polinomi
+Equazioni, disequazioni e sistemi
+GEOMETRIA EUCLIDEA E CARTESIANA
+Triangoli, cerchi, parallelogrammi
+Funzioni circolari
+Sistemi di riferimento e luoghi geometrici
+Figure geometriche nel piano e nello spazio
+INSIEMI E FUNZIONI
+Proprietà delle funzioni e delle successioni
+Funzioni e successioni elementari
+Calcolo differenziale
+Calcolo integrale
+PROBABILITÀ E STATISTICA
+Probabilità di un evento
+Dipendenza probabilistica
+Statistica descrittiva</p>
+<p>Obiettivi della prova
+Con riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> Nuclei Tematici fondamentali, la prova intende accertare che il candidato sia in grado
+di:</p>
+<p>
+Utilizzare le diverse rappresentazioni dei numeri, riconoscendone l’appartenenza agli insiemi <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">Z</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">Q</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span></span></span></span>
+e <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord">.</span></span></span></span> Interpretare geometricamente le operazioni di addizione e di moltiplicazione in <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord">.</span></span></span></span>
+
+Mettere in relazione le radici di un polinomio, i suoi fattori lineari ed i suoi coefficienti. Applicare il
+principio d’identità dei polinomi.
+
+Risolvere, anche per via grafica, equazioni e disequazioni algebriche (e loro sistemi) fino al <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span></span></span></span> grado ed
+equazioni o disequazioni <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> esse riconducibili.
+
+Utilizzare i risultati principali della geometria euclidea, in particolare la geometria del triangolo e del
+cerchio, le proprietà dei parallelogrammi, la similitudine e gli elementi fondamentali della geometria
+solida; dimostrare proposizioni di geometria euclidea, con metodo sintetico o analitico.
+
+Servirsi delle funzioni circolari per esprimere relazioni tra gli elementi di una data configurazione
+geometrica.
+
+Scegliere opportuni sistemi di riferimento per l’analisi di un problema.
+
+Determinare luoghi geometrici a partire da proprietà assegnate.
+
+Porre in relazione equazioni e disequazioni con le corrispondenti parti del piano.
+
+Applicare simmetrie, traslazioni e dilatazioni riconoscendone i rispettivi invarianti.
+
+Studiare rette, coniche e loro intersezioni nel piano nonché rette, piani, superfici sferiche e loro
+intersezioni nello spazio utilizzando le coordinate cartesiane.
+
+Analizzare le proprietà di iniettività, suriettività, invertibilità di funzioni definite su insiemi qualsiasi.
+Riconoscere ed applicare la composizione di funzioni.
+
+Applicare gli elementi di base del calcolo combinatorio.
+
+Analizzare le proprietà di parità, monotonia, periodicità di funzioni definite sull’insieme dei numeri
+reali o su un suo sottoinsieme.
+
+Individuare le caratteristiche fondamentali e i parametri caratteristici delle progressioni aritmetiche e
+geometriche e delle funzioni polinomiali, lineari a tratti, razionali fratte, circolari, esponenziali e
+logaritmiche, modulo e loro composizioni semplici.
+
+A partire dall’espressione analitica di una funzione, individuare le caratteristiche salienti del suo grafico
+e viceversa; a partire dal grafico di una funzione, tracciare i grafici di funzioni correlate: l’inversa (se
+esiste), la reciproca, il modulo, o altre funzioni ottenute con trasformazioni geometriche.
+
+Discutere l’esistenza e determinare il valore del limite di una successione definita con un’espressione
+analitica o per ricorrenza.
+
+Discutere l’esistenza e determinare il valore del limite di una funzione, in particolare i limiti, per <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span> che
+tende a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">0</span><span class="mpunct">,</span></span></span></span> di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">se</span><span class="mord mathnormal">n</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mord">/</span><span class="mord mathnormal">x</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mopen">(</span><span class="mord mathnormal">e</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mclose">)</span><span class="mord">/</span><span class="mord mathnormal">x</span></span></span></span> e limiti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> essi riconducibili.
+
+Riconoscere le caratteristiche di continuità e derivabilità di una funzione e applicare i principali
+teoremi riguardanti la continuità e la derivabilità.
+ Determinare la derivata di una funzione ed interpretarne geometricamente il significato.
+ Applicare il calcolo differenziale a problemi di massimo e minimo.
+
+Analizzare le caratteristiche della funzione integrale di una funzione continua e applicare il teorema
+fondamentale del calcolo integrale.
+ A partire dal grafico di una funzione, tracciare i grafici della sua derivata e di una sua funzione
+integrale.
+ Interpretare geometricamente l’integrale definito e applicarlo al calcolo di aree.</p>
+<p> Determinare primitive di funzioni utilizzando integrali immediati, integrazione per sostituzione o per
+parti.
+ Determinare la probabilità di un evento utilizzando i teoremi fondamentali della probabilità, il calcolo
+combinatorio, il calcolo integrale.
+ Valutare la dipendenza o l’indipendenza di eventi casuali.
+ Analizzare la distribuzione di una variabile casuale o di un insieme di dati e determinarne valori di
+sintesi, quali media, mediana, deviazione standard, varianza.</p>
+<p>Griglia di valutazione per l’attribuzione dei punteggi</p>
+<p>Indicatore (correlato agli obiettivi della prova)
+Punteggio max per ogni
+indicatore (totale <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">20</span><span class="mclose">)</span></span></span></span>
+Comprendere
+Analizzare la situazione problematica. Identificare i dati
+ed interpretarli. Effettuare gli eventuali collegamenti e
+adoperare i codici <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mord mathnormal">i</span><span class="mord mathnormal">co</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">imb</span><span class="mord mathnormal">o</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">i</span><span class="mord mathnormal">c</span><span class="mord mathnormal">i</span></span></span></span> necessari.</p>
+<p>Individuare
+Conoscere i concetti matematici utili alla soluzione.
+Analizzare possibili strategie risolutive ed individuare la
+strategia più adatta.</p>
+<p>Sviluppare il processo risolutivo
+Risolvere la situazione problematica in maniera
+coerente, completa e corretta, applicando le regole ed
+eseguendo i calcoli necessari.</p>
+<p>Argomentare
+Commentare e giustificare opportunamente la scelta della
+strategia risolutiva, i passaggi fondamentali del processo
+esecutivo e la coerenza dei risultati al contesto del
+problema.</p>
+<p>DISCIPLINA: FISICA</p>
+<p>Caratteristiche della prova d’esame</p>
+<p>La prova consiste nella soluzione di un problema a scelta del candidato tra due proposte e nella risposta a quattro
+quesiti tra otto proposte.
+Essa è finalizzata <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> accertare l’acquisizione dei concetti e dei metodi della fisica con riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> Nuclei
+Tematici fondamentali che connettono verticalmente gli argomenti trattati nel percorso di studio, in relazione <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span>
+contenuti previsti dalle vigenti Indicazioni Nazionali per il liceo scientifico.
+In particolare, la prova mira a rilevare la comprensione e la padronanza del metodo scientifico e la capacità di
+argomentazione fisica attraverso l’uso di ipotesi, analogie e leggi fisiche. In riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> vari nuclei tematici
+potrà essere richiesta, relativamente a fenomeni naturali o a esperimenti, la soluzione di problemi attraverso la
+costruzione e discussione di modelli, la formalizzazione matematica, l’argomentazione qualitativa, l’analisi critica
+di dati. La prova potrà contenere riferimenti a testi classici o momenti storici significativi della fisica.</p>
+<p>Durata della prova: da quattro a sei ore</p>
+<p>Nuclei tematici fondamentali
+MISURA E RAPPRESENTAZIONE DI GRANDEZZE FISICHE
+Incertezza di misura
+Rappresentazioni di grandezze fisiche
+SPAZIO, TEMPO E MOTO
+Grandezze cinematiche
+Sistemi di riferimento e trasformazioni
+Moto di un punto materiale e di un corpo rigido
+Cinematica classica e relativistica
+ENERGIA E MATERIA
+Lavoro ed energia
+Conservazione dell’energia
+Trasformazione dell’energia
+Emissione, assorbimento e trasporto di energia
+ONDE E PARTICELLE
+Onde armoniche sonore ed elettromagnetiche
+Fenomeni di interferenza
+Dualismo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">o</span><span class="mord mathnormal">n</span><span class="mord mathnormal">d</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">p</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal">ce</span><span class="mord mathnormal" style="margin-right:0.01968em;">ll</span><span class="mord mathnormal">a</span></span></span></span>
+FORZE E CAMPI
+Rappresentazione di forze mediante il concetto di campo
+Campo gravitazionale
+Campo elettromagnetico
+Induzione elettromagnetica</p>
+<p>Obiettivi della prova
+Con riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> Nuclei Tematici fondamentali, la prova intende accertare che il candidato sia in grado di:</p>
+<p>
+Rappresentare, anche graficamente, il valore di una grandezza fisica e la sua incertezza nelle unità di misura
+appropriate. Rappresentare e interpretare, tramite un grafico, la relazione tra due grandezze fisiche.
+
+Valutare l’accordo tra i valori sperimentali di grandezze fisiche in relazione alle incertezze di misura al fine di
+descrivere correttamente il fenomeno osservato.
+
+Determinare e discutere il moto di punti materiali e corpi rigidi sotto l’azione di forze.
+
+Utilizzare il concetto di centro di massa nello studio del moto di due punti materiali o di un corpo rigido.
+
+Utilizzare le trasformazioni di Galileo o di Lorentz per esprimere i valori di grandezze cinematiche e
+dinamiche in diversi sistemi di riferimento.
+
+Determinare e discutere il moto relativistico di un punto materiale sotto l’azione di una forza costante o di
+una forza di Lorentz.
+
+Applicare le relazioni relativistiche sulla dilatazione dei tempi e contrazione delle lunghezze e individuare in
+quali casi si applica il limite non relativistico.
+
+Determinare l’energia cinetica di un punto materiale in moto e l’energia potenziale di un punto materiale
+sottoposto a forze.
+
+Mettere in relazione la variazione di energia cinetica, di energia potenziale e di energia meccanica con il
+lavoro fatto dalle forze agenti.
+
+Utilizzare la conservazione dell’energia nello studio del moto di punti materiali e di corpi rigidi e nelle
+trasformazioni tra lavoro e calore.
+
+Determinare la densità di energia di campi elettrici e magnetici e applicare il concetto di trasporto di energia
+da parte di un’onda elettromagnetica.
+
+Applicare l’equivalenza <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">ss</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.854em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">e</span><span class="mord mathnormal">n</span><span class="mord mathnormal" style="margin-right:0.02778em;">er</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal">ia</span></span></span></span> in situazioni concrete tratte da esempi di decadimenti radioattivi,
+reazioni di fissione o di fusione nucleare.
+
+Interpretare lo spettro di emissione del corpo nero utilizzando la legge di distribuzione di Planck.
+
+Determinare le frequenze emesse per transizione tra i livelli energetici dell’atomo di Bohr.
+
+Determinare la lunghezza d’onda, la frequenza, il periodo, la fase e la velocità di un’onda armonica e le
+relazioni tra queste grandezze.
+
+Discutere fenomeni di interferenza con riferimento a onde armoniche sonore o elettromagnetiche emesse da
+due sorgenti coerenti.
+
+Discutere anche quantitativamente il dualismo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">o</span><span class="mord mathnormal">n</span><span class="mord mathnormal">d</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">cor</span><span class="mord mathnormal">p</span><span class="mord mathnormal">u</span><span class="mord mathnormal">sco</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">o</span><span class="mord">.</span></span></span></span>
+
+Descrivere la condizione di quantizzazione dell’atomo di Bohr usando la relazione di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">De</span></span></span></span> Broglie.
+
+Applicare l’equazione di Einstein dell’effetto fotoelettrico.
+
+Descrivere l’azione delle forze gravitazionali elettriche e magnetiche mediante il concetto di campo.
+Rappresentare un campo elettrico o magnetico utilizzando le linee di forza.
+
+Utilizzare il teorema di Gauss per determinare le caratteristiche di campi elettrici generati da distribuzioni
+simmetriche di cariche e per discutere il comportamento delle cariche elettriche nei metalli.
+
+Utilizzare il teorema di Ampère per determinare le caratteristiche di un campo magnetico generato da un filo
+percorso da corrente e da un solenoide ideale.
+
+Descrivere e interpretare fenomeni di induzione elettromagnetica e ricavare correnti e forze elettromotrici
+indotte.
+
+Determinare la forza agente su un filo di lunghezza infinita percorso da corrente in presenza di un campo
+magnetico, la forza tra due fili di lunghezza infinita paralleli percorsi da corrente e la forza che agisce su un
+ramo di un circuito in moto in un campo magnetico per effetto della corrente indotta. Determinare il</p>
+<p>momento delle forze magnetiche agenti su una spira percorsa da corrente in presenza di un campo
+magnetico uniforme.</p>
+<p>Griglia di valutazione per l’attribuzione dei punteggi</p>
+<p>Indicatore (correlato agli obiettivi della prova)
+Punteggio max per ogni
+indicatore (totale <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">20</span><span class="mclose">)</span></span></span></span>
+Analizzare
+Esaminare la situazione fisica proposta formulando le ipotesi
+esplicative attraverso modelli o analogie o leggi.</p>
+<p>Sviluppare il processo risolutivo
+Formalizzare situazioni problematiche e applicare gli
+strumenti matematici e disciplinari rilevanti per la loro
+risoluzione.</p>
+<p>Interpretare criticamente i dati
+Interpretare <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> elaborare i dati proposti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> ricavati, anche
+di natura sperimentale, verificandone la pertinenza al
+modello scelto.</p>
+<p>Argomentare
+Descrivere il processo risolutivo adottato e comunicare i
+risultati ottenuti valutandone la coerenza con la situazione
+problematica proposta.</p>
+<p>DISCIPLINA: SCIENZE NATURALI</p>
+<p>Caratteristiche della prova d’esame</p>
+<p>La prova consiste nella soluzione di un problema a scelta del candidato tra tre proposte e nella risposta a
+quattro quesiti tra otto proposte. Nell’ambito del curricolo di Scienze Applicate la disciplina “Scienze
+naturali” risulta composta da tre aree disciplinari - Chimica, Biologia e Scienze della Terra - che nella loro
+specificità concorrono alla formazione di un unico sapere scientifico. La prova d’esame è finalizzata <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span>
+accertare l’acquisizione dei nuclei fondamentali di tale sapere, con riferimento alle suddette aree
+disciplinari, nel rispetto delle Indicazioni Nazionali.
+Le abilità descritte negli obiettivi della prova presuppongono una prova in cui allo studente venga data da
+esaminare una situazione descritta da documenti, tabelle, grafici, mappe, formule o analogie e si chieda di
+analizzare la situazione, di formulare ipotesi esplicative, di argomentare le tesi a cui giunge ed infine
+formulare una generalizzazione del fenomeno osservato.</p>
+<p>Durata della prova: da quattro a sei ore</p>
+<p>Nuclei tematici fondamentali</p>
+<p>CHIMICA
+Struttura e proprietà delle molecole
+Termodinamica delle reazioni chimiche
+Metabolismo energetico ed enzimatico
+BIOLOGIA
+Struttura e funzioni delle cellule procariote ed eucariote
+Biologia molecolare e ingegneria genetica
+SCIENZE DELLA TERRA
+Dinamica dell’atmosfera e clima
+Modelli della tettonica globale</p>
+<p>Obiettivi della prova
+Con riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> Nuclei Tematici fondamentali, la prova intende accertare che il candidato sia in grado di:</p>
+<p>
+Correlare la struttura e le proprietà delle molecole con i legami chimici che le costituiscono e con gli stati
+di ibridazione degli atomi.
+
+Riconoscere gli stati di equilibrio anche in soluzione acquosa.
+
+Riconoscere gli aspetti energetici di una reazione chimica.
+
+Correlare gruppi funzionali e reattività dei composti organici e utilizzare i concetti di elettrofilo e nucleofilo
+per interpretare le reazioni organiche.
+
+Mettere in relazione la cinetica chimica con i meccanismi di catalisi.
+
+Interpretare le trasformazioni energetiche che sono alla base della vita.
+
+Correlare la struttura cellulare con la funzione espletata.
+
+Utilizzare i modelli della genetica classica per interpretare l’ereditarietà dei caratteri.
+
+Correlare la struttura del DNA con la sua funzione di molecola alla base dell’ereditarietà.
+
+Individuare il ruolo delle modificazioni genetiche nelle malattie ereditarie e nei processi evolutivi.
+
+Mettere in relazione la struttura dinamica del DNA con i meccanismi di regolazione.
+
+Individuare e scegliere le tecniche di ingegneria genetica da utilizzare in una specifica applicazione.
+
+Costruire modelli meteorologici a partire da dati sperimentali.
+
+Leggere carte meteorologiche.
+
+Conoscere la differenza fra clima e tempo meteorologico.
+
+Individuare le aree attive del Pianeta caratterizzandole dal punto di vista sismico e vulcanico.
+
+Utilizzare la magnetizzazione delle rocce come strumento per ricostruire i movimenti delle placche nel
+tempo .
+
+Interpretare, alla luce della teoria della Tettonica globale, i fenomeni geologici <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> margini di placca.</p>
+<p>Griglia di valutazione per l’attribuzione dei punteggi</p>
+<p>Indicatore (correlato agli obiettivi della prova)
+Punteggio max per
+ogni indicatore (totale
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">20</span><span class="mclose">)</span></span></span></span>
+Analizzare
+Analizzare le situazioni proposte, individuando gli aspetti
+significativi del fenomeno, analogie, connessioni e rapporti di
+causa ed effetto.
+Indagare
+Formulare ipotesi coerenti con l’analisi effettuata, costruendo
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> applicando modelli interpretativi adeguati. Utilizzare
+opportunamente procedure di calcolo, tabelle, schemi e grafici.
+Comunicare
+Organizzare e presentare i contenuti in maniera chiara ed
+efficace utilizzando i linguaggi specifici disciplinari e gli opportuni
+strumenti di comunicazione (grafici, tabelle, formule, schemi,
+mappe concettuali, disegni..).
+Applicare e trasferire
+Astrarre, generalizzare e trasferire le strategie in altri contesti o
+situazioni nuove. Valutare criticamente i processi attuati e i
+risultati ottenuti in relazione agli obiettivi prefissati.</p>
+<p>GRIGLIA INTEGRATA (DA UTILIZZARE NEL CASO IN CUI LA PROVA COINVOLGA PIU’ DISCIPLINE)</p>
+<p>Nel caso in cui la scelta del D.M. emanato annualmente <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> sensi dell’art. <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">17</span><span class="mpunct">,</span></span></span></span> comma <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">7</span></span></span></span> del <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord">.</span></span></span></span> Lgs. <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">62/2017</span></span></span></span>
+ricada su una prova concernente più discipline, la traccia sarà predisposta, sia per la prima parte che per i
+quesiti, in modo da proporre temi, argomenti, situazioni problematiche che consentano, in modo integrato,
+di accertare le conoscenze, abilità e competenze attese dal PECUP dell’indirizzo e afferenti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> diversi ambiti
+disciplinari.</p>
+<p>Indicatore (correlato agli obiettivi della prova)
+Punteggio max per ogni
+indicatore (totale <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">20</span><span class="mclose">)</span></span></span></span>
+Analizzare
+Esaminare la situazione problematica proposta individuando
+gli aspetti significativi del fenomeno e formulando le ipotesi
+esplicative attraverso modelli, analogie o leggi.</p>
+<p>Sviluppare il processo risolutivo
+Formalizzare situazioni problematiche e applicare i concetti
+e i metodi matematici e gli strumenti disciplinari rilevanti per
+la loro risoluzione, eseguendo i calcoli necessari.</p>
+<p>Interpretare, rappresentare, elaborare i dati
+Interpretare <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> elaborare i dati proposti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> ricavati, anche
+di natura sperimentale, verificandone la pertinenza al
+modello scelto. Rappresentare e collegare i dati adoperando
+i necessari codici <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mord mathnormal">i</span><span class="mord mathnormal">co</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">imb</span><span class="mord mathnormal">o</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">i</span><span class="mord mathnormal">c</span><span class="mord mathnormal">i</span><span class="mord">.</span></span></span></span></p>
+<p>Argomentare
+Descrivere il processo risolutivo adottato, la strategia
+risolutiva e i passaggi fondamentali. Comunicare i risultati
+ottenuti valutandone la coerenza con la situazione
+problematica proposta e utilizzando i linguaggi specifici
+disciplinari.</p>
+<p>Quadro di riferimento per la redazione e lo svolgimento</p>
+<p>PERCORSI LICEALI
+CODICE <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord">02</span></span></span></span>
+LICEO SCIENTIFICO</p>
+<p>CODICE <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord">15</span></span></span></span>
+SEZIONI <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">A</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span></span></span></span> INDIRIZZO SPORTIVO DEL LICEO SCIENTIFICO</p>
+<p>DISCIPLINA: MATEMATICA
+Caratteristiche della prova d’esame</p>
+<p>La prova consiste nella soluzione di un problema a scelta del candidato tra due proposte e nella risposta a
+quattro quesiti tra otto proposte.
+Essa è finalizzata <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> accertare l’acquisizione dei principali concetti e metodi della matematica di base,
+anche in una prospettiva <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7429em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">t</span><span class="mord mathnormal" style="margin-right:0.02778em;">or</span><span class="mord mathnormal">i</span><span class="mord mathnormal">co</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.854em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">cr</span><span class="mord mathnormal">i</span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal">c</span><span class="mord mathnormal">a</span><span class="mpunct">,</span></span></span></span> in relazione <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> contenuti previsti dalle vigenti Indicazioni Nazionali
+per l’intero percorso di studio del liceo scientifico.
+In particolare, la prova mira a rilevare la comprensione e la padronanza del metodo dimostrativo nei vari
+ambiti della matematica e la capacità di argomentare correttamente applicando metodi e concetti
+matematici, attraverso l’uso del ragionamento logico.
+In riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> vari nuclei tematici potrà essere richiesta sia la verifica o la dimostrazione di proposizioni,
+anche utilizzando il principio di induzione, sia la costruzione di esempi o controesempi, l’applicazione di
+teoremi o procedure, come anche la costruzione o la discussione di modelli e la risoluzione di problemi.
+I problemi potranno avere carattere astratto, applicativo o anche contenere riferimenti a testi classici o
+momenti storici significativi della matematica. Il ruolo dei calcoli sarà limitato a situazioni semplici e non
+artificiose.
+Durata della prova: da quattro a sei ore
+Nuclei tematici fondamentali
+ARITMETICA E ALGEBRA
+Rappresentazioni dei numeri e operazioni aritmetiche
+Algebra dei polinomi
+Equazioni, disequazioni e sistemi
+GEOMETRIA EUCLIDEA E CARTESIANA
+Triangoli, cerchi, parallelogrammi
+Funzioni circolari
+Sistemi di riferimento e luoghi geometrici
+Figure geometriche nel piano e nello spazio
+INSIEMI E FUNZIONI
+Proprietà delle funzioni e delle successioni
+Funzioni e successioni elementari
+Calcolo differenziale
+Calcolo integrale
+PROBABILITÀ E STATISTICA
+Probabilità di un evento
+Dipendenza probabilistica
+Statistica descrittiva</p>
+<p>Obiettivi della prova
+Con riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> Nuclei Tematici fondamentali, la prova intende accertare che il candidato sia in grado
+di:</p>
+<p>
+Utilizzare le diverse rappresentazioni dei numeri, riconoscendone l’appartenenza agli insiemi <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">Z</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">Q</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span></span></span></span>
+e <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord">.</span></span></span></span> Interpretare geometricamente le operazioni di addizione e di moltiplicazione in <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord">.</span></span></span></span>
+
+Mettere in relazione le radici di un polinomio, i suoi fattori lineari ed i suoi coefficienti. Applicare il
+principio d’identità dei polinomi.
+
+Risolvere, anche per via grafica, equazioni e disequazioni algebriche (e loro sistemi) fino al <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span></span></span></span> grado ed
+equazioni o disequazioni <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> esse riconducibili.
+
+Utilizzare i risultati principali della geometria euclidea, in particolare la geometria del triangolo e del
+cerchio, le proprietà dei parallelogrammi, la similitudine e gli elementi fondamentali della geometria
+solida; dimostrare proposizioni di geometria euclidea, con metodo sintetico o analitico.
+
+Servirsi delle funzioni circolari per esprimere relazioni tra gli elementi di una data configurazione
+geometrica.
+
+Scegliere opportuni sistemi di riferimento per l’analisi di un problema.
+
+Determinare luoghi geometrici a partire da proprietà assegnate.
+
+Porre in relazione equazioni e disequazioni con le corrispondenti parti del piano.
+
+Applicare simmetrie, traslazioni e dilatazioni riconoscendone i rispettivi invarianti.
+
+Studiare rette, coniche e loro intersezioni nel piano nonché rette, piani, superfici sferiche e loro
+intersezioni nello spazio utilizzando le coordinate cartesiane.
+
+Analizzare le proprietà di iniettività, suriettività, invertibilità di funzioni definite su insiemi qualsiasi.
+Riconoscere ed applicare la composizione di funzioni.
+
+Applicare gli elementi di base del calcolo combinatorio.
+
+Analizzare le proprietà di parità, monotonia, periodicità di funzioni definite sull’insieme dei numeri
+reali o su un suo sottoinsieme.
+
+Individuare le caratteristiche fondamentali e i parametri caratteristici delle progressioni aritmetiche e
+geometriche e delle funzioni polinomiali, lineari a tratti, razionali fratte, circolari, esponenziali e
+logaritmiche, modulo e loro composizioni semplici.
+
+A partire dall’espressione analitica di una funzione, individuare le caratteristiche salienti del suo grafico
+e viceversa; a partire dal grafico di una funzione, tracciare i grafici di funzioni correlate: l’inversa (se
+esiste), la reciproca, il modulo, o altre funzioni ottenute con trasformazioni geometriche.
+
+Discutere l’esistenza e determinare il valore del limite di una successione definita con un’espressione
+analitica o per ricorrenza.
+
+Discutere l’esistenza e determinare il valore del limite di una funzione, in particolare i limiti, per <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span> che
+tende a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">0</span><span class="mpunct">,</span></span></span></span> di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">se</span><span class="mord mathnormal">n</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mord">/</span><span class="mord mathnormal">x</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mopen">(</span><span class="mord mathnormal">e</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mclose">)</span><span class="mord">/</span><span class="mord mathnormal">x</span></span></span></span> e limiti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> essi riconducibili.
+
+Riconoscere le caratteristiche di continuità e derivabilità di una funzione e applicare i principali
+teoremi riguardanti la continuità e la derivabilità.
+ Determinare la derivata di una funzione ed interpretarne geometricamente il significato.
+ Applicare il calcolo differenziale a problemi di massimo e minimo.
+
+Analizzare le caratteristiche della funzione integrale di una funzione continua e applicare il teorema
+fondamentale del calcolo integrale.
+ A partire dal grafico di una funzione, tracciare i grafici della sua derivata e di una sua funzione
+integrale.
+ Interpretare geometricamente l’integrale definito e applicarlo al calcolo di aree.</p>
+<p> Determinare primitive di funzioni utilizzando integrali immediati, integrazione per sostituzione o per
+parti.
+ Determinare la probabilità di un evento utilizzando i teoremi fondamentali della probabilità, il calcolo
+combinatorio, il calcolo integrale.
+ Valutare la dipendenza o l’indipendenza di eventi casuali.
+ Analizzare la distribuzione di una variabile casuale o di un insieme di dati e determinarne valori di
+sintesi, quali media, mediana, deviazione standard, varianza.</p>
+<p>Griglia di valutazione per l’attribuzione dei punteggi</p>
+<p>Indicatore (correlato agli obiettivi della prova)
+Punteggio max per ogni
+indicatore (totale <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">20</span><span class="mclose">)</span></span></span></span>
+Comprendere
+Analizzare la situazione problematica. Identificare i dati ed
+interpretarli. Effettuare gli eventuali collegamenti e
+adoperare i codici <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mord mathnormal">i</span><span class="mord mathnormal">co</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">imb</span><span class="mord mathnormal">o</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">i</span><span class="mord mathnormal">c</span><span class="mord mathnormal">i</span></span></span></span> necessari.</p>
+<p>Individuare
+Conoscere i concetti matematici utili alla soluzione.
+Analizzare possibili strategie risolutive ed individuare la
+strategia più adatta.</p>
+<p>Sviluppare il processo risolutivo
+Risolvere la situazione problematica in maniera coerente, completa
+e corretta, applicando le regole ed eseguendo i calcoli necessari.</p>
+<p>Argomentare
+Commentare e giustificare opportunamente la scelta della strategia
+risolutiva, i passaggi fondamentali del processo esecutivo e la
+coerenza dei risultati al contesto del problema.</p>
+<p>DISCIPLINA: FISICA</p>
+<p>Caratteristiche della prova d’esame</p>
+<p>La prova consiste nella soluzione di un problema a scelta del candidato tra due proposte e nella risposta a quattro
+quesiti tra otto proposte.
+Essa è finalizzata <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">a</span><span class="mord mathnormal">d</span></span></span></span> accertare l’acquisizione dei concetti e dei metodi della fisica con riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> Nuclei
+Tematici fondamentali che connettono verticalmente gli argomenti trattati nel percorso di studio, in relazione <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span>
+contenuti previsti dalle vigenti Indicazioni Nazionali per il liceo scientifico.
+In particolare, la prova mira a rilevare la comprensione e la padronanza del metodo scientifico e la capacità di
+argomentazione fisica attraverso l’uso di ipotesi, analogie e leggi fisiche. In riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> vari nuclei tematici
+potrà essere richiesta, relativamente a fenomeni naturali o a esperimenti, la soluzione di problemi attraverso la
+costruzione e discussione di modelli, la formalizzazione matematica, l’argomentazione qualitativa, l’analisi critica
+di dati. La prova potrà contenere riferimenti a testi classici o momenti storici significativi della fisica.</p>
+<p>Durata della prova: da quattro a sei ore</p>
+<p>Nuclei tematici fondamentali
+MISURA E RAPPRESENTAZIONE DI GRANDEZZE FISICHE
+Incertezza di misura
+Rappresentazioni di grandezze fisiche
+SPAZIO, TEMPO E MOTO
+Grandezze cinematiche
+Sistemi di riferimento e trasformazioni
+Moto di un punto materiale e di un corpo rigido
+Cinematica classica e relativistica
+ENERGIA E MATERIA
+Lavoro ed energia
+Conservazione dell’energia
+Trasformazione dell’energia
+Emissione, assorbimento e trasporto di energia
+ONDE E PARTICELLE
+Onde armoniche sonore ed elettromagnetiche
+Fenomeni di interferenza
+Dualismo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">o</span><span class="mord mathnormal">n</span><span class="mord mathnormal">d</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">p</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal">ce</span><span class="mord mathnormal" style="margin-right:0.01968em;">ll</span><span class="mord mathnormal">a</span></span></span></span>
+FORZE E CAMPI
+Rappresentazione di forze mediante il concetto di campo
+Campo gravitazionale
+Campo elettromagnetico
+Induzione elettromagnetica</p>
+<p>Obiettivi della prova
+Con riferimento <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> Nuclei Tematici fondamentali, la prova intende accertare che il candidato sia in grado di:</p>
+<p>
+Rappresentare, anche graficamente, il valore di una grandezza fisica e la sua incertezza nelle unità di misura
+appropriate. Rappresentare e interpretare, tramite un grafico, la relazione tra due grandezze fisiche.
+
+Valutare l’accordo tra i valori sperimentali di grandezze fisiche in relazione alle incertezze di misura al fine di
+descrivere correttamente il fenomeno osservato.
+
+Determinare e discutere il moto di punti materiali e corpi rigidi sotto l’azione di forze.
+
+Utilizzare il concetto di centro di massa nello studio del moto di due punti materiali o di un corpo rigido.
+
+Utilizzare le trasformazioni di Galileo o di Lorentz per esprimere i valori di grandezze cinematiche e
+dinamiche in diversi sistemi di riferimento.
+
+Determinare e discutere il moto relativistico di un punto materiale sotto l’azione di una forza costante o di
+una forza di Lorentz.
+
+Applicare le relazioni relativistiche sulla dilatazione dei tempi e contrazione delle lunghezze e individuare in
+quali casi si applica il limite non relativistico.
+
+Determinare l’energia cinetica di un punto materiale in moto e l’energia potenziale di un punto materiale
+sottoposto a forze.
+
+Mettere in relazione la variazione di energia cinetica, di energia potenziale e di energia meccanica con il
+lavoro fatto dalle forze agenti.
+
+Utilizzare la conservazione dell’energia nello studio del moto di punti materiali e di corpi rigidi e nelle
+trasformazioni tra lavoro e calore.
+
+Determinare la densità di energia di campi elettrici e magnetici e applicare il concetto di trasporto di energia
+da parte di un’onda elettromagnetica.
+
+Applicare l’equivalenza <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">ss</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.854em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">e</span><span class="mord mathnormal">n</span><span class="mord mathnormal" style="margin-right:0.02778em;">er</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal">ia</span></span></span></span> in situazioni concrete tratte da esempi di decadimenti radioattivi,
+reazioni di fissione o di fusione nucleare.
+
+Interpretare lo spettro di emissione del corpo nero utilizzando la legge di distribuzione di Planck.
+
+Determinare le frequenze emesse per transizione tra i livelli energetici dell’atomo di Bohr.
+
+Determinare la lunghezza d’onda, la frequenza, il periodo, la fase e la velocità di un’onda armonica e le
+relazioni tra queste grandezze.
+
+Discutere fenomeni di interferenza con riferimento a onde armoniche sonore o elettromagnetiche emesse da
+due sorgenti coerenti.
+
+Discutere anche quantitativamente il dualismo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">o</span><span class="mord mathnormal">n</span><span class="mord mathnormal">d</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">cor</span><span class="mord mathnormal">p</span><span class="mord mathnormal">u</span><span class="mord mathnormal">sco</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">o</span><span class="mord">.</span></span></span></span>
+
+Descrivere la condizione di quantizzazione dell’atomo di Bohr usando la relazione di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">De</span></span></span></span> Broglie.
+
+Applicare l’equazione di Einstein dell’effetto fotoelettrico.
+
+Descrivere l’azione delle forze gravitazionali elettriche e magnetiche mediante il concetto di campo.
+Rappresentare un campo elettrico o magnetico utilizzando le linee di forza.
+
+Utilizzare il teorema di Gauss per determinare le caratteristiche di campi elettrici generati da distribuzioni
+simmetriche di cariche e per discutere il comportamento delle cariche elettrichenei metalli.
+
+Utilizzare il teorema di Ampère per determinare le caratteristiche di un campo magnetico generato da un filo
+percorso da corrente e da un solenoide ideale.
+
+Descrivere e interpretare fenomeni di induzione elettromagnetica e ricavare correnti e forze elettromotrici
+indotte.
+
+Determinare la forza agente su un filo di lunghezza infinita percorso da corrente in presenza di un campo
+magnetico, la forza tra due fili di lunghezza infinita paralleli percorsi da corrente e la forza che agisce su un
+ramo di un circuito in moto in un campo magnetico per effetto della corrente indotta. Determinare il</p>
+<p>momento delle forze magnetiche agenti su una spira percorsa da corrente in presenza di un campo
+magnetico uniforme.</p>
+<p>Griglia di valutazione per l’attribuzione dei punteggi</p>
+<p>Indicatore (correlato agli obiettivi della prova)
+Punteggio max per ogni
+indicatore (totale <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">20</span><span class="mclose">)</span></span></span></span>
+Analizzare
+Esaminare la situazione fisica proposta formulando le ipotesi
+esplicative attraverso modelli o analogie o leggi.</p>
+<p>Sviluppare il processo risolutivo
+Formalizzare situazioni problematiche e applicare gli
+strumenti matematici e disciplinari rilevanti per la loro
+risoluzione.</p>
+<p>Interpretare criticamente i dati
+Interpretare <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> elaborare i dati proposti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> ricavati, anche
+di natura sperimentale, verificandone la pertinenza al
+modello scelto.</p>
+<p>Argomentare
+Descrivere il processo risolutivo adottato e comunicare i
+risultati ottenuti valutandone la coerenza con la situazione
+problematica proposta.</p>
+<p>GRIGLIA INTEGRATA (DA UTILIZZARE NEL CASO IN CUI LA PROVA COINVOLGA PIU’ DISCIPLINE)</p>
+<p>Nel caso in cui la scelta del D.M. emanato annualmente <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> sensi dell’art. <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">17</span><span class="mpunct">,</span></span></span></span> comma <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">7</span></span></span></span> del <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord">.</span></span></span></span> Lgs. <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">62/2017</span></span></span></span>
+ricada su una prova concernente più discipline, la traccia sarà predisposta, sia per la prima parte che per i
+quesiti, in modo da proporre temi, argomenti, situazioni problematiche che consentano, in modo integrato,
+di accertare le conoscenze, abilità e competenze attese dal PECUP dell’indirizzo e afferenti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">ai</span></span></span></span> diversi ambiti
+disciplinari.</p>
+<p>Indicatore (correlato agli obiettivi della prova)
+Punteggio max per ogni
+indicatore (totale <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">20</span><span class="mclose">)</span></span></span></span>
+Analizzare
+Esaminare la situazione fisica proposta formulando le ipotesi
+esplicative attraverso modelli o analogie o leggi.</p>
+<p>Sviluppare il processo risolutivo
+Formalizzare situazioni problematiche e applicare i concetti
+e i metodi matematici e gli strumenti disciplinari rilevanti per
+la loro risoluzione, eseguendo i calcoli necessari.</p>
+<p>Interpretare, rappresentare, elaborare i dati
+Interpretare <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> elaborare i dati proposti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">e</span><span class="mord">/</span><span class="mord mathnormal">o</span></span></span></span> ricavati, anche
+di natura sperimentale, verificandone la pertinenza al
+modello scelto. Rappresentare e collegare i dati adoperando
+i necessari codici <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mord mathnormal">i</span><span class="mord mathnormal">co</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">imb</span><span class="mord mathnormal">o</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">i</span><span class="mord mathnormal">c</span><span class="mord mathnormal">i</span><span class="mord">.</span></span></span></span></p>
+<p>Argomentare
+Descrivere il processo risolutivo adottato, la strategia
+risolutiva e i passaggi fondamentali. Comunicare i risultati
+ottenuti valutandone la coerenza con la situazione
+problematica proposta.</p>
+<p><span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 3DJ̲" style="color:#cc0000;">3DJ</span>
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 9: 6HVVLRQH̲RUGLQDULD" style="color:#cc0000;">6HVVLRQHRUGLQDULD</span>
+&amp;DOHQGDULRDXVWUDOH
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 8: 6HFRQGD̲SURYDVFULWWD" style="color:#cc0000;">6HFRQGDSURYDVFULWWD</span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord">6</span></span></span></span>0(’,67<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 3: 72̲',,6758=,21(6…" style="color:#cc0000;">72',,6758=,21(6(&amp;21'</span>5,<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 1: ̲683(5,25(" style="color:#cc0000;">683(5,25(</span>
+,QGLUL]]L <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 3: /,̲\pm 6&amp;,(17,),…" style="color:#cc0000;">/,\pm 6&amp;,(17,),&amp;2</span>
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 3: /,̲ 6&amp;,(17,),&amp;2…" style="color:#cc0000;">/, 6&amp;,(17,),&amp;2 23=,21(6&amp;,(1=(</span>33/,&amp;<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">7</span><span class="mopen">(</span></span></span></span>
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 5: 7HPD̲GL0" style="color:#cc0000;">7HPDGL0</span>7(0<span class="katex-error" title="ParseError: KaTeX parse error: Expected 'EOF', got '&amp;' at position 3: 7,&amp;̲" style="color:#cc0000;">7,&amp;</span>H),6,&amp;$$
+,OFDQGLGDWRULVROYDXQRGHLGXHSUREOHPLHULVSRQGDDTXHVLWL
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">352</span></span></span></span><span class="katex"><span class="katex-html" aria-hidden="true"></span></span>6LFRQVLGHULODIXQ]LRQH<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 54: …ሺଵି௫ሻమ
+ݔ൐ͳ
+LQ̲FXLD HE VRQR…" style="color:#cc0000;">݂ሺݔሻൌቐ
+ܽെ
+௕
+ሺଵି௫ሻమ
+Ͳ ൑ݔ൏ͳ
+ܽ൅
+௕
+ሺଵି௫ሻమ
+ݔ൐ͳ
+LQFXLD HE VRQRGXHFRVWDQWLSRVLWLYH</span>6WXGLDUH<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 5: ݂ሺݔሻ̲ DO YDULDUH …" style="color:#cc0000;">݂ሺݔሻ DO YDULDUH GL</span>D<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 2: H̲ E VFULYHQGR…" style="color:#cc0000;">H E VFULYHQGR OH HTXD]LRQL GHJOL DVLQWRWL H VWDELOHQGR VRWWR TXDOL
+FRQGL]LRQLHVLVWHݔ଴ FRQͲ ൑ݔ଴൏ͳLQPRGRFKH݂ሺݔ଴ሻൌͲ'HWHUPLQDUHD HEDIILQFKpVLDEELD
+ݔ଴ൌ
+ଵ
+ଶHODUHWWDGLHTXD]LRQHͳ͸ݔ൅ݕെ ͅ ൌͲ VLDWDQJHQWHDOJUDILFRGL݂ሺݔሻQHOSXQWRቀ
+ଵ
+ଶǢ Ͳቁ</span>3RVWRܽൌͶ HܾൌͳGHWHUPLQDUHO¶DUHDGHOODUHJLRQH5GHOLPLWDWDGDOJUDILFRGL݂ሺݔሻHGDJOLDVVL<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 11: FRRUGLQDWL̲" style="color:#cc0000;">FRRUGLQDWL</span>6L<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 11:  FRQVLGHUL̲ XQD VXSHUILFL…" style="color:#cc0000;"> FRQVLGHUL XQD VXSHUILFLH ߨ SLDQD H LQILQLWD VXOOD TXDOH q GLVWULEXLWD XQD FDULFD SRVLWLYD FRQ GHQVLWj
+XQLIRUPHߪHVSUHVVDLQFRXORPEDOPHWURTXDGUDWR</span>GXQDGLVWDQ]D݀ൌͳ݉GDߨqSRVWDXQDFDULFDT
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 11: SXQWLIRUPH̲HSRVLWLYDHVS…" style="color:#cc0000;">SXQWLIRUPHHSRVLWLYDHVSUHVVDLQFRXORPE6LDV</span> ODVHPLUHWWDSDVVDQWHSHUODFDULFDTFKHKDRULJLQHVXO
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 6: SLDQR̲ߨHGqDGHVVR…" style="color:#cc0000;">SLDQRߨHGqDGHVVRSHUSHQGLFRODUH6LLQGLFKLFRQ3</span> XQJHQHULFRSXQWRGLVDGLVWDQ]Dݔ൒Ͳ GDOSLDQR
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 5: 4XDO̲qODGLUH]LRQH…" style="color:#cc0000;">4XDOqODGLUH]LRQHGHOYHWWRUHFDPSRHOHWWULFRLQ3&quot;9HULILFDUHFKHSHURSSRUWXQLYDORULGHOOHFRVWDQWL</span>
+ILVLFKH <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span></span></span></span> H E OD IXQ]LRQH ݂ሺݔሻHVSULPH O¶LQWHQVLWj H LO YHUVR GHO YHWWRUH FDPSR HOHWWULFR LQ <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 2: 3̲" style="color:#cc0000;">3</span>
+(IIHWWXDUHXQ¶DQDOLVLGLPHQVLRQDOHGHOOHFRVWDQWLD HE
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 11: 9HULILFDUH̲FKHHVLVWHXQS…" style="color:#cc0000;">9HULILFDUHFKHHVLVWHXQSXQWRVXOODVHPLUHWWDVLQFXLLOFDPSRHOHWWULFRqQXOOR6WDELOLUHVHLQWDOH</span>
+SXQWRXQDFDULFDLQTXLHWHDVHFRQGDGHOVXRVHJQRVLWURYHUHEEHLQHTXLOLEULRVWDELOHRSSXUHLQVWDELOH</p>
+<p><span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 3DJ̲" style="color:#cc0000;">3DJ</span>
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 9: 6HVVLRQH̲RUGLQDULD" style="color:#cc0000;">6HVVLRQHRUGLQDULD</span>
+&amp;DOHQGDULRDXVWUDOH
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 8: 6HFRQGD̲SURYDVFULWWD" style="color:#cc0000;">6HFRQGDSURYDVFULWWD</span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">352</span></span></span></span><span class="katex"><span class="katex-html" aria-hidden="true"></span></span>8Q¶RQGDHOHWWURPDJQHWLFDSLDQDVLSURSDJDQHOYXRWRHGqOLQHDUPHQWHSRODUL]]DWD,OFDPSRHOHWWULFRGHOO¶RQGD<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 6: YDULD̲VHFRQGRODOHJJ…" style="color:#cc0000;">YDULDVHFRQGRODOHJJHܧሬԦሺݔǡ ݐሻൌܧ଴ݏ݅݊ሺ݇ݔെ߱ݐሻݕොLQFXLݕොqLOYHUVRUHGHOO¶DVVHݕ
+'HVFULYHUHLQPRGRTXDOLWDWLYRLOPHFFDQLVPRGLJHQHUD]LRQHHSURSDJD]LRQHGLXQ¶RQGDHOHWWURPDJQHWLFD
+HVSHFLILFDUHLOVLJQLILFDWRGL(NȦ</span>1HO<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 5: FDVR̲LQ FXL O¶DPSL…" style="color:#cc0000;">FDVRLQ FXL O¶DPSLH]]DGL RVFLOOD]LRQHVLD ܸȀ݉HODIUHTXHQ]DGL RVFLOOD]LRQHVLDāͳͲହܪݖ
+VFULYHUHO¶HVSUHVVLRQHGHOFDPSRHOHWWULFRHGHOFDPSRPDJQHWLFRGHOO¶RQGDLQGLYLGXDQGRODGLUH]LRQHGL
+RVFLOOD]LRQHGLܤሬԦ</span>HODGLUH]LRQHGLSURSDJD]LRQH*LXVWLILFDUHOHULVSRVWHIRUQLWH<span class="katex"><span class="katex-html" aria-hidden="true"></span></span>6LFRQVLGHULODIXQ]LRQH݂ሺݔሻൌܣݏ݅݊ሺ݇ݔെ߱ݐሻGRYH<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 3:  H̲N VRQRFRVWDQWL…" style="color:#cc0000;"> HN VRQRFRVWDQWLSRVLWLYH߱ൌͳͲ଺ߨHݐൌͷ ڄ ͳͲି଻
+(VSULPHUHLOSHULRGRHO¶LPPDJLQHGL݂ሺݔሻVSHFLILFDQGROHDVFLVVHGHLSXQWLGLPDVVLPRPLQLPRHIOHVVR
+$6WDELOLUHSHUTXDOLYDORULGL</span> HN <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 11: O¶LPPDJLQH̲GL݂ሺݔሻFRLQFLGH…" style="color:#cc0000;">O¶LPPDJLQHGL݂ሺݔሻFRLQFLGHFRQO¶LQWHUYDOOR>@HLOSHULRGRq</span>
+గ
+ଶ
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 6: 3UHVL̲ܣൌʹ" style="color:#cc0000;">3UHVLܣൌʹ</span> H݇ൌͶGHWHUPLQDUHO¶DUHDGHOLPLWDWDGDOJUDILFRGHOODIXQ]LRQH݃ሺݔሻൌሾ݂ሺݔሻሿଶHGDOO¶DVVH
+GHOOHDVFLVVHLQXQSHULRGR&amp;RVDUDSSUHVHQWDQRSHULOJUDILFRGHOOD ݃ሺݔሻLSXQWLGLIOHVVRGHOOD݂ሺݔሻ”
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 8: 48(6,7,̲" style="color:#cc0000;">48(6,7,</span>
+ ‘HWHUPLQDUHJLXVWLILFDQGRODULVSRVWDWXWWLLSRVVLELOLLYDORULGLܽǡ ܾǡ ܿLQPRGRWDOHFKHVLDEELD
+
+௫՜ାஶ
+ܽݔ௕൅ ͅݔସ൅ܿݔଷ൅͹
+ͳ͵ݔଶ൅͵ݔଷെͷ
+ൌ͵
+ ‘HWHUPLQDUHOHDVFLVVHGHLSXQWLGLPDVVLPRHGLPLQLPRORFDOLGHOODIXQ]LRQH
+݂ሺݔሻൌන൫͵ହ௧ିଶ௧మെͳ൯݀ݐ
+ସ
+Ǥ
+ <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 9: VVHJQDWR̲XQWULDQJRORܣܤ…" style="color:#cc0000;">VVHJQDWRXQWULDQJRORܣܤܥRWWXVDQJRORLQܣVLDQRܤԢ HܥԢULVSHWWLYDPHQWHLSLHGLGHOOHDOWH]]H
+FRQGRWWHGDLYHUWLFLܤHܥ'LPRVWUDUHFKHLOTXDGULODWHURܤܤԢܥԢܥqLQVFULYLELOHLQXQDFLUFRQIHUHQ]DH
+FKHLWULDQJROLܣܤܥHܣܤԢܥԢ VRQRVLPLOL
+ </span>VVHJQDWLQHOORVSD]LRLSXQWLܣሺͳǡ Ͳǡ െͳሻHܤሺെ͵ǡ െʹǡ <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 3: Ͳሻ̲VLDݎODUHWWD…" style="color:#cc0000;">ͲሻVLDݎODUHWWDSDVVDQWHSHUܣHܤ6FULYHUH</span>
+O¶HTXD]LRQH GHO SLDQR ʌ SDVVDQWH SHU LO SXQWR ܲሺെͳǡ ͵ǡ Ͷሻ
+H SHUSHQGLFRODUH D ݎ
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 12: 'HWHUPLQDUH̲OHFRRUGLQDWHG…" style="color:#cc0000;">'HWHUPLQDUHOHFRRUGLQDWHGHOSXQWR4VLPPHWULFRGL3ULVSHWWRDݎ</span>
+ <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 8QD̲VFDWRODFRQWLHQ…" style="color:#cc0000;">8QDVFDWRODFRQWLHQHSDOOLQHJLDOOHHEOXXQDVHFRQGDVFDWRODFRQWLHQHSDOOLQHEOXHJLDOOH</span>
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 8QD̲SHUVRQDHVWUDH…" style="color:#cc0000;">8QDSHUVRQDHVWUDHDVRUWHSDOOLQHGDOODSULPDVFDWRODHOHPHWWHQHOODVHFRQGD</span>TXHVWRSXQWR<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 9: XQ¶DOWUD̲ SHUVRQD HVWUD…" style="color:#cc0000;">XQ¶DOWUD SHUVRQD HVWUDH D VRUWH  SDOOLQH GDOOD VHFRQGD VFDWROD H OH ULPHWWH QHOOD SULPD</span>4XDO$ q OD
+SUREDELOLWjFKHDOODILQHLQFLDVFXQDGHOOHGXHVFDWROHLOQXPHURGLSDOOLQHJLDOOHHEOXVLDORVWHVVRFKH
+DOO¶LQL]LR”</p>
+<p><span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 3DJ̲" style="color:#cc0000;">3DJ</span>
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 9: 6HVVLRQH̲RUGLQDULD" style="color:#cc0000;">6HVVLRQHRUGLQDULD</span>
+&amp;DOHQGDULRDXVWUDOH
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 8: 6HFRQGD̲SURYDVFULWWD" style="color:#cc0000;">6HFRQGDSURYDVFULWWD</span>
+ <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 8QD̲SDUWLFHOODߙGX…" style="color:#cc0000;">8QDSDUWLFHOODߙGXHSURWRQLHGXHQHXWURQLHQWUDLQXQFRQGHQVDWRUHSLDQRDWWUDYHUVRXQIRURSUDWLFDWR</span>
+VXOO¶DUPDWXUDQHJDWLYDSHUSHQGLFRODUPHQWHDTXHVWDFRQYHORFLWjݒ଴ൌ͸Ǥͻ͵ ڄ ͳͲସ௠
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 2: ௦̲/DGLVWDQ]DWU…" style="color:#cc0000;"><span class="brahmic_fallback">௦/DGLVWDQ]DWUD</span></span>
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 3: OH̲DUPDWXUHq݀ൌͳͲ…" style="color:#cc0000;">OHDUPDWXUHq݀ൌͳͲǤͲܿ݉HGHVVHVRQRVRJJHWWHDGXQDGGSGLʹͲͲܸ4XDOHGLVWDQ]DSHUFRUUHUjOD</span>
+SDUWLFHOOD DOO¶LQWHUQR GHO FRQGHQVDWRUH SULPD GL LQYHUWLUH LO VXR PRWR” FRQVLGHUDUH OD PDVVD GHO
+QHXWURQHXJXDOHDTXHOODGHOSURWRQH
+ <span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 8QD̲VSLUDTXDGUDWD…" style="color:#cc0000;">8QDVSLUDTXDGUDWDGLODWR݈ൌʹͲܿ݉qSHUFRUVDGDXQDFRUUHQWHGLLQWHQVLWj݅ൌͲǤͷͲܣHGqLPPHUVD</span>
+LQXQFDPSRPDJQHWLFRXQLIRUPHGLLQWHQVLWj ܤൌͲǤͳͲܶHGLUH]LRQHSDUDOOHODDOSLDQRGHOODVSLUD
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 7: VWHVVD̲/DVSLUDqWHQ…" style="color:#cc0000;">VWHVVD/DVSLUDqWHQXWDLQHTXLOLEULRGDXQDFRSSLDGLPROOHGLFRVWDQWHHODVWLFDܭൌʹܰȀ݉FRPHLQ</span>
+ILJXUD‘HWHUPLQDUHO¶DOOXQJDPHQWRGHOOHPROOH HVWDELOLUHLOYHUVRGHOODFRUUHQWH
+ ,Q XQ GDWR VLVWHPD GL ULIHULPHQWR LO SRWHQ]LDOH HOHWWULFR YDULD VHFRQGR OD OHJJH ܸሺݔሻൌܣݔଶ݁ି஻௫
+FRQ<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 2: H̲% FRVWDQWLILVL…" style="color:#cc0000;">H% FRVWDQWLILVLFKHSRVLWLYH GLFXLVLFKLHGRQROHXQLWjGLPLVXUD'HWHUPLQDUHODSRVL]LRQHLQFXL
+LOPRGXORGHOFDPSRHOHWWURVWDWLFRqPDVVLPRHGLOYDORUHFKHDVVXPHLQWDOHSRVL]LRQH
+PDVVDGHOSURWRQH
+$$ PS $$
+ā</span>NJ<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 9: FRVWDQWH̲GLHOHWWULFDGHO…" style="color:#cc0000;">FRVWDQWHGLHOHWWULFDGHOYXRWR
+İ
+ā )P
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+'XUDWDPDVVLPDGHOODSURYDRUH
+Ê FRQVHQWLWR O¶XVR GL FDOFRODWULFL VFLHQWLILFKH HR JUDILFKH SXUFKp QRQ VLDQR GRWDWH GL FDSDFLWj GL FDOFROR VLPEROLFR</span>20Q<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 3: UW̲FRPPD" style="color:#cc0000;">UWFRPPD</span> 
+ÊFRQVHQWLWRO¶XVRGHOGL]LRQDULRELOLQJXHLWDOLDQROLQJXDGHOSDHVHGLSURYHQLHQ]DSHULFDQGLGDWLGLPDGUHOLQJXDQRQLWDOLDQD
+<span class="katex-error" title="ParseError: KaTeX parse error: Unexpected character: '' at position 4: 1RQ̲qFRQVHQWLWROD…" style="color:#cc0000;">1RQqFRQVHQWLWRODVFLDUHO¶,VWLWXWRSULPDFKHVLDQRWUDVFRUVHRUHGDOODGHWWDWXUD</span> GHOWHPD</p>
+<p><em>Fonte:</em> <a href="../static/pdf/Prova_Maturita_2019.pdf#page=26" class="internal alias" data-slug="static/pdf/Prova_Maturita_2019.pdf">📄 PDF p.26</a></p>
+<p><a href=".././tags/maturita/soluzione" class="tag-link internal alias" data-slug="tags/maturita/soluzione">soluzione</a> <a href=".././tags/area/analisi" class="tag-link internal alias" data-slug="tags/area/analisi">analisi</a> <a href=".././tags/cluster/studio_di_funzione" class="tag-link internal alias" data-slug="tags/cluster/studio_di_funzione">studio_di_funzione</a></p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-2" class="overflow"><li><a href="../Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_8" class="internal">2019 Ordinaria — Prova — Quesito 8</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-maturita">GitHub</a></li><li><a href="https://quartz.jzhao.xyz/">Generato con Quartz</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../postscript.js" type="module"></script></html>
