@@ -164,3 +164,23 @@ details.cerca-facet > summary { font-family: var(--titleFont); }
 .page-title { font-weight: 800; }
 blockquote { border-left: 3px solid var(--accent-teal); }
 .graph .graph-outer, .explorer { border-radius: var(--radius); }
+
+// On-demand graph: the local/global graph is NOT rendered on page load (too heavy
+// for low-RAM phones — pixi scene + force sim). A button builds it on click.
+.graph-load-btn {
+  width: 100%;
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.9rem;
+  color: var(--secondary);
+  background: var(--light);
+  border: 1.4px dashed var(--lightgray); border-radius: var(--radius);
+  padding: 0.9rem 1rem; cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+.graph-load-btn:hover {
+  border-color: var(--accent-orange); border-style: solid;
+  background: var(--highlight);
+}
+.graph-loading {
+  color: var(--gray); font-size: 0.9rem; text-align: center;
+  padding: 0.9rem 1rem;
+}
