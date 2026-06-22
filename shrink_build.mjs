@@ -47,14 +47,15 @@ async function stubFolderPage(rel, redirectTo, label) {
 }
 
 await shrinkIndex()
-// From /Folder/index.html, "../cerca/" is the faceted search page (best browse entry).
+// Stub only the genuinely heavy listings (>500KB). From /Folder/index.html,
+// "../cerca" resolves to the faceted search page (emitted as cerca.html, NO
+// trailing slash — "../cerca/" would 404). Prove (~424KB) and Soluzioni (~196KB)
+// are left as real browsable pages.
 for (const [folder, label] of [
   ["Svolgimenti", "Cerca svolgimenti"],
   ["Quesiti", "Cerca quesiti"],
   ["Problemi", "Cerca problemi"],
-  ["Soluzioni", "Cerca soluzioni"],
-  ["Prove", "Cerca prove"],
 ]) {
-  await stubFolderPage(`${folder}/index.html`, "../cerca/", label)
+  await stubFolderPage(`${folder}/index.html`, "../cerca", label)
 }
 console.log("shrink_build done")
