@@ -12,10 +12,8 @@ tags:
 title: 'Simulazione Zanichelli 2024 — SimZan parte3 #2'
 ---
 
-# Simulazione Zanichelli 2024 — SimZan parte3 #2
-
-Fonte:  · p.32 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -30,11 +28,11 @@ dove $k$ è un parametro reale non nullo, e indica con $\gamma_k$ il suo grafico
 3. Studia la funzione $f(x)$ e traccia il grafico $\gamma$.
 4. Determina l'area della regione finita di piano $R_1$ delimitata da $\gamma$, dal suo asintoto orizzontale e dall'asse delle ordinate, e l'area della regione finita di piano $R_2$ delimitata da $\gamma$ e dall'asse delle ascisse. Qual è la regione con area maggiore?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.32
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.32](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Problema 2
 
@@ -49,11 +47,11 @@ con $a$ e $b$ parametri reali non nulli.
 3. Calcola l'area della regione finita di piano compresa tra il grafico della funzione $f(x)$, la sua tangente inflessionale in $F$ e la retta di equazione $x=2$.
 4. Stabilisci se la funzione $|f(x)|$ soddisfa tutte le ipotesi del teorema di Lagrange nell'intervallo $[1;e]$. Utilizza poi il grafico di $|f(x)|$ per discutere il numero delle soluzioni dell'equazione $|f(x)|=k$ nell'intervallo $[1;e]$ al variare del parametro reale $k$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.32
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.32](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 1
 
@@ -64,7 +62,7 @@ con $a$ e $b$ parametri reali non nulli.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 2
 
@@ -73,7 +71,7 @@ con $a$ e $b$ parametri reali non nulli.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 3
 
@@ -89,7 +87,7 @@ con $a$ e $b$ parametri reali non nulli.
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 4
 
@@ -98,7 +96,7 @@ con $a$ e $b$ parametri reali non nulli.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 5
 
@@ -106,11 +104,11 @@ con $a$ e $b$ parametri reali non nulli.
 $$f(x)=\frac{a-2x}{x-3},\qquad g(x)=\frac{b-2x}{x+2}$$
 ricava i valori di $a$ e $b$ per i quali i grafici di $f(x)$ e $g(x)$ si intersecano in un punto $P$ di ascissa $x=2$ e hanno in tale punto rette tangenti tra loro perpendicolari. Verificato che esistono due coppie di funzioni $f_1(x),\,g_1(x)$ e $f_2(x),\,g_2(x)$ che soddisfano le richieste, mostra che le due funzioni $f_1(x)$ e $f_2(x)$ si corrispondono in una simmetria assiale di asse $y=-1$, così come $g_1(x)$ e $g_2(x)$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Geometria Analitica (piano)]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 6
 
@@ -120,7 +118,7 @@ $$\lim_{x\to 0}\frac{\sin x-x+ax^3}{2x(1-\cos x)}=\frac{17}{6}.$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 7
 
@@ -128,21 +126,21 @@ $$\lim_{x\to 0}\frac{\sin x-x+ax^3}{2x(1-\cos x)}=\frac{17}{6}.$$
 $$y=ax^3+bx^2+cx+d$$
 dimostra che le rette tangenti al grafico in punti con ascissa simmetrica rispetto al punto di flesso $F$ sono parallele tra loro. Considera la funzione di equazione $y=x^3-6x^2+9x-2$ e scrivi le equazioni delle rette tangenti al suo grafico $\gamma$ nei punti $A$ e $B$, dove $A$ è il punto di $\gamma$ di ascissa $x=1$ e $B$ è il suo simmetrico rispetto al flesso.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 8
 
 8. In figura è rappresentato il grafico $\gamma$ della funzione $y=xe^{-x^2}$. *(figura nel PDF)* Trova le tangenti inflessionali di $\gamma$, poi verifica che le aree delle due regioni di piano delimitate da $\gamma$ e da ciascuna delle tangenti sono uguali.
 
-**Topic:** [[Calcolo Integrale]], [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Calcolo Integrale]], [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

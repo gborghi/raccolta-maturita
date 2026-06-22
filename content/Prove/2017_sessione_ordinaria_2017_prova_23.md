@@ -12,12 +12,16 @@ tags:
 title: 2017 Ordinaria — Prova (Scientifico)
 ---
 
-# 2017 Ordinaria — Prova (Scientifico)
-
-Fonte:  · p.23 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2017_sessione_ordinaria_2017_prova_23/2017_sessione_ordinaria_2017_prova_23_fig.svg]]
+*Figura 2: piano cartesiano con la ruota quadrata (lato $DE=2$, centro $C(x,d)$, vertici $D$ ed $E$) e il profilo della pedana $y=f(x)$, una gobba sull'intervallo $[-a,a]$.*
+
+<!--fig:end-->
 
 Si può pedalare agevolmente su una bicicletta a ruote quadrate? A New York, al MoMath – Museum of Mathematics si può fare, in uno dei padiglioni dedicati al divertimento matematico (figura 1). È però necessario che il profilo della pedana su cui il lato della ruota può scorrere soddisfi alcuni requisiti.
 
@@ -45,11 +49,11 @@ se replicato varie volte, può rappresentare il profilo di una pedana adatta a e
 
 4) Individua tale poligono regolare, motivando la risposta.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Problema 2
 
@@ -74,11 +78,11 @@ discuti, anche con argomentazioni qualitative, le variazioni (in aumento o in di
 
 4) Determina infine il volume del solido generato dalla rotazione attorno all'asse $y$ della porzione di piano compresa tra il grafico della funzione $h$ per $x\in[0;3]$ e l'asse delle $x$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 1
 
@@ -91,7 +95,7 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.39
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 2
 
@@ -100,7 +104,7 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.39
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 3
 
@@ -111,7 +115,7 @@ determinare i valori di $a$ e $b$.
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 4
 
@@ -122,7 +126,7 @@ Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il 
 **Topic:** [[Probabilita]], [[Calcolo Integrale]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Integrazione (calcolo di integrali)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 5
 
@@ -131,7 +135,7 @@ Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il 
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 6
 
@@ -142,7 +146,7 @@ sia un numero reale non nullo.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.43
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 7
 
@@ -153,7 +157,7 @@ nel suo punto $P$ di coordinate $(1,0,2)$.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.43
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 8
 
@@ -162,7 +166,7 @@ nel suo punto $P$ di coordinate $(1,0,2)$.
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.44
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 9
 
@@ -170,11 +174,11 @@ nel suo punto $P$ di coordinate $(1,0,2)$.
 $$\operatorname{arctg}(x)+x^3+e^x=0$$
 ha una e una sola soluzione reale.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.45
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
 
@@ -182,11 +186,11 @@ ha una e una sola soluzione reale.
 $$f(x)=|4-x^2|$$
 verificare che essa non soddisfa tutte le ipotesi del teorema di Rolle nell'intervallo $[-3;3]$ e che comunque esiste almeno un punto dell'intervallo $[-3;3]$ in cui la derivata prima di $f(x)$ si annulla. Questo esempio contraddice il teorema di Rolle? Motivare la risposta in maniera esauriente.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.45
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49
+title: 2012 Comunicazione Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49
 
 ## Quesito 1
 

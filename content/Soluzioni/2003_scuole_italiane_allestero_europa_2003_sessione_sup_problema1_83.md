@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2003_scuole_italiane_allestero_europa_2003_sessione_sup_problema1_83
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: >-
-  Soluzioni —
-  2003_scuole_italiane_allestero_europa_2003_sessione_sup_problema1_83
+title: 2003 Europa Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2003_scuole_italiane_allestero_europa_2003_sessione_sup_problema1_83
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2003
 Sessione $Suppletiva-$ Problema $1$

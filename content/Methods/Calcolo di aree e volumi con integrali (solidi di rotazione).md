@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Calcolo di aree e volumi con integrali (solidi di rotazione)
-
 *Metodo risolutivo* — **545** problemi/quesiti.
 
 ## Problemi e quesiti

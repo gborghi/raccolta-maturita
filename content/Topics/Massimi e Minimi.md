@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Massimi e Minimi
-
 *Argomento* — **394** problemi/quesiti.
 
 ## Problemi e quesiti

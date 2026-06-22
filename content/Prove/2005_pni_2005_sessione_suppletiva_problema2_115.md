@@ -12,12 +12,9 @@ tags:
 title: 2005 PNI Suppletiva — Problema 2
 ---
 
-# 2005 PNI Suppletiva — Problema 2
+Fonte: p.115 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.115 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 È assegnata la funzione $f_a(x) = \dfrac{a}{1+x^2}$, dove $a$ è un parametro reale non nullo.
 
@@ -31,11 +28,11 @@ Fonte:  · p.115 · 📄 Apri PDF
 
 **5)** Verificare che esiste un valore $a'$ di $a$ per il quale la funzione si può considerare la densità di probabilità di una variabile aleatoria continua e determinare la funzione di distribuzione di tale variabile.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Probabilita]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Probabilita]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Analisi e interpretazione di dati e probabilita]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2005_pni_2005_sessione_suppletiva_problema2_115#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.115
+**Soluzione:** [[Soluzioni/2005_pni_2005_sessione_suppletiva_problema2_115#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.115](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

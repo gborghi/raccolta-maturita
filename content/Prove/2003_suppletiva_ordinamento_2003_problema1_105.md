@@ -12,12 +12,9 @@ tags:
 title: 2003 Suppletiva Ordinamento — Problema 1
 ---
 
-# 2003 Suppletiva Ordinamento — Problema 1
-
-Fonte:  · p.105 · 📄 Apri PDF
+Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Del triangolo $ABC$ si hanno le seguenti informazioni:
 $$\overline{AB}=3\,\text{cm}\qquad \overline{AC}=2\,\text{cm}\qquad C\hat{A}B=60°$$
@@ -35,7 +32,7 @@ Si tracci la bisettrice di $C\hat{A}B$ e se ne indichi con $D$ l'intersezione co
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]], [[Massimi e Minimi]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_problema1_105#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.105
+**Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_problema1_105#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.105](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

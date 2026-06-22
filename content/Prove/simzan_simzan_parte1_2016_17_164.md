@@ -12,12 +12,16 @@ tags:
 title: 'Simulazione Zanichelli 2016 — SimZan parte1 #17'
 ---
 
-# Simulazione Zanichelli 2016 — SimZan parte1 #17
-
-Fonte:  · p.164 · 📄 Apri PDF
+Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/simzan_simzan_parte1_2016_17_164/simzan_simzan_parte1_2016_17_164_fig.png]]
+*Modello dello scafo: prisma retto a base trapezia isoscele ABCD (altezza 3 m; basi 2 m e 10/9 m; lato 1 m) in vista assonometrica, e sezione trasversale nel riferimento Oxy con le due curve gamma_1 e gamma_2 dell'arco AB.*
+<!--fig:end-->
+
 
 In uno studio di progettazione navale si vuole realizzare il modello in scala ridotta dello scafo di una nave, per sottoporlo a vari test fluidodinamici. Il modello deve essere ricavato da un blocco omogeneo di materiale plastico in forma di prisma retto, di altezza 3 m, avente per base il trapezio isoscele $ABCD$, le cui misure sono riportate in figura.
 
@@ -39,11 +43,11 @@ d) Calcola, in percentuale rispetto al volume totale del blocco prismatico inizi
 
 e) Per la sezione della superficie interna invece non ci sono dubbi: deve essere una curva $\gamma_3$ di equazione $y=kx^4+h$. Determina i valori di $k$ e $h$ tenendo conto che $\gamma_1$, $\gamma_2$ e $\gamma_3$ devono essere tangenti in $A$ e in $B$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
 
@@ -75,11 +79,11 @@ Assumendo quindi, da qui in avanti, che $f(x)$ sia la funzione definita da quest
 
 e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$ di $f(x)$ nell'intervallo $[0;8]$. Determina poi il volume $\bar{V}$ del cilindro ottenuto dalla rotazione intorno all'asse delle ascisse del sottografico della funzione costante $y=\bar{f}$ nell'intervallo $[0;8]$ e il volume $V$ del solido che si ottiene ruotando il grafico della funzione $f(x)$ di 360° intorno all'asse delle ascisse. Calcola infine di quanto differisce, in percentuale rispetto a $V$, approssimata al decimo, il volume $\bar{V}$ dal volume $V$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 1
 
@@ -88,7 +92,7 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
 
@@ -97,7 +101,7 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
 
@@ -106,7 +110,7 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
 
@@ -115,7 +119,7 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
 
@@ -126,7 +130,7 @@ e calcola, se esistono, i seguenti limiti: $\displaystyle\lim_{x\to+\infty} f(x)
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 6
 
@@ -135,7 +139,7 @@ e calcola, se esistono, i seguenti limiti: $\displaystyle\lim_{x\to+\infty} f(x)
 **Topic:** [[Probabilita]], [[Statistica]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
 
@@ -147,7 +151,7 @@ $$\lim_{x\to 0}\frac{g(x)}{f(x)}.$$
 **Topic:** [[Funzioni Integrali]], [[Limiti e Continuita]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
 
@@ -156,17 +160,17 @@ $$\lim_{x\to 0}\frac{g(x)}{f(x)}.$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 9
 
 9. Determina l'espressione analitica della funzione $f(x)$ sapendo che il suo grafico è tangente alla retta di equazione $y=4x-2$ in un punto del primo quadrante e che la sua derivata prima è $f'(x)=x^3-3x$. Rappresenta quindi il grafico di $f(x)$, verificando che è una funzione pari. Dimostra, in generale, che se $f(x)$ è una funzione pari, allora $f'(x)$ è dispari e $f''(x)$ è pari.
 
-**Topic:** [[Calcolo Integrale]], [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
 
@@ -174,11 +178,11 @@ $$\lim_{x\to 0}\frac{g(x)}{f(x)}.$$
     a) Traccia il grafico della funzione $f'(x)$, indicando in particolare il dominio, gli zeri, il segno e le coordinate dei massimi e dei minimi.
     b) Sapendo che $f(x)$ è una funzione polinomiale di quarto grado, ricava la sua espressione analitica e calcola quindi l'espressione di $f'(x)$; stabilisci infine se la funzione $f'(x)$ così ricavata è in accordo con il grafico disegnato al punto precedente. *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

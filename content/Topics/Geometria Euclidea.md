@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Geometria Euclidea
-
 *Argomento* — **330** problemi/quesiti.
 
 ## Problemi e quesiti

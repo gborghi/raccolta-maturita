@@ -69,7 +69,19 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({
+        renderEngine: "katex",
+        // custom macros used by the maturita-book solutions (\R \N \Z \de \wideparen)
+        katexOptions: {
+          macros: {
+            "\\R": "\\mathbb{R}",
+            "\\N": "\\mathbb{N}",
+            "\\Z": "\\mathbb{Z}",
+            "\\de": "\\,\\mathrm{d}",
+            "\\wideparen": "\\overset{\\frown}{#1}",
+          },
+        },
+      }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

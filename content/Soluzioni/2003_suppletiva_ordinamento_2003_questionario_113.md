@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2003_suppletiva_ordinamento_2003_questionario_113
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_suppletiva_ordinamento_2003_questionario_113
+title: 2003 Suppletiva Ordinamento — Questionario — Svolgimento
 ---
-# Soluzioni — 2003_suppletiva_ordinamento_2003_questionario_113
 
 ## Quesito 1
 

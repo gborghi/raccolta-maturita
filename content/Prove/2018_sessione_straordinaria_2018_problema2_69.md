@@ -12,12 +12,9 @@ tags:
 title: 2018 Sessione straordinaria — Problema 2
 ---
 
-# 2018 Sessione straordinaria — Problema 2
+Fonte: p.69 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.69 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, così definita:
 
@@ -43,11 +40,11 @@ al variare di $a,b,c$ parametri reali positivi.
 
    $$A>S.$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_problema2_69#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_problema2_69#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

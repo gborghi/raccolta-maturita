@@ -12,9 +12,7 @@ tags:
 title: 2005 Americhe Ordinaria — Questionario
 ---
 
-# 2005 Americhe Ordinaria — Questionario
-
-Fonte:  · p.26 · 📄 Apri PDF
+Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.26 · 📄 Apri PDF
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.26 · 📄 Apri PDF
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.26 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.26 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.26 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -69,7 +67,7 @@ Fonte:  · p.26 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
@@ -78,7 +76,7 @@ Fonte:  · p.26 · 📄 Apri PDF
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

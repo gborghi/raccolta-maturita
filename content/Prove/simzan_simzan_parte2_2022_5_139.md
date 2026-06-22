@@ -12,9 +12,7 @@ tags:
 title: 'Simulazione Zanichelli 2022 — SimZan parte2 #5'
 ---
 
-# Simulazione Zanichelli 2022 — SimZan parte2 #5
-
-Fonte:  · p.139 · 📄 Apri PDF
+Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -31,11 +29,11 @@ dove $a$ è un parametro reale.
 4. Trova per quale valore di $a$ nella famiglia delle funzioni $f_a(x)$ si ottiene la funzione $h(x)$ che ha il grafico simmetrico rispetto all'origine. Verifica che $g(x)>h(x)$ per ogni $x$ del loro dominio e calcola l'area compresa tra i grafici delle due funzioni nell'intervallo $[-1;1]$.
 5. Considera ora $F(x)=\displaystyle\int_0^x h(t)\,dt$. Calcola $F(\sqrt{3})$ e $\displaystyle\lim_{x\to+\infty}\frac{F(x)}{\ln x}$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Problema 2
 
@@ -47,11 +45,11 @@ Nella figura è rappresentato il grafico della funzione $f(x)=ax\cdot e^{-\frac{
 4. Sia $P$ un punto del grafico della funzione $f(x)$ di ascissa positiva. Dette $A$ e $B$ rispettivamente le proiezioni ortogonali del punto $P$ sull'asse $x$ e sull'asse $y$, determina le coordinate di $P$ che rendono massima l'area del rettangolo $APBO$.
 5. Calcola l'integrale improprio $\displaystyle\int_3^{+\infty} f(x)\,dx$ e spiega il suo significato geometrico.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 1
 
@@ -60,7 +58,7 @@ Nella figura è rappresentato il grafico della funzione $f(x)=ax\cdot e^{-\frac{
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 2
 
@@ -71,7 +69,7 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 3
 
@@ -80,17 +78,17 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 4
 
 4. Considera la funzione $f(x)=\dfrac{x^3-4x^2}{p(x)}$, dove $p(x)$ è un polinomio. Determina $p(x)$ sapendo che il grafico di $f(x)$ presenta un asintoto obliquo di equazione $y=\frac{1}{2}x+1$ e che in $x=4$ presenta un punto di singolarità eliminabile. Ricava le equazioni degli eventuali altri asintoti e le coordinate degli eventuali massimi e minimi relativi della funzione $f(x)$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 5
 
@@ -99,7 +97,7 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 6
 
@@ -108,7 +106,7 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 7
 
@@ -119,7 +117,7 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
 
@@ -129,7 +127,7 @@ $$\lim_{x\to e}\frac{x\displaystyle\int_e^x \ln t\,dt}{x-e}.$$
 **Topic:** [[Limiti e Continuita]], [[Funzioni Integrali]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

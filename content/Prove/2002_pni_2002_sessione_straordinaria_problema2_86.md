@@ -12,12 +12,9 @@ tags:
 title: 2002 Straordinaria PNI — Problema 2
 ---
 
-# 2002 Straordinaria PNI — Problema 2
+Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.86 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Con riferimento a un sistema di assi cartesiani ortogonali $(Oxy)$:
 
@@ -33,11 +30,11 @@ e disegnare i loro grafici.
 
 **d)** Calcolare il volume del solido generato dalla regione finita di piano delimitata dalle due curve quando ruota di un giro completo intorno all'asse $x$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2002_pni_2002_sessione_straordinaria_problema2_86#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2002_pni_2002_sessione_straordinaria_problema2_86#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

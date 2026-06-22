@@ -12,10 +12,8 @@ tags:
 title: Sessione suppletiva 2012 — Prova
 ---
 
-# Sessione suppletiva 2012 — Prova
-
-Fonte:  · p.124 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.124 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ $$V(x)=\frac{\pi}{3}\cdot\frac{\cos^2 x-3\cos x+3}{\operatorname{sen}^2 x}$$
 
 4. Si calcoli l'area della superficie piana, delimitata dalla curva $\gamma$, dall'asse $x$ e dalle rette di equazione $x=\pi/4$ e $x=\pi/2$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Problema 2
 
@@ -53,11 +51,11 @@ $$x\sqrt{2-x}<1$$
 
 4. La regione finita di piano delimitata dalla curva $\gamma$ e dall'asse $x$ nel I quadrante è la base di un solido $S$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte esagoni regolari. Si calcoli il volume di $S$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 1
 
@@ -66,7 +64,7 @@ $$x\sqrt{2-x}<1$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
 
@@ -79,7 +77,7 @@ si provi che è continua, ma non derivabile, nel punto $x=0$.
 **Topic:** [[Limiti e Continuita]], [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 3
 
@@ -92,7 +90,7 @@ nel punto $P(0,2)$.
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 4
 
@@ -101,7 +99,7 @@ nel punto $P(0,2)$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 5
 
@@ -110,7 +108,7 @@ nel punto $P(0,2)$.
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
 
@@ -118,11 +116,11 @@ nel punto $P(0,2)$.
 
 $$f(x)=\sqrt{x^2+2x-3}-x$$
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 7
 
@@ -131,7 +129,7 @@ $$f(x)=\sqrt{x^2+2x-3}-x$$
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
 
@@ -140,7 +138,7 @@ $$f(x)=\sqrt{x^2+2x-3}-x$$
 **Topic:** [[Calcolo Combinatorio]], [[Geometria Euclidea]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 9
 
@@ -153,7 +151,7 @@ nell'intervallo $a\le x\le b$, con $0<a<b$, e si dimostri che esso è uguale all
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
 
@@ -163,11 +161,11 @@ $$f(x)=\frac{x^2-x-4}{x-1}$$
 
 si verifichi che esiste un solo punto $\xi$ interno all'intervallo chiuso $[-1,0]$, tale che la tangente al diagramma in questo punto è parallela alla corda congiungente i due punti estremi del diagramma.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

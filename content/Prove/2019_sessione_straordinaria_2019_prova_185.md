@@ -12,10 +12,8 @@ tags:
 title: 2019 Straordinaria — Prova
 ---
 
-# 2019 Straordinaria — Prova
-
-Fonte:  · p.185 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.185 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -34,11 +32,11 @@ dove $k$ è un'opportuna costante, di cui si chiede l'espressione in funzione de
 
 - Sia $q$ una carica elementare positiva collocata nel centro della sfera. Determinare l'espressione del lavoro compiuto dalla forza elettrica per portare la carica $q$ a distanza $2R$ dal centro della sfera. Quale dovrebbe essere il lavoro compiuto dalla stessa forza elettrica per portare la carica $q$ a distanza infinita dal centro della sfera?
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Massimi e Minimi]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Massimi e Minimi]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.185
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.185](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Problema 2
 
@@ -52,11 +50,11 @@ In un laboratorio di fisica, si vuole verificare sperimentalmente che un filo re
 
 - Posto $k=1$, determinare l'equazione della funzione $F(x)$, primitiva di $\theta(x)$ e passante per l'origine del sistema di riferimento. Tracciare il grafico della funzione $y=\theta(x)$ e da esso dedurre il grafico di $y=F(x)$.
 
-**Topic:** [[Fisica]], [[Trigonometria]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Fisica|Fisica]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.185
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.185](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 1
 
@@ -65,7 +63,7 @@ In un laboratorio di fisica, si vuole verificare sperimentalmente che un filo re
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.201
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.201](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 2
 
@@ -76,7 +74,7 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.201
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.201](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 3
 
@@ -85,7 +83,7 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.202
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.202](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 4
 
@@ -94,7 +92,7 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.202
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.202](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 5
 
@@ -105,34 +103,34 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.203
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.203](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 6
 
 6. Un condensatore piano, costituito da due armature quadrate di lato $l=4{,}0$ cm, distanti $d=3{,}0$ cm, è soggetto a una d.d.p. $\Delta V=15$ V. Un elettrone vi entra perpendicolarmente al campo elettrico, come in figura, con una velocità $v_0=2{,}5\cdot 10^6\ \dfrac{m}{s}$. A quale distanza dall'ingresso del condensatore deve essere posto uno schermo, affinché la deflessione verticale totale sia $20$ cm? *(figura nel PDF)*
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.203
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.203](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 7
 
 7. Un protone viene sparato su una particella $\alpha$ (due protoni e due neutroni) da una distanza di 10 cm (considerare le particelle puntiformi), alla velocità $v_0=5{,}00\cdot 10^3\ \dfrac{m}{s}$. Calcolare la distanza di massimo avvicinamento.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.205
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.205](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 8
 
 8. Un elettrone entra in una regione di spazio, sede di un campo magnetico di intensità $B=0{,}20$ T, con velocità di modulo $v_0=1{,}5\cdot 10^4\ \dfrac{m}{s}$, che forma un angolo di $10°$ con la direzione di $\vec{B}$. Determinare modulo, direzione e verso del campo elettrico necessario affinché l'elettrone non subisca deflessione.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.205
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.205](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

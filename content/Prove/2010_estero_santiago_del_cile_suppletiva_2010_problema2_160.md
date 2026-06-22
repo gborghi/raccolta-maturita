@@ -12,12 +12,9 @@ tags:
 title: 2010 Estero Santiago Suppletiva — Problema 2
 ---
 
-# 2010 Estero Santiago Suppletiva — Problema 2
-
-Fonte:  · p.160 · 📄 Apri PDF
+Fonte: p.160 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel piano è fissato il sistema di coordinate $Oxy$.
 
@@ -32,7 +29,7 @@ Nel piano è fissato il sistema di coordinate $Oxy$.
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_problema2_160#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.160
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_problema2_160#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.160](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

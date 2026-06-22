@@ -12,12 +12,9 @@ tags:
 title: 2011 Estero Americhe — Problema 2
 ---
 
-# 2011 Estero Americhe — Problema 2
-
-Fonte:  · p.34 · 📄 Apri PDF
+Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In una semicirconferenza di diametro $AB$ di lunghezza $2$, è inscritto un quadrilatero convesso $ABCD$ avente il lato $CD$ uguale al raggio. I prolungamenti dei lati $AD$ e $BC$ si incontrano in un punto $E$.
 
@@ -33,7 +30,7 @@ $$D\hat{A}C = D\hat{B}C = \frac{\pi}{6} \qquad e \qquad A\hat{E}B = \frac{\pi}{3
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema2_34#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema2_34#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

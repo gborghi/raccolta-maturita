@@ -12,12 +12,9 @@ tags:
 title: 2008 PNI Straordinaria — Problema 2
 ---
 
-# 2008 PNI Straordinaria — Problema 2
+Fonte: p.118 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.118 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione
 $$f(x) = \begin{cases} e^{\frac{1}{x^2-1}}, & \text{se } |x| < 1; \\[1mm] 0, & \text{se } |x| \ge 1. \end{cases}$$
@@ -30,11 +27,11 @@ $$f(x) = \begin{cases} e^{\frac{1}{x^2-1}}, & \text{se } |x| < 1; \\[1mm] 0, & \
 
 4) Utilizzando uno dei metodi di integrazione numerica studiati, si calcoli un valore approssimato dell'area della superficie piana, delimitata dalla curva $\gamma$ e dall'asse delle $x$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.118
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

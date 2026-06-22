@@ -1,17 +1,18 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-// A cheerful sticky top navbar. Links are ABSOLUTE, built from the configured
-// baseUrl's path (e.g. "/raccolta-gare-fisica"), so they always carry the
-// GitHub Pages project base regardless of the current page, SPA navigation, or
-// trailing-slash quirks. Folder targets keep a trailing slash; "cerca" is a leaf page.
+// Full-width masthead navbar (rendered at <body> level by renderPage.tsx), mirroring
+// the physics site: a viewport-spanning bar, with a centered max-width inner grid —
+// brand on the left, links centered. Links are ABSOLUTE, built from the configured
+// baseUrl's path so they carry the GitHub Pages project base on every page.
 const LINKS: [string, string][] = [
   ["Cluster", "Clusters"],
   ["Argomenti", "Topics"],
   ["Metodi", "Methods"],
   ["Competenze", "Skills"],
-  ["Funzioni", "Tipi-funzione"],
   ["Prove", "Prove"],
+  ["Problemi", "Problemi"],
+  ["Quesiti", "Quesiti"],
   ["Cerca", "cerca"],
 ]
 
@@ -27,15 +28,16 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
   const bp = basePathOf(cfg?.baseUrl)
   return (
     <nav class={classNames(displayClass, "navbar")}>
-      <a class="navbar-brand" href={`${bp}/`}>
-        <span class="navbar-dot" aria-hidden="true"></span>
-        Maturità Scientifica
-      </a>
-      <button class="navbar-toggle" aria-label="Menu">☰</button>
-      <div class="navbar-links">
-        {LINKS.map(([label, slug]) => (
-          <a href={`${bp}/${slug}${slug === "cerca" ? "" : "/"}`}>{label}</a>
-        ))}
+      <div class="navbar-inner">
+        <a class="navbar-brand" href={`${bp}/`}>
+          <img class="navbar-logo" src={`${bp}/static/maturita-icon.svg`} alt="" aria-hidden="true" />
+          Maturità Scientifica
+        </a>
+        <div class="navbar-links">
+          {LINKS.map(([label, slug]) => (
+            <a href={`${bp}/${slug}${slug === "cerca" ? "" : "/"}`}>{label}</a>
+          ))}
+        </div>
       </div>
     </nav>
   )
@@ -43,37 +45,63 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
 
 Navbar.css = `
 .navbar {
-  position: sticky; top: 0; z-index: 100;
-  display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
-  margin: -0.5rem 0 1.4rem 0; padding: 0.55rem 1.1rem;
+  position: sticky; top: 0; z-index: 1000;
+  width: 100%; margin: 0; padding: 0.4rem 2rem;
   background: var(--navbar-bg);
-  border-radius: 0 0 14px 14px;
-  box-shadow: 0 3px 14px rgba(140, 70, 18, 0.20);
+  box-shadow: 0 2px 14px rgba(140, 70, 18, 0.22);
+}
+.navbar-inner {
+  display: grid; grid-template-columns: 1fr auto 1fr;
+  align-items: center; gap: 1rem;
+  /* match the page grid width (.page is max-width: desktop+300 = 1500px) so the
+     brand lines up with the left rail and the links sit over the centre column,
+     instead of the rail sticking out far to the left of the masthead content. */
+  max-width: 1500px; margin: 0 auto;
 }
 .navbar-brand {
+  grid-column: 1; justify-self: start;
   display: inline-flex; align-items: center; gap: 0.55rem;
-  font-family: var(--titleFont); font-weight: 800; font-size: 1.15rem;
-  color: var(--navbar-fg) !important; background: none; letter-spacing: -0.01em;
-  text-decoration: none !important;
+  font-family: var(--titleFont); font-weight: 800; font-size: 1.2rem;
+  letter-spacing: -0.01em;
+  color: var(--navbar-fg) !important; background: none; text-decoration: none !important;
 }
-.navbar-dot {
-  width: 16px; height: 16px; border-radius: 50%;
-  background: conic-gradient(var(--accent-orange), var(--accent-yellow), var(--accent-teal), var(--accent-orange));
-  box-shadow: 0 0 0 3px rgba(255,255,255,0.18);
-  flex: 0 0 auto;
+/* Brand emblem: spans (nearly) the full navbar height. Square SVG, transparent
+   background; height drives the bar height since the navbar sizes to its content. */
+.navbar-logo {
+  height: 3rem; width: auto; flex: 0 0 auto; display: block;
+  filter: drop-shadow(0 1px 2px rgba(80, 30, 6, 0.35));
 }
-.navbar-links { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-left: auto; }
+.navbar-links {
+  grid-column: 2; justify-self: center;
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4rem;
+}
 .navbar-links a {
-  font-family: var(--titleFont); font-weight: 600; font-size: 0.92rem;
-  color: var(--navbar-fg) !important; background: rgba(255,255,255,0.0);
-  padding: 0.32rem 0.7rem; border-radius: 999px; text-decoration: none !important;
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.95rem;
+  color: var(--navbar-fg) !important; background-image: none;
+  padding: 0.38rem 0.85rem; border-radius: 999px; text-decoration: none !important;
   transition: background 0.15s ease, color 0.15s ease;
 }
 .navbar-links a:hover { background: var(--accent-orange); color: #1a1320 !important; }
-.navbar-toggle { display: none; background: none; border: 0; color: var(--navbar-fg); font-size: 1.3rem; cursor: pointer; }
-@media all and (max-width: 800px) {
-  .navbar-links a { font-size: 0.85rem; padding: 0.28rem 0.55rem; }
+@media (max-width: 800px) {
+  .navbar { padding: 0.4rem 1rem; }
+  .navbar-inner { grid-template-columns: 1fr; justify-items: center; gap: 0.5rem; }
+  .navbar-brand { justify-self: center; }
+  .navbar-logo { height: 2.5rem; }
+  .navbar-links a { padding: 0.3rem 0.6rem; font-size: 0.85rem; }
 }
+`
+
+// The masthead height varies with viewport width (the nav links wrap), so a fixed
+// magic number for the sidebar offset is fragile. Measure the real height and
+// publish it as --navbar-h; the sidebar CSS uses it for top + height.
+Navbar.afterDOMLoaded = `
+function __setNavH(){
+  var n = document.querySelector('.navbar');
+  if (n) document.documentElement.style.setProperty('--navbar-h', n.offsetHeight + 'px');
+}
+__setNavH();
+window.addEventListener('resize', __setNavH);
+document.addEventListener('nav', __setNavH);
 `
 
 export default (() => Navbar) satisfies QuartzComponentConstructor

@@ -12,9 +12,7 @@ tags:
 title: 1914 Tema di maturità
 ---
 
-# 1914 Tema di maturità
-
-Fonte:  · p.61 · 📄 Apri PDF
+Fonte: p.61 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -32,7 +30,7 @@ Calcolare la misura dell'angolo $\widehat{ACD}$ quando è $m = 4/7$.
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.61
+**Fonte:** [📄 Testo (PDF) — p.61](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -47,7 +45,7 @@ Sono dati una semicirconferenza di diametro $\overline{BC}$ e un numero reale $m
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Trigonometria]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.61
+**Fonte:** [📄 Testo (PDF) — p.61](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -64,11 +62,11 @@ acquista valore massimo per $x = 8$ e valore minimo per $x = -2$, dimostrare che
 1. $a$ è doppio di $b$;
 2. l'angolo opposto al lato minore è di $30°$.
 
-**Topic:** [[Massimi e Minimi]], [[Trigonometria]], [[Studio di Funzione]]
+**Topic:** [[Massimi e Minimi]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.61
+**Fonte:** [📄 Testo (PDF) — p.61](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 4
 
@@ -76,10 +74,10 @@ acquista valore massimo per $x = 8$ e valore minimo per $x = -2$, dimostrare che
 
 Dato il perimetro $2p$ d'un triangolo rettangolo calcolarne i lati sapendo che essi sono in progressione geometrica.
 
-**Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Studio di Funzione]], [[Geometria Solida]]
+**Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Solida]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Successioni, serie e ricorrenze]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.61
+**Fonte:** [📄 Testo (PDF) — p.61](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

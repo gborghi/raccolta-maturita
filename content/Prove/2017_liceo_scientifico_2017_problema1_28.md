@@ -12,12 +12,15 @@ tags:
 title: 2017 Liceo Scientifico — Problema 1
 ---
 
-# 2017 Liceo Scientifico — Problema 1
+Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.28 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2017_liceo_scientifico_2017_problema1_28/2017_liceo_scientifico_2017_problema1_28_fig.svg]]
+*Figura 2: piano cartesiano con il grafico di $y=f(x)$ (profilo della pedana), il centro $C(x,d)$ della ruota e i punti $D,E$ agli estremi $-a,a$ dell'intervallo.*
+
+<!--fig:end-->
 
 Si può pedalare agevolmente su una bicicletta a ruote quadrate? A New York, al MoMath-Museum of Mathematics si può fare, in uno dei padiglioni dedicati al divertimento matematico (figura 1). È però necessario che il profilo della pedana su cui il lato della ruota può scorrere soddisfi alcuni requisiti.
 
@@ -48,7 +51,7 @@ se replicato varie volte, può rappresentare il profilo di una pedana adatta a e
 **Topic:** [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]], [[Geometria Euclidea]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2017_liceo_scientifico_2017_problema1_28#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2017_liceo_scientifico_2017_problema1_28#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

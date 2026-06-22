@@ -12,12 +12,9 @@ tags:
 title: 2005 PNI Suppletiva — Problema 1
 ---
 
-# 2005 PNI Suppletiva — Problema 1
-
-Fonte:  · p.111 · 📄 Apri PDF
+Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa in modo che una base sia la sezione della piramide con il piano equidistante dal suo vertice e dalla sua base.
 
@@ -36,7 +33,7 @@ Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa 
 **Topic:** [[Geometria Solida]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2005_pni_2005_sessione_suppletiva_problema1_111#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.111
+**Soluzione:** [[Soluzioni/2005_pni_2005_sessione_suppletiva_problema1_111#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

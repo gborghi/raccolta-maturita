@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2016_liceo_scientifico_2016_problema1_22
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_liceo_scientifico_2016_problema1_22
+title: 2016 Liceo Scientifico — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2016_liceo_scientifico_2016_problema1_22
 
-## Problema 1
 
 Liceo Scientifico 2016 - Problema $1$
 

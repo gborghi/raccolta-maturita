@@ -12,12 +12,9 @@ tags:
 title: 1974 Tema di maturita
 ---
 
-# 1974 Tema di maturita
+Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.111 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
@@ -35,11 +32,11 @@ e se ne disegni il grafico. Presi sulla curva i punti $A$ e $B$ rispettivamente 
 
 4. Si espongano brevemente gli elementi della teoria per il calcolo degli asintoti di una curva di equazione $y = f(x)$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.111
+**Fonte:** [📄 Testo (PDF) — p.111](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

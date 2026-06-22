@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2018_sessione_ordinaria_2018_prova_1
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_sessione_ordinaria_2018_prova_1
+title: 2018 Sessione ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2018_sessione_ordinaria_2018_prova_1
 
 ## Problema 1
 

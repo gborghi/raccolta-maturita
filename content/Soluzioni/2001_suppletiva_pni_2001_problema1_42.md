@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2001_suppletiva_pni_2001_problema1_42
 pdf: Prova_Maturita_2001.pdf
 source: text
-title: Soluzioni — 2001_suppletiva_pni_2001_problema1_42
+title: 2001 Suppletiva PNI — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2001_suppletiva_pni_2001_problema1_42
 
-## Problema 1
 
 Suppletiva PNI 2001 - Problema $1$
 

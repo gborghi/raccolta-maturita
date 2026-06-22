@@ -12,12 +12,9 @@ tags:
 title: 2004 Estero Americhe Ordinaria — Problema 2
 ---
 
-# 2004 Estero Americhe Ordinaria — Problema 2
+Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.18 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f$ la funzione definita da:
 
@@ -32,11 +29,11 @@ $$f(x)=\frac{x+a}{bx^2+cx+2} \qquad (1)$$
 
 3. Si calcoli l'area della regione finita di piano del primo quadrante degli assi cartesiani compresa tra l'asintoto orizzontale, il grafico $G$ e le rette $x=0$, $x=2$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema2_18#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.18
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema2_18#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.18](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Calcolo Combinatorio
-
 *Argomento* — **167** problemi/quesiti.
 
 ## Problemi e quesiti

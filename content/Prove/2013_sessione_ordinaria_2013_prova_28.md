@@ -12,9 +12,7 @@ tags:
 title: 2013 Ordinaria Americhe — Prova
 ---
 
-# 2013 Ordinaria Americhe — Prova
-
-Fonte:  · p.28 · 📄 Apri PDF
+Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -29,11 +27,11 @@ Fonte:  · p.28 · 📄 Apri PDF
 
 4. Si calcoli il volume del solido generato dalla rotazione attorno all'asse $y$ della regione di piano delimitata da $\Phi$, da $s$ e dalle rette $x=1$ e $x=2$.
 
-**Topic:** [[Geometria Euclidea]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Geometria Euclidea]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_28#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_28#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
 
@@ -50,7 +48,7 @@ Sia $R$ la regione del primo quadrante degli assi cartesiani delimitata da $y=\s
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_28#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_28#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

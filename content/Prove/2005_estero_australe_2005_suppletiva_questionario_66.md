@@ -12,9 +12,7 @@ tags:
 title: 2005 Estero Australe Suppletiva — Questionario
 ---
 
-# 2005 Estero Australe Suppletiva — Questionario
-
-Fonte:  · p.66 · 📄 Apri PDF
+Fonte: p.66 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.67
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -69,7 +67,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
@@ -78,7 +76,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
 
@@ -87,7 +85,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2005_estero_australe_2005_suppletiva_questionario_66#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

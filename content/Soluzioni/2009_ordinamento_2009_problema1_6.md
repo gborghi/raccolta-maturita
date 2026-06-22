@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2009_ordinamento_2009_problema1_6
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_ordinamento_2009_problema1_6
+title: 2009 Ordinamento — Problema 1 — Svolgimento
 ---
-
-# Soluzioni — 2009_ordinamento_2009_problema1_6
-
-## Problema 1
-
 ### Punto 1
 
 #### a) Angolo $x$ convesso

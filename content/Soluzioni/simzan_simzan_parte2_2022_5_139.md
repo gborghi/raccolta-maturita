@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte2_2022_5_139
 pdf: SimZan_parte2.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte2_2022_5_139
+title: 'Simulazione Zanichelli 2022 — SimZan parte2 #5 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte2_2022_5_139
-
 ## Problema 1
 
 Consideriamo la famiglia di funzioni $f_a(x) = \dfrac{x + a}{1 + x^2}$, con $a \in \mathbb{R}$.

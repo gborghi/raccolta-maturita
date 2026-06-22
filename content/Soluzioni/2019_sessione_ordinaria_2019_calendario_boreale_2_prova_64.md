@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64
 pdf: Prova_Maturita_2019.pdf
 source: text
-title: Soluzioni — 2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64
+title: 2019 Ordinaria Boreale 2 — Prova — Svolgimento
 ---
-# Soluzioni — 2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64
 
 ## Problema 1
 

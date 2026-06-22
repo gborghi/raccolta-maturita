@@ -12,12 +12,9 @@ tags:
 title: 2009 America Latina Suppletiva — Problema 2
 ---
 
-# 2009 America Latina Suppletiva — Problema 2
-
-Fonte:  · p.44 · 📄 Apri PDF
+Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 2
 
 Nel piano $Oxy$ è assegnata la circonferenza $C$ di centro $O$ e raggio $1$.
 
@@ -30,7 +27,7 @@ Nel piano $Oxy$ è assegnata la circonferenza $C$ di centro $O$ e raggio $1$.
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_problema2_44#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.44
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_problema2_44#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

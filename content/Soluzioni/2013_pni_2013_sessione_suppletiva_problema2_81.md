@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2013_pni_2013_sessione_suppletiva_problema2_81
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_pni_2013_sessione_suppletiva_problema2_81
+title: 2013 PNI Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2013_pni_2013_sessione_suppletiva_problema2_81
 
-## Problema 1
 
 PNI 2013 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

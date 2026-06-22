@@ -12,20 +12,18 @@ tags:
 title: 2003 Europa Suppletiva — Questionario
 ---
 
-# 2003 Europa Suppletiva — Questionario
-
-Fonte:  · p.88 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
 **Quesito 1.** Cosa si intende per funzione periodica? Qual è il periodo della funzione $f(x)=\tan(2x)+\cos 2x$?
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
 
@@ -34,7 +32,7 @@ Fonte:  · p.88 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
 
@@ -42,31 +40,31 @@ Fonte:  · p.88 · 📄 Apri PDF
 $$y=\frac{a_0x^n+a_1x^{n-1}+\cdots+a_{n-1}x+a_n}{b_0x^n+b_1x^{n-1}+\cdots+b_{n-1}x+b_n}$$
 con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y=\dfrac{a_0}{b_0}$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.89
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.89](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
 
 **Quesito 4.** Qual è il flesso della funzione $e^x-x^2$?
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.89
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.89](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
 
 **Quesito 5.** Provate che una qualsiasi curva di equazione $y=ax^3+bx^2+cx+d$ presenta uno e un solo flesso e che questo è il centro di simmetria della curva.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.90
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.90](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
 
@@ -75,7 +73,7 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.90
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.90](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
 
@@ -84,7 +82,7 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.91
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.91](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
 
@@ -93,7 +91,7 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.91
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.91](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

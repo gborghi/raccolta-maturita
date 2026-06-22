@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Funzioni Integrali
-
 *Argomento* — **100** problemi/quesiti.
 
 ## Problemi e quesiti

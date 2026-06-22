@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37
+title: 2005 Americhe Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37
 
 ## Quesito 1
 

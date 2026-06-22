@@ -12,12 +12,16 @@ tags:
 title: 2017 Suppletiva — Prova
 ---
 
-# 2017 Suppletiva — Prova
-
-Fonte:  · p.122 · 📄 Apri PDF
+Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2017_sessione_suppletiva_2017_prova_122/2017_sessione_suppletiva_2017_prova_122_fig.svg]]
+*Tabellone esagonale suddiviso nei tre settori A, B, C separati da tre varchi (tratti ondulati); la pedina P si trova nel settore A.*
+
+<!--fig:end-->
 
 Un gioco si svolge su un tabellone, che è suddiviso in tre settori A, B, C, come in figura 1. *(figura nel PDF)*
 
@@ -41,11 +45,11 @@ Discutere inoltre, al variare di $x$ in $[0,1]$, quali delle tre possibilità in
 
 4) Stabilire quali sono i tre valori medi delle funzioni che esprimono le probabilità $p_1(x)$, $p_2(x)$, $p_3(x)$. Nel caso $x=1/2$ quali sono il valore medio e la varianza della variabile casuale che fornisce il numero di settori raggiungibili da $P$?
 
-**Topic:** [[Probabilita]], [[Studio di Funzione]], [[Statistica]], [[Massimi e Minimi]]
+**Topic:** [[Probabilita]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Statistica]], [[Massimi e Minimi]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Analisi qualitativa e deduzione di grafici]], [[Integrazione (calcolo di integrali)]], [[Statistica e analisi dati]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Analisi e interpretazione di dati e probabilita]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Problema 2
 
@@ -64,11 +68,11 @@ e, posto
 $$H=\int_0^{+\infty}|f(x)|\,dx$$
 dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che cosa rappresentano, in termini geometrici, i valori di $I$ e $H$?
 
-**Topic:** [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 1
 
@@ -77,7 +81,7 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 2
 
@@ -86,7 +90,7 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 3
 
@@ -95,7 +99,7 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 **Topic:** [[Probabilita]], [[Calcolo Integrale]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Integrazione (calcolo di integrali)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 4
 
@@ -103,11 +107,11 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 $$f(x)=\left|\frac{3-2x}{x-3}\right|$$
 Verificare se negli intervalli $[0;2]$ e $[4;6]$ valgono le ipotesi del teorema di Lagrange, e in caso affermativo trovare i punti la cui esistenza è prevista dal teorema di Lagrange. Esiste un intervallo $[a;b]$ in cui si possa applicare il teorema di Rolle? Giustificare la risposta.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 5
 
@@ -116,7 +120,7 @@ Verificare se negli intervalli $[0;2]$ e $[4;6]$ valgono le ipotesi del teorema 
 **Topic:** [[Derivate]], [[Trigonometria]], [[Successioni e Serie]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazione per induzione]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 6
 
@@ -126,7 +130,7 @@ $$\begin{cases}x-y=2z+1\\ z=y+1\end{cases}$$
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 7
 
@@ -135,7 +139,7 @@ $$\begin{cases}x-y=2z+1\\ z=y+1\end{cases}$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 8
 
@@ -148,7 +152,7 @@ $$y=x^3-2x^2+x+1$$
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 9
 
@@ -159,7 +163,7 @@ determinare il volume del solido ottenuto dalla rotazione attorno all'asse delle
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
 
@@ -169,7 +173,7 @@ $$g(0)=0\quad g'(0)=0\quad g''(0)=0\quad g'''(0)=1\quad g^{(4)}(0)=1\quad g^{(5)
 **Topic:** [[Derivate]], [[Successioni e Serie]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

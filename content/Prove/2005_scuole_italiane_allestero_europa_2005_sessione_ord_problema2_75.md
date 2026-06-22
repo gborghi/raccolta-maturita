@@ -12,12 +12,9 @@ tags:
 title: 2005 Europa Ordinaria — Problema 2
 ---
 
-# 2005 Europa Ordinaria — Problema 2
-
-Fonte:  · p.75 · 📄 Apri PDF
+Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Siano date la parabola $\lambda$ e la retta $r$ d'equazioni rispettive $y = x^2 + 1$ e $y = x - 1$.
 
@@ -32,7 +29,7 @@ Siano date la parabola $\lambda$ e la retta $r$ d'equazioni rispettive $y = x^2 
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_europa_2005_sessione_ord_problema2_75#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.75
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_europa_2005_sessione_ord_problema2_75#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.75](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

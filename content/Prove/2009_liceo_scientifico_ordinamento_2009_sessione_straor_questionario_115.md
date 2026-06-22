@@ -12,9 +12,7 @@ tags:
 title: 2009 Ordinamento Straordinaria — Questionario
 ---
 
-# 2009 Ordinamento Straordinaria — Questionario
-
-Fonte:  · p.115 · 📄 Apri PDF
+Fonte: p.115 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.115 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.115
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.115](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
@@ -35,7 +33,7 @@ quando $x$ tende a $0$.
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
@@ -44,7 +42,7 @@ quando $x$ tende a $0$.
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -53,7 +51,7 @@ quando $x$ tende a $0$.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.117
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.117](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -62,7 +60,7 @@ quando $x$ tende a $0$.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.118
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
@@ -71,7 +69,7 @@ quando $x$ tende a $0$.
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.119
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.119](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -82,7 +80,7 @@ $$f(x)=\begin{cases} x^3+1 & \text{per } 0\le x\le 2 \\ -x^2+13 & \text{per } 2 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.119
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.119](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
@@ -92,7 +90,7 @@ $$6\left[\binom{x}{2}+\binom{x}{3}\right]=x(x+11).$$
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.120
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 9
 
@@ -101,7 +99,7 @@ $$6\left[\binom{x}{2}+\binom{x}{3}\right]=x(x+11).$$
 **Topic:** [[Successioni e Serie]], [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.120
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 10
 
@@ -110,7 +108,7 @@ $$6\left[\binom{x}{2}+\binom{x}{3}\right]=x(x+11).$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.120
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

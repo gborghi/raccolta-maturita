@@ -12,10 +12,8 @@ tags:
 title: Ordinaria 2014 (Sperimentali) — Prova
 ---
 
-# Ordinaria 2014 (Sperimentali) — Prova
-
-Fonte:  · p.56 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.56 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -26,11 +24,11 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 3. Si disegni la curva d'equazione $y^2=x^2(4-x^2)$ e si calcoli l'area della parte di piano da essa racchiusa.
 4. Si consideri il solido $W$ che la regione delimitata da $\Gamma$ e dall'asse $x$ genera nella rotazione attorno all'asse $x$. Si calcoli il volume di $W$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.56
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
 
@@ -41,11 +39,11 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 3. Sia $R$ la regione del quarto quadrante compresa fra il grafico $K$ di $f(x)$ e gli assi del sistema di coordinate $Oxy$. Si calcoli l'area di $R$.
 4. Si introduca un nuovo sistema di riferimento ottenuto da $Oxy$ traslando gli assi e portando $O$ nel punto di flesso di $K$. Qual è l'equazione di $K$ nel nuovo sistema di riferimento?
 
-**Topic:** [[Studio di Funzione]], [[Successioni e Serie]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Successioni e Serie]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.56
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 1
 
@@ -54,7 +52,7 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
 
@@ -63,7 +61,7 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
 
@@ -72,7 +70,7 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
 
@@ -81,7 +79,7 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
 
@@ -90,7 +88,7 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
 
@@ -99,7 +97,7 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
 
@@ -108,7 +106,7 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
 
@@ -118,26 +116,26 @@ $$\lim_{x\to+\infty}\frac{x^{2014}}{2^x}=0$$
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 9
 
 9. Si determini il dominio della funzione: $f(x)=\sqrt{3-\log_2(x+5)}$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
 **Tipo funzione:** [[Irrazionale]], [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
 
 10. Nella figura a lato è riportato il grafico della funzione $y=f(x)$. In quale o quali dei cinque punti $A$, $B$, $C$, $D$, $E$ la derivata prima e la derivata seconda della funzione sono entrambe negative? *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

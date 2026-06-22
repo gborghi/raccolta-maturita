@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2009_estero_australe_2009_sessione_ordinaria_questionario_34
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_estero_australe_2009_sessione_ordinaria_questionario_34
+title: 2009 Estero Australe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2009_estero_australe_2009_sessione_ordinaria_questionario_34
 
 ## Quesito 1
 

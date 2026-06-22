@@ -12,12 +12,9 @@ tags:
 title: 2002 Suppletiva PNI — Problema 1
 ---
 
-# 2002 Suppletiva PNI — Problema 1
+Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.43 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano riferito a coordinate cartesiane ortogonali monometriche $(x, y)$ è assegnata la funzione:
 $$y=\frac{a+b\ln x}{x}$$
@@ -34,11 +31,11 @@ ove $\ln x$ denota il logaritmo naturale di $x$ e $a$ e $b$ sono numeri reali no
 **e)** Si disegnino, per i valori di $a$ e $b$ trovati, i grafici di:
 $$y=\frac{a+b\ln|x|}{|x|}\;,\qquad y=\left|\frac{a+b\ln x}{x}\right|.$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Logaritmica]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_problema1_43#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.43
+**Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_problema1_43#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

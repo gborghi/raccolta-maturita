@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Calcolo Integrale
-
 *Argomento* — **719** problemi/quesiti.
 
 ## Problemi e quesiti

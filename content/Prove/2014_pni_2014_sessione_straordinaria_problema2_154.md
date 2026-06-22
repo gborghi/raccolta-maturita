@@ -12,12 +12,15 @@ tags:
 title: PNI 2014 Straordinaria — Problema 2
 ---
 
-# PNI 2014 Straordinaria — Problema 2
+Fonte: p.154 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.154 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2014_pni_2014_sessione_straordinaria_problema2_154/2014_pni_2014_sessione_straordinaria_problema2_154_fig.svg]]
+*Grafico $\gamma$ di $f(x)=\sqrt{\frac{1-x}{1+x}}$ sul dominio $-1<x\le 1$, con asintoto verticale in $x=-1$, passante per $(0,1)$ e $(1,0)$.*
+
+<!--fig:end-->
 
 Sia $f$ la funzione definita da:
 
@@ -33,11 +36,11 @@ $$f(x) = \sqrt{\frac{1 - x}{1 + x}}$$
 
 *(figure nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2014_pni_2014_sessione_straordinaria_problema2_154#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.154
+**Soluzione:** [[Soluzioni/2014_pni_2014_sessione_straordinaria_problema2_154#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

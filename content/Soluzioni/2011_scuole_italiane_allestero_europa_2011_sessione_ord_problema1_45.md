@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema1_45
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: >-
-  Soluzioni —
-  2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema1_45
+title: 2011 Estero Europa — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema1_45
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2011
 Sessione $Ordinaria-$ Problema $1$

@@ -12,12 +12,9 @@ tags:
 title: 1933 Tema di maturita
 ---
 
-# 1933 Tema di maturita
-
-Fonte:  · p.79 · 📄 Apri PDF
+Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Sopra una circonferenza data il cui diametro $AB$ ha per misura $2r$, determinare un punto $P$ in modo che, detta $M$ la proiezione di esso sulla retta perpendicolare in $B$ ad $AB$, la somma dei due segmenti $AP$ e $PM$ abbia, rispetto alla stessa unità scelta per $AB$, per misura un numero dato $l$.
 
@@ -30,7 +27,7 @@ Il candidato può anche determinare e costruire quello dei triangoli isosceli in
 **Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.79
+**Fonte:** [📄 Testo (PDF) — p.79](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

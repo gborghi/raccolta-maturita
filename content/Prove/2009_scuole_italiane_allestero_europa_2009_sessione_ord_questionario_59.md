@@ -12,10 +12,8 @@ tags:
 title: 2009 Estero Europa — Questionario
 ---
 
-# 2009 Estero Europa — Questionario
-
-Fonte:  · p.59 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.59 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,27 +22,27 @@ Fonte:  · p.59 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
 **QUESITO 2.** Si dimostri che l'equazione: $$x^{11}+11x+5=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
 **QUESITO 3.** Si determini il campo di esistenza della funzione: $$f:x\to\ln(-2x^2+4x+6).$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -53,7 +51,7 @@ Fonte:  · p.59 · 📄 Apri PDF
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -68,7 +66,7 @@ Si calcolino $k$ e $\alpha$.
 **Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Analisi e interpretazione di dati e probabilita]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
@@ -77,7 +75,7 @@ Si calcolino $k$ e $\alpha$.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -86,7 +84,7 @@ Si calcolino $k$ e $\alpha$.
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
@@ -95,7 +93,7 @@ Si calcolino $k$ e $\alpha$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

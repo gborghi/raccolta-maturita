@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2013_scuole_italiane_allestero_americhe_2013_problema2_18
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_scuole_italiane_allestero_americhe_2013_problema2_18
+title: 2013 Scuole estero Americhe — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2013_scuole_italiane_allestero_americhe_2013_problema2_18
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2013 - PROBLEMA $2$
 

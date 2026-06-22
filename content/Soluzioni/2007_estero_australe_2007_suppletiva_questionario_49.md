@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2007_estero_australe_2007_suppletiva_questionario_49
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: Soluzioni — 2007_estero_australe_2007_suppletiva_questionario_49
+title: 2007 Estero Australe Suppletiva — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2007_estero_australe_2007_suppletiva_questionario_49
-
 ## Quesito 1
 
 Si vuole che delle due radici dell'equazione $x^2 + 2(h+1)x + m^2h^2 = 0$ una risulti doppia dell'altra. Quale relazione deve sussistere tra i parametri $h$ e $m$?

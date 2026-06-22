@@ -12,9 +12,7 @@ tags:
 title: 1896 Tema di maturita
 ---
 
-# 1896 Tema di maturita
-
-Fonte:  · p.50 · 📄 Apri PDF
+Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -27,7 +25,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.50
+**Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -36,7 +34,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.50
+**Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

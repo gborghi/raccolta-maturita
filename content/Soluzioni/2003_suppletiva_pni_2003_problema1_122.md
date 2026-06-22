@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2003_suppletiva_pni_2003_problema1_122
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_suppletiva_pni_2003_problema1_122
+title: 2003 Suppletiva PNI — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2003_suppletiva_pni_2003_problema1_122
 
-## Problema 1
 
 Suppletiva PNI 2003 - Problema $1$
 

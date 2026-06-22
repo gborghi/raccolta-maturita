@@ -12,12 +12,9 @@ tags:
 title: Ordinamento 2014 — Problema 2
 ---
 
-# Ordinamento 2014 — Problema 2
+Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.16 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia data la funzione
 
@@ -33,11 +30,11 @@ $$f(x) = x\sqrt{4 - x^2}$$
 
 *(figure nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2014_ordinamento_2014_problema2_16#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2014_ordinamento_2014_problema2_16#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

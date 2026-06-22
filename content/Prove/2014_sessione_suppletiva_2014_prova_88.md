@@ -12,10 +12,8 @@ tags:
 title: 2014 Suppletiva — Prova
 ---
 
-# 2014 Suppletiva — Prova
-
-Fonte:  · p.88 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -27,11 +25,11 @@ $$f(x)=\frac{x}{1-2x^2}$$
 3. Si scriva l'equazione della tangente a $\gamma$ nel punto di flesso; si scriva poi l'equazione della circonferenza con il centro nel suddetto punto di flesso e tangente agli asintoti verticali di $\gamma$.
 4. Si determini l'area della regione di piano limitata dalla curva $\gamma$, dall'asse $x$ e dalle rette di equazioni $x=\dfrac{1}{3}$ e $x=\dfrac{1}{2}$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
 
@@ -42,21 +40,21 @@ Si consideri la funzione: $f(x)=\dfrac{1}{x\,\log^2 x}$.
 3. Si calcoli l'area della regione $S_k$ delimitata dalla curva $\gamma$, dall'asse $x$ e dalle rette di equazioni $x=e$ e $x=k$ $(k>e)$.
 4. Si faccia vedere che $S_k$ tende verso un limite finito quando $k$ tende a $+\infty$ e si confronti tale limite col valore numerico dell'area del trapezio $T$, arrotondato alla quarta cifra decimale.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 1
 
 1. Si determini il dominio della funzione $f(x)=\sqrt{e^{2x}-3e^x+2}$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
 **Tipo funzione:** [[Irrazionale]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.100
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
 
@@ -65,7 +63,7 @@ Si consideri la funzione: $f(x)=\dfrac{1}{x\,\log^2 x}$.
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.100
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
 
@@ -76,7 +74,7 @@ nel punto $P$ di ascissa $x=\dfrac{1}{\pi}$.
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.101
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.101](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
 
@@ -85,7 +83,7 @@ nel punto $P$ di ascissa $x=\dfrac{1}{\pi}$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.101
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.101](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
 
@@ -94,18 +92,18 @@ nel punto $P$ di ascissa $x=\dfrac{1}{\pi}$.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.102
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.102](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
 
 6. Si trovino gli eventuali flessi della curva:
 $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
 
@@ -114,7 +112,7 @@ $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 **Topic:** [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.105
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.105](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
 
@@ -123,7 +121,7 @@ $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.106
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.106](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 9
 
@@ -132,16 +130,16 @@ $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.108
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.108](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
 
 10. Un certo numero formato da tre cifre è uguale a 56 volte la somma delle cifre che lo compongono. La cifra delle unità è uguale a quella delle decine aumentata di 4, mentre, scambiando la cifra delle unità con quella delle centinaia, si ottiene un valore che è uguale a quello originario diminuito di 99. Si determini il numero di partenza.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Algebra]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Algebra|Algebra]]
 **Metodi:** [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.109
+**Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.109](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

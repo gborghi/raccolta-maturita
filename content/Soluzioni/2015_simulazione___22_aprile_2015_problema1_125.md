@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_simulazione___22_aprile_2015_problema1_125
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_simulazione___22_aprile_2015_problema1_125
+title: 2015 SIMULAZIONE - 22 APRILE 2015 — Svolgimento
 ---
-# Soluzioni — 2015_simulazione___22_aprile_2015_problema1_125
 
-## Problema 1
 
 SIMULAZIONE $- 22$ APRILE 2015 - PROBLEMA $1:CURVA$ NORD
 

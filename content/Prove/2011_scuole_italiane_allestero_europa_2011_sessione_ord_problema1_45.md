@@ -12,12 +12,9 @@ tags:
 title: 2011 Estero Europa — Problema 1
 ---
 
-# 2011 Estero Europa — Problema 1
-
-Fonte:  · p.45 · 📄 Apri PDF
+Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Nel sistema di riferimento cartesiano $Oxy$ si consideri il quadrato $OABC$, dove $A = (1; 0)$ e $C = (0; 1)$.
 
@@ -32,7 +29,7 @@ Nel sistema di riferimento cartesiano $Oxy$ si consideri il quadrato $OABC$, dov
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema1_45#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.45
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema1_45#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

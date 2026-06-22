@@ -12,12 +12,9 @@ tags:
 title: 2013 PNI Suppletiva — Problema 1
 ---
 
-# 2013 PNI Suppletiva — Problema 1
+Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.76 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 **PNI 2013 – Sessione suppletiva — Problema 1**
 
@@ -35,11 +32,11 @@ $$f(x)=\frac{-x^2+2x+1}{2(x+1)}$$
 
 4) Si scelga a caso un punto all'interno del triangolo $COD$. La probabilità che tale punto risulti interno alla regione $R$ delimitata, nel primo quadrante, da $\gamma$ e dagli assi medesimi è maggiore o minore del $50\%$? Si illustri il ragionamento seguito.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Probabilita]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Probabilita]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_pni_2013_sessione_suppletiva_problema1_76#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.76
+**Soluzione:** [[Soluzioni/2013_pni_2013_sessione_suppletiva_problema1_76#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

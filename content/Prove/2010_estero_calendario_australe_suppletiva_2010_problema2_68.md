@@ -12,12 +12,9 @@ tags:
 title: 2010 Estero Australe Suppletiva — Problema 2
 ---
 
-# 2010 Estero Australe Suppletiva — Problema 2
+Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.68 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano, riferito ad assi cartesiani $Oxy$:
 
@@ -29,11 +26,11 @@ Nel piano, riferito ad assi cartesiani $Oxy$:
 
 **d)** Si calcoli l'area delle tre parti in cui il cerchio, di cui $\Lambda$ è la circonferenza, è suddiviso dagli archi $OA$ e $OB$ di $\Gamma$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2010_estero_calendario_australe_suppletiva_2010_problema2_68#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2010_estero_calendario_australe_suppletiva_2010_problema2_68#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

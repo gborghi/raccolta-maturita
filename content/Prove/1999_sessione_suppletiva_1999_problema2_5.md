@@ -12,12 +12,9 @@ tags:
 title: 1999 Suppletiva — Problema 2
 ---
 
-# 1999 Suppletiva — Problema 2
-
-Fonte:  · p.5 · 📄 Apri PDF
+Fonte: p.5 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Si deve costruire un recipiente a forma di cilindro circolare retto che abbia una capacità di $16\pi \ \text{cm}^3$.
 
@@ -30,7 +27,7 @@ c) Considerate infine le formule: $V = \dfrac{4}{3}\pi x^3$ e $S = \pi x^2$, che
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_1999_problema2_5#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_1999_problema2_5#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

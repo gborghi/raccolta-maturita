@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_estero_calendario_australe_2006_sessione_ordinaria_problema1_25
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_estero_calendario_australe_2006_sessione_ordinaria_problema1_25
+title: 2006 Australe Ordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2006_estero_calendario_australe_2006_sessione_ordinaria_problema1_25
 
-## Problema 1
 
 Estero (Calendario australe) 2006
 Sessione $Ordinaria-$ Problema $1$

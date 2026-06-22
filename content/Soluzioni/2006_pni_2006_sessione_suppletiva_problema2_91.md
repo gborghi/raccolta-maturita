@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2006_pni_2006_sessione_suppletiva_problema2_91
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: Soluzioni — 2006_pni_2006_sessione_suppletiva_problema2_91
+title: 2006 PNI Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2006_pni_2006_sessione_suppletiva_problema2_91
 
-## Problema 1
 
 PNI 2006 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

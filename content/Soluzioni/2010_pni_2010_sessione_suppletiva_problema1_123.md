@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2010_pni_2010_sessione_suppletiva_problema1_123
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_pni_2010_sessione_suppletiva_problema1_123
+title: 2010 PNI Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2010_pni_2010_sessione_suppletiva_problema1_123
 
-## Problema 1
 
 PNI 2010 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

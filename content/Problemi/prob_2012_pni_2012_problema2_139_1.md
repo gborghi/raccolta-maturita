@@ -1,0 +1,38 @@
+---
+title: PNI 2012 — Problema 2 — Problema 1
+tipo: problema
+item_id: prob_2012_pni_2012_problema2_139_1
+prova_id: prova_2012_pni_2012_problema2_139
+anno: '2012'
+pdf: Prova_Maturita_2012.pdf
+cluster: 'Derivate, Massimi e Minimi'
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/derivate_massimi_e_minimi
+  - anno/2012
+---
+
+Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Prova:** [[Prove/2012_pni_2012_problema2_139|PNI 2012 — Problema 2]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+
+Siano date le funzioni $f(x)=e^x$ e $g(x)=\ln x$. Sia $R$ la regione finita di piano delimitata dai grafici di $f$ e $g$ e dalle rette $x=\frac{1}{2}$ e $x=1$.
+
+*(figura nel PDF)*
+
+**1)** Si calcoli l'area della regione $R$.
+
+**2)** Si calcoli il volume $V(T)$ del solido $T$ generato dalla rotazione completa di $R$ attorno all'asse $x$.
+
+**3)** Siano $r$ ed $s$ le rette tangenti rispettivamente ai grafici di $f$ e di $g$ nei punti di uguale ascissa $x_0$. Si verifichi che esiste un solo valore $x_0$, con $\frac{1}{2}<x_0<1$, per cui $r$ ed $s$ sono parallele e se ne determini un'approssimazione arrotondata ai centesimi, utilizzando uno dei metodi di calcolo approssimato studiati.
+
+**4)** Posto $h(x)=f(x)-g(x)=e^x-\ln x$, si determinino il minimo e il massimo assoluti di $h$ nell'intervallo $\frac{1}{2}\le x\le 1$.
+
+**Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Massimi e Minimi]]
+**Metodi:** [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
+**Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
+**Soluzione:** [[Svolgimenti/sol_prob_2012_pni_2012_problema2_139_1|📝 Svolgimento]] · [📄 PDF p.139](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+
+
+#maturita/problema #area/analisi #cluster/derivate_massimi_e_minimi

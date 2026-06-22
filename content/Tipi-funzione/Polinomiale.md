@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Polinomiale
-
 *Tipo di funzione* — **122** problemi/quesiti.
 
 ## Problemi e quesiti

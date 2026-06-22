@@ -12,12 +12,9 @@ tags:
 title: 2007 Estero Americhe Ordinaria — Problema 2
 ---
 
-# 2007 Estero Americhe Ordinaria — Problema 2
-
-Fonte:  · p.22 · 📄 Apri PDF
+Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Della parabola $\gamma$ si sa che passa per i punti $A(0,2)$ e $B(2,0)$, ha l'asse parallelo all'asse $y$ e volge la concavità nel verso negativo di tale asse; inoltre l'area del dominio piano delimitato da $\gamma$ e dai segmenti $OA$ e $OB$ è $\dfrac{10}{3}$.
 
@@ -29,11 +26,11 @@ Della parabola $\gamma$ si sa che passa per i punti $A(0,2)$ e $B(2,0)$, ha l'as
 
 4. Si dica quale posizione assume la retta $s$ in corrispondenza dell'estremo relativo della curva $\lambda$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_americhe_2007_sessione_o_problema2_22#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_americhe_2007_sessione_o_problema2_22#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

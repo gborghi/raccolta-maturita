@@ -14,52 +14,41 @@
   --navbar-fg: #fffaf3;
 }
 
-// ─── Full-bleed navbar: the coloured BAR spans the viewport (via a ::before that
-// breaks out left/right), while brand + links stay in the normal content-width
-// flow so they line up with the article/content column below (not the viewport edge).
-.navbar {
-  background: transparent !important;
-  box-shadow: none !important;
-  border-radius: 0 !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-.navbar::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: calc(50% - 50vw);
-  right: calc(50% - 50vw);
-  background: var(--navbar-bg);
-  box-shadow: 0 3px 14px rgba(140, 70, 18, 0.20);
-  z-index: -1;
-}
-// Kill the 6rem ($topSpacing) gap above the header so the bar touches the page top.
-// The side rails keep their own top padding, so their content stays clear of the bar.
+// The navbar is a full-width body-level masthead (rendered before .page by
+// renderPage.tsx) with all its sizing in Navbar.css — same as the physics site.
+// It reserves its own height in normal flow, so it no longer overlaps the side
+// rails; just drop the 6rem ($topSpacing) gap above the centre content.
 .page-header { margin-top: 0 !important; }
-.page-header header { margin-top: 0 !important; }
 
-// The navbar flex lives in the center column, so brand + links line up exactly
-// with the article below. Keep the bits compact so all 7 links + brand fit one
-// row in the ~630px column instead of wrapping.
-// Component CSS (Navbar.css) is appended after this file, so override with !important.
-// Thick, bold navbar with the brand on top and the nav links stacked BELOW it
-// (vertical layout), large bold link text.
-.navbar {
-  flex-direction: column !important;
-  align-items: flex-start !important;
-  gap: 0.6rem !important;
-  padding-top: 1.05rem !important;
-  padding-bottom: 1.05rem !important;
+// The sticky side rails are `height: 100vh; top: 0`, but they start BELOW the
+// sticky navbar in normal flow, so 100vh spills ~navbar-height past the viewport
+// bottom (the left Explorer overflowed off-page). Offset them under the navbar,
+// shrink to the remaining height, and let long content scroll. Desktop/tablet
+// only — on mobile the rails are static (position: initial).
+:root { --navbar-h: 80px; } // pre-JS fallback; Navbar.afterDOMLoaded sets the exact px
+@media all and (min-width: 800px) {
+  #quartz-root .sidebar {
+    top: var(--navbar-h) !important;
+    height: calc(100vh - var(--navbar-h)) !important;
+    padding-top: 1.5rem !important;
+  }
+  // RIGHT rail (TOC etc.) has no popout — safe to scroll wholesale.
+  #quartz-root .sidebar.right { overflow-y: auto; overflow-x: hidden; }
+  // LEFT rail must NOT get `overflow` of its own: it contains the position:fixed
+  // search popout, and a scroll-container ancestor clips it. Keep it
+  // overflow:visible and let only the tall Explorer list scroll instead.
+  // ALSO: the rail is position:sticky -> it forms a stacking context, which
+  // TRAPPED the search popout below the navbar (its z-index:1100 was relative to
+  // the rail). Lift the rail's own z-index ABOVE the navbar (1000) so the popout
+  // escapes on top. The rail sits below the navbar vertically, so no visual clash.
+  #quartz-root .sidebar.left { overflow: visible; z-index: 1001 !important; }
+  #quartz-root .sidebar.left .explorer {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
 }
-.navbar-brand { font-size: 1.35rem !important; }
-.navbar-links {
-  margin-left: 0 !important;
-  gap: 0.4rem !important;
-  row-gap: 0.4rem !important;
-}
-.navbar-links a { font-size: 1rem !important; font-weight: 700 !important; padding: 0.5rem 0.95rem !important; }
 
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
@@ -100,6 +89,13 @@ article img {
   background: #fff;
   padding: 6px;
   box-shadow: 0 2px 10px rgba(25, 26, 46, 0.06);
+}
+// Reconstructed TikZ/PNG figures (SVG/PNG embeds): centered, sensibly sized.
+article img[src$=".svg"], article p > img {
+  display: block;
+  margin: 1.1rem auto;
+  max-width: min(100%, 540px);
+  height: auto;
 }
 
 // ─── Generic + quesiti/cerca tables ───
@@ -142,6 +138,28 @@ details.cerca-facet > summary { font-family: var(--titleFont); }
 .cerca-chip .cerca-n { color: var(--accent-orange); font-weight: 700; }
 .cerca-chip.active .cerca-n { color: var(--accent-yellow); }
 .cerca-count strong { color: var(--secondary); font-size: 1.1em; }
+
+// Search popout must sit ABOVE the sticky navbar (z-index 1000), else the
+// modal overlay + results get clipped behind the masthead.
+.search > .search-container { z-index: 1100 !important; }
+// Drop the search box clearly BELOW the masthead so it never appears to overlap
+// the navbar at the top (replaces the fixed 12vh top margin).
+.search > .search-container > .search-space { margin-top: calc(var(--navbar-h) + 2.5rem) !important; }
+
+// /cerca pagination controls
+.cerca-pager {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem;
+  margin-top: 1rem; justify-content: center;
+}
+.cerca-page-btn {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.9rem;
+  border: 1.4px solid var(--lightgray); border-radius: 999px;
+  background: var(--light); color: var(--dark);
+  padding: 0.32rem 0.8rem; cursor: pointer; transition: all 0.15s ease;
+}
+.cerca-page-btn:hover:not(:disabled) { border-color: var(--accent-orange); color: var(--secondary); }
+.cerca-page-btn:disabled { opacity: 0.4; cursor: default; }
+.cerca-page-info { font-size: 0.9rem; color: var(--gray); padding: 0 0.4rem; }
 
 .page-title { font-weight: 800; }
 blockquote { border-left: 3px solid var(--accent-teal); }

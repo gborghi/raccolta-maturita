@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2017_sessione_ordinaria_2017_prova_126
 pdf: Prova_Maturita_2017.pdf
 source: text
-title: Soluzioni — 2017_sessione_ordinaria_2017_prova_126
+title: 2017 Ordinaria — Prova (Internaz. Tedesca/ESABAC) — Svolgimento
 ---
-# Soluzioni — 2017_sessione_ordinaria_2017_prova_126
 
 ## Problema 1
 

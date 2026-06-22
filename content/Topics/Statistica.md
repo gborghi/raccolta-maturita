@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Statistica
-
 *Argomento* — **24** problemi/quesiti.
 
 ## Problemi e quesiti

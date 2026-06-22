@@ -12,10 +12,8 @@ tags:
 title: Ordinaria 2014 Calendario Boreale 2 — Prova
 ---
 
-# Ordinaria 2014 Calendario Boreale 2 — Prova
-
-Fonte:  · p.36 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.36 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -26,11 +24,11 @@ Si consideri la funzione $f(x)=\left|e^{2x}-3e^x\right|$.
 3. Si dica se alla funzione $f(x)$ si può applicare il teorema di Rolle nell'intervallo $[0,\ln 2]$ e il teorema di Lagrange nell'intervallo $[1,2]$, giustificando le risposte.
 4. Si calcoli l'area della regione finita di piano limitata da $\Gamma$ e dall'asse $x$ sull'intervallo $[0,\ln 2]$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
 
@@ -42,11 +40,11 @@ $$f(x)=\frac{x^2}{4-x^2}$$
 3. Si tracci il grafico $\Gamma$ di $f(x)$ senza tener conto dei limiti geometrici.
 4. Si calcoli l'area della regione finita di piano limitata da $\Gamma$ e dalle rette di equazioni $x=-1$, $x=1$, $y=1$.
 
-**Topic:** [[Trigonometria]], [[Geometria Euclidea]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Trigonometria]], [[Geometria Euclidea]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 1
 
@@ -56,7 +54,7 @@ $$\lim_{x\to 1}\frac{\sqrt{x}-1}{\ln x^2}$$
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.48
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
 
@@ -66,7 +64,7 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Topic:** [[Equazioni e Disequazioni]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
 
@@ -75,7 +73,7 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
 
@@ -84,7 +82,7 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
 
@@ -93,7 +91,7 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
 
@@ -102,7 +100,7 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
 
@@ -111,7 +109,7 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Topic:** [[Trigonometria]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Numeri complessi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
 
@@ -120,7 +118,7 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,12 +3,8 @@ tipo: soluzione
 prova_stem: 2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: >-
-  Soluzioni —
-  2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115
+title: 2009 Ordinamento Straordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2009_liceo_scientifico_ordinamento_2009_sessione_straor_questionario_115
 
 ## Quesito 1
 

@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2012_6_65
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2012_6_65
+title: 'Simulazione Zanichelli 2012 Ordinamento #6 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2012_6_65
-
 ## Problema 1
 
 ### Punto a)

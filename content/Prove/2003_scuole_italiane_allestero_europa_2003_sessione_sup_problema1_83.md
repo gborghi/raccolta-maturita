@@ -12,12 +12,9 @@ tags:
 title: 2003 Europa Suppletiva — Problema 1
 ---
 
-# 2003 Europa Suppletiva — Problema 1
+Fonte: p.83 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.83 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Considerate le funzioni
 
@@ -31,11 +28,11 @@ $$f(t)=\frac{e^t+e^{-t}}{2}\,,\qquad g(t)=\frac{e^t-e^{-t}}{2}$$
 
 **d)** Calcolate l'area della regione limitata da $F$, $G$, dall'asse $y$ e dalla retta di equazione $t=-1$ e quella della regione limitata da $F$, $G$, dall'asse $y$ e dalla retta di equazione $t=1$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_problema1_83#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.83
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_problema1_83#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

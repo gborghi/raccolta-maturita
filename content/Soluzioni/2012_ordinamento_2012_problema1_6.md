@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2012_ordinamento_2012_problema1_6
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_ordinamento_2012_problema1_6
+title: 2012 Ordinamento — Problema 1 — Svolgimento
 ---
-
-# Soluzioni — 2012_ordinamento_2012_problema1_6
-
-## Problema 1
-
 ### Punto 1)
 
 Sono assegnate le funzioni:

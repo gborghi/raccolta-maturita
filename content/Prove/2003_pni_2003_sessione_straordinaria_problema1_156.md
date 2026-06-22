@@ -12,12 +12,9 @@ tags:
 title: 2003 PNI Straordinaria — Problema 1
 ---
 
-# 2003 PNI Straordinaria — Problema 1
-
-Fonte:  · p.156 · 📄 Apri PDF
+Fonte: p.156 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 È assegnata la seguente equazione in $x$: $\;x^3 + 2x - 50 = 0$.
 
@@ -36,7 +33,7 @@ ammette un massimo e un minimo relativi.
 **Topic:** [[Equazioni e Disequazioni]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2003_pni_2003_sessione_straordinaria_problema1_156#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.156
+**Soluzione:** [[Soluzioni/2003_pni_2003_sessione_straordinaria_problema1_156#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.156](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

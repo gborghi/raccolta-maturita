@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2000_sessione_straordinaria_2000_problema2_26
 pdf: Prova_Maturita_2000.pdf
 source: text
-title: Soluzioni — 2000_sessione_straordinaria_2000_problema2_26
+title: 2000 Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2000_sessione_straordinaria_2000_problema2_26
 
-## Problema 1
 
 Sessione straordinaria 2000 - Problema $2$
 

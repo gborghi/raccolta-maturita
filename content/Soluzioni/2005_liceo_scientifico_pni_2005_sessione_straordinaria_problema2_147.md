@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema2_147
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema2_147
+title: 2005 PNI Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema2_147
 
-## Problema 1
 
 Liceo Scientifico PNI 2005
 Sessione $Straordinaria-$ Problema $2$

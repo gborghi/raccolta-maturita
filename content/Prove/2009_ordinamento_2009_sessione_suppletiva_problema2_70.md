@@ -12,12 +12,9 @@ tags:
 title: 2009 Ordinamento Suppletiva — Problema 2
 ---
 
-# 2009 Ordinamento Suppletiva — Problema 2
+Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.70 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia data la funzione:
 $$f(x)=\begin{cases} x(2-\ln x), & \text{per } x>0 \\ 0, & \text{per } x=0 \end{cases}$$
@@ -31,11 +28,11 @@ $$I(t)=\int_t^{e^2} x(2-\ln x)\,dx.$$
 
 **4.** Si faccia vedere che $I(t)$ tende verso un limite finito quando $t$ tende a $0$. Cosa rappresenta questo limite nel grafico precedente?
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2009_ordinamento_2009_sessione_suppletiva_problema2_70#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2009_ordinamento_2009_sessione_suppletiva_problema2_70#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

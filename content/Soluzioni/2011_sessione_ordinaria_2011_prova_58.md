@@ -3,10 +3,8 @@ tipo: soluzione
 prova_stem: 2011_sessione_ordinaria_2011_prova_58
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_sessione_ordinaria_2011_prova_58
+title: 2011 Ordinaria (Europa) — Prova — Svolgimento
 ---
-
-# Soluzioni — 2011_sessione_ordinaria_2011_prova_58
 
 > Questa prova contiene due varianti: **Scuole Italiane all'Estero** (Problemi 1A e 2A) e **Liceo della Comunicazione** (Problemi 1B e 2B). I quesiti sono del Liceo della Comunicazione (8 quesiti).
 

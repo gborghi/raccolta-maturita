@@ -12,12 +12,16 @@ tags:
 title: 2016 Ordinaria — Prova (Serbatoio)
 ---
 
-# 2016 Ordinaria — Prova (Serbatoio)
-
-Fonte:  · p.40 · 📄 Apri PDF
+Fonte: p.40 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2016_sessione_ordinaria_2016_prova_40/2016_sessione_ordinaria_2016_prova_40_fig.svg]]
+*Figura 1: vista tridimensionale del serbatoio con lunghezza $L$, larghezza $l$ e altezza $h$. Figura 2: profilo laterale con punto angoloso alla sommità (angolo $\vartheta$) e asse di simmetria $AB$.*
+
+<!--fig:end-->
 
 L'amministratore di un piccolo condominio deve installare un nuovo serbatoio per il gasolio da riscaldamento. Non essendo soddisfatto dei modelli esistenti in commercio, ti incarica di progettarne uno che risponda alle esigenze del condominio.
 
@@ -43,11 +47,11 @@ $$f(x)=\cos\left(\frac{\pi}{2}x^k\right)$$
 
 4. Illustra gli argomenti che puoi usare per spiegare all'amministratore che il suo ragionamento è sbagliato; mostra anche qual è, in termini assoluti, il massimo errore che si commette usando il livello $z$ come indicatore della percentuale di riempimento, come da lui suggerito, e qual è il valore di $z$ in corrispondenza del quale esso si verifica.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Ottimizzazione e ricerca dell'ottimo]], [[Interpretazione e formalizzazione del testo]]
 **Tipo funzione:** [[Dipendente da un parametro]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Problema 2
 
@@ -69,21 +73,21 @@ specificando l'insieme di definizione di ciascuna di esse.
 
 4. Scrivi le equazioni delle rette tangenti al grafico della funzione $F(x)$ nei suoi punti di ascisse 0 e 8, motivando le risposte.
 
-**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 1
 
 1. È noto che $\displaystyle\int_{-\infty}^{+\infty}e^{-x^2}\,dx=\sqrt{\pi}$. Stabilire se il numero reale $u$, tale che $\displaystyle\int_{-\infty}^{u}e^{-x^2}\,dx=1$, è positivo oppure negativo. Determinare inoltre i valori dei seguenti integrali, motivando le risposte:
 $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int_{-\infty}^{+\infty}e^{-5x^2}\,dx$$
 
-**Topic:** [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 2
 
@@ -92,7 +96,7 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 3
 
@@ -101,7 +105,7 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 4
 
@@ -110,7 +114,7 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 5
 
@@ -119,17 +123,17 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Topic:** [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 6
 
 6. Si stabilisca se la seguente affermazione è vera o falsa, giustificando la risposta: "Esiste un polinomio $P(x)$ tale che: $|P(x)-\cos(x)|\leq 10^{-3}$, $\forall x\in\mathbb{R}$".
 
-**Topic:** [[Successioni e Serie]], [[Studio di Funzione]]
+**Topic:** [[Successioni e Serie]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 7
 
@@ -138,7 +142,7 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 8
 
@@ -147,7 +151,7 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 9
 
@@ -158,7 +162,7 @@ e il punto $P(1,0,-2)$ determinare l'equazione del piano passante per $P$ e para
 **Topic:** [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 10
 
@@ -169,7 +173,7 @@ Scrivere l'equazione della retta tangente al grafico di $f$ nel suo punto di asc
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_40#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

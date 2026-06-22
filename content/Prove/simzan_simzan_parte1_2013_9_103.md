@@ -12,10 +12,8 @@ tags:
 title: 'Simulazione Zanichelli 2013 Ordinamento #9'
 ---
 
-# Simulazione Zanichelli 2013 Ordinamento #9
-
-Fonte:  · p.103 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -33,11 +31,11 @@ d) Detta $p$ la parabola passante per l'origine e con vertice nel punto di massi
 
 e) Sia $L$ la regione di piano delimitata da $\gamma$ e dall'asse delle ascisse con $0\le x\le x_F$, essendo $x_F$ l'ascissa del punto di flesso di $\gamma$ che si trova nel primo quadrante. Si calcoli il volume del solido che ha per base $L$ e le cui sezioni ottenute con piani perpendicolari all'asse delle ascisse sono rettangoli di altezza $x$, dove $x$ è l'ascissa del piano di sezione.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Euclidea]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Euclidea]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
 
@@ -54,21 +52,21 @@ d) Si trovi l'equazione della retta $t$ tangente a $\gamma$ nel punto $A$ di asc
 
 e) Si calcoli il volume del solido generato in una rotazione completa attorno all'asse delle ascisse della porzione di grafico $\lambda$ con $0\le x\le\frac{3}{4}\pi$.
 
-**Topic:** [[Calcolo Integrale]], [[Studio di Funzione]], [[Trigonometria]], [[Funzioni Integrali]]
+**Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Funzione integrale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 1
 
 1. Si dimostri che in un opportuno intorno di $x=1$ la funzione $y=\arctan(x^2-1)$ è invertibile. Si determini la derivata della funzione inversa nel punto 0.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
 
@@ -77,7 +75,7 @@ e) Si calcoli il volume del solido generato in una rotazione completa attorno al
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
 
@@ -87,7 +85,7 @@ $$\lim_{x\to 1}\left(1+\ln x\right)^{\frac{1}{x-1}}.$$
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
 
@@ -103,7 +101,7 @@ si dica quale delle seguenti proposizioni è vera dandone adeguata motivazione. 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
 
@@ -112,7 +110,7 @@ si dica quale delle seguenti proposizioni è vera dandone adeguata motivazione. 
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 6
 
@@ -122,7 +120,7 @@ $$\int_0^k \frac{2}{x^2-1}\,dx<\int_0^1 \frac{1}{x+1}\,dx.$$
 **Topic:** [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
 
@@ -133,7 +131,7 @@ sia derivabile in $\mathbb{R}$.
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
 
@@ -142,27 +140,27 @@ sia derivabile in $\mathbb{R}$.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 9
 
 9. La seguente figura rappresenta il grafico di una funzione $f$ e le sue tangenti nei punti $O(0;0)$, $M(3;-2)$, $F(6;-1)$. La funzione è continua e derivabile almeno due volte in $\mathbb{R}$ e ha due flessi in $O$ e $F$. Si disegni un grafico probabile della derivata prima dando adeguata giustificazione, indicando in particolare le coordinate dei suoi punti di massimo e minimo relativi. *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
 
 10. Si determini il dominio della funzione:
 $$y=\sqrt{\frac{\ln(x-2)}{\ln x-2}}.$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Logaritmica]], [[Irrazionale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

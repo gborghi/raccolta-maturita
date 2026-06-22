@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25
+title: 2007 Estero Americhe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25
 
 ## Quesito 1
 

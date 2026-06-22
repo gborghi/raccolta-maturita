@@ -1,0 +1,47 @@
+---
+title: 2024 Suppletiva — Problema 1 — Problema 1
+tipo: problema
+item_id: prob_2024_sessione_suppletiva_2024_problema1_94_1
+prova_id: prova_2024_sessione_suppletiva_2024_problema1_94
+anno: '2024'
+pdf: Prova_Maturita_2024.pdf
+cluster: Studio di Funzione
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2024
+---
+
+Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Prova:** [[Prove/2024_sessione_suppletiva_2024_problema1_94|2024 Suppletiva — Problema 1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+
+<!--fig:start-->
+![[_attachments/2024_sessione_suppletiva_2024_problema1_94/2024_sessione_suppletiva_2024_problema1_94_fig.svg]]
+*Grafico $\gamma$ di $f(x)=A(x)/B(x)$: ramo destro per $x>2$ con minimo relativo presso $x=4$ e foro in $(2,2)$, ramo sinistro per $x<0$ con massimo relativo presso $(-4,-16)$, e asintoto obliquo $y=x-8$ (tratteggiato).*
+
+<!--fig:end-->
+
+Si consideri il grafico $\gamma$ in figura, rappresentativo di una funzione $f(x)=\frac{A(x)}{B(x)}$, dove $A(x)$ e $B(x)$ sono dei polinomi, definita nel dominio $D=(-\infty;0)\cup(0;2)\cup(2;+\infty)$.
+
+*(figura nel PDF)*
+
+a) Analizzando il grafico, si deducano lo zero, l'insieme immagine e gli estremi relativi di $f$. Determinare i valori dei limiti agli estremi del dominio e i valori di $\lim_{x\to\pm\infty}\frac{f(x)}{x}$ e $\lim_{x\to\pm\infty}(f(x)-x)$. Scrivere le equazioni degli asintoti di $f$.
+
+b) Supponendo che la funzione $f$ abbia equazione
+$$y=\frac{a(x-b)^2(x-c)}{x(x-d)}$$
+determinare i valori dei parametri $a$, $b$, $c$, $d$.
+
+c) Dal grafico $\gamma$, dedurre i grafici delle funzioni $f(|x|)$ e $\ln(f(x))$ specificando, per ciascuna, dominio, asintoti, estremi e insieme immagine.
+
+d) Si consideri la funzione $F(x)=\int_3^x f(t)\,dt$, definita nell'intervallo $[3;8]$. Tracciare un suo grafico rappresentativo $\Gamma$, specificando l'ascissa del punto di flesso e il coefficiente angolare della retta tangente in tale punto.
+
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Funzioni Integrali]], [[Esponenziali e Logaritmi]]
+**Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Calcolo di limiti e continuita]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
+**Tipo funzione:** [[Razionale fratta]]
+**Soluzione:** [[Svolgimenti/sol_prob_2024_sessione_suppletiva_2024_problema1_94_1|📝 Svolgimento]] · [📄 PDF p.94](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+
+
+#maturita/problema #area/analisi #cluster/studio_di_funzione

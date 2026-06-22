@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2002_ordinamento_2002_sessione_straordinaria_problema2_66
 pdf: Prova_Maturita_2002.pdf
 source: text
-title: Soluzioni — 2002_ordinamento_2002_sessione_straordinaria_problema2_66
+title: 2002 Straordinaria Ordinamento — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2002_ordinamento_2002_sessione_straordinaria_problema2_66
 
-## Problema 1
 
 ORDINAMENTO 2002 - SESSIONE STRAORDINARIA - PROBLEMA $2$
 

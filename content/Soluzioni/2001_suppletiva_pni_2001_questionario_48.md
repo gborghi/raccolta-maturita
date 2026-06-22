@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2001_suppletiva_pni_2001_questionario_48
 pdf: Prova_Maturita_2001.pdf
 source: text
-title: Soluzioni — 2001_suppletiva_pni_2001_questionario_48
+title: 2001 Suppletiva PNI — Questionario — Svolgimento
 ---
-# Soluzioni — 2001_suppletiva_pni_2001_questionario_48
 
 ## Quesito 1
 

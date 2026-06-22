@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2005_sessione_ordinaria_2005_prova_16
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_sessione_ordinaria_2005_prova_16
+title: 2005 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2005_sessione_ordinaria_2005_prova_16
 
 ## Problema 1
 

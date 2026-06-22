@@ -12,9 +12,7 @@ tags:
 title: 2011 Ordinaria (Americhe) — Prova
 ---
 
-# 2011 Ordinaria (Americhe) — Prova
-
-Fonte:  · p.43 · 📄 Apri PDF
+Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -34,7 +32,7 @@ $$QP : QR = OQ : OB$$
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_43#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.43
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_43#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
 
@@ -52,7 +50,7 @@ $$D\hat{A}C = D\hat{B}C = \frac{\pi}{6} \qquad e \qquad A\hat{E}B = \frac{\pi}{3
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_43#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.43
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_43#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

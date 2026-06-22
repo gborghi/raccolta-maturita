@@ -12,10 +12,8 @@ tags:
 title: 2003 Ordinaria — Prova (PNI)
 ---
 
-# 2003 Ordinaria — Prova (PNI)
-
-Fonte:  · p.181 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -30,11 +28,11 @@ ove $D$ è la proiezione ortogonale di $B$ su $OA$;
 
 3. Si tracci il grafico di $\Gamma$ e si provi che l'area compresa fra $\Gamma$ e il suo asintoto è quattro volte quella del cerchio $\gamma$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Problema 2
 
@@ -54,11 +52,11 @@ Si calcoli $\displaystyle\int\frac{1}{g(x)}\,dx$.
 
 Si determini la funzione $g'$ il cui grafico è simmetrico di $G$ rispetto alla retta $r$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni differenziali]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 1
 
@@ -67,7 +65,7 @@ Si determini la funzione $g'$ il cui grafico è simmetrico di $G$ rispetto alla 
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
 
@@ -76,7 +74,7 @@ Si determini la funzione $g'$ il cui grafico è simmetrico di $G$ rispetto alla 
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
 
@@ -85,17 +83,17 @@ Si determini la funzione $g'$ il cui grafico è simmetrico di $G$ rispetto alla 
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
 
 4. Dare un esempio di polinomio $P(x)$ il cui grafico tagli la retta $y=2$ quattro volte.
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
 
@@ -107,17 +105,17 @@ $$nx^{n-1}+(n-1)a_{n-1}x^{n-2}+\cdots+a_1=0$$
 **Topic:** [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
 
 6. Si vuole che l'equazione $x^3+bx-7=0$ abbia tre radici reali. Quale è un possibile valore di $b$?
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
 
@@ -128,7 +126,7 @@ e utilizzarla per calcolare un'approssimazione di $\pi$, applicando un metodo di
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
 
@@ -137,7 +135,7 @@ e utilizzarla per calcolare un'approssimazione di $\pi$, applicando un metodo di
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 9
 
@@ -146,17 +144,17 @@ e utilizzarla per calcolare un'approssimazione di $\pi$, applicando un metodo di
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 10
 
 10. Verificare che l'equazione $x^3-3x+1=0$ ammette tre radici reali. Di una di esse, quella compresa tra $0$ e $1$, se ne calcoli un'approssimazione applicando uno dei metodi numerici studiati.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_181#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

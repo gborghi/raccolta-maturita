@@ -12,9 +12,7 @@ tags:
 title: 2011 PNI — Questionario
 ---
 
-# 2011 PNI — Questionario
-
-Fonte:  · p.129 · 📄 Apri PDF
+Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -69,7 +67,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -78,7 +76,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -87,7 +85,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 9
 
@@ -96,7 +94,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
 
@@ -104,10 +102,10 @@ Fonte:  · p.129 · 📄 Apri PDF
 
 *(figure nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

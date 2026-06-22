@@ -12,12 +12,16 @@ tags:
 title: 2017 Straordinaria — Prova
 ---
 
-# 2017 Straordinaria — Prova
-
-Fonte:  · p.80 · 📄 Apri PDF
+Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2017_sessione_straordinaria_2017_prova_80/2017_sessione_straordinaria_2017_prova_80_fig.svg]]
+*Figura 1: ellisse (pista) inscritta nel rettangolo di vertici A, C (in alto) e B, D (in basso) nel piano Oxy; area esterna all'ellisse in grigio.*
+
+<!--fig:end-->
 
 L'azienda per cui lavori vuole aprire in città una pista di pattinaggio su ghiaccio e ti ha dato l'incarico di occuparti del progetto.
 
@@ -43,7 +47,7 @@ Per un utilizzo ottimale la pista deve avere uno spessore compreso tra i 6,5 e g
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni differenziali]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Problema 2
 
@@ -71,11 +75,11 @@ ammette uno zero nell'intervallo $[\sqrt{e},\,e]$.
 
 4. Calcola il volume del solido ottenuto facendo ruotare di $\pi/3$ radianti intorno all'asse $x$ la regione di piano delimitata dalle rette di equazioni $x=-1$, $x=+1$ e dai grafici di $g_2$ e $g_1$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 1
 
@@ -84,7 +88,7 @@ ammette uno zero nell'intervallo $[\sqrt{e},\,e]$.
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.96
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 2
 
@@ -95,7 +99,7 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.96
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 3
 
@@ -104,7 +108,7 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.97
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.97](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 4
 
@@ -113,17 +117,17 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 5
 
 5) Stabilire per quale valore del parametro $k$ il grafico della funzione $f(x)=x^3+2x^2+kx-4$ ha una sola tangente parallela alla bisettrice del primo e terzo quadrante. Quante tangenti orizzontali ha il grafico della funzione per questo valore del parametro $k$?
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Geometria Analitica (piano)]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.99
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 6
 
@@ -132,7 +136,7 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.99
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 7
 
@@ -143,7 +147,7 @@ dimostrare che esistono due rette $r$ e $s$ tangenti al grafico della funzione i
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.99
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 8
 
@@ -152,7 +156,7 @@ dimostrare che esistono due rette $r$ e $s$ tangenti al grafico della funzione i
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.100
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 9
 
@@ -161,7 +165,7 @@ dimostrare che esistono due rette $r$ e $s$ tangenti al grafico della funzione i
 **Topic:** [[Probabilita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.100
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
 
@@ -172,7 +176,7 @@ calcolare la sua derivata prima e di quest'ultima individuare gli eventuali punt
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.101
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.101](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

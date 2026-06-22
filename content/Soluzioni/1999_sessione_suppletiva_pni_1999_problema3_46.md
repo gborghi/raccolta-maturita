@@ -3,12 +3,8 @@ tipo: soluzione
 prova_stem: 1999_sessione_suppletiva_pni_1999_problema3_46
 pdf: Prova_Maturita_1999.pdf
 source: text
-title: Soluzioni — 1999_sessione_suppletiva_pni_1999_problema3_46
+title: 1999 Suppletiva PNI — Problema 3 — Svolgimento
 ---
-# Soluzioni — 1999_sessione_suppletiva_pni_1999_problema3_46
-
-## Problema 1
-
 Sessione suppletiva PNI 1999 - Problema $3$
 
 LICEO SCIENTIFICO PNI SUPPLETIVA 1999 - PROBLEMA $3$

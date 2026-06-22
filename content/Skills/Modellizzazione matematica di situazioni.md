@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Modellizzazione matematica di situazioni
-
 *Competenza* — **287** problemi/quesiti.
 
 ## Problemi e quesiti

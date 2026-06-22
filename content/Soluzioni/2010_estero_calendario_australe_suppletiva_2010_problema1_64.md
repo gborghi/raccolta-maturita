@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2010_estero_calendario_australe_suppletiva_2010_problema1_64
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_calendario_australe_suppletiva_2010_problema1_64
+title: 2010 Estero Australe Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2010_estero_calendario_australe_suppletiva_2010_problema1_64
 
-## Problema 1
 
 Estero (calendario australe)
 Suppletiva 2010 - Problema $1$

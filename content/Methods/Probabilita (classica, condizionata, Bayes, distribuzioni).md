@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Probabilita (classica, condizionata, Bayes, distribuzioni)
-
 *Metodo risolutivo* — **180** problemi/quesiti.
 
 ## Problemi e quesiti

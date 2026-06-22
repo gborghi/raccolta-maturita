@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2010_sessione_ordinaria_2010_prova_217
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_sessione_ordinaria_2010_prova_217
+title: 2010 Ordinaria PNI — Prova — Svolgimento
 ---
-# Soluzioni — 2010_sessione_ordinaria_2010_prova_217
 
 ## Problema 1
 

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2013_ordinamento_2013_sessione_straordinaria_problema2_104
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_ordinamento_2013_sessione_straordinaria_problema2_104
+title: Ordinamento 2013 Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2013_ordinamento_2013_sessione_straordinaria_problema2_104
 
-## Problema 1
 
 ORDINAMENTO 2013 - SESSIONE STRAORDINARIA - PROBLEMA $2$
 

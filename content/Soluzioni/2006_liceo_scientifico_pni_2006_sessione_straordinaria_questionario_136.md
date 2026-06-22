@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_liceo_scientifico_pni_2006_sessione_straordinaria_questionario_136
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_liceo_scientifico_pni_2006_sessione_straordinaria_questionario_136
+title: 2006 PNI Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2006_liceo_scientifico_pni_2006_sessione_straordinaria_questionario_136
 
-## Problema 1
 
 Liceo Scientifico PNI 2006
 

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2019_sessione_straordinaria_2019_prova_185
 pdf: Prova_Maturita_2019.pdf
 source: text
-title: Soluzioni — 2019_sessione_straordinaria_2019_prova_185
+title: 2019 Straordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2019_sessione_straordinaria_2019_prova_185
 
 ## Problema 1
 

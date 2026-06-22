@@ -6,8 +6,6 @@ tags:
   - cluster/geometria
 ---
 
-# Geometria
-
 *Cluster tematico* — **162 prove**.
 
 ## Prove

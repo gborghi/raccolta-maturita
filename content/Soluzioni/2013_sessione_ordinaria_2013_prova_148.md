@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2013_sessione_ordinaria_2013_prova_148
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_sessione_ordinaria_2013_prova_148
+title: 2013 Ordinaria PNI — Prova — Svolgimento
 ---
-
-# Soluzioni — 2013_sessione_ordinaria_2013_prova_148
-
 ## Problema 1
 
 La funzione $f(x)$ è definita e derivabile (insieme a $f'$ e $f''$) su $[0,+\infty)$. Dai grafici Γ (di $f$) e Λ (di $f''$) si sa che:

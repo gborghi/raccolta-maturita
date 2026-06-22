@@ -12,9 +12,7 @@ tags:
 title: 1948 Tema di maturita
 ---
 
-# 1948 Tema di maturita
-
-Fonte:  · p.90 · 📄 Apri PDF
+Fonte: p.90 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -30,7 +28,7 @@ essendo $k$ un numero positivo assegnato. Determinare l'angolo $C\hat{A}B=x$, i 
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Interpretazione e formalizzazione del testo]]
-**Fonte:** 📄 Testo (PDF) — p.90
+**Fonte:** [📄 Testo (PDF) — p.90](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -39,7 +37,7 @@ Data una circonferenza di diametro $|\overline{AB}|=2r$, determinare sul prolung
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Fonte:** 📄 Testo (PDF) — p.90
+**Fonte:** [📄 Testo (PDF) — p.90](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -56,7 +54,7 @@ sega l'asse delle $x$, oltre che nell'origine $O$, in un punto $A$. I punti $A$,
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Fonte:** 📄 Testo (PDF) — p.90
+**Fonte:** [📄 Testo (PDF) — p.90](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

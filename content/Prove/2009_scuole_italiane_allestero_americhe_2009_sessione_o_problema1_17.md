@@ -12,12 +12,9 @@ tags:
 title: 2009 Estero Americhe — Problema 1
 ---
 
-# 2009 Estero Americhe — Problema 1
-
-Fonte:  · p.17 · 📄 Apri PDF
+Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ con centro nell'origine $O$ e raggio $r=3$.
 
@@ -32,7 +29,7 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_americhe_2009_sessione_o_problema1_17#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.17
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_americhe_2009_sessione_o_problema1_17#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

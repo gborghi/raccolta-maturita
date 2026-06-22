@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2006_sessione_ordinaria_2006_prova_10
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: Soluzioni — 2006_sessione_ordinaria_2006_prova_10
+title: 2006 Sessione Ordinaria — Prova (p.10) — Svolgimento
 ---
-# Soluzioni — 2006_sessione_ordinaria_2006_prova_10
 
 ## Problema 1
 

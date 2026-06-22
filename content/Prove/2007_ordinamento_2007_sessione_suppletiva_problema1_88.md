@@ -12,12 +12,9 @@ tags:
 title: 2007 Ordinamento Suppletiva — Problema 1
 ---
 
-# 2007 Ordinamento Suppletiva — Problema 1
+Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.88 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Rispetto ad un sistema di assi cartesiani $(Oxy)$ si consideri il punto $A(2,0)$.
 
@@ -33,11 +30,11 @@ controllando che si tratta di una circonferenza di cui si calcolino le coordinat
 
 4) Si calcoli l'area della regione finita di piano limitata dal segmento $OB$ e dall'arco $OB$ della suddetta parabola cubica.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2007_ordinamento_2007_sessione_suppletiva_problema1_88#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2007_ordinamento_2007_sessione_suppletiva_problema1_88#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

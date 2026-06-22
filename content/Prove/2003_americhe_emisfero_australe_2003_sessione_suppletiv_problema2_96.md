@@ -12,12 +12,9 @@ tags:
 title: 2003 Americhe Australe Suppletiva — Problema 2
 ---
 
-# 2003 Americhe Australe Suppletiva — Problema 2
-
-Fonte:  · p.96 · 📄 Apri PDF
+Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Fra i coni circolari retti circoscritti ad una sfera di raggio $6$ cm, determinate:
 
@@ -30,7 +27,7 @@ Fra i coni circolari retti circoscritti ad una sfera di raggio $6$ cm, determina
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2003_americhe_emisfero_australe_2003_sessione_suppletiv_problema2_96#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.96
+**Soluzione:** [[Soluzioni/2003_americhe_emisfero_australe_2003_sessione_suppletiv_problema2_96#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

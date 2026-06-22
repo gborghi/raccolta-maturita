@@ -11,11 +11,8 @@ tags:
   - anno/2025
 title: 2025 Suppletiva — Prova
 ---
-
-# 2025 Suppletiva — Prova
-
-Fonte:  · p.10 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -29,11 +26,11 @@ c) Si consideri la funzione $F(t) = \displaystyle\int_t^0 f_1(x)\, dx$, con $t \
 
 d) Sia $P_a$ un punto sulla curva $\gamma_a$, di ascissa $x < 0$, nonché $Q_a$ ed $R_a$ le sue proiezioni sugli assi coordinati. Determinare, se esiste, il valore del parametro $a$ in corrispondenza del quale l'area del rettangolo $P_a Q_a O R_a$ assume valore massimo se $x = -2$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
 
@@ -56,11 +53,11 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 - $R_1$ compresa tra $\gamma$ e la retta di equazione $y = x$;
 - $R_2$ compresa tra $\gamma$ e l'asse delle ascisse.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 1
 
@@ -69,7 +66,7 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 2
 
@@ -78,7 +75,7 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 3
 
@@ -87,7 +84,7 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 4
 
@@ -98,7 +95,7 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 5
 
@@ -107,7 +104,7 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 **Topic:** [[Geometria Euclidea]], [[Calcolo Integrale]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 6
 
@@ -116,7 +113,7 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 **Topic:** [[Trigonometria]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 7
 
@@ -125,7 +122,7 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
 
@@ -136,7 +133,7 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 **Topic:** [[Limiti e Continuita]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

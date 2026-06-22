@@ -12,12 +12,9 @@ tags:
 title: 2004 PNI Suppletiva — Problema 2 e Quesiti
 ---
 
-# 2004 PNI Suppletiva — Problema 2 e Quesiti
-
-Fonte:  · p.98 · 📄 Apri PDF
+Fonte: p.98 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
-## Problema 1
 
 Nel Liceo Scientifico "Torricelli" vi sono 4 classi quinte, i cui alunni sono distribuiti per sezione e per sesso in base alla seguente tabella:
 
@@ -35,7 +32,7 @@ Nel Liceo Scientifico "Torricelli" vi sono 4 classi quinte, i cui alunni sono di
 **Topic:** [[Probabilita]], [[Statistica]], [[Calcolo Combinatorio]]
 **Metodi:** [[Statistica e analisi dati]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2004_pni_2004_sessione_suppletiva_problema2_98#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2004_pni_2004_sessione_suppletiva_problema2_98#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/probabilita_e_combinatoria #cluster/probabilit_e_combinatoria

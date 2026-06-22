@@ -12,12 +12,9 @@ tags:
 title: 2003 Americhe Ordinaria — Problema 2
 ---
 
-# 2003 Americhe Ordinaria — Problema 2
-
-Fonte:  · p.47 · 📄 Apri PDF
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Dopo aver riferito il piano ad un sistema di assi cartesiani ortogonali $Oxy$:
 
@@ -32,7 +29,7 @@ Dopo aver riferito il piano ad un sistema di assi cartesiani ortogonali $Oxy$:
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema2_47#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema2_47#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

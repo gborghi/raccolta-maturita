@@ -12,10 +12,8 @@ tags:
 title: 2015 Suppletiva — Prova
 ---
 
-# 2015 Suppletiva — Prova
-
-Fonte:  · p.184 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.184 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -39,11 +37,11 @@ Per realizzare la tettoia, è necessario usare un piano leggermente inclinato, p
 
 4. Determina l'equazione del piano prescelto.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Interpretazione e formalizzazione del testo]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Polinomiale]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Problema 2
 
@@ -61,11 +59,11 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 
 4. all'interno del solido di rotazione generato da $f_k$, per $k=3$, si vorrebbe collocare un cilindro di raggio $0{,}5$ e di altezza $6$. Verifica se ciò è possibile, motivando la tua risposta.
 
-**Topic:** [[Calcolo Integrale]], [[Studio di Funzione]], [[Geometria Solida]], [[Derivate]]
+**Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Irrazionale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 1
 
@@ -74,7 +72,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
 
@@ -83,7 +81,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 3
 
@@ -92,7 +90,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Probabilita]], [[Statistica]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
 
@@ -101,7 +99,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 5
 
@@ -110,7 +108,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
 
@@ -119,7 +117,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
 
@@ -128,17 +126,17 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
 
 8. Provare che la funzione $y=e^x-\tan x$ ha infiniti zeri, mentre la funzione $y=e^x-\arctan x$ non ne ha alcuno.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
 
@@ -147,7 +145,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
 
@@ -156,7 +154,7 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.184
+**Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

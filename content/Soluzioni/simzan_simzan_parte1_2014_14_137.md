@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2014_14_137
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2014_14_137
+title: 'Simulazione Zanichelli 2014 — SimZan parte1 #14 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2014_14_137
-
 ANNO SCOLASTICO 2014/15 — SIMULAZIONE DELLA PROVA DI MATEMATICA DELL'ESAME DI STATO PER IL LICEO SCIENTIFICO
 
 ## Problema 1

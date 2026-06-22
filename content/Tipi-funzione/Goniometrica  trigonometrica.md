@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Goniometrica / trigonometrica
-
 *Tipo di funzione* — **95** problemi/quesiti.
 
 ## Problemi e quesiti

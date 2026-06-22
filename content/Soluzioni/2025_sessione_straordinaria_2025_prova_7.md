@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2025_sessione_straordinaria_2025_prova_7
 pdf: Prova_Maturita_2025.pdf
 source: text
-title: Soluzioni — 2025_sessione_straordinaria_2025_prova_7
+title: 2025 Straordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2025_sessione_straordinaria_2025_prova_7
 
 ## Problema 1
 

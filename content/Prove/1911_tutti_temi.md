@@ -12,9 +12,7 @@ tags:
 title: 1911 Tema di maturita
 ---
 
-# 1911 Tema di maturita
-
-Fonte:  · p.58 · 📄 Apri PDF
+Fonte: p.58 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -26,7 +24,7 @@ Determinate poi le misure di quei due segmenti in funzione della misura dell'alt
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.58
+**Fonte:** [📄 Testo (PDF) — p.58](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -35,7 +33,7 @@ Due corde uscenti da un punto di una circonferenza di raggio $r$ fanno tra loro 
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.58
+**Fonte:** [📄 Testo (PDF) — p.58](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -48,7 +46,7 @@ $$\tan^4 \alpha = 1 + \tan^2 \alpha.$$
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]]
-**Fonte:** 📄 Testo (PDF) — p.58
+**Fonte:** [📄 Testo (PDF) — p.58](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -57,7 +55,7 @@ Determinare le misure dei tre lati d'un triangolo, che debbono stare in progress
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Successioni, serie e ricorrenze]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.58
+**Fonte:** [📄 Testo (PDF) — p.58](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -68,7 +66,7 @@ A quale distanza dal vertice opposto a quella faccia bisogna condurre il piano s
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.58
+**Fonte:** [📄 Testo (PDF) — p.58](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 4
 
@@ -77,7 +75,7 @@ Determinare i lati d'un triangolo rettangolo conoscendo l'area del triangolo e l
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.58
+**Fonte:** [📄 Testo (PDF) — p.58](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

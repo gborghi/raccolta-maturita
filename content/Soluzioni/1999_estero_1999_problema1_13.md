@@ -3,12 +3,8 @@ tipo: soluzione
 prova_stem: 1999_estero_1999_problema1_13
 pdf: Prova_Maturita_1999.pdf
 source: text
-title: Soluzioni — 1999_estero_1999_problema1_13
+title: 1999 Estero — Problema 1 — Svolgimento
 ---
-# Soluzioni — 1999_estero_1999_problema1_13
-
-## Problema 1
-
 Estero 1999 - Problema $1$
 
 LICEO SCIENTIFICO 1999 - ESTERO

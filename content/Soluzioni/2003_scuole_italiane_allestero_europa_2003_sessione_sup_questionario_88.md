@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: >-
-  Soluzioni —
-  2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88
+title: 2003 Europa Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88
 
 ## Quesito 1
 

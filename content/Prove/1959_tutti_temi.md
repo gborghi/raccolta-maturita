@@ -12,12 +12,9 @@ tags:
 title: 1959 Tema di maturita
 ---
 
-# 1959 Tema di maturita
-
-Fonte:  · p.99 · 📄 Apri PDF
+Fonte: p.99 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È dato il trapezio $ABCD$ rettangolo in $A$ e in $D$, avente le basi $AB$ e $CD$ e l'altezza $AD$ rispettivamente eguali a $5a$, $4a$, $2a$. Se con $P$ si denota un punto interno al trapezio, di cui $H$ e $K$ sono le proiezioni ortogonali su $BC$ e su $AD$, si trovi $P$ in guisa che siano soddisfatte le due condizioni:
 
@@ -42,7 +39,7 @@ e si scriva l'equazione della tangente ad essa nel punto d'intersezione con l'as
 **Topic:** [[Geometria Analitica (piano)]], [[Geometria Euclidea]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Fonte:** 📄 Testo (PDF) — p.99
+**Fonte:** [📄 Testo (PDF) — p.99](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

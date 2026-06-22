@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Trigonometria
-
 *Argomento* — **418** problemi/quesiti.
 
 ## Problemi e quesiti

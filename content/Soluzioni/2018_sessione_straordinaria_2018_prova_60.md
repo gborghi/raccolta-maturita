@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2018_sessione_straordinaria_2018_prova_60
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_sessione_straordinaria_2018_prova_60
+title: 2018 Sessione straordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2018_sessione_straordinaria_2018_prova_60
 
 ## Problema 1
 

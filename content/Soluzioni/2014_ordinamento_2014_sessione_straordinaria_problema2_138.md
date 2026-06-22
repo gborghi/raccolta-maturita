@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2014_ordinamento_2014_sessione_straordinaria_problema2_138
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_ordinamento_2014_sessione_straordinaria_problema2_138
+title: Ordinamento 2014 Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2014_ordinamento_2014_sessione_straordinaria_problema2_138
 
-## Problema 1
 
 ORDINAMENTO 2014 - SESSIONE STRAORDINARIA - PROBLEMA $2$
 

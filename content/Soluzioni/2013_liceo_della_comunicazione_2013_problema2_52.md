@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2013_liceo_della_comunicazione_2013_problema2_52
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_liceo_della_comunicazione_2013_problema2_52
+title: Liceo Comunicazione 2013 — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2013_liceo_della_comunicazione_2013_problema2_52
 
-## Problema 1
 
 LICEO DELLA COMUNICAZIONE 2013 - PROBLEMA $2$
 

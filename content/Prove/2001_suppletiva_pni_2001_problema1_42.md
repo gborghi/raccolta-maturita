@@ -12,12 +12,9 @@ tags:
 title: 2001 Suppletiva PNI — Problema 1
 ---
 
-# 2001 Suppletiva PNI — Problema 1
-
-Fonte:  · p.42 · 📄 Apri PDF
+Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Le misure $a$, $b$, $c$ dei lati di un triangolo $ABC$ sono in progressione aritmetica di ragione $k$.
 
@@ -32,7 +29,7 @@ Le misure $a$, $b$, $c$ dei lati di un triangolo $ABC$ sono in progressione arit
 **Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_problema1_42#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_problema1_42#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2005_ordinamento_2005_sessione_suppletiva_problema2_99
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_ordinamento_2005_sessione_suppletiva_problema2_99
+title: 2005 Ordinamento Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2005_ordinamento_2005_sessione_suppletiva_problema2_99
 
-## Problema 1
 
 ORDINAMENTO 2005 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

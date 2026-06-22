@@ -12,10 +12,8 @@ tags:
 title: 2023 Suppletiva — Prova
 ---
 
-# 2023 Suppletiva — Prova
-
-Fonte:  · p.67 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.67 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -34,11 +32,11 @@ d) Studiare la funzione
 $$g(x)=\int_1^x f(t)\,dt$$
 dopo averne scritta l'espressione analitica. Determinare l'equazione della retta tangente al grafico di $g$ nel suo punto di ascissa $x=e$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.67
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Problema 2
 
@@ -59,11 +57,11 @@ c) Calcolare l'area della regione $R$ delimitata dal grafico della funzione $P$ 
 
 d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x}\right)$ è una primitiva di $\frac{x^2}{P(x)}$. Esprimere, in funzione di $t$, con $t\geq 5$, l'integrale $\int_5^t \frac{x^2}{P(x)}\,dx$ e calcolarne il limite per $t\to+\infty$ fornendo un'interpretazione geometrica del risultato ottenuto.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.67
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 1
 
@@ -72,7 +70,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 1
 
@@ -81,7 +79,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 2
 
@@ -90,7 +88,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 2
 
@@ -99,7 +97,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 3
 
@@ -108,7 +106,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.82
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 3
 
@@ -117,7 +115,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.82
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
 
@@ -128,7 +126,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.82
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
 
@@ -139,7 +137,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.82
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 5
 
@@ -148,7 +146,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.83
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 6
 
@@ -157,7 +155,7 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.84
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.84](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 7
 
@@ -167,7 +165,7 @@ $$\lim_{x\to 1}\frac{\int_1^x (t^2-1)\cdot e^{2t}\,dt}{(x-1)^2}$$
 **Topic:** [[Limiti e Continuita]], [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 8
 
@@ -176,7 +174,7 @@ $$\lim_{x\to 1}\frac{\int_1^x (t^2-1)\cdot e^{2t}\,dt}{(x-1)^2}$$
 **Topic:** [[Derivate]], [[Massimi e Minimi]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

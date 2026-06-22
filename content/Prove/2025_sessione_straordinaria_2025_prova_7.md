@@ -12,10 +12,8 @@ tags:
 title: 2025 Straordinaria — Prova
 ---
 
-# 2025 Straordinaria — Prova
-
-Fonte:  · p.7 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ c) Spiegare perché $f$ non è invertibile nel suo dominio e individuare l'inter
 
 d) Scrivere l'equazione della retta $r$, tangente a $\gamma$ nel suo punto di ascissa $1$. Calcolare l'area della regione delimitata da $r$, da $\gamma$ e dall'asse delle ordinate. Dimostrare che la funzione $F(x) = \displaystyle\int_0^x f(t)\, dt$, definita per $x > 0$, presenta esattamente uno zero, un punto stazionario e un punto di flesso.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
 
@@ -56,7 +54,7 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ottimizzazione e ricerca dell'ottimo]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 1
 
@@ -65,7 +63,7 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 2
 
@@ -74,7 +72,7 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 3
 
@@ -83,7 +81,7 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 4
 
@@ -92,17 +90,17 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 5
 
 5. Si consideri la famiglia di funzioni $f_k(x) = \ln(1 - kx) + kx^2$, dove $k$ è un parametro reale non nullo. Determinare il valore di $k$ in modo che il grafico della funzione abbia un punto di flesso a tangente orizzontale.
 
-**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 6
 
@@ -111,7 +109,7 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 7
 
@@ -120,17 +118,17 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
 
 8. Dimostrare che la curva di equazione $y = \dfrac{2x + 1}{x^2 + x}$ è simmetrica rispetto al suo punto di flesso.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

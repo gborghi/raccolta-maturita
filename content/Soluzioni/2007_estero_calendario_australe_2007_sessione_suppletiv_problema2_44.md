@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2007_estero_calendario_australe_2007_sessione_suppletiv_problema2_44
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_estero_calendario_australe_2007_sessione_suppletiv_problema2_44
+title: 2007 Estero Australe Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2007_estero_calendario_australe_2007_sessione_suppletiv_problema2_44
 
-## Problema 1
 
 Estero (Calendario australe) 2007
 Sessione $Suppletiva-$ Problema $2$

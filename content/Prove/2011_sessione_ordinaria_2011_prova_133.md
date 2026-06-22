@@ -12,10 +12,8 @@ tags:
 title: 2011 Sessione ordinaria — Prova (PNI)
 ---
 
-# 2011 Sessione ordinaria — Prova (PNI)
-
-Fonte:  · p.133 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.133 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -29,11 +27,11 @@ Sia $f$ la funzione definita sull'insieme $\mathbb{R}$ dei numeri reali da $$f(x
 
 4. Posto $$I(\beta)=\int_0^\beta \left[f(x)-x-\ln 4\right]\,dx,$$ si calcoli $\displaystyle\lim_{\beta\to+\infty} I(\beta)$. Qual è il significato geometrico del risultato ottenuto?
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
 
@@ -48,11 +46,11 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 
 4. In ogni punto di $R$ a distanza $x$ dall'asse $y$, la misura della profondità dell'acqua nella piscina è data da $h(x)=5-x$. Quale sarà il volume d'acqua nella piscina? Quanti litri d'acqua saranno necessari per riempire la piscina se tutte le misure sono espresse in metri?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 1
 
@@ -61,7 +59,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -70,7 +68,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -79,7 +77,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
@@ -88,7 +86,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -97,7 +95,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -106,7 +104,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -115,7 +113,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -124,7 +122,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 9
 
@@ -133,7 +131,7 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
 
@@ -149,10 +147,10 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 
 Si motivi la risposta. *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

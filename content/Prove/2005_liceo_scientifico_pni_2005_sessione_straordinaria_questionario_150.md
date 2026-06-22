@@ -12,10 +12,8 @@ tags:
 title: 2005 PNI Straordinaria — Questionario
 ---
 
-# 2005 PNI Straordinaria — Questionario
-
-Fonte:  · p.150 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.150 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.150
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.150](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.150 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.151
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -44,7 +42,7 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 **Topic:** [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.152
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
@@ -53,7 +51,7 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.152
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -64,7 +62,7 @@ la quale esprime una proprietà dei numeri naturali conosciuta come «teorema di
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Dimostrazione per induzione]], [[Successioni, serie e ricorrenze]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.153
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.153](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -75,7 +73,7 @@ dove "$e$" è la base dei logaritmi naturali. Una sola risposta è corretta: ind
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.154
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
@@ -85,17 +83,17 @@ $$\int_{-x}^{2x} \frac{dt}{\sin t} \ .$$
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.154
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
 
 **Quesito 8.** Dopo aver spiegato, attraverso una dimostrazione o una interpretazione geometrica, perché l'equazione $x^3 + x + 1 = 0$ ammette una e una sola soluzione reale, esplicitare un algoritmo idoneo a calcolarne un valore approssimato.
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Analisi qualitativa e deduzione di grafici]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.155
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.155](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 9
 
@@ -104,7 +102,7 @@ $$\int_{-x}^{2x} \frac{dt}{\sin t} \ .$$
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.157
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.157](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
 
@@ -113,7 +111,7 @@ $$\int_{-x}^{2x} \frac{dt}{\sin t} \ .$$
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.158
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.158](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,9 +12,7 @@ tags:
 title: 1882 Tema di maturità
 ---
 
-# 1882 Tema di maturità
-
-Fonte:  · p.47 · 📄 Apri PDF
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -28,7 +26,7 @@ quando $A + B + C = 180°$.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Fonte:** 📄 Testo (PDF) — p.47
+**Fonte:** [📄 Testo (PDF) — p.47](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -37,7 +35,7 @@ quando $A + B + C = 180°$.
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.47
+**Fonte:** [📄 Testo (PDF) — p.47](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2009_sessione_ordinaria_2009_prova_146
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_sessione_ordinaria_2009_prova_146
+title: 2009 Sessione Ordinaria PNI — Prova — Svolgimento
 ---
-# Soluzioni — 2009_sessione_ordinaria_2009_prova_146
 
 ## Problema 1
 

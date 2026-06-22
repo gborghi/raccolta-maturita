@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_sessione_ordinaria_2015_calendario_boreale_1_prova_105
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_sessione_ordinaria_2015_calendario_boreale_1_prova_105
+title: 2015 Ordinaria Calendario Boreale 1 — Prova — Svolgimento
 ---
-# Soluzioni — 2015_sessione_ordinaria_2015_calendario_boreale_1_prova_105
 
 ## Problema 1
 

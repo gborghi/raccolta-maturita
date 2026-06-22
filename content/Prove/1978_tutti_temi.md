@@ -12,12 +12,9 @@ tags:
 title: 1978 Tema di maturita
 ---
 
-# 1978 Tema di maturita
+Fonte: p.117 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.117 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
@@ -38,11 +35,11 @@ si individui quella sulla quale la retta di equazione $2y = x + 2$ intercetta un
 
 4. Gli asintoti di una curva: si illustri il procedimento per determinarli nel caso di una curva rappresentata analiticamente da una funzione razionale fratta.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.117
+**Fonte:** [📄 Testo (PDF) — p.117](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,10 +12,8 @@ tags:
 title: 2008 Estero Australe Suppletiva — Questionario
 ---
 
-# 2008 Estero Australe Suppletiva — Questionario
-
-Fonte:  · p.29 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,45 +22,45 @@ Le misure dei lati di un triangolo sono $30$, $70$ e $90$ cm. Si calcolino, con 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.29
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.29](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
 
 Si dimostri che le espressioni $y = 2\sin\left(x-\frac{\pi}{3}\right) - 2$ e $y = \sin x - \sqrt{3}\cos x - 2$ definiscono la stessa funzione $f$. Di $f$ si precisi: dominio, codominio e periodo.
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.29
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.29](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 3
 
 Si diano esempi di funzioni i cui grafici presentano un asintoto verticale e un asintoto orizzontale.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.30
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
 
 Si enunci il teorema del valor medio o di Lagrange e se ne illustrino il legame con il teorema di Rolle e le implicazioni ai fini della determinazione della crescenza o decrescenza delle funzioni.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.30
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
 
 Si dimostri che l'equazione $x^9 - 9x + 9 = 0$ ha una sola radice reale.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.31
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.31](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

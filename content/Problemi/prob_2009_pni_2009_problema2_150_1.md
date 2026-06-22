@@ -1,0 +1,39 @@
+---
+title: 2009 PNI — Problema 2 — Problema 1
+tipo: problema
+item_id: prob_2009_pni_2009_problema2_150_1
+prova_id: prova_2009_pni_2009_problema2_150
+anno: '2009'
+pdf: Prova_Maturita_2009.pdf
+cluster: Studio di Funzione
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2009
+---
+
+Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Prova:** [[Prove/2009_pni_2009_problema2_150|2009 PNI — Problema 2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+
+È assegnata la funzione, dipendente dal parametro reale $k$:
+
+$$f(x)=x^3+kx$$
+
+1. Si studi l'andamento del grafico di $f(x)$ distinguendo i casi $k=0$, $k>0$ e $k<0$, e se ne traccino i grafici corrispondenti.
+
+2. Si consideri il caso $k=1$, cioè la funzione $y=x^3$, e la retta $y=1-x$. Si verifichi che esse si incontrano in un solo punto $P$, con ascissa compresa tra $0$ e $1$, e se ne determini l'ascissa a meno di $\frac{1}{10}$ mediante il metodo delle tangenti di Newton applicato alla funzione $f(x)=x^3+x-1$.
+
+3. Data la funzione $g(x)=x^3$ e la sua inversa $y=\sqrt[3]{x}$, si calcoli l'area della regione finita di piano racchiusa tra i due grafici.
+
+4. Si consideri il solido $W$ che ha per base la regione $D$ compresa tra i grafici di $g(x)=x^3$ e $y=\sqrt[3]{x}$ e le cui sezioni con piani perpendicolari alla bisettrice $y=x$ sono quadrati; si determini la sezione di area massima e si calcoli il volume di $W$.
+
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Equazioni e Disequazioni]]
+**Metodi:** [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
+**Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
+**Soluzione:** [[Svolgimenti/sol_prob_2009_pni_2009_problema2_150_1|📝 Svolgimento]] · [📄 PDF p.150](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+
+
+#maturita/problema #area/analisi #cluster/studio_di_funzione

@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Derivazione e calcolo di derivate
-
 *Metodo risolutivo* — **880** problemi/quesiti.
 
 ## Problemi e quesiti

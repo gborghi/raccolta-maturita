@@ -6,8 +6,6 @@ tags:
   - cluster/studio_di_funzione
 ---
 
-# Studio di Funzione
-
 *Cluster tematico* — **309 prove**.
 
 ## Prove

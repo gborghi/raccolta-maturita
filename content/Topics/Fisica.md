@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Fisica
-
 *Argomento* — **52** problemi/quesiti.
 
 ## Problemi e quesiti

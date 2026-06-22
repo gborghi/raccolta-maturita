@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82
+title: 2007 Liceo Comunicazione Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82
 
 ## Quesito 1
 

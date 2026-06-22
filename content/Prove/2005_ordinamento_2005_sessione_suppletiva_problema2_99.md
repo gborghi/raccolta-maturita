@@ -12,12 +12,9 @@ tags:
 title: 2005 Ordinamento Suppletiva — Problema 2
 ---
 
-# 2005 Ordinamento Suppletiva — Problema 2
+Fonte: p.99 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.99 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 È assegnata la funzione $f_a(x) = \dfrac{a}{1+x^2}$, dove $a$ è un parametro reale non nullo.
 
@@ -31,11 +28,11 @@ Fonte:  · p.99 · 📄 Apri PDF
 
 **5)** Dopo aver controllato che il valore $\bar{a}$ sopraddetto è $4$, indicare con $\bar{\gamma}$ e $\bar{G}$ la circonferenza e la curva corrispondenti a tale valore e calcolare le aree delle regioni piane in cui la curva $\bar{G}$ divide il cerchio delimitato da $\bar{\gamma}$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2005_ordinamento_2005_sessione_suppletiva_problema2_99#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.99
+**Soluzione:** [[Soluzioni/2005_ordinamento_2005_sessione_suppletiva_problema2_99#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

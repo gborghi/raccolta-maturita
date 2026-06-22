@@ -12,12 +12,9 @@ tags:
 title: 2009 PNI Straordinaria — Problema 1
 ---
 
-# 2009 PNI Straordinaria — Problema 1
-
-Fonte:  · p.122 · 📄 Apri PDF
+Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Dato il triangolo $ABC$, rettangolo in $C$, di cateti $3$ e $4$, si consideri una retta passante per $C$, non secante il triangolo e formante un angolo $x$ con il cateto $AC$.
 
@@ -30,11 +27,11 @@ $$y=\frac{-2t^2+14t+12}{t^2+1}.$$
 
 **4.** Si calcoli l'area sottesa da quest'ultima curva nel suddetto intervallo.
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Euclidea]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_problema1_122#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_problema1_122#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

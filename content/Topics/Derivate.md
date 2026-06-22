@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Derivate
-
 *Argomento* — **664** problemi/quesiti.
 
 ## Problemi e quesiti

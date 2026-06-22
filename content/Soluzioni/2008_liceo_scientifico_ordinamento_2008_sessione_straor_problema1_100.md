@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema1_100
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: >-
-  Soluzioni —
-  2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema1_100
+title: 2008 Ordinamento Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema1_100
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2008
 Sessione $Straordinaria-$ Problema $1$

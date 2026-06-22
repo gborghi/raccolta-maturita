@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2013_sessione_suppletiva_2013_prova_138
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_sessione_suppletiva_2013_prova_138
+title: 2013 Suppletiva — Prova — Svolgimento
 ---
-
-# Soluzioni — 2013_sessione_suppletiva_2013_prova_138
-
 > Sessione suppletiva 2013 — Maturità Scientifica (M557 corso di ordinamento + Y557 Piano Nazionale Informatica).
 > Il raw contiene la traccia dei problemi e gli svolgimenti dei quesiti del questionario.
 

@@ -12,12 +12,15 @@ tags:
 title: 2017 Sportiva — Problema 2
 ---
 
-# 2017 Sportiva — Problema 2
+Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.63 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2017_scientifico_comunicazione_opzione_sportiva_2017_problema2_63/2017_scientifico_comunicazione_opzione_sportiva_2017_problema2_63_fig.svg]]
+*Grafico di $f$ su $[0;4]$: spezzata $OB$, $BD$, $DE$ con il quadrato $OABC$; punti $O(0,0)$, $B(1,1)$, $D(3,-1)$, $E(4,0)$.*
+
+<!--fig:end-->
 
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, periodica di periodo $T=4$ il cui grafico, nell'intervallo $[0;4]$, è il seguente *(figura nel PDF)*.
 
@@ -34,11 +37,11 @@ Dimostra che la porzione quadrata di piano $OABC$ in Figura 1 viene suddivisa da
 
 **4)** Determina infine il volume del solido generato dalla rotazione attorno all'asse $y$ della porzione di piano compresa tra il grafico della funzione $h$ per $x\in[0;3]$ e l'asse delle $x$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Derivate]], [[Calcolo Integrale]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Derivate]], [[Calcolo Integrale]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2017_scientifico_comunicazione_opzione_sportiva_2017_problema2_63#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2017_scientifico_comunicazione_opzione_sportiva_2017_problema2_63#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

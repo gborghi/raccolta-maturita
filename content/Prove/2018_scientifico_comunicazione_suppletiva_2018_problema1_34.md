@@ -12,12 +12,9 @@ tags:
 title: 2018 Scientifico Comunicazione Suppletiva — Problema 1
 ---
 
-# 2018 Scientifico Comunicazione Suppletiva — Problema 1
-
-Fonte:  · p.34 · 📄 Apri PDF
+Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Sia dato un sistema di assi cartesiani $Oxy$ in cui l'unità corrisponde a 1 metro. Una particella puntiforme si muove lungo l'asse delle ascisse, nel verso positivo, partendo dall'origine, con una velocità di 2 metri al secondo. Quando la particella si trova in un generico punto $x = a$, costruisci un triangolo prendendo le tangenti alla curva di equazione $y = ax - x^2$ nei punti di ascissa 0 e $a$.
 
@@ -32,7 +29,7 @@ Sia dato un sistema di assi cartesiani $Oxy$ in cui l'unità corrisponde a 1 met
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Trigonometria]], [[Calcolo Integrale]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_scientifico_comunicazione_suppletiva_2018_problema1_34#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2018_scientifico_comunicazione_suppletiva_2018_problema1_34#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

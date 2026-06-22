@@ -12,12 +12,9 @@ tags:
 title: Ordinamento 2014 — Problema 1
 ---
 
-# Ordinamento 2014 — Problema 1
-
-Fonte:  · p.11 · 📄 Apri PDF
+Fonte: p.11 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Il grafico $\Gamma$ riportato è quello della funzione integrale
 $$g(x) = \int_0^x f(t)\,dt,$$
@@ -31,11 +28,11 @@ con $f$ definita nell'intervallo $[0;\,w]$ e ivi continua e derivabile. Inoltre 
 
 4. Si calcoli il volume del solido $W$ generato dalla rotazione attorno all'asse $y$ della regione finita di piano delimitata dalla curva $\Gamma$ e dall'asse $x$.
 
-**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Funzione integrale]]
-**Soluzione:** [[Soluzioni/2014_ordinamento_2014_problema1_11#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.11
+**Soluzione:** [[Soluzioni/2014_ordinamento_2014_problema1_11#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.11](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

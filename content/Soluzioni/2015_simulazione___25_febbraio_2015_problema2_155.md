@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_simulazione___25_febbraio_2015_problema2_155
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_simulazione___25_febbraio_2015_problema2_155
+title: 2015 SIMULAZIONE - 25 FEBBRAIO 2015 — Svolgimento
 ---
-# Soluzioni — 2015_simulazione___25_febbraio_2015_problema2_155
 
-## Problema 1
 
 SIMULAZIONE $- 25$ FEBBRAIO 2015 - PROBLEMA $2$
 

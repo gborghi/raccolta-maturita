@@ -12,12 +12,9 @@ tags:
 title: 2009 Estero Europa — Problema 1
 ---
 
-# 2009 Estero Europa — Problema 1
-
-Fonte:  · p.52 · 📄 Apri PDF
+Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ d'equazione $x^2+y^2=25$.
 
@@ -32,7 +29,7 @@ d) Il settore circolare $POQ$ è la base di un solido $\mathcal{W}$ che tagliato
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema1_52#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema1_52#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

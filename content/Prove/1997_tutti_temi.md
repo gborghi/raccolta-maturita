@@ -12,12 +12,9 @@ tags:
 title: 1997 — Tema di maturita
 ---
 
-# 1997 — Tema di maturita
-
-Fonte:  · p.147 · 📄 Apri PDF
+Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 *Il candidato scelga a suo piacimento due dei seguenti problemi e li risolva. Tempo concesso: 5 ore.*
 
@@ -82,7 +79,7 @@ Calcolare il volume del solido generato dalla rotazione della curva, che rappres
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]]
-**Fonte:** 📄 Testo (PDF) — p.147
+**Fonte:** [📄 Testo (PDF) — p.147](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -12,9 +12,7 @@ tags:
 title: 1920 Tema di maturita
 ---
 
-# 1920 Tema di maturita
-
-Fonte:  · p.64 · 📄 Apri PDF
+Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -28,7 +26,7 @@ $$\begin{cases} \cos x + \cos y = a \\ \cos^2 x + \cos^2 y = \dfrac{1}{2} \end{c
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.64
+**Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -39,7 +37,7 @@ Due rette $XX'$, $YY'$ si tagliano perpendicolarmente nel punto $O$. Determinare
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.64
+**Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -50,7 +48,7 @@ Un cilindro e un cono rotondo hanno la stessa altezza e lo stesso volume. Sapend
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.64
+**Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -63,7 +61,7 @@ Quale deve essere la posizione del punto sulla circonferenza perché sia minima 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Massimi e Minimi]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Fonte:** 📄 Testo (PDF) — p.64
+**Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 3
 
@@ -76,7 +74,7 @@ Fra tutti i rettangoli, di cui un lato è una corda parallela alla tangente e il
 **Topic:** [[Geometria Euclidea]], [[Geometria Solida]], [[Trigonometria]], [[Massimi e Minimi]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.64
+**Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 4
 
@@ -87,7 +85,7 @@ Sezionare una sfera di raggio $r$ con un piano, in modo che la somma della maggi
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.64
+**Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

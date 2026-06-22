@@ -12,12 +12,9 @@ tags:
 title: 2010 PNI Suppletiva — Problema 1
 ---
 
-# 2010 PNI Suppletiva — Problema 1
+Fonte: p.123 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.123 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 È data una circonferenza di centro $O$ e diametro $\overline{AB}=2$. Sul prolungamento del diametro $AB$, dalla parte di $B$, si prenda un punto $P$ e da esso si conduca una tangente alla circonferenza.
 
@@ -39,11 +36,11 @@ $$\frac{x^2+1}{x^2+2x}=a+\frac{b}{x}+\frac{c}{x+2}.$$
 
 **4)** Tenendo presente la scomposizione del punto precedente, si calcoli l'area della regione piana, limitata da $\gamma$, dal suo asintoto orizzontale e dalla retta d'equazione $x=2$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Euclidea]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Studio di funzione completo]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2010_pni_2010_sessione_suppletiva_problema1_123#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.123
+**Soluzione:** [[Soluzioni/2010_pni_2010_sessione_suppletiva_problema1_123#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

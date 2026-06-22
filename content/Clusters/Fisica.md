@@ -6,8 +6,6 @@ tags:
   - cluster/fisica
 ---
 
-# Fisica
-
 *Cluster tematico* — **1 prove**.
 
 ## Prove

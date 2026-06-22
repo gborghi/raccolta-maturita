@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_americhe_2015_problema2_47
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_americhe_2015_problema2_47
+title: 2015 Americhe — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2015_americhe_2015_problema2_47
 
-## Problema 1
 
 Americhe 2015 - Problema $2$
 

@@ -12,12 +12,9 @@ tags:
 title: 2013 PNI Straordinaria — Problema 1
 ---
 
-# 2013 PNI Straordinaria — Problema 1
+Fonte: p.119 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.119 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Data la semicirconferenza di centro $O$ e diametro $AB=2r$, si prenda su di essa un punto $P$ e si tracci il raggio $OQ$ parallelo ad $AP$.
 
@@ -32,11 +29,11 @@ $$f(x)=\frac{-2x^2+x+1}{x+1}.$$
 
 4) Si calcoli l'area della regione di piano $\sigma$, delimitata dall'asse $x$, da $\gamma$ e dai suoi asintoti.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_pni_2013_sessione_straordinaria_problema1_119#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.119
+**Soluzione:** [[Soluzioni/2013_pni_2013_sessione_straordinaria_problema1_119#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.119](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

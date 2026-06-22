@@ -3,10 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte2_2020_3_76
 pdf: SimZan_parte2.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte2_2020_3_76
+title: 'Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte2_2020_3_76
 
 ## Problema 1
 

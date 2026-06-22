@@ -1,0 +1,109 @@
+---
+title: 2010 PNI — Problema 1 — Problema 1 — Svolgimento
+tipo: soluzione
+item_id: sol_prob_2010_pni_2010_problema1_219_1
+of_item: prob_2010_pni_2010_problema1_219_1
+prova_id: prova_2010_pni_2010_problema1_219
+anno: '2010'
+pdf: Prova_Maturita_2010.pdf
+cluster: Studio di Funzione
+tags:
+  - maturita/soluzione
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2010
+---
+
+**Problema:** [[Problemi/prob_2010_pni_2010_problema1_219_1|2010 PNI — Problema 1 — Problema 1]] · **Prova:** [[Prove/2010_pni_2010_problema1_219|2010 PNI — Problema 1]]
+
+### a)
+
+Il grafico di $g$ è composto da tre archi di semicirconferenza.
+
+**Prima circonferenza:**
+
+$$x^2 + y^2 = 4 \quad\Rightarrow\quad y = \sqrt{4 - x^2}$$
+
+(semicirconferenza superiore, $-2 \le x \le 2$)
+
+**Seconda circonferenza:**
+
+$$(x-3)^2 + y^2 = 1 \quad\Rightarrow\quad y = -\sqrt{1-(x-3)^2} = -\sqrt{-x^2+6x-8}$$
+
+(semicirconferenza inferiore, $g < 0$ per $2 < x \le 4$)
+
+**Terza circonferenza:**
+
+$$\left(x - \frac{9}{2}\right)^2 + y^2 = 1 \quad\Rightarrow\quad y = \sqrt{1-\left(x-\tfrac{9}{2}\right)^2} = \sqrt{-x^2+9x-20}$$
+
+(semicirconferenza superiore, $4 < x \le 5$)
+
+Quindi l'espressione analitica della $g$ è:
+
+$$g(x) = \begin{cases}
+\sqrt{4 - x^2} & \text{se } -2 \le x \le 2 \\[6pt]
+-\sqrt{-x^2+6x-8} & \text{se } 2 < x \le 4 \\[6pt]
+\sqrt{-x^2+9x-20} & \text{se } 4 < x \le 5
+\end{cases}$$
+
+La $g(x)$ non è derivabile in $x = -2$, $x = 2$, $x = 4$ e $x = 5$, poiché la tangente in tali punti è verticale. In particolare la derivata destra in $x = -2$ è $+\infty$, la derivata (destra e sinistra) in $x = 2$ è $-\infty$, la derivata (destra e sinistra) in $x = 4$ è $+\infty$, la derivata sinistra in $x = 5$ è $-\infty$.
+
+### b)
+
+Nell'intervallo $-2 < x < 5$ la funzione $f$, di cui $g$ è la derivata, presenta un massimo relativo in $x = 2$ ed un minimo relativo in $x = 4$. Infatti risulta:
+
+- $f'(x) = g(x) = 0$ per $x = 2$ e $x = 4$
+- $f'(x) > 0$ per $-2 < x < 2$ e per $4 < x < 5$ (il segno di $f'$ corrisponde al segno di $g$): $f$ crescente
+- $f'(x) < 0$ per $2 < x < 4$: $f$ decrescente.
+
+Quindi $x = 2$ è un massimo relativo e $x = 4$ è un minimo relativo.
+
+### c)
+
+La funzione $f$ è definita dall'integrale:
+
+$$f(x) = \int_{-2}^{x} g(t)\,dt$$
+
+**Calcolo di $f(4)$:**
+
+$$f(4) = \int_{-2}^{4} g(t)\,dt = \text{area primo semicerchio} - \text{area secondo semicerchio}$$
+
+$$= \frac{\pi \cdot 2^2}{2} - \frac{\pi \cdot 1^2}{2} = 2\pi - \frac{\pi}{2} = \frac{3\pi}{2}$$
+
+(il secondo semicerchio ha centro $(3,0)$ e raggio $1$ e dà contributo negativo poiché $g < 0$ in quell'intervallo)
+
+**Calcolo di $f(1)$:**
+
+$f(1)$ è l'area delimitata dal primo semicerchio (raggio $2$, centro nell'origine), dall'asse $x$ e dalla retta $x = 1$.
+
+L'area richiesta si ottiene togliendo dal semicerchio l'area di $ACB$; questa si ottiene togliendo dal settore circolare $AOB$ (di ampiezza $60°$) l'area del triangolo $AOB$:
+
+$$\text{area semicerchio} - \text{area}(ABC) = \text{area semicerchio} - \bigl(\text{area settore }AOB - \text{area triangolo }AOB\bigr)$$
+
+$$= 2\pi - \left(\frac{1}{6}\cdot\pi\cdot 4 - \frac{1}{2}\cdot 2 \cdot 2 \cdot \operatorname{sen}(60°)\right) = 2\pi - \frac{2\pi}{3} + \frac{1}{2}\cdot 4\cdot\frac{\sqrt{3}}{2} = 2\pi - \frac{2\pi}{3} + \sqrt{3}$$
+
+$$f(1) = \frac{4\pi}{3} + \sqrt{3}$$
+
+*(grafico — vedi PDF)*
+
+### d)
+
+$f''(x) = 0$ dove $g'(x) = 0$: dal grafico della $g(x)$ si deduce che $g'(x) = 0$ in $x = 0$, $x = 3$ e $x = \frac{9}{2}$.
+
+$f(x) > 0$ dove l'integrale che la definisce è $> 0$. Tenendo presente il significato geometrico della funzione integrale e osservando che l'area del secondo semicerchio è minore dell'area del primo, risulta:
+
+$$f(x) = \int_{-2}^{x} g(t)\,dt > 0 \quad \text{per ogni } x \in (-2,\,5].$$
+
+Per il grafico qualitativo della $f$ si osservi che:
+
+- $f(-2) = 0$, $\quad f'(-2) = g(-2) = 0$, $\quad f''(0) = g'(0) = 0$ (flesso), $\quad f'(x) > 0$ da $-2$ a $2$
+- in $x = 2$ c'è un massimo
+- $f'(x) < 0$ da $2$ a $4$; in $x = 4$ minimo, $f''(3) = 0$ (flesso in $x = 3$)
+- $f'(x) > 0$ da $4$ a $5$, $\quad f''\!\left(\tfrac{9}{2}\right) = 0$ (flesso in $x = \tfrac{9}{2}$), $\quad f'(5) = 0$
+
+*(grafico qualitativo di $f$ — vedi PDF)*
+
+*Fonte:* [📄 PDF p.219](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+
+
+#maturita/soluzione #area/analisi #cluster/studio_di_funzione

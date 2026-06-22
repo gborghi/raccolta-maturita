@@ -12,9 +12,7 @@ tags:
 title: 2013 Ordinaria Europa — Prova
 ---
 
-# 2013 Ordinaria Europa — Prova
-
-Fonte:  · p.44 · 📄 Apri PDF
+Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -33,7 +31,7 @@ $$x^2+y^2+4x=12 \qquad e \qquad x^2+y^2-4x=12$$
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.44
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
 
@@ -47,11 +45,11 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 
 4. Si disegni la curva simmetrica di $\Phi$ rispetto all'asse $y$ e se ne scriva l'equazione. Similmente si faccia per la curva simmetrica di $\Phi$ rispetto alla retta $y=x$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.44
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 1
 
@@ -60,7 +58,7 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
 
@@ -69,7 +67,7 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 3
 
@@ -78,7 +76,7 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
 
@@ -87,17 +85,17 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 5
 
 5. Si faccia un esempio di una funzione, definita per tutti i numeri reali $x$, che sia priva di derivata:
    a) in un certo punto; b) in più punti; c) in infiniti punti.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
 
@@ -106,7 +104,7 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 7
 
@@ -115,7 +113,7 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
 
@@ -124,7 +122,7 @@ Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_44#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

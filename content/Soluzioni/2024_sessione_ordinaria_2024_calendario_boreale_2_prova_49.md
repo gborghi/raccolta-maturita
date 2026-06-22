@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49
 pdf: Prova_Maturita_2024.pdf
 source: text
-title: Soluzioni — 2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49
+title: 2024 Ordinaria Boreale 2 — Prova — Svolgimento
 ---
-# Soluzioni — 2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49
 
 ## Problema 1
 

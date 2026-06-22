@@ -12,12 +12,9 @@ tags:
 title: 2006 Estero Europa — Problema 1
 ---
 
-# 2006 Estero Europa — Problema 1
+Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.48 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Siano $\lambda$ e $\gamma$ le curve d'equazioni rispettive $y = e^x$ e $y = e^{-x}$.
 
@@ -34,7 +31,7 @@ Siano $\lambda$ e $\gamma$ le curve d'equazioni rispettive $y = e^x$ e $y = e^{-
 **Topic:** [[Esponenziali e Logaritmi]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema1_48#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.48
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema1_48#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

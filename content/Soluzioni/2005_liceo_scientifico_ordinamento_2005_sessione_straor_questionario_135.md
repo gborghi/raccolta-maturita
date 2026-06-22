@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135
+title: 2005 Ordinamento Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135
 
 ## Quesito 1
 

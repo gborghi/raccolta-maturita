@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2003_ordinamento_2003_sessione_straordinaria_problema2_143
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_ordinamento_2003_sessione_straordinaria_problema2_143
+title: 2003 Straordinaria Ordinamento — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2003_ordinamento_2003_sessione_straordinaria_problema2_143
 
-## Problema 1
 
 ORDINAMENTO 2003 - SESSIONE STRAORDINARIA - PROBLEMA $2$
 

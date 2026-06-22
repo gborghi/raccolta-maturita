@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2023_sessione_suppletiva_2023_problema2_76
 pdf: Prova_Maturita_2023.pdf
 source: text
-title: Soluzioni — 2023_sessione_suppletiva_2023_problema2_76
+title: 2023 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2023_sessione_suppletiva_2023_problema2_76
 
-## Problema 1
 
 Sessione suppletiva 2023 - Problema $2$
 

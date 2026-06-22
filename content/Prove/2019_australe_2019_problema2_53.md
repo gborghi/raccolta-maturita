@@ -12,12 +12,9 @@ tags:
 title: 2019 Australe — Problema 2
 ---
 
-# 2019 Australe — Problema 2
+Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.53 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Un'onda elettromagnetica si propaga nel vuoto ed è linearmente polarizzata. Il campo elettrico dell'onda varia secondo la legge $E(x,t)=E_0\operatorname{sen}(kx-\omega t)$, in cui $\vec{E}$ è di verso lungo cui si propaga l'onda, $k$ la lunghezza d'onda e $\omega$ la pulsazione. Il campo magnetico vibra in un piano perpendicolare al campo elettrico.
 
@@ -29,11 +26,11 @@ c) Considerata la funzione $f(x)=A\operatorname{sen}\!\left(kx-\frac{\pi}{2}\rig
 
 d) Presa $A=2$ e $k=4$, e quindi $f(x)=-2\cos(4x)$, determinare l'area della regione delimitata dal grafico della funzione $g(x)=[f(x)]^2$ e dall'asse delle ascisse in un periodo. Si rappresentino poi il grafico della $g(x)$ e i punti di flesso della $f(x)$.
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2019_australe_2019_problema2_53#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2019_australe_2019_problema2_53#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

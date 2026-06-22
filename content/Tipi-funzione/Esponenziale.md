@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Esponenziale
-
 *Tipo di funzione* — **75** problemi/quesiti.
 
 ## Problemi e quesiti

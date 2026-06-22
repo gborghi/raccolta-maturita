@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Dimostrazione/prova rigorosa di una proprieta
-
 *Metodo risolutivo* — **476** problemi/quesiti.
 
 ## Problemi e quesiti

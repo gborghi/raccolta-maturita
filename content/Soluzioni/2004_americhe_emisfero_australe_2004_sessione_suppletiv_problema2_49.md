@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49
+title: 2004 Americhe australe Suppletiva — Problema 2 e Quesiti — Svolgimento
 ---
-# Soluzioni — 2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49
 
 ## Quesito 1
 

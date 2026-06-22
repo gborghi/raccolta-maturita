@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15
+title: 2004 Estero Americhe Ordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2004
 Sessione $Ordinaria-$ Problema $1$

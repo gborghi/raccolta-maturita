@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2008_sessione_ordinaria_2008_prova_147
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: Soluzioni — 2008_sessione_ordinaria_2008_prova_147
+title: 2008 Ordinaria — Prova (PNI Informatica) — Svolgimento
 ---
-# Soluzioni — 2008_sessione_ordinaria_2008_prova_147
 
 ## Problema 1
 

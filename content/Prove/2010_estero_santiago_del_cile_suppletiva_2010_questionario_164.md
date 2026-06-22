@@ -12,10 +12,8 @@ tags:
 title: 2010 Estero Santiago Suppletiva — Questionario
 ---
 
-# 2010 Estero Santiago Suppletiva — Questionario
-
-Fonte:  · p.164 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -26,7 +24,7 @@ Le misure dei lati di un triangolo sono $5$, $12$ e $13$ dm. Si calcolino, con l
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -40,7 +38,7 @@ $$f(x)=\cos^3 x-3\cos x+2.$$
 **Topic:** [[Calcolo Integrale]], [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -52,7 +50,7 @@ $$4\binom{n}{4}=15\binom{n-2}{3}.$$
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.165
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.165](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
@@ -63,7 +61,7 @@ Si inscriva in una sfera di raggio $R$ il cono rotondo di massimo volume.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.165
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.165](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
@@ -74,7 +72,7 @@ Sia $P$ un punto del piano di coordinate $(a\cos t,\, b\sin t)$ dove è $0\le t\
 **Topic:** [[Geometria Analitica (piano)]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.166
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.166](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
@@ -84,11 +82,11 @@ Si dimostri che esiste almeno un punto dell'intervallo $\left]0;\,\dfrac{\pi}{4}
 $$f(x)=\sin x+2x\cos x+1 \qquad \text{e} \qquad g(x)=2x\sin x+\cos x+\tan x$$
 hanno tangenti parallele.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.167
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.167](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
@@ -96,11 +94,11 @@ hanno tangenti parallele.
 
 Si dimostri che l'equazione $e^x+3x=0$ ammette una ed una sola soluzione $\alpha$. Si determini l'intervallo di ampiezza $10^{-1}$ cui $\alpha$ appartiene.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.168
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.168](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
@@ -112,7 +110,7 @@ $$\lim_{n\to\infty}\frac{n^n}{n!}.$$
 **Topic:** [[Limiti e Continuita]], [[Successioni e Serie]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.170
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.170](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

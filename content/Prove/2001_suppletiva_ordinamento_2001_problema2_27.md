@@ -12,12 +12,9 @@ tags:
 title: 2001 Suppletiva Ordinamento — Problema 2
 ---
 
-# 2001 Suppletiva Ordinamento — Problema 2
-
-Fonte:  · p.27 · 📄 Apri PDF
+Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Una piramide retta, di vertice $V$, ha per base il triangolo $ABC$, rettangolo in $A$, la cui area è $24a^2$, dove $a$ è una lunghezza assegnata. Si sa inoltre che $\dfrac{AB}{BC}=\dfrac{3}{5}$ e che il piano della faccia $VAB$ della piramide forma con il piano della base $ABC$ un angolo $\varphi$ tale che $\operatorname{sen}\varphi=\dfrac{12}{13}$.
 
@@ -32,7 +29,7 @@ d) Il prisma di volume massimo ha anche la massima area totale?
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Trigonometria]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_problema2_27#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_problema2_27#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

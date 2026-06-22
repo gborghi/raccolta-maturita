@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2018_sessione_straordinaria_2018_prova_85
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_sessione_straordinaria_2018_prova_85
+title: 2018 Sessione straordinaria — Prova (Sportiva) — Svolgimento
 ---
-# Soluzioni — 2018_sessione_straordinaria_2018_prova_85
 
 ## Problema 1
 

@@ -12,12 +12,9 @@ tags:
 title: 2018 Liceo Scientifico — Problema 1
 ---
 
-# 2018 Liceo Scientifico — Problema 1
+Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.6 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Devi programmare il funzionamento di una macchina che viene adoperata nella produzione industriale di mattonelle per pavimenti. Le mattonelle sono di forma quadrata di lato 1 (in un'opportuna unità di misura) e le fasi di lavoro sono le seguenti:
 
@@ -49,11 +46,11 @@ Il cliente decide di ordinare 5.000 mattonelle con il disegno derivato da $a_2(x
 
 **4)** Fornisci una stima motivata del numero di mattonelle che, avendo una macchia nella parte non colorata, risulteranno danneggiate al termine del ciclo di produzione.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Probabilita]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Analisi e interpretazione di dati e probabilita]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_liceo_scientifico_2018_problema1_6#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2018_liceo_scientifico_2018_problema1_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

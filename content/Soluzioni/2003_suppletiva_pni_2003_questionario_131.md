@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2003_suppletiva_pni_2003_questionario_131
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_suppletiva_pni_2003_questionario_131
+title: 2003 Suppletiva PNI — Questionario — Svolgimento
 ---
-# Soluzioni — 2003_suppletiva_pni_2003_questionario_131
 
 ## Quesito 1
 

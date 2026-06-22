@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2014_sessione_suppletiva_2014_prova_88
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_sessione_suppletiva_2014_prova_88
+title: 2014 Suppletiva — Prova — Svolgimento
 ---
-# Soluzioni — 2014_sessione_suppletiva_2014_prova_88
 
 ## Problema 1
 

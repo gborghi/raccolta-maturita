@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Limiti e Continuita
-
 *Argomento* — **287** problemi/quesiti.
 
 ## Problemi e quesiti

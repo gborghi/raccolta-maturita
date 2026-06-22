@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2018_comunicazione_opzione_sportiva_sessione_straordina_problema1_81
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: >-
-  Soluzioni —
-  2018_comunicazione_opzione_sportiva_sessione_straordina_problema1_81
+title: 2018 Comunicazione Sportiva Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2018_comunicazione_opzione_sportiva_sessione_straordina_problema1_81
 
-## Problema 1
 
 Comunicazione Opzione sportiva
 Sessione straordinaria 2018 - Problema $1$

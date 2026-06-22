@@ -12,12 +12,9 @@ tags:
 title: 1999 Estero — Problema 3
 ---
 
-# 1999 Estero — Problema 3
-
-Fonte:  · p.24 · 📄 Apri PDF
+Fonte: p.24 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 a) Fornire la definizione di piramide retta.
 
@@ -30,7 +27,7 @@ d) Posto che la piramide triangolare retta considerata abbia altezza $h$, perime
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/1999_estero_1999_problema3_24#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/1999_estero_1999_problema3_24#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

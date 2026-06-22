@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2009_pni_2009_sessione_suppletiva_problema1_86
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_pni_2009_sessione_suppletiva_problema1_86
+title: 2009 PNI Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2009_pni_2009_sessione_suppletiva_problema1_86
 
-## Problema 1
 
 PNI 2009 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

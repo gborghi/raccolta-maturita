@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2016_sessione_ordinaria_2016_prova_102
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_sessione_ordinaria_2016_prova_102
+title: 2016 Ordinaria (Internazionale) — Prova — Svolgimento
 ---
-# Soluzioni — 2016_sessione_ordinaria_2016_prova_102
 
 ## Problema 1
 

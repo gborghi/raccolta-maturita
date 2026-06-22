@@ -12,12 +12,9 @@ tags:
 title: 2010 Estero Australe Suppletiva — Problema 1
 ---
 
-# 2010 Estero Australe Suppletiva — Problema 1
-
-Fonte:  · p.64 · 📄 Apri PDF
+Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In un sistema di riferimento cartesiano $Oxy$, si consideri la parabola $\lambda$ di equazione $y = kx^2$, dove $k > 0$.
 
@@ -32,7 +29,7 @@ In un sistema di riferimento cartesiano $Oxy$, si consideri la parabola $\lambda
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_estero_calendario_australe_suppletiva_2010_problema1_64#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2010_estero_calendario_australe_suppletiva_2010_problema1_64#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

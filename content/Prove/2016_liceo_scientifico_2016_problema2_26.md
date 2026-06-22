@@ -12,12 +12,15 @@ tags:
 title: 2016 Liceo Scientifico — Problema 2 e Quesiti
 ---
 
-# 2016 Liceo Scientifico — Problema 2 e Quesiti
-
-Fonte:  · p.26 · 📄 Apri PDF
+Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
+
+<!--fig:start-->
+![[_attachments/2016_liceo_scientifico_2016_problema2_26/2016_liceo_scientifico_2016_problema2_26_fig.svg]]
+*Figura 1: grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$ con i punti notevoli A(0,1), B(1,4) massimo, C(3,2) flesso, D(5,0), E(7,-3/4) minimo, F(8,0) e semiretta per G(10,4).*
+
+<!--fig:end-->
 
 Nella figura 1 è rappresentato il grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$, derivabile in $\,]0,+\infty)$, e sono indicate le coordinate di alcuni suoi punti.
 
@@ -43,10 +46,10 @@ $$y=|f'(x)|,\qquad y=|f(x)|',\qquad y=\frac{1}{f(x)}$$
 
 4. Scrivi le equazioni delle rette tangenti al grafico della funzione $F(x)$ nei suoi punti di ascisse $0$ e $8$, motivando le risposte.
 
-**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2016_liceo_scientifico_2016_problema2_26#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2016_liceo_scientifico_2016_problema2_26#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

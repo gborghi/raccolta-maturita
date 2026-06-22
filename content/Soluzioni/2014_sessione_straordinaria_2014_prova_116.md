@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2014_sessione_straordinaria_2014_prova_116
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_sessione_straordinaria_2014_prova_116
+title: Straordinaria 2014 (PNI) — Prova — Svolgimento
 ---
-# Soluzioni — 2014_sessione_straordinaria_2014_prova_116
 
 ## Problema 1
 

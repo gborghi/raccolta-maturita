@@ -12,9 +12,7 @@ tags:
 title: 2015 Americhe — Questionario
 ---
 
-# 2015 Americhe — Questionario
-
-Fonte:  · p.52 · 📄 Apri PDF
+Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.52 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
 
@@ -37,7 +35,7 @@ ha una discontinuità di terza specie ("eliminabile").
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 3
 
@@ -48,7 +46,7 @@ b) descrivere le operazioni da compiere per verificare che, se l'intera scuola h
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.54
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
 
@@ -60,7 +58,7 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.55
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 5
 
@@ -69,7 +67,7 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.56
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
 
@@ -78,7 +76,7 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Topic:** [[Probabilita]], [[Statistica]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.57
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
 
@@ -89,7 +87,7 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
 
@@ -98,7 +96,7 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 **Topic:** [[Derivate]], [[Geometria Solida]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
 
@@ -109,7 +107,7 @@ e il piano $P$ di equazione $x+2y-z+2=0$, determinare per quale valore di $k$ la
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
 
@@ -118,7 +116,7 @@ e il piano $P$ di equazione $x+2y-z+2=0$, determinare per quale valore di $k$ la
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

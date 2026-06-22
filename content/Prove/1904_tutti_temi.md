@@ -12,9 +12,7 @@ tags:
 title: 1904 Tema di maturita
 ---
 
-# 1904 Tema di maturita
-
-Fonte:  · p.52 · 📄 Apri PDF
+Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -24,7 +22,7 @@ Fonte:  · p.52 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]], [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.52
+**Fonte:** [📄 Testo (PDF) — p.52](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.52 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.52
+**Fonte:** [📄 Testo (PDF) — p.52](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Funzione integrale
-
 *Tipo di funzione* — **9** problemi/quesiti.
 
 ## Problemi e quesiti

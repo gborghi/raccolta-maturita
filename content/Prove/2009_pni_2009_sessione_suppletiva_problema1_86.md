@@ -12,12 +12,9 @@ tags:
 title: 2009 PNI Suppletiva — Problema 1
 ---
 
-# 2009 PNI Suppletiva — Problema 1
+Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.86 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione:
 
@@ -31,11 +28,11 @@ $$f(x)=\begin{cases} \ln\sqrt{x^2+1} & \text{per } x<0 \\[4pt] 0 & \text{per } x
 
 4. Utilizzando uno dei metodi di integrazione numerica studiati, si calcoli un valore approssimato dell'area della superficie piana, delimitata dall'asse delle $x$ e dall'arco di $\gamma$ i cui estremi hanno ascisse $0$ e $\pi$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2009_pni_2009_sessione_suppletiva_problema1_86#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2009_pni_2009_sessione_suppletiva_problema1_86#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,10 +12,8 @@ tags:
 title: 2003 Ordinaria — Prova (Ordinamento)
 ---
 
-# 2003 Ordinaria — Prova (Ordinamento)
-
-Fonte:  · p.12 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.12 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -34,7 +32,7 @@ e) Determinare per quale valore di $s$ la regione piana delimitata dalla parabol
 **Topic:** [[Geometria Solida]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Problema 2
 
@@ -48,11 +46,11 @@ c) Studiare la funzione $f(x)$ corrispondente al valore di $m$ così trovato e d
 
 d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma$, dall'asse $x$ e dalla retta di equazione $x=1$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 1
 
@@ -61,7 +59,7 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
 
@@ -70,7 +68,7 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
 
@@ -79,7 +77,7 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
 
@@ -87,21 +85,21 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 A) $-1<x\le 3$;  B) $-1\le x<3$;  C) $0<x\le 3$;  D) $0\le x<3$.
 Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione della scelta effettuata.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Logaritmica]], [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
 
 5. La funzione $2x^3-3x^2+2$ ha un solo zero reale, vale a dire che il suo grafico interseca una sola volta l'asse delle ascisse. Fornire un'esauriente dimostrazione di questo fatto e stabilire se lo zero della funzione è positivo o negativo.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
 
@@ -110,7 +108,7 @@ Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
 
@@ -123,7 +121,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
 
@@ -134,10 +132,10 @@ C) è divisibile per $3$ ma non per $2$.
 D) non è divisibile né per $2$ né per $3$.
 Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta operata.
 
-**Topic:** [[Algebra]]
+**Topic:** [[Topics/Algebra|Algebra]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 9
 
@@ -146,7 +144,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 10
 
@@ -155,7 +153,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

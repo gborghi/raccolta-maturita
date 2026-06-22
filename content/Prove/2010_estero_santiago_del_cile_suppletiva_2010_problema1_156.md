@@ -12,12 +12,9 @@ tags:
 title: 2010 Estero Santiago Suppletiva — Problema 1
 ---
 
-# 2010 Estero Santiago Suppletiva — Problema 1
+Fonte: p.156 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.156 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano riferito ad un sistema di riferimento cartesiano $Oxy$, si denoti con $\Gamma$ la spezzata $OABC$ ove è: $A(2,2)$, $B(3,1)$, $C(4,2)$.
 
@@ -33,11 +30,11 @@ e si dica se essa è continua e derivabile per $x=2$.
 
 **d)** $S$ è la base di un solido $W$ le cui sezioni, ottenute tagliandolo con piani ortogonali all'asse $x$, sono tutte rettangoli la cui altezza è tripla della base. Si calcoli il volume di $W$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_problema1_156#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.156
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_problema1_156#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.156](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

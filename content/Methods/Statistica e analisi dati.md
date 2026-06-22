@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Statistica e analisi dati
-
 *Metodo risolutivo* — **32** problemi/quesiti.
 
 ## Problemi e quesiti

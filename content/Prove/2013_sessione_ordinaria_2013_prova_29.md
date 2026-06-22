@@ -12,12 +12,9 @@ tags:
 title: 2013 Ordinaria Americhe — Quesiti
 ---
 
-# 2013 Ordinaria Americhe — Quesiti
-
-Fonte:  · p.29 · 📄 Apri PDF
+Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 1. Un trapezio è inscritto in un semicerchio di raggio $2$ con una base coincidente con il diametro del cerchio. Si trovi l'area massima del trapezio.
 
@@ -43,7 +40,7 @@ Si determini la terna ordinata $(a,b,c)$ in modo che siano soddisfatte le seguen
 **Topic:** [[Massimi e Minimi]], [[Calcolo Combinatorio]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_29#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.29
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_29#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.29](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

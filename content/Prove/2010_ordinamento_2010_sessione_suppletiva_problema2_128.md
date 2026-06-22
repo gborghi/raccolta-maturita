@@ -12,12 +12,9 @@ tags:
 title: 2010 Ordinamento Suppletiva — Problema 2
 ---
 
-# 2010 Ordinamento Suppletiva — Problema 2
+Fonte: p.128 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.128 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 In un sistema di riferimento cartesiano $Oxy$, si denoti con $\Gamma_a$ il grafico della funzione
 $$f_a(x) = (x - a)\, e^{2 - \frac{x}{a}}$$
@@ -31,11 +28,11 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 
 4. Si calcoli l'area $S(k)$ della regione di piano del primo quadrante delimitata da $\Gamma_1$, dall'asse $x$ e dalla retta $x = k$, con $k > 1$. Cosa si può dire di $S(k)$ quando $k \to +\infty$?
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2010_ordinamento_2010_sessione_suppletiva_problema2_128#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2010_ordinamento_2010_sessione_suppletiva_problema2_128#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

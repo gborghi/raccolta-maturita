@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2016_sessione_ordinaria_2016_prova_94
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_sessione_ordinaria_2016_prova_94
+title: 2016 Ordinaria (Internazionale Cinese) — Prova — Svolgimento
 ---
-# Soluzioni — 2016_sessione_ordinaria_2016_prova_94
 
 ## Problema 1
 

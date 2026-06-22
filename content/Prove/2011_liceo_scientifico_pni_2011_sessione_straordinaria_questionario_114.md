@@ -12,9 +12,7 @@ tags:
 title: 2011 PNI Straordinaria — Questionario
 ---
 
-# 2011 PNI Straordinaria — Questionario
-
-Fonte:  · p.114 · 📄 Apri PDF
+Fonte: p.114 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.114 · 📄 Apri PDF
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.114
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.114](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.114 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.114
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.114](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.114 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.115
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.115](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.114 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -62,7 +60,7 @@ dall'asse $x$ e dalle rette $x=1$, $x=3$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -71,7 +69,7 @@ dall'asse $x$ e dalle rette $x=1$, $x=3$.
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.117
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.117](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -80,7 +78,7 @@ dall'asse $x$ e dalle rette $x=1$, $x=3$.
 **Topic:** [[Successioni e Serie]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.118
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -89,7 +87,7 @@ dall'asse $x$ e dalle rette $x=1$, $x=3$.
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.118
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 9
 
@@ -98,7 +96,7 @@ dall'asse $x$ e dalle rette $x=1$, $x=3$.
 **Topic:** [[Probabilita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.119
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.119](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
 
@@ -107,7 +105,7 @@ dall'asse $x$ e dalle rette $x=1$, $x=3$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Probabilita]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Analisi e interpretazione di dati e probabilita]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.120
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_questionario_114#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

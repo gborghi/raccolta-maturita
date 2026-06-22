@@ -12,12 +12,9 @@ tags:
 title: 2004 Estero Americhe Suppletiva — Problema 2
 ---
 
-# 2004 Estero Americhe Suppletiva — Problema 2
-
-Fonte:  · p.26 · 📄 Apri PDF
+Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Sia $S$ un semicerchio di raggio $2$. Si introduca nel piano cartesiano del semicerchio un sistema di coordinate cartesiane ortogonali e monometriche $xy$ e si determinino:
 
@@ -30,7 +27,7 @@ c) un'approssimazione in gradi sessagesimali dell'angolo che ciascuna diagonale 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

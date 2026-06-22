@@ -12,12 +12,9 @@ tags:
 title: 2003 Europa Ordinaria — Problema 2
 ---
 
-# 2003 Europa Ordinaria — Problema 2
-
-Fonte:  · p.75 · 📄 Apri PDF
+Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Si consideri un cono circolare retto.
 
@@ -32,7 +29,7 @@ Si consideri un cono circolare retto.
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_ord_problema2_75#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.75
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_ord_problema2_75#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.75](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

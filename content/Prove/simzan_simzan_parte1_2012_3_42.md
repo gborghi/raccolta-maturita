@@ -12,10 +12,8 @@ tags:
 title: 'Simulazione Zanichelli 2012 Sperimentale #3'
 ---
 
-# Simulazione Zanichelli 2012 Sperimentale #3
-
-Fonte:  · p.42 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ d) Si calcoli l'area della regione di piano del secondo quadrante delimitata dal
 
 e) Si calcoli il volume del solido che ha come base la regione limitata di piano individuata dal grafico della funzione, dall'asintoto e dall'asse delle ordinate, e le cui sezioni ottenute con piani perpendicolari all'asse $x$ sono esagoni regolari.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
 
@@ -49,11 +47,11 @@ c) Si dimostri che la retta $r$ di equazione $y = e - 2$, con $e$ base del logar
 
 d) Si calcoli l'area della regione finita di piano compresa tra $\gamma$, l'asse delle ascisse e la retta di equazione $x = 1$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 1
 
@@ -62,17 +60,17 @@ d) Si calcoli l'area della regione finita di piano compresa tra $\gamma$, l'asse
 **Topic:** [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
 
 2. Data la funzione $y = \arcsen(\operatorname{sen} x)$, se ne determinino dominio, codominio, periodicità e si discuta la derivabilità. Si rappresenti poi il grafico della funzione.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
 
@@ -83,7 +81,7 @@ soddisfa le ipotesi del teorema di Rolle nell'intervallo $\left[-\dfrac{\pi}{2};
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
 
@@ -92,7 +90,7 @@ soddisfa le ipotesi del teorema di Rolle nell'intervallo $\left[-\dfrac{\pi}{2};
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
 
@@ -101,7 +99,7 @@ soddisfa le ipotesi del teorema di Rolle nell'intervallo $\left[-\dfrac{\pi}{2};
 **Topic:** [[Massimi e Minimi]], [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Analisi e interpretazione di dati e probabilita]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 6
 
@@ -110,17 +108,17 @@ soddisfa le ipotesi del teorema di Rolle nell'intervallo $\left[-\dfrac{\pi}{2};
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
 
 7. Si determinino gli eventuali asintoti della funzione $f(x) = \ln(e^x - 1)$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
 
@@ -129,7 +127,7 @@ soddisfa le ipotesi del teorema di Rolle nell'intervallo $\left[-\dfrac{\pi}{2};
 **Topic:** [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 9
 
@@ -138,7 +136,7 @@ soddisfa le ipotesi del teorema di Rolle nell'intervallo $\left[-\dfrac{\pi}{2};
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
 
@@ -148,7 +146,7 @@ $$f(x) = \begin{cases} -\dfrac{|x|}{x} & \text{se } |x| > 1 \\ |x| & \text{se } 
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_3_42#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

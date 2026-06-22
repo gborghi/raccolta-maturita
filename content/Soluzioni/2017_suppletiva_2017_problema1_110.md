@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2017_suppletiva_2017_problema1_110
 pdf: Prova_Maturita_2017.pdf
 source: text
-title: Soluzioni — 2017_suppletiva_2017_problema1_110
+title: 2017 Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2017_suppletiva_2017_problema1_110
 
-## Problema 1
 
 Suppletiva 2017 - Problema $1$
 

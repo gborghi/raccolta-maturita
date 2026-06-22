@@ -12,12 +12,9 @@ tags:
 title: 2008 Ordinamento Suppletiva — Problema 1
 ---
 
-# 2008 Ordinamento Suppletiva — Problema 1
+Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.64 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Dato un quadrante $AOB$ di cerchio, di centro $O$ e raggio $2$, si consideri sull'arco $AB$ un punto $P$.
 
@@ -29,11 +26,11 @@ Dato un quadrante $AOB$ di cerchio, di centro $O$ e raggio $2$, si consideri sul
 
 4) Si calcoli l'area della parte finita di piano compresa tra la curva $\gamma$ e l'asse $x$.
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2008_ordinamento_2008_sessione_suppletiva_problema1_64#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2008_ordinamento_2008_sessione_suppletiva_problema1_64#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,12 +12,15 @@ tags:
 title: 2018 Sessione straordinaria — Problema 1
 ---
 
-# 2018 Sessione straordinaria — Problema 1
+Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.65 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2018_sessione_straordinaria_2018_problema1_65/2018_sessione_straordinaria_2018_problema1_65_fig.svg]]
+*Figura 1: profilo della parte superiore della candela, con cuspide al vertice e angolo $\vartheta$ tra le tangenti.*
+
+<!--fig:end-->
 
 Un produttore di candeline tea light vuole produrre un nuovo tipo di candela colorata che abbia una parte inferiore di forma cilindrica ed una parte superiore avente la forma riportata in figura 1, che si connetta perfettamente a quella inferiore, come mostrato in figura 2.
 
@@ -41,11 +44,11 @@ Un produttore di candeline tea light vuole produrre un nuovo tipo di candela col
 
 4. Fornisci una valutazione numerica dell'efficienza del piano dei confezionamenti, calcolando il rapporto tra area occupata dalle basi circolari delle candele e area disponibile in ciascuna delle due configurazioni. Tale rapporto deve essere espresso in percentuale. Ai fini del calcolo, considera che le celle poligonali evidenziate in grigio sono rispettivamente un triangolo equilatero e un quadrato.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Solida]], [[Trigonometria]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Solida]], [[Trigonometria]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_problema1_65#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.65
+**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_problema1_65#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

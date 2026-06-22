@@ -12,12 +12,9 @@ tags:
 title: Ordinamento 2013 Suppletiva — Problema 2
 ---
 
-# Ordinamento 2013 Suppletiva — Problema 2
-
-Fonte:  · p.65 · 📄 Apri PDF
+Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e la base minore $DC$ misurano rispettivamente $4\ \text{m}$ e $1\ \text{m}$, l'altezza del trapezio misura $3\ \text{m}$ e la tangente dell'angolo $B\hat{A}D$ è uguale a $\dfrac{3}{2}$.
 
@@ -32,7 +29,7 @@ Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e l
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2013_ordinamento_2013_sessione_suppletiva_problema2_65#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.65
+**Soluzione:** [[Soluzioni/2013_ordinamento_2013_sessione_suppletiva_problema2_65#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

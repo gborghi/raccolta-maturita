@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Calcolo combinatorio (disposizioni, permutazioni, combinazioni)
-
 *Metodo risolutivo* — **177** problemi/quesiti.
 
 ## Problemi e quesiti

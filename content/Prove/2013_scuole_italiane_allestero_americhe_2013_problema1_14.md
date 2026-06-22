@@ -12,12 +12,9 @@ tags:
 title: 2013 Scuole estero Americhe — Problema 1
 ---
 
-# 2013 Scuole estero Americhe — Problema 1
-
-Fonte:  · p.14 · 📄 Apri PDF
+Fonte: p.14 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 **Scuole italiane all'estero (Americhe) 2013 — Problema 1**
 
@@ -31,11 +28,11 @@ Fonte:  · p.14 · 📄 Apri PDF
 
 4) Si calcoli il volume del solido generato dalla rotazione attorno all'asse $y$ della regione di piano delimitata da $\Phi$, da $s$ e dalle rette $x=1$ e $x=2$.
 
-**Topic:** [[Geometria Euclidea]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Geometria Euclidea]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_scuole_italiane_allestero_americhe_2013_problema1_14#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.14
+**Soluzione:** [[Soluzioni/2013_scuole_italiane_allestero_americhe_2013_problema1_14#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.14](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

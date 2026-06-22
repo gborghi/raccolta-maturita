@@ -12,12 +12,9 @@ tags:
 title: 2005 Ordinamento Straordinaria — Problema 1
 ---
 
-# 2005 Ordinamento Straordinaria — Problema 1
-
-Fonte:  · p.128 · 📄 Apri PDF
+Fonte: p.128 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Considerato un triangolo $ABC$, acutangolo e isoscele sulla base $BC$, si chiami $D$ il piede della sua altezza condotta per $C$ e si costruisca, dalla stessa parte di $A$ rispetto a $BC$, il punto $E$ in modo che il triangolo $ECD$ sia simile ad $ABC$.
 
@@ -36,7 +33,7 @@ Considerato un triangolo $ABC$, acutangolo e isoscele sulla base $BC$, si chiami
 **Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema1_128#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema1_128#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

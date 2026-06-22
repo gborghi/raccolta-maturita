@@ -12,10 +12,8 @@ tags:
 title: 2023 Straordinaria — Prova
 ---
 
-# 2023 Straordinaria — Prova
-
-Fonte:  · p.44 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -33,11 +31,11 @@ d) Calcolare il
 $$\lim_{x\to\infty}\frac{f_n(x)-2}{g(x)-2}$$
 e verificare che il risultato non dipende da $n\in\mathbb{N}$, $n>1$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.44
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Problema 2
 
@@ -53,11 +51,11 @@ c) Verificare l'identità $g^2(x)-f^2(x)=1$ e determinare il numero intero per c
 
 d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice nel punto di minimo assoluto della funzione $g(x)$ e retta tangente, per $x=1$, parallela alla retta di equazione $2x+y=0$. Calcolare l'area della regione finita $R$ delimitata da $\gamma$, dal grafico di $g(x)$ e dalle rette di equazione $x=\pm 1$. Verificare che l'area di $R$ può essere approssimata con quella del triangolo isoscele inscritto nel segmento parabolico delimitato da $\gamma$ e dall'asse delle ascisse.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.44
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 1
 
@@ -66,7 +64,7 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 2
 
@@ -75,7 +73,7 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 3
 
@@ -84,7 +82,7 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
 
@@ -93,17 +91,17 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 5
 
 5. Determina l'equazione della funzione dispari che ha un solo flesso a tangente orizzontale e la cui derivata seconda è $f''=-10x^3+12x$.
 
-**Topic:** [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 6
 
@@ -112,17 +110,17 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 7
 
 7. Determinare il dominio della funzione $f(x)=\frac{x\sqrt{x+1}}{x^3-x}$ e stabilire la tipologia delle sue discontinuità.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Irrazionale]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.65
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 8
 
@@ -138,7 +136,7 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.65
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

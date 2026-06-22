@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2023_sessione_straordinaria_2023_prova_44
 pdf: Prova_Maturita_2023.pdf
 source: text
-title: Soluzioni — 2023_sessione_straordinaria_2023_prova_44
+title: 2023 Straordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2023_sessione_straordinaria_2023_prova_44
 
 ## Problema 1
 

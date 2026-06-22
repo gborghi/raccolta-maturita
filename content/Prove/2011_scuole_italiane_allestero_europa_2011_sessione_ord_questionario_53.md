@@ -12,9 +12,7 @@ tags:
 title: 2011 Estero Europa — Questionario
 ---
 
-# 2011 Estero Europa — Questionario
-
-Fonte:  · p.53 · 📄 Apri PDF
+Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.53 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]], [[Successioni e Serie]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -35,7 +33,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -44,17 +42,17 @@ Si motivi la risposta.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.54
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
 **Quesito 4.** La curva di equazione $y = \sqrt{x}\ln x$ ammette punti con tangente parallela all'asse $x$? Ammette punti con tangente parallela all'asse $y$? In caso affermativo si determinino.
 
-**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.54
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -63,7 +61,7 @@ Si motivi la risposta.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.55
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -72,7 +70,7 @@ Si motivi la risposta.
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.55
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -81,7 +79,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.56
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -90,7 +88,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.57
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

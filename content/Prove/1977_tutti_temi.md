@@ -12,12 +12,9 @@ tags:
 title: 1977 Tema di maturita
 ---
 
-# 1977 Tema di maturita
-
-Fonte:  · p.115 · 📄 Apri PDF
+Fonte: p.115 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
@@ -36,7 +33,7 @@ sia $y = 1$ e che i valori estremanti di $y$ siano $-2$ e $2$. Se ne disegni il 
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Trigonometria]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Ottimizzazione e ricerca dell'ottimo]]
-**Fonte:** 📄 Testo (PDF) — p.115
+**Fonte:** [📄 Testo (PDF) — p.115](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

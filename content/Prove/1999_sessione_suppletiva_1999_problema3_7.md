@@ -12,12 +12,9 @@ tags:
 title: 1999 Suppletiva — Problema 3
 ---
 
-# 1999 Suppletiva — Problema 3
-
-Fonte:  · p.7 · 📄 Apri PDF
+Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 L'informazione che si ha della parabola $f(x) = ax^2 + bx + c$ è tutta concentrata nel punto di ascissa $x = 5$ ed è:
 
@@ -30,7 +27,7 @@ b) stabilire altresì il rapporto tra i volumi descritti dalle aree (regioni) pr
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_1999_problema3_7#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_1999_problema3_7#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

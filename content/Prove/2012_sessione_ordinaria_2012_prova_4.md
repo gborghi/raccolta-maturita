@@ -12,10 +12,8 @@ tags:
 title: Sessione ordinaria 2012 — Prova
 ---
 
-# Sessione ordinaria 2012 — Prova
-
-Fonte:  · p.4 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ $$f(x)=\left|27x^3\right| \qquad e \qquad g(x)=\operatorname{sen}\left(\frac{3}{
 
 4. La regione $R$, ruotando attorno all'asse $x$, genera il solido $S$ e, ruotando attorno all'asse $y$, il solido $T$. Si scrivano, spiegandone il perché, ma senza calcolarli, gli integrali definiti che forniscono i volumi di $S$ e di $T$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Problema 2
 
@@ -54,7 +52,7 @@ Nel primo quadrante del sistema di riferimento $Oxy$ sono assegnati l'arco di ci
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 1
 
@@ -65,16 +63,16 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
 
 2. Si illustri il significato di asintoto e si fornisca un esempio di funzione $f(x)$ il cui grafico presenti un asintoto orizzontale e due asintoti verticali.
 
-**Topic:** [[Limiti e Continuita]], [[Studio di Funzione]]
+**Topic:** [[Limiti e Continuita]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 3
 
@@ -83,7 +81,7 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 4
 
@@ -92,7 +90,7 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 5
 
@@ -101,7 +99,7 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
 
@@ -110,7 +108,7 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 7
 
@@ -119,7 +117,7 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
 
@@ -128,7 +126,7 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 9
 
@@ -137,7 +135,7 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
 
@@ -147,11 +145,11 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 
     Si giustifichi la risposta.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Analisi qualitativa e deduzione di grafici]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,12 +12,9 @@ tags:
 title: 1996 — Tema di maturita
 ---
 
-# 1996 — Tema di maturita
-
-Fonte:  · p.144 · 📄 Apri PDF
+Fonte: p.144 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -71,11 +68,11 @@ Indicato con $D$ un punto della semicirconferenza di diametro $BC$, non contenen
 $$\Sigma = \frac{a^2}{6}\left(4\sin^2 x + 3\sin x \cos x\right),$$
 *(il testo prosegue nelle pagine successive del PDF)*
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Geometria Solida]], [[Massimi e Minimi]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.144
+**Fonte:** [📄 Testo (PDF) — p.144](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

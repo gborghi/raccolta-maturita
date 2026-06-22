@@ -12,9 +12,7 @@ tags:
 title: 'Simulazione Zanichelli 2025 — SimZan parte3 #3'
 ---
 
-# Simulazione Zanichelli 2025 — SimZan parte3 #3
-
-Fonte:  · p.72 · 📄 Apri PDF
+Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
@@ -26,11 +24,11 @@ b. Determina, in funzione di $a$, le coordinate del punto $A$ di intersezione tr
 c. Completa lo studio di funzione di $f_2(x)$ e traccia il suo grafico. Stabilisci in particolare se il grafico di $f_2(x)$ presenta o meno un punto di flesso e argomenta la tua risposta. Determina poi le equazioni delle rette $t_1$ e $t_2$ tangenti al grafico di $f_2(x)$ nei punti in cui questo interseca l'asse $x$.
 d. Considera il triangolo $T$ formato dalle rette $t_1$ e $t_2$ determinate al punto precedente e dall'asse $x$. Internamente a $T$ considera la regione di piano $S$ delimitata dall'asse $x$ e dal grafico di $f_2(x)$. Determina il rapporto tra l'area di $S$ e l'area di $T$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Razionale fratta]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Problema 2
 
@@ -41,11 +39,11 @@ b. Se $f(x)$ ha un'equazione del tipo $y=(ax^2+bx+2)e^{-x^2}$, quali sono i valo
 c. Verificato che i valori dei parametri ottenuti al punto precedente sono $a=1$ e $b=1$, sostituiscili nell'equazione di $f(x)$ e trova i punti di flesso della funzione ottenuta. Poi ricava le equazioni delle due rette tangenti al grafico di $f(x)$ condotte dal punto $P(-3;0)$. Determina infine l'ampiezza dell'angolo acuto formato dalle due rette tangenti approssimando il suo valore in gradi e primi sessagesimali.
 d. Sia $A(k)$, con $k>0$, l'area della regione finita di piano compresa tra il grafico di $f(x)$, gli assi cartesiani e la retta $x=k$. Calcola il valore di $\displaystyle\lim_{k\to+\infty}A(k)$ e dai un'interpretazione grafica del risultato ottenuto.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Funzioni Integrali]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 1
 
@@ -57,7 +55,7 @@ d. Sia $A(k)$, con $k>0$, l'area della regione finita di piano compresa tra il g
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 2
 
@@ -69,7 +67,7 @@ $$r:\begin{cases} x=2t \\ y=2+t \\ z=1-t,\end{cases}\quad \text{con } t\in\mathb
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 3
 
@@ -78,7 +76,7 @@ $$r:\begin{cases} x=2t \\ y=2+t \\ z=1-t,\end{cases}\quad \text{con } t\in\mathb
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 4
 
@@ -89,7 +87,7 @@ dove $k$ è un numero reale positivo. Verifica che $\gamma$ e $\alpha_k$ hanno u
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 5
 
@@ -98,7 +96,7 @@ dove $k$ è un numero reale positivo. Verifica che $\gamma$ e $\alpha_k$ hanno u
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 6
 
@@ -107,17 +105,17 @@ dove $k$ è un numero reale positivo. Verifica che $\gamma$ e $\alpha_k$ hanno u
 **Topic:** [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 7
 
 7. $p(x)$ è una funzione polinomiale pari di grado 4. Il suo grafico, in un sistema di riferimento cartesiano, ha un punto stazionario in $A(-\sqrt{2};-2)$ e passa per l'origine $O$. Determina le intersezioni tra il grafico di $p(x)$ e quello di $q(x)=\dfrac{p(x)}{x^2}$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 8
 
@@ -136,11 +134,11 @@ d. Il volume d'aria espirata nell'intervallo $[0;t]$ è espresso dall'integrale 
    ii. Valuta se l'integrale improprio $\displaystyle\int_0^{+\infty} f(s)\,ds$ è convergente, poi determina la capacità vitale forzata dell'atleta, ovvero il volume massimo d'aria espirato dopo una inspirazione profonda.
    iii. Calcola il volume dell'aria che si può ancora espirare dopo i primi 2 s di espirazione.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Geometria Analitica (piano)]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

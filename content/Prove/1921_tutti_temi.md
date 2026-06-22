@@ -12,9 +12,7 @@ tags:
 title: 1921 Tema di maturità
 ---
 
-# 1921 Tema di maturità
-
-Fonte:  · p.65 · 📄 Apri PDF
+Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -31,7 +29,7 @@ A quali conclusioni si giungerebbe:
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.65
+**Fonte:** [📄 Testo (PDF) — p.65](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -46,7 +44,7 @@ Come deve essere dato $a$ affinché il problema sia possibile?
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.65
+**Fonte:** [📄 Testo (PDF) — p.65](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -65,7 +63,7 @@ Ricavare ancora quest'ultima relazione dopo aver trovato $\widehat{A} = 2\wideha
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.65
+**Fonte:** [📄 Testo (PDF) — p.65](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -76,7 +74,7 @@ In un triangolo rettangolo d'ipotenusa $a$, è $m$ il rapporto tra il raggio del
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.65
+**Fonte:** [📄 Testo (PDF) — p.65](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -95,7 +93,7 @@ $$m = \frac{3 - \sqrt{3}}{2}.$$
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.65
+**Fonte:** [📄 Testo (PDF) — p.65](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

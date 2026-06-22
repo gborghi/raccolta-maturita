@@ -12,10 +12,8 @@ tags:
 title: 2024 Ordinaria — Prova
 ---
 
-# 2024 Ordinaria — Prova
-
-Fonte:  · p.1 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ c) Al variare del parametro reale $m$, determinare il numero di intersezioni tra
 
 d) Sia $S(k)$, con $k>\frac{1}{2}$, l'area della regione finita di piano compresa tra la curva $\gamma$, il suo asintoto obliquo, la retta di equazione $x=\frac{1}{2}$ e la retta di equazione $x=k$. Calcolare il $\lim_{k\to+\infty} S(k)$, fornendo un'interpretazione geometrica del risultato ottenuto.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Problema 2
 
@@ -57,11 +55,11 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 
 «Le forme create dal matematico, come quelle create dal pittore o dal poeta, devono essere belle: le idee, come i colori o le parole, devono legarsi armoniosamente. La bellezza è il requisito fondamentale: al mondo non c'è posto permanente per la matematica brutta». (G. H. Hardy)
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Irrazionale]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 1
 
@@ -70,7 +68,7 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.15
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.15](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 2
 
@@ -81,7 +79,7 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]], [[Massimi e Minimi]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 3
 
@@ -92,17 +90,17 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.17
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 4
 
 4. Dimostrare che l'equazione $x^3+x-\cos x=0$ ammette un'unica soluzione positiva.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.17
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 5
 
@@ -114,7 +112,7 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Sistemi di equazioni]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.18
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.18](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 6
 
@@ -123,16 +121,16 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.19
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.19](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 7
 
 7. Il prossimo 5 luglio la Terra raggiungerà l'afelio, il punto della propria orbita in cui è massima la distanza dal Sole, pari a circa $1{,}52\cdot10^{11}$ m. Il perielio è invece il punto che si trova alla minima distanza dal Sole, pari a circa $1{,}47\cdot10^{11}$ m. Determinare, in un opportuno sistema di riferimento, l'equazione che rappresenta la traiettoria della Terra intorno al Sole.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Fisica]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 8
 
@@ -142,7 +140,7 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

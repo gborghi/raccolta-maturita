@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2018_liceo_scientifico_2018_problema2_13
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_liceo_scientifico_2018_problema2_13
+title: 2018 Liceo Scientifico — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2018_liceo_scientifico_2018_problema2_13
 
-## Problema 1
 
 Liceo Scientifico 2018 - Problema $2$
 

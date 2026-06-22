@@ -12,12 +12,9 @@ tags:
 title: 2023 Suppletiva — Problema 1
 ---
 
-# 2023 Suppletiva — Problema 1
+Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.70 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Assegnata la funzione:
 $$f(x)=a\,x\,\ln x-\frac{3}{2}x$$
@@ -32,11 +29,11 @@ d) Studiare la funzione
 $$g(x)=\int_1^x f(t)\,dt$$
 dopo averne scritta l'espressione analitica. Determinare l'equazione della retta tangente al grafico di $g$ nel suo punto di ascissa $x=e$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_problema1_70#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_problema1_70#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

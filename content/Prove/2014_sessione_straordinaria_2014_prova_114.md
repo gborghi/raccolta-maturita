@@ -12,10 +12,8 @@ tags:
 title: Straordinaria 2014 (Ordinamento) — Prova
 ---
 
-# Straordinaria 2014 (Ordinamento) — Prova
-
-Fonte:  · p.114 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.114 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -28,11 +26,11 @@ Per quali valori di $x$, $V(x)$ ammette un massimo o un minimo?
 3. Prescindendo dalla questione geometrica si studi la funzione $f(x)=\dfrac{3}{2\pi}V(x)$ e se ne tracci il grafico $\gamma$.
 4. Si calcoli l'area della superficie piana $\Sigma$, delimitata dalla curva $\gamma$, dall'asse $x$ e dalle rette $x=1$ e $x=3$.
 
-**Topic:** [[Geometria Euclidea]], [[Geometria Solida]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Geometria Solida]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.114
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.114](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
 
@@ -44,11 +42,11 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 3. Si calcoli l'area del triangolo che la prima di tali tangenti forma con l'asse $x$ e con la retta $x=\dfrac{\pi}{2}$, e il volume del cono generato da una rotazione completa attorno all'asse $x$ del succitato triangolo.
 4. Si calcoli l'area, nell'intervallo $\left[0,\dfrac{\pi}{4}\right]$, della regione di piano $\sigma$ limitata dalla curva $\gamma$, dall'asse delle $x$ e dalla retta $x=\dfrac{\pi}{4}$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.114
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.114](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 1
 
@@ -57,7 +55,7 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
 
@@ -66,7 +64,7 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
 
@@ -75,7 +73,7 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
 
@@ -86,7 +84,7 @@ nel punto $P$ di ascissa $x=0$.
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
 
@@ -95,36 +93,36 @@ nel punto $P$ di ascissa $x=0$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
 
 6. Si determinino le equazioni degli asintoti della curva: $f(x)=x+\sqrt{x^2-2x+5}$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
 
 7. Si determini il campo di esistenza della funzione: $y=\log_{\operatorname{sen}x}(x^2-5x+6)$, con $0\le x\le 2\pi$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
 
 8. Il kilogrammo campione è un cilindro di platino-iridio, che ha un diametro di 39 mm ed è alto 39 mm. Qual è la densità in $\dfrac{g}{cm^3}$ della lega che è stata usata per costruirlo?
 
-**Topic:** [[Geometria Solida]], [[Fisica]]
+**Topic:** [[Geometria Solida]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 9
 
@@ -133,7 +131,7 @@ nel punto $P$ di ascissa $x=0$.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
 
@@ -142,7 +140,7 @@ nel punto $P$ di ascissa $x=0$.
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

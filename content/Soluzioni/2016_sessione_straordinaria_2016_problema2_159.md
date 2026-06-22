@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2016_sessione_straordinaria_2016_problema2_159
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_sessione_straordinaria_2016_problema2_159
+title: 2016 Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2016_sessione_straordinaria_2016_problema2_159
 
-## Problema 1
 
 Sessione straordinaria 2016 - Problema $2$
 

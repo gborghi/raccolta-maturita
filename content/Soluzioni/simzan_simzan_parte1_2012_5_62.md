@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2012_5_62
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2012_5_62
+title: 'Simulazione Zanichelli 2012 Ordinamento #5 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2012_5_62
-
 ## Problema 1
 
 Sono date la famiglia di funzioni $f(x) = ax^3 + x$ con $a \in \mathbb{R}$, e la funzione $g(x) = x^4 - x^2$.

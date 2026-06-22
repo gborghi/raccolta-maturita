@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47
+title: 2004 Americhe australe Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47
 
-## Problema 1
 
 Americhe emisfero australe 2004
 Sessione Suppletiva - Problema $1$

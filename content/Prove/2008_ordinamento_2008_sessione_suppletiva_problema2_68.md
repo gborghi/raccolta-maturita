@@ -12,12 +12,9 @@ tags:
 title: 2008 Ordinamento Suppletiva — Problema 2
 ---
 
-# 2008 Ordinamento Suppletiva — Problema 2
-
-Fonte:  · p.68 · 📄 Apri PDF
+Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Si consideri la funzione:
 $$y = \sin x\,(2\cos x + 1).$$
@@ -33,7 +30,7 @@ $$y = \sin x\,(2\cos x + 1).$$
 **Topic:** [[Trigonometria]], [[Calcolo Integrale]], [[Derivate]], [[Funzioni Integrali]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Integrazione (calcolo di integrali)]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2008_ordinamento_2008_sessione_suppletiva_problema2_68#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2008_ordinamento_2008_sessione_suppletiva_problema2_68#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

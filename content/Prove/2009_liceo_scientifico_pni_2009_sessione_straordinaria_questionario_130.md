@@ -12,9 +12,7 @@ tags:
 title: 2009 PNI Straordinaria — Questionario
 ---
 
-# 2009 PNI Straordinaria — Questionario
-
-Fonte:  · p.130 · 📄 Apri PDF
+Fonte: p.130 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.130 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.130 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]], [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.130 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.130 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -61,7 +59,7 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Topic:** [[Limiti e Continuita]], [[Funzioni Integrali]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
@@ -70,7 +68,7 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -79,7 +77,7 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
@@ -88,7 +86,7 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 9
 
@@ -97,7 +95,7 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 10
 
@@ -106,7 +104,7 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.136
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.136](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

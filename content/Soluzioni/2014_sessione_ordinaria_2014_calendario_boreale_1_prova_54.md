@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54
+title: Ordinaria 2014 Calendario Boreale 1 — Prova — Svolgimento
 ---
-# Soluzioni — 2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54
 
 ## Problema 1
 

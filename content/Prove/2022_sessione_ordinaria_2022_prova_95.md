@@ -12,10 +12,8 @@ tags:
 title: 2022 Ordinaria — Prova
 ---
 
-# 2022 Ordinaria — Prova
-
-Fonte:  · p.95 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.95 · [📄 Apri PDF](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -43,11 +41,11 @@ $$y = g(t) = \frac{t + 10}{1 + (t - 10)^2}, \qquad t \ge 10.$$
 
 Determinare il numero di contagi totali nei primi 30 giorni di epidemia, tenendo conto delle misure adottate dal governo.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Problema 2
 
@@ -76,7 +74,7 @@ determinare i valori di $A$ e $B$ in modo che presenti gli stessi punti staziona
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 1
 
@@ -87,7 +85,7 @@ ha minimo assoluto uguale a zero.
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 2
 
@@ -97,7 +95,7 @@ $$\lim_{x \to 0} \frac{\cos x - \cos 2x}{1 - \cos x}$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 3
 
@@ -108,7 +106,7 @@ Determinare i parametri reali $a$ e $b$ in modo che la funzione risulti continua
 **Topic:** [[Limiti e Continuita]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 4
 
@@ -119,7 +117,7 @@ Dimostrare che $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervall
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 5
 
@@ -127,11 +125,11 @@ Dimostrare che $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervall
 $$\arctan(-x) = 2x^3$$
 ha una e una sola soluzione reale.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 6
 
@@ -139,11 +137,11 @@ ha una e una sola soluzione reale.
 $$y = \frac{ax^2 + bx + c}{x + 2}$$
 determinare il valore dei parametri $a$, $b$ e $c$ in modo tale che la retta $y = 3x - 8$ sia un suo asintoto obliquo per $x \to +\infty$ e la retta tangente al grafico della funzione nel suo punto di ascissa $x = 0$ formi un angolo di $45°$ con la direzione positiva dell'asse $x$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 7
 
@@ -152,7 +150,7 @@ determinare il valore dei parametri $a$, $b$ e $c$ in modo tale che la retta $y 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 8
 
@@ -161,7 +159,7 @@ determinare il valore dei parametri $a$, $b$ e $c$ in modo tale che la retta $y 
 **Topic:** [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Sistemi di equazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

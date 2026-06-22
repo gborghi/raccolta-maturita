@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte3_2024_2_32
 pdf: SimZan_parte3.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte3_2024_2_32
+title: 'Simulazione Zanichelli 2024 — SimZan parte3 #2 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte3_2024_2_32
-
 **Simulazione Zanichelli 2024 — Prova di Matematica dell'Esame di Stato per il Liceo Scientifico**
 
 ---

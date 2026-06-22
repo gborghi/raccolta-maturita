@@ -12,10 +12,8 @@ tags:
 title: 2010 Scientifico PNI Straordinaria — Questionario
 ---
 
-# 2010 Scientifico PNI Straordinaria — Questionario
-
-Fonte:  · p.196 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.196 · 📄 Apri PDF
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.196
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.196](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.196 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.196
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.196](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -42,17 +40,17 @@ Fonte:  · p.196 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.197
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.197](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
 **Quesito 4.** Si dimostri che ogni funzione $f(x) = ax^3 + bx^2 + cx + d$ dove $a$, $b$, $c$, $d$ sono valori reali con $a \neq 0$, ha un massimo e un minimo relativi oppure non ha estremanti.
 
-**Topic:** [[Massimi e Minimi]], [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Massimi e Minimi]], [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.197
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.197](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
@@ -61,7 +59,7 @@ Fonte:  · p.196 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.199
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.199](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
@@ -70,27 +68,27 @@ Fonte:  · p.196 · 📄 Apri PDF
 **Topic:** [[Geometria Analitica (piano)]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.199
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.199](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
 **Quesito 7.** Si verifichi che la cubica di equazione $y = x^3 + 3x^2 + 3x - 7$ è simmetrica rispetto al suo punto di flesso.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.200
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.200](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
 **Quesito 8.** Si dimostri che l'equazione $\dfrac{1}{x} - e^x = 0$ ha un'unica radice reale e se ne calcoli un valore approssimato con due cifre decimali esatte.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Esponenziale]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.201
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.201](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 9
 
@@ -99,7 +97,7 @@ Fonte:  · p.196 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.202
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.202](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
 
@@ -108,7 +106,7 @@ Fonte:  · p.196 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.203
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.203](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

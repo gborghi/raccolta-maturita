@@ -12,12 +12,15 @@ tags:
 title: PNI 2014 Straordinaria — Problema 1
 ---
 
-# PNI 2014 Straordinaria — Problema 1
+Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.150 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2014_pni_2014_sessione_straordinaria_problema1_150/2014_pni_2014_sessione_straordinaria_problema1_150_fig.svg]]
+*Quadrilatero ADBC formato dai triangoli ABC (con angolo ACB = gamma) e ABD rettangolo in D, posto dalla parte opposta di C rispetto ad AB.*
+
+<!--fig:end-->
 
 Siano $ABC$ e $ABD$ due triangoli, il secondo rettangolo. Nel triangolo $ABC$ il lato $BC$ è il doppio di $CA = 1$; nel triangolo $ABD$, con $D$ dalla parte opposta di $C$ rispetto ad $AB$, il cateto $AB$ è il doppio di $BD$.
 
@@ -33,11 +36,11 @@ $$f(\gamma) = \operatorname{sen}\gamma - \cos\gamma + \frac{5}{4}$$
 
 *(figure nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2014_pni_2014_sessione_straordinaria_problema1_150#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.150
+**Soluzione:** [[Soluzioni/2014_pni_2014_sessione_straordinaria_problema1_150#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.150](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

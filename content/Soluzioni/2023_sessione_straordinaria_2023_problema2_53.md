@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2023_sessione_straordinaria_2023_problema2_53
 pdf: Prova_Maturita_2023.pdf
 source: text
-title: Soluzioni — 2023_sessione_straordinaria_2023_problema2_53
+title: 2023 Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2023_sessione_straordinaria_2023_problema2_53
 
-## Problema 1
 
 Sessione Straordinaria 2023 - Problema $2$
 

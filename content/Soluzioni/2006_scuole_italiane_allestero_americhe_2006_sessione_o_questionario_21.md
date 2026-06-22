@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_scuole_italiane_allestero_americhe_2006_sessione_o_questionario_21
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_scuole_italiane_allestero_americhe_2006_sessione_o_questionario_21
+title: 2006 Estero Americhe — Questionario — Svolgimento
 ---
-# Soluzioni — 2006_scuole_italiane_allestero_americhe_2006_sessione_o_questionario_21
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2006
 

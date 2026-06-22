@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27
+title: Scuole estero Europa 2012 — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2012
 Sessione $Ordinaria-$ Problema $1$

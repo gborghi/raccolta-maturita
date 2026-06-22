@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 1999_sperimentale_1999_problema2_28
 pdf: Prova_Maturita_1999.pdf
 source: text
-title: Soluzioni — 1999_sperimentale_1999_problema2_28
+title: 1999 Sperimentale — Problema 2 — Svolgimento
 ---
-# Soluzioni — 1999_sperimentale_1999_problema2_28
 
-## Problema 1
 
 ________________________________________________________________________________
 

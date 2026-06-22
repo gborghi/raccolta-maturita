@@ -12,12 +12,9 @@ tags:
 title: 2019 Liceo Scientifico — Problema 2
 ---
 
-# 2019 Liceo Scientifico — Problema 2
-
-Fonte:  · p.15 · 📄 Apri PDF
+Fonte: p.15 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Un condensatore piano è formato da due armature circolari di raggio $R$, poste a distanza $d$, dove $R$ e $d$ sono espresse in metri (m). Viene applicata alle armature una differenza di potenziale variabile nel tempo e inizialmente nulla.
 
@@ -35,11 +32,11 @@ c) Per $a>0$, si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita da $
 
 d) Con le opportune motivazioni, dedurre il grafico di $f$ da quello di $F$, specificando cosa rappresentano le ascisse dei punti di flesso di $F$ per la funzione $f$. Calcolare l'area della regione compresa tra il grafico di $f$, l'asse delle ascisse e le rette parallele all'asse delle ordinate passanti per gli estremi della funzione. Fissato $b>0$, calcolare il valore di $\displaystyle\int_{-b}^{b} f(t)\,dt$.
 
-**Topic:** [[Fisica]], [[Studio di Funzione]], [[Funzioni Integrali]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Fisica|Fisica]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2019_liceo_scientifico_2019_problema2_15#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.15
+**Soluzione:** [[Soluzioni/2019_liceo_scientifico_2019_problema2_15#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.15](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

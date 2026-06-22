@@ -12,12 +12,16 @@ tags:
 title: 2019 Ordinaria — Prova
 ---
 
-# 2019 Ordinaria — Prova
-
-Fonte:  · p.6 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2019_sessione_ordinaria_2019_prova_6/2019_sessione_ordinaria_2019_prova_6_fig.svg]]
+*Riferimento Oxy con i tre fili conduttori perpendicolari al piano passanti per P1(3/2,0), P2(3/2,1) e P3(3/2,-1/2); la corrente i1 in P1 entra nella pagina.*
+
+<!--fig:end-->
 
 Si considerino le seguenti funzioni:
 $$f(x)=ax^2-x+b \qquad\qquad g(x)=(ax+b)\,e^{2x-x^2}$$
@@ -32,11 +36,11 @@ I tre fili sono percorsi da correnti continue di intensità $i_1=2{,}0$ A, $i_2$
 
 - Si supponga, in assenza dei tre fili, che il contorno della regione $S$ rappresenti il profilo di una spira conduttrice di resistenza $R=0{,}20\ \Omega$. La spira è posta all'interno di un campo magnetico uniforme di intensità $B=1{,}5\cdot 10^{-2}$ T perpendicolare alla regione $S$. Facendo ruotare la spira intorno all'asse $x$ con velocità angolare $\omega$ costante, in essa si genera una corrente indotta la cui intensità massima è pari a $5{,}0$ mA. Determinare il valore di $\omega$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Problema 2
 
@@ -56,21 +60,21 @@ Calcolare la d.d.p. tra le armature del condensatore. A quale valore tende $|\ve
 
 - Con le opportune motivazioni, dedurre il grafico di $f$ da quello di $F$, specificando cosa rappresentano le ascisse dei punti di flesso di $F$ per la funzione $f$. Calcolare l'area della regione compresa tra il grafico di $f$, l'asse delle ascisse e le rette parallele all'asse delle ordinate passanti per gli estremi della funzione. Fissato $b>0$, calcolare il valore di $\displaystyle\int_{-b}^{b} f(t)\,dt$.
 
-**Topic:** [[Fisica]], [[Studio di Funzione]], [[Funzioni Integrali]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Fisica|Fisica]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 1
 
 1. Una data funzione è esprimibile nella forma $f(x)=\dfrac{p(x)}{x^2+d}$, dove $d\in\mathbb{R}$ e $p(x)$ è un polinomio. Il grafico di $f$ interseca l'asse $x$ nei punti di ascisse $0$ e $12/5$ ed ha come asintoti le rette di equazione $x=3$, $x=-3$ e $y=5$. Determinare i punti di massimo e di minimo relativi della funzione $f$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 2
 
@@ -81,7 +85,7 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 **Topic:** [[Limiti e Continuita]], [[Successioni e Serie]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Successioni, serie e ricorrenze]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 3
 
@@ -90,7 +94,7 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 4
 
@@ -99,7 +103,7 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 5
 
@@ -111,34 +115,34 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 6
 
 6. Una spira di rame, di resistenza $R=4{,}0$ m$\Omega$, racchiude un'area di $30\ \text{cm}^2$ ed è immersa in un campo magnetico uniforme, le cui linee di forza sono perpendicolari alla superficie della spira. La componente del campo magnetico perpendicolare alla superficie varia nel tempo come indicato in figura. Spiegare la relazione esistente tra la variazione del campo che induce la corrente e il verso della corrente indotta. Calcolare la corrente media che passa nella spira durante i seguenti intervalli di tempo: a) da $0{,}0$ ms a $3{,}0$ ms; b) da $3{,}0$ ms a $5{,}0$ ms; c) da $5{,}0$ ms a $10$ ms. *(figura nel PDF)*
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 7
 
 7. In laboratorio si sta osservando il moto di una particella che si muove nel verso positivo dell'asse $x$ di un sistema di riferimento ad esso solidale. All'istante iniziale, la particella si trova nell'origine e in un intervallo di tempo di $2{,}0$ ns percorre una distanza di $25$ cm. Una navicella passa con velocità $v=0{,}80\,c$ lungo la direzione $x$ del laboratorio, nel verso positivo, e da essa si osserva il moto della stessa particella. Determinare le velocità medie della particella nei due sistemi di riferimento. Quale intervallo di tempo e quale distanza misurerebbe un osservatore posto sulla navicella?
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 8
 
 8. Un protone penetra in una regione di spazio in cui è presente un campo magnetico uniforme di modulo $|\vec{B}|=1{,}00$ mT. Esso inizia a muoversi descrivendo una traiettoria ad elica cilindrica, con passo costante $\Delta x=38{,}1$ cm, ottenuta dalla composizione di un moto circolare uniforme di raggio $r=10{,}5$ cm e di un moto rettilineo uniforme. Determinare il modulo del vettore velocità e l'angolo che esso forma con $\vec{B}$.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

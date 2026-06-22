@@ -12,12 +12,9 @@ tags:
 title: 1955 Tema di maturita
 ---
 
-# 1955 Tema di maturita
-
-Fonte:  · p.96 · 📄 Apri PDF
+Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In un piano, riferito ad un sistema di assi cartesiani $Oxy$, sono date la circonferenza di equazione $x^2 + y^2 = r^2$ e le rette di equazione
 
@@ -40,7 +37,7 @@ con $k$ numero reale positivo. È in facoltà del candidato trattare il problema
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.96
+**Fonte:** [📄 Testo (PDF) — p.96](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

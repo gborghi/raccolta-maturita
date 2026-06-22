@@ -12,12 +12,9 @@ tags:
 title: 2019 Liceo Scientifico — Problema 1
 ---
 
-# 2019 Liceo Scientifico — Problema 1
+Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.10 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si considerino le seguenti funzioni:
 $$f(x)=ax^2-x+b \qquad\qquad g(x)=(ax+b)\,e^{2x-x^2}$$
@@ -32,11 +29,11 @@ I tre fili sono percorsi da correnti continue di intensità $i_1=2{,}0$ A, $i_2$
 
 d) Si supponga, in assenza dei tre fili, che il contorno della regione $S$ rappresenti il profilo di una spira conduttrice di resistenza $R=0{,}20\ \Omega$. La spira è posta all'interno di un campo magnetico uniforme di intensità $B=1{,}5\cdot 10^{-2}$ T perpendicolare alla regione $S$. Facendo ruotare la spira intorno all'asse $x$ con velocità angolare $\omega$ costante, in essa si genera una corrente indotta la cui intensità massima è pari a $5{,}0$ mA. Determinare il valore di $\omega$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2019_liceo_scientifico_2019_problema1_10#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2019_liceo_scientifico_2019_problema1_10#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

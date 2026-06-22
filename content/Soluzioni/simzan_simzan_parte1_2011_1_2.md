@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2011_1_2
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2011_1_2
+title: 'Simulazione Zanichelli 2011 PNI #1 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2011_1_2
-
 ## Problema 1
 
 Sia $ABC$ un triangolo con il lato $BC$ di lunghezza unitaria e l'angolo $\widehat{ABC}$ di ampiezza $60°$. Posto $AB = x$.

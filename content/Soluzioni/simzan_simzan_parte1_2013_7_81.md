@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2013_7_81
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2013_7_81
+title: 'Simulazione Zanichelli 2013 Sperimentale #7 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2013_7_81
-
 ## Problema 1
 
 Si considera una circonferenza con $A$ e $B$ estremi di una corda di lunghezza 1 e $AC$ diametro. Si pone $BC = x$.

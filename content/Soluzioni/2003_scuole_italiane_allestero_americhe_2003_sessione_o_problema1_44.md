@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: >-
-  Soluzioni —
-  2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44
+title: 2003 Americhe Ordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2003
 Sessione $Ordinaria-$ Problema $1$

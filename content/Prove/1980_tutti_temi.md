@@ -12,12 +12,9 @@ tags:
 title: 1980 Tema di maturita
 ---
 
-# 1980 Tema di maturita
+Fonte: p.119 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.119 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
@@ -33,11 +30,11 @@ Condotte per l'origine $O$ le due rette tangenti ad essa, si scriva l'equazione 
 
 4. Si enuncino le condizioni di derivabilità e di integrabilità delle funzioni e si dia qualche esempio di funzione integrabile ma non derivabile.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]]
 **Tipo funzione:** [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.119
+**Fonte:** [📄 Testo (PDF) — p.119](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

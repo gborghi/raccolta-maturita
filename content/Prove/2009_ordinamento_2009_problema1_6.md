@@ -12,12 +12,9 @@ tags:
 title: 2009 Ordinamento — Problema 1
 ---
 
-# 2009 Ordinamento — Problema 1
+Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.6 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia dato un settore circolare $AOB$ di raggio $R$ e ampiezza $x$ (misurata in radianti).
 
@@ -33,11 +30,11 @@ analizzando i casi in cui $x$ è un angolo convesso e in cui $x$ è un angolo co
 
 *(figura nel PDF)*
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2009_ordinamento_2009_problema1_6#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2009_ordinamento_2009_problema1_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

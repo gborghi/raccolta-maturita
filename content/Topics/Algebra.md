@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Algebra
-
 *Argomento* — **4** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -12,12 +12,9 @@ tags:
 title: 1925 Tema di maturita
 ---
 
-# 1925 Tema di maturita
-
-Fonte:  · p.75 · 📄 Apri PDF
+Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In un cilindro circolare retto, di raggio $r$ ed altezza $h$, è descritta, col centro $O$ sull'asse del cilindro e col medesimo raggio $r$, una sfera che si suppone non abbia punti esterni al cilindro. Si vuole che il volume della sfera risulti medio proporzionale tra i volumi dei due solidi rotondi che, sommati alla sfera, danno il cilindro.
 
@@ -34,7 +31,7 @@ Determinare gli angoli acuti $\widehat{ABC} = \beta$ ed $\widehat{ACB} = \gamma$
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.75
+**Fonte:** [📄 Testo (PDF) — p.75](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

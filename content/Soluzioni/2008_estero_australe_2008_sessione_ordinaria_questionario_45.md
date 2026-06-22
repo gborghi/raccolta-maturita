@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2008_estero_australe_2008_sessione_ordinaria_questionario_45
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: Soluzioni — 2008_estero_australe_2008_sessione_ordinaria_questionario_45
+title: 2008 Estero Australe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2008_estero_australe_2008_sessione_ordinaria_questionario_45
 
 ## Quesito 1
 

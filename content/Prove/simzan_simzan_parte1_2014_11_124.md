@@ -12,12 +12,16 @@ tags:
 title: 'Simulazione Zanichelli 2014 Problemi Tradizionali #11'
 ---
 
-# Simulazione Zanichelli 2014 Problemi Tradizionali #11
-
-Fonte:  · p.124 · 📄 Apri PDF
+Fonte: p.124 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/simzan_simzan_parte1_2014_11_124/simzan_simzan_parte1_2014_11_124_fig.svg]]
+*Grafico qualitativo di una funzione dispari $f(x)$ con un massimo e un minimo relativi, simmetrica rispetto a $O$ e tendente a 0 per $x\to\pm\infty$.*
+
+<!--fig:end-->
 
 Nella figura è rappresentato in modo qualitativo il grafico cartesiano di una funzione reale $f(x)$, definita, continua e derivabile in $\mathbb{R}$, e di cui si sa che:
 - $\displaystyle\lim_{x\to\infty} f(x)=0$;
@@ -37,11 +41,11 @@ c) Stabilito che i valori di $a$ e $b$ richiesti nel punto precedente sono $a=2$
 
 d) Supponi che, per $x\ge 0$, $x$ rappresenti il tempo (in secondi) e $f(x)$ la velocità istantanea (in m/s) di un punto in moto rettilineo. In quali intervalli di tempo l'accelerazione istantanea è positiva, in quali è negativa, e in quali istanti è nulla? Qual è la distanza complessivamente percorsa dal punto rispetto all'origine nell'intervallo di tempo compreso tra $x=0$ e $x=T$? Tale distanza ha un limite superiore o cresce indefinitamente al crescere del tempo $T$? Motiva la risposta.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_11_124#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_11_124#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
 
@@ -64,11 +68,11 @@ e) A partire dal valore di $F(1)$ determinato al punto d), stima i valori di $F(
    - tra quali valori interi di $x$ è compreso $x_0$ tale che $F(x_0)=0$;
    - il volume approssimato $V$ complessivamente racchiuso tra il piano $xz$ e le due ali della pala.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_11_124#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_11_124#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

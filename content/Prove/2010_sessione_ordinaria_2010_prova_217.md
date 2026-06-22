@@ -12,12 +12,16 @@ tags:
 title: 2010 Ordinaria PNI — Prova
 ---
 
-# 2010 Ordinaria PNI — Prova
-
-Fonte:  · p.217 · 📄 Apri PDF
+Fonte: p.217 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2010_sessione_ordinaria_2010_prova_217/2010_sessione_ordinaria_2010_prova_217_fig.svg]]
+*Grafico di g(x), derivata di f: tre semicirconferenze di centri (0,0), (3,0), (9/2,0) e raggi 2, 1, 1/2 (la prima e la terza sotto l'asse x, la seconda sopra).*
+
+<!--fig:end-->
 
 Nella figura che segue è riportato il grafico di $g(x)$ per $-2\le x\le 5$ essendo $g$ la derivata di una funzione $f$. Il grafico consiste di tre semicirconferenze con centri in $(0,0)$, $(3,0)$, $\left(\frac{9}{2},0\right)$ e raggi rispettivi $2$, $1$, $\frac{1}{2}$.
 
@@ -34,7 +38,7 @@ d) Si determinino i punti in cui la funzione $f$ ha derivata seconda nulla. Cosa
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Problema 2
 
@@ -51,7 +55,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 1
 
@@ -60,7 +64,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Derivate]], [[Successioni e Serie]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -69,7 +73,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -78,26 +82,26 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
 4. Si calcoli con la precisione di due cifre decimali lo zero della funzione $f(x)=\sqrt[3]{x}+x^3-1$. Come si può essere certi che esiste un unico zero?
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
 5. Sia $G$ il grafico di una funzione $x\mapsto f(x)$ con $x\in\mathbb{R}$. Si illustri in che modo è possibile stabilire se $G$ è simmetrico rispetto alla retta $x=k$.
 
-**Topic:** [[Studio di Funzione]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
@@ -106,7 +110,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Geometria Analitica (piano)]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
@@ -115,7 +119,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
@@ -124,7 +128,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Successioni, serie e ricorrenze]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 9
 
@@ -133,7 +137,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
 
@@ -147,7 +151,7 @@ d) Si consideri il solido $W$ ottenuto dalla rotazione di $D$ intorno all'asse $
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.217
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_217#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.217](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

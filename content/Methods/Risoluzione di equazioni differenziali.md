@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Risoluzione di equazioni differenziali
-
 *Metodo risolutivo* — **40** problemi/quesiti.
 
 ## Problemi e quesiti

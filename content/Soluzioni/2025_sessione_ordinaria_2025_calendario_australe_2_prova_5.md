@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2025_sessione_ordinaria_2025_calendario_australe_2_prova_5
 pdf: Prova_Maturita_2025.pdf
 source: text
-title: Soluzioni — 2025_sessione_ordinaria_2025_calendario_australe_2_prova_5
+title: 2025 Ordinaria Australe 2 — Prova — Svolgimento
 ---
-# Soluzioni — 2025_sessione_ordinaria_2025_calendario_australe_2_prova_5
 
 ## Problema 1
 

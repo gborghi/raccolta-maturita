@@ -12,12 +12,9 @@ tags:
 title: 1988 — Tema di maturita
 ---
 
-# 1988 — Tema di maturita
-
-Fonte:  · p.131 · 📄 Apri PDF
+Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -43,7 +40,7 @@ in modo che la curva da essa rappresentata in un piano cartesiano ortogonale $Ox
 **Topic:** [[Funzioni Integrali]], [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Fonte:** 📄 Testo (PDF) — p.131
+**Fonte:** [📄 Testo (PDF) — p.131](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

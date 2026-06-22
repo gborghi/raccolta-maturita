@@ -12,12 +12,9 @@ tags:
 title: 2005 Americhe Suppletiva — Problema 1
 ---
 
-# 2005 Americhe Suppletiva — Problema 1
-
-Fonte:  · p.29 · 📄 Apri PDF
+Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, sono assegnate le curve di equazione
 
@@ -35,11 +32,11 @@ dove $k$ è un parametro reale.
 
 **e)** Fra i rettangoli contenuti nella regione finita di piano delimitata dalla curva $\gamma$ e dagli assi coordinati e aventi un lato sull'asse $x$ e gli estremi del lato opposto sulla curva $\gamma$, determinare i vertici di quello per il quale questo secondo lato dista $\frac{95}{24}$ dall'asse $x$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema1_29#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.29
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema1_29#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.29](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

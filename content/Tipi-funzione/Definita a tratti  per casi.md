@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Definita a tratti / per casi
-
 *Tipo di funzione* — **40** problemi/quesiti.
 
 ## Problemi e quesiti

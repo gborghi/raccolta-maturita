@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131
+title: 2005 Ordinamento Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2005
 Sessione $Straordinaria-$ Problema $2$

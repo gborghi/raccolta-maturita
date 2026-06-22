@@ -12,12 +12,9 @@ tags:
 title: PNI 2014 Suppletiva — Problema 2
 ---
 
-# PNI 2014 Suppletiva — Problema 2
+Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.94 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione:
 
@@ -37,11 +34,11 @@ ha, sull'intervallo $1 \le x \le 2$, un'unica radice reale $\xi$ e se ne calcoli
 
 *(figure nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Esponenziale]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2014_pni_2014_sessione_suppletiva_problema2_94#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.94
+**Soluzione:** [[Soluzioni/2014_pni_2014_sessione_suppletiva_problema2_94#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.94](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

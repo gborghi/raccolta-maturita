@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_americhe_2015_questionario_52
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_americhe_2015_questionario_52
+title: 2015 Americhe — Questionario — Svolgimento
 ---
-# Soluzioni — 2015_americhe_2015_questionario_52
 
 ## Quesito 1
 

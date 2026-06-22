@@ -12,12 +12,9 @@ tags:
 title: 2011 Estero Australe Ordinaria — Problema 2
 ---
 
-# 2011 Estero Australe Ordinaria — Problema 2
-
-Fonte:  · p.21 · 📄 Apri PDF
+Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In un riferimento cartesiano $Oxy$ si consideri la semicirconferenza $\gamma$, tangente nell'origine all'asse $y$, passante per il punto $A(2,0)$ e appartenente al primo quadrante.
 
@@ -33,7 +30,7 @@ d) Si calcoli il volume del solido generato dalla rotazione intorno all'asse $x$
 **Topic:** [[Geometria Analitica (piano)]], [[Geometria Euclidea]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2011_estero_calendario_australe_ordinaria_2011_problema2_21#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2011_estero_calendario_australe_ordinaria_2011_problema2_21#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

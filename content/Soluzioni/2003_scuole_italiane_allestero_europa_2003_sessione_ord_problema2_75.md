@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2003_scuole_italiane_allestero_europa_2003_sessione_ord_problema2_75
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: >-
-  Soluzioni —
-  2003_scuole_italiane_allestero_europa_2003_sessione_ord_problema2_75
+title: 2003 Europa Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2003_scuole_italiane_allestero_europa_2003_sessione_ord_problema2_75
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2003
 Sessione $Ordinaria-$ Problema $2$

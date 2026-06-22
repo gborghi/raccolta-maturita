@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_liceo_scientifico_2015_problema1_9
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_liceo_scientifico_2015_problema1_9
+title: 2015 Liceo Scientifico — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2015_liceo_scientifico_2015_problema1_9
 
-## Problema 1
 
 Liceo Scientifico 2015 - Problema $1$
 

@@ -12,12 +12,15 @@ tags:
 title: 2015 SIMULAZIONE - 22 APRILE 2015
 ---
 
-# 2015 SIMULAZIONE - 22 APRILE 2015
+Fonte: p.125 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.125 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2015_simulazione___22_aprile_2015_problema1_125/2015_simulazione___22_aprile_2015_problema1_125_fig.svg]]
+*Figura 1: il settore "Curva Nord", una porzione di corona circolare di ampiezza angolare $\alpha=\frac{5\pi}{6}$.*
+
+<!--fig:end-->
 
 22-APRILE-2015_Problema1_125
 parent_node: prova_2015_simulazione___22_aprile_2015_problema1_125
@@ -51,11 +54,11 @@ Devi organizzare i servizi di assistenza e ristoro per gli spettatori, sulla bas
 
 4. Determina il numero medio di spettatori presenti nell'impianto, nell'intervallo di tempo dall'istante $t=0$ (apertura dei cancelli) all'istante $t=t_c$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Euclidea]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2015_simulazione___22_aprile_2015_problema1_125#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.125
+**Soluzione:** [[Soluzioni/2015_simulazione___22_aprile_2015_problema1_125#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

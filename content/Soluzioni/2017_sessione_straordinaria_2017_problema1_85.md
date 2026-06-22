@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2017_sessione_straordinaria_2017_problema1_85
 pdf: Prova_Maturita_2017.pdf
 source: text
-title: Soluzioni — 2017_sessione_straordinaria_2017_problema1_85
+title: 2017 Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2017_sessione_straordinaria_2017_problema1_85
 
-## Problema 1
 
 Sessione straordinaria 2017 - Problema $1$
 

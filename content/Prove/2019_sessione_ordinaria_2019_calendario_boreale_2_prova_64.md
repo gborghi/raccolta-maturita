@@ -12,10 +12,8 @@ tags:
 title: 2019 Ordinaria Boreale 2 — Prova
 ---
 
-# 2019 Ordinaria Boreale 2 — Prova
-
-Fonte:  · p.64 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -33,11 +31,11 @@ specificando il significato geometrico di ciascuno di essi.
 
 - Determinare modulo, direzione e verso del campo elettrostatico generato dalle cariche $q_1$ e $q_2$ rispettivamente nei punti $S(0,1)$ e $T(0,\sqrt{3})$. Quali sono i valori del potenziale elettrostatico nei punti $S$ e $T$?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Problema 2
 
@@ -61,21 +59,21 @@ Utilizzando, per valori molto grandi di $t$, l'approssimazione $1+e^{bt}\simeq e
 $$\int_{-\tau}^{+\tau} a(t)\,dt$$
 e stabilire il suo comportamento per $\tau\to+\infty$.
 
-**Topic:** [[Fisica]], [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Fisica|Fisica]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 1
 
 1. Assegnata la funzione $f(x)=x^2+3x-\dfrac{3}{x}$, mostrare che esiste un solo valore $b>-3$ tale che nell'intervallo $[-3,b]$ siano rispettate tutte le ipotesi del teorema di Rolle. Determinare tale valore $b$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 2
 
@@ -84,7 +82,7 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 3
 
@@ -93,7 +91,7 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 4
 
@@ -102,7 +100,7 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 5
 
@@ -111,25 +109,25 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 6
 
 6. Un elettrone, un protone e una particella $\alpha$ sono accelerati, da fermi, da una differenza di potenziale $\Delta V$ e in seguito penetrano, nello stesso punto, in un campo magnetico $\vec{B}$, uniforme e perpendicolare alle velocità. Esprimere i raggi di curvatura delle traiettorie del protone e della particella $\alpha$ in funzione del raggio di curvatura dell'elettrone. A parte l'entità dei raggi di curvatura, in cosa differiranno le traiettorie?
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 7
 
 7. Due conduttori rettilinei, paralleli e complanari sono percorsi da correnti concordi di intensità $I_1=4$ A e $I_2=6$ A. I due conduttori sono fissati ad una distanza di 2 cm uno dall'altro. Determinare modulo, direzione e verso del campo magnetico nei punti del piano equidistanti dai due conduttori. Un terzo conduttore rettilineo, attraversato da una corrente $I_3$, libero di muoversi lateralmente, viene posto tra i primi due come in figura. Calcolare la posizione nella quale quest'ultimo conduttore resta in equilibrio. Determinare il verso della corrente $I_3$ in modo che la precedente posizione di equilibrio sia stabile. *(figura nel PDF)*
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 8
 
@@ -137,10 +135,10 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 $$w'_x=\frac{w_x-v}{1-\dfrac{w_x v}{c^2}},\qquad w'_y=\frac{w_y\sqrt{1-v^2/c^2}}{1-\dfrac{w_x v}{c^2}},\qquad w'_z=\frac{w_z\sqrt{1-v^2/c^2}}{1-\dfrac{w_x v}{c^2}}.$$
 Mostrare, utilizzando le trasformazioni delle velocità, che se $\vec{w}\equiv(0,c,0)$ o $\vec{w}\equiv(c,0,0)$, dove $c$ è la velocità di un raggio luminoso nel vuoto, allora il modulo della velocità $\vec{w}'$ vale $c$. Questo risultato poteva essere dedotto a priori senza effettuare alcun calcolo?
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

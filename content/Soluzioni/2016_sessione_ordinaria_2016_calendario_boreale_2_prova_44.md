@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44
+title: 2016 Ordinaria Calendario Boreale 2 — Prova — Svolgimento
 ---
-# Soluzioni — 2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44
 
 ## Problema 1
 

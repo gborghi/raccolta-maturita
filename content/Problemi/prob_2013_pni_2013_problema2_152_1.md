@@ -1,0 +1,41 @@
+---
+title: 2013 PNI — Problema 2 — Problema 1
+tipo: problema
+item_id: prob_2013_pni_2013_problema2_152_1
+prova_id: prova_2013_pni_2013_problema2_152
+anno: '2013'
+pdf: Prova_Maturita_2013.pdf
+cluster: Studio di Funzione
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2013
+---
+
+Fonte: p.152 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+**Prova:** [[Prove/2013_pni_2013_problema2_152|2013 PNI — Problema 2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+
+**PNI 2013 — Problema 2**
+
+Si consideri la funzione:
+
+$$f(x)=x^3\ln x$$
+
+1) Si studi tale funzione e se ne tracci il grafico $\gamma$ su un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$.
+
+2) Sia $P=(1;0)$. Si determini l'equazione della parabola $y=ax^2+bx+c$ passante per l'origine $O$ e tangente a $\gamma$ nel punto $P$.
+
+3) Si calcoli l'area della regione $R$ delimitata dal grafico $\gamma$ e dall'asse $x$ nell'intervallo $0\le x\le 1$.
+
+4) Si determinino e si traccino le curve simmetriche di $\gamma$ rispetto all'asse $y$ e rispetto alla retta di equazione $y=-1$, scrivendone le equazioni.
+
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
+**Tipo funzione:** [[Logaritmica]], [[Mista  trascendente composita|Mista / trascendente composita]]
+**Soluzione:** [[Svolgimenti/sol_prob_2013_pni_2013_problema2_152_1|📝 Svolgimento]] · [📄 PDF p.152](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+
+
+#maturita/problema #area/analisi #cluster/studio_di_funzione

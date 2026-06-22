@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2024_liceo_scientifico_2024_problema2_9
 pdf: Prova_Maturita_2024.pdf
 source: text
-title: Soluzioni — 2024_liceo_scientifico_2024_problema2_9
+title: 2024 Liceo Scientifico — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2024_liceo_scientifico_2024_problema2_9
 
-## Problema 1
 
 Liceo Scientifico 2024 - Problema $2$
 

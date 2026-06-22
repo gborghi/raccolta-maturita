@@ -12,12 +12,9 @@ tags:
 title: 2010 Estero Santiago Ordinaria — Problema 1
 ---
 
-# 2010 Estero Santiago Ordinaria — Problema 1
+Fonte: p.145 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.145 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f$ la funzione definita da: $f(x)=(x^2+1)e^{-x+2}$, con $x\in\mathbb{R}$.
 
@@ -29,11 +26,11 @@ Sia $f$ la funzione definita da: $f(x)=(x^2+1)e^{-x+2}$, con $x\in\mathbb{R}$.
 
 **d)** Si calcoli l'area della regione del primo quadrante delimitata da $\lambda$, dall'asse $x$ e dalla retta $x=2$ e con l'aiuto di una calcolatrice se ne dia un valore approssimato arrotondato ai centesimi.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_problema1_145#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.145
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_problema1_145#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2019_liceo_scientifico_2019_problema2_15
 pdf: Prova_Maturita_2019.pdf
 source: text
-title: Soluzioni — 2019_liceo_scientifico_2019_problema2_15
+title: 2019 Liceo Scientifico — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2019_liceo_scientifico_2019_problema2_15
 
-## Problema 1
 
 Liceo Scientifico 2019 - Problema $2$
 

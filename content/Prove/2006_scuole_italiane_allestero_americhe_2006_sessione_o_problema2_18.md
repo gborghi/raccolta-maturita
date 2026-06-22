@@ -12,12 +12,9 @@ tags:
 title: 2006 Estero Americhe — Problema 2
 ---
 
-# 2006 Estero Americhe — Problema 2
-
-Fonte:  · p.18 · 📄 Apri PDF
+Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, è assegnata la parabola $p'$ di equazione $y = ax^2$, dove $a$ è un numero reale positivo assegnato.
 
@@ -32,7 +29,7 @@ Nel piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, è asse
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_americhe_2006_sessione_o_problema2_18#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.18
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_americhe_2006_sessione_o_problema2_18#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.18](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

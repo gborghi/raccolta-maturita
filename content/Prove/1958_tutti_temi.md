@@ -12,12 +12,9 @@ tags:
 title: 1958 Tema di maturita
 ---
 
-# 1958 Tema di maturita
+Fonte: p.98 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.98 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 [Conclusione del problema precedente] essendo $m$ un numero positivo.
 
@@ -55,11 +52,11 @@ essendo $k$ un numero reale assegnato.
 
 Nel caso di $k$ positivo, si determini l'eventuale massimo di $k$ al variare di $m$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]], [[Studio di Funzione]], [[Massimi e Minimi]]
+**Topic:** [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]], [[Polinomiale]]
-**Fonte:** 📄 Testo (PDF) — p.98
+**Fonte:** [📄 Testo (PDF) — p.98](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

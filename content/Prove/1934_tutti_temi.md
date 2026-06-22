@@ -12,9 +12,7 @@ tags:
 title: 1934 Tema di maturita
 ---
 
-# 1934 Tema di maturita
-
-Fonte:  · p.80 · 📄 Apri PDF
+Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -26,7 +24,7 @@ Il candidato può aggiungere la risoluzione geometrica del problema.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.80
+**Fonte:** [📄 Testo (PDF) — p.80](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -37,10 +35,10 @@ I cateti $AB$ ed $AC$ del triangolo rettangolo $BAC$ hanno per misura rispettiva
 
 È in facoltà del candidato di risolvere e discutere il problema anche per via geometrica e far vedere che delle due soluzioni che si hanno per $k = 3/\sqrt{2}$, quella data dalla retta $r_1$ corrisponde al massimo dell'area del trapezio $BCC'B'$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Studio di Funzione]]
+**Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.80
+**Fonte:** [📄 Testo (PDF) — p.80](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -59,7 +57,7 @@ Determinare:
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Fonte:** 📄 Testo (PDF) — p.80
+**Fonte:** [📄 Testo (PDF) — p.80](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -74,7 +72,7 @@ Determinare anche:
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Massimi e Minimi]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.80
+**Fonte:** [📄 Testo (PDF) — p.80](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

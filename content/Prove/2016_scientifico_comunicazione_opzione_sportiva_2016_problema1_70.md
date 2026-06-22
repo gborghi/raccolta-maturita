@@ -12,12 +12,9 @@ tags:
 title: 2016 Opzione Sportiva — Problema 1
 ---
 
-# 2016 Opzione Sportiva — Problema 1
+Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.70 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 La funzione $f:\mathbb{R}\to\mathbb{R}$ è così definita:
 
@@ -45,11 +42,11 @@ $$\lim_{x\to+\infty}F(x)=\frac{\pi}{2}$$
 
    traccia un grafico indicativo dell'andamento della funzione $F$, individuandone, in particolare, le ascisse dei punti di massimo e di minimo. (Nota: la primitiva della funzione $f$ non è esprimibile tramite le usuali funzioni analitiche.)
 
-**Topic:** [[Limiti e Continuita]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Limiti e Continuita]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/2016_scientifico_comunicazione_opzione_sportiva_2016_problema1_70#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2016_scientifico_comunicazione_opzione_sportiva_2016_problema1_70#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

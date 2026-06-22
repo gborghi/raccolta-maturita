@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Dimostrazione e argomentazione rigorosa
-
 *Competenza* — **574** problemi/quesiti.
 
 ## Problemi e quesiti

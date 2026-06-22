@@ -12,12 +12,9 @@ tags:
 title: 2019 Suppletiva — Problema 2
 ---
 
-# 2019 Suppletiva — Problema 2
+Fonte: p.218 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.218 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Due cariche elettriche puntiformi $Q_1 = q$ (con $q$ positivo) e $Q_2 = -q$ sono collocate rispettivamente nei punti $A$ e $B$, posti ad una distanza $2k$. Le cariche sono espresse in coulomb (C) e le distanze in metri (m). Si indichi con $r$ la retta passante per i punti $A$ e $B$.
 
@@ -39,11 +36,11 @@ $$g(x) = \frac{bx}{(x^2 + k^2)^a}$$
 
 con $a, b \in \mathbb{R}$, determinare le primitive di $f$. Dimostrare che, se $h = k^2$, la funzione $f$ rappresenta la densità di probabilità di una variabile aleatoria sull'intervallo $[0; +\infty)$. Quali sono i valori della media e della mediana di tale variabile aleatoria?
 
-**Topic:** [[Fisica]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Probabilita]]
+**Topic:** [[Topics/Fisica|Fisica]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2019_sessione_suppletiva_2019_problema2_218#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.218
+**Soluzione:** [[Soluzioni/2019_sessione_suppletiva_2019_problema2_218#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.218](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

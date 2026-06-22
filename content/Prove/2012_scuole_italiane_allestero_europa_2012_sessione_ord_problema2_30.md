@@ -12,12 +12,9 @@ tags:
 title: Scuole estero Europa 2012 — Problema 2
 ---
 
-# Scuole estero Europa 2012 — Problema 2
+Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.30 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri l'arco $AB$, quarta parte di una circonferenza di centro $O$ e raggio $1$.
 
@@ -35,11 +32,11 @@ $$f(x)=\frac{2x^2}{x^2+4}$$
 
 *(figura nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Geometria Euclidea]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Euclidea]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema2_30#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.30
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema2_30#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

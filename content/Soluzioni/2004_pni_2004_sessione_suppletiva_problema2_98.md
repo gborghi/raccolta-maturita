@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2004_pni_2004_sessione_suppletiva_problema2_98
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: Soluzioni — 2004_pni_2004_sessione_suppletiva_problema2_98
+title: 2004 PNI Suppletiva — Problema 2 e Quesiti — Svolgimento
 ---
-# Soluzioni — 2004_pni_2004_sessione_suppletiva_problema2_98
 
-## Problema 1
 
 PNI 2004 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

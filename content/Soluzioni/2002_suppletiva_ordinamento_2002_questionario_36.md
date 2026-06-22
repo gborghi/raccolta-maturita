@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2002_suppletiva_ordinamento_2002_questionario_36
 pdf: Prova_Maturita_2002.pdf
 source: text
-title: Soluzioni — 2002_suppletiva_ordinamento_2002_questionario_36
+title: 2002 Suppletiva Ordinamento — Questionario — Svolgimento
 ---
-# Soluzioni — 2002_suppletiva_ordinamento_2002_questionario_36
 
 ## Quesito 1
 

@@ -12,12 +12,9 @@ tags:
 title: 1990 — Tema di maturita
 ---
 
-# 1990 — Tema di maturita
+Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.134 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -40,11 +37,11 @@ La funzione data rappresenti per $x \geq 0$ la legge oraria del moto di un punto
 1. Data la parabola $y = 4x - x^2$ e la retta $y = k$ (con $k \geq 0$) che intercetta sulla parabola i due punti $A$ e $B$, determinare la superficie del triangolo $OAB$ (ove $O$ è l'origine degli assi cartesiani) e studiarne l'andamento al variare di $k$. In particolare determinare per quale valore di $k$ la superficie è massima.
 Calcolare quindi il volume del solido generato dalla rotazione intorno all'asse delle ascisse del tratto di curva rappresentante la funzione studiata per $0 \leq k \leq 4$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Esponenziale]]
-**Fonte:** 📄 Testo (PDF) — p.134
+**Fonte:** [📄 Testo (PDF) — p.134](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

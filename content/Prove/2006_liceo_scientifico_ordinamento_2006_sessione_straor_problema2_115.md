@@ -12,12 +12,9 @@ tags:
 title: 2006 Straordinaria — Problema 2
 ---
 
-# 2006 Straordinaria — Problema 2
+Fonte: p.115 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.115 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si considerino i polinomi di 5° grado, nella variabile $x$, con coefficienti reali, i cui grafici, rappresentati in un piano riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono simmetrici rispetto all'origine $O$ e hanno un massimo relativo nel punto $\left(-2;\ \dfrac{64}{15}\right)$.
 
@@ -32,11 +29,11 @@ $$\int_{u}^{v} P(x)\,dx.$$
 
 e) Dopo aver controllato che $\gamma$ ha tre flessi allineati, determinare le ascisse dei punti in cui la retta dei flessi interseca $\gamma$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema2_115#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.115
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema2_115#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.115](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2003_americhe_emisfero_boreale_2003_sessione_suppletiva_problema2_57
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: >-
-  Soluzioni —
-  2003_americhe_emisfero_boreale_2003_sessione_suppletiva_problema2_57
+title: 2003 Americhe Boreale Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2003_americhe_emisfero_boreale_2003_sessione_suppletiva_problema2_57
 
-## Problema 1
 
 Americhe emisfero boreale 2003
 Sessione $Suppletiva-$ Problema $2$

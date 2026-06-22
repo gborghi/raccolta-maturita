@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2014_sessione_ordinaria_2014_prova_56
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_sessione_ordinaria_2014_prova_56
+title: Ordinaria 2014 (Sperimentali) — Prova — Svolgimento
 ---
-# Soluzioni — 2014_sessione_ordinaria_2014_prova_56
 
 ## Problema 1
 

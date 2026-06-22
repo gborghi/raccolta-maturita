@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2004_ordinamento_2004_sessione_suppletiva_problema2_79
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: Soluzioni — 2004_ordinamento_2004_sessione_suppletiva_problema2_79
+title: 2004 Ordinamento Suppletiva — Problema 2 e Quesiti — Svolgimento
 ---
-# Soluzioni — 2004_ordinamento_2004_sessione_suppletiva_problema2_79
 
-## Problema 1
 
 ORDINAMENTO 2004 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

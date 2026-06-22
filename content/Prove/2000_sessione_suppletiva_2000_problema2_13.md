@@ -12,12 +12,9 @@ tags:
 title: 2000 Suppletiva — Problema 2
 ---
 
-# 2000 Suppletiva — Problema 2
+Fonte: p.13 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.13 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Il candidato:
 
@@ -33,7 +30,7 @@ c) interpreti geometricamente la questione posta sopra.
 **Topic:** [[Limiti e Continuita]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2000_sessione_suppletiva_2000_problema2_13#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.13
+**Soluzione:** [[Soluzioni/2000_sessione_suppletiva_2000_problema2_13#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.13](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

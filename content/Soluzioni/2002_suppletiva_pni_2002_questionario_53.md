@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2002_suppletiva_pni_2002_questionario_53
 pdf: Prova_Maturita_2002.pdf
 source: text
-title: Soluzioni — 2002_suppletiva_pni_2002_questionario_53
+title: 2002 Suppletiva PNI — Questionario — Svolgimento
 ---
-# Soluzioni — 2002_suppletiva_pni_2002_questionario_53
 
 ## Quesito 1
 

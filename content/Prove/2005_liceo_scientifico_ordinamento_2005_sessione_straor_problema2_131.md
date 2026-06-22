@@ -12,12 +12,9 @@ tags:
 title: 2005 Ordinamento Straordinaria — Problema 2
 ---
 
-# 2005 Ordinamento Straordinaria — Problema 2
+Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.131 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 
@@ -33,11 +30,11 @@ $$[1]\quad y=x^4+ax^3+bx^2+c.$$
 
 **e)** Dopo aver verificato che la curva $K$ presenta un secondo flesso, calcolare l'area della regione finita di piano delimitata da $K$ e dalle due tangenti inflessionali.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

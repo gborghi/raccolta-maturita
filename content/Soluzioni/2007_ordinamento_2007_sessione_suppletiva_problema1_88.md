@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2007_ordinamento_2007_sessione_suppletiva_problema1_88
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: Soluzioni — 2007_ordinamento_2007_sessione_suppletiva_problema1_88
+title: 2007 Ordinamento Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2007_ordinamento_2007_sessione_suppletiva_problema1_88
 
-## Problema 1
 
 ORDINAMENTO 2007 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Successioni, serie e ricorrenze
-
 *Metodo risolutivo* — **72** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2017_scientifico_comunicazione_opzione_sportiva_2017_problema1_54
 pdf: Prova_Maturita_2017.pdf
 source: text
-title: Soluzioni — 2017_scientifico_comunicazione_opzione_sportiva_2017_problema1_54
+title: 2017 Sportiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2017_scientifico_comunicazione_opzione_sportiva_2017_problema1_54
 
-## Problema 1
 
 Scientifico Comunicazione Opzione
 Sportiva 2017 - Problema $1$

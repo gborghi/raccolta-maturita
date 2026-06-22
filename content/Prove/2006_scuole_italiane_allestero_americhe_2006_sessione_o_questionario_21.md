@@ -12,12 +12,9 @@ tags:
 title: 2006 Estero Americhe — Questionario
 ---
 
-# 2006 Estero Americhe — Questionario
-
-Fonte:  · p.21 · 📄 Apri PDF
+Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 **1.** Calcolare la derivata, rispetto ad $x$, della funzione $f(x) = \sen^2(2x)$.
 
@@ -46,7 +43,7 @@ dove «$e$» è il numero di Nepero. Una sola alternativa è corretta: individua
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di limiti e continuita]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_americhe_2006_sessione_o_questionario_21#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_americhe_2006_sessione_o_questionario_21#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

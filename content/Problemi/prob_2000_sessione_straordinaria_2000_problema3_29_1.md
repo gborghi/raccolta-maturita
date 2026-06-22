@@ -1,0 +1,35 @@
+---
+title: 2000 Straordinaria — Problema 3 — Problema 1
+tipo: problema
+item_id: prob_2000_sessione_straordinaria_2000_problema3_29_1
+prova_id: prova_2000_sessione_straordinaria_2000_problema3_29
+anno: '2000'
+pdf: Prova_Maturita_2000.pdf
+cluster: Calcolo Integrale e Aree
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/calcolo_integrale_e_aree
+  - anno/2000
+---
+
+Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
+**Prova:** [[Prove/2000_sessione_straordinaria_2000_problema3_29|2000 Straordinaria — Problema 3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+
+Della parabola $f(x) = ax^2 + bx + c$ si hanno le seguenti informazioni, tutte localizzate nel punto $x = 0$:
+$$f(0) = 1, \qquad f'(0) = 0, \qquad f''(0) = 2.$$
+
+a) Determinata la parabola, si scrivano le equazioni delle tangenti ad essa condotte per il punto $P$ dell'asse $y$ di modo che valga $60°$ l'angolo $A\hat{P}B$, essendo $A$ e $B$ i rispettivi punti di tangenza.
+
+b) Accertato che il punto $P$ ha ordinata $\dfrac{1}{4}$, si scriva l'equazione della circonferenza passante per $A$, $B$ e $P$.
+
+c) Si calcolino le aree delle due parti in cui la circonferenza risulta divisa dall'arco di parabola di estremi $A$ e $B$.
+
+**Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
+**Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
+**Soluzione:** [[Svolgimenti/sol_prob_2000_sessione_straordinaria_2000_problema3_29_1|📝 Svolgimento]] · [📄 PDF p.29](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
+
+
+#maturita/problema #area/analisi #cluster/calcolo_integrale_e_aree

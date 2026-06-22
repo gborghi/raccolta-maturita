@@ -12,12 +12,9 @@ tags:
 title: 1984 — Tema di maturita
 ---
 
-# 1984 — Tema di maturita
+Fonte: p.125 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.125 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -36,11 +33,11 @@ Si calcolino le aree delle due parti in cui il triangolo è diviso dall'arco di 
 
 4. Si enunci il teorema di Rolle e si mostri, con opportuni esempi, che se una qualsiasi delle tre condizioni previste non è soddisfatta, il teorema non è valido.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Polinomiale]]
-**Fonte:** 📄 Testo (PDF) — p.125
+**Fonte:** [📄 Testo (PDF) — p.125](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

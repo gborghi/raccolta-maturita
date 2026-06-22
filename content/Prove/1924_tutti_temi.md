@@ -12,12 +12,9 @@ tags:
 title: 1924 Tema di maturita
 ---
 
-# 1924 Tema di maturita
-
-Fonte:  · p.75 · 📄 Apri PDF
+Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Due circonferenze di raggi $R$ ed $r$ ($R > r$) sono tangenti internamente. Trovare sopra la tangente comune un punto tale che le tangenti condotte per esso alle due circonferenze formino un angolo dato $\gamma$. A quale condizione deve essere sottoposto $\gamma$ affinché il problema sia possibile? Si osservi che la differenza degli angoli che la tangente comune forma con le congiungenti il punto che si cerca coi centri dei circoli, eguaglia la metà di $\gamma$.
 
@@ -26,7 +23,7 @@ Un rettangolo, ruotando successivamente di un giro completo intorno alla sua bas
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Fonte:** 📄 Testo (PDF) — p.75
+**Fonte:** [📄 Testo (PDF) — p.75](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

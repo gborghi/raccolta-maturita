@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2014_liceo_della_comunicazione_2014_problema2_68
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_liceo_della_comunicazione_2014_problema2_68
+title: Liceo Comunicazione 2014 — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2014_liceo_della_comunicazione_2014_problema2_68
 
-## Problema 1
 
 LICEO DELLA COMUNICAZIONE 2014 - PROBLEMA $2$
 

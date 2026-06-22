@@ -12,12 +12,9 @@ tags:
 title: 2008 Ordinamento Straordinaria — Problema 2
 ---
 
-# 2008 Ordinamento Straordinaria — Problema 2
+Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.103 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione: $f(x) = \log\dfrac{x+1}{x^2+2}$.
 
@@ -29,11 +26,11 @@ Si consideri la funzione: $f(x) = \log\dfrac{x+1}{x^2+2}$.
 
 **4)** Si calcoli l'area della superficie piana delimitata dalla curva $\Gamma$, dagli assi cartesiani e dalla retta di equazione $x = \sqrt{2}$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema2_103#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema2_103#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

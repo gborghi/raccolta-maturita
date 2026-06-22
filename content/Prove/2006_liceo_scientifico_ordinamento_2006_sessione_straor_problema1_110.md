@@ -12,12 +12,9 @@ tags:
 title: 2006 Straordinaria — Problema 1
 ---
 
-# 2006 Straordinaria — Problema 1
-
-Fonte:  · p.110 · 📄 Apri PDF
+Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È dato il triangolo $ABC$ in cui: $\overline{AB}=\dfrac{25}{2}$, $\overline{AC}=5\sqrt{5}$, $\tan\hat{A}=2$.
 
@@ -38,7 +35,7 @@ e) Trovare, infine, le coordinate dei punti comuni alla circonferenza $k$ e alla
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema1_110#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.110
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema1_110#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.110](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

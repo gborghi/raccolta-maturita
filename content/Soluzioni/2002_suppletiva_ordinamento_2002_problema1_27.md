@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2002_suppletiva_ordinamento_2002_problema1_27
 pdf: Prova_Maturita_2002.pdf
 source: text
-title: Soluzioni — 2002_suppletiva_ordinamento_2002_problema1_27
+title: 2002 Suppletiva Ordinamento — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2002_suppletiva_ordinamento_2002_problema1_27
 
-## Problema 1
 
 Suppletiva Ordinamento 2002 -
 Problema $1$

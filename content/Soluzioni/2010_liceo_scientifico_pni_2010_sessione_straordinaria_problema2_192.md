@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2010_liceo_scientifico_pni_2010_sessione_straordinaria_problema2_192
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_liceo_scientifico_pni_2010_sessione_straordinaria_problema2_192
+title: 2010 Scientifico PNI Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2010_liceo_scientifico_pni_2010_sessione_straordinaria_problema2_192
 
-## Problema 1
 
 Liceo Scientifico PNI 2010
 Sessione $Straordinaria-$ Problema $2$

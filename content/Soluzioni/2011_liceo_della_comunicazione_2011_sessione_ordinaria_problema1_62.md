@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2011_liceo_della_comunicazione_2011_sessione_ordinaria_problema1_62
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: >-
-  Soluzioni —
-  2011_liceo_della_comunicazione_2011_sessione_ordinaria_problema1_62
+title: 2011 Liceo Comunicazione Ordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2011_liceo_della_comunicazione_2011_sessione_ordinaria_problema1_62
 
-## Problema 1
 
 Liceo della comunicazione 2011
 Sessione $Ordinaria-$ Problema $1$

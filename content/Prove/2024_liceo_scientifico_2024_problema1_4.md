@@ -12,12 +12,9 @@ tags:
 title: 2024 Liceo Scientifico — Problema 1
 ---
 
-# 2024 Liceo Scientifico — Problema 1
+Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.4 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri $f_{a,b}(x)=\dfrac{ax^3+b}{x^2}$, con $a,b\in\mathbb{R}$.
 
@@ -31,11 +28,11 @@ c) Al variare del parametro reale $m$, determinare il numero di intersezioni tra
 
 d) Sia $S(k)$, con $k>\dfrac{3}{2}$, l'area della regione finita di piano compresa tra la curva $\gamma$, il suo asintoto obliquo, la retta $t$ e la retta di equazione $x=k$. Calcolare $\lim_{k\to+\infty} S(k)$, fornendo un'interpretazione geometrica del risultato ottenuto.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2024_liceo_scientifico_2024_problema1_4#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2024_liceo_scientifico_2024_problema1_4#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,9 +12,7 @@ tags:
 title: 1938 Tema di maturita
 ---
 
-# 1938 Tema di maturita
-
-Fonte:  · p.84 · 📄 Apri PDF
+Fonte: p.84 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -23,10 +21,10 @@ Sopra una semicirconferenza di diametro $|\overline{AB}|=2r$, determinare un pun
 
 È in facoltà del candidato di risolvere e discutere il problema anche per via geometrica.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.84
+**Fonte:** [📄 Testo (PDF) — p.84](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -35,7 +33,7 @@ In assi cartesiani ortogonali una parabola data è rappresentata da una equazion
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Collegamento tra ambiti matematici diversi]]
-**Fonte:** 📄 Testo (PDF) — p.84
+**Fonte:** [📄 Testo (PDF) — p.84](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -44,7 +42,7 @@ Dopo aver disegnato nel piano cartesiano la curva (parabola) rappresentatrice de
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Ottimizzazione e ricerca dell'ottimo]]
-**Fonte:** 📄 Testo (PDF) — p.84
+**Fonte:** [📄 Testo (PDF) — p.84](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -57,7 +55,7 @@ Discussione. Casi particolari a scelta del candidato.
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Interpretazione e formalizzazione del testo]]
-**Fonte:** 📄 Testo (PDF) — p.84
+**Fonte:** [📄 Testo (PDF) — p.84](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2010_estero_australe_2010_sessione_ordinaria_questionario_54
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_australe_2010_sessione_ordinaria_questionario_54
+title: 2010 Estero Australe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2010_estero_australe_2010_sessione_ordinaria_questionario_54
 
 ## Quesito 1
 

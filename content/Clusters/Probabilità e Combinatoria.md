@@ -6,8 +6,6 @@ tags:
   - cluster/probabilit_e_combinatoria
 ---
 
-# Probabilità e Combinatoria
-
 *Cluster tematico* — **6 prove**.
 
 ## Prove

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2018_suppletiva_2018_problema2_107
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_suppletiva_2018_problema2_107
+title: 2018 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2018_suppletiva_2018_problema2_107
 
-## Problema 1
 
 Suppletiva 2018 - Problema $2$
 

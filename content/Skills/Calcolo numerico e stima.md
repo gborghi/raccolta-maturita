@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Calcolo numerico e stima
-
 *Competenza* — **304** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -12,12 +12,9 @@ tags:
 title: 2002 Straordinaria PNI — Problema 1
 ---
 
-# 2002 Straordinaria PNI — Problema 1
+Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
+**Cluster:** [[Clusters/Algebra|Algebra]]
 
-Fonte:  · p.81 · 📄 Apri PDF
-**Cluster:** [[Algebra|Algebra]]
-
-## Problema 1
 
 Considerato il seguente sistema lineare nelle incognite $x$, $y$, $z$:
 
@@ -31,11 +28,11 @@ $$y - \frac{b}{a(a-b)} = \frac{x}{a} + z$$
 
 e disegnarne l'andamento in un riferimento cartesiano ortogonale $(Oab)$.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]], [[Geometria Analitica (piano)]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2002_pni_2002_sessione_straordinaria_problema1_81#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+**Soluzione:** [[Soluzioni/2002_pni_2002_sessione_straordinaria_problema1_81#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/algebra #cluster/algebra

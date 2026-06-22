@@ -12,12 +12,9 @@ tags:
 title: 2011 Liceo Comunicazione Ordinaria — Problema 1
 ---
 
-# 2011 Liceo Comunicazione Ordinaria — Problema 1
+Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.62 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel sistema di riferimento $Oxy$, sia $\Gamma$ il grafico della funzione definita su $\mathbb{R}$ da
 $$f(x) = (1 - x^2)e^{-x}.$$
@@ -32,11 +29,11 @@ $$f(x) = (1 - x^2)e^{-x}.$$
 $$\lim_{\alpha \to +\infty} \int_1^{\alpha} (1 - x^2)e^{-x}\, dx$$
 e si interpreti geometricamente il risultato.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_problema1_62#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_problema1_62#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

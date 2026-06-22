@@ -12,10 +12,8 @@ tags:
 title: 2017 Ordinaria — Prova (Internaz. Cinese)
 ---
 
-# 2017 Ordinaria — Prova (Internaz. Cinese)
-
-Fonte:  · p.46 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ e si indica con $\Gamma_\lambda$ il suo grafico, in un riferimento cartesiano $O
 
 4. Detti $A$ e $B$ i punti di intersezione tra $\Gamma_9$ e gli assi cartesiani, sia $\mathcal{G}$ la regione piana delimitata dai segmenti $OA$ e $OB$ e dall'arco di $\Gamma_9$ di estremi $A$ e $B$. Determina l'area di $\mathcal{G}$ e il volume del solido generato dalla rotazione di $\mathcal{G}$ attorno all'asse $y$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Problema 2
 
@@ -58,11 +56,11 @@ discuti, anche con argomentazioni qualitative, le variazioni (in aumento o in di
 
 4. Determina infine il volume del solido generato dalla rotazione attorno all'asse $y$ della porzione di piano compresa tra il grafico della funzione $h$ per $x\in[0;3]$ e l'asse delle $x$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 1
 
@@ -75,7 +73,7 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 2
 
@@ -84,7 +82,7 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 3
 
@@ -95,7 +93,7 @@ determinare i valori di $a$ e $b$.
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 4
 
@@ -106,7 +104,7 @@ Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il 
 **Topic:** [[Probabilita]], [[Calcolo Integrale]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Integrazione (calcolo di integrali)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 5
 
@@ -117,7 +115,7 @@ nel punto di ascissa $x_0=\pi$.
 **Topic:** [[Derivate]], [[Trigonometria]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 6
 
@@ -128,7 +126,7 @@ sia un numero reale non nullo.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 7
 
@@ -136,11 +134,11 @@ sia un numero reale non nullo.
 $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
 è continua nell'intervallo $[-3,-1]$ e se, nello stesso intervallo, è dotata di minimo e massimo assoluto.
 
-**Topic:** [[Limiti e Continuita]], [[Massimi e Minimi]], [[Studio di Funzione]]
+**Topic:** [[Limiti e Continuita]], [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 8
 
@@ -149,7 +147,7 @@ $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 9
 
@@ -157,11 +155,11 @@ $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
 $$\operatorname{arctg}(x)+x^3+e^x=0$$
 ha una e una sola soluzione reale.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
 
@@ -169,11 +167,11 @@ ha una e una sola soluzione reale.
 $$f(x)=|4-x^2|$$
 verificare che essa non soddisfa tutte le ipotesi del teorema di Rolle nell'intervallo $[-3;3]$ e che comunque esiste almeno un punto dell'intervallo $[-3;3]$ in cui la derivata prima di $f(x)$ si annulla. Questo esempio contraddice il teorema di Rolle? Motivare la risposta in maniera esauriente.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_46#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

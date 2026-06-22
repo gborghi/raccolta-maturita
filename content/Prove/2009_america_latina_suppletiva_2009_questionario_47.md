@@ -12,10 +12,8 @@ tags:
 title: 2009 America Latina Suppletiva — Questionario
 ---
 
-# 2009 America Latina Suppletiva — Questionario
-
-Fonte:  · p.47 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,16 +22,16 @@ Fonte:  · p.47 · 📄 Apri PDF
 **Topic:** [[Successioni e Serie]], [[Calcolo Combinatorio]]
 **Metodi:** [[Dimostrazione per induzione]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
 **Quesito 2.** Si enunci il teorema del valor medio o di Lagrange e se ne illustrino il legame con il teorema di Rolle e le implicazioni ai fini della determinazione della crescenza o decrescenza delle funzioni.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
@@ -43,7 +41,7 @@ $$\sqrt{ab} \le \frac{a+b}{2}$$
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.48
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -52,7 +50,7 @@ $$\sqrt{ab} \le \frac{a+b}{2}$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.48
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -62,17 +60,17 @@ $$\lim_{x \to 0} \frac{1 - \cos x}{x \sin x}$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
 **Quesito 6.** Sia $f$ la funzione definita da $f(x) = e^x - x^e$. Si precisi il dominio di $f$ e si stabilisca il segno delle sue derivate, prima e seconda, nel punto $x = e$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -81,7 +79,7 @@ $$\lim_{x \to 0} \frac{1 - \cos x}{x \sin x}$$
 **Topic:** [[Calcolo Combinatorio]], [[Geometria Euclidea]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
@@ -90,7 +88,7 @@ $$\lim_{x \to 0} \frac{1 - \cos x}{x \sin x}$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

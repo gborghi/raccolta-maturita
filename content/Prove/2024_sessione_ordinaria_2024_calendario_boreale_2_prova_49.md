@@ -12,10 +12,8 @@ tags:
 title: 2024 Ordinaria Boreale 2 — Prova
 ---
 
-# 2024 Ordinaria Boreale 2 — Prova
-
-Fonte:  · p.49 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -33,11 +31,11 @@ c) Si ponga, d'ora in avanti $k=\frac{1}{2}$. Studiare la funzione $f_{\frac{1}{
 
 d) Determinare l'area della regione finita di piano delimitata da $\Gamma_{\frac{1}{2}}$, dall'asse delle ascisse e dalla retta di equazione $x=3$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Problema 2
 
@@ -57,11 +55,11 @@ c) Indicato con $B$ il punto di flesso di $P(x)$ e con $A$ e $C$ i punti di asci
 
 d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto $B$ di ascissa $\frac{1}{2}$. Verificare che $t$ non ha ulteriori punti in comune con $\gamma$. Determinare l'area della regione finita di piano delimitata da $t$, da $\gamma$ e dalla retta di equazione $x=\frac{1}{2}$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 1
 
@@ -70,7 +68,7 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 2
 
@@ -79,7 +77,7 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 3
 
@@ -88,7 +86,7 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.65
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 4
 
@@ -97,7 +95,7 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 5
 
@@ -107,7 +105,7 @@ $$\lim_{x\to+\infty} x[\ln(x+1)-\ln x].$$
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.67
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 6
 
@@ -116,7 +114,7 @@ $$\lim_{x\to+\infty} x[\ln(x+1)-\ln x].$$
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.67
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 7
 
@@ -125,17 +123,17 @@ $$\lim_{x\to+\infty} x[\ln(x+1)-\ln x].$$
 **Topic:** [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 8
 
 8. Nel canto 28 del Paradiso di Dante si legge «l'incendio suo seguiva ogni scintilla ed eran tante, che 'l numero loro più di doppiar de li scacchi s'inmilla». Tra questi versi, il poeta fa riferimento a un fenomeno di crescita descritto dalla funzione $f(x)=a^x$. Per quali valori di $a$ la funzione è definita e continua in $\mathbb{R}$? Esistono valori di $a$ in corrispondenza dei quali $f$ non è invertibile? Motivare la risposta.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

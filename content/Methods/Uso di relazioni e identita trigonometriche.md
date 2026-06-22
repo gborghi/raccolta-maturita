@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Uso di relazioni e identita trigonometriche
-
 *Metodo risolutivo* — **440** problemi/quesiti.
 
 ## Problemi e quesiti

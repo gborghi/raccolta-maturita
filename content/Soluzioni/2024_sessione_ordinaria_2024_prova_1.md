@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2024_sessione_ordinaria_2024_prova_1
 pdf: Prova_Maturita_2024.pdf
 source: text
-title: Soluzioni — 2024_sessione_ordinaria_2024_prova_1
+title: 2024 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2024_sessione_ordinaria_2024_prova_1
 
 ## Problema 1
 

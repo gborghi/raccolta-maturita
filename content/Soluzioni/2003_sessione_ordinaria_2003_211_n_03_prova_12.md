@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2003_sessione_ordinaria_2003_211_n_03_prova_12
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_sessione_ordinaria_2003_211_n_03_prova_12
+title: 2003 Ordinaria — Prova (Ordinamento) — Svolgimento
 ---
-# Soluzioni — 2003_sessione_ordinaria_2003_211_n_03_prova_12
 
 ## Problema 1
 

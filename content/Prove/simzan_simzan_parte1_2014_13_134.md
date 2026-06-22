@@ -12,10 +12,8 @@ tags:
 title: 'Simulazione Zanichelli 2014 #13'
 ---
 
-# Simulazione Zanichelli 2014 #13
-
-Fonte:  · p.134 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -46,11 +44,11 @@ rappresentala nell'intervallo $0\le t\le 7$.
 
 f) Spiega cosa rappresenta l'area sottesa dal grafico di $v(t)$ nell'intervallo $0\le t\le 7$, calcolane la misura e utilizzala per stimare la velocità media tenuta da Giulia durante la camminata, approssimando il risultato ai centesimi. Qual è l'errore relativo percentuale che si compie utilizzando il grafico di $v(t)$ per calcolare la stima della distanza percorsa da Giulia rispetto al dato reale riportato in tabella?
 
-**Topic:** [[Calcolo Integrale]], [[Derivate]], [[Studio di Funzione]], [[Statistica]]
+**Topic:** [[Calcolo Integrale]], [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Statistica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Integrazione (calcolo di integrali)]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
 
@@ -72,11 +70,11 @@ d) Qual è stato il numero medio di persone infette in un giorno nel periodo $0\
 
 e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ dell'intera popolazione. Se ogni ammalato è rimasto infettato in media due giorni, qual è stato approssimativamente il numero totale di ammalati fra la popolazione nei primi 100 giorni di studio?
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 1
 
@@ -85,7 +83,7 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
 
@@ -94,7 +92,7 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
 
@@ -103,7 +101,7 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
 
@@ -112,7 +110,7 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
 
@@ -121,7 +119,7 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 6
 
@@ -130,7 +128,7 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
 
@@ -141,7 +139,7 @@ Ricava le coordinate dei punti $A$ e $B$ in cui la retta interseca la superficie
 **Topic:** [[Geometria nello Spazio]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
 
@@ -154,7 +152,7 @@ Ricava le coordinate dei punti $A$ e $B$ in cui la retta interseca la superficie
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 9
 
@@ -163,18 +161,18 @@ Ricava le coordinate dei punti $A$ e $B$ in cui la retta interseca la superficie
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
 
 10. Determina gli eventuali asintoti verticali, orizzontali e obliqui della funzione:
 $$f(x)=3x-4\ln x.$$
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

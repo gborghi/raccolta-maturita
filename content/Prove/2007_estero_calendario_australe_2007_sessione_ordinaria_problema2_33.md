@@ -12,12 +12,9 @@ tags:
 title: 2007 Estero Australe — Problema 2
 ---
 
-# 2007 Estero Australe — Problema 2
+Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.33 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione $f$ così definita:
 $$f(x)=\begin{cases}\dfrac{4-x^2}{3} & \text{se } x\le 1\\[2mm] \dfrac{1}{x} & \text{se } x>1\end{cases}$$
@@ -28,11 +25,11 @@ $$f(x)=\begin{cases}\dfrac{4-x^2}{3} & \text{se } x\le 1\\[2mm] \dfrac{1}{x} & \
 
 3) Il dominio piano del II quadrante delimitato dal grafico di $f$ e dagli assi coordinati è la base di un solido $S$ le cui sezioni, ottenute tagliando $S$ con piani perpendicolari all'asse $y$, sono tutte quadrate. Si calcoli il volume di $S$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_ordinaria_problema2_33#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.33
+**Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_ordinaria_problema2_33#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

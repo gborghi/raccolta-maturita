@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131
+title: 2006 PNI Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131
 
-## Problema 1
 
 Liceo Scientifico PNI 2006
 Sessione $Straordinaria-$ Problema $2$

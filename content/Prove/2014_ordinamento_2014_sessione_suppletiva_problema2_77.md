@@ -12,12 +12,9 @@ tags:
 title: Ordinamento 2014 Suppletiva — Problema 2
 ---
 
-# Ordinamento 2014 Suppletiva — Problema 2
+Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.77 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione:
 $$f(x) = \frac{1}{x\,\ln^2 x}.$$
@@ -30,11 +27,11 @@ $$f(x) = \frac{1}{x\,\ln^2 x}.$$
 
 4. Si faccia vedere che $S$ tende verso un limite finito quando $k$ tende a $+\infty$ e si confronti tale limite col valore numerico dell'area del trapezio $T$, arrotondato alla quarta cifra decimale.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Logaritmica]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2014_ordinamento_2014_sessione_suppletiva_problema2_77#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.77
+**Soluzione:** [[Soluzioni/2014_ordinamento_2014_sessione_suppletiva_problema2_77#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.77](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

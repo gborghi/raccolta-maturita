@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_suppletiva_2015_questionario_175
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_suppletiva_2015_questionario_175
+title: 2015 Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2015_suppletiva_2015_questionario_175
 
 ## Quesito 1
 

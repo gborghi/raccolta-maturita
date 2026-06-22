@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Successioni e Serie
-
 *Argomento* — **73** problemi/quesiti.
 
 ## Problemi e quesiti

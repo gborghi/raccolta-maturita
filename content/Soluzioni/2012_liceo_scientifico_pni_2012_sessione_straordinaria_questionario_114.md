@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2012_liceo_scientifico_pni_2012_sessione_straordinaria_questionario_114
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_liceo_scientifico_pni_2012_sessione_straordinaria_questionario_114
+title: 2012 PNI Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2012_liceo_scientifico_pni_2012_sessione_straordinaria_questionario_114
 
 ## Quesito 1
 

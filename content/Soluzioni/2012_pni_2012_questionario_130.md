@@ -3,10 +3,8 @@ tipo: soluzione
 prova_stem: 2012_pni_2012_questionario_130
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_pni_2012_questionario_130
+title: PNI 2012 — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2012_pni_2012_questionario_130
 
 ## Quesito 1
 

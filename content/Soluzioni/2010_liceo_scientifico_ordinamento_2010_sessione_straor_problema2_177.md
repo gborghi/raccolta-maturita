@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2010_liceo_scientifico_ordinamento_2010_sessione_straor_problema2_177
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_liceo_scientifico_ordinamento_2010_sessione_straor_problema2_177
+title: 2010 Scientifico Ordinamento Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2010_liceo_scientifico_ordinamento_2010_sessione_straor_problema2_177
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2010
 Sessione $Straordinaria-$ Problema $2$

@@ -12,12 +12,9 @@ tags:
 title: 2006 Estero Europa — Problema 2
 ---
 
-# 2006 Estero Europa — Problema 2
-
-Fonte:  · p.51 · 📄 Apri PDF
+Fonte: p.51 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Sia $T$ il tetraedro regolare di lato $1.20$ m.
 
@@ -30,7 +27,7 @@ Sia $T$ il tetraedro regolare di lato $1.20$ m.
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema2_51#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema2_51#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

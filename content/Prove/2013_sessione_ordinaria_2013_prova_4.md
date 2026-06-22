@@ -12,9 +12,7 @@ tags:
 title: 2013 Ordinaria — Prova
 ---
 
-# 2013 Ordinaria — Prova
-
-Fonte:  · p.4 · 📄 Apri PDF
+Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -32,7 +30,7 @@ La funzione $f$ è definita da $f(x)=\displaystyle\int_0^x\left[\cos\left(\frac{
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
 
@@ -46,11 +44,11 @@ Sia $f$ la funzione definita, per tutti gli $x$ reali, da $f(x)=\dfrac{8}{4+x^2}
 
 4. La regione $R$, ruotando attorno all'asse $y$, genera il solido $W$. Si scriva, spiegandone il perché, ma senza calcolarlo, l'integrale definito che fornisce il volume di $W$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 1
 
@@ -59,18 +57,18 @@ Sia $f$ la funzione definita, per tutti gli $x$ reali, da $f(x)=\dfrac{8}{4+x^2}
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
 
 2. Si calcoli il dominio della funzione
 $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 3
 
@@ -79,7 +77,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
 
@@ -88,7 +86,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 5
 
@@ -97,7 +95,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Modellizzazione matematica di situazioni]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
 
@@ -106,7 +104,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 7
 
@@ -115,7 +113,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
 
@@ -124,7 +122,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Funzioni Integrali]], [[Massimi e Minimi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Analisi qualitativa e deduzione di grafici]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 9
 
@@ -134,16 +132,16 @@ $$\lim_{x\to 0}4\,\frac{sen\cos x-sen x}{x^2}$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
 
 10. Se la figura a lato rappresenta il grafico di $f(x)$, quale dei seguenti potrebbe essere il grafico di $f'(x)$? Si giustifichi la risposta. *(figure nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

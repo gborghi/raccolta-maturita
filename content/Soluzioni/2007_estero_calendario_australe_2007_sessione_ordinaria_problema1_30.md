@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2007_estero_calendario_australe_2007_sessione_ordinaria_problema1_30
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_estero_calendario_australe_2007_sessione_ordinaria_problema1_30
+title: 2007 Estero Australe — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2007_estero_calendario_australe_2007_sessione_ordinaria_problema1_30
 
-## Problema 1
 
 Estero (Calendario australe) 2007
 Sessione $Ordinaria-$ Problema $1$

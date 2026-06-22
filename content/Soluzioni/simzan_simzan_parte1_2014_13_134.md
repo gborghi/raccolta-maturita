@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2014_13_134
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2014_13_134
+title: 'Simulazione Zanichelli 2014 #13 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2014_13_134
-
 ## Problema 1
 
 **Trekking in montagna**

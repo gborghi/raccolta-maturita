@@ -12,12 +12,9 @@ tags:
 title: 1927 Tema di maturita
 ---
 
-# 1927 Tema di maturita
-
-Fonte:  · p.76 · 📄 Apri PDF
+Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Dato un angolo retto $y\widehat{O}x$ ed un punto $M$ ad esso interno che abbia da $Oy$ ed $Ox$ rispettivamente le distanze $a$ e $b$, condurre per $M$ una retta tale che, detti $A$ e $B$ i punti d'intersezione di essa coi lati dell'angolo retto, si abbia $\overline{AM}^2 + \overline{BM}^2 = m^2$, dove $m$ è un numero reale assegnato. Discutere i risultati e dire come deve essere condotta la retta $AB$, perché sia minima la somma $\overline{AM}^2 + \overline{BM}^2$.
 
@@ -28,7 +25,7 @@ Dato un cerchio di raggio $r$, determinare in esso un angolo al centro $A\wideha
 **Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.76
+**Fonte:** [📄 Testo (PDF) — p.76](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

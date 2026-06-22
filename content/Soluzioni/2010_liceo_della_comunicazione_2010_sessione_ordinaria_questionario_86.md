@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86
+title: 2010 Liceo Comunicazione Ordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86
-
 ## Quesito 1
 
 Siccome la derivata annulla le costanti e abbassa di uno l'esponente delle potenze, si avrà:

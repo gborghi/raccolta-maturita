@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Geometria solida nello spazio (volumi, superfici, sezioni)
-
 *Metodo risolutivo* — **329** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -12,12 +12,15 @@ tags:
 title: 2016 Suppletiva — Problema 1
 ---
 
-# 2016 Suppletiva — Problema 1
+Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.181 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2016_suppletiva_2016_problema1_181/2016_suppletiva_2016_problema1_181_fig.svg]]
+*Figura 1: superficie (in metri) da coprire, delimitata dagli assi, da pareti rettilinee e da un bordo curvo che scende fino all'asse delle ascisse.*
+
+<!--fig:end-->
 
 Sei l'amministratore di un condominio che ha deliberato di dotarsi di una sala per le riunioni condominiali, sfruttando uno spazio comune già disponibile, da coprire e attrezzare.
 
@@ -49,11 +52,11 @@ In occasione di una riunione di condominio, un rilevatore di $CO_2$ installato n
 
 **4)** L'impianto è in funzione da 10 minuti, quando i 50 partecipanti alla riunione accedono alla sala. Considerando che l'impianto rimane acceso anche durante la riunione e che un essere umano mediamente espira 8 litri/minuto di aria contenente il $4\%$ di $CO_2$ (fonte: OSHA, Occupational Safety and Health Administration), descrivi in termini qualitativi come cambierà l'andamento di $c(t)$ dopo l'ingresso dei condomini nella sala, giustificando la tua risposta.
 
-**Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]], [[Statistica]], [[Studio di Funzione]]
+**Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]], [[Statistica]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Statistica e analisi dati]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2016_suppletiva_2016_problema1_181#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2016_suppletiva_2016_problema1_181#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

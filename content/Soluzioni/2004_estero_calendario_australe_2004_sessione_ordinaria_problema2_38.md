@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38
+title: 2004 Estero australe Ordinaria — Problema 2 e Quesiti — Svolgimento
 ---
-# Soluzioni — 2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38
 
 ## Quesito 1
 

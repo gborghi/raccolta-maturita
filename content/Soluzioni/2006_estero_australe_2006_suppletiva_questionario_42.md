@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2006_estero_australe_2006_suppletiva_questionario_42
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: Soluzioni — 2006_estero_australe_2006_suppletiva_questionario_42
+title: 2006 Australe Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2006_estero_australe_2006_suppletiva_questionario_42
 
 ## Quesito 1
 

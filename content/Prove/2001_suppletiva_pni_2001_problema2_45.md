@@ -12,12 +12,9 @@ tags:
 title: 2001 Suppletiva PNI — Problema 2
 ---
 
-# 2001 Suppletiva PNI — Problema 2
-
-Fonte:  · p.45 · 📄 Apri PDF
+Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Una industria commercializza un suo prodotto confezionandolo in lattine realizzate utilizzando fogli di una lamierina molto sottile. Ciascuna lattina, di assegnata capacità, ha la forma di un cilindro circolare retto. Trascurando lo spessore del materiale, il candidato determini:
 
@@ -32,7 +29,7 @@ Successivamente, posto il volume della lattina pari a $2$ decilitri, se ne espli
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_problema2_45#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.45
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_problema2_45#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

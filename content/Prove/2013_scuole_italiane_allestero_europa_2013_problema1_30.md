@@ -12,12 +12,9 @@ tags:
 title: 2013 Scuole estero Europa — Problema 1
 ---
 
-# 2013 Scuole estero Europa — Problema 1
-
-Fonte:  · p.30 · 📄 Apri PDF
+Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 **Scuole italiane all'estero (Europa) 2013 — Problema 1**
 
@@ -36,7 +33,7 @@ $$x^2+y^2+4x=12 \qquad e \qquad x^2+y^2-4x=12$$
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_scuole_italiane_allestero_europa_2013_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.30
+**Soluzione:** [[Soluzioni/2013_scuole_italiane_allestero_europa_2013_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

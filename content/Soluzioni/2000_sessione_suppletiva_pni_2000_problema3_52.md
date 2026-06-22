@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2000_sessione_suppletiva_pni_2000_problema3_52
 pdf: Prova_Maturita_2000.pdf
 source: text
-title: Soluzioni — 2000_sessione_suppletiva_pni_2000_problema3_52
+title: 2000 Suppletiva PNI — Problema 3 — Svolgimento
 ---
-# Soluzioni — 2000_sessione_suppletiva_pni_2000_problema3_52
 
-## Problema 1
 
 Sessione suppletiva PNI 2000 - Problema $3$
 

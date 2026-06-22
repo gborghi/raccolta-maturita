@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20
+title: 2004 Estero Americhe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20
 
 ## Quesito 1
 

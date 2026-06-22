@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2011_2_23
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2011_2_23
+title: 'Simulazione Zanichelli 2011 Ordinamento #2 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2011_2_23
-
 ## Problema 1
 
 Sia $ABC$ un triangolo con il lato $BC$ di lunghezza unitaria e l'angolo $\widehat{ABC}$ di ampiezza $60°$.

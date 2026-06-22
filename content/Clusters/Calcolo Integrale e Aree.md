@@ -6,8 +6,6 @@ tags:
   - cluster/calcolo_integrale_e_aree
 ---
 
-# Calcolo Integrale e Aree
-
 *Cluster tematico* — **47 prove**.
 
 ## Prove

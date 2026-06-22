@@ -12,10 +12,8 @@ tags:
 title: 2010 Ordinaria — Prova
 ---
 
-# 2010 Ordinaria — Prova
-
-Fonte:  · p.5 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.5 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -26,11 +24,11 @@ Sia $ABCD$ un quadrato di lato $1$, $P$ un punto di $AB$ e $\gamma$ la circonfer
 3. Sia $g(x)=\left|\dfrac{1-x}{1+x}\right|$, $x\in\mathbb{R}$; quale è l'equazione della retta tangente al grafico di $g(x)$ nel punto $R(0,1)$? E nel punto $S(1,0)$? Cosa si può dire della tangente al grafico di $g(x)$ nel punto $S$?
 4. Si calcoli l'area del triangolo mistilineo $ROS$, ove l'arco $RS$ appartiene al grafico di $f(x)$ o, indifferentemente, di $g(x)$.
 
-**Topic:** [[Geometria Euclidea]], [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Problema 2
 
@@ -41,11 +39,11 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 3. Sia $r$ la retta passante per $O$ tangente a $G_e$ ($e=$ numero di Nepero). Quale è la misura in radianti dell'angolo che la retta $r$ forma con il semiasse positivo delle ascisse?
 4. Si calcoli l'area della regione del primo quadrante delimitata dall'asse $y$, da $G_e$ e dalla retta d'equazione $y=e$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 1
 
@@ -54,7 +52,7 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Topic:** [[Derivate]], [[Successioni e Serie]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -63,7 +61,7 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -72,7 +70,7 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
@@ -81,7 +79,7 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
@@ -90,17 +88,17 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
 6. Si determini il dominio della funzione $f(x)=\sqrt{\cos x}$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
@@ -111,7 +109,7 @@ $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
 **Topic:** [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
@@ -120,7 +118,7 @@ $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Successioni, serie e ricorrenze]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 9
 
@@ -129,7 +127,7 @@ $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
 
@@ -138,7 +136,7 @@ $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

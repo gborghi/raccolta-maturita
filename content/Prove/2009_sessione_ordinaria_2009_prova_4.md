@@ -12,10 +12,8 @@ tags:
 title: 2009 Sessione Ordinaria — Prova
 ---
 
-# 2009 Sessione Ordinaria — Prova
-
-Fonte:  · p.4 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -26,11 +24,11 @@ Fonte:  · p.4 · 📄 Apri PDF
 3. Si fissi l'area del settore $AOB$ pari a $100\ \mathrm{m}^2$. Si trovi il valore di $r$ per il quale è minimo il perimetro di $AOB$ e si esprima il corrispondente valore di $x$ in gradi sessagesimali (è sufficiente l'approssimazione al grado).
 4. Sia $r=2$ e $x=\dfrac{\pi}{3}$. Il settore $AOB$ è la base di un solido $W$ le cui sezioni ottenute con piani ortogonali ad $OB$ sono tutte quadrati. Si calcoli il volume di $W$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Massimi e Minimi]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Problema 2
 
@@ -41,11 +39,11 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 3. Sia $D$ la regione del primo quadrante delimitata dagli assi coordinati, da $G_f$ e dalla retta d'equazione $y=1$. Si calcoli l'area di $D$.
 4. Si calcoli il volume del solido generato da $D$ nella rotazione completa attorno alla retta d'equazione $x=-1$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 1
 
@@ -54,7 +52,7 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
@@ -63,17 +61,17 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
 3. Per quale o quali valori di $k$ la curva d'equazione $y=x^3+kx^2+3x-4$ ha una sola tangente orizzontale?
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -82,7 +80,7 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -91,7 +89,7 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
@@ -100,7 +98,7 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -109,17 +107,17 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
 8. Si provi che l'equazione: $$x^{2009}+2009x+1=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 9
 
@@ -128,7 +126,7 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 10
 
@@ -139,7 +137,7 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.4
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

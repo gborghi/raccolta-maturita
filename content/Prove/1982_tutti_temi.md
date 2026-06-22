@@ -12,12 +12,9 @@ tags:
 title: 1982 — Tema di maturita
 ---
 
-# 1982 — Tema di maturita
+Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.122 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -45,11 +42,11 @@ Si determinino inoltre le intersezioni della curva con l'iperbole equilatera ave
 
 3. Si ricavi la formula che dà il numero delle combinazioni semplici di $n$ elementi a $k$ a $k$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Calcolo Combinatorio]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Calcolo Combinatorio]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.122
+**Fonte:** [📄 Testo (PDF) — p.122](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

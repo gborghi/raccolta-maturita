@@ -12,9 +12,7 @@ tags:
 title: 1890 Tema di maturità
 ---
 
-# 1890 Tema di maturità
-
-Fonte:  · p.50 · 📄 Apri PDF
+Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -24,7 +22,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Successioni e Serie]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.50
+**Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -33,7 +31,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Fonte:** 📄 Testo (PDF) — p.50
+**Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -42,7 +40,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Successioni e Serie]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Successioni, serie e ricorrenze]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Sistemi di equazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.50
+**Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

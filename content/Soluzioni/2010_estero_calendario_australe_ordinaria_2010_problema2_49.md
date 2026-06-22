@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2010_estero_calendario_australe_ordinaria_2010_problema2_49
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_calendario_australe_ordinaria_2010_problema2_49
+title: 2010 Estero Australe Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2010_estero_calendario_australe_ordinaria_2010_problema2_49
 
-## Problema 1
 
 Estero (calendario australe)
 Ordinaria $2010-$ Problema $2$

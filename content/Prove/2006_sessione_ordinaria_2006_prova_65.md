@@ -12,9 +12,7 @@ tags:
 title: 2006 Sessione Ordinaria — Prova (p.65)
 ---
 
-# 2006 Sessione Ordinaria — Prova (p.65)
-
-Fonte:  · p.65 · 📄 Apri PDF
+Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -34,7 +32,7 @@ Un'aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.65
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Problema 2
 
@@ -46,11 +44,11 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 3. Si studi la funzione $h(x) = \log x - ax^2$ scegliendo per $a$ un valore numerico maggiore di $\dfrac{1}{2e}$ e se ne disegni il grafico.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Logaritmica]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.65
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 1
 
@@ -59,7 +57,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.76
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 2
 
@@ -68,7 +66,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.77
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.77](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 3
 
@@ -77,7 +75,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.78
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.78](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 4
 
@@ -86,7 +84,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.78
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.78](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 5
 
@@ -95,7 +93,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.79
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.79](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 6
 
@@ -104,7 +102,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 7
 
@@ -113,7 +111,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 8
 
@@ -122,7 +120,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 9
 
@@ -131,7 +129,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.82
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 10
 
@@ -140,7 +138,7 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Topic:** [[Trigonometria]], [[Massimi e Minimi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.82
+**Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_65#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

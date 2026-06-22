@@ -12,12 +12,9 @@ tags:
 title: Liceo Comunicazione 2014 — Problema 2
 ---
 
-# Liceo Comunicazione 2014 — Problema 2
+Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.68 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f(x) = x^3 + 3x^2 + 4x - 12$.
 
@@ -30,11 +27,11 @@ Posto $x_0 = 1{,}3$ si calcolino, con l'aiuto di una calcolatrice, $x_1, x_2, x_
 
 4. Si introduca un nuovo sistema di riferimento ottenuto da $Oxy$ traslando gli assi e portando $O$ nel punto di flesso di $K$. Qual è l'equazione di $K$ nel nuovo sistema di riferimento?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Successioni e Serie]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Successioni e Serie]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2014_liceo_della_comunicazione_2014_problema2_68#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2014_liceo_della_comunicazione_2014_problema2_68#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

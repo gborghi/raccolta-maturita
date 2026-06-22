@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_liceo_scientifico_2015_problema2_17
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_liceo_scientifico_2015_problema2_17
+title: 2015 Liceo scientifico — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2015_liceo_scientifico_2015_problema2_17
 
-## Problema 1
 
 Liceo scientifico 2015 - Problema $2$
 

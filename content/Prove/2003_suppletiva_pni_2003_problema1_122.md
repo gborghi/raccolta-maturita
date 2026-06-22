@@ -12,12 +12,9 @@ tags:
 title: 2003 Suppletiva PNI — Problema 1
 ---
 
-# 2003 Suppletiva PNI — Problema 1
+Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.122 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 In un piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le parabole di equazione:
 $$y=(a-1)x^2-2ax+a^2$$
@@ -33,11 +30,11 @@ d) Scrivere l'equazione del luogo geometrico $L$ dei vertici delle parabole asse
 
 e) Calcolare l'area della regione finita di piano delimitata dalla curva $L$ e dalla retta di equazione $y=\dfrac{3}{2}$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_problema1_122#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_problema1_122#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

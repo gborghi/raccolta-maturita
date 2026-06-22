@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35
+title: 2007 Estero Australe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35
 
 ## Quesito 1
 

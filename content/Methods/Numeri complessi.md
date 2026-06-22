@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Numeri complessi
-
 *Metodo risolutivo* — **1** problemi/quesiti.
 
 ## Problemi e quesiti

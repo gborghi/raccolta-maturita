@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2014_ordinamento_2014_sessione_suppletiva_problema2_77
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_ordinamento_2014_sessione_suppletiva_problema2_77
+title: Ordinamento 2014 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2014_ordinamento_2014_sessione_suppletiva_problema2_77
 
-## Problema 1
 
 ORDINAMENTO 2014 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

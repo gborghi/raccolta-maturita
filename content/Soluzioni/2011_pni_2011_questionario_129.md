@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2011_pni_2011_questionario_129
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_pni_2011_questionario_129
+title: 2011 PNI — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2011_pni_2011_questionario_129
-
 ## Quesito 1
 
 La geometria euclidea è adeguata a descrivere uno spazio limitato (per esempio lo spazio intorno alla nostra città, o lo spazio della nostra provincia) mentre è inadeguata a descrivere spazi più ampi.

@@ -12,12 +12,9 @@ tags:
 title: 2009 Estero Americhe — Questionario
 ---
 
-# 2009 Estero Americhe — Questionario
+Fonte: p.24 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.24 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 1. Si dimostri che l'equazione $x^{19}+19x+11=0$ ha una sola radice compresa fra $-1$ e $0$.
 
@@ -38,7 +35,7 @@ Fonte:  · p.24 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Derivate]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_americhe_2009_sessione_o_questionario_24#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_americhe_2009_sessione_o_questionario_24#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,11 +3,17 @@
 // - copies non-md assets so embeds resolve
 // - strips links to local PDFs (the exam PDFs are not published)
 // - emits ./quartz/static/prove.json (the 'tipo: prova' subset) for /cerca
-import { promises as fs } from "node:fs"
+import { promises as fs, readFileSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 
 const NUL = String.fromCharCode(0)
+
+// filename -> Google Drive fileId. The exam PDFs are NOT shipped in the repo
+// (487MB) — they live on Drive (folder shared "anyone with link"), so the site
+// builds on CI without them. PDF links resolve to the Drive viewer.
+const PDF_DRIVE = JSON.parse(readFileSync(new URL("./pdf_drive_map.json", import.meta.url), "utf8"))
+const missingPdf = new Set()
 
 // Lenient flat-frontmatter parser (some values carry stray quotes/NUL/apostrophes
 // that break strict YAML). Re-emitted as clean YAML by matter.stringify on write.
@@ -77,10 +83,14 @@ function summarize(content) {
   for (let line of body.split(/\r?\n/)) {
     line = line.trim()
     if (!line) continue
-    if (/^(#{1,6}\s|>\s|!\[\[|Fonte:|\*\*(Topic|Metodi|Competenze|Tipo|Cluster|Fonte|Risposta|Soluzione):|<!--|\||---)/.test(line)) continue
+    if (/^(#{1,6}\s|>\s|!\[\[|Fonte:|\*\*(Topic|Metodi|Competenze|Tipo|Cluster|Fonte|Risposta|Soluzione|Prova):|<!--|\||---)/.test(line)) continue
     if (/^!\[\[/.test(line)) continue
     // strip a leading "1." / "Q1" / "(a)" / "a)" enumerator and bold markers
     line = line.replace(/^\s*(?:Q?\d+[.)]|\([a-z]\)|[a-z]\))\s*/i, "").replace(/\*\*/g, "")
+    // flatten any stray wikilinks / md-links to plain text so /cerca never shows raw markup
+    line = line.replace(/\[\[[^\]|#]*(?:#[^\]|]*)?\|([^\]]*)\]\]/g, "$1")
+    line = line.replace(/\[\[([^\]|#]*)(?:#[^\]|]*)?\]\]/g, "$1")
+    line = line.replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
     line = line.replace(/\s+/g, " ").trim()
     if (line.length >= 8) return line.slice(0, 160).trim()
   }
@@ -124,13 +134,50 @@ function extractConceptList(content) {
 }
 
 function transform(content) {
-  // strip PDF links (kept as plain text label)
-  content = content.replace(/\[([^\]]*)\]\(<[^>]*\.pdf[^>]*>\)/gi, "$1")
-  content = content.replace(/\[([^\]]*)\]\([^)\s]*\.pdf[^)]*\)/gi, "$1")
-  // turn **Fonte/Soluzione** PDF wikilinks into plain text (no public PDFs)
-  content = content.replace(/\[\[[^\]]*\.pdf(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]/gi, (full, alias) => alias || "")
-  // drop the backticked PDF filename in "Fonte: `Prova_...pdf` · p.N"
+  // drop the editable TikZ source comment kept for Obsidian (the SVG is what the
+  // web shows); leaving it risks KaTeX grabbing the $...$ inside the comment.
+  content = content.replace(/<!--tikz:[\s\S]*?-->/g, "")
+  // Drop the leading body "# Title" — Quartz's ArticleTitle already renders the
+  // title once, so keeping the H1 shows it twice. (Body starts with newlines
+  // after the frontmatter, so allow leading whitespace before the #.)
+  content = content.replace(/^\s*#[ \t]+.+\r?\n+/, "")
+  // Single-item notes carry a redundant (and sometimes mislabelled, e.g. always
+  // "Problema 1") "## Problema/Quesito N" heading. If there is exactly one such
+  // heading, drop it — the page title already says which problem/quesito it is.
+  const secHeads = content.match(/^##\s+(Problema|Quesito|Questionario)\b.*$/gm) || []
+  if (secHeads.length === 1) {
+    content = content.replace(/^##\s+(Problema|Quesito|Questionario)\b.*\r?\n+/m, "")
+  }
+  // The exam PDFs live on Google Drive (not in the repo). Rewrite the
+  // [[file.pdf#page=N|alias]] wikilinks and [alias](…/file.pdf#frag) markdown
+  // links into Drive viewer links. The Drive viewer ignores #page=N, so the page
+  // is dropped from the URL (the alias text still mentions the page). External
+  // links open in a new tab. If a filename is unmapped, keep the alias as plain
+  // text (no broken link) and warn.
+  const pdfLink = (file, frag, alias) => {
+    const name = file.trim()
+    const label = (alias && alias.trim()) || "📄 Testo (PDF)"
+    const id = PDF_DRIVE[name] || PDF_DRIVE[path.basename(name)]
+    if (!id) {
+      missingPdf.add(name)
+      return label
+    }
+    return `[${label}](https://drive.google.com/file/d/${id}/view)`
+  }
+  // wikilink: [[file.pdf#page=N|alias]] / [[file.pdf|alias]] / [[file.pdf]]
+  content = content.replace(
+    /\[\[\s*([^\]#|]+\.pdf)\s*(?:#([^\]|]+?))?\s*(?:\|\s*([^\]]*?)\s*)?\]\]/gi,
+    (_m, file, frag, alias) => pdfLink(file, frag, alias),
+  )
+  // markdown link: [alias](<…/file.pdf#frag>) — keep only the basename + frag
+  content = content.replace(
+    /\[([^\]]*)\]\(<?\s*[^)\s]*?([^/)\s]+\.pdf)(?:#([^)\s>]+))?\s*>?\)/gi,
+    (_m, alias, file, frag) => pdfLink(file, frag, alias),
+  )
+  // drop the now-redundant backticked filename in "Fonte: `X.pdf` · p.N"
   content = content.replace(/`[^`]*\.pdf`/gi, "")
+  content = content.replace(/Fonte:\s+·\s*/g, "Fonte: ")
+  content = content.replace(/·\s*·/g, "·")
   content = content.replace(/ ·\s*$/gm, "")
   return content
 }
@@ -158,6 +205,18 @@ async function main() {
   await fs.rm(CL_DIR, { recursive: true, force: true })
   await fs.mkdir(CL_DIR, { recursive: true })
   const files = await walk(VAULT)
+
+  // Pre-scan Prove titles (stem -> human title) so we can give the matching
+  // Soluzioni notes a readable title instead of "Soluzioni — <ugly_slug>".
+  const provaTitle = {}
+  for (const rel of files) {
+    if (!rel.endsWith(".md") || rel.split(path.sep)[0] !== "Prove") continue
+    const { data, content } = parseFrontmatter(await fs.readFile(path.join(VAULT, rel), "utf8"))
+    let t = data.title
+    if (!t) { const h = content.match(/^#\s+(.+?)\s*$/m); t = h ? h[1].trim() : null }
+    if (t) provaTitle[path.basename(rel, ".md")] = t
+  }
+
   const prove = []
   let mdWritten = 0, assetsCopied = 0, clIdx = 0, pagedLists = 0
   for (const rel of files) {
@@ -174,6 +233,11 @@ async function main() {
       const h1 = content.match(/^#\s+(.+?)\s*$/m)
       if (h1) data.title = h1[1].trim()
     }
+    // Prettify Soluzioni titles using the matching prova's human title.
+    if (rel.split(path.sep)[0] === "Soluzioni") {
+      const pt = provaTitle[path.basename(rel, ".md")]
+      if (pt) data.title = pt + " — Svolgimento"
+    }
     let outContent = transform(content)
     // Big concept lists -> JSON + client pagination (tiny page HTML).
     const topDir = rel.split(path.sep)[0]
@@ -188,11 +252,13 @@ async function main() {
     }
     await fs.writeFile(dest, matter.stringify(outContent, data))
     mdWritten++
-    if (data.tipo === "prova") {
+    // /cerca indexes the ATOMIC items (one record per single problema/quesito).
+    if (data.tipo === "problema" || data.tipo === "quesito") {
       const tags = Array.isArray(data.tags) ? data.tags : []
       prove.push({
         href: slugFromRel(rel),
         title: data.title ?? "",
+        tipo: data.tipo,
         anno: data.anno ? String(data.anno) : tagVal(tags, "anno/"),
         area: tagVal(tags, "area/"),
         cluster: data.cluster ? String(data.cluster) : "",
@@ -215,11 +281,11 @@ Archivio delle prove scritte di **Matematica** della Maturità (Liceo Scientific
 
 ## Esplora
 
-- **Cluster** (aree tematiche): [[Studio di Funzione]] · [[Geometria]] · [[Derivate, Massimi e Minimi]] · [[Calcolo Integrale e Aree]] · [[Probabilità e Combinatoria]] · [[Successioni, Serie ed Eq. Differenziali]] — cartella *Clusters*
+- **Cluster** (aree tematiche): [[Clusters/Studio di Funzione|Studio di Funzione]] · [[Clusters/Geometria|Geometria]] · [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]] · [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]] · [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]] · [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]] — cartella *Clusters*
 - **Argomenti**: cartella *Topics* · **Metodi risolutivi**: cartella *Methods* · **Competenze**: cartella *Skills* · **Tipi di funzione**: cartella *Tipi-funzione*
-- **Prove**: cartella *Prove* (ogni prova con testo, svolgimento e link al PDF) · **Soluzioni**: cartella *Soluzioni* (svolgimenti in LaTeX)
+- **Prove intere**: cartella *Prove* · **Singoli problemi**: cartella *Problemi* · **Singoli quesiti**: cartella *Quesiti* · **Soluzioni**: cartella *Soluzioni* (svolgimenti in LaTeX)
 
-Usa la **[ricerca per più tag](cerca)** per filtrare le ${prove.length} prove combinando anno, area, cluster, argomento, metodo, competenza e tipo di funzione. In alternativa: ricerca testuale (in alto) o il **grafo** della conoscenza. Ogni elenco nelle pagine-concetto è navigabile via wikilink.
+Usa la **[ricerca per più tag](cerca)** per filtrare i ${prove.length} singoli problemi e quesiti combinando tipo, anno, area, cluster, argomento, metodo, competenza e tipo di funzione. In alternativa: ricerca testuale (in alto) o il **grafo** della conoscenza. Ogni elenco nelle pagine-concetto è navigabile via wikilink.
 `
   await fs.writeFile(path.join(CONTENT, "index.md"), home)
 
@@ -227,12 +293,13 @@ Usa la **[ricerca per più tag](cerca)** per filtrare le ${prove.length} prove c
 title: Ricerca per più tag
 ---
 
-Seleziona uno o più tag per filtrare le ${prove.length} prove. Usa l'interruttore **TUTTI / QUALSIASI** per richiedere tutti i tag (intersezione) o almeno uno (unione).
+Seleziona uno o più tag per filtrare i ${prove.length} singoli problemi e quesiti. Usa l'interruttore **TUTTI / QUALSIASI** per richiedere tutti i tag (intersezione) o almeno uno (unione).
 
 <div id="cerca"></div>
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
   console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${prove.length} prove, paginated ${pagedLists} concept lists`)
+  if (missingPdf.size) console.log(`WARN: ${missingPdf.size} PDF filenames unmapped (no Drive id): ${[...missingPdf].join(", ")}`)
 }
 main()

@@ -12,12 +12,9 @@ tags:
 title: 1999 Suppletiva PNI — Problema 1
 ---
 
-# 1999 Suppletiva PNI — Problema 1
+Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.38 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Il candidato svolga a sua scelta **due** dei tre argomenti proposti.
 
@@ -30,11 +27,11 @@ $$y_1 = \frac{4}{x+1} \quad e \quad y_2 = x^2 - 3x + 4$$
 
 c) Calcolare l'area della superficie delimitata dalle curve rappresentanti le due funzioni $y_1$ e $y_2$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_pni_1999_problema1_38#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_pni_1999_problema1_38#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

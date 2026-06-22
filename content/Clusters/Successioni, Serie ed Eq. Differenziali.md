@@ -6,8 +6,6 @@ tags:
   - cluster/successioni_serie_ed_eq_differenziali
 ---
 
-# Successioni, Serie ed Eq. Differenziali
-
 *Cluster tematico* — **4 prove**.
 
 ## Prove

@@ -12,12 +12,9 @@ tags:
 title: 2011 PNI Suppletiva — Problema 1
 ---
 
-# 2011 PNI Suppletiva — Problema 1
-
-Fonte:  · p.74 · 📄 Apri PDF
+Fonte: p.74 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È dato un quadrato $ABCD$ di lato $\overline{AB}=a$. Da $A$ si conduca una semiretta, che incontra il lato $BC$ in $E$ ed il prolungamento del lato $DC$ in $F$.
 
@@ -32,11 +29,11 @@ $$f(x)=\operatorname{tg}x+\operatorname{cotg}x.$$
 
 4) La regione finita di piano delimitata dalla curva $\gamma$ e dall'asse $x$ nell'intervallo $\dfrac{\pi}{6}\le x\le\dfrac{\pi}{3}$ è la base di un solido $S$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte triangoli equilateri. Si calcoli il volume di $S$.
 
-**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Collegamento tra ambiti matematici diversi]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_sessione_suppletiva_problema1_74#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.74
+**Soluzione:** [[Soluzioni/2011_pni_2011_sessione_suppletiva_problema1_74#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.74](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

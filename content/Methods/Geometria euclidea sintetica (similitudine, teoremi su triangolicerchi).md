@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)
-
 *Metodo risolutivo* — **244** problemi/quesiti.
 
 ## Problemi e quesiti

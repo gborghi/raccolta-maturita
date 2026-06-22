@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Calcolo di limiti e continuita
-
 *Metodo risolutivo* — **264** problemi/quesiti.
 
 ## Problemi e quesiti

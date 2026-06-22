@@ -12,12 +12,9 @@ tags:
 title: 2011 Ordinamento — Problema 2
 ---
 
-# 2011 Ordinamento — Problema 2
+Fonte: p.11 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.11 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 È data la funzione
 $$f(x)=(ax+b)\,e^{-\frac{x}{3}}+3,$$
@@ -31,11 +28,11 @@ dipendente dai parametri reali $a$ e $b$.
 
 4) Si supponga che $f(x)$ rappresenti l'andamento del profitto (in milioni di euro) di un'azienda in funzione del tempo $x$. Verificato, mediante la tabella dei valori, che la funzione è accettabile come modello, si stabilisca a quale valore non potrà essere inferiore il profitto al crescere indefinito di $x$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Interpretazione e formalizzazione del testo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2011_ordinamento_2011_problema2_11#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.11
+**Soluzione:** [[Soluzioni/2011_ordinamento_2011_problema2_11#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.11](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

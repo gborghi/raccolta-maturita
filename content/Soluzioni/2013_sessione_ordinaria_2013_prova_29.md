@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2013_sessione_ordinaria_2013_prova_29
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_sessione_ordinaria_2013_prova_29
+title: 2013 Ordinaria Americhe — Quesiti — Svolgimento
 ---
-# Soluzioni — 2013_sessione_ordinaria_2013_prova_29
 
-## Problema 1
 
 Sessione Ordinaria 2013
 

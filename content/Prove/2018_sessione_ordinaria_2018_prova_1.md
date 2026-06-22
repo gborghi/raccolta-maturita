@@ -12,9 +12,7 @@ tags:
 title: 2018 Sessione ordinaria — Prova
 ---
 
-# 2018 Sessione ordinaria — Prova
-
-Fonte:  · p.1 · 📄 Apri PDF
+Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -45,11 +43,11 @@ Il cliente decide di ordinare 5.000 mattonelle con il disegno derivato da $a_2(x
 
 4. Fornisci una stima motivata del numero di mattonelle che, avendo una macchia nella parte non colorata, risulteranno danneggiate al termine del ciclo di produzione.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Limiti e Continuita]], [[Probabilita]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
 
@@ -67,11 +65,11 @@ con $k \in \mathbb{Z}$.
 
 4. Nella figura è evidenziato un punto $N \in \Gamma_1$ e un tratto del grafico $\Gamma_1$. La retta normale a $\Gamma_1$ in $N$ (vale a dire la perpendicolare alla retta tangente a $\Gamma_1$ in quel punto) passa per l'origine degli assi $O$. Il grafico $\Gamma_1$ possiede tre punti con questa proprietà. Dimostra, più in generale, che il grafico di un qualsiasi polinomio di grado $n > 0$ non può possedere più di $2n - 1$ punti nei quali la retta normale al grafico passa per l'origine. *(figura nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Probabilita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 1
 
@@ -80,7 +78,7 @@ con $k \in \mathbb{Z}$.
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ottimizzazione e ricerca dell'ottimo]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.19
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.19](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 2
 
@@ -89,7 +87,7 @@ con $k \in \mathbb{Z}$.
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 3
 
@@ -98,7 +96,7 @@ con $k \in \mathbb{Z}$.
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 4
 
@@ -107,7 +105,7 @@ con $k \in \mathbb{Z}$.
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 5
 
@@ -116,7 +114,7 @@ con $k \in \mathbb{Z}$.
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 6
 
@@ -125,7 +123,7 @@ con $k \in \mathbb{Z}$.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 7
 
@@ -138,7 +136,7 @@ sia uguale a 10.
 **Topic:** [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 8
 
@@ -147,7 +145,7 @@ sia uguale a 10.
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 9
 
@@ -156,7 +154,7 @@ sia uguale a 10.
 **Topic:** [[Geometria nello Spazio]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 10
 
@@ -167,7 +165,7 @@ Durata massima della prova: 6 ore.
 **Topic:** [[Equazioni Differenziali]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

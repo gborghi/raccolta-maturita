@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120
+title: 2006 Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120
 
 ## Quesito 1
 

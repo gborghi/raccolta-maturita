@@ -12,9 +12,7 @@ tags:
 title: 2007 Ordinaria — Prova
 ---
 
-# 2007 Ordinaria — Prova
-
-Fonte:  · p.7 · 📄 Apri PDF
+Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -29,7 +27,7 @@ Si considerino i triangoli la cui base è $AB=1$ e il cui vertice $C$ varia in m
 **Topic:** [[Geometria Analitica (piano)]], [[Trigonometria]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Problema 2
 
@@ -43,7 +41,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Trigonometria]], [[Successioni e Serie]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 1
 
@@ -52,7 +50,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 2
 
@@ -61,17 +59,17 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
 
 3. Si determini, al variare di $k$, il numero delle soluzioni reali dell'equazione: $$x^3-x^2-k+1=0$$
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]], [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
 
@@ -80,7 +78,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 5
 
@@ -89,7 +87,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
 
@@ -98,7 +96,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 7
 
@@ -107,7 +105,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
 
@@ -116,7 +114,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Analisi e interpretazione di dati e probabilita]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.29
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.29](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 9
 
@@ -125,7 +123,7 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 10
 
@@ -138,7 +136,7 @@ ____________________________
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Astrazione e generalizzazione]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

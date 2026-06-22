@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2013_pni_2013_sessione_straordinaria_problema1_119
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_pni_2013_sessione_straordinaria_problema1_119
+title: 2013 PNI Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2013_pni_2013_sessione_straordinaria_problema1_119
 
-## Problema 1
 
 PNI 2013 - SESSIONE STRAORDINARIA - PROBLEMA $1$
 

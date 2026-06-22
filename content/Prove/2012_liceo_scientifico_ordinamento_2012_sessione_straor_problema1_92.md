@@ -12,12 +12,9 @@ tags:
 title: 2012 Scientifico Straordinaria — Problema 1
 ---
 
-# 2012 Scientifico Straordinaria — Problema 1
-
-Fonte:  · p.92 · 📄 Apri PDF
+Fonte: p.92 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Il triangolo $ABC$, rettangolo in $A$, ha l'ipotenusa $BC=2a$; sia $P$ il punto medio di $AC$, $Q$ la sua proiezione ortogonale su $BC$ e $A\hat{B}C=\alpha$. *(figura nel PDF)*
 
@@ -29,11 +26,11 @@ Il triangolo $ABC$, rettangolo in $A$, ha l'ipotenusa $BC=2a$; sia $P$ il punto 
 
 4. Si determini l'area della superficie piana, appartenente al I quadrante, delimitata dall'asse delle ascisse, dalla curva $\gamma$ e dalla retta $x=x_D$.
 
-**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema1_92#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.92
+**Soluzione:** [[Soluzioni/2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema1_92#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.92](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

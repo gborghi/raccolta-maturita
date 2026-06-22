@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135
+title: 2004 PNI Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135
 
 ## Quesito 1
 

@@ -12,9 +12,7 @@ tags:
 title: 1912 Tema di maturità
 ---
 
-# 1912 Tema di maturità
-
-Fonte:  · p.59 · 📄 Apri PDF
+Fonte: p.59 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -28,7 +26,7 @@ $$\sin^2 B = \frac{2}{3}m(n+3) \qquad \text{e} \qquad \frac{2\tan B}{1 + \tan^2 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Fonte:** 📄 Testo (PDF) — p.59
+**Fonte:** [📄 Testo (PDF) — p.59](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -41,7 +39,7 @@ $$\frac{(1 + \tan \hat{B})^2}{1 + \tan^2 \hat{B}} = 4m^2.$$
 **Topic:** [[Geometria Solida]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]]
-**Fonte:** 📄 Testo (PDF) — p.59
+**Fonte:** [📄 Testo (PDF) — p.59](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -50,7 +48,7 @@ Calcolare il seno dell'angolo che un cateto d'un triangolo rettangolo forma con 
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.59
+**Fonte:** [📄 Testo (PDF) — p.59](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -61,7 +59,7 @@ $$\frac{(\tan B + 1)^2}{\tan B} = \frac{1 + m^2}{2m}.$$
 **Topic:** [[Geometria Solida]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]]
-**Fonte:** 📄 Testo (PDF) — p.59
+**Fonte:** [📄 Testo (PDF) — p.59](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

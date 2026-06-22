@@ -12,12 +12,15 @@ tags:
 title: 2017 Suppletiva — Problema 1
 ---
 
-# 2017 Suppletiva — Problema 1
-
-Fonte:  · p.110 · 📄 Apri PDF
+Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 **Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
-## Problema 1
+
+<!--fig:start-->
+![[_attachments/2017_suppletiva_2017_problema1_110/2017_suppletiva_2017_problema1_110_fig.svg]]
+*Tabellone esagonale suddiviso nei tre settori A, B, C; i tre varchi tra i settori sono rappresentati con tratti ondulati e la pedina P si trova nel settore A.*
+
+<!--fig:end-->
 
 Un gioco si svolge su un tabellone, che è suddiviso in tre settori $A$, $B$, $C$, come in figura 1.
 
@@ -41,11 +44,11 @@ e tracciare, in uno stesso diagramma, i grafici delle funzioni $p_1(x)$, $p_2(x)
 
 **4)** Stabilire quali sono i tre valori medi delle funzioni che esprimono le probabilità $p_1(x)$, $p_2(x)$, $p_3(x)$. Nel caso $x = \frac{1}{2}$ quali sono il valore medio e la varianza della variabile casuale che fornisce il numero di settori raggiungibili da $P$?
 
-**Topic:** [[Probabilita]], [[Studio di Funzione]], [[Statistica]], [[Massimi e Minimi]]
+**Topic:** [[Probabilita]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Statistica]], [[Massimi e Minimi]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Analisi qualitativa e deduzione di grafici]], [[Integrazione (calcolo di integrali)]], [[Statistica e analisi dati]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Analisi e interpretazione di dati e probabilita]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2017_suppletiva_2017_problema1_110#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.110
+**Soluzione:** [[Soluzioni/2017_suppletiva_2017_problema1_110#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.110](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/probabilita_e_combinatoria #cluster/probabilit_e_combinatoria

@@ -12,12 +12,15 @@ tags:
 title: 2017 Liceo Scientifico — Problema 2
 ---
 
-# 2017 Liceo Scientifico — Problema 2
-
-Fonte:  · p.33 · 📄 Apri PDF
+Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
+
+<!--fig:start-->
+![[_attachments/2017_liceo_scientifico_2017_problema2_33/2017_liceo_scientifico_2017_problema2_33_fig.svg]]
+*Figura 1: grafico della funzione $f$ periodica ($T=4$) nell'intervallo $[0;4]$; segmenti $OB$, $BD$, $DE$ con $O(0,0)$, $B(1,1)$, $D(3,-1)$, $E(4,0)$ e quadrato $OABC$.*
+
+<!--fig:end-->
 
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, periodica di periodo $T=4$ il cui grafico, nell'intervallo $[0;4]$, è il seguente *(figura nel PDF)*.
 
@@ -37,7 +40,7 @@ Dimostra che la porzione quadrata di piano $OABC$ in Figura 1 viene suddivisa da
 **Topic:** [[Funzioni Integrali]], [[Trigonometria]], [[Probabilita]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Analisi e interpretazione di dati e probabilita]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2017_liceo_scientifico_2017_problema2_33#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.33
+**Soluzione:** [[Soluzioni/2017_liceo_scientifico_2017_problema2_33#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

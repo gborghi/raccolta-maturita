@@ -12,12 +12,9 @@ tags:
 title: 2024 Straordinaria — Problema 2
 ---
 
-# 2024 Straordinaria — Problema 2
+Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.76 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione $f(x)=e^{-x^2}$.
 
@@ -29,11 +26,11 @@ c) Sia $\gamma_3$ il grafico rappresentativo della funzione $f''(x)$. Calcolare 
 
 d) Posto $F(x)=\int_0^x e^{-t^2}\,dt$, calcolare il $\lim_{x\to 0}\frac{F(x)}{f'(x)}$ spiegando perché, in $x=0$, le funzioni $F(x)$ ed $f'(x)$ sono infinitesime dello stesso ordine.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_problema2_76#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.76
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_problema2_76#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

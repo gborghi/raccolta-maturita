@@ -12,12 +12,15 @@ tags:
 title: 2016 Liceo Scientifico — Problema 1
 ---
 
-# 2016 Liceo Scientifico — Problema 1
+Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.22 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2016_liceo_scientifico_2016_problema1_22/2016_liceo_scientifico_2016_problema1_22_fig.svg]]
+*Figura 2: profilo laterale del serbatoio con punto angoloso B alla sommità, asse di simmetria AB e angolo $\vartheta$; base da $-1$ a $1$.*
+
+<!--fig:end-->
 
 L'amministratore di un piccolo condominio deve installare un nuovo serbatoio per il gasolio da riscaldamento. Non essendo soddisfatto dei modelli esistenti in commercio, ti incarica di progettarne uno che risponda alle esigenze del condominio.
 
@@ -47,11 +50,11 @@ $$f(x)=\cos\!\left(\frac{\pi}{2}x^k\right)$$
 
    Illustra gli argomenti che puoi usare per spiegare all'amministratore che il suo ragionamento è sbagliato; mostra anche qual è, in termini assoluti, il massimo errore che si commette usando il livello $z$ come indicatore della percentuale di riempimento, come da lui suggerito, e qual è il valore di $z$ in corrispondenza del quale esso si verifica.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Dipendente da un parametro]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2016_liceo_scientifico_2016_problema1_22#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2016_liceo_scientifico_2016_problema1_22#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

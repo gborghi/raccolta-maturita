@@ -12,17 +12,14 @@ tags:
 title: 'Simulazione Zanichelli 2013 Sperimentale #8'
 ---
 
-# Simulazione Zanichelli 2013 Sperimentale #8
+Fonte: p.84 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.84 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *(Statement non trascrivibile dalle pagine disponibili — vedi PDF.)*
 
-**Topic:** [[Studio di Funzione]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_8_84#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.84
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]]
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_8_84#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.84](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

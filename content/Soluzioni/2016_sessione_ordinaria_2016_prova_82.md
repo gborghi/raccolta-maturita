@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2016_sessione_ordinaria_2016_prova_82
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_sessione_ordinaria_2016_prova_82
+title: 2016 Ordinaria (Opzione Sportiva) — Prova — Svolgimento
 ---
-# Soluzioni — 2016_sessione_ordinaria_2016_prova_82
 
 ## Problema 1
 

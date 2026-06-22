@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Discussione di famiglie di curve/funzioni parametriche
-
 *Metodo risolutivo* — **293** problemi/quesiti.
 
 ## Problemi e quesiti

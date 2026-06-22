@@ -12,12 +12,9 @@ tags:
 title: 2016 Americhe — Problema 2 e Quesiti
 ---
 
-# 2016 Americhe — Problema 2 e Quesiti
+Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.54 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $\Gamma$ il grafico della funzione
 
@@ -45,11 +42,11 @@ $$F(x)=\int_0^x f(t)\,dt$$
 
 determina le equazioni dei suoi asintoti e traccia il grafico di $F(x)$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2016_americhe_2016_problema2_54#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.54
+**Soluzione:** [[Soluzioni/2016_americhe_2016_problema2_54#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

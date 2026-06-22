@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Applicazione consapevole di teoremi
-
 *Competenza* — **339** problemi/quesiti.
 
 ## Problemi e quesiti

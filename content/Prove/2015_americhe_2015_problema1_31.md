@@ -12,12 +12,9 @@ tags:
 title: 2015 Americhe — Problema 1
 ---
 
-# 2015 Americhe — Problema 1
+Fonte: p.31 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.31 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Stai seguendo un corso, nell'ambito dell'orientamento universitario, per la preparazione agli studi di Medicina. Il docente introduce la lezione dicendo che un medico ben preparato deve disporre di conoscenze, anche matematiche, che permettano di costruire modelli ed interpretare i dati che definiscono lo stato di salute e la situazione clinica dei pazienti. Al tuo gruppo di lavoro viene assegnato il compito di preparare una lezione sul tema: "come varia nel tempo la concentrazione di un farmaco nel sangue?".
 
@@ -40,11 +37,11 @@ $$v(t)=k\cdot y(t)$$
 
 **4)** Determina la quantità totale di farmaco accumulata nell'organo nel caso della somministrazione endovenosa e di quella intramuscolare studiate in precedenza. In quale delle due l'accumulo sarà maggiore?
 
-**Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_problema1_31#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.31
+**Soluzione:** [[Soluzioni/2015_americhe_2015_problema1_31#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.31](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

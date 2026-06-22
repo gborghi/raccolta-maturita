@@ -12,12 +12,9 @@ tags:
 title: 2009 Ordinamento Straordinaria — Problema 1
 ---
 
-# 2009 Ordinamento Straordinaria — Problema 1
+Fonte: p.107 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.107 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione $f$ definita da: $f(x) = \dfrac{x+1}{e^{3x}}$.
 
@@ -29,11 +26,11 @@ Si consideri la funzione $f$ definita da: $f(x) = \dfrac{x+1}{e^{3x}}$.
 
 **4)** Si calcoli l'area $A(k)$ della superficie piana, delimitata dalla curva $\gamma$, dall'asse $x$ e dalle rette $x = -1$ e $x = k$ con $k > 0$. Cosa si può dire di $A(k)$ quando $k \to +\infty$?
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema1_107#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.107
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema1_107#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.107](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

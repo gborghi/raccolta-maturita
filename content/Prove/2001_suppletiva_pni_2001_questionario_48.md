@@ -12,19 +12,17 @@ tags:
 title: 2001 Suppletiva PNI — Questionario
 ---
 
-# 2001 Suppletiva PNI — Questionario
-
-Fonte:  · p.48 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
 **Quesito 1.** Enunciare il teorema del valor medio o di Lagrange illustrandone il legame con il teorema di Rolle e le implicazioni ai fini della determinazione della crescenza o decrescenza delle curve.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.48
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 2
 
@@ -33,17 +31,17 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 3
 
 **Quesito 3.** Dire qual è il dominio della funzione $f(x) = x^{\pi} - \pi^{x}$ e stabilire il segno della derivata prima e quello della derivata seconda di $f(x)$ nel punto $x = \pi$.
 
-**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 4
 
@@ -52,7 +50,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 5
 
@@ -61,7 +59,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 6
 
@@ -70,17 +68,17 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 7
 
 **Quesito 7.** Verificato che l'equazione $x^3 - 2x - 5 = 0$ ammette una sola radice reale compresa tra $2$ e $3$, se ne calcoli un'approssimazione applicando uno dei metodi numerici studiati.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 8
 
@@ -89,7 +87,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 9
 
@@ -101,7 +99,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2001_suppletiva_pni_2001_questionario_48#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

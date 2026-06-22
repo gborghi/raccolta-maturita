@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Calcolo simbolico e manipolazione algebrica
-
 *Competenza* — **1516** problemi/quesiti.
 
 ## Problemi e quesiti

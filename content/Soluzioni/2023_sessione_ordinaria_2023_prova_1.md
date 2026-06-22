@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2023_sessione_ordinaria_2023_prova_1
 pdf: Prova_Maturita_2023.pdf
 source: text
-title: Soluzioni — 2023_sessione_ordinaria_2023_prova_1
+title: 2023 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2023_sessione_ordinaria_2023_prova_1
 
 ## Problema 1
 

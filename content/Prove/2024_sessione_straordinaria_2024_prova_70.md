@@ -12,10 +12,8 @@ tags:
 title: 2024 Straordinaria — Prova
 ---
 
-# 2024 Straordinaria — Prova
-
-Fonte:  · p.70 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ c) Si disegni quindi il grafico della funzione $f(x)=x^3+3x^2+4$, e si calcoli l
 
 d) Si dimostri infine che la funzione $f(x)$ è simmetrica rispetto al suo punto di flesso. Successivamente, si applichi alla funzione $f(x)$ la traslazione di vettore $\vec{v}\,(\alpha,\beta)$. Determinare $\alpha,\beta\in\mathbb{R}$, affinché la funzione traslata risulti dispari.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Problema 2
 
@@ -49,11 +47,11 @@ c) Sia $\gamma_3$ il grafico rappresentativo della funzione $f''(x)$. Calcolare 
 
 d) Posto $F(x)=\int_0^x e^{-t^2}\,dt$, calcolare il $\lim_{x\to 0}\frac{F(x)}{f'(x)}$ spiegando perché, in $x=0$, le funzioni $F(x)$ ed $f'(x)$ sono infinitesime dello stesso ordine.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]], [[Funzioni Integrali]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 1
 
@@ -62,7 +60,7 @@ d) Posto $F(x)=\int_0^x e^{-t^2}\,dt$, calcolare il $\lim_{x\to 0}\frac{F(x)}{f'
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.83
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 2
 
@@ -74,7 +72,7 @@ d) Posto $F(x)=\int_0^x e^{-t^2}\,dt$, calcolare il $\lim_{x\to 0}\frac{F(x)}{f'
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.83
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 3
 
@@ -85,7 +83,7 @@ e la retta $t$ passante per i punti $A(-2,3,0)$ e $B(2,-1,2)$. La superficie $S$
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.84
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.84](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 4
 
@@ -96,7 +94,7 @@ sull'intervallo $[1,k]$ sia uguale a $1-\ln\left(\frac{5}{2}\right)$.
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 5
 
@@ -105,7 +103,7 @@ sull'intervallo $[1,k]$ sia uguale a $1-\ln\left(\frac{5}{2}\right)$.
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 6
 
@@ -115,7 +113,7 @@ $$i)\ \int_0^1 f(x)\,dx=1 \qquad ii)\ \int_1^2 f(x)\,dx=2$$
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.87
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 7
 
@@ -124,7 +122,7 @@ $$i)\ \int_0^1 f(x)\,dx=1 \qquad ii)\ \int_1^2 f(x)\,dx=2$$
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 8
 
@@ -133,7 +131,7 @@ $$i)\ \int_0^1 f(x)\,dx=1 \qquad ii)\ \int_1^2 f(x)\,dx=2$$
 **Topic:** [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.89
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.89](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

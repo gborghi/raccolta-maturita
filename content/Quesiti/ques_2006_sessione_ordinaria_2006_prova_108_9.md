@@ -1,0 +1,28 @@
+---
+title: 2006 Sessione Ordinaria PNI — Prova (p.108) — Quesito 9
+tipo: quesito
+item_id: ques_2006_sessione_ordinaria_2006_prova_108_9
+prova_id: prova_2006_sessione_ordinaria_2006_prova_108
+anno: '2006'
+pdf: Prova_Maturita_2006.pdf
+cluster: Studio di Funzione
+numero: '9'
+tags:
+  - maturita/quesito
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2006
+---
+
+Fonte: p.108 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+**Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_108|2006 Sessione Ordinaria PNI — Prova (p.108)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+
+9. Della funzione $f(x)$ si sa che è derivabile e diversa da zero in ogni punto del suo dominio e, ancora, che $f'(x) = f(x)$ e $f(0) = 1$. Puoi determinare $f(x)$?
+
+**Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]]
+**Metodi:** [[Risoluzione di equazioni differenziali]], [[Integrazione (calcolo di integrali)]]
+**Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
+**Soluzione:** [[Svolgimenti/sol_ques_2006_sessione_ordinaria_2006_prova_108_9|📝 Svolgimento]] · [📄 PDF p.125](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+
+
+#maturita/quesito #area/analisi #cluster/studio_di_funzione

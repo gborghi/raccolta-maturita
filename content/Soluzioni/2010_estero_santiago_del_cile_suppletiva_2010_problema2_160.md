@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2010_estero_santiago_del_cile_suppletiva_2010_problema2_160
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_santiago_del_cile_suppletiva_2010_problema2_160
+title: 2010 Estero Santiago Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2010_estero_santiago_del_cile_suppletiva_2010_problema2_160
 
-## Problema 1
 
 Estero (Santiago del Cile)
 Suppletiva $2010-$ Problema $2$

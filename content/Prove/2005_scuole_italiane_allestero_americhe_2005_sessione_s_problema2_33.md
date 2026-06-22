@@ -12,12 +12,9 @@ tags:
 title: 2005 Americhe Suppletiva — Problema 2
 ---
 
-# 2005 Americhe Suppletiva — Problema 2
-
-Fonte:  · p.33 · 📄 Apri PDF
+Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Un prisma retto ha per basi i quadrati $ABCD$ e $A'B'C'D'$ e i suoi spigoli laterali sono $AA'$, $BB'$, $CC'$, $DD'$. Gli spigoli di base del prisma misurano 2 cm, quelli laterali misurano 5 cm.
 
@@ -36,7 +33,7 @@ Un prisma retto ha per basi i quadrati $ABCD$ e $A'B'C'D'$ e i suoi spigoli late
 **Topic:** [[Geometria Solida]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema2_33#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.33
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema2_33#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

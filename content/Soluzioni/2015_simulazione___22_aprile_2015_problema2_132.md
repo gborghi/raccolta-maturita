@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_simulazione___22_aprile_2015_problema2_132
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_simulazione___22_aprile_2015_problema2_132
+title: 2015 SIMULAZIONE - 22 APRILE 2015 — Svolgimento
 ---
-# Soluzioni — 2015_simulazione___22_aprile_2015_problema2_132
 
-## Problema 1
 
 SIMULAZIONE $- 22$ APRILE 2015 - PROBLEMA $2:$ IL VASO
 

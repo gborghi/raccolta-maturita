@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Americhe Ordinaria — Problema 1
 ---
 
-# 2008 Estero Americhe Ordinaria — Problema 1
-
-Fonte:  · p.16 · 📄 Apri PDF
+Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Si fissi nel piano la semicirconferenza $\Gamma$ che ha centro in $C$ e diametro $\overline{AB}=2$ e si affrontino le seguenti questioni:
 
@@ -30,7 +27,7 @@ Si fissi nel piano la semicirconferenza $\Gamma$ che ha centro in $C$ e diametro
 **Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema1_16#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema1_16#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

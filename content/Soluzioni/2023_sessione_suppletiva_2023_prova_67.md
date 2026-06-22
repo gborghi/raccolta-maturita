@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2023_sessione_suppletiva_2023_prova_67
 pdf: Prova_Maturita_2023.pdf
 source: text
-title: Soluzioni — 2023_sessione_suppletiva_2023_prova_67
+title: 2023 Suppletiva — Prova — Svolgimento
 ---
-# Soluzioni — 2023_sessione_suppletiva_2023_prova_67
 
 ## Problema 1
 

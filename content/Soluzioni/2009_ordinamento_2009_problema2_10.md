@@ -3,12 +3,9 @@ tipo: soluzione
 prova_stem: 2009_ordinamento_2009_problema2_10
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_ordinamento_2009_problema2_10
+title: 2009 Ordinamento — Problema 2 — Svolgimento
 ---
 
-# Soluzioni — 2009_ordinamento_2009_problema2_10
-
-## Problema 1
 
 ### Punto 1)
 

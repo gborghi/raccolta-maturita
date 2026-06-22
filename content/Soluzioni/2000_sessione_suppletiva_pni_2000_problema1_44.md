@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2000_sessione_suppletiva_pni_2000_problema1_44
 pdf: Prova_Maturita_2000.pdf
 source: text
-title: Soluzioni — 2000_sessione_suppletiva_pni_2000_problema1_44
+title: 2000 Suppletiva PNI — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2000_sessione_suppletiva_pni_2000_problema1_44
 
-## Problema 1
 
 Sessione suppletiva PNI 2000 - Problema $1$
 

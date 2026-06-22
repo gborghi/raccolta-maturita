@@ -12,12 +12,9 @@ tags:
 title: 1987 — Tema di maturita
 ---
 
-# 1987 — Tema di maturita
+Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.129 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 3. Data una circonferenza di diametro $|AB|=2r$, si determini a quale distanza dal centro deve essere condotta la corda $CD$ perpendicolare ad $AB$ in modo che la differenza tra il triangolo $ACD$, contenente il centro, ed il triangolo $BCD$ abbia valore massimo.
 Si indichi la costruzione grafica della soluzione.
@@ -68,11 +65,11 @@ $$x^2 + y^2 = 1.$$
 Siano $A$ il punto comune alle due curve di ascissa negativa, $B$ un punto della circonferenza di ordinata positiva, $H$ la proiezione di $B$ sull'asse delle ascisse e $P$ il punto di intersezione del segmento $BH$ con l'ellisse.
 Indicato con $\alpha$ l'angolo $B\hat{A}H$, si esprimano in funzione di esso le coordinate di $B$, $H$, $P$, e si determini il valore di $\alpha$ per cui l'area del triangolo $AHP$ è estrema.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Irrazionale]], [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.129
+**Fonte:** [📄 Testo (PDF) — p.129](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

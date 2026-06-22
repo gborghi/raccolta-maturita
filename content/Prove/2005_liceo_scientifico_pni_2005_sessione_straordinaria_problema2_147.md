@@ -12,12 +12,9 @@ tags:
 title: 2005 PNI Straordinaria — Problema 2
 ---
 
-# 2005 PNI Straordinaria — Problema 2
+Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.147 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$[1] \qquad y = x^4 + a x^3 + b x^2 + c \ .$$
@@ -32,11 +29,11 @@ $$[1] \qquad y = x^4 + a x^3 + b x^2 + c \ .$$
 
 **e)** Determinare le equazioni della traslazione che, lasciando sull'asse $y$ il flesso di $K$ con tangente orizzontale, porti il minimo di $K$ sull'asse $x$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema2_147#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema2_147#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_estero_calendario_australe_2006_sessione_suppletiv_problema1_37
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_estero_calendario_australe_2006_sessione_suppletiv_problema1_37
+title: 2006 Australe Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2006_estero_calendario_australe_2006_sessione_suppletiv_problema1_37
 
-## Problema 1
 
 Estero (Calendario australe) 2006
 Sessione $Suppletiva-$ Problema $1$

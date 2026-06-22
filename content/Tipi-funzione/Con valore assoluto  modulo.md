@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Con valore assoluto / modulo
-
 *Tipo di funzione* — **24** problemi/quesiti.
 
 ## Problemi e quesiti

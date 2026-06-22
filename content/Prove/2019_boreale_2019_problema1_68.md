@@ -12,12 +12,9 @@ tags:
 title: 2019 Boreale — Problema 1
 ---
 
-# 2019 Boreale — Problema 1
+Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.68 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione
 $$E(x)=\frac{-Ax}{(1-x^2)^2}$$
@@ -33,11 +30,11 @@ c) Considerato un sistema di riferimento ortogonale $Oxy$, dove le lunghezze son
 
 d) Determinare modulo, direzione e verso del campo elettrostatico generato dalle cariche $q_1$ e $q_2$ rispettivamente nei punti $S(0,1)$ e $T(0,\sqrt{3})$. Quali sono i valori del potenziale elettrostatico nei punti $S$ e $T$?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Fisica]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2019_boreale_2019_problema1_68#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2019_boreale_2019_problema1_68#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

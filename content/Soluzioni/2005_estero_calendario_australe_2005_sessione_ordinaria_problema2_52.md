@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2005_estero_calendario_australe_2005_sessione_ordinaria_problema2_52
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_estero_calendario_australe_2005_sessione_ordinaria_problema2_52
+title: 2005 Estero Australe Ord — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2005_estero_calendario_australe_2005_sessione_ordinaria_problema2_52
 
-## Problema 1
 
 Estero (Calendario australe) 2005
 Sessione $Ordinaria-$ Problema $2$

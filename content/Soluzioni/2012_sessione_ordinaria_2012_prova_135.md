@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2012_sessione_ordinaria_2012_prova_135
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_sessione_ordinaria_2012_prova_135
+title: Sessione ordinaria 2012 (PNI) — Prova — Svolgimento
 ---
-# Soluzioni — 2012_sessione_ordinaria_2012_prova_135
 
 ## Problema 1
 

@@ -12,12 +12,9 @@ tags:
 title: 1991 — Tema di maturita
 ---
 
-# 1991 — Tema di maturita
-
-Fonte:  · p.135 · 📄 Apri PDF
+Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -35,7 +32,7 @@ Detto $C$ il punto d'intersezione delle rette $r$ ed $s$ si dimostri che i trian
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Geometria Euclidea]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.135
+**Fonte:** [📄 Testo (PDF) — p.135](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

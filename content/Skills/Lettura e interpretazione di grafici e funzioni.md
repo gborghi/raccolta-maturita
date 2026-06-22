@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Lettura e interpretazione di grafici e funzioni
-
 *Competenza* — **734** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -12,12 +12,9 @@ tags:
 title: 2013 Ordinamento — Problema 2
 ---
 
-# 2013 Ordinamento — Problema 2
+Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.10 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $\Phi$ la curva di equazione
 $$f(x)=\frac{8}{4+x^2}.$$
@@ -30,11 +27,11 @@ $$f(x)=\frac{8}{4+x^2}.$$
 
 4) Sia $W$ il solido ottenuto ruotando la regione $R$ attorno all'asse $y$. Si calcoli il volume di $W$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_ordinamento_2013_problema2_10#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2013_ordinamento_2013_problema2_10#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,12 +12,9 @@ tags:
 title: 2008 PNI Straordinaria — Problema 1
 ---
 
-# 2008 PNI Straordinaria — Problema 1
+Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.113 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Con riferimento ad un sistema di assi cartesiani ortogonali $Oxy$, si trattino le seguenti questioni.
 
@@ -29,11 +26,11 @@ Con riferimento ad un sistema di assi cartesiani ortogonali $Oxy$, si trattino l
 
 4) Si calcoli il volume del solido che ha per base il segmento iperbolico prima considerato e tale che, tagliato con piani paralleli ad $AB$, dia tutte sezioni esagonali regolari.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema1_113#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.113
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema1_113#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.113](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

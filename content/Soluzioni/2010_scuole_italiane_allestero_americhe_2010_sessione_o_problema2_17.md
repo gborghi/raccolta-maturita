@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema2_17
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema2_17
+title: 2010 Estero Americhe Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema2_17
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2010
 Sessione $Ordinaria-$ Problema $2$

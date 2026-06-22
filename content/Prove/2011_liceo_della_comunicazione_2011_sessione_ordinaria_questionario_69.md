@@ -12,9 +12,7 @@ tags:
 title: 2011 Liceo Comunicazione Ordinaria — Questionario
 ---
 
-# 2011 Liceo Comunicazione Ordinaria — Questionario
-
-Fonte:  · p.69 · 📄 Apri PDF
+Fonte: p.69 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.69 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.69 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -43,7 +41,7 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Topic:** [[Limiti e Continuita]], [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
@@ -52,7 +50,7 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -61,7 +59,7 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -70,7 +68,7 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.71
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.71](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -79,7 +77,7 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -88,7 +86,7 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 9
 
@@ -97,7 +95,7 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
 
@@ -113,10 +111,10 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 
 Si motivi la risposta. *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.73
+**Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.73](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

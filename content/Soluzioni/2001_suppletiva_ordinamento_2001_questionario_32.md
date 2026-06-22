@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2001_suppletiva_ordinamento_2001_questionario_32
 pdf: Prova_Maturita_2001.pdf
 source: text
-title: Soluzioni — 2001_suppletiva_ordinamento_2001_questionario_32
+title: 2001 Suppletiva Ordinamento — Questionario — Svolgimento
 ---
-# Soluzioni — 2001_suppletiva_ordinamento_2001_questionario_32
 
 ## Quesito 1
 

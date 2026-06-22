@@ -12,10 +12,8 @@ tags:
 title: 2005 Suppletiva PNI — Questionario
 ---
 
-# 2005 Suppletiva PNI — Questionario
-
-Fonte:  · p.120 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.120 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.120 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.120
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Siano $AB$, $AC$, $AD$ tre spigoli di un cubo. Sapendo che uno spigolo è lungo 
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.121
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.121](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Alberto e Gianna sono chiamati a risolvere la seguente equazione: $\sin x \cos x
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.121
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.121](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Si consideri la seguente equazione in $x$: $(k-2)\,x^2 - (2k-1)\,x + (k+1) = 0$ 
 **Topic:** [[Equazioni e Disequazioni]], [[Limiti e Continuita]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -66,7 +64,7 @@ essendo "$e$" la base dei logaritmi naturali. Una sola risposta è corretta. Ind
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.123
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -75,7 +73,7 @@ Dimostrare che, se la derivata di una funzione reale di variabile reale $f(x)$ �
 **Topic:** [[Derivate]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.123
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
@@ -84,7 +82,7 @@ Spiegare in maniera esauriente perché una funzione reale di variabile reale int
 **Topic:** [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
 
@@ -93,7 +91,7 @@ In un'urna ci sono due palline bianche, in una seconda urna ci sono due palline 
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.125
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 9
 
@@ -109,7 +107,7 @@ Un sola risposta è corretta: individuarla e fornire una esauriente spiegazione 
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
 
@@ -120,7 +118,7 @@ dove $m$ è un parametro reale. Trovare l'equazione del luogo geometrico dei suo
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Sistemi di equazioni]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2005_suppletiva_2005_pni_questionario_120#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,9 +12,7 @@ tags:
 title: 1878 Tema di maturita
 ---
 
-# 1878 Tema di maturita
-
-Fonte:  · p.46 · 📄 Apri PDF
+Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -24,7 +22,7 @@ Fonte:  · p.46 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.46
+**Fonte:** [📄 Testo (PDF) — p.46](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.46 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazione per induzione]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Fonte:** 📄 Testo (PDF) — p.46
+**Fonte:** [📄 Testo (PDF) — p.46](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

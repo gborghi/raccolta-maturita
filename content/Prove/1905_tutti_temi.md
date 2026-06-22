@@ -12,9 +12,7 @@ tags:
 title: 1905 Tema di maturità
 ---
 
-# 1905 Tema di maturità
-
-Fonte:  · p.53 · 📄 Apri PDF
+Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -28,7 +26,7 @@ $$\frac{1}{\sqrt{5}}.$$
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.53
+**Fonte:** [📄 Testo (PDF) — p.53](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -37,7 +35,7 @@ Trovare i lati d'un triangolo rettangolo, sapendo che la superficie laterale del
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]]
-**Fonte:** 📄 Testo (PDF) — p.53
+**Fonte:** [📄 Testo (PDF) — p.53](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -54,7 +52,7 @@ e che $S_n - S_{n-1}$ è divisibile per $10^{n-1}$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Fonte:** 📄 Testo (PDF) — p.53
+**Fonte:** [📄 Testo (PDF) — p.53](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -67,7 +65,7 @@ dove $q$ è un numero qualunque, le soluzioni diventano razionali in $a$, $b$, $
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Sistemi di equazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Fonte:** 📄 Testo (PDF) — p.53
+**Fonte:** [📄 Testo (PDF) — p.53](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

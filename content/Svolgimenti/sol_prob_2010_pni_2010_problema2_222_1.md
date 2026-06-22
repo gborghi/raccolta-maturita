@@ -1,0 +1,96 @@
+---
+title: 2010 PNI — Problema 2 — Problema 1 — Svolgimento
+tipo: soluzione
+item_id: sol_prob_2010_pni_2010_problema2_222_1
+of_item: prob_2010_pni_2010_problema2_222_1
+prova_id: prova_2010_pni_2010_problema2_222
+anno: '2010'
+pdf: Prova_Maturita_2010.pdf
+cluster: Studio di Funzione
+tags:
+  - maturita/soluzione
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2010
+---
+
+**Problema:** [[Problemi/prob_2010_pni_2010_problema2_222_1|2010 PNI — Problema 2 — Problema 1]] · **Prova:** [[Prove/2010_pni_2010_problema2_222|2010 PNI — Problema 2]]
+
+### Punto a)
+
+La parabola di equazione $x = \dfrac{y^2}{2}$ ha il fuoco di coordinate $\left(\tfrac{1}{2};\,0\right)$ e direttrice $x = -\tfrac{1}{2}$.
+
+La parabola di equazione $y = x^2$ ha il fuoco di coordinate $\left(0;\,\tfrac{1}{4}\right)$ e direttrice $y = -\tfrac{1}{4}$.
+
+L'intersezione $A$ si ottiene risolvendo l'equazione $x = \dfrac{x^4}{2}$, ossia $x^4 = 2x$. Escludendo $x = 0$, si ottiene l'equazione
+
+$$x^3 = 2.$$
+
+Quindi l'ascissa di $A$ è
+
+$$x = \sqrt[3]{2}.$$
+
+### Punto b)
+
+Il numero $\sqrt[3]{2}$ è legato al problema della **duplicazione del cubo** (costruire il lato del cubo di volume doppio rispetto a quello di un cubo dato). Insieme al problema della trisezione dell'angolo e a quello della quadratura del cerchio, è uno dei tre problemi classici della geometria greca, che non possono essere risolti usando solo riga e compasso.
+
+Per trovare un valore approssimato a meno di un centesimo, applichiamo il **metodo delle tangenti** (Newton) alla funzione
+
+$$f(x) = x^3 - 2$$
+
+nell'intervallo $[1;\,2]$.
+
+Osserviamo che nell'intervallo $[1;\,2]$ risulta:
+
+$$f(1) = -1 < 0, \quad f(2) = 6 > 0,$$
+$$f'(x) = 3x^2 > 0, \quad f''(x) = 6x > 0,$$
+
+quindi assumiamo $b = 2$ come punto iniziale dell'iterazione (i valori saranno decrescenti):
+
+$$x_0 = 2$$
+
+$$x_1 = b - \frac{f(b)}{f'(b)} = 2 - \frac{f(2)}{f'(2)} = 2 - \frac{6}{12} = 1.5$$
+
+$$x_2 = x_1 - \frac{f(x_1)}{f'(x_1)} \approx 1.296\ldots$$
+
+Procedendo con l'iterazione si trova il valore richiesto $x = 1.26$, approssimato per eccesso a meno di un centesimo.
+
+### Punto c)
+
+Sia la retta $r$ di equazione $y = t$ (con $t \ge 0$ parametro).
+
+Le intersezioni con le due parabole sono:
+
+- Punto $B$ su $x = \dfrac{y^2}{2}$: sostituendo $y = t$ si ottiene $x = \dfrac{t^2}{2}$, quindi $B = \!\left(\dfrac{t^2}{2};\;t\right)$.
+- Punto $C$ su $y = x^2$: sostituendo $y = t$ si ottiene $x = \sqrt{t}$, quindi $C = \!\left(\sqrt{t};\;t\right)$.
+
+La lunghezza del segmento $BC$ è
+
+$$f(t) = \overline{BC} = \frac{t^2}{2} - \sqrt{t}.$$
+
+L'intervallo di interesse è $0 \le t \le y_A$, dove $y_A$ è l'ordinata del punto $A$. Poiché $A$ ha ascissa $x_A = \sqrt[3]{2}$ e giace sulla parabola $y = x^2$, risulta $y_A = (\sqrt[3]{2})^2 = \sqrt[3]{4}$, quindi:
+
+$$0 \le t \le \sqrt[3]{4}.$$
+
+Calcoliamo la derivata e poniamola uguale a zero:
+
+$$f'(t) = t - \frac{1}{2\sqrt{t}} = 0 \implies 2t\sqrt{t} = 1 \implies 2t^{3/2} = 1 \implies t^{3/2} = \frac{1}{2} \implies t = \frac{1}{\sqrt[3]{4}}.$$
+
+Verifichiamo la natura del punto critico tramite la derivata seconda:
+
+$$f''(t) = 1 + \frac{1}{4\,t^{3/2}}.$$
+
+Poiché $f''(t) > 0$ per ogni $t > 0$, la funzione $f(t)$ è convessa nell'intervallo considerato: il punto critico $t = \dfrac{1}{\sqrt[3]{4}}$ è un **minimo** di $BC$. Il massimo di $BC$ nell'intervallo $\left[0,\,\sqrt[3]{4}\right]$ si raggiunge quindi ad uno degli estremi; valutando:
+
+$$f(0) = 0, \qquad f\!\left(\sqrt[3]{4}\right) = \frac{(\sqrt[3]{4})^2}{2} - \sqrt{\sqrt[3]{4}} = \frac{\sqrt[3]{16}}{2} - 4^{1/6} > 0,$$
+
+il massimo si trova all'estremo $t = \sqrt[3]{4}$.
+
+La retta $r$ che individua il segmento di lunghezza massima ha quindi equazione
+
+$$y = \sqrt[3]{4}.$$
+
+*Fonte:* [📄 PDF p.222](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+
+
+#maturita/soluzione #area/analisi #cluster/studio_di_funzione

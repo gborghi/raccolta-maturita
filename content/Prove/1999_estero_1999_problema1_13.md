@@ -12,12 +12,9 @@ tags:
 title: 1999 Estero — Problema 1
 ---
 
-# 1999 Estero — Problema 1
-
-Fonte:  · p.13 · 📄 Apri PDF
+Fonte: p.13 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 In un piano $\alpha$ è assegnata una parabola avente il fuoco e il vertice nei punti rispettivamente $F$ e $V$ tali che $\overline{VF} = \dfrac{1}{2}$. Riferito il piano $\alpha$ ad un conveniente sistema monometrico di assi cartesiani ortogonali $Oxy$:
 
@@ -34,7 +31,7 @@ e) Calcolare le aree delle regioni in cui la parabola divide il cerchio delimita
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/1999_estero_1999_problema1_13#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.13
+**Soluzione:** [[Soluzioni/1999_estero_1999_problema1_13#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.13](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

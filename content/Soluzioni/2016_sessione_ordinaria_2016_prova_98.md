@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2016_sessione_ordinaria_2016_prova_98
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_sessione_ordinaria_2016_prova_98
+title: 2016 Ordinaria (Internazionale Spagnola/Inglese) — Prova — Svolgimento
 ---
-# Soluzioni — 2016_sessione_ordinaria_2016_prova_98
 
 ## Problema 1
 

@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2010_sessione_suppletiva_2010_prova_141
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_sessione_suppletiva_2010_prova_141
+title: 2010 Suppletiva — Prova — Svolgimento
 ---
-
-# Soluzioni — 2010_sessione_suppletiva_2010_prova_141
-
 > Esame di Stato di Liceo Scientifico — Corso Sperimentale (Piano Nazionale Informatica)
 > Sessione suppletiva 2010 — Seconda prova scritta
 

@@ -12,12 +12,9 @@ tags:
 title: 2011 Estero Europa — Problema 2
 ---
 
-# 2011 Estero Europa — Problema 2
+Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.49 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Una circonferenza di centro $O$ e raggio $4$ è tangente esternamente nel punto $A$ ad un'altra circonferenza di raggio $x$ minore di $4$. Le tangenti comuni, non passanti per $A$, si incontrano in un punto $B$.
 
@@ -29,11 +26,11 @@ Una circonferenza di centro $O$ e raggio $4$ è tangente esternamente nel punto 
 
 4. Sia infine $g(x) = f(|x|)$. Quale il grafico di $g(x)$? Si determini, al variare di $k$, il numero delle radici dell'equazione $g(x) = k$.
 
-**Topic:** [[Geometria Euclidea]], [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema2_49#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema2_49#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

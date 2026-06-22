@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2010_sessione_ordinaria_2010_prova_41
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_sessione_ordinaria_2010_prova_41
+title: 2010 Ordinaria Estero Americhe — Prova — Svolgimento
 ---
-# Soluzioni — 2010_sessione_ordinaria_2010_prova_41
 
 ## Problema 1
 

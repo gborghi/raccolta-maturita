@@ -12,12 +12,9 @@ tags:
 title: 2011 PNI Straordinaria — Problema 2
 ---
 
-# 2011 PNI Straordinaria — Problema 2
+Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.110 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri, nell'intervallo chiuso $[0; 2\pi]$, la funzione:
 $$f(x) = \frac{\cos x}{1 + \sin x}.$$
@@ -30,11 +27,11 @@ $$f(x) = \frac{\cos x}{1 + \sin x}.$$
 
 **d)** Si scelga a caso un punto all'interno della superficie piana $\Sigma$. Si determini la probabilità che tale punto risulti interno al triangolo $T_1$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Analisi e interpretazione di dati e probabilita]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_problema2_110#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.110
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_pni_2011_sessione_straordinaria_problema2_110#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.110](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

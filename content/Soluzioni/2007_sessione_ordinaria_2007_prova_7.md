@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2007_sessione_ordinaria_2007_prova_7
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: Soluzioni — 2007_sessione_ordinaria_2007_prova_7
+title: 2007 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2007_sessione_ordinaria_2007_prova_7
 
 ## Problema 1
 

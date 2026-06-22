@@ -12,12 +12,9 @@ tags:
 title: 2012 Scientifico Straordinaria — Problema 2
 ---
 
-# 2012 Scientifico Straordinaria — Problema 2
+Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.96 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 2
 
 Si consideri la funzione:
 $$f(x)=\frac{3x+2}{\sqrt{x-5}}.$$
@@ -30,11 +27,11 @@ $$f(x)=\frac{3x+2}{\sqrt{x-5}}.$$
 
 4. Se tutte le misure fossero espresse in dm, potrebbe un recipiente, avente la stessa capacità del solido $\Omega$, contenere $3\ \text{m}^3$ di acqua?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema2_96#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.96
+**Soluzione:** [[Soluzioni/2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema2_96#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

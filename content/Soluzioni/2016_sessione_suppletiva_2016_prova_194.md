@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2016_sessione_suppletiva_2016_prova_194
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_sessione_suppletiva_2016_prova_194
+title: 2016 Suppletiva — Prova — Svolgimento
 ---
-# Soluzioni — 2016_sessione_suppletiva_2016_prova_194
 
 ## Problema 1
 

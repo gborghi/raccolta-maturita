@@ -12,9 +12,7 @@ tags:
 title: 2011 Ordinaria (Europa) — Prova
 ---
 
-# 2011 Ordinaria (Europa) — Prova
-
-Fonte:  · p.58 · 📄 Apri PDF
+Fonte: p.58 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
@@ -32,7 +30,7 @@ Nel sistema di riferimento cartesiano $Oxy$ si consideri il quadrato $OABC$, dov
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 1
 
@@ -49,11 +47,11 @@ $$f(x) = (1 - x^2)e^{-x}$$
 $$\lim_{\alpha \to +\infty} \int_1^\alpha (1 - x^2)e^{-x}\, dx$$
 e si interpreti geometricamente il risultato.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
 
@@ -67,11 +65,11 @@ Una circonferenza di centro $O$ e raggio $4$ è tangente esternamente nel punto 
 
 4. Sia infine $g(x) = f(|x|)$. Quale il grafico di $g(x)$? Si determini, al variare di $k$, il numero delle radici dell'equazione $g(x) = k$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
 
@@ -87,11 +85,11 @@ c) Si determini la curva $\lambda$ del fascio passante per il punto $P(0; 1)$ e 
 
 d) Si calcoli l'area della regione finita di piano delimitata da $\lambda$, dalla retta $BE$, dalla retta di equazione $x = -2$ e dall'asse $y$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 1
 
@@ -100,7 +98,7 @@ d) Si calcoli l'area della regione finita di piano delimitata da $\lambda$, dall
 **Topic:** [[Geometria Euclidea]], [[Successioni e Serie]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -111,7 +109,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -120,17 +118,17 @@ Si motivi la risposta.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
 4. La curva di equazione $y = \sqrt{x}\ln x$ ammette punti con tangente parallela all'asse $x$? Ammette punti con tangente parallela all'asse $y$? In caso affermativo si determinino.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -139,7 +137,7 @@ Si motivi la risposta.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -148,7 +146,7 @@ Si motivi la risposta.
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.71
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.71](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -157,7 +155,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -168,7 +166,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

@@ -12,12 +12,9 @@ tags:
 title: 1971 Tema di maturita
 ---
 
-# 1971 Tema di maturita
+Fonte: p.108 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.108 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Il candidato risolva, a sua scelta, almeno due dei seguenti quesiti. Tempo concesso: 5 ore.*
 
@@ -40,11 +37,11 @@ Condotta poi per il punto $(-1,1)$ la retta di coefficiente angolare $m$, si dic
 2. Tra i coni circolari retti inscritti in una sfera di raggio $r$, determinare quello per il quale è massima l'area della superficie totale, dopo averne trovata l'espressione in funzione della semiapertura $x$ di un generico cono.
 3. Si studi il grafico della funzione $y = \sin x + 2\cos x$ nell'intervallo $0 \le x \le 2\pi$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Trigonometria]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Trigonometria]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.108
+**Fonte:** [📄 Testo (PDF) — p.108](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

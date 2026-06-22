@@ -12,10 +12,8 @@ tags:
 title: 2015 Suppletiva — Questionario
 ---
 
-# 2015 Suppletiva — Questionario
-
-Fonte:  · p.175 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Funzioni Integrali]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.175
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.175](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.175
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.175](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Statistica]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.176
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.176](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.177
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.177](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.177
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.177](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
 
@@ -69,7 +67,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.178
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.178](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
 
@@ -80,17 +78,17 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.180
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.180](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
 
 **Quesito 8.** Provare che la funzione $y=e^x-\tan x$ ha infiniti zeri, mentre la funzione $y=e^x-\arctan x$ non ne ha alcuno.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
 
@@ -99,7 +97,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
 
@@ -108,7 +106,7 @@ Fonte:  · p.175 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

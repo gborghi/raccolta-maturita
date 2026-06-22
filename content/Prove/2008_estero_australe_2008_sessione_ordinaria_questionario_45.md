@@ -12,9 +12,7 @@ tags:
 title: 2008 Estero Australe Ordinaria — Questionario
 ---
 
-# 2008 Estero Australe Ordinaria — Questionario
-
-Fonte:  · p.45 · 📄 Apri PDF
+Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Le misure dei lati di un triangolo sono $10$, $24$ e $26$ cm. Si calcolino, con 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.45
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Si calcoli e si interpreti geometricamente l'integrale definito: $\displaystyle\
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.45
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 3
 
@@ -42,17 +40,17 @@ La capacità di una damigiana di vino è pari a quella del massimo cono circolar
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
 
 Si dia un esempio, almeno, di polinomio $P(x)$ il cui grafico tagli la retta $y=3$ in $3$ punti distinti.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
 
@@ -61,7 +59,7 @@ Quanti sono i numeri di quattro cifre (distinte tra loro) che è possibile scriv
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

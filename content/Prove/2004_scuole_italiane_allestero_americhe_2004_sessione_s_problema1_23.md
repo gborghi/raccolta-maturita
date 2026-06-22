@@ -12,12 +12,9 @@ tags:
 title: 2004 Estero Americhe Suppletiva — Problema 1
 ---
 
-# 2004 Estero Americhe Suppletiva — Problema 1
-
-Fonte:  · p.23 · 📄 Apri PDF
+Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Tra i coni circoscritti ad una sfera di raggio $10$ cm, si determini:
 
@@ -30,7 +27,7 @@ Tra i coni circoscritti ad una sfera di raggio $10$ cm, si determini:
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema1_23#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema1_23#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

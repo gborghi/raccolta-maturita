@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Visualizzazione spaziale e geometrica
-
 *Competenza* — **390** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2012_4_44
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2012_4_44
+title: 'Simulazione Zanichelli 2012 Sperimentale #4 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2012_4_44
-
 ## Problema 1
 
 Determiniamo le caratteristiche valide per tutte le funzioni della famiglia $f(x) = kx + (1-x)e^{2x}$.

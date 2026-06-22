@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2004_estero_calendario_australe_2004_sessione_ordinaria_problema1_36
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_estero_calendario_australe_2004_sessione_ordinaria_problema1_36
+title: 2004 Estero australe Ordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2004_estero_calendario_australe_2004_sessione_ordinaria_problema1_36
 
-## Problema 1
 
 Estero (Calendario australe) 2004
 Sessione $Ordinaria-$ Problema $1$

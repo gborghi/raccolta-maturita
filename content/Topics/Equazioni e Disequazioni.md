@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Equazioni e Disequazioni
-
 *Argomento* — **314** problemi/quesiti.
 
 ## Problemi e quesiti

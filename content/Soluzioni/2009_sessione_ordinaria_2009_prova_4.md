@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2009_sessione_ordinaria_2009_prova_4
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_sessione_ordinaria_2009_prova_4
+title: 2009 Sessione Ordinaria — Prova — Svolgimento
 ---
-
-# Soluzioni — 2009_sessione_ordinaria_2009_prova_4
-
 ## Problema 1
 
 ### Punto 1

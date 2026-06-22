@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2012_pni_2012_sessione_suppletiva_problema1_75
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_pni_2012_sessione_suppletiva_problema1_75
+title: 2012 PNI Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2012_pni_2012_sessione_suppletiva_problema1_75
 
-## Problema 1
 
 PNI 2012 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

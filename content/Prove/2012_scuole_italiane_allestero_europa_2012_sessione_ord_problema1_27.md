@@ -12,12 +12,15 @@ tags:
 title: Scuole estero Europa 2012 — Problema 1
 ---
 
-# Scuole estero Europa 2012 — Problema 1
-
-Fonte:  · p.27 · 📄 Apri PDF
+Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
+
+<!--fig:start-->
+![[_attachments/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27_fig.svg]]
+*Grafico di $y=f'(x)$ su $[-7;5]$: tre segmenti e una semicirconferenza di raggio 2 e centro in $O$.*
+
+<!--fig:end-->
 
 La funzione $f$ è definita e derivabile sull'intervallo chiuso $[-7;5]$ ed è $f(0)=5$. Il grafico di $y=f'(x)$, la derivata di $f$, consiste di tre segmenti e una semicirconferenza di raggio $2$ e centro in $O$, come indicato nella figura sotto.
 
@@ -29,10 +32,10 @@ La funzione $f$ è definita e derivabile sull'intervallo chiuso $[-7;5]$ ed è $
 
 **3)** La funzione $g$ è definita da $g(x)=f(x)-\frac{1}{2}x^2$. Si determinino le ascisse, con $-7<x<5$, dei punti critici di $g$, specificando se si tratta di massimo, di minimo o né l'uno né l'altro ed esponendo il ragionamento seguito.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Massimi e Minimi]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

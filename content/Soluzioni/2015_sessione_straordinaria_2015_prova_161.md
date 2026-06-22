@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_sessione_straordinaria_2015_prova_161
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_sessione_straordinaria_2015_prova_161
+title: 2015 Straordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2015_sessione_straordinaria_2015_prova_161
 
 ## Problema 1
 

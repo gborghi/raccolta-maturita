@@ -12,12 +12,9 @@ tags:
 title: 1965 Tema di maturita
 ---
 
-# 1965 Tema di maturita
+Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.103 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 **Problema.** Nel triangolo $ABC$, la proiezione $HC$ del lato $AC$ sulla retta $BC$ è tripla della proiezione $HB$ del lato $AB$ sulla stessa retta $BC$. Posto $|AH| = h$, $|BC| = x$, $\tan B\hat{A}C = y$:
 
@@ -46,11 +43,11 @@ risultano tangenti alla corrispondente curva di equazione $(1)$ e determinare le
 $$x_0 = 2 + \frac{\sqrt{5}}{m} \quad \text{ed} \quad x_1 > x_0,$$
 nell'ipotesi di $m$ positivo.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Fonte:** 📄 Testo (PDF) — p.103
+**Fonte:** [📄 Testo (PDF) — p.103](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

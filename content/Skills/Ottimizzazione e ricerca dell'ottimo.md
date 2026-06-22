@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Ottimizzazione e ricerca dell'ottimo
-
 *Competenza* — **332** problemi/quesiti.
 
 ## Problemi e quesiti

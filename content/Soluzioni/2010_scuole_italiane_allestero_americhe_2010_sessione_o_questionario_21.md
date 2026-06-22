@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21
+title: 2010 Estero Americhe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21
 
 ## Quesito 1
 

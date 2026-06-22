@@ -12,12 +12,9 @@ tags:
 title: 1994 — Tema di maturita
 ---
 
-# 1994 — Tema di maturita
+Fonte: p.140 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.140 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -62,11 +59,11 @@ a) Dimostrare che esse hanno tutte in comune un punto $A$ ed esso soltanto.
 b) Tra le curve considerate, determinare quelle che intercettano un segmento di lunghezza $\dfrac{4}{3}\sqrt{10}$ sulla retta passante per $A$ e avente coefficiente angolare 3.
 c) Calcolare l'area della regione di piano delimitata dalle due curve trovate e dalla retta di equazione $x = 1$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.140
+**Fonte:** [📄 Testo (PDF) — p.140](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

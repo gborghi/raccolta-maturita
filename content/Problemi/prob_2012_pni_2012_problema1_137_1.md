@@ -1,0 +1,44 @@
+---
+title: 2012 PNI — Problema 1 — Problema 1
+tipo: problema
+item_id: prob_2012_pni_2012_problema1_137_1
+prova_id: prova_2012_pni_2012_problema1_137
+anno: '2012'
+pdf: Prova_Maturita_2012.pdf
+cluster: 'Derivate, Massimi e Minimi'
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/derivate_massimi_e_minimi
+  - anno/2012
+---
+
+Fonte: p.137 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Prova:** [[Prove/2012_pni_2012_problema1_137|2012 PNI — Problema 1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+
+<!--fig:start-->
+![[_attachments/2012_pni_2012_problema1_137/2012_pni_2012_problema1_137_fig.svg]]
+*Grafico della derivata prima $f'(x)$ passante per i punti (0,-3), (1,-1), (2,0), (3,-1), (4,-2), (5,0), (6,2)*
+
+<!--fig:end-->
+
+Sia $f$ una funzione definita e derivabile nell'intervallo $[0;6]$, con $f(0)=9$. Nella figura è riportato il grafico della sua derivata prima $f'(x)$, che passa per i punti $(0;-3)$, $(1;-1)$, $(2;0)$, $(3;-1)$, $(4;-2)$, $(5;0)$ e $(6;2)$.
+
+*(figura nel PDF)*
+
+**1)** Si studino la crescenza e la concavità di $f$ e si individuino gli eventuali punti di flesso, precisandone le caratteristiche.
+
+**2)** Si determinino il massimo e il minimo assoluti di $f$ nell'intervallo $[0;6]$, sapendo che $f(0)=9$.
+
+**3)** Si tracci un grafico qualitativo della funzione $f$.
+
+**4)** Posto $g(x)=x\,f(x)$, si scrivano le equazioni delle rette tangenti ai grafici di $f$ e di $g$ nel punto di ascissa $x=3$ e si determini l'ampiezza dell'angolo acuto da esse formato.
+
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]]
+**Metodi:** [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
+**Soluzione:** [[Svolgimenti/sol_prob_2012_pni_2012_problema1_137_1|📝 Svolgimento]] · [📄 PDF p.137](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+
+
+#maturita/problema #area/analisi #cluster/derivate_massimi_e_minimi

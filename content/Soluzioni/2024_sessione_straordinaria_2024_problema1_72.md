@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2024_sessione_straordinaria_2024_problema1_72
 pdf: Prova_Maturita_2024.pdf
 source: text
-title: Soluzioni — 2024_sessione_straordinaria_2024_problema1_72
+title: 2024 Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2024_sessione_straordinaria_2024_problema1_72
 
-## Problema 1
 
 Sessione Straordinaria 2024 - Problema $1$
 

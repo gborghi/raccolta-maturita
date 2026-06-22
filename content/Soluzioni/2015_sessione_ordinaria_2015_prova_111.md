@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_sessione_ordinaria_2015_prova_111
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_sessione_ordinaria_2015_prova_111
+title: 2015 Ordinaria — Prova (Italo-inglese/Spagnola) — Svolgimento
 ---
-# Soluzioni — 2015_sessione_ordinaria_2015_prova_111
 
 ## Problema 1
 

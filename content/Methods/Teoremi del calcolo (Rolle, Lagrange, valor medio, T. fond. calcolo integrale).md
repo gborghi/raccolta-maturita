@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)
-
 *Metodo risolutivo* — **138** problemi/quesiti.
 
 ## Problemi e quesiti

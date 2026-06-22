@@ -12,12 +12,9 @@ tags:
 title: 2012 PNI Straordinaria — Problema 2
 ---
 
-# 2012 PNI Straordinaria — Problema 2
+Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.110 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 2
 
 Si consideri la funzione:
 $$f(x)=\frac{\ln^2 x+2\ln x+2}{x}.$$
@@ -30,11 +27,11 @@ $$f(x)=\frac{\ln^2 x+2\ln x+2}{x}.$$
 
 4. Si calcoli l'area della regione di piano, limitata dalla curva $\gamma$, dall'asse delle $x$ e dalle rette $x=1$, $x=e$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2012_liceo_scientifico_pni_2012_sessione_straordinaria_problema2_110#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.110
+**Soluzione:** [[Soluzioni/2012_liceo_scientifico_pni_2012_sessione_straordinaria_problema2_110#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.110](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Integrazione (calcolo di integrali)
-
 *Metodo risolutivo* — **535** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_europa_2015_questionario_94
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_europa_2015_questionario_94
+title: 2015 Europa — Questionario — Svolgimento
 ---
-# Soluzioni — 2015_europa_2015_questionario_94
 
 ## Quesito 1
 

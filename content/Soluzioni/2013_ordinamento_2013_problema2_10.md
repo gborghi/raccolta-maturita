@@ -3,12 +3,9 @@ tipo: soluzione
 prova_stem: 2013_ordinamento_2013_problema2_10
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_ordinamento_2013_problema2_10
+title: 2013 Ordinamento — Problema 2 — Svolgimento
 ---
 
-# Soluzioni — 2013_ordinamento_2013_problema2_10
-
-## Problema 1
 
 ### Punto 1)
 

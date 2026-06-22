@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2006_ordinamento_2006_sessione_suppletiva_problema1_67
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: Soluzioni — 2006_ordinamento_2006_sessione_suppletiva_problema1_67
+title: 2006 Ordinamento Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2006_ordinamento_2006_sessione_suppletiva_problema1_67
 
-## Problema 1
 
 ORDINAMENTO 2006 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2008_estero_australe_2008_suppletiva_questionario_29
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: Soluzioni — 2008_estero_australe_2008_suppletiva_questionario_29
+title: 2008 Estero Australe Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2008_estero_australe_2008_suppletiva_questionario_29
 
 ## Quesito 1
 

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2018_liceo_scientifico_2018_problema1_6
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_liceo_scientifico_2018_problema1_6
+title: 2018 Liceo Scientifico — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2018_liceo_scientifico_2018_problema1_6
 
-## Problema 1
 
 Liceo Scientifico 2018 - Problema $1$
 

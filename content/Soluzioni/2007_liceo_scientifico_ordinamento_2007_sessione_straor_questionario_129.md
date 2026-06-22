@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129
+title: 2007 LS Ordinamento Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129
 
 ## Quesito 1
 

@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Australe Suppletiva — Problema 2
 ---
 
-# 2008 Estero Australe Suppletiva — Problema 2
-
-Fonte:  · p.38 · 📄 Apri PDF
+Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È assegnato il settore circolare $AOB$ con $\overline{OB} = \overline{OA} = r$ e $A\hat{O}B = 60°$.
 
@@ -30,7 +27,7 @@ Fonte:  · p.38 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_suppletiva_2008_problema2_38#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_suppletiva_2008_problema2_38#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

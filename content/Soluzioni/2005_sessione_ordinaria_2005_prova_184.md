@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2005_sessione_ordinaria_2005_prova_184
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_sessione_ordinaria_2005_prova_184
+title: 2005 Ordinaria PNI — Prova — Svolgimento
 ---
-# Soluzioni — 2005_sessione_ordinaria_2005_prova_184
 
 ## Problema 1
 

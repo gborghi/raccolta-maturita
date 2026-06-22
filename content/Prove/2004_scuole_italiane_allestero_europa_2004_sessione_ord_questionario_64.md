@@ -12,9 +12,7 @@ tags:
 title: 2004 SE Europa Ord — Questionario
 ---
 
-# 2004 SE Europa Ord — Questionario
-
-Fonte:  · p.64 · 📄 Apri PDF
+Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.64 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
 
@@ -37,7 +35,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.64
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 3
 
@@ -46,7 +44,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 4
 
@@ -55,7 +53,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 5
 
@@ -64,7 +62,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.67
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 6
 
@@ -77,7 +75,7 @@ Ogni sua soluzione rappresenta le coordinate di un punto del piano cartesiano $(
 **Topic:** [[Equazioni e Disequazioni]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Sistemi di equazioni]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 7
 
@@ -86,7 +84,7 @@ Ogni sua soluzione rappresenta le coordinate di un punto del piano cartesiano $(
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

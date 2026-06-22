@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36
+title: Ordinaria 2014 Calendario Boreale 2 — Prova — Svolgimento
 ---
-# Soluzioni — 2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36
 
 ## Problema 1
 

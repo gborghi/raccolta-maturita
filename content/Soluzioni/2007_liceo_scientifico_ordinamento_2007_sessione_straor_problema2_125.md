@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema2_125
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema2_125
+title: 2007 LS Ordinamento Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema2_125
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2007
 Sessione $Straordinaria-$ Problema $2$

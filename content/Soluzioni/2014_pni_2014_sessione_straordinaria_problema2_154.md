@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2014_pni_2014_sessione_straordinaria_problema2_154
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_pni_2014_sessione_straordinaria_problema2_154
+title: PNI 2014 Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2014_pni_2014_sessione_straordinaria_problema2_154
 
-## Problema 1
 
 PNI 2014 - SESSIONE STRAORDINARIA - PROBLEMA $2$
 

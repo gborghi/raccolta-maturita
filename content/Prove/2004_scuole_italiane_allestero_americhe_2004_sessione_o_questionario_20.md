@@ -12,9 +12,7 @@ tags:
 title: 2004 Estero Americhe Ordinaria — Questionario
 ---
 
-# 2004 Estero Americhe Ordinaria — Questionario
-
-Fonte:  · p.20 · 📄 Apri PDF
+Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,17 +22,17 @@ Fonte:  · p.20 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
 
 **Quesito 2.** Sia $\alpha$ tale che la funzione $f(x)=\alpha x-\dfrac{x^3}{1+x^2}$ risulti crescente. Provare che $\alpha\geq\dfrac{9}{8}$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 3
 
@@ -43,7 +41,7 @@ Fonte:  · p.20 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 4
 
@@ -52,7 +50,7 @@ Fonte:  · p.20 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 5
 
@@ -62,17 +60,17 @@ $$\int_0^{\pi} e^x\cos(x)\,dx$$
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 6
 
 **Quesito 6.** Si dica quante sono le soluzioni reali dell'equazione $\dfrac{x}{10}=\sin(x)$ e si indichi per ciascuna di esse un intervallo numerico che la comprende.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Trigonometria]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Uso di relazioni e identita trigonometriche]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 7
 
@@ -81,7 +79,7 @@ $$\int_0^{\pi} e^x\cos(x)\,dx$$
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 8
 
@@ -90,7 +88,7 @@ $$\int_0^{\pi} e^x\cos(x)\,dx$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

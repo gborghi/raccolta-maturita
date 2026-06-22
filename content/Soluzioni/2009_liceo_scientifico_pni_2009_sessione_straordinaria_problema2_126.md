@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2009_liceo_scientifico_pni_2009_sessione_straordinaria_problema2_126
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: >-
-  Soluzioni —
-  2009_liceo_scientifico_pni_2009_sessione_straordinaria_problema2_126
+title: 2009 PNI Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2009_liceo_scientifico_pni_2009_sessione_straordinaria_problema2_126
 
-## Problema 1
 
 Liceo Scientifico PNI 2009
 Sessione $Straordinaria-$ Problema $2$

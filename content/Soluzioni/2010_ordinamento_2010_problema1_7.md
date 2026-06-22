@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2010_ordinamento_2010_problema1_7
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_ordinamento_2010_problema1_7
+title: 2010 Ordinamento — Problema 1 — Svolgimento
 ---
-
-# Soluzioni — 2010_ordinamento_2010_problema1_7
-
-## Problema 1
-
 ### Punto 1
 
 Sia $Q$ un punto sul lato $AB$ del quadrato di lato 1, con $AQ = x$; sia $E$ il punto sul lato $AD$ con $AE = y$. Il cerchio $\lambda$ ha come raggio $QE = CQ = y = f(x)$.

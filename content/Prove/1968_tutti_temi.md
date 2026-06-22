@@ -12,12 +12,9 @@ tags:
 title: 1968 Tema di maturita
 ---
 
-# 1968 Tema di maturita
-
-Fonte:  · p.106 · 📄 Apri PDF
+Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 **Problema.** Sia $ABC$ un triangolo equilatero di lato $a$ ed $E$ un punto generico del lato $AC$. Condotta per $E$ la parallela ad $AB$ ed indicata con $F$ la sua intersezione con $BC$, si denoti con $D$ il punto del prolungamento di $EF$, dalla parte di $F$, tale che sia
 
@@ -38,7 +35,7 @@ Si accerti poi per quali valori di $k$ il trapezio $ABDE$ risulta: 1) rettangolo
 **Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]]
-**Fonte:** 📄 Testo (PDF) — p.106
+**Fonte:** [📄 Testo (PDF) — p.106](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

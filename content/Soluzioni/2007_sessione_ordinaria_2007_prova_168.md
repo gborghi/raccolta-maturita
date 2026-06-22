@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2007_sessione_ordinaria_2007_prova_168
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: Soluzioni — 2007_sessione_ordinaria_2007_prova_168
+title: 2007 Ordinaria PNI — Prova — Svolgimento
 ---
-
-# Soluzioni — 2007_sessione_ordinaria_2007_prova_168
-
 Maturità 2007 — Sessione ordinaria — Liceo Scientifico PNI (Piano Nazionale Informatica)
 
 ## Problema 1

@@ -12,9 +12,7 @@ tags:
 title: 2008 Ordinaria — Prova (Ordinamento)
 ---
 
-# 2008 Ordinaria — Prova (Ordinamento)
-
-Fonte:  · p.6 · 📄 Apri PDF
+Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -32,7 +30,7 @@ d) Il triangolo $ABC$ è la base di un solido $W$. Si calcoli il volume di $W$ s
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Problema 2
 
@@ -46,11 +44,11 @@ c) Sia $P$ un punto della semicirconferenza di $\Gamma$, $H$ la sua proiezione o
 
 d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici del problema.
 
-**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Studio di Funzione]], [[Massimi e Minimi]]
+**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Studio di funzione completo]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 1
 
@@ -59,7 +57,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
 
@@ -68,7 +66,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 3
 
@@ -77,7 +75,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
 
@@ -86,7 +84,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
 
@@ -95,7 +93,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 6
 
@@ -104,17 +102,17 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 7
 
 7. Si determini, al variare di $k$, il numero delle soluzioni reali dell'equazione $x^3-3x^2+k=0$.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 8
 
@@ -123,7 +121,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 9
 
@@ -132,7 +130,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 10
 
@@ -141,7 +139,7 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2000_sessione_suppletiva_2000_problema2_13
 pdf: Prova_Maturita_2000.pdf
 source: text
-title: Soluzioni — 2000_sessione_suppletiva_2000_problema2_13
+title: 2000 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2000_sessione_suppletiva_2000_problema2_13
 
-## Problema 1
 
 Sessione suppletiva 2000 - Problema $2$
 

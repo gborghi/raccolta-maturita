@@ -12,12 +12,9 @@ tags:
 title: 2009 America Latina Suppletiva — Problema 1
 ---
 
-# 2009 America Latina Suppletiva — Problema 1
+Fonte: p.39 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.39 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 L'ellisse $\Sigma$ ha equazione $x^2 + 4y^2 - 4 = 0$.
 
@@ -29,11 +26,11 @@ L'ellisse $\Sigma$ ha equazione $x^2 + 4y^2 - 4 = 0$.
 
 **d)** Si calcoli l'area della regione $R$ delimitata dal grafico di $f$, dall'asse $x$, dalle rette $x = 0$ e $x = 2$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_problema1_39#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.39
+**Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_problema1_39#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

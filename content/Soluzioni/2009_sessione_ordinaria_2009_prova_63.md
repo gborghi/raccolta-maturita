@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2009_sessione_ordinaria_2009_prova_63
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_sessione_ordinaria_2009_prova_63
+title: 2009 Sessione Ordinaria Estero Europa — Prova — Svolgimento
 ---
-# Soluzioni — 2009_sessione_ordinaria_2009_prova_63
 
 ## Problema 1
 

@@ -12,12 +12,9 @@ tags:
 title: 2006 Australe Suppletiva — Problema 2
 ---
 
-# 2006 Australe Suppletiva — Problema 2
-
-Fonte:  · p.40 · 📄 Apri PDF
+Fonte: p.40 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Sia $f(x) = x - x^3$ sull'intervallo $[-2,\,2]$.
 
@@ -32,7 +29,7 @@ Sia $f(x) = x - x^3$ sull'intervallo $[-2,\,2]$.
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_estero_calendario_australe_2006_sessione_suppletiv_problema2_40#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2006_estero_calendario_australe_2006_sessione_suppletiv_problema2_40#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

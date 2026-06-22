@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196
+title: 2010 Scientifico PNI Straordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196
-
 ## Quesito 1
 
 Due osservatori si trovano ai lati opposti di un grattacielo, a livello del suolo. La cima dell'edificio dista 1600 metri dal primo osservatore, che la vede con un angolo di elevazione di 15°. Se il secondo individuo si trova a 650 metri dalla cima del grattacielo, quale è la distanza tra i due osservatori?

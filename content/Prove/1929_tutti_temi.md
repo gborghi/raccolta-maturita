@@ -12,12 +12,9 @@ tags:
 title: 1929 Tema di maturita
 ---
 
-# 1929 Tema di maturita
-
-Fonte:  · p.77 · 📄 Apri PDF
+Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Considerando una qualunque dei triangoli rettangoli aventi un cerchio dato di raggio $r$ come cerchio inscritto o ex-inscritto tangente all'ipotenusa, far vedere che tra i cateti $x$ ed $y$ del triangolo sussiste sempre la relazione:
 
@@ -30,7 +27,7 @@ Il candidato può, se lo crede, formulare e risolvere qualche altro problema int
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.77
+**Fonte:** [📄 Testo (PDF) — p.77](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -12,12 +12,9 @@ tags:
 title: 2002 Suppletiva Ordinamento — Problema 2
 ---
 
-# 2002 Suppletiva Ordinamento — Problema 2
-
-Fonte:  · p.32 · 📄 Apri PDF
+Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Una piramide di vertice $V$, avente per base il trapezio rettangolo $ABCD$, è tale che:
 
@@ -38,7 +35,7 @@ Una piramide di vertice $V$, avente per base il trapezio rettangolo $ABCD$, è t
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_problema2_32#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.32
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_problema2_32#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.32](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

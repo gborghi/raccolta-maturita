@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2015_15_147
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2015_15_147
+title: 'Simulazione Zanichelli 2015 — SimZan parte1 #15 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2015_15_147
-
 ## Problema 1
 
 **Problema 1 – Conversazioni telefoniche**

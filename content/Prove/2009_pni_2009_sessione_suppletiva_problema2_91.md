@@ -12,12 +12,9 @@ tags:
 title: 2009 PNI Suppletiva — Problema 2
 ---
 
-# 2009 PNI Suppletiva — Problema 2
+Fonte: p.91 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.91 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione:
 
@@ -37,11 +34,11 @@ $$S=\frac{1}{x_1+1}+\frac{1}{x_2+1}$$
 
 è indipendente dal valore di $k$ e se ne calcoli il valore.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2009_pni_2009_sessione_suppletiva_problema2_91#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.91
+**Soluzione:** [[Soluzioni/2009_pni_2009_sessione_suppletiva_problema2_91#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.91](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

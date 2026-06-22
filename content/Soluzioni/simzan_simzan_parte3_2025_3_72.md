@@ -3,10 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte3_2025_3_72
 pdf: SimZan_parte3.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte3_2025_3_72
+title: 'Simulazione Zanichelli 2025 — SimZan parte3 #3 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte3_2025_3_72
 
 ## Problema 1
 

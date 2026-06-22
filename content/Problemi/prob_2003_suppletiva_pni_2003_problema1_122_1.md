@@ -1,0 +1,41 @@
+---
+title: 2003 Suppletiva PNI — Problema 1 — Problema 1
+tipo: problema
+item_id: prob_2003_suppletiva_pni_2003_problema1_122_1
+prova_id: prova_2003_suppletiva_pni_2003_problema1_122
+anno: '2003'
+pdf: Prova_Maturita_2003.pdf
+cluster: Studio di Funzione
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2003
+---
+
+Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+**Prova:** [[Prove/2003_suppletiva_pni_2003_problema1_122|2003 Suppletiva PNI — Problema 1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+
+In un piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le parabole di equazione:
+$$y=(a-1)x^2-2ax+a^2$$
+dove $a$ è un parametro reale diverso da $1$.
+
+a) Determinare quali tra esse hanno punti in comune con l'asse $x$ e quali no.
+
+b) Trovare le due parabole che hanno il vertice in un punto di ascissa $a$.
+
+c) Stabilire se le due parabole trovate sono congruenti o no, fornendo un'esauriente spiegazione della risposta.
+
+d) Scrivere l'equazione del luogo geometrico $L$ dei vertici delle parabole assegnate e disegnarne l'andamento dopo averne determinato in particolare asintoti, estremi e flessi.
+
+e) Calcolare l'area della regione finita di piano delimitata dalla curva $L$ e dalla retta di equazione $y=\dfrac{3}{2}$.
+
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
+**Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Analisi qualitativa e deduzione di grafici]]
+**Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
+**Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
+**Soluzione:** [[Svolgimenti/sol_prob_2003_suppletiva_pni_2003_problema1_122_1|📝 Svolgimento]] · [📄 PDF p.122](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+
+
+#maturita/problema #area/analisi #cluster/studio_di_funzione

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2008_estero_calendario_australe_suppletiva_2008_problema2_38
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: Soluzioni — 2008_estero_calendario_australe_suppletiva_2008_problema2_38
+title: 2008 Estero Australe Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2008_estero_calendario_australe_suppletiva_2008_problema2_38
 
-## Problema 1
 
 Estero (calendario australe)
 Suppletiva $2008-$ Problema $2$

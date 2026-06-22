@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2010_ordinamento_2010_sessione_suppletiva_problema1_105
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_ordinamento_2010_sessione_suppletiva_problema1_105
+title: 2010 Ordinamento Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2010_ordinamento_2010_sessione_suppletiva_problema1_105
 
-## Problema 1
 
 ORDINAMENTO 2010 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

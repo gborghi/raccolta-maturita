@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: >-
-  Soluzioni —
-  2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38
+title: 2011 Estero Americhe — Questionario — Svolgimento
 ---
-# Soluzioni — 2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38
 
 ## Quesito 1
 

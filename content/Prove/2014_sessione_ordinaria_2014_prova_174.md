@@ -12,9 +12,7 @@ tags:
 title: Ordinaria 2014 (PNI) — Prova
 ---
 
-# Ordinaria 2014 (PNI) — Prova
-
-Fonte:  · p.174 · 📄 Apri PDF
+Fonte: p.174 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -29,7 +27,7 @@ Sia $g(x)$ una funzione continua sull'intervallo chiuso $[-4,6]$. Il grafico di 
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
 
@@ -40,11 +38,11 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 3. Si calcoli l'area della regione compresa tra $\Gamma$ e l'asse $x$.
 4. Sia $h(x)=\operatorname{sen}(f(x))$. Quanti sono i punti del grafico di $h(x)$ di ordinata $1$? Il grafico di $h(x)$ presenta punti di minimo, assoluti o relativi? Per quali valori reali di $k$ l'equazione $h(x)=k$ ha 4 soluzioni distinte? Qual è il valore di $\displaystyle\int_0^4 h(x)\,dx$?
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 1
 
@@ -53,7 +51,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
 
@@ -62,7 +60,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
 
@@ -73,7 +71,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
 
@@ -82,7 +80,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
 
@@ -91,7 +89,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
 
@@ -100,7 +98,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
 
@@ -110,7 +108,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
 
@@ -119,7 +117,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 9
 
@@ -128,7 +126,7 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
 
@@ -138,7 +136,7 @@ $$\lim_{x\to 0}\frac{\sqrt{a+bx}-2}{x}=1$$
 **Topic:** [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.174
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

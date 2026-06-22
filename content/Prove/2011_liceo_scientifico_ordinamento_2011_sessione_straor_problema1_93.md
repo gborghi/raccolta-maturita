@@ -12,12 +12,9 @@ tags:
 title: 2011 Ordinamento Straordinaria — Problema 1
 ---
 
-# 2011 Ordinamento Straordinaria — Problema 1
+Fonte: p.93 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.93 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Siano dati un segmento $AB=1$ ed una circonferenza con il centro $O$ sulla perpendicolare in $A$ ad $AB$ e il diametro $AC=2x$.
 
@@ -30,11 +27,11 @@ c) Si scrivano le equazioni delle tangenti a $\Gamma$ nei punti di flesso e si c
 
 d) Si determini l'area della regione di piano limitata da $\Gamma$, dall'asse $x$ e dalla retta di equazione $x=\sqrt{6}$.
 
-**Topic:** [[Geometria Euclidea]], [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_ordinamento_2011_sessione_straor_problema1_93#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.93
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_ordinamento_2011_sessione_straor_problema1_93#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.93](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

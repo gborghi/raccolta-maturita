@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2011_pni_2011_sessione_suppletiva_problema1_74
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_pni_2011_sessione_suppletiva_problema1_74
+title: 2011 PNI Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2011_pni_2011_sessione_suppletiva_problema1_74
 
-## Problema 1
 
 PNI 2011 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

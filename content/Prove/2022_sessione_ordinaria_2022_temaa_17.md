@@ -12,10 +12,8 @@ tags:
 title: 2022 Ordinaria — Tema A
 ---
 
-# 2022 Ordinaria — Tema A
-
-Fonte:  · p.17 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ $$f(x) = ax \cdot e^{-\frac{x}{b}}$$
 
 4. Calcola l'area della parte di piano delimitata dal grafico di $f(x)$ e dalla tangente $t$ nell'intervallo $[0; 3]$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.17
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Problema 2
 
@@ -53,11 +51,11 @@ dove $a$ è un parametro reale.
 
 4. Indica con $h(x)$ la funzione che si ottiene per il valore $a = 0$, verifica che si tratta di una funzione dispari. Sapendo che $g(x) > h(x)$ per ogni valore della variabile reale $x$, calcola l'area compresa tra i grafici delle due funzioni nell'intervallo $[-1; 1]$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.17
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 1
 
@@ -67,18 +65,18 @@ $$\lim_{x \to 0} \frac{e^x - e^{-x}}{x}.$$
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 2
 
 2. Determina le equazioni degli eventuali asintoti della seguente funzione:
 $$f(x) = 1 + \sqrt{x^2 - 2x + 5}.$$
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 3
 
@@ -88,7 +86,7 @@ $$f(x) = \begin{cases} 0 & x \le 1 \\ x^2 - 4x + 3 & 1 < x \le 3 \\ \ln(x - 2) &
 **Topic:** [[Limiti e Continuita]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 4
 
@@ -98,7 +96,7 @@ $$f(x) = \frac{1}{\sin x \cos x} \quad \text{in } [0, 2\pi].$$
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 5
 
@@ -107,7 +105,7 @@ $$f(x) = \frac{1}{\sin x \cos x} \quad \text{in } [0, 2\pi].$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 6
 
@@ -118,7 +116,7 @@ determinare i parametri $t$ e $s$ in modo che nell'intervallo $[-2; 2]$ sia appl
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 7
 
@@ -128,7 +126,7 @@ $$\int \frac{\ln x}{x}\,dx$$
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 8
 
@@ -137,7 +135,7 @@ $$\int \frac{\ln x}{x}\,dx$$
 **Topic:** [[Equazioni e Disequazioni]], [[Esponenziali e Logaritmi]], [[Limiti e Continuita]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

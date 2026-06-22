@@ -12,9 +12,7 @@ tags:
 title: Sessione ordinaria 2012 (PNI) — Prova
 ---
 
-# Sessione ordinaria 2012 (PNI) — Prova
-
-Fonte:  · p.135 · 📄 Apri PDF
+Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -31,10 +29,10 @@ Della funzione $f$, definita per $0\le x\le 6$, si sa che è dotata di derivata 
 
 *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Problema 2
 
@@ -51,7 +49,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 1
 
@@ -60,7 +58,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
 
@@ -69,7 +67,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 3
 
@@ -78,7 +76,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 4
 
@@ -87,7 +85,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 5
 
@@ -96,17 +94,17 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Calcolo Combinatorio]], [[Geometria nello Spazio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
 
 6. Si dimostri che la curva di equazione $y=x^3+ax+b$ ha uno ed un solo punto di flesso rispetto a cui è simmetrica.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 7
 
@@ -115,7 +113,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
 
@@ -124,7 +122,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 9
 
@@ -133,7 +131,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
 
@@ -142,7 +140,7 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

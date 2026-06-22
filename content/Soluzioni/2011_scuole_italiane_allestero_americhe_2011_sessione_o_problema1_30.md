@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema1_30
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: >-
-  Soluzioni —
-  2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema1_30
+title: 2011 Estero Americhe — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema1_30
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2011
 Sessione $Ordinaria-$ Problema $1$

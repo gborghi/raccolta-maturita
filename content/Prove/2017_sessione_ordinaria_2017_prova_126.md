@@ -12,10 +12,8 @@ tags:
 title: 2017 Ordinaria — Prova (Internaz. Tedesca/ESABAC)
 ---
 
-# 2017 Ordinaria — Prova (Internaz. Tedesca/ESABAC)
-
-Fonte:  · p.126 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.126 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ e si indica con $\Gamma_\lambda$ il suo grafico, in un riferimento cartesiano $O
 
 4. Detti $A$ e $B$ i punti di intersezione tra $\Gamma_9$ e gli assi cartesiani, sia $\mathcal{G}$ la regione piana delimitata dai segmenti $OA$ e $OB$ e dall'arco di $\Gamma_9$ di estremi $A$ e $B$. Determina l'area di $\mathcal{G}$ e il volume del solido generato dalla rotazione di $\mathcal{G}$ attorno all'asse $y$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Problema 2
 
@@ -52,11 +50,11 @@ $$g(x)=f'(x)\ ,\qquad h(x)=\int_{0}^{x} f(t)\,dt.$$
 
 4. Determina infine il volume del solido generato dalla rotazione attorno all'asse $y$ della porzione di piano compresa tra il grafico della funzione $h$ per $x\in[0;3]$ e l'asse delle $x$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 1
 
@@ -65,7 +63,7 @@ $$g(x)=f'(x)\ ,\qquad h(x)=\int_{0}^{x} f(t)\,dt.$$
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 2
 
@@ -74,7 +72,7 @@ $$g(x)=f'(x)\ ,\qquad h(x)=\int_{0}^{x} f(t)\,dt.$$
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 3
 
@@ -85,7 +83,7 @@ determinare i valori di $a$ e $b$.
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 4
 
@@ -94,7 +92,7 @@ determinare i valori di $a$ e $b$.
 **Topic:** [[Derivate]], [[Trigonometria]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 5
 
@@ -105,7 +103,7 @@ sia un numero reale non nullo.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 6
 
@@ -113,11 +111,11 @@ sia un numero reale non nullo.
 $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
 è continua nell'intervallo $[-3,-1]$ e se, nello stesso intervallo, è dotata di minimo e massimo assoluto.
 
-**Topic:** [[Limiti e Continuita]], [[Massimi e Minimi]], [[Studio di Funzione]]
+**Topic:** [[Limiti e Continuita]], [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 7
 
@@ -126,17 +124,17 @@ $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 8
 
 8. Data la funzione: $f(x)=\left|4-x^2\right|$ verificare che essa non soddisfa tutte le ipotesi del teorema di Rolle nell'intervallo $[-3;3]$ e che comunque esiste almeno un punto dell'intervallo $[-3;3]$ in cui la derivata prima di $f(x)$ si annulla. Questo esempio contraddice il teorema di Rolle? Motivare la risposta in maniera esauriente.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.126
+**Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_126#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

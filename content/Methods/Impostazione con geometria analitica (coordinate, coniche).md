@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Impostazione con geometria analitica (coordinate, coniche)
-
 *Metodo risolutivo* — **439** problemi/quesiti.
 
 ## Problemi e quesiti

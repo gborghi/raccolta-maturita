@@ -12,12 +12,9 @@ tags:
 title: 2015 Europa — Problema 2
 ---
 
-# 2015 Europa — Problema 2
+Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.89 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia data la famiglia di funzioni $f(x)=\ln\left(\dfrac{a-x}{x^2+4}\right)+bx$.
 
@@ -29,11 +26,11 @@ Sia data la famiglia di funzioni $f(x)=\ln\left(\dfrac{a-x}{x^2+4}\right)+bx$.
 
 **4)** Calcola infine il volume del solido generato dalla rotazione attorno all'asse $x$ della parte di piano delimitata dalla tangente in $O$, dalla bisettrice del primo quadrante e dalla retta passante per il suo punto di massimo e parallela all'asse $y$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_problema2_89#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.89
+**Soluzione:** [[Soluzioni/2015_europa_2015_problema2_89#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.89](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

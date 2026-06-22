@@ -12,12 +12,9 @@ tags:
 title: 2015 Americhe — Problema 2
 ---
 
-# 2015 Americhe — Problema 2
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.47 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f$ la funzione definita da $f(x)=(4x-2)\cdot e^{2x}$.
 
@@ -29,11 +26,11 @@ Sia $f$ la funzione definita da $f(x)=(4x-2)\cdot e^{2x}$.
 
 **4)** Sia $f_a$ la famiglia di funzioni definite da $f_a(x)=(2ax-2)\cdot e^{ax}$, con $a\in\mathbb{R}-\{0\}$. Per ogni funzione $f_a$ la tangente al grafico nel punto di flesso interseca l'asse $x$ e l'asse $y$ delimitando un triangolo rettangolo. Determina i valori di $a$ per i quali tale triangolo è anche isoscele, spiegando il procedimento seguito.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2015_americhe_2015_problema2_47#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2015_americhe_2015_problema2_47#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

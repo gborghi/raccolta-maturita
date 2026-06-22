@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2001_suppletiva_ordinamento_2001_problema1_22
 pdf: Prova_Maturita_2001.pdf
 source: text
-title: Soluzioni — 2001_suppletiva_ordinamento_2001_problema1_22
+title: 2001 Suppletiva Ordinamento — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2001_suppletiva_ordinamento_2001_problema1_22
 
-## Problema 1
 
 Suppletiva Ordinamento 2001 -
 Problema $1$

@@ -12,12 +12,9 @@ tags:
 title: 2015 Suppletiva — Problema 2
 ---
 
-# 2015 Suppletiva — Problema 2
-
-Fonte:  · p.171 · 📄 Apri PDF
+Fonte: p.171 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 La rotazione intorno all'asse $x$ dei grafici della famiglia di funzioni:
 $$f_k(x)=\frac{x}{4k}\sqrt{k^2-x}\quad\text{con } x\in\mathbb{R},\ 0\le x\le k^2,\ k\in\mathbb{R},\ k>0$$
@@ -33,11 +30,11 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 
 4. All'interno del solido di rotazione generato da $f_k$, per $k=3$, si vorrebbe collocare un cilindro di raggio $0{,}5$ e di altezza $6$. Verifica se ciò è possibile, motivando la tua risposta.
 
-**Topic:** [[Calcolo Integrale]], [[Studio di Funzione]], [[Geometria Solida]], [[Derivate]]
+**Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Irrazionale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2015_suppletiva_2015_problema2_171#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.171
+**Soluzione:** [[Soluzioni/2015_suppletiva_2015_problema2_171#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.171](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

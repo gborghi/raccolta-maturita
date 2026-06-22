@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema2_83
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema2_83
+title: 2010 Liceo Comunicazione Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema2_83
 
-## Problema 1
 
 Liceo della comunicazione 2010
 Sessione $Ordinaria-$ Problema $2$

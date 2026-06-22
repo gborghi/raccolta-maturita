@@ -12,12 +12,9 @@ tags:
 title: 2012 Ordinamento — Problema 2
 ---
 
-# 2012 Ordinamento — Problema 2
-
-Fonte:  · p.10 · 📄 Apri PDF
+Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Siano dati i punti $A=(3;0)$ e $B=(0;3)$. Si consideri l'arco $L$ di parabola di equazione $x^2=9-6y$, con estremi $A$ e il punto $\left(0;\frac{3}{2}\right)$, e l'arco di circonferenza di centro $O$ e raggio $3$, di equazione $x^2+y^2=9$, con estremi $A$ e $B$.
 
@@ -32,7 +29,7 @@ Siano dati i punti $A=(3;0)$ e $B=(0;3)$. Si consideri l'arco $L$ di parabola di
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_ordinamento_2012_problema2_10#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2012_ordinamento_2012_problema2_10#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

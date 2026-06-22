@@ -12,12 +12,9 @@ tags:
 title: 1995 — Tema di maturita
 ---
 
-# 1995 — Tema di maturita
-
-Fonte:  · p.142 · 📄 Apri PDF
+Fonte: p.142 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -63,11 +60,11 @@ essendo $a$ una lunghezza nota ed $x$ una lunghezza incognita.
 Chiamato $P$ il piede della perpendicolare condotta da $A$ alla retta $FH$, considerare il poliedro $\Sigma$ avente per vertici i punti $A$, $B$, $F$, $E$, $P$.
 Calcolare il valore di $x$ che rende massimo il volume di $\Sigma$, il valore di $a$ per il quale questo volume massimo è uguale a $128/75 \ \text{cm}^3$ e, infine, per tale valore di $a$, l'area della superficie del solido $\Sigma$ di volume massimo.
 
-**Topic:** [[Geometria Solida]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]]
+**Topic:** [[Geometria Solida]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Irrazionale]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Fonte:** 📄 Testo (PDF) — p.142
+**Fonte:** [📄 Testo (PDF) — p.142](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -12,12 +12,9 @@ tags:
 title: 2019 Straordinaria — Problema 1
 ---
 
-# 2019 Straordinaria — Problema 1
+Fonte: p.189 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.189 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Dato $k>0$, si consideri la funzione $f:[0,+\infty)\to\mathbb{R}$ così definita:
 $$f(x)=\begin{cases}kx & \text{se } 0\le x\le 1\\[4pt]\dfrac{k}{x^2} & \text{se } x>1\end{cases}$$
@@ -34,11 +31,11 @@ dove $k$ è un'opportuna costante, di cui si chiede l'espressione in funzione de
 
 d) Sia $q$ una carica elementare positiva collocata nel centro della sfera. Determinare l'espressione del lavoro compiuto dalla forza elettrica per portare la carica $q$ a distanza $2R$ dal centro della sfera. Quale dovrebbe essere il lavoro compiuto dalla stessa forza elettrica per portare la carica $q$ a distanza infinita dal centro della sfera?
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Massimi e Minimi]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Massimi e Minimi]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_problema1_189#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.189
+**Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_problema1_189#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.189](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

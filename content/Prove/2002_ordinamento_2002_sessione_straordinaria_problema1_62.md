@@ -12,12 +12,9 @@ tags:
 title: 2002 Straordinaria Ordinamento — Problema 1
 ---
 
-# 2002 Straordinaria Ordinamento — Problema 1
-
-Fonte:  · p.62 · 📄 Apri PDF
+Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Con riferimento a un sistema monometrico di assi cartesiani ortogonali $(Oxy)$:
 
@@ -32,7 +29,7 @@ Con riferimento a un sistema monometrico di assi cartesiani ortogonali $(Oxy)$:
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2002_ordinamento_2002_sessione_straordinaria_problema1_62#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2002_ordinamento_2002_sessione_straordinaria_problema1_62#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

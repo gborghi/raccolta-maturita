@@ -12,12 +12,16 @@ tags:
 title: 2016 Suppletiva — Prova
 ---
 
-# 2016 Suppletiva — Prova
-
-Fonte:  · p.194 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.194 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2016_sessione_suppletiva_2016_prova_194/2016_sessione_suppletiva_2016_prova_194_fig.svg]]
+*Figura 1: pianta della superficie da coprire, rappresentata come regione poligonale su un riferimento con assi graduati in metri.*
+
+<!--fig:end-->
 
 Sei l'amministratore di un condominio che ha deliberato di dotarsi di una sala per le riunioni condominiali, sfruttando uno spazio comune già disponibile, da coprire e attrezzare.
 
@@ -49,11 +53,11 @@ In occasione di una riunione di condominio, un rilevatore di $CO_2$ installato n
 
 4. L'impianto è in funzione da 10 minuti, quando i 50 partecipanti alla riunione accedono alla sala. Considerando che l'impianto rimane acceso anche durante la riunione e che un essere umano mediamente espira 8 litri/minuto di aria contenente il $4\%$ di $CO_2$ (fonte: OSHA, Occupational Safety and Health Administration), descrivi in termini qualitativi come cambierà l'andamento di $c(t)$ dopo l'ingresso dei condomini nella sala, giustificando la tua risposta.
 
-**Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]], [[Statistica]], [[Studio di Funzione]]
+**Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]], [[Statistica]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni differenziali]], [[Statistica e analisi dati]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Problem solving (strategia risolutiva non immediata)]], [[Analisi e interpretazione di dati e probabilita]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Problema 2
 
@@ -75,11 +79,11 @@ determina il valore di
 $$\lim_{t\to+\infty} G(t),$$
 e interpreta il risultato in termini geometrici.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 1
 
@@ -92,17 +96,17 @@ e interpreta il risultato in termini geometrici.
 **Topic:** [[Equazioni Differenziali]], [[Derivate]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 2
 
 2. Data la funzione così definita in $\mathbb{R}$: $f(x)=x\cdot e^{-\left|x^3-1\right|}$, determinarne minimi, massimi ed eventuali asintoti.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 3
 
@@ -111,7 +115,7 @@ e interpreta il risultato in termini geometrici.
 **Topic:** [[Derivate]], [[Geometria Solida]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 4
 
@@ -120,7 +124,7 @@ e interpreta il risultato in termini geometrici.
 **Topic:** [[Calcolo Integrale]], [[Successioni e Serie]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 5
 
@@ -129,7 +133,7 @@ e interpreta il risultato in termini geometrici.
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 6
 
@@ -138,7 +142,7 @@ e interpreta il risultato in termini geometrici.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Sistemi di equazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 7
 
@@ -148,7 +152,7 @@ $$\begin{cases} x+y=z+1 \\ z=-y+1 \end{cases}$$
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 8
 
@@ -160,7 +164,7 @@ $$P(t\le z)=\int_{0}^{z} 0{,}01\cdot e^{-0{,}01 s}\,ds$$
 **Topic:** [[Probabilita]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 9
 
@@ -169,7 +173,7 @@ $$P(t\le z)=\int_{0}^{z} 0{,}01\cdot e^{-0{,}01 s}\,ds$$
 **Topic:** [[Successioni e Serie]], [[Geometria Euclidea]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 10
 
@@ -180,7 +184,7 @@ motivando adeguatamente la risposta.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.194
+**Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

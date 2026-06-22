@@ -12,12 +12,9 @@ tags:
 title: 1962 Tema di maturita
 ---
 
-# 1962 Tema di maturita
-
-Fonte:  · p.101 · 📄 Apri PDF
+Fonte: p.101 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 [Conclusione del problema precedente] $\dots$ si indichino:
 
@@ -50,11 +47,11 @@ $$|AB|=13,\quad |BC|=14,\quad |CA|=15,$$
 
 e si consideri la circonferenza inscritta in esso. [...]
 
-**Topic:** [[Geometria Solida]], [[Trigonometria]], [[Massimi e Minimi]], [[Studio di Funzione]]
+**Topic:** [[Geometria Solida]], [[Trigonometria]], [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ottimizzazione e ricerca dell'ottimo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Fonte:** 📄 Testo (PDF) — p.101
+**Fonte:** [📄 Testo (PDF) — p.101](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

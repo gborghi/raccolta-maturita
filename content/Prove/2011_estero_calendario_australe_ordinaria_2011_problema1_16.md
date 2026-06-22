@@ -12,12 +12,9 @@ tags:
 title: 2011 Estero Australe Ordinaria — Problema 1
 ---
 
-# 2011 Estero Australe Ordinaria — Problema 1
+Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.16 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f$ la funzione definita da $f(x)=3\ln(e^2-x)$.
 
@@ -31,11 +28,11 @@ c) Sia $R$ la regione delimitata da $\Gamma$ e dagli assi coordinati. Si calcoli
 
 d) La regione $R$ è la base di un solido $W$ che tagliato con piani ortogonali all'asse $x$ dà tutte sezioni rettangolari di altezza $5$. Si calcoli il volume di $W$. Supposto, invece, che la regione $R$ ruoti di un giro completo attorno alla retta $y=-6$, come si può calcolare il volume del solido che essa genera? Si indichi solo il procedimento senza risolvere eventuali integrali.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2011_estero_calendario_australe_ordinaria_2011_problema1_16#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2011_estero_calendario_australe_ordinaria_2011_problema1_16#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

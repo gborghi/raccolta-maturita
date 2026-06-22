@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150
+title: 2005 PNI Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150
 
 ## Quesito 1
 

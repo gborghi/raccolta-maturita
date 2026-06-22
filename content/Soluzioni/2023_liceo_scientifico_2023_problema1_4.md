@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2023_liceo_scientifico_2023_problema1_4
 pdf: Prova_Maturita_2023.pdf
 source: text
-title: Soluzioni — 2023_liceo_scientifico_2023_problema1_4
+title: 2023 Liceo Scientifico — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2023_liceo_scientifico_2023_problema1_4
 
-## Problema 1
 
 Liceo Scientifico 2023 - Problema $1$
 

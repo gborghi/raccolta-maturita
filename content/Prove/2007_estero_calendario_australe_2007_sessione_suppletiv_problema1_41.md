@@ -12,12 +12,9 @@ tags:
 title: 2007 Estero Australe Suppletiva — Problema 1
 ---
 
-# 2007 Estero Australe Suppletiva — Problema 1
-
-Fonte:  · p.41 · 📄 Apri PDF
+Fonte: p.41 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Il triangolo rettangolo $ABC$ ha l'ipotenusa $AB=k$ e l'angolo $B\hat{A}C=\dfrac{\pi}{3}$. Con centro in $B$ e raggio $x$ si tracci l'arco di circonferenza le cui intersezioni con i lati $BA$ e $BC$ siano, rispettivamente, $D$ ed $E$. Con centro in $A$ si tracci poi l'arco di circonferenza tangente in $D$ alla circonferenza già tracciata e che intersechi in $F$ il cateto $AC$.
 
@@ -32,7 +29,7 @@ c) Si trovino i valori massimo e minimo di $S(x)$.
 **Topic:** [[Trigonometria]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_suppletiv_problema1_41#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_suppletiv_problema1_41#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Logaritmica
-
 *Tipo di funzione* — **68** problemi/quesiti.
 
 ## Problemi e quesiti

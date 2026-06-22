@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: >-
-  Soluzioni —
-  2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181
+title: 2010 Scientifico Ordinamento Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181
 
 ## Quesito 1
 

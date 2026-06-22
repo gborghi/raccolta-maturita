@@ -12,12 +12,16 @@ tags:
 title: 2023 Ordinaria — Prova
 ---
 
-# 2023 Ordinaria — Prova
-
-Fonte:  · p.1 · 📄 Apri PDF
+Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2023_sessione_ordinaria_2023_prova_1/2023_sessione_ordinaria_2023_prova_1_fig.svg]]
+*Grafico di $y=f(x)$: arco di parabola $\Gamma_1$ su $[-2,0]$, arco di circonferenza $\Gamma_2$ su $[0,1]$ e arco di iperbole $\Gamma_3$ su $[1,2]$.*
+
+<!--fig:end-->
 
 Il grafico in figura, rappresentativo della funzione continua $y=f(x)$, è unione dell'arco di parabola $\Gamma_1$, dell'arco di circonferenza $\Gamma_2$ e dell'arco di iperbole $\Gamma_3$.
 
@@ -34,11 +38,11 @@ c) Si consideri la funzione $y=\frac{1}{4}(x+2)^2$, definita nell'intervallo $[-
 
 d) Sia $S$ la regione limitata del secondo quadrante, compresa tra il grafico $\Gamma_1$ e gli assi cartesiani. Determinare il valore del parametro reale $k$ affinché la retta di equazione $x=k$ divida $S$ in due regioni equivalenti.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Problema 2
 
@@ -54,11 +58,11 @@ c) Al variare di $a<1$, individuare gli intervalli di monotonia della funzione $
 
 d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1}$, la retta ad esso tangente nell'origine e la retta $x=\sqrt{3}$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 1
 
@@ -67,7 +71,7 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.12
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 2
 
@@ -79,7 +83,7 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.13
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.13](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 3
 
@@ -88,7 +92,7 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.14
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.14](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
 
@@ -97,7 +101,7 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.15
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.15](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 5
 
@@ -106,7 +110,7 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.17
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 6
 
@@ -116,7 +120,7 @@ $$\lim_{x\to 0}\frac{\operatorname{sen} x-(ax^3+bx)}{x^3}=1$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.18
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.18](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 7
 
@@ -127,17 +131,17 @@ Determinare per quali valori dei parametri reali $a$, $b$ la funzione è derivab
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.19
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.19](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 8
 
 8. Data la funzione $f_a(x)=x^5-5ax+a$, definita nell'insieme dei numeri reali, stabilire per quali valori del parametro $a>0$ la funzione possiede tre zeri reali distinti.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

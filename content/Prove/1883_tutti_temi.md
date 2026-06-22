@@ -12,9 +12,7 @@ tags:
 title: 1883 Tema di maturita
 ---
 
-# 1883 Tema di maturita
-
-Fonte:  · p.48 · 📄 Apri PDF
+Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -24,7 +22,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Successioni e Serie]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Successioni, serie e ricorrenze]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.48
+**Fonte:** [📄 Testo (PDF) — p.48](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -33,7 +31,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.48
+**Fonte:** [📄 Testo (PDF) — p.48](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -42,7 +40,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]], [[Dimostrazione e argomentazione rigorosa]]
-**Fonte:** 📄 Testo (PDF) — p.48
+**Fonte:** [📄 Testo (PDF) — p.48](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -51,7 +49,7 @@ Fonte:  · p.48 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.48
+**Fonte:** [📄 Testo (PDF) — p.48](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

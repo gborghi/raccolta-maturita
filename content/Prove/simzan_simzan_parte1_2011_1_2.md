@@ -12,10 +12,8 @@ tags:
 title: 'Simulazione Zanichelli 2011 PNI #1'
 ---
 
-# Simulazione Zanichelli 2011 PNI #1
-
-Fonte:  · p.2 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ d) Dopo aver individuato la retta $r$ inclinata di un angolo di $60°$ rispetto 
 
 e) Si determini l'intervallo di valori che può assumere il raggio della circonferenza circoscritta al triangolo $ABC$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
 
@@ -52,11 +50,11 @@ d) Calcolare, utilizzando un metodo di integrazione numerica, un valore approssi
 
 e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione completa della parte di curva corrispondente all'intervallo $[-1;\, 1]$ dell'asse delle ascisse, attorno all'asse $x$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo numerico e stima]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 1
 
@@ -65,7 +63,7 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
 
@@ -74,17 +72,17 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Topic:** [[Geometria Solida]], [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
 
 3. È data la funzione definita dall'integrale: $F(x) = \displaystyle\int_{-\frac{\sqrt{2}}{2}}^{x} \frac{t}{\left(\arcsen t^2\right)^2 + 1}\, dt$. Si individui il dominio della funzione integranda e si dimostri che tale funzione è dispari. Si determini inoltre l'equazione della retta tangente al grafico di $F(x)$ nel punto di ascissa $x = \dfrac{\sqrt{2}}{2}$.
 
-**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Funzione integrale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
 
@@ -93,7 +91,7 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Topic:** [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
 
@@ -102,7 +100,7 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 6
 
@@ -111,7 +109,7 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Topic:** [[Geometria Analitica (piano)]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
 
@@ -120,17 +118,17 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
 
 8. Determinare il numero degli zeri della funzione: $f(x) = e^{x} - e^2 \cdot \sqrt{x} - \dfrac{1}{2}$. Scelto il più piccolo, trovare un suo valore approssimato attraverso uno dei metodi numerici studiati, con un errore inferiore a $0,01$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 9
 
@@ -139,7 +137,7 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
 
@@ -150,7 +148,7 @@ soddisfa le ipotesi del teorema di Lagrange nell'intervallo $[-1;\, 3]$.
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.2
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

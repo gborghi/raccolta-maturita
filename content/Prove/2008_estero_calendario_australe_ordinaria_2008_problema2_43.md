@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Australe Ordinaria — Problema 2
 ---
 
-# 2008 Estero Australe Ordinaria — Problema 2
-
-Fonte:  · p.43 · 📄 Apri PDF
+Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Il trapezio $ABCD$ è isoscele e circoscritto ad un cerchio di raggio $1$. Si ponga la base minore $CD = 2x$.
 
@@ -30,7 +27,7 @@ Il trapezio $ABCD$ è isoscele e circoscritto ad un cerchio di raggio $1$. Si po
 **Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_ordinaria_2008_problema2_43#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.43
+**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_ordinaria_2008_problema2_43#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2003_pni_2003_sessione_straordinaria_problema2_160
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_pni_2003_sessione_straordinaria_problema2_160
+title: 2003 PNI Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2003_pni_2003_sessione_straordinaria_problema2_160
 
-## Problema 1
 
 PNI 2003 - SESSIONE STRAORDINARIA - PROBLEMA $2$
 

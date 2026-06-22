@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Equazioni Differenziali
-
 *Argomento* — **35** problemi/quesiti.
 
 ## Problemi e quesiti

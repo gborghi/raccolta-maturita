@@ -12,9 +12,7 @@ tags:
 title: 2007 Estero Australe Suppletiva — Questionario
 ---
 
-# 2007 Estero Australe Suppletiva — Questionario
-
-Fonte:  · p.49 · 📄 Apri PDF
+Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.49 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.49 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
 
@@ -44,7 +42,7 @@ Si discutano le possibili soluzioni del problema.
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
 
@@ -53,7 +51,7 @@ Si discutano le possibili soluzioni del problema.
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 5
 
@@ -62,7 +60,7 @@ Si discutano le possibili soluzioni del problema.
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
 
@@ -71,7 +69,7 @@ Si discutano le possibili soluzioni del problema.
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 7
 
@@ -80,18 +78,18 @@ Si discutano le possibili soluzioni del problema.
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
 
 **Quesito 8.** Si determini, al variare di $k$, il numero delle soluzioni reali dell'equazione
 $$x^3 - 3x + k = 0.$$
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.54
+**Soluzione:** [[Soluzioni/2007_estero_australe_2007_suppletiva_questionario_49#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

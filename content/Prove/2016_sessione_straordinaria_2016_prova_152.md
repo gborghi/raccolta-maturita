@@ -12,9 +12,7 @@ tags:
 title: 2016 Straordinaria — Prova
 ---
 
-# 2016 Straordinaria — Prova
-
-Fonte:  · p.152 · 📄 Apri PDF
+Fonte: p.152 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -29,10 +27,10 @@ Sei addetto alla gestione di una macchina utensile in cui è presente un conteni
 
 4. A causa di un cambiamento nell'utilizzo della macchina, ti viene richiesto di progettare un nuovo e più capiente recipiente conico, avente apotema $a$ uguale a quello del contenitore attualmente in uso. Determina i valori di $h$ e di $r$ in corrispondenza dei quali il volume del cono è massimo e verifica, a parità di flusso di olio in ingresso e di tempo di riempimento $t_R$, a quale livello di riempimento si arriva. È ancora pari al 75% dell'altezza?
 
-**Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni differenziali]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.152
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Problema 2
 
@@ -54,11 +52,11 @@ $$\int_0^{(2n+1)\pi}f(x)\,dx=4,\qquad\int_0^{2n\pi}f(x)\,dx=0.$$
 
 4. Dimostra che i massimi della funzione $f^2(x)$ giacciono su una parabola e i minimi su una retta, e scrivi l'equazione della parabola e della retta.
 
-**Topic:** [[Trigonometria]], [[Calcolo Integrale]], [[Studio di Funzione]], [[Massimi e Minimi]]
+**Topic:** [[Trigonometria]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.152
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 1
 
@@ -68,7 +66,7 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 2
 
@@ -77,7 +75,7 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.164
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 3
 
@@ -86,7 +84,7 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.165
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.165](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 4
 
@@ -95,7 +93,7 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.165
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.165](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 5
 
@@ -104,7 +102,7 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.166
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.166](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 6
 
@@ -113,7 +111,7 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Uso di relazioni e identita trigonometriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.167
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.167](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 7
 
@@ -123,7 +121,7 @@ $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
 **Topic:** [[Successioni e Serie]], [[Limiti e Continuita]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.167
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.167](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 8
 
@@ -132,7 +130,7 @@ $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.168
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.168](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 9
 
@@ -141,7 +139,7 @@ $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.168
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.168](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 10
 
@@ -150,7 +148,7 @@ $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.169
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.169](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

@@ -12,12 +12,9 @@ tags:
 title: 2018 Suppletiva — Problema 1
 ---
 
-# 2018 Suppletiva — Problema 1
-
-Fonte:  · p.102 · 📄 Apri PDF
+Fonte: p.102 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Un artigiano deve realizzare una cornice in cui inscrivere uno specchio di forma circolare. A partire da una tavola quadrata di lato $3\pi$ decimetri (approssimato alla seconda cifra decimale), adoperando una macchina a controllo numerico (CNC), incide su ciascun lato una decorazione che rappresenta una porzione di curva goniometrica.
 
@@ -38,7 +35,7 @@ La macchina traccia sul lato giacente sull'asse delle ascisse la curva descritta
 **Topic:** [[Trigonometria]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2018_suppletiva_2018_problema1_102#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.102
+**Soluzione:** [[Soluzioni/2018_suppletiva_2018_problema1_102#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.102](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

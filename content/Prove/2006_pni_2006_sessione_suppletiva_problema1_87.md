@@ -12,12 +12,9 @@ tags:
 title: 2006 PNI Suppletiva — Problema 1
 ---
 
-# 2006 PNI Suppletiva — Problema 1
-
-Fonte:  · p.87 · 📄 Apri PDF
+Fonte: p.87 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel piano, riferito ad un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le due parabole $p'$ e $p''$ di equazioni rispettivamente:
 $$y = x^2, \qquad x = y^2 - 2y.$$
@@ -35,7 +32,7 @@ $$y = x^2, \qquad x = y^2 - 2y.$$
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2006_pni_2006_sessione_suppletiva_problema1_87#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.87
+**Soluzione:** [[Soluzioni/2006_pni_2006_sessione_suppletiva_problema1_87#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

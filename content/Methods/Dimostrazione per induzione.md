@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Dimostrazione per induzione
-
 *Metodo risolutivo* — **25** problemi/quesiti.
 
 ## Problemi e quesiti

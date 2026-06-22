@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2011_sessione_ordinaria_2011_prova_43
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_sessione_ordinaria_2011_prova_43
+title: 2011 Ordinaria (Americhe) — Prova — Svolgimento
 ---
-# Soluzioni — 2011_sessione_ordinaria_2011_prova_43
 
 ## Problema 1
 

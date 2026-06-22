@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_europa_2015_problema2_89
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_europa_2015_problema2_89
+title: 2015 Europa — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2015_europa_2015_problema2_89
 
-## Problema 1
 
 Europa 2015 - Problema $2$
 

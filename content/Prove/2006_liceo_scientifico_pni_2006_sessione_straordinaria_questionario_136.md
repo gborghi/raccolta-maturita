@@ -12,12 +12,9 @@ tags:
 title: 2006 PNI Straordinaria — Questionario
 ---
 
-# 2006 PNI Straordinaria — Questionario
+Fonte: p.136 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.136 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Il candidato risolva uno dei due problemi e 5 dei 10 quesiti in cui si articola il questionario.*
 
@@ -56,7 +53,7 @@ dove $a$ è un parametro reale. Determinare i valori di $a$ per cui le equazioni
 **Topic:** [[Limiti e Continuita]], [[Calcolo Integrale]], [[Geometria Solida]], [[Probabilita]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]], [[Analisi e interpretazione di dati e probabilita]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_pni_2006_sessione_straordinaria_questionario_136#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.136
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_pni_2006_sessione_straordinaria_questionario_136#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.136](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

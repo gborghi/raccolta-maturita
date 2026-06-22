@@ -12,12 +12,9 @@ tags:
 title: 1953 Tema di maturita
 ---
 
-# 1953 Tema di maturita
-
-Fonte:  · p.95 · 📄 Apri PDF
+Fonte: p.95 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Risolvere il sistema:
 
@@ -39,7 +36,7 @@ della quale siano: $A$ il punto di ordinata nulla e ascissa negativa, e $B$ quel
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Fonte:** 📄 Testo (PDF) — p.95
+**Fonte:** [📄 Testo (PDF) — p.95](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

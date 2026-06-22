@@ -12,12 +12,9 @@ tags:
 title: 1989 — Tema di maturita
 ---
 
-# 1989 — Tema di maturita
-
-Fonte:  · p.132 · 📄 Apri PDF
+Fonte: p.132 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -58,11 +55,11 @@ Si dimostri che i triangoli $DAD'$ e $CBC'$ sono simili e se ne dica il rapporto
 4. Si verifichi che il triangolo formato da una tangente qualsiasi ad una iperbole equilatera e dagli asintoti ha area costante e che il punto di contatto $P$ della tangente è punto medio del segmento di tangente avente gli estremi $A$ e $B$ sugli asintoti.
 Si calcolino le aree delle regioni finite di piano comprese tra l'iperbole, la tangente in $P$ e le parallele per $A$ e per $B$ rispettivamente agli asintoti cui essi non appartengono.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Irrazionale]]
-**Fonte:** 📄 Testo (PDF) — p.132
+**Fonte:** [📄 Testo (PDF) — p.132](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

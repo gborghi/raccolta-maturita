@@ -12,10 +12,8 @@ tags:
 title: 2008 PNI Straordinaria — Questionario
 ---
 
-# 2008 PNI Straordinaria — Questionario
-
-Fonte:  · p.122 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -26,7 +24,7 @@ Fra le piramidi quadrangolari regolari di data area laterale $S$, si determini q
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
 
@@ -39,7 +37,7 @@ quando $x$ tende a $0$.
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.123
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 3
 
@@ -47,11 +45,11 @@ quando $x$ tende a $0$.
 
 Si provi se per la funzione $f(x) = |x+1| - 2x$, nell'intervallo $[-2;3]$, sono verificate le condizioni previste per la validità del teorema di Lagrange e, in caso affermativo, si trovi il punto in cui si verifica la tesi del teorema stesso.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.123
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
 
@@ -62,7 +60,7 @@ Si determini il campo di esistenza della funzione $y = (x^2 + 3x)^{\sqrt{-2-x}}$
 **Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
 
@@ -73,7 +71,7 @@ Siano dati un triangolo equilatero, il cerchio in esso inscritto e il triangolo 
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 6
 
@@ -84,7 +82,7 @@ Alla prova orale di un concorso sono stati ammessi $9$ maschi e $7$ femmine. Sap
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.125
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 7
 
@@ -92,11 +90,11 @@ Alla prova orale di un concorso sono stati ammessi $9$ maschi e $7$ femmine. Sap
 
 Si dimostri che l'equazione $\log x + x = 0$ ha un'unica radice reale e se ne calcoli un valore approssimato con due cifre decimali esatte.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.125
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 8
 
@@ -105,11 +103,11 @@ Si dimostri che l'equazione $\log x + x = 0$ ha un'unica radice reale e se ne ca
 Si determinino le equazioni degli asintoti della curva:
 $$f(x) = \int_1^x t\, e^t\, dt.$$
 
-**Topic:** [[Funzioni Integrali]], [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Funzioni Integrali]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Funzione integrale]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 9
 
@@ -120,7 +118,7 @@ Il toro è il solido di rotazione, ottenuto facendo ruotare un cerchio di raggio
 **Topic:** [[Geometria Solida]], [[Calcolo Integrale]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 10
 
@@ -131,7 +129,7 @@ Un segmento $AB$ di lunghezza costante $a$ scorre coi suoi estremi sopra due ret
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Sistemi di equazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

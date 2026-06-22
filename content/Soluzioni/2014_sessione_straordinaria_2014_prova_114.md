@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2014_sessione_straordinaria_2014_prova_114
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_sessione_straordinaria_2014_prova_114
+title: Straordinaria 2014 (Ordinamento) — Prova — Svolgimento
 ---
-# Soluzioni — 2014_sessione_straordinaria_2014_prova_114
 
 ## Problema 1
 

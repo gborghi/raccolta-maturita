@@ -12,12 +12,9 @@ tags:
 title: 2015 Liceo Scientifico — Problema 1
 ---
 
-# 2015 Liceo Scientifico — Problema 1
+Fonte: p.9 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.9 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Il piano tariffario proposto da un operatore telefonico prevede, per le telefonate all'estero, un canone fisso di 10 euro al mese, più 10 centesimi per ogni minuto di conversazione. Indicando con $x$ i minuti di conversazione effettuati in un mese, con $f(x)$ la spesa totale nel mese e con $g(x)$ il costo medio al minuto:
 
@@ -33,11 +30,11 @@ L'operatore di telefonia modifica il piano tariffario, inserendo un sovrapprezzo
 
 **4)** Determina come cambiano, di conseguenza, le caratteristiche delle funzioni $f(x)$ e $g(x)$, riguardo agli asintoti, alla monotonia, continuità e derivabilità, individua eventuali massimi e minimi assoluti della funzione $g(x)$ e della sua derivata e spiegane il significato nella situazione concreta.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Razionale fratta]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2015_liceo_scientifico_2015_problema1_9#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.9
+**Soluzione:** [[Soluzioni/2015_liceo_scientifico_2015_problema1_9#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.9](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

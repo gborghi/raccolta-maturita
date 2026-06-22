@@ -12,9 +12,7 @@ tags:
 title: 2008 Ordinaria — Prova (PNI Informatica)
 ---
 
-# 2008 Ordinaria — Prova (PNI Informatica)
-
-Fonte:  · p.147 · 📄 Apri PDF
+Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -32,7 +30,7 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si consid
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Trigonometria]], [[Successioni e Serie]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Problema 2
 
@@ -46,11 +44,11 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 
 4. Si calcoli l'area racchiusa tra il grafico di $h$ e l'asse $x$ sull'intervallo $[2,4]$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Analisi qualitativa e deduzione di grafici]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 1
 
@@ -59,7 +57,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Probabilita]], [[Geometria Solida]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
 
@@ -68,7 +66,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 3
 
@@ -77,7 +75,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
 
@@ -86,7 +84,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
 
@@ -95,7 +93,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Equazioni e Disequazioni]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 6
 
@@ -104,7 +102,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Trigonometria]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Visualizzazione spaziale e geometrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 7
 
@@ -113,7 +111,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 8
 
@@ -122,7 +120,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 9
 
@@ -131,7 +129,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 10
 
@@ -140,7 +138,7 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Topic:** [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

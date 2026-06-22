@@ -12,12 +12,9 @@ tags:
 title: 2011 Estero Americhe — Problema 1
 ---
 
-# 2011 Estero Americhe — Problema 1
-
-Fonte:  · p.30 · 📄 Apri PDF
+Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel riferimento cartesiano $Oxy$ si consideri il triangolo di vertici $O$, $B(1\,;\,0)$, $A(0\,;\,a)$, con $a>0$. Preso un punto $P$ interno al triangolo, si denotino con $Q$ e con $R$ i punti in cui la retta per $P$, parallela all'asse $y$, taglia i lati $OB$ e $AB$ rispettivamente.
 
@@ -34,7 +31,7 @@ Nel riferimento cartesiano $Oxy$ si consideri il triangolo di vertici $O$, $B(1\
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.30
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

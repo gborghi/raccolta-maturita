@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2014_11_124
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2014_11_124
+title: 'Simulazione Zanichelli 2014 Problemi Tradizionali #11 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2014_11_124
-
 ## Problema 1
 
 ### Punto a)

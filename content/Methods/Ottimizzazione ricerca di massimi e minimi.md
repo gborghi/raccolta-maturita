@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Ottimizzazione: ricerca di massimi e minimi
-
 *Metodo risolutivo* — **388** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66
+title: 2007 Estero Europa Ordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66
-
 ## Quesito 1
 
 Si calcolino le radici dell'equazione $5^x \cdot 3^{1-x} = 10$.

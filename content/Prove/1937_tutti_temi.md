@@ -12,9 +12,7 @@ tags:
 title: 1937 Tema di maturità
 ---
 
-# 1937 Tema di maturità
-
-Fonte:  · p.83 · 📄 Apri PDF
+Fonte: p.83 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -24,7 +22,7 @@ Di un triangolo $ACB$ si sa che le misure dei lati $AC$ e $CB$ sono rispettivame
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Applicazione consapevole di teoremi]]
-**Fonte:** 📄 Testo (PDF) — p.83
+**Fonte:** [📄 Testo (PDF) — p.83](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -41,7 +39,7 @@ che si ottiene mutando $k$ in $y$ nell'equazione data e risolvendo l'equazione r
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]], [[Analisi qualitativa e deduzione di grafici]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.83
+**Fonte:** [📄 Testo (PDF) — p.83](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

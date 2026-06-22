@@ -12,12 +12,9 @@ tags:
 title: 1972 Tema di maturita
 ---
 
-# 1972 Tema di maturita
+Fonte: p.109 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.109 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Il candidato risolva, a sua scelta, almeno due dei seguenti quesiti. Tempo concesso: 5 ore.*
 
@@ -37,11 +34,11 @@ si determinino le coordinate dei punti comuni, le equazioni delle tangenti comun
 $$y = \frac{2x}{x^2 + x - 1}.$$
 Si determinino le coordinate dei punti comuni ad essa e alla sua simmetrica rispetto all'asse $y$ e si calcoli l'area del quadrilatero convesso formato dalle tangenti alle due curve nei punti comuni di ascissa non nulla.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.109
+**Fonte:** [📄 Testo (PDF) — p.109](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

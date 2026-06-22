@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2017_sessione_straordinaria_2017_prova_80
 pdf: Prova_Maturita_2017.pdf
 source: text
-title: Soluzioni — 2017_sessione_straordinaria_2017_prova_80
+title: 2017 Straordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2017_sessione_straordinaria_2017_prova_80
 
 ## Problema 1
 

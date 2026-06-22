@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema2_33
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema2_33
+title: 2005 Americhe Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema2_33
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2005
 Sessione $Suppletiva-$ Problema $2$

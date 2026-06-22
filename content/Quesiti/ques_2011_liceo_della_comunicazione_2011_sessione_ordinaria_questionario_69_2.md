@@ -1,0 +1,28 @@
+---
+title: 2011 Liceo Comunicazione Ordinaria — Questionario — Quesito 2
+tipo: quesito
+item_id: ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_2
+prova_id: prova_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69
+anno: '2011'
+pdf: Prova_Maturita_2011.pdf
+cluster: 'Derivate, Massimi e Minimi'
+numero: '2'
+tags:
+  - maturita/quesito
+  - area/analisi
+  - cluster/derivate_massimi_e_minimi
+  - anno/2011
+---
+
+Fonte: p.69 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Prova:** [[Prove/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69|2011 Liceo Comunicazione Ordinaria — Questionario]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+
+**Quesito 2.** Si trovi il punto della curva $y = \sqrt{x}$ più vicino al punto di coordinate $(4; 0)$.
+
+**Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
+**Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
+**Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
+**Soluzione:** [[Svolgimenti/sol_ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_2|📝 Svolgimento]] · [📄 PDF p.69](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+
+
+#maturita/quesito #area/analisi #cluster/derivate_massimi_e_minimi

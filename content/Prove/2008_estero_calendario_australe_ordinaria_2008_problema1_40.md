@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Australe Ordinaria — Problema 1
 ---
 
-# 2008 Estero Australe Ordinaria — Problema 1
+Fonte: p.40 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.40 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 L'ellisse $\Sigma$ ha equazione $x^2 + 4y^2 = 4$ e $P(a;b)$, con $b \ge 0$, è un suo punto.
 
@@ -27,11 +24,11 @@ L'ellisse $\Sigma$ ha equazione $x^2 + 4y^2 = 4$ e $P(a;b)$, con $b \ge 0$, è u
 
 **3)** Si studi e si rappresenti $\Omega$, avendo trovato che la sua equazione è: $y = \dfrac{2-x^2}{2\sqrt{1-x^2}}$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_ordinaria_2008_problema1_40#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_ordinaria_2008_problema1_40#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

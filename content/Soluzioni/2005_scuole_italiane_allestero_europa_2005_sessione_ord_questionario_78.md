@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78
+title: 2005 Europa Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78
 
 ## Quesito 1
 

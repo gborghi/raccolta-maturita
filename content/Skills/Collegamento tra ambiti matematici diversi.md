@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Collegamento tra ambiti matematici diversi
-
 *Competenza* — **286** problemi/quesiti.
 
 ## Problemi e quesiti

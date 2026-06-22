@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2014_ordinamento_2014_problema2_16
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_ordinamento_2014_problema2_16
+title: Ordinamento 2014 — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2014_ordinamento_2014_problema2_16
 
-## Problema 1
 
 ORDINAMENTO 2014 - PROBLEMA $2$
 

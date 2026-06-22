@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2003_americhe_emisfero_australe_2003_sessione_suppletiv_problema1_93
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: >-
-  Soluzioni —
-  2003_americhe_emisfero_australe_2003_sessione_suppletiv_problema1_93
+title: 2003 Americhe Australe Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2003_americhe_emisfero_australe_2003_sessione_suppletiv_problema1_93
 
-## Problema 1
 
 Americhe emisfero australe 2003
 Sessione Suppletiva - Problema $1$

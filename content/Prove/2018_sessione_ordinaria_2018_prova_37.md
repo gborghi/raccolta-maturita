@@ -12,12 +12,16 @@ tags:
 title: 2018 Sessione ordinaria — Prova (Sportiva)
 ---
 
-# 2018 Sessione ordinaria — Prova (Sportiva)
-
-Fonte:  · p.37 · 📄 Apri PDF
+Fonte: p.37 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2018_sessione_ordinaria_2018_prova_37/2018_sessione_ordinaria_2018_prova_37_fig.svg]]
+*Punto $N$ evidenziato su un tratto del grafico $\Gamma_1$ (quesito 4 del Problema 1).*
+
+<!--fig:end-->
 
 Consideriamo la funzione $f_k:\mathbb{R}\to\mathbb{R}$ così definita:
 
@@ -35,11 +39,11 @@ con $k\in\mathbb{Z}$.
 
 *(figura nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Probabilita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
 
@@ -65,11 +69,11 @@ $$\min g=\min h,\qquad \sup g=\max h,\qquad 2h''-2h+1=0$$
 
 Quante sono le funzioni siffatte?
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni Differenziali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni Differenziali]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni differenziali]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 1
 
@@ -78,7 +82,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ottimizzazione e ricerca dell'ottimo]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.48
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 2
 
@@ -87,7 +91,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 3
 
@@ -96,7 +100,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 4
 
@@ -105,7 +109,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 5
 
@@ -114,7 +118,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 6
 
@@ -123,7 +127,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 7
 
@@ -132,7 +136,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 8
 
@@ -141,7 +145,7 @@ Quante sono le funzioni siffatte?
 **Topic:** [[Equazioni Differenziali]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.53
+**Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_37#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

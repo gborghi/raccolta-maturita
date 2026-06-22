@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2007_pni_2007_sessione_suppletiva_problema2_109
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: Soluzioni — 2007_pni_2007_sessione_suppletiva_problema2_109
+title: 2007 PNI Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2007_pni_2007_sessione_suppletiva_problema2_109
 
-## Problema 1
 
 PNI 2007 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

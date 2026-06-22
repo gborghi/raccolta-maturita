@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2009_scuole_italiane_allestero_americhe_2009_sessione_o_questionario_24
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: >-
-  Soluzioni —
-  2009_scuole_italiane_allestero_americhe_2009_sessione_o_questionario_24
+title: 2009 Estero Americhe — Questionario — Svolgimento
 ---
-# Soluzioni — 2009_scuole_italiane_allestero_americhe_2009_sessione_o_questionario_24
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2009
 

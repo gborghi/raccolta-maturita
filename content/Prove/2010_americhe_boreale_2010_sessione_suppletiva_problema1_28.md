@@ -12,12 +12,9 @@ tags:
 title: 2010 Americhe Boreale Suppletiva — Problema 1
 ---
 
-# 2010 Americhe Boreale Suppletiva — Problema 1
-
-Fonte:  · p.28 · 📄 Apri PDF
+Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Nel piano riferito a coordinate cartesiane $Oxy$, si consideri la parabola d'equazione $y=ax^2$, con $a$ numero reale.
 
@@ -32,7 +29,7 @@ d) Si determini il punto $M$ dell'arco di $\lambda$ di estremi $P$ e $Q$ per il 
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_americhe_boreale_2010_sessione_suppletiva_problema1_28#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2010_americhe_boreale_2010_sessione_suppletiva_problema1_28#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

@@ -12,12 +12,9 @@ tags:
 title: 2007 Estero Australe — Problema 1
 ---
 
-# 2007 Estero Australe — Problema 1
+Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.30 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f$ la funzione definita da:
 $$f(x)=a\log_{10}x+1,$$
@@ -31,11 +28,11 @@ ove $a$ è un parametro reale.
 
 4) Sia $g(x)=x^2$. Si determini il valore di $a$ per cui $f$ e $g$ hanno la stessa tangente nel punto di ascissa $1$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_ordinaria_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.30
+**Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_ordinaria_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

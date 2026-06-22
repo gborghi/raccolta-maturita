@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2002_pni_2002_sessione_straordinaria_problema1_81
 pdf: Prova_Maturita_2002.pdf
 source: text
-title: Soluzioni — 2002_pni_2002_sessione_straordinaria_problema1_81
+title: 2002 Straordinaria PNI — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2002_pni_2002_sessione_straordinaria_problema1_81
 
-## Problema 1
 
 PNI 2002 - SESSIONE STRAORDINARIA - PROBLEMA $1$
 

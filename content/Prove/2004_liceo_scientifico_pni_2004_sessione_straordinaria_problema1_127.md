@@ -12,12 +12,9 @@ tags:
 title: 2004 PNI Straordinaria — Problema 1
 ---
 
-# 2004 PNI Straordinaria — Problema 1
-
-Fonte:  · p.127 · 📄 Apri PDF
+Fonte: p.127 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 In un piano è assegnata la parabola $p$ di vertice $V$ e fuoco $F$ tali che, rispetto a una assegnata unità di lunghezza, il segmento $\overline{VF}$ sia lungo $1/2$. Indicato con $E$ il punto simmetrico di $F$ rispetto a $V$ e riferito il piano a un conveniente sistema di assi cartesiani $(Oxy)$:
 
@@ -29,11 +26,11 @@ In un piano è assegnata la parabola $p$ di vertice $V$ e fuoco $F$ tali che, ri
 
 *(figura nel PDF)*
 
-**Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2004_liceo_scientifico_pni_2004_sessione_straordinaria_problema1_127#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2004_liceo_scientifico_pni_2004_sessione_straordinaria_problema1_127#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

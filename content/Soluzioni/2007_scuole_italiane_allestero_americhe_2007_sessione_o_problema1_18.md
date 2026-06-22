@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2007_scuole_italiane_allestero_americhe_2007_sessione_o_problema1_18
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_scuole_italiane_allestero_americhe_2007_sessione_o_problema1_18
+title: 2007 Estero Americhe Ordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2007_scuole_italiane_allestero_americhe_2007_sessione_o_problema1_18
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2007
 Sessione $Ordinaria-$ Problema $1$

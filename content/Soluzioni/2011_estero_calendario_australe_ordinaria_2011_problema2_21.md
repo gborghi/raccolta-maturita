@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2011_estero_calendario_australe_ordinaria_2011_problema2_21
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_estero_calendario_australe_ordinaria_2011_problema2_21
+title: 2011 Estero Australe Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2011_estero_calendario_australe_ordinaria_2011_problema2_21
 
-## Problema 1
 
 Estero (calendario australe)
 Ordinaria $2011-$ Problema $2$

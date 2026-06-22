@@ -12,12 +12,9 @@ tags:
 title: 1954 Tema di maturita
 ---
 
-# 1954 Tema di maturita
-
-Fonte:  · p.95 · 📄 Apri PDF
+Fonte: p.95 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel triangolo $ABC$, rettangolo in $B$, l'angolo acuto $B\hat{A}C$ ha l'ampiezza nota $\alpha$. Considerata la semicirconferenza di diametro $AB$, esterna al triangolo, si trovi su di essa un punto $P$ in modo che, condotta per $P$ la perpendicolare ad $AB$ fino ad incontrare l'ipotenusa $AC$ nel punto $Q$, risulti:
 
@@ -36,7 +33,7 @@ essendo $k$ un numero reale assegnato. Discussione. È in facoltà del candidato
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.95
+**Fonte:** [📄 Testo (PDF) — p.95](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

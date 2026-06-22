@@ -12,12 +12,9 @@ tags:
 title: 2000 Suppletiva — Problema 3
 ---
 
-# 2000 Suppletiva — Problema 3
-
-Fonte:  · p.18 · 📄 Apri PDF
+Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
 **Cluster:** [[Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
 
-## Problema 1
 
 Si consideri la successione di termine generale $a_n=\dfrac{f(n)}{3^n}$, dove:
 $$f(n)=\binom{n}{0}+\binom{n}{1}+\binom{n}{2}+\cdots+\binom{n}{n}$$
@@ -37,7 +34,7 @@ e) Esiste $\displaystyle\lim_{n\to 10^{10}}a_n$? Motivare esaurientemente la ris
 **Topic:** [[Successioni e Serie]], [[Calcolo Combinatorio]], [[Limiti e Continuita]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2000_sessione_suppletiva_2000_problema3_18#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.18
+**Soluzione:** [[Soluzioni/2000_sessione_suppletiva_2000_problema3_18#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.18](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
 
 
 #maturita/prova #area/analisi #cluster/successioni_serie_ed_eq_differenziali

@@ -12,12 +12,9 @@ tags:
 title: 2015 SIMULAZIONE - 25 FEBBRAIO 2015
 ---
 
-# 2015 SIMULAZIONE - 25 FEBBRAIO 2015
-
-Fonte:  · p.155 · 📄 Apri PDF
+Fonte: p.155 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 25-FEBBRAIO-2015_Problema2_155
 parent_node: prova_2015_simulazione___25_febbraio_2015_problema2_155
@@ -46,7 +43,7 @@ Ora tu e Mario dovete scegliere la pellicola da sistemare sulla superficie ester
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Esponenziali e Logaritmi]], [[Successioni e Serie]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_simulazione___25_febbraio_2015_problema2_155#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.155
+**Soluzione:** [[Soluzioni/2015_simulazione___25_febbraio_2015_problema2_155#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.155](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

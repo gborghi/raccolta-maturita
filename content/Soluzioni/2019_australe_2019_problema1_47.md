@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2019_australe_2019_problema1_47
 pdf: Prova_Maturita_2019.pdf
 source: text
-title: Soluzioni — 2019_australe_2019_problema1_47
+title: 2019 Australe — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2019_australe_2019_problema1_47
 
-## Problema 1
 
 Australe 2019 - Problema $1$
 

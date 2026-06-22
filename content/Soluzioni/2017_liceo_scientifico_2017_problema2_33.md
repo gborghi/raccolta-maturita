@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2017_liceo_scientifico_2017_problema2_33
 pdf: Prova_Maturita_2017.pdf
 source: text
-title: Soluzioni — 2017_liceo_scientifico_2017_problema2_33
+title: 2017 Liceo Scientifico — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2017_liceo_scientifico_2017_problema2_33
 
-## Problema 1
 
 Liceo Scientifico 2017 - Problema $2$
 

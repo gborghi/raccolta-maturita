@@ -12,12 +12,9 @@ tags:
 title: 2011 Ordinamento Straordinaria — Problema 2
 ---
 
-# 2011 Ordinamento Straordinaria — Problema 2
+Fonte: p.97 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.97 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione:
 $$f(x) = e^x(x^2 - 4x + 3).$$
@@ -30,11 +27,11 @@ $$f(x) = e^x(x^2 - 4x + 3).$$
 
 **d)** Si calcoli l'area della superficie piana, situata nel IV quadrante, delimitata dalla curva $\Lambda$ e dall'asse $x$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2011_liceo_scientifico_ordinamento_2011_sessione_straor_problema2_97#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.97
+**Soluzione:** [[Soluzioni/2011_liceo_scientifico_ordinamento_2011_sessione_straor_problema2_97#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.97](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

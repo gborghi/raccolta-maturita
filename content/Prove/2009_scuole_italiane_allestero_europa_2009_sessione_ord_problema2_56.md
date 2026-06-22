@@ -12,12 +12,9 @@ tags:
 title: 2009 Estero Europa — Problema 2
 ---
 
-# 2009 Estero Europa — Problema 2
-
-Fonte:  · p.56 · 📄 Apri PDF
+Fonte: p.56 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Nel piano riferito ad un sistema $Oxy$ di coordinate cartesiane siano assegnate le parabole d'equazioni: $$y^2=2ax \quad e \quad x^2=ay,\qquad \text{con } a>0.$$
 
@@ -32,7 +29,7 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema2_56#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.56
+**Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema2_56#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

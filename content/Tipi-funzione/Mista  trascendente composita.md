@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Mista / trascendente composita
-
 *Tipo di funzione* — **85** problemi/quesiti.
 
 ## Problemi e quesiti

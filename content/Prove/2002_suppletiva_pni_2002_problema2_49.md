@@ -12,12 +12,9 @@ tags:
 title: 2002 Suppletiva PNI — Problema 2
 ---
 
-# 2002 Suppletiva PNI — Problema 2
-
-Fonte:  · p.49 · 📄 Apri PDF
+Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È data la sfera $S$ di centro $O$ e raggio $R$. Determinare:
 
@@ -34,7 +31,7 @@ Fonte:  · p.49 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_problema2_49#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.49
+**Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_problema2_49#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

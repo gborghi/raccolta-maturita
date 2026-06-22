@@ -12,12 +12,9 @@ tags:
 title: 2012 Ordinamento Suppletiva — Problema 2
 ---
 
-# 2012 Ordinamento Suppletiva — Problema 2
+Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.60 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione:
 $$f(x)=x\sqrt{2-x}$$
@@ -31,11 +28,11 @@ $$x\sqrt{2-x}<1$$
 
 **4)** La regione finita di piano delimitata dalla curva $\gamma$ e dall'asse $x$ nel I quadrante è la base di un solido $S$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte esagoni regolari. Si calcoli il volume di $S$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2012_ordinamento_2012_sessione_suppletiva_problema2_60#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2012_ordinamento_2012_sessione_suppletiva_problema2_60#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

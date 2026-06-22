@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2005_estero_australe_2005_suppletiva_questionario_66
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_estero_australe_2005_suppletiva_questionario_66
+title: 2005 Estero Australe Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2005_estero_australe_2005_suppletiva_questionario_66
 
 ## Quesito 1
 

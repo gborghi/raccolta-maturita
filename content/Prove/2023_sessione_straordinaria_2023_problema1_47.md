@@ -12,12 +12,9 @@ tags:
 title: 2023 Straordinaria — Problema 1
 ---
 
-# 2023 Straordinaria — Problema 1
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.47 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la famiglia di funzioni $f_n(x) = 2 - \dfrac{3}{x} + \dfrac{3}{x^n}$ con $n \in \mathbb{N}$ e $n > 1$.
 
@@ -33,11 +30,11 @@ che esprime l'area della regione delimitata dai grafici delle funzioni $f_n$ e $
 
 **d)** Calcolare il $\lim\limits_{x \to \infty} \dfrac{f_n(x) - 2}{g(x) - 2}$ e verificare che il risultato non dipende da $n \in \mathbb{N}$, $n > 1$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

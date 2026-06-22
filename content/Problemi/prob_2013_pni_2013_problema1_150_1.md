@@ -1,0 +1,43 @@
+---
+title: 2013 PNI — Problema 1 — Problema 1
+tipo: problema
+item_id: prob_2013_pni_2013_problema1_150_1
+prova_id: prova_2013_pni_2013_problema1_150
+anno: '2013'
+pdf: Prova_Maturita_2013.pdf
+cluster: Studio di Funzione
+numero: '1'
+tags:
+  - maturita/problema
+  - area/analisi
+  - cluster/studio_di_funzione
+  - anno/2013
+---
+
+Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+**Prova:** [[Prove/2013_pni_2013_problema1_150|2013 PNI — Problema 1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+
+**PNI 2013 — Problema 1**
+
+La funzione $f$, derivabile due volte, rappresenta l'andamento nel tempo $x$ di una popolazione. Del suo grafico si sa che ha un asintoto orizzontale di equazione $y=8$ per $x\to+\infty$, che $f(0)=1$ e che la tangente al grafico nel punto $(2;4)$ passa per l'origine; inoltre la derivata seconda $f''(x)$ è positiva per $0<x<2$ e negativa per $x>2$. *(figura nel PDF)*
+
+1) Si traccino, in uno stesso riferimento cartesiano, i grafici delle funzioni $f$, $f'$ e $f''$, motivando le caratteristiche essenziali (in particolare la posizione e le coordinate del massimo di $f'$).
+
+2) Interpretando $f$ come modello di crescita di una popolazione, si commenti il significato del valore iniziale, dell'asintoto orizzontale e del punto di flesso.
+
+3) Si supponga che $f$ abbia equazione
+
+$$f(x)=\frac{a}{1+b\,e^{-bx}}$$
+
+Si determinino le costanti $a$ e $b$ in modo che siano soddisfatte le condizioni $f(2)=4$ e $f'(2)=2$.
+
+4) Si calcoli $\displaystyle\int_{0}^{2} f''(x)\,dx$, interpretandone il risultato.
+
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
+**Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Risoluzione di equazioni differenziali]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Integrazione (calcolo di integrali)]]
+**Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Interpretazione e formalizzazione del testo]]
+**Tipo funzione:** [[Esponenziale]], [[Mista  trascendente composita|Mista / trascendente composita]]
+**Soluzione:** [[Svolgimenti/sol_prob_2013_pni_2013_problema1_150_1|📝 Svolgimento]] · [📄 PDF p.150](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+
+
+#maturita/problema #area/analisi #cluster/studio_di_funzione

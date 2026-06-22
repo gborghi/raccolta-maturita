@@ -12,12 +12,9 @@ tags:
 title: 2003 PNI Straordinaria — Problema 2
 ---
 
-# 2003 PNI Straordinaria — Problema 2
-
-Fonte:  · p.160 · 📄 Apri PDF
+Fonte: p.160 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
-## Problema 1
 
 Un gruppo di persone è costituito da $3$ uomini e dalle rispettive mogli. Ciascun uomo sceglie a caso una fra le $3$ donne, con uguali possibilità di scelta, per un giro di ballo.
 
@@ -39,7 +36,7 @@ Un gruppo di persone è costituito da $3$ uomini e dalle rispettive mogli. Ciasc
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2003_pni_2003_sessione_straordinaria_problema2_160#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.160
+**Soluzione:** [[Soluzioni/2003_pni_2003_sessione_straordinaria_problema2_160#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.160](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/probabilita_e_combinatoria #cluster/probabilit_e_combinatoria

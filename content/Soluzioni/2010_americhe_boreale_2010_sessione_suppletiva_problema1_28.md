@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2010_americhe_boreale_2010_sessione_suppletiva_problema1_28
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_americhe_boreale_2010_sessione_suppletiva_problema1_28
+title: 2010 Americhe Boreale Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2010_americhe_boreale_2010_sessione_suppletiva_problema1_28
 
-## Problema 1
 
 Americhe boreale 2010
 Sessione Suppletiva - Problema $1$

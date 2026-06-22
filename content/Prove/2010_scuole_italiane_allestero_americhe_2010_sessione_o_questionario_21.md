@@ -12,9 +12,7 @@ tags:
 title: 2010 Estero Americhe Ordinaria — Questionario
 ---
 
-# 2010 Estero Americhe Ordinaria — Questionario
-
-Fonte:  · p.21 · 📄 Apri PDF
+Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.21 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.21 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.21
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.21 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.21 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.21 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
@@ -69,17 +67,17 @@ Fonte:  · p.21 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
 **Quesito 7.** Si disegni, nell'intervallo $]-\pi;\,\pi]$, il grafico della funzione $f(x)=\dfrac{1}{2}|\cos x|-1$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.24
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
@@ -90,7 +88,7 @@ $$\lim_{a\to+\infty}\frac{OP}{PT}.$$
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

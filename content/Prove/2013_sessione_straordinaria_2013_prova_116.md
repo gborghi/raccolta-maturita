@@ -12,10 +12,8 @@ tags:
 title: 2013 Straordinaria — Prova
 ---
 
-# 2013 Straordinaria — Prova
-
-Fonte:  · p.116 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.116 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -30,11 +28,11 @@ $$f(x)=\frac{1-x^2}{4x^2}.$$
 
 4. Si calcoli l'area della superficie piana $\Sigma$, delimitata dalla curva $\gamma$, dall'asse $x$ e dalla retta $y=1/2$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Euclidea]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Euclidea]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
 
@@ -49,20 +47,20 @@ $$f(x)=\ln(x^2+1).$$
 
 4. La superficie $S$ è la base di un solido $\Sigma$, le cui sezioni, ottenute con piani perpendicolari all'asse $y$, sono tutte triangoli equilateri. Si calcoli il volume di $\Sigma$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 1
 
 1. Un ufficiale della guardia di finanza, in servizio lungo un tratto rettilineo di costa, avvista una motobarca di contrabbandieri che dirige in linea retta, perpendicolarmente alla costa, verso un vecchio faro abbandonato. L'angolo tra la direzione della costa e il raggio visivo dell'ufficiale che guarda la motobarca è di $34,6°$; al natante si trova a $6$ miglia marine dal faro e si muove con una velocità di $18$ nodi (miglia marine all'ora). L'ufficiale ordina di salire immediatamente in macchina, in modo da raggiungere il faro, percorrendo una strada parallela alla spiaggia, $10$ minuti prima che vi approdino i contrabbandieri, per coglierli con le mani nel sacco. A che velocità media, in km/h, deve muoversi l'automezzo della guardia di finanza per arrivare nei tempi previsti? (Un miglio marino = $1853,182\,m$).
 
-**Topic:** [[Trigonometria]], [[Fisica]]
+**Topic:** [[Trigonometria]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
 
@@ -71,7 +69,7 @@ $$f(x)=\ln(x^2+1).$$
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 3
 
@@ -82,7 +80,7 @@ risulti massima.
 **Topic:** [[Trigonometria]], [[Massimi e Minimi]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
 
@@ -93,7 +91,7 @@ nel punto $P$ di ascissa $x=2$.
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 5
 
@@ -102,38 +100,38 @@ nel punto $P$ di ascissa $x=2$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
 
 6. Si determinino le equazioni degli asintoti della curva:
 $$f(x)=\frac{e^x}{e^x-1}.$$
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Esponenziale]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 7
 
 7. Si determini il campo di esistenza della funzione:
 $$y=\arccos(e^{2sen x}-1), \qquad con \quad 0\leq x\leq 2\pi.$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
 
 8. Un cubo di alluminio (densità $\rho=2,7\,g/cm^3$), avente lo spigolo $l=10\,cm$, presenta all'interno una cavità a forma di cilindro equilatero, avente il raggio di lunghezza $r_1=2,5\,cm$. Si calcoli la massa del cubo.
 
-**Topic:** [[Geometria Solida]], [[Fisica]]
+**Topic:** [[Geometria Solida]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 9
 
@@ -144,7 +142,7 @@ nell'intervallo $0\leq x\leq \pi/3$.
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
 
@@ -153,7 +151,7 @@ nell'intervallo $0\leq x\leq \pi/3$.
 **Topic:** [[Geometria Euclidea]], [[Geometria Solida]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

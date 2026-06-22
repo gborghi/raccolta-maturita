@@ -12,12 +12,15 @@ tags:
 title: 2024 Liceo Scientifico — Problema 2
 ---
 
-# 2024 Liceo Scientifico — Problema 2
+Fonte: p.9 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.9 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2024_liceo_scientifico_2024_problema2_9/2024_liceo_scientifico_2024_problema2_9_fig.svg]]
+*Grafico $\alpha$ della funzione $f_2(x)=|x|-\sqrt{1-x^2}$ su $[-1,1]$, simmetrico rispetto all'asse $y$, con punto angoloso in $(0,-1)$ ed estremi in $(\pm1,1)$.*
+
+<!--fig:end-->
 
 *«All'inizio e alla fine, abbiamo il mistero. […] A questo mistero la matematica ci avvicina, pur senza penetrarlo». (E. De Giorgi)*
 
@@ -33,11 +36,11 @@ c) La retta $r$, di equazione $x=k$, con $-1<k<1$, interseca $\gamma$ nei punti 
 
 d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\right)$ è una primitiva della funzione $h(x)=\sqrt{1-x^2}$. Con il metodo che si ritiene più opportuno, calcolare l'area della regione finita di piano delimitata da $\gamma$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2024_liceo_scientifico_2024_problema2_9#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.9
+**Soluzione:** [[Soluzioni/2024_liceo_scientifico_2024_problema2_9#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.9](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

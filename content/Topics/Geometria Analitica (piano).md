@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Geometria Analitica (piano)
-
 *Argomento* — **376** problemi/quesiti.
 
 ## Problemi e quesiti

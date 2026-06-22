@@ -12,12 +12,9 @@ tags:
 title: 1999 Sperimentale — Problema 2
 ---
 
-# 1999 Sperimentale — Problema 2
-
-Fonte:  · p.28 · 📄 Apri PDF
+Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In un piano $\pi$ è assegnato il triangolo $ABC$, retto in $B$, i cui cateti $AB$ e $BC$ misurano rispettivamente $4$ e $3$.
 
@@ -38,7 +35,7 @@ e. detto $D$ il punto medio di $VB$ ed $E$ il punto di $AC$ tale che $AE = AB$, 
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/1999_sperimentale_1999_problema2_28#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/1999_sperimentale_1999_problema2_28#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

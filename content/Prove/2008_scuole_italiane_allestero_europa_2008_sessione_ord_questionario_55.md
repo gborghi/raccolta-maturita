@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Europa Ordinaria — Questionario
 ---
 
-# 2008 Estero Europa Ordinaria — Questionario
-
-Fonte:  · p.55 · 📄 Apri PDF
+Fonte: p.55 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Il candidato risolva uno dei due problemi e risponda a 4 degli 8 quesiti del questionario.
 
@@ -41,7 +38,7 @@ $$f:x\to 5^{x+1}\;;\qquad g:x\to 5^x+1\;;\qquad h:x\to 5^{|x|}\;;\qquad k:x\to 5
 **Topic:** [[Geometria Solida]], [[Trigonometria]], [[Esponenziali e Logaritmi]], [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_europa_2008_sessione_ord_questionario_55#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.55
+**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_europa_2008_sessione_ord_questionario_55#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

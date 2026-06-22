@@ -12,12 +12,9 @@ tags:
 title: 2012 Ordinamento Suppletiva — Problema 1
 ---
 
-# 2012 Ordinamento Suppletiva — Problema 1
+Fonte: p.55 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.55 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Un trapezio isoscele è circoscritto ad una semicirconferenza di raggio $1$, in modo che la base maggiore contenga il diametro.
 
@@ -30,11 +27,11 @@ $$V(x)=\frac{\pi}{3}\cdot\frac{\cos^2 x-3\cos x+3}{\operatorname{sen}^2 x}$$
 
 **4)** Si calcoli l'area della superficie piana, delimitata dalla curva $\gamma$, dall'asse $x$ e dalle rette di equazione $x=\frac{\pi}{4}$ e $x=\frac{\pi}{2}$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2012_ordinamento_2012_sessione_suppletiva_problema1_55#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.55
+**Soluzione:** [[Soluzioni/2012_ordinamento_2012_sessione_suppletiva_problema1_55#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

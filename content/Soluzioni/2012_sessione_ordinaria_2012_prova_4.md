@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2012_sessione_ordinaria_2012_prova_4
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_sessione_ordinaria_2012_prova_4
+title: Sessione ordinaria 2012 — Prova — Svolgimento
 ---
-# Soluzioni — 2012_sessione_ordinaria_2012_prova_4
 
 ## Problema 1
 

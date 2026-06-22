@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2008_pni_2008_sessione_suppletiva_problema2_86
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: Soluzioni — 2008_pni_2008_sessione_suppletiva_problema2_86
+title: 2008 PNI Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2008_pni_2008_sessione_suppletiva_problema2_86
 
-## Problema 1
 
 PNI 2008 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

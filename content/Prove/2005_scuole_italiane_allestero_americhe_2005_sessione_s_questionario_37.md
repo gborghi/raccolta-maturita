@@ -12,10 +12,8 @@ tags:
 title: 2005 Americhe Suppletiva — Questionario
 ---
 
-# 2005 Americhe Suppletiva — Questionario
-
-Fonte:  · p.37 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.37 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.37 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.37 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -44,17 +42,17 @@ $$\lim_{n \to \infty} \frac{S_n}{n^2}.$$
 **Topic:** [[Successioni e Serie]], [[Limiti e Continuita]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
 **Quesito 4.** È vero o falso che il grafico della funzione $\ln(x+2)^2$ coincide con quello della funzione $2\ln(x+2)$? Fornire una esauriente spiegazione della risposta.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -63,7 +61,7 @@ $$\lim_{n \to \infty} \frac{S_n}{n^2}.$$
 **Topic:** [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.39
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -72,16 +70,16 @@ $$\lim_{n \to \infty} \frac{S_n}{n^2}.$$
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
 **Quesito 7.** Fornire un esempio di funzione reale di variabile reale $f(x)$ tale che $f(0)=0$, $f'(1)=1$, $f''(2)=2$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

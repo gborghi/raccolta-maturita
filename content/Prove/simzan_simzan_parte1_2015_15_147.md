@@ -12,10 +12,8 @@ tags:
 title: 'Simulazione Zanichelli 2015 — SimZan parte1 #15'
 ---
 
-# Simulazione Zanichelli 2015 — SimZan parte1 #15
-
-Fonte:  · p.147 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -43,11 +41,11 @@ e) Che significato ha il rapporto $\displaystyle p=\frac{\int_0^4 f(t)\,dt}{S(14
 
 f) Calcola la percentuale di studenti che hanno dichiarato una durata delle conversazioni maggiore di 2 ore e minore o uguale a 3 ore, sia secondo i dati dell'istogramma sia secondo il modello della funzione $f(t)$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Statistica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Statistica]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Statistica e analisi dati]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Analisi e interpretazione di dati e probabilita]], [[Interpretazione e formalizzazione del testo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
 
@@ -70,11 +68,11 @@ Considera ora il riferimento cartesiano $Oxyz$ avente origine nel vertice in bas
 
 e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane della retta $r$ congiungente i punti $L'\big(x_L;y_L;p(x_L;y_L)\big)$ e $H'\big(x_H;y_H;p(x_H;y_H)\big)$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 1
 
@@ -83,7 +81,7 @@ e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane dell
 **Topic:** [[Equazioni Differenziali]], [[Derivate]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
 
@@ -92,7 +90,7 @@ e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane dell
 **Topic:** [[Massimi e Minimi]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
 
@@ -101,7 +99,7 @@ e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane dell
 **Topic:** [[Geometria nello Spazio]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
 
@@ -111,7 +109,7 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 **Topic:** [[Limiti e Continuita]], [[Funzioni Integrali]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
 
@@ -120,7 +118,7 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 6
 
@@ -129,7 +127,7 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
 
@@ -137,11 +135,11 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
    a) Stabilisci se $f(x)$ soddisfa le ipotesi del teorema di Rolle nell'intervallo $[-1;1]$.
    b) Stabilisci se $f(x)$ ammette punti di flesso nell'intervallo $[-1;1]$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
 
@@ -149,11 +147,11 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 $$y=\frac{2(1-x^2)}{(x^2+1)^2},$$
 determina le equazioni degli altri due. *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 9
 
@@ -162,7 +160,7 @@ determina le equazioni degli altri due. *(figura nel PDF)*
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
 
@@ -171,7 +169,7 @@ determina le equazioni degli altri due. *(figura nel PDF)*
 **Topic:** [[Probabilita]], [[Statistica]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

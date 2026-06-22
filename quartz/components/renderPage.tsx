@@ -236,16 +236,17 @@ export function renderPage(
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
       <body data-slug={slug}>
+        {/* Full-width masthead navbar rendered at body level (outside the grid),
+            like the physics site: it spans the viewport and reserves its own
+            height so the sidebars sit below it instead of under it. */}
+        {header.map((HeaderComponent) => (
+          <HeaderComponent {...componentData} />
+        ))}
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
               <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
                 <div class="popover-hint">
                   {beforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />

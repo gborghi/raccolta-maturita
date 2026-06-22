@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2009_estero_calendario_australe_ordinaria_2009_problema2_32
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_estero_calendario_australe_ordinaria_2009_problema2_32
+title: 2009 Estero Australe Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2009_estero_calendario_australe_ordinaria_2009_problema2_32
 
-## Problema 2
 
 Estero (calendario australe)
 Ordinaria $2009-$ Problema $2$

@@ -12,9 +12,7 @@ tags:
 title: 1942 Tema di maturita
 ---
 
-# 1942 Tema di maturita
-
-Fonte:  · p.88 · 📄 Apri PDF
+Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -24,7 +22,7 @@ Nel trapezio $ABCD$ di basi $AD$, $BC$ ($AD>BC$), le lunghezze del lato obliquo 
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.88
+**Fonte:** [📄 Testo (PDF) — p.88](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -45,7 +43,7 @@ Di un triangolo rettangolo $ABC$ si conosce l'ipotenusa $|\overline{BC}|=2a$ e l
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Sistemi di equazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Fonte:** 📄 Testo (PDF) — p.88
+**Fonte:** [📄 Testo (PDF) — p.88](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

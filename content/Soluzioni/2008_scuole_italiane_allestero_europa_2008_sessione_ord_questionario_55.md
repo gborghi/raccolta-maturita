@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2008_scuole_italiane_allestero_europa_2008_sessione_ord_questionario_55
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: >-
-  Soluzioni —
-  2008_scuole_italiane_allestero_europa_2008_sessione_ord_questionario_55
+title: 2008 Estero Europa Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2008_scuole_italiane_allestero_europa_2008_sessione_ord_questionario_55
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2008
 

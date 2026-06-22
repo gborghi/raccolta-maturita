@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2007_liceo_scientifico_pni_2007_sessione_straordinaria_problema2_139
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_liceo_scientifico_pni_2007_sessione_straordinaria_problema2_139
+title: 2007 LS PNI Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2007_liceo_scientifico_pni_2007_sessione_straordinaria_problema2_139
 
-## Problema 1
 
 Liceo Scientifico PNI 2007
 Sessione $Straordinaria-$ Problema $2$

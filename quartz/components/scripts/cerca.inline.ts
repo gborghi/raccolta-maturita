@@ -6,6 +6,7 @@
 interface P {
   href: string
   title: string
+  tipo: string
   anno: string
   area: string
   cluster: string
@@ -24,6 +25,7 @@ interface Facet {
 }
 
 const FACETS: Facet[] = [
+  { key: "tipo", label: "Tipo" },
   { key: "anno", label: "Anno" },
   { key: "area", label: "Area" },
   { key: "cluster", label: "Cluster" },
@@ -139,9 +141,11 @@ async function init() {
 
   let sortKey: keyof P = "anno"
   let sortDir = -1
+  let page = 0
+  const PAGE_SIZE = 50
   function renderResults() {
     if (selected.size === 0) {
-      resultsBox.innerHTML = `<p class="cerca-hint">Seleziona dei tag qui sopra per vedere le prove.</p>`
+      resultsBox.innerHTML = `<p class="cerca-hint">Seleziona dei tag qui sopra per vedere i problemi e quesiti.</p>`
       return
     }
     let rows = data.filter(matches)
@@ -156,13 +160,17 @@ async function init() {
       if (a.title !== b.title) return a.title < b.title ? -1 : 1
       return 0
     })
-    const total = rows.length
-    const shown = rows.slice(0, MAX_ROWS)
+    const total = Math.min(rows.length, MAX_ROWS)
+    const pages = Math.max(1, Math.ceil(total / PAGE_SIZE))
+    if (page >= pages) page = pages - 1
+    if (page < 0) page = 0
+    const start = page * PAGE_SIZE
+    const shown = rows.slice(start, start + PAGE_SIZE)
     const cols: [keyof P, string][] = [
-      ["title", "Prova"],
+      ["title", "Problema / Quesito"],
       ["summary", "Testo"],
+      ["tipo", "Tipo"],
       ["anno", "Anno"],
-      ["cluster", "Cluster"],
     ]
     const head = cols
       .map(
@@ -173,14 +181,27 @@ async function init() {
     const body = shown
       .map(
         (r) =>
-          `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.title) || "(prova)"}</a></td>` +
-          `<td>${esc(r.summary)}</td><td>${esc(r.anno)}</td><td>${esc(r.cluster)}</td></tr>`,
+          `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.title) || "(item)"}</a></td>` +
+          `<td>${esc(r.summary)}</td><td>${esc(pretty(undefined, r.tipo))}</td><td>${esc(r.anno)}</td></tr>`,
       )
       .join("")
-    const note = total > MAX_ROWS ? ` (mostrate le prime ${MAX_ROWS})` : ""
+    const note = rows.length > MAX_ROWS ? ` (limitati a ${MAX_ROWS})` : ""
+    const from = total === 0 ? 0 : start + 1
+    const to = start + shown.length
+    const pager =
+      pages > 1
+        ? `<div class="cerca-pager">` +
+          `<button class="cerca-page-btn" data-go="first" ${page === 0 ? "disabled" : ""}>« Prima</button>` +
+          `<button class="cerca-page-btn" data-go="prev" ${page === 0 ? "disabled" : ""}>‹ Prec</button>` +
+          `<span class="cerca-page-info">${from}–${to} di ${total} · pagina ${page + 1}/${pages}</span>` +
+          `<button class="cerca-page-btn" data-go="next" ${page >= pages - 1 ? "disabled" : ""}>Succ ›</button>` +
+          `<button class="cerca-page-btn" data-go="last" ${page >= pages - 1 ? "disabled" : ""}>Ultima »</button>` +
+          `</div>`
+        : ""
     resultsBox.innerHTML =
-      `<div class="cerca-count"><strong>${total}</strong> prove${note}</div>` +
-      `<table class="qtable-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`
+      `<div class="cerca-count"><strong>${rows.length}</strong> problemi e quesiti${note}</div>` +
+      `<table class="qtable-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>` +
+      pager
     resultsBox.querySelectorAll<HTMLElement>("th.qtable-th").forEach((th) =>
       th.addEventListener("click", () => {
         const k = th.dataset.k as keyof P
@@ -189,7 +210,19 @@ async function init() {
           sortKey = k
           sortDir = 1
         }
+        page = 0
         renderResults()
+      }),
+    )
+    resultsBox.querySelectorAll<HTMLElement>(".cerca-page-btn").forEach((b) =>
+      b.addEventListener("click", () => {
+        const go = b.dataset.go
+        if (go === "first") page = 0
+        else if (go === "prev") page -= 1
+        else if (go === "next") page += 1
+        else if (go === "last") page = pages - 1
+        renderResults()
+        resultsBox.scrollIntoView({ behavior: "smooth", block: "start" })
       }),
     )
   }
@@ -228,6 +261,7 @@ async function init() {
   }
 
   function render() {
+    page = 0
     syncChipStates()
     renderSelected()
     renderResults()

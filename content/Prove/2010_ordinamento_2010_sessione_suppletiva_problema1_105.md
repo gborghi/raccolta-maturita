@@ -12,12 +12,9 @@ tags:
 title: 2010 Ordinamento Suppletiva — Problema 1
 ---
 
-# 2010 Ordinamento Suppletiva — Problema 1
+Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.105 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Data una circonferenza di centro $O$ e raggio unitario, si prendano su di essa tre punti $A$, $B$, $C$, tali che $AB = BC$. *(figura nel PDF)*
 
@@ -32,11 +29,11 @@ $$f(x) = -4\cos^2 x - 4\cos x + 8$$
 
 4. Si calcoli il valore medio della funzione $f(x)$ nell'intervallo $0 \le x \le 2\pi$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2010_ordinamento_2010_sessione_suppletiva_problema1_105#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.105
+**Soluzione:** [[Soluzioni/2010_ordinamento_2010_sessione_suppletiva_problema1_105#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.105](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,12 +12,9 @@ tags:
 title: 2010 Liceo Comunicazione Ordinaria — Problema 1
 ---
 
-# 2010 Liceo Comunicazione Ordinaria — Problema 1
-
-Fonte:  · p.80 · 📄 Apri PDF
+Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Sia $\lambda$ la parabola d'equazione $f(x) = 1 + x^2$.
 
@@ -32,7 +29,7 @@ d) Si calcoli $\displaystyle\int_0^1 \dfrac{dx}{f(x)}$ e lo si interpreti geomet
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema1_80#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema1_80#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -12,9 +12,7 @@ tags:
 title: 1888 Tema di maturità
 ---
 
-# 1888 Tema di maturità
-
-Fonte:  · p.49 · 📄 Apri PDF
+Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -24,7 +22,7 @@ Fonte:  · p.49 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]], [[Successioni e Serie]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.49
+**Fonte:** [📄 Testo (PDF) — p.49](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
 
@@ -33,7 +31,7 @@ Fonte:  · p.49 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]], [[Successioni e Serie]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.49
+**Fonte:** [📄 Testo (PDF) — p.49](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -42,7 +40,7 @@ Fonte:  · p.49 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.49
+**Fonte:** [📄 Testo (PDF) — p.49](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

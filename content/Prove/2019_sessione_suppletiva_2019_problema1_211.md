@@ -12,12 +12,9 @@ tags:
 title: 2019 Suppletiva — Problema 1
 ---
 
-# 2019 Suppletiva — Problema 1
+Fonte: p.211 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.211 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Al variare di $a\in\mathbb{R}$, si consideri la famiglia di funzioni:
 $$f_a(x)=\begin{cases}\dfrac{9}{2}\left(1+x\,e^{a-x}\right) & \text{per } x\ge 0\\[8pt]\dfrac{9a}{4(x-1)^4} & \text{per } x<0\end{cases}$$
@@ -32,11 +29,11 @@ c) Con un acceleratore di particelle si prepara un fascio di protoni aventi ener
 
 d) Il fascio di protoni, all'uscita della zona in cui è presente $\vec{B}$, viene fatto penetrare in acqua. Si indichi con $\mathcal{E}(x)$ l'energia del protone, espressa in megaelettronvolt (MeV), dopo $x$ centimetri (cm) di cammino in acqua e sia $d\mathcal{E}$ l'energia ceduta all'acqua dal protone nel tratto $dx$. Supponendo che la funzione $y=-\dfrac{d\mathcal{E}}{dx}$ possa essere approssimata con la funzione $y=g(x)$, ponendo $h=\dfrac{9}{2}$ e $k=1$, calcolare l'energia $\mathcal{E}$ assorbita dall'acqua nei primi 3 centimetri di cammino del protone.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2019_sessione_suppletiva_2019_problema1_211#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.211
+**Soluzione:** [[Soluzioni/2019_sessione_suppletiva_2019_problema1_211#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.211](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

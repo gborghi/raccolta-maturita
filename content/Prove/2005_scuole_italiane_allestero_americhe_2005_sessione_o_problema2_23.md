@@ -12,12 +12,9 @@ tags:
 title: 2005 SE Americhe Ord — Problema 2
 ---
 
-# 2005 SE Americhe Ord — Problema 2
+Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.23 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione: $y = x^4 + ax^2 + b$, dove $a$ e $b$ sono parametri reali.
 
@@ -31,11 +28,11 @@ In un piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, sono 
 
 **e)** Calcolare infine le aree delle regioni in cui la curva $K$ divide il cerchio di centro $O$ e raggio $1$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_problema2_23#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.23
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_problema2_23#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

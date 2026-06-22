@@ -12,12 +12,16 @@ tags:
 title: 2015 Ordinaria — Prova (Italo-inglese/Spagnola)
 ---
 
-# 2015 Ordinaria — Prova (Italo-inglese/Spagnola)
-
-Fonte:  · p.111 · 📄 Apri PDF
+Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2015_sessione_ordinaria_2015_prova_111/2015_sessione_ordinaria_2015_prova_111_fig.svg]]
+*Grafico $\Gamma$ della funzione $y=f(x)$ su $[-3,3]$ con tangenti orizzontali in $x=-1,1,2$ e le regioni A, B, C, D delimitate dalla curva e dall'asse $x$.*
+
+<!--fig:end-->
 
 La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, disegnato in figura 1. $\Gamma$ presenta tangenti orizzontali per $x=-1$, $x=1$, $x=2$. Le aree delle regioni A, B, C e D sono rispettivamente 2, 3, 3 e 1. Sia $g(x)$ una primitiva di $f(x)$ tale che $g(3)=-5$. *(figura nel PDF)*
 
@@ -32,7 +36,7 @@ La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, diseg
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]], [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.111
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Problema 2
 
@@ -46,11 +50,11 @@ Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con F e G
 
 4. detta A la regione piana finita delimitata dall'asse $y$, dalla retta di equazione $y=x-1$ e dal grafico G, calcola l'area di A e il volume del solido generato ruotando A intorno all'asse $y$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.111
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 1
 
@@ -59,7 +63,7 @@ Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con F e G
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.117
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.117](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
 
@@ -70,7 +74,7 @@ dove $R$ ed $r$ sono i raggi e $h$ l'altezza.
 **Topic:** [[Geometria Solida]], [[Calcolo Integrale]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.117
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.117](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 3
 
@@ -79,7 +83,7 @@ dove $R$ ed $r$ sono i raggi e $h$ l'altezza.
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.118
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
 
@@ -88,7 +92,7 @@ dove $R$ ed $r$ sono i raggi e $h$ l'altezza.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.118
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 5
 
@@ -97,7 +101,7 @@ dove $R$ ed $r$ sono i raggi e $h$ l'altezza.
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.118
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
 
@@ -108,7 +112,7 @@ determinare il minimo di $f$.
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.119
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.119](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
 
@@ -117,7 +121,7 @@ determinare il minimo di $f$.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.120
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
 
@@ -126,7 +130,7 @@ determinare il minimo di $f$.
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.121
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.121](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
 
@@ -134,11 +138,11 @@ determinare il minimo di $f$.
 $$f(x)=\begin{cases} x^3 & 0\le x\le 1\\ x^2-kx+k & 1<x\le 2\end{cases}$$
 determinare il parametro $k$ in modo che nell'intervallo $[0,2]$ sia applicabile il teorema di Lagrange e trovare il punto di cui la tesi del teorema assicura l'esistenza.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.111
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
 
@@ -147,7 +151,7 @@ determinare il parametro $k$ in modo che nell'intervallo $[0,2]$ sia applicabile
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.111
+**Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_111#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

@@ -12,12 +12,9 @@ tags:
 title: 1967 Tema di maturita
 ---
 
-# 1967 Tema di maturita
+Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.105 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 **Problema.** In un piano, riferito ad un sistema cartesiano ortogonale $Oxy$, si considerino le parabole di equazione:
 
@@ -30,11 +27,11 @@ essendo $m$ un parametro diverso da zero.
 3. Fra le parabole di equazione $(1)$ si studino quelle aventi per vertice o $A$ oppure $B$ e si provi che esse sono fra loro simmetriche rispetto al punto medio $C$ del segmento $AB$.
 4. Si calcoli l'area della regione finita limitata dalle due parabole di cui al punto 3.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Fonte:** 📄 Testo (PDF) — p.105
+**Fonte:** [📄 Testo (PDF) — p.105](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

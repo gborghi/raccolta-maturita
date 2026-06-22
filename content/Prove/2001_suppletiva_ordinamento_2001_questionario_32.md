@@ -12,9 +12,7 @@ tags:
 title: 2001 Suppletiva Ordinamento — Questionario
 ---
 
-# 2001 Suppletiva Ordinamento — Questionario
-
-Fonte:  · p.32 · 📄 Apri PDF
+Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -32,7 +30,7 @@ a) A vera – B vera   b) A vera – B falsa   c) A falsa – B vera   d) A fals
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.32
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.32](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 2
 
@@ -41,7 +39,7 @@ a) A vera – B vera   b) A vera – B falsa   c) A falsa – B vera   d) A fals
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.33
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 3
 
@@ -52,7 +50,7 @@ $$\sum_{k=0}^{n} \binom{n}{k} = 1048576$$
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 4
 
@@ -63,7 +61,7 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Topic:** [[Limiti e Continuita]], [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.35
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.35](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 5
 
@@ -72,7 +70,7 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.35
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.35](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 6
 
@@ -81,7 +79,7 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 7
 
@@ -90,7 +88,7 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 8
 
@@ -99,7 +97,7 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 9
 
@@ -108,7 +106,7 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 10
 
@@ -118,10 +116,10 @@ A) necessaria e sufficiente.   B) necessaria ma non sufficiente.   C) sufficient
 
 Una sola alternativa è corretta: individuarla e fornire un'esauriente spiegazione della risposta.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

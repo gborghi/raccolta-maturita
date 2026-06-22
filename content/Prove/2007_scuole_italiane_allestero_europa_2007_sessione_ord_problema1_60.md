@@ -12,12 +12,9 @@ tags:
 title: 2007 Estero Europa Ordinaria — Problema 1
 ---
 
-# 2007 Estero Europa Ordinaria — Problema 1
+Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.60 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la parabola $\Gamma$ d'equazione $f(x)=x^2+1$.
 
@@ -29,11 +26,11 @@ Si consideri la parabola $\Gamma$ d'equazione $f(x)=x^2+1$.
 
 4. Sia $F(t)=\displaystyle\int_0^t \frac{1}{f(x)}\,dx$. Si calcoli il limite per $t$ tendente ad infinito di $F(t)$ e si interpreti il risultato geometricamente.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Funzioni Integrali]], [[Limiti e Continuita]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Funzioni Integrali]], [[Limiti e Continuita]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_problema1_60#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_problema1_60#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

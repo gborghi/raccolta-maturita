@@ -12,12 +12,9 @@ tags:
 title: 2003 Straordinaria Ordinamento — Problema 2
 ---
 
-# 2003 Straordinaria Ordinamento — Problema 2
-
-Fonte:  · p.143 · 📄 Apri PDF
+Fonte: p.143 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 La base minore, la base maggiore e il perimetro di un trapezio isoscele misurano nell'ordine $6\ \text{cm}$, $10\ \text{cm}$, $4(4 + \sqrt{5})\ \text{cm}$.
 
@@ -36,7 +33,7 @@ La base minore, la base maggiore e il perimetro di un trapezio isoscele misurano
 **Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2003_ordinamento_2003_sessione_straordinaria_problema2_143#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.143
+**Soluzione:** [[Soluzioni/2003_ordinamento_2003_sessione_straordinaria_problema2_143#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.143](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

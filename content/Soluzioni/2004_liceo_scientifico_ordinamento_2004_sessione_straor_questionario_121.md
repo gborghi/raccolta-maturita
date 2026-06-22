@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
+title: 2004 Ordinamento Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
 
 ## Quesito 1
 

@@ -12,12 +12,9 @@ tags:
 title: 2009 Estero Australe Ordinaria — Problema 1
 ---
 
-# 2009 Estero Australe Ordinaria — Problema 1
-
-Fonte:  · p.30 · 📄 Apri PDF
+Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È assegnata la parabola $\lambda$ d'equazione $x^2 - 2y = 0$.
 
@@ -32,7 +29,7 @@ Fonte:  · p.30 · 📄 Apri PDF
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_estero_calendario_australe_ordinaria_2009_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.30
+**Soluzione:** [[Soluzioni/2009_estero_calendario_australe_ordinaria_2009_problema1_30#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

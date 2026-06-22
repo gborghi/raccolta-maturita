@@ -3,14 +3,9 @@ tipo: soluzione
 prova_stem: 2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: >-
-  Soluzioni —
-  2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53
+title: 2008 Estero Europa Ordinaria — Problema 2 — Svolgimento
 ---
 
-# Soluzioni — 2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53
-
-## Problema 1
 
 ### Punto 1)
 

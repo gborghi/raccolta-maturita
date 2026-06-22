@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2012_liceo_scientifico_ordinamento_2012_sessione_straor_questionario_100
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_liceo_scientifico_ordinamento_2012_sessione_straor_questionario_100
+title: 2012 Scientifico Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2012_liceo_scientifico_ordinamento_2012_sessione_straor_questionario_100
 
 ## Quesito 1
 

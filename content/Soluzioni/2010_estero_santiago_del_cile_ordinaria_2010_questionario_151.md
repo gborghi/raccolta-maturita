@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2010_estero_santiago_del_cile_ordinaria_2010_questionario_151
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_santiago_del_cile_ordinaria_2010_questionario_151
+title: 2010 Estero Santiago Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2010_estero_santiago_del_cile_ordinaria_2010_questionario_151
 
 ## Quesito 1
 

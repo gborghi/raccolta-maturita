@@ -12,10 +12,8 @@ tags:
 title: 2010 Scientifico Ordinamento Straordinaria — Questionario
 ---
 
-# 2010 Scientifico Ordinamento Straordinaria — Questionario
-
-Fonte:  · p.181 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.181 · 📄 Apri PDF
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.181 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.181 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
@@ -50,11 +48,11 @@ Fonte:  · p.181 · 📄 Apri PDF
 
 *(I restanti quesiti — 5 e seguenti — non rientrano nelle pagine disponibili; vedi PDF pp. 184-187.)*
 
-**Topic:** [[Massimi e Minimi]], [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Massimi e Minimi]], [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

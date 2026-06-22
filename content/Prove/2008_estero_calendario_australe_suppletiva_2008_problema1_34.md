@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Australe Suppletiva — Problema 1
 ---
 
-# 2008 Estero Australe Suppletiva — Problema 1
+Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.34 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Un'ellisse $\Sigma$ ha gli assi di lunghezza $4$ e $2$ e i fuochi sull'asse delle ascisse.
 
@@ -27,11 +24,11 @@ Un'ellisse $\Sigma$ ha gli assi di lunghezza $4$ e $2$ e i fuochi sull'asse dell
 
 **c)** Sia $R$ l'insieme piano delimitato da $\gamma$, dall'asse delle $x$, dalle rette $x=0$ e $x=2$. Si calcoli il volume del solido generato da $R$ in una rotazione completa attorno all'asse $x$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_suppletiva_2008_problema1_34#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2008_estero_calendario_australe_suppletiva_2008_problema1_34#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

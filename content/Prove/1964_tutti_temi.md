@@ -12,12 +12,9 @@ tags:
 title: 1964 Tema di maturita
 ---
 
-# 1964 Tema di maturita
-
-Fonte:  · p.102 · 📄 Apri PDF
+Fonte: p.102 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 [Conclusione del problema precedente] Determinare una parallela $r$ al lato $BC$ in guisa che, dette $MN$ e $PQ$ le corde che su $r$ staccano rispettivamente il triangolo e la circonferenza, si abbia:
 
@@ -43,7 +40,7 @@ Internamente al diametro $AB$ di una sfera di raggio $r$ si determinino i punti 
 **Topic:** [[Geometria Solida]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Studio di funzione completo]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Fonte:** 📄 Testo (PDF) — p.102
+**Fonte:** [📄 Testo (PDF) — p.102](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

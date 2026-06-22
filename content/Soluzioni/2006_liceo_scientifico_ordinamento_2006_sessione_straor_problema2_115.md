@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema2_115
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema2_115
+title: 2006 Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema2_115
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2006
 Sessione $Straordinaria-$ Problema $2$

@@ -12,12 +12,16 @@ tags:
 title: Straordinaria 2014 (PNI) — Prova
 ---
 
-# Straordinaria 2014 (PNI) — Prova
-
-Fonte:  · p.116 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.116 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2014_sessione_straordinaria_2014_prova_116/2014_sessione_straordinaria_2014_prova_116_fig.svg]]
+*Grafico di $f(\varphi)=\operatorname{sen}\varphi+\frac{5}{4}\cos\varphi$ con la retta $y=\frac{5}{4}$ e la regione $R$ compresa tra grafico e retta.*
+
+<!--fig:end-->
 
 Siano $ABC$ e $ABD$ due triangoli, il secondo rettangolo. Nel triangolo $ABC$ il lato $BC$ è il doppio di $CA=1$ mentre nel triangolo $ABD$, con $D$ dalla parte opposta di $C$ rispetto ad $AB$, il cateto $AB$ è il doppio di $BD$.
 
@@ -27,11 +31,11 @@ $$f(\varphi)=\operatorname{sen}\varphi+\frac{5}{4}\cos\varphi$$
 3. Si determini, in gradi e primi sessagesimali, il valore di $\varphi$ cui corrisponde il quadrilatero di area massima e si determinino area e perimetro di tale quadrilatero $R$.
 4. Sia $R$ la regione, indicata in figura, delimitata dal grafico di $f(\varphi)$ e dalla retta $y=\dfrac{5}{4}$. Si calcoli il volume del solido generato da $R$ nella rotazione completa attorno all'asse $x$. *(figura nel PDF)*
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]], [[Geometria Euclidea]], [[Calcolo Integrale]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Euclidea]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
 
@@ -42,11 +46,11 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 3. Utilizzando uno dei metodi di integrazione numerica studiati, si sfrutti l'uguaglianza precedente per calcolare un'approssimazione di $\ln 2$.
 4. La regione $\sigma$ è la base di un solido $\Omega$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte quadrati. Si calcoli il volume di $\Omega$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.116
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 1
 
@@ -55,7 +59,7 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
 
@@ -64,7 +68,7 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.127
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
 
@@ -73,7 +77,7 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
 
@@ -84,7 +88,7 @@ nel punto $P$ di ascissa $x=0$.
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
 
@@ -93,7 +97,7 @@ nel punto $P$ di ascissa $x=0$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
 
@@ -102,7 +106,7 @@ nel punto $P$ di ascissa $x=0$.
 **Topic:** [[Derivate]], [[Trigonometria]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
 
@@ -113,7 +117,7 @@ si calcoli un'approssimazione di $\dfrac{\pi}{4}$, utilizzando uno dei metodi di
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
 
@@ -123,7 +127,7 @@ $$\binom{n}{k+1}=\binom{n}{k-1}$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 9
 
@@ -132,7 +136,7 @@ $$\binom{n}{k+1}=\binom{n}{k-1}$$
 **Topic:** [[Probabilita]], [[Geometria Solida]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
 
@@ -141,7 +145,7 @@ $$\binom{n}{k+1}=\binom{n}{k-1}$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

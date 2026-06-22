@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: >-
-  Soluzioni —
-  2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69
+title: 2011 Liceo Comunicazione Ordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69
-
 ## Quesito 1
 
 Si trovi l'area della regione delimitata dalla curva $y = \cos(x)$ e dall'asse $x$ da $x = 1$ a $x = 2$ radianti.

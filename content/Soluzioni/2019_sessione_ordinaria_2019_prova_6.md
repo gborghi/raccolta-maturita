@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2019_sessione_ordinaria_2019_prova_6
 pdf: Prova_Maturita_2019.pdf
 source: text
-title: Soluzioni — 2019_sessione_ordinaria_2019_prova_6
+title: 2019 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2019_sessione_ordinaria_2019_prova_6
 
 ## Problema 1
 

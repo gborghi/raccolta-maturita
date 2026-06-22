@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2007_scuole_italiane_allestero_europa_2007_sessione_ord_problema2_63
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_scuole_italiane_allestero_europa_2007_sessione_ord_problema2_63
+title: 2007 Estero Europa Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2007_scuole_italiane_allestero_europa_2007_sessione_ord_problema2_63
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2007
 Sessione $Ordinaria-$ Problema $2$

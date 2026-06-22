@@ -12,12 +12,9 @@ tags:
 title: 2008 Ordinamento Straordinaria — Problema 1
 ---
 
-# 2008 Ordinamento Straordinaria — Problema 1
-
-Fonte:  · p.100 · 📄 Apri PDF
+Fonte: p.100 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Sia data la parabola: $y = ax^2 + bx + c$.
 
@@ -32,7 +29,7 @@ Sia data la parabola: $y = ax^2 + bx + c$.
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema1_100#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.100
+**Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema1_100#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

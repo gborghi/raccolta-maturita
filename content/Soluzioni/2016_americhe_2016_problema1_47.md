@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2016_americhe_2016_problema1_47
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_americhe_2016_problema1_47
+title: 2016 Americhe — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2016_americhe_2016_problema1_47
 
-## Problema 1
 
 Americhe 2016 - Problema $1$
 

@@ -12,12 +12,15 @@ tags:
 title: 2015 SIMULAZIONE - 25 FEBBRAIO 2015
 ---
 
-# 2015 SIMULAZIONE - 25 FEBBRAIO 2015
+Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.150 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2015_simulazione___25_febbraio_2015_problema1_150/2015_simulazione___25_febbraio_2015_problema1_150_fig.svg]]
+*Grafico della velocità v(t) in funzione del tempo: parabola con asse di simmetria t=5, vertice V(5,30) e passante per A(0,5).*
+
+<!--fig:end-->
 
 25-FEBBRAIO-2015_Problema1_150
 parent_node: prova_2015_simulazione___25_febbraio_2015_problema1_150
@@ -59,11 +62,11 @@ Il videogioco chiede quindi di determinare il tempo $t_{urto}$ in cui è avvenut
 
 5. studiare la legge oraria del primo meteorite nell'intervallo tra $0$ e $3\cdot t_{urto}$ secondi, evidenziando la presenza di eventuali punti di discontinuità e/o di non derivabilità e tracciandone il grafico.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Risoluzione di equazioni e disequazioni]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/2015_simulazione___25_febbraio_2015_problema1_150#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.150
+**Soluzione:** [[Soluzioni/2015_simulazione___25_febbraio_2015_problema1_150#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.150](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

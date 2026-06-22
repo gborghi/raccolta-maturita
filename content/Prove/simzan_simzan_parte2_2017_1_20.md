@@ -12,12 +12,16 @@ tags:
 title: 'Simulazione Zanichelli 2017 — SimZan parte2 #1'
 ---
 
-# Simulazione Zanichelli 2017 — SimZan parte2 #1
-
-Fonte:  · p.20 · 📄 Apri PDF
+Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/simzan_simzan_parte2_2017_1_20/simzan_simzan_parte2_2017_1_20_fig.svg]]
+*Figura 1: profilo della facciata (tetto) nel piano cartesiano sull'intervallo $[-10;10]$, con vertice in $(0,4)$ e le due rette tangenti tratteggiate uscenti dal vertice.*
+
+<!--fig:end-->
 
 Il tuo comune ha commissionato allo studio di progettazione Urban2000 il recupero di un capannone in stile modernista per realizzarne una sala polivalente ed uno spazio espositivo.
 
@@ -41,11 +45,11 @@ c. Disegna il grafico della funzione $g(x)$ e studia i punti di non derivabilit�
 
 d. Sapendo che il restauro delle vetrate costa 220 €/m², stima la spesa per il recupero delle finestre arrotondando il risultato alle decine di euro.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Irrazionale]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Problema 2
 
@@ -63,11 +67,11 @@ Considera, ora, la funzione $G:\mathbb{R}\to\mathbb{R}$ così definita: $G(x)=\d
 
 e. Verifica che la funzione $G(x)$ non ammette estremi relativi né assoluti e calcola $G(-2)$, $G\!\left(-\dfrac{3}{2}\right)$ e $G(0)$, senza aver preventivamente trovato l'espressione analitica di tale funzione. Dopo aver trovato i punti stazionari di $G(x)$ e avere studiato la concavità della funzione, traccia un grafico indicativo.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 1
 
@@ -76,17 +80,17 @@ e. Verifica che la funzione $G(x)$ non ammette estremi relativi né assoluti e c
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 2
 
 2. Determina per quali valori dei parametri reali $a$ e $b$ il grafico della funzione $f(x)=\sqrt{ax^2+bx}-x$ ammette come asintoto obliquo per $x\to+\infty$ la retta di equazione $y=2x+1$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 3
 
@@ -97,7 +101,7 @@ risultino ortogonali nel loro punto di intersezione $P$, quindi ricava le coordi
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 4
 
@@ -106,7 +110,7 @@ risultino ortogonali nel loro punto di intersezione $P$, quindi ricava le coordi
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 5
 
@@ -115,7 +119,7 @@ risultino ortogonali nel loro punto di intersezione $P$, quindi ricava le coordi
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 6
 
@@ -125,7 +129,7 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 7
 
@@ -134,7 +138,7 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 **Topic:** [[Equazioni Differenziali]], [[Derivate]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
 
@@ -145,7 +149,7 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 9
 
@@ -154,7 +158,7 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazione per induzione]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 10
 
@@ -163,7 +167,7 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

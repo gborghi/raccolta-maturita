@@ -12,12 +12,9 @@ tags:
 title: 2009 Ordinamento — Problema 2
 ---
 
-# 2009 Ordinamento — Problema 2
+Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.10 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia data la funzione $f(x)=\ln x$ e il suo grafico.
 
@@ -31,11 +28,11 @@ Sia data la funzione $f(x)=\ln x$ e il suo grafico.
 
 *(figura nel PDF)*
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2009_ordinamento_2009_problema2_10#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.10
+**Soluzione:** [[Soluzioni/2009_ordinamento_2009_problema2_10#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

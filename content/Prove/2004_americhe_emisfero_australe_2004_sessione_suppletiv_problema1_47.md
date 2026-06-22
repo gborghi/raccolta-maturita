@@ -12,12 +12,9 @@ tags:
 title: 2004 Americhe australe Suppletiva — Problema 1
 ---
 
-# 2004 Americhe australe Suppletiva — Problema 1
-
-Fonte:  · p.47 · 📄 Apri PDF
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Si riferisca il semicerchio $S$ di raggio $2$ ad un conveniente sistema di coordinate cartesiane ortogonali e monometriche $xy$ e si determinino:
 
@@ -30,7 +27,7 @@ c) Un'approssimazione in gradi sessagesimali dell'angolo che ciascuna diagonale 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Trigonometria]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

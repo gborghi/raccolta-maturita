@@ -12,9 +12,7 @@ tags:
 title: 1875 Tema di maturita
 ---
 
-# 1875 Tema di maturita
-
-Fonte:  · p.45 · 📄 Apri PDF
+Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -26,7 +24,7 @@ $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
 **Topic:** [[Equazioni e Disequazioni]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.45
+**Fonte:** [📄 Testo (PDF) — p.45](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -39,7 +37,7 @@ $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
 **Topic:** [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Fonte:** 📄 Testo (PDF) — p.45
+**Fonte:** [📄 Testo (PDF) — p.45](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
 
@@ -48,7 +46,7 @@ $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
 **Topic:** [[Geometria Analitica (piano)]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Interpretazione e formalizzazione del testo]]
-**Fonte:** 📄 Testo (PDF) — p.45
+**Fonte:** [📄 Testo (PDF) — p.45](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 4
 
@@ -57,7 +55,7 @@ $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
 **Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Interpretazione e formalizzazione del testo]]
-**Fonte:** 📄 Testo (PDF) — p.45
+**Fonte:** [📄 Testo (PDF) — p.45](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

@@ -12,10 +12,8 @@ tags:
 title: 2005 Suppletiva — Prova
 ---
 
-# 2005 Suppletiva — Prova
-
-Fonte:  · p.165 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.165 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 4. calcolare le aree delle parti in cui la parabola trovata divide i triangoli $ABC$ ed $MNP$;
 5. spiegare esaurientemente, col metodo preferito, com'è posizionata la circonferenza circoscritta al triangolo $MNP$ rispetto al triangolo $ABC$.
 
-**Topic:** [[Studio di Funzione]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.165
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.165](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Problema 2
 
@@ -50,7 +48,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Geometria Solida]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.165
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.165](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 1
 
@@ -59,7 +57,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.176
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.176](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -68,7 +66,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.177
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.177](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -77,7 +75,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.178
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.178](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
@@ -86,7 +84,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.179
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.179](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -101,7 +99,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.180
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.180](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -110,7 +108,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Derivate]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
@@ -119,17 +117,17 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
 
 8. È vero o falso che le due funzioni $\ln(x^2 - 4)$ e $\ln(x+2) - \ln(2-x)$ hanno lo stesso grafico? Fornire una esauriente spiegazione della risposta.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 9
 
@@ -138,7 +136,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
 
@@ -147,7 +145,7 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.183
+**Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.183](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

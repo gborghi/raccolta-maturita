@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2012_3_42
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2012_3_42
+title: 'Simulazione Zanichelli 2012 Sperimentale #3 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2012_3_42
-
 ## Problema 1
 
 La famiglia di funzioni è $y = kx + (1-x)e^{2x}$, con $k \in \mathbb{R}$.

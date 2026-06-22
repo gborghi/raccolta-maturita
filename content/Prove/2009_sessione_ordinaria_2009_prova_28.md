@@ -12,10 +12,8 @@ tags:
 title: 2009 Sessione Ordinaria Estero Americhe — Prova
 ---
 
-# 2009 Sessione Ordinaria Estero Americhe — Prova
-
-Fonte:  · p.28 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -32,7 +30,7 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Problema 2
 
@@ -41,21 +39,21 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 3. Si determini l'area della regione piana finita $R$ compresa tra il grafico di $P(x)$ e l'asse $x$.
 4. Si inscriva in $R$ un rettangolo, con uno dei lati sull'asse $x$. Come va scelto tale rettangolo affinché esso abbia area massima? Come va scelto tale rettangolo affinché, ruotandolo di un mezzo giro attorno all'asse $y$, si ottenga un cilindro di volume massimo?
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 1
 
 1. Si dimostri che l'equazione: $$x^{19}+19x+11=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
@@ -64,17 +62,17 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
 3. Si scrivano le equazioni di almeno due funzioni razionali fratte che hanno un asintoto obliquo.
 
-**Topic:** [[Studio di Funzione]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Astrazione e generalizzazione]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.35
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.35](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -83,7 +81,7 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -92,7 +90,7 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
@@ -101,7 +99,7 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -110,7 +108,7 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
@@ -121,7 +119,7 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

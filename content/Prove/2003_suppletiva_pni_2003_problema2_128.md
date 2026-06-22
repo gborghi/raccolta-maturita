@@ -12,12 +12,9 @@ tags:
 title: 2003 Suppletiva PNI — Problema 2
 ---
 
-# 2003 Suppletiva PNI — Problema 2
-
-Fonte:  · p.128 · 📄 Apri PDF
+Fonte: p.128 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In un trapezio rettangolo $ABCD$, circoscritto a un cerchio, $AB$ è la base maggiore, $CD$ la minore e $BC$ il lato obliquo. Le misure, considerate rispetto alla stessa unità di misura, del raggio del cerchio e del perimetro del trapezio sono nell'ordine $2$ e $18$.
 
@@ -36,7 +33,7 @@ e) Calcolare l'area della figura trasformata del cerchio inscritto nel trapezio 
 **Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_problema2_128#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.128
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_problema2_128#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

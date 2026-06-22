@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2023_sessione_ordinaria_2023_calendario_australe_2_prova_22
 pdf: Prova_Maturita_2023.pdf
 source: text
-title: Soluzioni — 2023_sessione_ordinaria_2023_calendario_australe_2_prova_22
+title: 2023 Ordinaria Australe 2 — Prova — Svolgimento
 ---
-# Soluzioni — 2023_sessione_ordinaria_2023_calendario_australe_2_prova_22
 
 ## Problema 1
 

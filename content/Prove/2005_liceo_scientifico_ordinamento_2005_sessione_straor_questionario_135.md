@@ -12,10 +12,8 @@ tags:
 title: 2005 Ordinamento Straordinaria — Questionario
 ---
 
-# 2005 Ordinamento Straordinaria — Questionario
-
-Fonte:  · p.135 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.135 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.135 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.136
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.136](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -44,7 +42,7 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 **Topic:** [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.137
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.137](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
@@ -53,7 +51,7 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.137
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.137](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -64,7 +62,7 @@ non supera $10000$.
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.138
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.138](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -73,7 +71,7 @@ non supera $10000$.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.138
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.138](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
@@ -82,7 +80,7 @@ non supera $10000$.
 **Topic:** [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
 
@@ -93,7 +91,7 @@ se ne può calcolare uno solo in base alle informazioni fornite. Dire quale e sp
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.139
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 9
 
@@ -104,7 +102,7 @@ dove $n$, $k$ sono numeri naturali tali che $0 < k < n$. Essa spiega una delle r
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.140
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.140](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
 
@@ -113,7 +111,7 @@ dove $n$, $k$ sono numeri naturali tali che $0 < k < n$. Essa spiega una delle r
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.141
+**Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

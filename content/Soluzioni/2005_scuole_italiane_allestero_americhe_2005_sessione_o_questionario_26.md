@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26
+title: 2005 Americhe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26
 
 ## Quesito 1
 

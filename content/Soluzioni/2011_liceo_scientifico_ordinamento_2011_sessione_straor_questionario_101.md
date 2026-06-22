@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2011_liceo_scientifico_ordinamento_2011_sessione_straor_questionario_101
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: >-
-  Soluzioni —
-  2011_liceo_scientifico_ordinamento_2011_sessione_straor_questionario_101
+title: 2011 Ordinamento Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2011_liceo_scientifico_ordinamento_2011_sessione_straor_questionario_101
 
 ## Quesito 1
 

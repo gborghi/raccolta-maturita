@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2005_scuole_italiane_allestero_europa_2005_sessione_ord_problema2_75
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: >-
-  Soluzioni —
-  2005_scuole_italiane_allestero_europa_2005_sessione_ord_problema2_75
+title: 2005 Europa Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2005_scuole_italiane_allestero_europa_2005_sessione_ord_problema2_75
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2005
 Sessione $Ordinaria-$ Problema $2$

@@ -12,12 +12,9 @@ tags:
 title: 2017 Straordinaria — Problema 2
 ---
 
-# 2017 Straordinaria — Problema 2
-
-Fonte:  · p.89 · 📄 Apri PDF
+Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Le funzioni $g_1,g_2,g_3,g_4$ sono definite nel modo seguente:
 $$g_1(x)=\frac{1}{2}x^2-\frac{1}{2}$$
@@ -43,11 +40,11 @@ ammette uno zero nell'intervallo $[\sqrt{e},\,e]$.
 
 4) Calcola il volume del solido ottenuto facendo ruotare di $\pi/3$ radianti intorno all'asse $x$ la regione di piano delimitata dalle rette di equazioni $x=-1$, $x=+1$ e dai grafici di $g_2$ e $g_1$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_problema2_89#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.89
+**Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_problema2_89#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.89](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

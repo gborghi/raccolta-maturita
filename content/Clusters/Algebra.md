@@ -6,8 +6,6 @@ tags:
   - cluster/algebra
 ---
 
-# Algebra
-
 *Cluster tematico* — **1 prove**.
 
 ## Prove

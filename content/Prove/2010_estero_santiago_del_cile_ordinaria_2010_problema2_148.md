@@ -12,12 +12,9 @@ tags:
 title: 2010 Estero Santiago Ordinaria — Problema 2
 ---
 
-# 2010 Estero Santiago Ordinaria — Problema 2
-
-Fonte:  · p.148 · 📄 Apri PDF
+Fonte: p.148 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Sia $AC$ una corda della semicirconferenza di diametro $AB=2$. Indicato con $D$ il punto medio dell'arco $BC$ si consideri il quadrilatero $ABDC$.
 
@@ -34,7 +31,7 @@ Sia $AC$ una corda della semicirconferenza di diametro $AB=2$. Indicato con $D$ 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_problema2_148#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.148
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_problema2_148#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.148](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

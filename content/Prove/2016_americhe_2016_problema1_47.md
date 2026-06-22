@@ -12,12 +12,9 @@ tags:
 title: 2016 Americhe — Problema 1
 ---
 
-# 2016 Americhe — Problema 1
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.47 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Considerata la funzione $G:\mathbb{R}\to\mathbb{R}$ così definita:
 
@@ -33,11 +30,11 @@ svolgi le richieste che seguono.
 
 4. Studia l'andamento dei coefficienti angolari delle rette tangenti alla funzione $G(x)$ nei suoi punti di flesso a tangente obliqua, determinando in particolare se tali rette formano un fascio di rette parallele.
 
-**Topic:** [[Funzioni Integrali]], [[Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]]
+**Topic:** [[Funzioni Integrali]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Funzione integrale]]
-**Soluzione:** [[Soluzioni/2016_americhe_2016_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2016_americhe_2016_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

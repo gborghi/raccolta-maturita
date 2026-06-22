@@ -3,10 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte1_2013_8_84
 pdf: SimZan_parte1.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte1_2013_8_84
+title: 'Simulazione Zanichelli 2013 Sperimentale #8 — Svolgimento'
 ---
-# Soluzioni — simzan_simzan_parte1_2013_8_84
-
 ## Problema 1
 
 **a)** Disegniamo la circonferenza mettendo in evidenza gli elementi indicati dal problema: il diametro $AC$, di lunghezza variabile, la corda $AB$ (con $AB = 1$) e la corda $BC$ (con $BC = x$, $x > 0$, $x < AC$).

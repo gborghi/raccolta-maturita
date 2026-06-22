@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Astrazione e generalizzazione
-
 *Competenza* — **75** problemi/quesiti.
 
 ## Problemi e quesiti

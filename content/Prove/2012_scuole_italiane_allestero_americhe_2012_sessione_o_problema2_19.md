@@ -12,12 +12,9 @@ tags:
 title: Scuole estero Americhe 2012 — Problema 2
 ---
 
-# Scuole estero Americhe 2012 — Problema 2
-
-Fonte:  · p.19 · 📄 Apri PDF
+Fonte: p.19 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Il grafico della funzione $g$, disegnato sotto, consiste di tre segmenti e di una semicirconferenza (con raggio $1$ e centro $(1,1)$).
 
@@ -35,7 +32,7 @@ $$f(x)=\int_{-3}^{x} g(t)\,dt.$$
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_americhe_2012_sessione_o_problema2_19#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.19
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_americhe_2012_sessione_o_problema2_19#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.19](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

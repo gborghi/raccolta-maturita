@@ -12,12 +12,16 @@ tags:
 title: 'Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)'
 ---
 
-# Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)
-
-Fonte:  · p.46 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/simzan_simzan_parte2_2019_2_46/simzan_simzan_parte2_2019_2_46_fig.svg]]
+*Spira quadrata conduttrice immersa in un campo magnetico uniforme uscente dal piano del foglio (rappresentato dalla griglia di punti).*
+
+<!--fig:end-->
 
 Si consideri la funzione reale di variabile reale $i(t)$ così definita:
 $$i(t)=\begin{cases} 2 & \text{se } 0\le t\le 2 \\ t^3+at^2+bt+c & \text{se } 2<t\le 5 \end{cases}$$
@@ -41,11 +45,11 @@ dove $k$ è una costante positiva. Considerato $L=40$ cm e $R=0{,}16\ \Omega$, d
 $$j(t)=\begin{cases} 2 & \text{se } 0\le t\le 2 \\ -2\cos\!\left(\dfrac{\pi}{2}t\right) & \text{se } 2<t\le 5 \end{cases}$$
 approssima in una certa misura l'andamento di $i(t)$ nell'intervallo $[0;5]$ secondi. Assumendo $j(t)$ come valore della corrente, calcolare l'energia termica $W$ dissipata per effetto Joule nell'intervallo $[0;5]$ secondi, motivando la risposta.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni differenziali]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Problema 2
 
@@ -67,11 +71,11 @@ $$f(X)\equiv\frac{R(X)}{a}\quad\text{con } a\equiv\frac{9\sqrt{3}\,\lambda q}{2\
 4. La funzione $f(X)$ possiede un punto di minimo relativo in $X_1=-\sqrt[4]{2}$. Determinare allora l'area della regione di piano $XY$ limitata dall'asse delle ascisse, l'asse delle ordinate, il grafico della funzione $f(X)$ e la retta verticale passante per $(X_1;0)$. Calcolare, infine, il seguente limite:
 $$\lim_{X\to-\infty}\frac{\int_X^{-2} f(z)\,dz}{\ln(-2X-1)}.$$
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Fisica]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 1
 
@@ -82,7 +86,7 @@ ammette un punto di flesso di ascissa $x=0$ e ricavare l'equazione della retta t
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 2
 
@@ -91,7 +95,7 @@ ammette un punto di flesso di ascissa $x=0$ e ricavare l'equazione della retta t
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 3
 
@@ -99,11 +103,11 @@ ammette un punto di flesso di ascissa $x=0$ e ricavare l'equazione della retta t
 $$f(x)=\begin{cases} ax^2+\dfrac{1}{2} & \text{se } x<1 \\ e^{b-x} & \text{se } x\ge 1 \end{cases}$$
 Determinare i parametri reali $a$ e $b$ in modo che la funzione risulti derivabile in tutto il suo dominio. Dopo aver tracciato i grafici di $f(x)$ e di $f'(x)$, dire se esiste $f''(1)$.
 
-**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 4
 
@@ -114,25 +118,25 @@ siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D
 **Topic:** [[Geometria nello Spazio]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Sistemi di equazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 5
 
 5. Nel diagramma in figura è rappresentata una trasformazione ciclica di un particolare sistema termodinamico. *(figura nel PDF)* Il tratto $AB$ è lineare; lungo il tratto $BC$ il prodotto $p\cdot V$ è costante; infine nel tratto $CA$ sussiste tra $p$ e $V$ una relazione del tipo $p=\alpha V+\beta$ dove $\alpha$ e $\beta$ sono due costanti reali. Ricavare i valori di $\alpha$ e $\beta$, specificandone l'unità di misura. Utilizzando il calcolo integrale, calcolare poi il lavoro totale $W$, in joule, compiuto dal sistema in un ciclo specificandone il segno e approssimando il risultato alle unità.
 
-**Topic:** [[Fisica]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Fisica|Fisica]], [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 6
 
 6. In un laboratorio posto sulla Terra, sotto una campana a vuoto uno ione Ag⁺ (carica pari a $+e$, massa $m=1{,}79\cdot10^{-25}$ kg) è lanciato obliquamente verso l'alto con una velocità iniziale di 1,53 m/s inclinata di 45° rispetto all'orizzontale e da un'altezza di 3,20 cm rispetto alla base della campana. La base stessa è elettrizzata con una carica negativa che genera un campo elettrico corrispondente a quello di una distribuzione piana e infinita di carica con densità superficiale di carica $\sigma=-7{,}92\cdot10^{-17}$ C/m². Determinare qual è la velocità con cui lo ione Ag⁺ colpisce la base della campana a vuoto e la durata del suo volo.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 7
 
@@ -140,10 +144,10 @@ siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D
    a. la densità volumica media di energia dell'onda elettromagnetica infrarossa;
    b. i valori massimi del campo elettrico e del campo magnetico dell'onda.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
 
@@ -151,10 +155,10 @@ siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D
 
 **Costanti fisiche.** Carica elementare $e=1{,}602\cdot10^{-19}$ C; costante di Planck $h=6{,}626\cdot10^{-34}$ J·s; costante dielettrica del vuoto $\varepsilon_0=8{,}854\cdot10^{-12}$ F/m; massa dell'elettrone $m_e=9{,}109\cdot10^{-31}$ kg; permeabilità magnetica del vuoto $\mu_0=4\pi\cdot10^{-7}$ N/A²; velocità della luce nel vuoto $c=2{,}998\cdot10^{8}$ m/s.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

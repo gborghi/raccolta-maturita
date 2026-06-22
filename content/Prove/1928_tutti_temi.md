@@ -12,12 +12,9 @@ tags:
 title: 1928 Tema di maturità
 ---
 
-# 1928 Tema di maturità
-
-Fonte:  · p.77 · 📄 Apri PDF
+Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È dato un angolo retto $X\widehat{O}Y$ e sono dati due punti $A$ e $B$ sui lati $OX$ ed $OY$ in modo che $\overline{OA} = \overline{OB}\sqrt{3}$. Determinare un punto $P$ interno all'angolo retto sapendo che l'angolo $\overline{OPA}$ è retto e che $\overline{OP}^2 + \overline{PB}^2 = k\,\overline{OB}^2$.
 
@@ -30,7 +27,7 @@ Determinare sopra un arco $\overline{AB}$, quarta parte di una circonferenza di 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Fonte:** 📄 Testo (PDF) — p.77
+**Fonte:** [📄 Testo (PDF) — p.77](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

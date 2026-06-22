@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2003_suppletiva_ordinamento_2003_problema2_110
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_suppletiva_ordinamento_2003_problema2_110
+title: 2003 Suppletiva Ordinamento — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2003_suppletiva_ordinamento_2003_problema2_110
 
-## Problema 1
 
 Suppletiva Ordinamento 2003 -
 Problema $2$

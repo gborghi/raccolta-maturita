@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2005_sessione_suppletiva_2005_prova_167
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_sessione_suppletiva_2005_prova_167
+title: 2005 Suppletiva PNI — Prova — Svolgimento
 ---
-# Soluzioni — 2005_sessione_suppletiva_2005_prova_167
 
 ## Problema 1
 

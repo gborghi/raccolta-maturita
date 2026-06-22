@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2005_suppletiva_2005_pni_questionario_120
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_suppletiva_2005_pni_questionario_120
+title: 2005 Suppletiva PNI — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2005_suppletiva_2005_pni_questionario_120
-
 ## Quesito 1
 
 È dato un trapezio rettangolo, in cui le bisettrici degli angoli adiacenti al lato obliquo si intersecano in un punto del lato perpendicolare alle basi. Dimostrare che il triangolo avente per vertici questo punto e gli estremi del lato obliquo è rettangolo e trovare quale relazione lega il lato obliquo alle basi del trapezio.

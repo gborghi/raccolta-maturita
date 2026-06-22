@@ -12,12 +12,9 @@ tags:
 title: 2007 Ordinamento Suppletiva — Problema 2
 ---
 
-# 2007 Ordinamento Suppletiva — Problema 2
+Fonte: p.92 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.92 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione
 
@@ -31,11 +28,11 @@ $$f(x)=e^{3x}+2e^{2x}-3e^{x}.$$
 
 4) Si calcoli l'area della superficie piana, delimitata dalla curva $C$, dall'asse $x$ e dalla retta di equazione $x=\log 3$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2007_ordinamento_2007_sessione_suppletiva_problema2_92#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.92
+**Soluzione:** [[Soluzioni/2007_ordinamento_2007_sessione_suppletiva_problema2_92#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.92](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

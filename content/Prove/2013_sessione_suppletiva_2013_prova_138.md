@@ -12,10 +12,8 @@ tags:
 title: 2013 Suppletiva — Prova
 ---
 
-# 2013 Suppletiva — Prova
-
-Fonte:  · p.138 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.138 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -32,11 +30,11 @@ $$f(x) = \frac{5x^2 - 3\sqrt{3}\,x + 3}{4(x^2+1)}.$$
 
 4. Si determini l'area della superficie piana, appartenente al II quadrante, delimitata dall'asse $y$, dalla curva $\gamma$ e dal suo asintoto.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Geometria Euclidea]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Geometria Euclidea]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.138
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.138](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
 
@@ -53,7 +51,7 @@ Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e l
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.138
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.138](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 1
 
@@ -62,7 +60,7 @@ Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e l
 **Topic:** [[Trigonometria]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.143
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.143](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
 
@@ -71,7 +69,7 @@ Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e l
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.143
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.143](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 3
 
@@ -82,7 +80,7 @@ nel punto $P$ di ordinata $y = 2$.
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.143
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.143](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
 
@@ -91,7 +89,7 @@ nel punto $P$ di ordinata $y = 2$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.144
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.144](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 5
 
@@ -100,26 +98,26 @@ nel punto $P$ di ordinata $y = 2$.
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Interpretazione e formalizzazione del testo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.144
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.144](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
 
 6. Si consideri la curva d'equazione $f(x) = x^3 - 3x$. La curva ha asintoti? In caso affermativo, se ne determinino le equazioni.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.144
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.144](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 7
 
 7. Un cubo di legno di pioppo (densità $\rho_1 = 0,385\ \text{g/cm}^3$) ed un tetraedro regolare di cristallo ($\rho_2 = 3,33\ \text{g/cm}^3$) hanno entrambi lo spigolo $l = 5\ \text{cm}$. Quale dei due ha la massa maggiore?
 
-**Topic:** [[Geometria Solida]], [[Fisica]]
+**Topic:** [[Geometria Solida]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.145
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
 
@@ -128,7 +126,7 @@ nel punto $P$ di ordinata $y = 2$.
 **Topic:** [[Calcolo Combinatorio]], [[Geometria Solida]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.145
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 9
 
@@ -139,7 +137,7 @@ nell'intervallo $1 \le x \le 4$.
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.145
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
 
@@ -150,7 +148,7 @@ _Durata massima della prova: 6 ore. È consentito l'uso della calcolatrice non p
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.145
+**Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

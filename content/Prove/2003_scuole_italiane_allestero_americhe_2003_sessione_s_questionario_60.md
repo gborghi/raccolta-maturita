@@ -12,10 +12,8 @@ tags:
 title: 2003 Americhe Suppletiva — Questionario
 ---
 
-# 2003 Americhe Suppletiva — Questionario
-
-Fonte:  · p.60 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.60 · 📄 Apri PDF
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
 
@@ -40,7 +38,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
 
@@ -49,7 +47,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
 
@@ -66,7 +64,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
 
@@ -74,11 +72,11 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 $$f(x)=\log\left(2x-\sqrt{4x-1}\right)$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Logaritmica]], [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
 
@@ -91,7 +89,7 @@ e, in caso di risposta affermativa, determinarli.
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
 
@@ -108,7 +106,7 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

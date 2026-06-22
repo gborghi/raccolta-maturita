@@ -12,12 +12,9 @@ tags:
 title: 2018 Suppletiva — Problema 2
 ---
 
-# 2018 Suppletiva — Problema 2
+Fonte: p.107 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.107 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fissato un numero reale $k>0$, si definiscono le funzioni:
 $$f_k(x)=k\cdot\ln(x) \qquad e \qquad g_k(x)=e^{\frac{x}{k}},$$
@@ -33,11 +30,11 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 
 4. Sia $A$ la regione limitata compresa tra i grafici $F_e$ e $G_e$ e gli assi cartesiani. Determina l'area di $A$ ed il volume del solido generato ruotando $A$ attorno a uno degli assi cartesiani.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Logaritmica]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2018_suppletiva_2018_problema2_107#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.107
+**Soluzione:** [[Soluzioni/2018_suppletiva_2018_problema2_107#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.107](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,10 +12,8 @@ tags:
 title: 2007 Estero Europa Ordinaria — Questionario
 ---
 
-# 2007 Estero Europa Ordinaria — Questionario
-
-Fonte:  · p.66 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.66 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,17 +22,17 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 2
 
 **Quesito 2.** Si traccino i grafici delle seguenti funzioni di $\mathbb{R}$ in $\mathbb{R}$: $$f:x\to 2^{x+1};\qquad g:x\to 2^x+1;\qquad h:x\to 2^{|x|};\qquad k:x\to 2^{-x}$$
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
 
@@ -43,7 +41,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.67
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
 
@@ -52,7 +50,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Successioni e Serie]], [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.68
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 5
 
@@ -61,7 +59,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.69
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
 
@@ -70,7 +68,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni differenziali]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 7
 
@@ -79,7 +77,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
 
@@ -88,7 +86,7 @@ Fonte:  · p.66 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.71
+**Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_europa_2007_sessione_ord_questionario_66#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.71](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

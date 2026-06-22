@@ -12,12 +12,9 @@ tags:
 title: 2009 Estero Australe Ordinaria — Problema 2
 ---
 
-# 2009 Estero Australe Ordinaria — Problema 2
+Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.32 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 2
 
 Sia $p(x) = ax^3 + bx^2 + cx + d$.
 
@@ -29,11 +26,11 @@ Sia $p(x) = ax^3 + bx^2 + cx + d$.
 
 **4)** Si determinino le aree di ciascuna delle due regioni che $\Gamma$ delimita con la retta per $F$ parallela alla bisettrice del primo e terzo quadrante.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2009_estero_calendario_australe_ordinaria_2009_problema2_32#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.32
+**Soluzione:** [[Soluzioni/2009_estero_calendario_australe_ordinaria_2009_problema2_32#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.32](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

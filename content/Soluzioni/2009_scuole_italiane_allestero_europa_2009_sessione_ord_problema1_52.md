@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema1_52
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: >-
-  Soluzioni —
-  2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema1_52
+title: 2009 Estero Europa — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema1_52
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2009
 Sessione $Ordinaria-$ Problema $1$

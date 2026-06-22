@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2014_pni_2014_sessione_suppletiva_problema1_90
 pdf: Prova_Maturita_2014.pdf
 source: text
-title: Soluzioni — 2014_pni_2014_sessione_suppletiva_problema1_90
+title: PNI 2014 Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2014_pni_2014_sessione_suppletiva_problema1_90
 
-## Problema 1
 
 PNI 2014 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

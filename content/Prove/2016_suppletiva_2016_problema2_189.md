@@ -12,12 +12,9 @@ tags:
 title: 2016 Suppletiva — Problema 2
 ---
 
-# 2016 Suppletiva — Problema 2
+Fonte: p.189 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.189 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fissato $k\in\mathbb{R}$, la funzione $g_k:\mathbb{R}\to\mathbb{R}$ è così definita: $g_k(x)=e^{-k\cdot x^2}$.
 
@@ -35,11 +32,11 @@ Assumi nel seguito $k>0$. Sia $S_k$ la regione di piano compresa tra l'asse $x$ 
 $$G(t)=2\pi\int_{0}^{t} x\cdot e^{-x^2}\,dx,$$
 determina il valore di $\displaystyle\lim_{t\to+\infty} G(t)$, e interpreta il risultato in termini geometrici.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2016_suppletiva_2016_problema2_189#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.189
+**Soluzione:** [[Soluzioni/2016_suppletiva_2016_problema2_189#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.189](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2018_scientifico_comunicazione_opzione_sportiva_2018_problema2_41
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_scientifico_comunicazione_opzione_sportiva_2018_problema2_41
+title: 2018 Scientifico Comunicazione Sportiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2018_scientifico_comunicazione_opzione_sportiva_2018_problema2_41
 
-## Problema 1
 
 Scientifico Comunicazione Opzione
 Sportiva 2018 - Problema $2$

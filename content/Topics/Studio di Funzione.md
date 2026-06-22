@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Studio di Funzione
-
 *Argomento* — **668** problemi/quesiti.
 
 ## Problemi e quesiti

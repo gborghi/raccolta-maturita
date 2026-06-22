@@ -12,10 +12,8 @@ tags:
 title: 2010 Liceo Comunicazione Ordinaria — Questionario
 ---
 
-# 2010 Liceo Comunicazione Ordinaria — Questionario
-
-Fonte:  · p.86 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.86 · 📄 Apri PDF
 **Topic:** [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Dimostrazione per induzione]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.86 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.86 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Trigonometria]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.87
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.86 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.87
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
@@ -60,27 +58,27 @@ Fonte:  · p.86 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.87
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
 **Quesito 6.** Si determini il dominio della funzione $f(x) = \sqrt{\cos x}$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
 **Quesito 7.** Data una funzione definita a tratti, polinomiale con $f(4) = 0$ a sinistra e contenente il parametro $k$ a destra, si determini il valore di $k$ affinché la funzione sia continua in $x = 4$.
 
-**Topic:** [[Limiti e Continuita]], [[Studio di Funzione]]
+**Topic:** [[Limiti e Continuita]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
@@ -91,7 +89,7 @@ e si determini il valore di $n$ che la soddisfa.
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 9
 
@@ -100,7 +98,7 @@ e si determini il valore di $n$ che la soddisfa.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Analisi e interpretazione di dati e probabilita]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.88
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
 
@@ -109,7 +107,7 @@ e si determini il valore di $n$ che la soddisfa.
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.89
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.89](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

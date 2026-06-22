@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Dipendente da un parametro
-
 *Tipo di funzione* — **152** problemi/quesiti.
 
 ## Problemi e quesiti

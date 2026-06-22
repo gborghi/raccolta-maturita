@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_americhe_2015_problema1_31
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_americhe_2015_problema1_31
+title: 2015 Americhe — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2015_americhe_2015_problema1_31
 
-## Problema 1
 
 Americhe 2015 - Problema $1$
 

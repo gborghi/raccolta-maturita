@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2012_liceo_scientifico_pni_2012_sessione_straordinaria_problema1_106
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_liceo_scientifico_pni_2012_sessione_straordinaria_problema1_106
+title: 2012 PNI Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2012_liceo_scientifico_pni_2012_sessione_straordinaria_problema1_106
 
-## Problema 1
 
 Liceo Scientifico PNI 2012
 Sessione $Straordinaria-$ Problema $1$

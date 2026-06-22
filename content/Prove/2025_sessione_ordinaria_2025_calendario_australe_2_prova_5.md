@@ -12,10 +12,8 @@ tags:
 title: 2025 Ordinaria Australe 2 — Prova
 ---
 
-# 2025 Ordinaria Australe 2 — Prova
-
-Fonte:  · p.5 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.5 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -31,11 +29,11 @@ c. Considerati i rettangoli con i lati paralleli agli assi cartesiani e inscritt
 
 d. Calcolare l'area della regione $R_k$ delimitata da $\gamma$, dal suo asintoto obliquo e dalle rette $x=k$ e $x=k^2$, con $k>1$. Determinare il valore di $k$ in corrispondenza del quale la suddetta area vale $\frac{1}{4}\ln\frac{17}{5}$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
 
@@ -55,11 +53,11 @@ c. Scrivere l'insieme immagine della funzione $f$ e, al variare del parametro re
 
 d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$. Calcolare $F\left(\frac{1}{4}\right)$, $F(2)$ e utilizzare i risultati ottenuti per determinare le aree delle regioni $R_1$ ed $R_2$.
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]], [[Funzioni Integrali]], [[Calcolo Integrale]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Funzioni Integrali]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 1
 
@@ -68,7 +66,7 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 2
 
@@ -77,7 +75,7 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 3
 
@@ -86,7 +84,7 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 4
 
@@ -95,17 +93,17 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 5
 
 5. Determinare per quali valori del parametro reale $k>0$ il grafico della funzione $f(x)=e^x-kx^3$ risulta volgere la concavità verso l'alto $\forall x\in\mathbb{R}$.
 
-**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 6
 
@@ -116,17 +114,17 @@ si determinino i valori dei parametri reali $a$ e $b$ che rendono continua e der
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 7
 
 7. Dimostrare che la funzione $f(x)=2x^3+e^x+\frac{\operatorname{sen}(x)+x}{2}$ ammette un solo zero.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
 
@@ -135,7 +133,7 @@ si determinino i valori dei parametri reali $a$ e $b$ che rendono continua e der
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.5
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

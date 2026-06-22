@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2007_ordinamento_2007_sessione_suppletiva_problema2_92
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: Soluzioni — 2007_ordinamento_2007_sessione_suppletiva_problema2_92
+title: 2007 Ordinamento Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2007_ordinamento_2007_sessione_suppletiva_problema2_92
 
-## Problema 1
 
 ORDINAMENTO 2007 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

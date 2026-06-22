@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_sessione_ordinaria_2015_prova_81
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_sessione_ordinaria_2015_prova_81
+title: 2015 Ordinaria — Prova (Sportiva) — Svolgimento
 ---
-# Soluzioni — 2015_sessione_ordinaria_2015_prova_81
 
 ## Problema 1
 

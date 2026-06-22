@@ -12,12 +12,9 @@ tags:
 title: 2003 Suppletiva Ordinamento — Problema 2
 ---
 
-# 2003 Suppletiva Ordinamento — Problema 2
-
-Fonte:  · p.110 · 📄 Apri PDF
+Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 È data una piramide retta a base quadrata.
 
@@ -32,7 +29,7 @@ Fonte:  · p.110 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_problema2_110#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.110
+**Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_problema2_110#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.110](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

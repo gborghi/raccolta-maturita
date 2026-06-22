@@ -12,12 +12,9 @@ tags:
 title: 2010 Estero Americhe Ordinaria — Problema 1
 ---
 
-# 2010 Estero Americhe Ordinaria — Problema 1
+Fonte: p.14 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.14 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano riferito a coordinate cartesiane $Oxy$:
 
@@ -29,11 +26,11 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 
 **4)** Tra le infinite primitive di $f(x)$ si determini quella che passa per il punto di coordinate $(1;\,0)$.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema1_14#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.14
+**Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema1_14#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.14](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema1_92
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema1_92
+title: 2012 Scientifico Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema1_92
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2012
 Sessione $Straordinaria-$ Problema $1$

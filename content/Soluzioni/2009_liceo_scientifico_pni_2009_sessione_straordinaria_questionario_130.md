@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: >-
-  Soluzioni —
-  2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130
+title: 2009 PNI Straordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130
-
 ## Quesito 1
 
 Lanciando due dadi, qual è il numero che ha maggiore probabilità di uscita? Qual è la probabilità che esca un numero primo?

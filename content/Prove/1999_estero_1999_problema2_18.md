@@ -12,12 +12,9 @@ tags:
 title: 1999 Estero — Problema 2
 ---
 
-# 1999 Estero — Problema 2
+Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.18 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 a) Studiare la funzione
 
@@ -35,11 +32,11 @@ c) Studiare la funzione di $t$ così trovata e disegnarne l'andamento.
 
 d) A completamento del problema dimostrare che: condizione sufficiente ma non necessaria affinché una funzione $f(x)$, derivabile almeno due volte in un punto $a$, abbia ivi un minimo relativo è che risulti $f'(a) = 0$ e $f''(a) > 0$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/1999_estero_1999_problema2_18#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.18
+**Soluzione:** [[Soluzioni/1999_estero_1999_problema2_18#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.18](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

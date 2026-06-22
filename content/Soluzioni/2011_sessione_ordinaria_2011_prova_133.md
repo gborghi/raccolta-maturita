@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2011_sessione_ordinaria_2011_prova_133
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_sessione_ordinaria_2011_prova_133
+title: 2011 Sessione ordinaria — Prova (PNI) — Svolgimento
 ---
-# Soluzioni — 2011_sessione_ordinaria_2011_prova_133
 
 ## Problema 1
 

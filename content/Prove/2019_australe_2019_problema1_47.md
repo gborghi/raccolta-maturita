@@ -12,12 +12,9 @@ tags:
 title: 2019 Australe — Problema 1
 ---
 
-# 2019 Australe — Problema 1
+Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.47 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione
 $$f(x)=\begin{cases}a-\dfrac{b}{(1-x)^2}, & 0\le x<1\\[2mm] a+\dfrac{b}{(1-x)^2}, & x>1\end{cases}$$
@@ -31,11 +28,11 @@ c) Una superficie piana indefinita $\pi$, uniformemente carica con densità supe
 
 d) Poiché l'intensità del campo elettrico è espressa dalla funzione $f(x)$, determinare il punto $x_0$ sulla semiretta $s$ in cui il campo elettrico è nullo e la condizione su $\sigma$ e $q$ affinché tale punto esista. Discutere la stabilità dell'equilibrio di una carica $Q$ (positiva o negativa) posta in tale punto.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Fisica]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2019_australe_2019_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.47
+**Soluzione:** [[Soluzioni/2019_australe_2019_problema1_47#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

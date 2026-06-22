@@ -12,12 +12,9 @@ tags:
 title: 2023 Liceo Scientifico — Problema 2
 ---
 
-# 2023 Liceo Scientifico — Problema 2
+Fonte: p.8 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.8 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fissato un parametro reale $a$, con $a \ne 0$, si consideri la funzione $f_a$ così definita:
 
@@ -33,11 +30,11 @@ il cui grafico sarà indicato con $\Omega_a$.
 
 **d)** Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1}$, la retta ad esso tangente nell'origine e la retta $x = \sqrt{3}$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2023_liceo_scientifico_2023_problema2_8#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.8
+**Soluzione:** [[Soluzioni/2023_liceo_scientifico_2023_problema2_8#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.8](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,9 +12,7 @@ tags:
 title: 2007 Liceo Comunicazione Ordinaria — Questionario
 ---
 
-# 2007 Liceo Comunicazione Ordinaria — Questionario
-
-Fonte:  · p.82 · 📄 Apri PDF
+Fonte: p.82 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.82
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.83
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.83
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.84
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.84](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.84
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.84](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
 
@@ -69,7 +67,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 7
 
@@ -78,7 +76,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
 
@@ -87,7 +85,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 9
 
@@ -96,7 +94,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 10
 
@@ -105,7 +103,7 @@ Fonte:  · p.82 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Astrazione e generalizzazione]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.87
+**Soluzione:** [[Soluzioni/2007_liceo_della_comunicazione_2007_sessione_ordinaria_questionario_82#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2010_estero_santiago_del_cile_suppletiva_2010_questionario_164
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_santiago_del_cile_suppletiva_2010_questionario_164
+title: 2010 Estero Santiago Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2010_estero_santiago_del_cile_suppletiva_2010_questionario_164
 
 ## Quesito 1
 

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2012_sessione_ordinaria_2012_prova_25
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_sessione_ordinaria_2012_prova_25
+title: Sessione Ordinaria 2012 (Americhe) — Prova — Svolgimento
 ---
-# Soluzioni — 2012_sessione_ordinaria_2012_prova_25
 
 ## Problema 1
 

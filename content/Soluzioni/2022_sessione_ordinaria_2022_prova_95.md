@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2022_sessione_ordinaria_2022_prova_95
 pdf: Prova_Maturita_2022.pdf
 source: text
-title: Soluzioni — 2022_sessione_ordinaria_2022_prova_95
+title: 2022 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2022_sessione_ordinaria_2022_prova_95
 
 ## Problema 1
 

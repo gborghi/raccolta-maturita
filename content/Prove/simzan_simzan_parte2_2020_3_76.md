@@ -12,10 +12,8 @@ tags:
 title: 'Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)'
 ---
 
-# Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)
-
-Fonte:  · p.76 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -39,11 +37,11 @@ dove $h$ è una costante positiva e $f_1(x)$ è una funzione della famiglia $f_k
 
 4. Un carrellino metallico di massa $m=50$ g, inizialmente scarico e di dimensioni trascurabili, viene posizionato in $B$ su una guida metallica, sovrapposta all'asse $x$. Il carrellino, inizialmente fermo, è vincolato a scivolare sulla guida, con attrito trascurabile. In un certo istante sul carrellino viene depositata una carica $q=1{,}00\cdot10^{-6}$ C. Determinare la velocità raggiunta dal carrellino quando passa per il punto $D(3{,}87;0)$. È vero che se si raddoppia la massa del carrellino, allora dimezza la sua velocità in $D$?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Fisica]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.76
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Problema 2
 
@@ -67,11 +65,11 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 
 4. Definire la funzione $g:\mathbb{R}\to\mathbb{R}$ in modo che $g(\tau)=h(\tau)$ per ogni $\tau\ge 0$. Verificare che la funzione $|g|$ ha come asintoti obliqui le rette $p$ e $q$. Infine, mostrare la validità delle identità richieste per ogni numero reale $m$ non negativo.
 
-**Topic:** [[Studio di Funzione]], [[Fisica]], [[Derivate]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Topics/Fisica|Fisica]], [[Derivate]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.76
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 1
 
@@ -80,17 +78,17 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 2
 
 2. La funzione $f(x)=\dfrac{p(x)}{x^2+\alpha}$, in cui $p(x)$ è un polinomio e $\alpha\in\mathbb{R}$, ha il grafico in figura, che è simmetrico rispetto all'asse $y$. *(figura nel PDF)* La retta $t$ è tangente al grafico di $f(x)$ nel punto $A$ di ascissa 4 e ha coefficiente angolare assegnato. Determinare il grado di $p(x)$ e l'espressione della funzione basandosi sulle informazioni che si possono dedurre dal grafico. Determinare l'equazione dell'asintoto obliquo della funzione $g(x)=x\cdot f(x)$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 3
 
@@ -99,7 +97,7 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 **Topic:** [[Derivate]], [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 4
 
@@ -108,17 +106,17 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Sistemi di equazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 5
 
 5. Si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita a tratti. Determinare il valore dei parametri reali $a$ e $b$ tali che la funzione risulti derivabile in $\mathbb{R}$. Tracciare il grafico della funzione deducendolo da quello di funzioni elementari. Verificare che $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervallo $[-1;6]$, determinando l'ascissa del punto che ne soddisfa la tesi.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 6
 
@@ -126,10 +124,10 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
    - verificare che le relazioni che indicano $v_{pe}$ e $r_{pe}$ (grandezze orbitali della cometa al perielio) sono date dalle espressioni assegnate, dove $E_s$ e $L_s$ sono, rispettivamente, l'energia e il modulo del momento angolare per unità di massa, $G$ è la costante di gravitazione universale e $M_s$ è la massa del Sole;
    - calcolare i valori numerici di $v_{pe}$ e $r_{pe}$.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 7
 
@@ -137,10 +135,10 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
    - Determinare il modulo del campo elettrico $\vec{E}$, supponendo che all'istante $t=0$ s sia nullo.
    - Verificare che esso non dipende da $r$.
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
 
@@ -152,10 +150,10 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 
 **Costanti fisiche.** Costante dielettrica del vuoto $\varepsilon_0=8{,}854\cdot10^{-12}$ F/m; permeabilità magnetica del vuoto $\mu_0=4\pi\cdot10^{-7}$ N/A²; velocità della luce nel vuoto $c=2{,}998\cdot10^{8}$ m/s; unità astronomica 1 UA $=1{,}496\cdot10^{8}$ km; massa del Sole $M_s=1{,}989\cdot10^{30}$ kg; costante di gravitazione universale $G=6{,}67\cdot10^{-11}$ N·m²/kg².
 
-**Topic:** [[Fisica]]
+**Topic:** [[Topics/Fisica|Fisica]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.85
+**Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

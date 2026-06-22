@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2019_sessione_suppletiva_2019_problema2_218
 pdf: Prova_Maturita_2019.pdf
 source: text
-title: Soluzioni — 2019_sessione_suppletiva_2019_problema2_218
+title: 2019 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2019_sessione_suppletiva_2019_problema2_218
 
-## Problema 1
 
 Sessione suppletiva 2019 - Problema $2$
 

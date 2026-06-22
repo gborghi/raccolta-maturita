@@ -7,11 +7,8 @@ page_start: '127'
 page_end: '134'
 anno: 2014/15
 tipo_prova: Simulazione della Prova di Matematica – Esame di Stato (Liceo Scientifico)
-title: Soluzioni — simzan_simzan_parte1_2014_12_127
+title: 'Simulazione Zanichelli 2014 Problemi Tradizionali #12 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte1_2014_12_127
-
 **ANNO SCOLASTICO 2014/15 — PROBLEMI TRADIZIONALI**
 **SIMULAZIONE DELLA PROVA DI MATEMATICA DELL'ESAME DI STATO PER IL LICEO SCIENTIFICO**
 

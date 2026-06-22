@@ -12,10 +12,8 @@ tags:
 title: 2007 LS PNI Straordinaria — Questionario
 ---
 
-# 2007 LS PNI Straordinaria — Questionario
-
-Fonte:  · p.143 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.143 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.143
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.143](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.143
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.143](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.144
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.144](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.144
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.144](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 5
 
@@ -60,17 +58,17 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.144
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.144](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
 
 **Quesito 6.** Si verifichi che la curva di equazione $y=\dfrac{x-1}{x-2}$ è simmetrica rispetto all'intersezione dei suoi asintoti.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.145
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 7
 
@@ -79,7 +77,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.145
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
 
@@ -88,7 +86,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 9
 
@@ -97,7 +95,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 10
 
@@ -106,7 +104,7 @@ Fonte:  · p.143 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.147
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

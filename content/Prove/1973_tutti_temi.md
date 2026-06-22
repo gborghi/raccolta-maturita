@@ -12,12 +12,9 @@ tags:
 title: 1973 Tema di maturita
 ---
 
-# 1973 Tema di maturita
+Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.110 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
@@ -33,11 +30,11 @@ e se ne determinino i punti per i quali la distanza dal punto $A(0,1)$ assume va
 $$y = \frac{1 + x^3}{x^2}$$
 e se ne disegni il grafico. Si scriva poi l'equazione della tangente nel suo punto $A$ di ordinata nulla e quella della retta passante per lo stesso punto e tangente alla curva in un ulteriore punto $B$. Detta $C$ l'intersezione della prima tangente con il grafico si calcoli l'area della regione piana limitata dal segmento $BC$ e dal grafico stesso.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Trigonometria]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Fonte:** 📄 Testo (PDF) — p.110
+**Fonte:** [📄 Testo (PDF) — p.110](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

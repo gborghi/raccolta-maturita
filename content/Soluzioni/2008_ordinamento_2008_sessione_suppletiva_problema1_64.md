@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2008_ordinamento_2008_sessione_suppletiva_problema1_64
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: Soluzioni — 2008_ordinamento_2008_sessione_suppletiva_problema1_64
+title: 2008 Ordinamento Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2008_ordinamento_2008_sessione_suppletiva_problema1_64
 
-## Problema 1
 
 ORDINAMENTO 2008 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

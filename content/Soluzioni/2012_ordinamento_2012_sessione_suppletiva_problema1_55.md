@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2012_ordinamento_2012_sessione_suppletiva_problema1_55
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_ordinamento_2012_sessione_suppletiva_problema1_55
+title: 2012 Ordinamento Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2012_ordinamento_2012_sessione_suppletiva_problema1_55
 
-## Problema 1
 
 ORDINAMENTO 2012 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

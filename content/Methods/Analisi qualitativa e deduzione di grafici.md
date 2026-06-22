@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Analisi qualitativa e deduzione di grafici
-
 *Metodo risolutivo* — **136** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2009_america_latina_suppletiva_2009_problema1_39
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_america_latina_suppletiva_2009_problema1_39
+title: 2009 America Latina Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2009_america_latina_suppletiva_2009_problema1_39
 
-## Problema 1
 
 America Latina
 Suppletiva 2009 - Problema $1$

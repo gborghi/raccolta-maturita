@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Esponenziali e Logaritmi
-
 *Argomento* — **342** problemi/quesiti.
 
 ## Problemi e quesiti

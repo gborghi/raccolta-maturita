@@ -12,9 +12,7 @@ tags:
 title: 2011 Ordinaria — Prova
 ---
 
-# 2011 Ordinaria — Prova
-
-Fonte:  · p.6 · 📄 Apri PDF
+Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -30,11 +28,11 @@ $$f(x)=x^3-4x \qquad\text{e}\qquad g(x)=\operatorname{sen}\pi x$$
 
 4. La regione $R$ rappresenta la superficie libera dell'acqua contenuta in una vasca. In ogni punto di $R$ a distanza $x$ dall'asse $y$ la misura della profondità dell'acqua nella vasca è data da $h(x)=3-x$. Quale integrale definito dà il volume d'acqua? Supposte le misure in metri, quanti litri d'acqua contiene la vasca?
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
 
@@ -57,11 +55,11 @@ dove $a$ e $b$ sono due reali che si chiede di determinare sapendo che $f$ ammet
 
 Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudicando accettabile una funzione $g$ definita su $\mathbb{R}^+$ se per ciascun $x_i$ oggetto dell'osservazione si ha: $|g(x_i)-y_i|\le 10^{-1}$. Si verifichi, con l'aiuto di una calcolatrice, se è accettabile la funzione $f$ del punto 2 e si dica, giustificando la risposta, se è vero che, in tal caso, l'evoluzione del fenomeno non potrà portare a profitti inferiori ai 3 milioni di euro.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Interpretazione e formalizzazione del testo]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 1
 
@@ -70,7 +68,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -79,7 +77,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -88,7 +86,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
@@ -97,7 +95,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -106,7 +104,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -115,7 +113,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Limiti e Continuita]], [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -124,7 +122,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Equazioni e Disequazioni]], [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -133,7 +131,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 9
 
@@ -142,7 +140,7 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
 
@@ -158,10 +156,10 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 
 Si motivi la risposta. *(figura nel PDF)*
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

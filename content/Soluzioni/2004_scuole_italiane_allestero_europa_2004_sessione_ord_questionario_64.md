@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64
+title: 2004 SE Europa Ord — Questionario — Svolgimento
 ---
-# Soluzioni — 2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64
 
 ## Quesito 1
 

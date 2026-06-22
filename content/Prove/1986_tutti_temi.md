@@ -12,12 +12,9 @@ tags:
 title: 1986 — Tema di maturita
 ---
 
-# 1986 — Tema di maturita
+Fonte: p.127 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.127 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 2. In un sistema di assi coordinati cartesiani si consideri la cubica di equazione
 $$y = 2x^3 - 9x^2 + 12x - 5$$
@@ -66,11 +63,11 @@ Si calcolino le aree delle regioni di piano in cui le curve ottenute dividono il
 
 2. In un sistema di assi coordinati cartesiani si consideri la parabola avente equazione $y = x^2 - 2x + 2$ e la sua simmetrica rispetto alla retta di equazione $y=2$. Si calcoli l'area della regione finita di piano delimitata dalle due curve e si scriva l'equazione della circonferenza in essa inscritta (bitangente alle due curve).
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Fonte:** 📄 Testo (PDF) — p.127
+**Fonte:** [📄 Testo (PDF) — p.127](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2007_pni_2007_sessione_suppletiva_problema1_105
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: Soluzioni — 2007_pni_2007_sessione_suppletiva_problema1_105
+title: 2007 PNI Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2007_pni_2007_sessione_suppletiva_problema1_105
 
-## Problema 1
 
 PNI 2007 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

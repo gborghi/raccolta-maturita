@@ -11,13 +11,8 @@ tags:
   - anno/1999
 title: 1999 Suppletiva PNI — Problema 3
 ---
-
-# 1999 Suppletiva PNI — Problema 3
-
-Fonte:  · p.46 · 📄 Apri PDF
+Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 **Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
-
-## Problema 1
 
 Una ditta dispone di $10$ linee telefoniche. La probabilità, in un istante qualsiasi, che una data linea sia occupata è $\dfrac{1}{5}$. Determinare il numero medio di linee telefoniche libere.
 
@@ -32,7 +27,7 @@ d) Calcolare per ogni istante — con due cifre significative — la probabilit�
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_pni_1999_problema3_46#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/1999_sessione_suppletiva_pni_1999_problema3_46#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
 
 
 #maturita/prova #area/probabilita_e_combinatoria #cluster/probabilit_e_combinatoria

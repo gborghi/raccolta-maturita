@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2010_sessione_ordinaria_2010_prova_5
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_sessione_ordinaria_2010_prova_5
+title: 2010 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2010_sessione_ordinaria_2010_prova_5
 
 ## Problema 1
 

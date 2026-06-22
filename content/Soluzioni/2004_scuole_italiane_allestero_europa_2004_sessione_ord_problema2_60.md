@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema2_60
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema2_60
+title: 2004 SE Europa Ord — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema2_60
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2004
 Sessione $Ordinaria-$ Problema $2$

@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema1_107
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: >-
-  Soluzioni —
-  2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema1_107
+title: 2009 Ordinamento Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema1_107
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2009
 Sessione $Straordinaria-$ Problema $1$

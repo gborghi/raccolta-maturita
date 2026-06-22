@@ -12,17 +12,14 @@ tags:
 title: 2010 Ordinamento — Problema 1
 ---
 
-# 2010 Ordinamento — Problema 1
+Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.7 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *(Statement non trascrivibile dalle pagine disponibili — vedi PDF.)*
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]]
-**Soluzione:** [[Soluzioni/2010_ordinamento_2010_problema1_7#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.7
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
+**Soluzione:** [[Soluzioni/2010_ordinamento_2010_problema1_7#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

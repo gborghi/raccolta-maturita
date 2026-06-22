@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2018_sessione_ordinaria_2018_prova_37
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_sessione_ordinaria_2018_prova_37
+title: 2018 Sessione ordinaria — Prova (Sportiva) — Svolgimento
 ---
-
-# Soluzioni — 2018_sessione_ordinaria_2018_prova_37
-
 ## Problema 1
 
 Consideriamo la funzione $f_k : \mathbb{R} \to \mathbb{R}$ così definita:

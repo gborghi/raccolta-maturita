@@ -12,12 +12,9 @@ tags:
 title: 1993 — Tema di maturita
 ---
 
-# 1993 — Tema di maturita
+Fonte: p.138 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.138 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -54,11 +51,11 @@ dopo avere determinato il valore di $K$ in modo che la funzione abbia un massimo
 Supposto che la funzione rappresenti il valore numerico dell'intensità (espressa in Newton) di una forza che agisce lungo l'asse delle ascisse (ove $x$ rappresenti il valore numerico della distanza in metri), calcolare il lavoro fatto dalla forza quando il suo punto di applicazione si sposta dalla posizione $x = 0$ a $x = \pi$.
 (L'integrale proposto è di facile esecuzione se si pone $K - \cos x = t$).
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Trigonometria]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Fonte:** 📄 Testo (PDF) — p.138
+**Fonte:** [📄 Testo (PDF) — p.138](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

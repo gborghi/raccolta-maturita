@@ -12,12 +12,9 @@ tags:
 title: 1957 Tema di maturita
 ---
 
-# 1957 Tema di maturita
-
-Fonte:  · p.97 · 📄 Apri PDF
+Fonte: p.97 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Siano date le due curve:
 
@@ -46,7 +43,7 @@ $$|AC|^2+|BC|^2=m\cdot|AB|^2$$
 **Topic:** [[Geometria Analitica (piano)]], [[Trigonometria]], [[Geometria Euclidea]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Fonte:** 📄 Testo (PDF) — p.97
+**Fonte:** [📄 Testo (PDF) — p.97](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

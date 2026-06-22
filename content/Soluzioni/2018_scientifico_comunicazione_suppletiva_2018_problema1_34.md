@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2018_scientifico_comunicazione_suppletiva_2018_problema1_34
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_scientifico_comunicazione_suppletiva_2018_problema1_34
+title: 2018 Scientifico Comunicazione Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2018_scientifico_comunicazione_suppletiva_2018_problema1_34
 
-## Problema 1
 
 Scientifico Comunicazione
 Suppletiva 2018 - Problema $1$

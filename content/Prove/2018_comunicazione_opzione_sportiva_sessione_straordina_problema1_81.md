@@ -12,12 +12,9 @@ tags:
 title: 2018 Comunicazione Sportiva Straordinaria — Problema 1
 ---
 
-# 2018 Comunicazione Sportiva Straordinaria — Problema 1
-
-Fonte:  · p.81 · 📄 Apri PDF
+Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 Due archi illimitati di due parabole (con assi paralleli all'asse $y$ di un sistema di riferimento), ciascuno dei quali contenente il vertice della parabola, sono disposti in modo da passare per tutti e quattro i quadranti del piano e raccordarsi nell'origine, formando il grafico $\Gamma$ di una funzione:
 
@@ -44,7 +41,7 @@ dove $a$, $b$, $c$ sono opportuni coefficienti reali non nulli. Dimostra che le 
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]], [[Funzioni Integrali]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_comunicazione_opzione_sportiva_sessione_straordina_problema1_81#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.81
+**Soluzione:** [[Soluzioni/2018_comunicazione_opzione_sportiva_sessione_straordina_problema1_81#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

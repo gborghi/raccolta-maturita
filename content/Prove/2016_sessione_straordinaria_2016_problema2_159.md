@@ -12,12 +12,9 @@ tags:
 title: 2016 Straordinaria — Problema 2
 ---
 
-# 2016 Straordinaria — Problema 2
-
-Fonte:  · p.159 · 📄 Apri PDF
+Fonte: p.159 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 La funzione $f:\mathbb{R}\to\mathbb{R}$ è così definita:
 $$f(x)=\operatorname{sen}(x)-x\cdot\cos(x)$$
@@ -37,11 +34,11 @@ $$\int_0^{(2n+1)\pi}f(x)\,dx=4,\qquad\int_0^{2n\pi}f(x)\,dx=0.$$
 
 4. Dimostra che i massimi della funzione $f^2(x)$ giacciono su una parabola e i minimi su una retta, e scrivi l'equazione della parabola e della retta.
 
-**Topic:** [[Trigonometria]], [[Calcolo Integrale]], [[Studio di Funzione]], [[Massimi e Minimi]]
+**Topic:** [[Trigonometria]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_problema2_159#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.159
+**Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_problema2_159#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.159](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

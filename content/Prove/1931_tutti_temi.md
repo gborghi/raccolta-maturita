@@ -12,12 +12,9 @@ tags:
 title: 1931 Tema di maturita
 ---
 
-# 1931 Tema di maturita
-
-Fonte:  · p.78 · 📄 Apri PDF
+Fonte: p.78 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 L'angolo $X\widehat{O}Y$ è di $60°$, e sul lato $OX$ sono dati due punti $A$ e $B$ in modo che $OB$ sia doppio di $OA$. Determinare sul lato $OY$ un punto $M$ tale che il rapporto $MA/MB$ sia uguale ad un numero assegnato $k$. Discutere i risultati e, dopo aver determinato su $OY$ anche i due punti $M_1$ e $M_2$ per i quali risulta massimo o minimo il rapporto delle distanze di un punto di $OY$ da $A$ e da $B$, far vedere che i quattro punti $A$, $B$, $M_1$, $M_2$ appartengono ad una stessa circonferenza. È in facoltà del candidato di risolvere la prima parte del problema anche per via geometrica.
 
@@ -28,7 +25,7 @@ Dire anche quando è che l'area in ciascuno dei due casi diventa massima o minim
 **Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]], [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Fonte:** 📄 Testo (PDF) — p.78
+**Fonte:** [📄 Testo (PDF) — p.78](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

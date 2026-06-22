@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55
+title: 2006 Estero Europa — Questionario — Svolgimento
 ---
-# Soluzioni — 2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55
 
 ## Quesito 1
 

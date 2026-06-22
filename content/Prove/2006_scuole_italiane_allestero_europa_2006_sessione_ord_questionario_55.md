@@ -12,9 +12,7 @@ tags:
 title: 2006 Estero Europa — Questionario
 ---
 
-# 2006 Estero Europa — Questionario
-
-Fonte:  · p.55 · 📄 Apri PDF
+Fonte: p.55 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.55 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.55
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.55 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.56
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.55 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.56
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.55 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.57
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 5
 
@@ -60,16 +58,16 @@ Fonte:  · p.55 · 📄 Apri PDF
 **Topic:** [[Esponenziali e Logaritmi]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.57
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 6
 
 **Quesito 6.** Disegnare il grafico di una funzione la cui pendenza sia sempre maggiore di $1$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 7
 
@@ -78,7 +76,7 @@ Fonte:  · p.55 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 8
 
@@ -87,7 +85,7 @@ Fonte:  · p.55 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2024_sessione_suppletiva_2024_problema1_94
 pdf: Prova_Maturita_2024.pdf
 source: text
-title: Soluzioni — 2024_sessione_suppletiva_2024_problema1_94
+title: 2024 Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2024_sessione_suppletiva_2024_problema1_94
 
-## Problema 1
 
 Sessione suppletiva 2024 - Problema $1$
 

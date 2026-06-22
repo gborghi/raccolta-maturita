@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: >-
-  Soluzioni —
-  2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53
+title: 2011 Estero Europa — Questionario — Svolgimento
 ---
-# Soluzioni — 2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53
 
 ## Quesito 1
 

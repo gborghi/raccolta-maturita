@@ -3,12 +3,9 @@ tipo: soluzione
 prova_stem: 2011_ordinamento_2011_problema2_11
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_ordinamento_2011_problema2_11
+title: 2011 Ordinamento — Problema 2 — Svolgimento
 ---
 
-# Soluzioni — 2011_ordinamento_2011_problema2_11
-
-## Problema 1
 
 ### Punto 1)
 

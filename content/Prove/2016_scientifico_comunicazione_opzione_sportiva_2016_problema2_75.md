@@ -12,12 +12,15 @@ tags:
 title: 2016 Opzione Sportiva — Problema 2
 ---
 
-# 2016 Opzione Sportiva — Problema 2
-
-Fonte:  · p.75 · 📄 Apri PDF
+Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
+
+<!--fig:start-->
+![[_attachments/2016_scientifico_comunicazione_opzione_sportiva_2016_problema2_75/2016_scientifico_comunicazione_opzione_sportiva_2016_problema2_75_fig.svg]]
+*Grafico $\Gamma$ della funzione continua $f$ con i punti notevoli $A(0,1)$, massimo $B(1,4)$, flesso $C(3,2)$, $D(5,0)$, minimo $E(7,-4/3)$, $F(8,0)$ e la semiretta finale per $G(10,4)$.*
+
+<!--fig:end-->
 
 Nella figura 1 è rappresentato il grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$, derivabile in $\,]0,+\infty)$, e sono indicate le coordinate di alcuni suoi punti.
 
@@ -43,10 +46,10 @@ $$y=|f'(x)|,\qquad y=|f(x)|',\qquad y=\frac{1}{f(x)}$$
 
 4. Scrivi le equazioni delle rette tangenti al grafico della funzione $F(x)$ nei suoi punti di ascisse $0$ e $8$, motivando le risposte.
 
-**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Analisi qualitativa e deduzione di grafici]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2016_scientifico_comunicazione_opzione_sportiva_2016_problema2_75#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.75
+**Soluzione:** [[Soluzioni/2016_scientifico_comunicazione_opzione_sportiva_2016_problema2_75#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.75](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

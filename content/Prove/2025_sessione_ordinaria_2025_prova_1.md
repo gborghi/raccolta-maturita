@@ -12,10 +12,8 @@ tags:
 title: 2025 Ordinaria — Prova
 ---
 
-# 2025 Ordinaria — Prova
-
-Fonte:  · p.1 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -32,11 +30,11 @@ c) Sia $A$ un punto del grafico di $g$, situato nel I quadrante, e siano $M$ e $
 
 d) Si consideri la funzione $F(x) = \displaystyle\int_{-2}^{x} \sqrt{4 - t^2}\, dt$, con $x \in [-2;\, 2]$. Determinare $F(2)$ e tracciare un grafico di $F$, dopo averne studiato monotonia e concavità. Scrivere, inoltre, l'equazione della retta tangente al grafico di $F$ nel suo punto di flesso.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Funzioni Integrali]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Funzioni Integrali]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]], [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
 
@@ -56,11 +54,11 @@ c) Stabilito altresì che $q(x) = 1 - x - x^2$, verificare che $\dfrac{1}{\varph
 
 d) Calcolare l'area della regione limitata $R$ compresa tra $\gamma_1$, $\gamma_2$ e l'asse delle ordinate. Individuare, successivamente, il valore di $t \ge \dfrac{1}{2}$ affinché la retta $x = t$ delimiti con i due grafici una regione $R'$ equivalente ad $R$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 1
 
@@ -69,7 +67,7 @@ d) Calcolare l'area della regione limitata $R$ compresa tra $\gamma_1$, $\gamma_
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 2
 
@@ -78,7 +76,7 @@ d) Calcolare l'area della regione limitata $R$ compresa tra $\gamma_1$, $\gamma_
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 3
 
@@ -86,11 +84,11 @@ d) Calcolare l'area della regione limitata $R$ compresa tra $\gamma_1$, $\gamma_
 $$f(x) = \begin{cases} -4x^2 - 8x, & -1 \le x \le 0 \\[4pt] 1 + \tan\left(x + \dfrac{3}{4}\pi\right), & 0 < x \le 2 \end{cases}$$
 Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabilità nell'intervallo $[-1;\, 2]$. *(figura nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 4
 
@@ -99,7 +97,7 @@ Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabi
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 5
 
@@ -108,7 +106,7 @@ Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabi
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Derivazione e calcolo di derivate]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 6
 
@@ -117,7 +115,7 @@ Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabi
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 7
 
@@ -130,7 +128,7 @@ Cicerone, nel dialogo con il fratello Quinto, parla del colpo di Venere, che con
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
 
@@ -139,7 +137,7 @@ Cicerone, nel dialogo con il fratello Quinto, parla del colpo di Venere, che con
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.1
+**Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

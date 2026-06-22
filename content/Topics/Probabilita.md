@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Probabilita
-
 *Argomento* — **171** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte2_2019_2_46
 pdf: SimZan_parte2.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte2_2019_2_46
+title: 'Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte2_2019_2_46
-
 ## Problema 1
 
 Si consideri la funzione reale di variabile reale $i(t)$ così definita:

@@ -12,9 +12,7 @@ tags:
 title: 2015 Europa — Questionario
 ---
 
-# 2015 Europa — Questionario
-
-Fonte:  · p.94 · 📄 Apri PDF
+Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.94 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.94
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.94](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.94 · 📄 Apri PDF
 **Topic:** [[Probabilita]], [[Statistica]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.95
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.94 · 📄 Apri PDF
 **Topic:** [[Geometria nello Spazio]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.96
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.94 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.97
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.97](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.94 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
 
@@ -69,7 +67,7 @@ Fonte:  · p.94 · 📄 Apri PDF
 **Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.99
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
 
@@ -80,7 +78,7 @@ Disegnare la traiettoria percorsa dalla particella per $t$ che va da 0 a $2\pi$ 
 **Topic:** [[Derivate]], [[Trigonometria]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.100
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
 
@@ -89,7 +87,7 @@ Disegnare la traiettoria percorsa dalla particella per $t$ che va da 0 a $2\pi$ 
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.101
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.101](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
 
@@ -98,7 +96,7 @@ Disegnare la traiettoria percorsa dalla particella per $t$ che va da 0 a $2\pi$ 
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.102
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.102](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
 
@@ -107,7 +105,7 @@ Disegnare la traiettoria percorsa dalla particella per $t$ che va da 0 a $2\pi$ 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.103
+**Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

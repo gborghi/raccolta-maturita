@@ -12,12 +12,9 @@ tags:
 title: 2004 SE Europa Ord — Problema 1
 ---
 
-# 2004 SE Europa Ord — Problema 1
-
-Fonte:  · p.57 · 📄 Apri PDF
+Fonte: p.57 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 In un piano sono assegnati una retta $r$ ed un punto $H$ la cui distanza da $r$ è $\dfrac{3}{2}$ rispetto ad una data unità di misura delle lunghezze.
 
@@ -31,11 +28,11 @@ c) Posto, nell'equazione trovata, $t=X$ e $k^2=Y$, esprimere $Y$ in funzione di 
 
 d) Utilizzando tale andamento, stabilire per quali valori di $k$ si hanno valori di $t$ che risolvono la questione di cui al punto b) e quanti sono questi valori di $t$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Geometria Euclidea]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]], [[Risoluzione di equazioni e disequazioni]], [[Sistemi di equazioni]]
 **Competenze:** [[Collegamento tra ambiti matematici diversi]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema1_57#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.57
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema1_57#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

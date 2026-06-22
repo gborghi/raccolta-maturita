@@ -12,12 +12,9 @@ tags:
 title: 2010 Scientifico PNI Straordinaria — Problema 2
 ---
 
-# 2010 Scientifico PNI Straordinaria — Problema 2
+Fonte: p.192 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.192 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione: $f(x) = \ln\left(x + \sqrt{1 + x^2}\right)$.
 
@@ -29,11 +26,11 @@ Si consideri la funzione: $f(x) = \ln\left(x + \sqrt{1 + x^2}\right)$.
 
 4. Dopo aver verificato che sono soddisfatte le condizioni di invertibilità, si ricavi l'espressione analitica della funzione inversa $x = g(y)$ della funzione data.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_problema2_192#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.192
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_problema2_192#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.192](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

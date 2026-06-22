@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Interpretazione e formalizzazione del testo
-
 *Competenza* — **128** problemi/quesiti.
 
 ## Problemi e quesiti

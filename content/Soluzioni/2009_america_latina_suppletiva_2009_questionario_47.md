@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2009_america_latina_suppletiva_2009_questionario_47
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_america_latina_suppletiva_2009_questionario_47
+title: 2009 America Latina Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2009_america_latina_suppletiva_2009_questionario_47
 
 ## Quesito 1
 

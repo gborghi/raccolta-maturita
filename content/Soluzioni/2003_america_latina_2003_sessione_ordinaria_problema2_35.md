@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2003_america_latina_2003_sessione_ordinaria_problema2_35
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_america_latina_2003_sessione_ordinaria_problema2_35
+title: 2003 America Latina Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2003_america_latina_2003_sessione_ordinaria_problema2_35
 
-## Problema 1
 
 America latina 2003
 Sessione $Ordinaria-$ Problema $2$

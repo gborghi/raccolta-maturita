@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Geometria nello Spazio
-
 *Argomento* — **86** problemi/quesiti.
 
 ## Problemi e quesiti

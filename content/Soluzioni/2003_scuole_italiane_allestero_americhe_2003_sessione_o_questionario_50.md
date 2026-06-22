@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: >-
-  Soluzioni —
-  2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50
+title: 2003 Americhe Ordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50
 
 ## Quesito 1
 

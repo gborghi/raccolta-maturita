@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 1999_sessione_suppletiva_1999_problema2_5
 pdf: Prova_Maturita_1999.pdf
 source: text
-title: Soluzioni — 1999_sessione_suppletiva_1999_problema2_5
+title: 1999 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 1999_sessione_suppletiva_1999_problema2_5
 
-## Problema 1
 
 Sessione suppletiva 1999 - Problema $2$
 

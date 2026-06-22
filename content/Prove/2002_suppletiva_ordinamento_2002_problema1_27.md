@@ -12,12 +12,9 @@ tags:
 title: 2002 Suppletiva Ordinamento — Problema 1
 ---
 
-# 2002 Suppletiva Ordinamento — Problema 1
+Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.27 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Se il polinomio $f(x)$ si divide per $x^2-1$ si ottiene $x$ come quoziente e $x$ come resto.
 
@@ -33,11 +30,11 @@ Se il polinomio $f(x)$ si divide per $x^2-1$ si ottiene $x$ come quoziente e $x$
 $$\frac{x}{x^2-1}=\frac{a}{x+1}+\frac{b}{x-1}$$
 calcolare una primitiva della funzione $y=\dfrac{f(x)}{x^2-1}$.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_problema1_27#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_problema1_27#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

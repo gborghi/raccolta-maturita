@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2022_sessione_ordinaria_2022_temaa_17
 pdf: Prova_Maturita_2022.pdf
 source: text
-title: Soluzioni — 2022_sessione_ordinaria_2022_temaa_17
+title: 2022 Ordinaria — Tema A — Svolgimento
 ---
-# Soluzioni — 2022_sessione_ordinaria_2022_temaa_17
 
 ## Problema 1
 

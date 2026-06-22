@@ -12,12 +12,9 @@ tags:
 title: 2006 PNI Suppletiva — Problema 2
 ---
 
-# 2006 PNI Suppletiva — Problema 2
+Fonte: p.91 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.91 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano, riferito ad un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$y = \frac{x + k}{x^2},$$
@@ -33,11 +30,11 @@ dove $k$ è un parametro reale non nullo.
 
 **e)** Calcolare l'area della regione finita di piano delimitata dalla curva $\gamma$, dalla retta $r$ e dall'asse $x$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2006_pni_2006_sessione_suppletiva_problema2_91#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.91
+**Soluzione:** [[Soluzioni/2006_pni_2006_sessione_suppletiva_problema2_91#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.91](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

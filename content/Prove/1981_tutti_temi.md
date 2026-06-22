@@ -12,12 +12,9 @@ tags:
 title: 1981 Tema di maturita
 ---
 
-# 1981 Tema di maturita
+Fonte: p.121 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.121 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -37,11 +34,11 @@ $$\binom{n}{k} = \binom{n-1}{k} + \binom{n-1}{k-1}.$$
 
 1. In una circonferenza di raggio $r$ si consideri la corda $AB$ che dista $r/2$ dal centro. Si prenda sul maggiore degli archi $AB$ il punto $C$, si prolunghi $AC$ di un segmento $CD$ tale che $CD=AC$ e si determini per quale posizione di $C$ è massima l'area del triangolo $CDB$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Combinatorio]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Calcolo Combinatorio]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.121
+**Fonte:** [📄 Testo (PDF) — p.121](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

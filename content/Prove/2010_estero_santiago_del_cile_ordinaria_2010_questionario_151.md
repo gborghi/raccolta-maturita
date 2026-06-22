@@ -12,10 +12,8 @@ tags:
 title: 2010 Estero Santiago Ordinaria — Questionario
 ---
 
-# 2010 Estero Santiago Ordinaria — Questionario
-
-Fonte:  · p.151 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.151 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -29,7 +27,7 @@ $$\lim_{x\to 3^-}f(x); \qquad \lim_{x\to 3^+}f(x); \qquad \lim_{x\to 3}f(x).$$
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.151
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -40,7 +38,7 @@ Sia $t$ una retta e $P$ un punto non appartenente ad essa. Si dimostri che le ci
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Sistemi di equazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.151
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -51,7 +49,7 @@ Fra tutti i parallelepipedi rettangoli, a base quadrata, di superficie totale $a
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.151
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
@@ -59,11 +57,11 @@ Fra tutti i parallelepipedi rettangoli, a base quadrata, di superficie totale $a
 
 In un riferimento cartesiano $Oxy$, si tracci la curva d'equazione: $xy-x+y-1=0$.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Studio di Funzione]]
+**Topic:** [[Geometria Analitica (piano)]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Analisi qualitativa e deduzione di grafici]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.152
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
@@ -74,7 +72,7 @@ Si dimostri che il perimetro di un poligono regolare di $n$ lati, inscritto in u
 **Topic:** [[Limiti e Continuita]], [[Geometria Euclidea]], [[Successioni e Serie]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di limiti e continuita]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.153
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.153](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
@@ -86,7 +84,7 @@ $$\int_{-a}^{a} f(x)\,dx=0, \quad \forall x\in\mathbb{R}.$$
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.153
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.153](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
@@ -98,7 +96,7 @@ $$\sin 3x=3\sin x-4\sin^3 x \qquad \text{e} \qquad \cos 3x=4\cos^3 x-3\cos x.$$
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.154
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
@@ -109,7 +107,7 @@ Sia $D$ la regione finita di piano delimitata dalla curva d'equazione $y=\sqrt{\
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.155
+**Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.155](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

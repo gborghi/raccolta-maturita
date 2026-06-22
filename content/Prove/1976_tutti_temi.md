@@ -12,12 +12,9 @@ tags:
 title: 1976 Tema di maturita
 ---
 
-# 1976 Tema di maturita
+Fonte: p.114 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.114 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
@@ -32,11 +29,11 @@ e se ne disegni il grafico. Si determinino i coefficienti dell'equazione $y = ax
 4. Si dimostri che
 $$\binom{n+1}{k+1} = \binom{n}{k+1} + \binom{n}{k}.$$
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]], [[Mista  trascendente composita|Mista / trascendente composita]]
-**Fonte:** 📄 Testo (PDF) — p.114
+**Fonte:** [📄 Testo (PDF) — p.114](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

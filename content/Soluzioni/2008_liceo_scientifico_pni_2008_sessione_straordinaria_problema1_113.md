@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema1_113
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: >-
-  Soluzioni —
-  2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema1_113
+title: 2008 PNI Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema1_113
 
-## Problema 1
 
 Liceo Scientifico PNI 2008
 Sessione $Straordinaria-$ Problema $1$

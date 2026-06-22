@@ -12,12 +12,9 @@ tags:
 title: 2002 Straordinaria Ordinamento — Problema 2
 ---
 
-# 2002 Straordinaria Ordinamento — Problema 2
-
-Fonte:  · p.66 · 📄 Apri PDF
+Fonte: p.66 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Con riferimento a un sistema di assi cartesiani ortogonali $(Oxy)$:
 
@@ -33,11 +30,11 @@ e disegnare i loro grafici.
 
 **d)** Calcolare l'area della regione finita di piano delimitata dalle due curve.
 
-**Topic:** [[Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2002_ordinamento_2002_sessione_straordinaria_problema2_66#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.66
+**Soluzione:** [[Soluzioni/2002_ordinamento_2002_sessione_straordinaria_problema2_66#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

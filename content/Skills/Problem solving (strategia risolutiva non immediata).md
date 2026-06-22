@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Problem solving (strategia risolutiva non immediata)
-
 *Competenza* — **939** problemi/quesiti.
 
 ## Problemi e quesiti

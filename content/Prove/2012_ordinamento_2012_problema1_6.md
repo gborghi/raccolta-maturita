@@ -12,12 +12,9 @@ tags:
 title: 2012 Ordinamento — Problema 1
 ---
 
-# 2012 Ordinamento — Problema 1
+Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.6 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Siano $f$ e $g$ le funzioni definite, per tutti gli $x$ reali, da
 
@@ -31,11 +28,11 @@ $$f(x)=|27x^3| \qquad e \qquad g(x)=\operatorname{sen}\!\left(\frac{3}{2}\pi x\r
 
 **4)** La regione $R$ è la base di un solido. Si scrivano, spiegandone il perché ma senza calcolarli, gli integrali definiti che forniscono i volumi dei solidi $S$ e $T$ ottenuti dalla rotazione di $R$, rispettivamente, attorno all'asse $x$ e attorno all'asse $y$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Con valore assoluto  modulo|Con valore assoluto / modulo]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2012_ordinamento_2012_problema1_6#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.6
+**Soluzione:** [[Soluzioni/2012_ordinamento_2012_problema1_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

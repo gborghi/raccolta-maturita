@@ -12,10 +12,8 @@ tags:
 title: 2010 Suppletiva — Prova
 ---
 
-# 2010 Suppletiva — Prova
-
-Fonte:  · p.141 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.141 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -30,11 +28,11 @@ $$f(x)=\frac{x^2+1}{x^2+2x}.$$
 $$(1)\qquad \frac{x^2+1}{x^2+2x}=a+\frac{b}{x}+\frac{c}{x+2}.$$
 4. Tenendo presente la scomposizione (1), si calcoli l'area della regione piana, limitata da $\gamma$, dal suo asintoto orizzontale e dalla retta d'equazione $x=2$.
 
-**Topic:** [[Geometria Euclidea]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.141
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Problema 2
 
@@ -47,11 +45,11 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 3. Posto $a=1$, si studi $f_1(x)$ e si tracci $\Gamma_1$.
 4. Si calcoli l'area $S(k)$ della regione di piano del primo quadrante delimitata da $\Gamma_1$, dall'asse $x$ e dalla retta $x=k$, con $k>1$. Cosa si può dire di $S(k)$ quando $k\to+\infty$?
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.141
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 1
 
@@ -60,7 +58,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Sistemi di equazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.151
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
 
@@ -69,7 +67,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.151
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 3
 
@@ -78,7 +76,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.151
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
 
@@ -87,7 +85,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.152
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
 
@@ -96,7 +94,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.153
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.153](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
 
@@ -105,7 +103,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.153
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.153](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
 
@@ -114,7 +112,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Equazioni e Disequazioni]], [[Limiti e Continuita]], [[Successioni e Serie]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.154
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
 
@@ -123,7 +121,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.155
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.155](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 9
 
@@ -132,7 +130,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Probabilita]], [[Geometria Solida]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Collegamento tra ambiti matematici diversi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.141
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
 
@@ -141,7 +139,7 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Topic:** [[Probabilita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.141
+**Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

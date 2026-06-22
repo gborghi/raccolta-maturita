@@ -12,12 +12,9 @@ tags:
 title: 2008 PNI Suppletiva — Problema 2
 ---
 
-# 2008 PNI Suppletiva — Problema 2
+Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.86 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione:
 $$y = a\sin^2 x + b\sin x + c.$$
@@ -30,11 +27,11 @@ $$y = a\sin^2 x + b\sin x + c.$$
 
 4) Tra tutte le primitive della funzione data, si determini quella il cui grafico passa per $P(0,6)$ e si scriva l'equazione della retta ad esso tangente in detto punto.
 
-**Topic:** [[Trigonometria]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2008_pni_2008_sessione_suppletiva_problema2_86#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.86
+**Soluzione:** [[Soluzioni/2008_pni_2008_sessione_suppletiva_problema2_86#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

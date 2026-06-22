@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2012_liceo_della_comunicazione_2012_sessione_ordinaria_problema2_45
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_liceo_della_comunicazione_2012_sessione_ordinaria_problema2_45
+title: 2012 Comunicazione Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2012_liceo_della_comunicazione_2012_sessione_ordinaria_problema2_45
 
-## Problema 1
 
 Liceo della comunicazione 2012
 Sessione $Ordinaria-$ Problema $2$

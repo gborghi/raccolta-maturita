@@ -12,12 +12,9 @@ tags:
 title: 2006 Australe Ordinaria — Problema 1
 ---
 
-# 2006 Australe Ordinaria — Problema 1
+Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.25 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Il triangolo $ABC$ è rettangolo in $C$ ed è $CB = m$.
 
@@ -29,11 +26,11 @@ Il triangolo $ABC$ è rettangolo in $C$ ed è $CB = m$.
 
 3. Si determini il valore del parametro $m$ in modo che l'area della regione delimitata da $\gamma$ e dall'asse $t$ fra $t_1$ e $t_2$ sia uguale a $4 - \log 16$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Studio di funzione completo]], [[Uso di relazioni e identita trigonometriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2006_estero_calendario_australe_2006_sessione_ordinaria_problema1_25#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.25
+**Soluzione:** [[Soluzioni/2006_estero_calendario_australe_2006_sessione_ordinaria_problema1_25#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

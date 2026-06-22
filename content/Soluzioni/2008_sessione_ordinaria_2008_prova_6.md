@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2008_sessione_ordinaria_2008_prova_6
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: Soluzioni — 2008_sessione_ordinaria_2008_prova_6
+title: 2008 Ordinaria — Prova (Ordinamento) — Svolgimento
 ---
-
-# Soluzioni — 2008_sessione_ordinaria_2008_prova_6
-
 ## Problema 1
 
 Il triangolo rettangolo $ABC$ ha l'ipotenusa $AB = a$ e l'angolo $\widehat{BAC} = \dfrac{\pi}{3}$.

@@ -12,9 +12,7 @@ tags:
 title: 2003 Americhe Ordinaria — Questionario
 ---
 
-# 2003 Americhe Ordinaria — Questionario
-
-Fonte:  · p.50 · 📄 Apri PDF
+Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.50 · 📄 Apri PDF
 **Topic:** [[Equazioni e Disequazioni]], [[Calcolo Combinatorio]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Dimostrazione per induzione]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.51
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
 
@@ -59,11 +57,11 @@ Fonte:  · p.50 · 📄 Apri PDF
 
 $$y=\log\frac{(x-1)(x-2)(x-3)}{(x+1)(x+2)(x+3)}$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Logaritmica]], [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
 
@@ -72,7 +70,7 @@ $$y=\log\frac{(x-1)(x-2)(x-3)}{(x+1)(x+2)(x+3)}$$
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
 
@@ -83,7 +81,7 @@ $$V=\pi\int_a^b f^2(x)\,dx$$
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

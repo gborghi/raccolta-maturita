@@ -12,20 +12,18 @@ tags:
 title: 2007 LS Ordinamento Straordinaria — Questionario
 ---
 
-# 2007 LS Ordinamento Straordinaria — Questionario
-
-Fonte:  · p.129 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
 **Quesito 1.** Si determini il campo di esistenza della funzione $y=(x^2-3x)^{\frac{1}{|x-4|}}$.
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Con valore assoluto  modulo|Con valore assoluto / modulo]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 2
 
@@ -34,7 +32,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.129
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
 
@@ -43,7 +41,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
 
@@ -52,7 +50,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.130
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 5
 
@@ -61,7 +59,7 @@ Fonte:  · p.129 · 📄 Apri PDF
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
 
@@ -72,7 +70,7 @@ Se ne studi la continuità nel punto $x=0$.
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 7
 
@@ -81,17 +79,17 @@ Se ne studi la continuità nel punto $x=0$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
 
 **Quesito 8.** Si determinino i coefficienti dell'equazione $y=\dfrac{ax^2+6}{bx+3}$ perché la curva rappresentativa ammetta un asintoto obliquo d'equazione $y=x+3$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Calcolo di limiti e continuita]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 9
 
@@ -100,7 +98,7 @@ Se ne studi la continuità nel punto $x=0$.
 **Topic:** [[Derivate]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 10
 
@@ -109,7 +107,7 @@ Se ne studi la continuità nel punto $x=0$.
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2011_ordinamento_2011_problema1_8
 pdf: Prova_Maturita_2011.pdf
 source: text
-title: Soluzioni — 2011_ordinamento_2011_problema1_8
+title: 2011 Ordinamento — Problema 1 — Svolgimento
 ---
-
-# Soluzioni — 2011_ordinamento_2011_problema1_8
-
-## Problema 1
-
 ### 1)
 
 Le due funzioni assegnate sono:

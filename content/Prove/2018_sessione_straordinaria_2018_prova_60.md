@@ -12,12 +12,16 @@ tags:
 title: 2018 Sessione straordinaria — Prova
 ---
 
-# 2018 Sessione straordinaria — Prova
-
-Fonte:  · p.60 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2018_sessione_straordinaria_2018_prova_60/2018_sessione_straordinaria_2018_prova_60_fig.svg]]
+*Figura 1: profilo a sesto acuto (cuspide) della parte superiore della candela, con l'angolo $\vartheta$ al vertice.*
+
+<!--fig:end-->
 
 Il produttore di candele tea light vuole produrre un nuovo tipo di candela aromatica che abbia una parte inferiore di forma cilindrica ed una parte superiore con la forma riportata in figura 1, che si connette perfettamente a quella inferiore, come mostrato in figura 2.
 
@@ -41,11 +45,11 @@ Il produttore di candele tea light vuole produrre un nuovo tipo di candela aroma
 
 4. Fornisci una valutazione numerica dell'efficienza del piano dei confezionamenti, calcolando il rapporto tra area occupata dalle basi circolari delle candele e area disponibile in ciascuna delle due configurazioni. Tale rapporto deve essere espresso in percentuale. Ai fini del calcolo, considera che le celle poligonali evidenziate in grigio sono rispettivamente un triangolo equilatero e un quadrato.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Solida]], [[Trigonometria]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Solida]], [[Trigonometria]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Irrazionale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_60#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_60#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
 
@@ -73,11 +77,11 @@ al variare di $a,b,c$ parametri reali positivi.
 
    $$A>S.$$
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Integrazione (calcolo di integrali)]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]]
 **Tipo funzione:** [[Logaritmica]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_60#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_60#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

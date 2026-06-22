@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2013_sessione_ordinaria_2013_prova_4
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_sessione_ordinaria_2013_prova_4
+title: 2013 Ordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2013_sessione_ordinaria_2013_prova_4
 
 ## Problema 1
 

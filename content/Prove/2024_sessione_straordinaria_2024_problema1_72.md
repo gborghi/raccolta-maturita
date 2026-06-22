@@ -12,12 +12,9 @@ tags:
 title: 2024 Straordinaria — Problema 1
 ---
 
-# 2024 Straordinaria — Problema 1
+Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.72 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia data la seguente funzione parametrica:
 $$y=x^3+ax^2+c$$
@@ -30,11 +27,11 @@ c) Si disegni quindi il grafico della funzione $f(x)=x^3+3x^2+4$, e si calcoli l
 
 d) Si dimostri infine che la funzione $f(x)$ è simmetrica rispetto al suo punto di flesso. Successivamente, si applichi alla funzione $f(x)$ la traslazione di vettore $\vec{v}(\alpha,\beta)$. Determinare $\alpha,\beta\in\mathbb{R}$, affinché la funzione traslata risulti dispari.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_problema1_72#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.72
+**Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_problema1_72#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

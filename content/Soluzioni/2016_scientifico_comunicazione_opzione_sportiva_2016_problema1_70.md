@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2016_scientifico_comunicazione_opzione_sportiva_2016_problema1_70
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_scientifico_comunicazione_opzione_sportiva_2016_problema1_70
+title: 2016 Opzione Sportiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2016_scientifico_comunicazione_opzione_sportiva_2016_problema1_70
 
-## Problema 1
 
 Scientifico Comunicazione Opzione
 Sportiva 2016 - Problema $1$

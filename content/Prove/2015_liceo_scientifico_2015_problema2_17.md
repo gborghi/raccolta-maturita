@@ -12,12 +12,9 @@ tags:
 title: 2015 Liceo scientifico — Problema 2
 ---
 
-# 2015 Liceo scientifico — Problema 2
-
-Fonte:  · p.17 · 📄 Apri PDF
+Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-## Problema 1
 
 La funzione $y=f(x)$ è derivabile in $[-3;3]$ e risulta $f'(-1)=f'(1)=f'(2)=0$. Le aree delle regioni $A$, $B$, $C$ e $D$ sono rispettivamente $2$, $3$, $3$ e $1$. La funzione $g(x)$ è una primitiva di $f(x)$ tale che $g(3)=-5$.
 
@@ -38,7 +35,7 @@ $$\int_{-2}^{1} h(x)\,dx.$$
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]], [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2015_liceo_scientifico_2015_problema2_17#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.17
+**Soluzione:** [[Soluzioni/2015_liceo_scientifico_2015_problema2_17#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

@@ -12,10 +12,8 @@ tags:
 title: 2002 Suppletiva Ordinamento — Questionario
 ---
 
-# 2002 Suppletiva Ordinamento — Questionario
-
-Fonte:  · p.36 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.36 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -31,7 +29,7 @@ Una sola alternativa è corretta: individuarla e giustificare la risposta.
 **Topic:** [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 2
 
@@ -40,16 +38,16 @@ Una sola alternativa è corretta: individuarla e giustificare la risposta.
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 3
 
 **Quesito 3.** Sia $f(x)$ una funzione reale di variabile reale. Si sa che: $f(x)$ è derivabile su tutto l'asse reale; $f(x)=0$ solo per $x=0$; $f(x)\to 0$ per $x\to\pm\infty$; $f'(x)=0$ soltanto per $x=-2$ e $x=1$; $f(-2)=1$ ed $f(1)=-2$. Dire, dandone esauriente spiegazione, se le informazioni suddette sono sufficienti per determinare gli intervalli in cui la funzione è definita, quelli in cui è continua, quelli in cui è positiva, quelli in cui è negativa, quelli in cui cresce, quelli in cui decresce. Si può dire qualcosa circa i flessi di $f(x)$?
 
-**Topic:** [[Studio di Funzione]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 4
 
@@ -60,7 +58,7 @@ dove $a$ è un parametro reale non nullo. Stabilire se esiste un valore di $a$ p
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.37
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 5
 
@@ -69,7 +67,7 @@ dove $a$ è un parametro reale non nullo. Stabilire se esiste un valore di $a$ p
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 6
 
@@ -78,7 +76,7 @@ dove $a$ è un parametro reale non nullo. Stabilire se esiste un valore di $a$ p
 **Topic:** [[Calcolo Integrale]], [[Limiti e Continuita]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.39
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 7
 
@@ -89,7 +87,7 @@ Una sola alternativa è corretta: individuarla e fornire una spiegazione della s
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 8
 
@@ -100,7 +98,7 @@ Una sola alternativa è corretta: individuarla e fornire una spiegazione della s
 **Topic:** [[Successioni e Serie]]
 **Metodi:** [[Successioni, serie e ricorrenze]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 9
 
@@ -109,7 +107,7 @@ Una sola alternativa è corretta: individuarla e fornire una spiegazione della s
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 10
 
@@ -125,7 +123,7 @@ Per ciascuna delle quattro domande motivare la relativa risposta.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

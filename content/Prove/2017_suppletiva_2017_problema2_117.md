@@ -12,12 +12,9 @@ tags:
 title: 2017 Suppletiva — Problema 2
 ---
 
-# 2017 Suppletiva — Problema 2
-
-Fonte:  · p.117 · 📄 Apri PDF
+Fonte: p.117 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Data una funzione $g: \mathbb{R} \to \mathbb{R}$ ovunque derivabile, consideriamo la funzione
 
@@ -39,11 +36,11 @@ $$H = \int_0^{+\infty} |f(x)|\, dx,$$
 
 dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che cosa rappresentano, in termini geometrici, i valori di $I$ e $H$?
 
-**Topic:** [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2017_suppletiva_2017_problema2_117#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.117
+**Soluzione:** [[Soluzioni/2017_suppletiva_2017_problema2_117#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.117](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

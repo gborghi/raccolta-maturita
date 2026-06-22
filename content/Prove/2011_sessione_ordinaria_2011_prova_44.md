@@ -12,12 +12,9 @@ tags:
 title: 2011 Ordinaria — Questionario
 ---
 
-# 2011 Ordinaria — Questionario
-
-Fonte:  · p.44 · 📄 Apri PDF
+Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 1. Sia $W$ il solido ottenuto facendo ruotare attorno all'asse $y$ la parte di piano compresa, per $x \in \left[0; \frac{\pi}{2}\right]$, fra il grafico di $y = \sin x$ e l'asse $x$. Quale dei seguenti integrali definiti fornisce il volume di $W$?
 $$A)\ 2\pi\int_0^{\frac{\pi}{2}} x\sin x\, dx; \quad B)\ \pi\int_0^1 (\arcsin x)^2\, dx; \quad C)\ \pi\int_0^{\frac{\pi}{2}} \sin^2 x\, dx; \quad D)\ \text{nessuno di questi.}$$
@@ -40,7 +37,7 @@ Si motivi la risposta.
 **Topic:** [[Geometria Solida]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_44#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.44
+**Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_44#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

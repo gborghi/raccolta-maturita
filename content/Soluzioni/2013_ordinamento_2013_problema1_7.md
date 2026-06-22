@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2013_ordinamento_2013_problema1_7
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_ordinamento_2013_problema1_7
+title: Ordinamento 2013 — Problema 1 — Svolgimento
 ---
-
-# Soluzioni — 2013_ordinamento_2013_problema1_7
-
-## Problema 1
-
 ### Punto 1)
 
 È definita la funzione

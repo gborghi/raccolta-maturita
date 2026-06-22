@@ -12,10 +12,8 @@ tags:
 title: 2015 Straordinaria — Prova
 ---
 
-# 2015 Straordinaria — Prova
-
-Fonte:  · p.161 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.161 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Problema 1
 
@@ -40,11 +38,11 @@ $$v(t)=k\cdot y(t)$$
 
 4. determina la quantità totale di farmaco accumulata nell'organo nel caso della somministrazione endovenosa e di quella intramuscolare studiate in precedenza. In quale delle due l'accumulo sarà maggiore?
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Successioni e Serie]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Successioni e Serie]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Successioni, serie e ricorrenze]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Interpretazione e formalizzazione del testo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.161
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.161](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Problema 2
 
@@ -58,11 +56,11 @@ Sia $f$ la funzione definita da $y(x)=(4x-2)\cdot e^{2x}$.
 
 4. Sia $f_a$ la famiglia di funzioni definite da $f_a(x)=(2ax-2)\cdot e^{ax}$, con $a\ne 0$. Per ogni funzione $f_a$ la tangente al grafico nel punto di flesso interseca l'asse $x$ e l'asse $y$ delimitando un triangolo rettangolo. Determina i valori di $a$ per i quali tale triangolo è anche isoscele, spiegando il procedimento seguito.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Astrazione e generalizzazione]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.161
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.161](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 1
 
@@ -71,7 +69,7 @@ Sia $f$ la funzione definita da $y(x)=(4x-2)\cdot e^{2x}$.
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.175
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.175](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
 
@@ -84,7 +82,7 @@ ha una discontinuità di terza specie ("eliminabile").
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Studio di funzione completo]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.175
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.175](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 3
 
@@ -95,7 +93,7 @@ ha una discontinuità di terza specie ("eliminabile").
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.176
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.176](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
 
@@ -107,7 +105,7 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.177
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.177](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 5
 
@@ -116,7 +114,7 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.177
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.177](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
 
@@ -125,7 +123,7 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Topic:** [[Probabilita]], [[Statistica]], [[Calcolo Integrale]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Statistica e analisi dati]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.178
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.178](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
 
@@ -136,7 +134,7 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.180
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.180](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
 
@@ -145,7 +143,7 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 **Topic:** [[Derivate]], [[Geometria Solida]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.181
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
 
@@ -156,7 +154,7 @@ e il piano $P$ di equazione $x+2y-z+2=0$, determinare per quale valore di $k$ la
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
 
@@ -165,7 +163,7 @@ e il piano $P$ di equazione $x+2y-z+2=0$, determinare per quale valore di $k$ la
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.182
+**Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

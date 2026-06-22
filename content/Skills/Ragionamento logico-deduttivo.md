@@ -6,8 +6,6 @@ tags:
   - graph/skill
 ---
 
-# Ragionamento logico-deduttivo
-
 *Competenza* — **978** problemi/quesiti.
 
 ## Problemi e quesiti

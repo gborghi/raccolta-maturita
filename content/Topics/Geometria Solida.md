@@ -6,8 +6,6 @@ tags:
   - graph/topic
 ---
 
-# Geometria Solida
-
 *Argomento* — **420** problemi/quesiti.
 
 ## Problemi e quesiti

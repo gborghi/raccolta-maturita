@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)
-
 *Metodo risolutivo* — **69** problemi/quesiti.
 
 ## Problemi e quesiti

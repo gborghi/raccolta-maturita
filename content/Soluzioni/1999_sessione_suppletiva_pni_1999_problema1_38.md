@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 1999_sessione_suppletiva_pni_1999_problema1_38
 pdf: Prova_Maturita_1999.pdf
 source: text
-title: Soluzioni — 1999_sessione_suppletiva_pni_1999_problema1_38
+title: 1999 Suppletiva PNI — Problema 1 — Svolgimento
 ---
-# Soluzioni — 1999_sessione_suppletiva_pni_1999_problema1_38
 
-## Problema 1
 
 Sessione suppletiva PNI 1999 - Problema $1$
 

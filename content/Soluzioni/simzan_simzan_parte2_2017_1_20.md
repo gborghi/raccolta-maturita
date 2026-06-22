@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: simzan_simzan_parte2_2017_1_20
 pdf: SimZan_parte2.pdf
 source: vision
-title: Soluzioni — simzan_simzan_parte2_2017_1_20
+title: 'Simulazione Zanichelli 2017 — SimZan parte2 #1 — Svolgimento'
 ---
-
-# Soluzioni — simzan_simzan_parte2_2017_1_20
-
 ## Problema 1
 
 **Testo (sintesi).** Il comune ha commissionato il recupero di un capannone modernista. La facciata ha un profilo del tetto descritto da una funzione definita su $[-10;10]$; le dimensioni dell'edificio sono: base 20 m, larghezza 8 m (vedi Figura 2).

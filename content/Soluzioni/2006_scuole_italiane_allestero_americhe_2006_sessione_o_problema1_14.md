@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_scuole_italiane_allestero_americhe_2006_sessione_o_problema1_14
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_scuole_italiane_allestero_americhe_2006_sessione_o_problema1_14
+title: 2006 Estero Americhe — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2006_scuole_italiane_allestero_americhe_2006_sessione_o_problema1_14
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2006
 Sessione $Ordinaria-$ Problema $1$

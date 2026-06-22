@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2012_sessione_suppletiva_2012_211_prova_124
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: Soluzioni — 2012_sessione_suppletiva_2012_211_prova_124
+title: Sessione suppletiva 2012 — Prova — Svolgimento
 ---
-
-# Soluzioni — 2012_sessione_suppletiva_2012_211_prova_124
-
 > Sessione suppletiva 2012 — Liceo Scientifico.
 > La prova contiene due varianti: Ordinamento (M557) e PNI/Sperimentale (Y557).
 > Le soluzioni dei Quesiti 1–10 si riferiscono alla versione PNI (Matefilia).

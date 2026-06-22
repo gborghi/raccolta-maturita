@@ -12,12 +12,9 @@ tags:
 title: 1998 — Tema di maturita
 ---
 
-# 1998 — Tema di maturita
+Fonte: p.149 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.149 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Il candidato scelga a suo piacimento due dei seguenti problemi e li risolva. Tempo concesso: 5 ore.*
 
@@ -83,11 +80,11 @@ c) determini l'area della regione finita di piano compresa tra la curva $C$, l'a
 
 a) individui il punto $C$ del segmento $OB$ che sia il centro dell'ulteriore cerchio di intersezione di $S$ con il cono $\Sigma$ di base $\Gamma$ e vertice $B$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Razionale fratta]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Fonte:** 📄 Testo (PDF) — p.149
+**Fonte:** [📄 Testo (PDF) — p.149](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

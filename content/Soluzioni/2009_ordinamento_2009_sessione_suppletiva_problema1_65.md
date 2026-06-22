@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2009_ordinamento_2009_sessione_suppletiva_problema1_65
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: Soluzioni — 2009_ordinamento_2009_sessione_suppletiva_problema1_65
+title: 2009 Ordinamento Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2009_ordinamento_2009_sessione_suppletiva_problema1_65
 
-## Problema 1
 
 ORDINAMENTO 2009 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

@@ -12,12 +12,9 @@ tags:
 title: 1970 Tema di maturita
 ---
 
-# 1970 Tema di maturita
-
-Fonte:  · p.107 · 📄 Apri PDF
+Fonte: p.107 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 **Problema.** Verificare che le due curve piane, grafici cartesiani delle funzioni:
 
@@ -41,11 +38,11 @@ Si descriva l'andamento del grafico.
 
 Infine, si determini l'area del rettangoloide, relativo al grafico, avente per base l'intervallo di estremi $x = 0$, $x = 2$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Polinomiale]]
-**Fonte:** 📄 Testo (PDF) — p.107
+**Fonte:** [📄 Testo (PDF) — p.107](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

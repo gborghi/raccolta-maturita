@@ -12,12 +12,15 @@ tags:
 title: 2015 SIMULAZIONE - 22 APRILE 2015
 ---
 
-# 2015 SIMULAZIONE - 22 APRILE 2015
+Fonte: p.132 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.132 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
 
-## Problema 1
+<!--fig:start-->
+![[_attachments/2015_simulazione___22_aprile_2015_problema2_132/2015_simulazione___22_aprile_2015_problema2_132_fig.svg]]
+*Sezione longitudinale del vaso nel piano cartesiano: profilo spezzato per i punti A(0;3), S(12;6), V(18;4) e simmetrico rispetto all'asse x; in basso l'altezza h.*
+
+<!--fig:end-->
 
 22-APRILE-2015_Problema2_132
 parent_node: prova_2015_simulazione___22_aprile_2015_problema2_132
@@ -51,11 +54,11 @@ Dopo che un primo esemplare del vaso è stato prodotto, il responsabile della pr
 
 4. Lasciando ancora invariate le misure dei diametri corrispondenti ai punti $A$ e $S$, individua la funzione razionale intera di secondo grado che consente di congiungere i punti $A$ e $S$, eliminando il punto angoloso in $S$; disegna la nuova sagoma del vaso e individua il punto della curva $AS$ in cui la pendenza del grafico è rimasta immutata rispetto alla sagoma precedentemente proposta.
 
-**Topic:** [[Geometria Solida]], [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Solida]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]], [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2015_simulazione___22_aprile_2015_problema2_132#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2015_simulazione___22_aprile_2015_problema2_132#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

@@ -12,12 +12,9 @@ tags:
 title: 1961 Tema di maturita
 ---
 
-# 1961 Tema di maturita
+Fonte: p.100 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.100 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 [Conclusione del problema precedente] $\dots$ $BC$ risulti ipotenusa di un triangolo rettangolo di cateti rispettivamente eguali a $CP$ e alla metà di $BP$. È facoltativa la risoluzione geometrica.
 
@@ -46,11 +43,11 @@ essendo $k$ un numero reale dato. Discussione.
 
 Data una sfera di centro $O$ e raggio $r$, si conduca un piano secante non passante per il centro e si indichino: [...]
 
-**Topic:** [[Studio di Funzione]], [[Geometria Solida]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Solida]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Fonte:** 📄 Testo (PDF) — p.100
+**Fonte:** [📄 Testo (PDF) — p.100](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

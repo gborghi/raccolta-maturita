@@ -12,12 +12,9 @@ tags:
 title: 2012 Comunicazione Ordinaria — Problema 1
 ---
 
-# 2012 Comunicazione Ordinaria — Problema 1
+Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.42 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f(x)=\sqrt{\ln^2(-x)-\ln x^2+1}$ e sia $g(x)=\sqrt{\ln^2(x)-\ln x^2+1}$.
 
@@ -29,11 +26,11 @@ Sia $f(x)=\sqrt{\ln^2(-x)-\ln x^2+1}$ e sia $g(x)=\sqrt{\ln^2(x)-\ln x^2+1}$.
 
 **4)** Si calcoli l'area compresa tra $g(x)$ e l'asse $x$ per $e \le x \le 2e$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]
-**Soluzione:** [[Soluzioni/2012_liceo_della_comunicazione_2012_sessione_ordinaria_problema1_42#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/2012_liceo_della_comunicazione_2012_sessione_ordinaria_problema1_42#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

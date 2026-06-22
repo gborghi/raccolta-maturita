@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2024_sessione_straordinaria_2024_prova_70
 pdf: Prova_Maturita_2024.pdf
 source: text
-title: Soluzioni — 2024_sessione_straordinaria_2024_prova_70
+title: 2024 Straordinaria — Prova — Svolgimento
 ---
-# Soluzioni — 2024_sessione_straordinaria_2024_prova_70
 
 ## Problema 1
 

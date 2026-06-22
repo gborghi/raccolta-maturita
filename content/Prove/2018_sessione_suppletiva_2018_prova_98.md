@@ -12,12 +12,16 @@ tags:
 title: 2018 Sessione suppletiva — Prova
 ---
 
-# 2018 Sessione suppletiva — Prova
-
-Fonte:  · p.98 · 📄 Apri PDF
+Fonte: p.98 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2018_sessione_suppletiva_2018_prova_98/2018_sessione_suppletiva_2018_prova_98_fig.svg]]
+*Figura 1: cornice quadrata di lato $3\pi$ dm con decorazione $y=\tfrac{\pi}{2}\operatorname{sen}(x)$ incisa e ruotata sui quattro lati.*
+
+<!--fig:end-->
 
 Un artigiano deve realizzare una cornice in cui inscrivere uno specchio di forma circolare. A partire da una tavola quadrata di lato $3\pi$ decimetri (approssimato alla seconda cifra decimale), adoperando una macchina a controllo numerico (CNC), incide su ciascun lato una decorazione che rappresenta una porzione di curva goniometrica come si vede in figura 1.
 
@@ -40,7 +44,7 @@ Volendo offrire ai clienti la possibilità di inserire nella cornice uno specchi
 **Topic:** [[Trigonometria]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
 
@@ -58,11 +62,11 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 
 4. Sia $A$ la regione limitata compresa tra i grafici $F_e$ e $G_e$ e gli assi cartesiani. Determina l'area di $A$ ed il volume del solido generato ruotando $A$ attorno a uno degli assi cartesiani.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Logaritmica]], [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 1
 
@@ -71,7 +75,7 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 2
 
@@ -80,7 +84,7 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 **Topic:** [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 3
 
@@ -89,7 +93,7 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 4
 
@@ -100,7 +104,7 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 5
 
@@ -109,7 +113,7 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 **Topic:** [[Probabilita]], [[Equazioni e Disequazioni]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Risoluzione di equazioni e disequazioni]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 6
 
@@ -118,7 +122,7 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 7
 
@@ -127,7 +131,7 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 **Topic:** [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 8
 
@@ -138,7 +142,7 @@ Stabilire il valore medio e il valore mediano di questa variabile casuale.
 **Topic:** [[Probabilita]], [[Statistica]], [[Calcolo Integrale]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Integrazione (calcolo di integrali)]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 9
 
@@ -147,7 +151,7 @@ Stabilire il valore medio e il valore mediano di questa variabile casuale.
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 10
 
@@ -156,7 +160,7 @@ Stabilire il valore medio e il valore mediano di questa variabile casuale.
 **Topic:** [[Equazioni Differenziali]], [[Derivate]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.98
+**Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_98#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

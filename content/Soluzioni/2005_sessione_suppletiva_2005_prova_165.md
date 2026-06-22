@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2005_sessione_suppletiva_2005_prova_165
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_sessione_suppletiva_2005_prova_165
+title: 2005 Suppletiva — Prova — Svolgimento
 ---
-
-# Soluzioni — 2005_sessione_suppletiva_2005_prova_165
-
 ## Problema 1
 
 **Testo.** Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa in modo che una base sia la sezione della piramide con il piano equidistante dal suo vertice e dalla sua base.

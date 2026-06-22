@@ -12,9 +12,7 @@ tags:
 title: 2009 Sessione Ordinaria Estero Europa — Prova
 ---
 
-# 2009 Sessione Ordinaria Estero Europa — Prova
-
-Fonte:  · p.63 · 📄 Apri PDF
+Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Problema 1
@@ -32,7 +30,7 @@ d) Il settore circolare $POQ$ è la base di un solido $W$ che tagliato con piani
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Problema 2
 
@@ -49,7 +47,7 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 1
 
@@ -58,27 +56,27 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.74
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.74](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
 2. Si dimostri che l'equazione: $$x^{11}+11x+5=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.75
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.75](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
 3. Si determini il campo di esistenza della funzione: $$f:x\to\ln(-2x^2+4x+6).$$
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.76
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -87,7 +85,7 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.76
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -99,10 +97,10 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 
 Si calcolino $k$ e $\alpha$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Fisica]], [[Equazioni e Disequazioni]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Fisica|Fisica]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Sistemi di equazioni]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Analisi e interpretazione di dati e probabilita]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.77
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.77](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
@@ -111,7 +109,7 @@ Si calcolino $k$ e $\alpha$.
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.78
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.78](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -120,7 +118,7 @@ Si calcolino $k$ e $\alpha$.
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.79
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.79](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
@@ -131,7 +129,7 @@ Si calcolino $k$ e $\alpha$.
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.79
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.79](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

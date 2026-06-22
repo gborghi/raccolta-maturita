@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2012_scuole_italiane_allestero_americhe_2012_sessione_o_problema1_14
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_scuole_italiane_allestero_americhe_2012_sessione_o_problema1_14
+title: Scuole estero Americhe 2012 — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2012_scuole_italiane_allestero_americhe_2012_sessione_o_problema1_14
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2012
 Sessione $Ordinaria-$ Problema $1$

@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Modellizzazione matematica di un problema reale/applicato
-
 *Metodo risolutivo* — **155** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Americhe Ordinaria — Questionario
 ---
 
-# 2008 Estero Americhe Ordinaria — Questionario
-
-Fonte:  · p.22 · 📄 Apri PDF
+Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Il candidato risolva uno dei due problemi e risponda a 4 degli 8 quesiti del questionario.
 
@@ -40,7 +37,7 @@ Il candidato risolva uno dei due problemi e risponda a 4 degli 8 quesiti del que
 **Topic:** [[Massimi e Minimi]], [[Calcolo Combinatorio]], [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_americhe_2008_sessione_o_questionario_22#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.22
+**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_americhe_2008_sessione_o_questionario_22#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

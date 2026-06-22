@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_suppletiva_2015_problema2_171
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_suppletiva_2015_problema2_171
+title: 2015 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2015_suppletiva_2015_problema2_171
 
-## Problema 1
 
 Suppletiva 2015 - Problema $2$
 

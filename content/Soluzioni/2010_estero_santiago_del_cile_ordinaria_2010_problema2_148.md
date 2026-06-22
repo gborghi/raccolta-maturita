@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2010_estero_santiago_del_cile_ordinaria_2010_problema2_148
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_santiago_del_cile_ordinaria_2010_problema2_148
+title: 2010 Estero Santiago Ordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2010_estero_santiago_del_cile_ordinaria_2010_problema2_148
 
-## Problema 1
 
 Estero (Santiago del Cile)
 Ordinaria $2010-$ Problema $2$

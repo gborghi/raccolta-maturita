@@ -12,9 +12,7 @@ tags:
 title: 2011 Estero Americhe — Questionario
 ---
 
-# 2011 Estero Americhe — Questionario
-
-Fonte:  · p.38 · 📄 Apri PDF
+Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Quesito 1
@@ -26,7 +24,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Trigonometria]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
 
@@ -35,7 +33,7 @@ Si motivi la risposta.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Sistemi di equazioni]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.38
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
 
@@ -44,7 +42,7 @@ Si motivi la risposta.
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.39
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
 
@@ -53,7 +51,7 @@ Si motivi la risposta.
 **Topic:** [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.40
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
 
@@ -62,7 +60,7 @@ Si motivi la risposta.
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
 
@@ -71,7 +69,7 @@ Si motivi la risposta.
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
 
@@ -80,7 +78,7 @@ Si motivi la risposta.
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
 
@@ -89,7 +87,7 @@ Si motivi la risposta.
 **Topic:** [[Geometria Analitica (piano)]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.42
+**Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

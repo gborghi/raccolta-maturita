@@ -12,12 +12,9 @@ tags:
 title: 1979 Tema di maturita (estero)
 ---
 
-# 1979 Tema di maturita (estero)
-
-Fonte:  · p.118 · 📄 Apri PDF
+Fonte: p.118 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
@@ -31,11 +28,11 @@ si scriva l'equazione della retta che, nella regione finita di piano limitata da
 $$y = \frac{x^2 + 1}{x^2}$$
 e se ne disegni il grafico.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Studio di Funzione]], [[Trigonometria]]
+**Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]]
-**Fonte:** 📄 Testo (PDF) — p.118
+**Fonte:** [📄 Testo (PDF) — p.118](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

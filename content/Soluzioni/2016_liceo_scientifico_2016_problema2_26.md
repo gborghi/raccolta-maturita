@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2016_liceo_scientifico_2016_problema2_26
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_liceo_scientifico_2016_problema2_26
+title: 2016 Liceo Scientifico — Problema 2 e Quesiti — Svolgimento
 ---
-# Soluzioni — 2016_liceo_scientifico_2016_problema2_26
 
-## Problema 1
 
 Liceo scientifico 2016 - Problema $2$
 

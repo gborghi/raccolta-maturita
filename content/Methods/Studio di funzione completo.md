@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Studio di funzione completo
-
 *Metodo risolutivo* — **626** problemi/quesiti.
 
 ## Problemi e quesiti

@@ -12,12 +12,9 @@ tags:
 title: 2019 Boreale — Problema 2
 ---
 
-# 2019 Boreale — Problema 2
+Fonte: p.74 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.74 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 In uno dei possibili modelli per descrivere l'effetto della resistenza dell'aria in un moto di caduta libera, si suppone che il modulo della forza di attrito $F$, opposta alla forza peso, risulti
 $$F=k\cdot[v(t)]^2$$
@@ -39,11 +36,11 @@ d) Preso $t_0>0$, calcolare l'area $A$ della regione $R$ nel 1° quadrante che �
 $$\int_{-\tau}^{\tau}a(t)\,dt$$
 e stabilire il suo comportamento per $\tau\to+\infty$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Fisica]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Esponenziale]]
-**Soluzione:** [[Soluzioni/2019_boreale_2019_problema2_74#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.74
+**Soluzione:** [[Soluzioni/2019_boreale_2019_problema2_74#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.74](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

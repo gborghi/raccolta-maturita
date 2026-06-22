@@ -12,12 +12,9 @@ tags:
 title: 2015 Estero vecchio ordinamento — Problema 2
 ---
 
-# 2015 Estero vecchio ordinamento — Problema 2
+Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.70 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con $F$ e $G$ i loro grafici in un riferimento cartesiano $Oxy$:
 
@@ -29,11 +26,11 @@ Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con $F$ e
 
 **4)** Detta $A$ la regione piana finita delimitata dall'asse $y$, dalla retta di equazione $y=x-1$ e dal grafico $G$, calcola l'area di $A$ e il volume del solido generato ruotando $A$ intorno all'asse $y$.
 
-**Topic:** [[Esponenziali e Logaritmi]], [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]], [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2015_estero_vecchio_ordinamento_2015_problema2_70#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.70
+**Soluzione:** [[Soluzioni/2015_estero_vecchio_ordinamento_2015_problema2_70#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

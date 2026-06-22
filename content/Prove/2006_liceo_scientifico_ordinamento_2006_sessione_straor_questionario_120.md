@@ -12,10 +12,8 @@ tags:
 title: 2006 Straordinaria — Questionario
 ---
 
-# 2006 Straordinaria — Questionario
-
-Fonte:  · p.120 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
+Fonte: p.120 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 ## Quesito 1
 
@@ -24,7 +22,7 @@ Fonte:  · p.120 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.120
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.120 · 📄 Apri PDF
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.121
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.121](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.120 · 📄 Apri PDF
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 4
 
@@ -55,7 +53,7 @@ Una sola alternativa è corretta: individuarla e fornire un'esauriente spiegazio
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.122
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 5
 
@@ -64,37 +62,37 @@ Una sola alternativa è corretta: individuarla e fornire un'esauriente spiegazio
 **Topic:** [[Derivate]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.123
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 6
 
 **Quesito 6.** Dopo aver enunciato il teorema di Rolle, spiegare in maniera esauriente se può essere applicato alla funzione $f(x) = \sqrt{x^2}$ nell'intervallo $[-1;\ 1]$.
 
-**Topic:** [[Derivate]], [[Studio di Funzione]]
+**Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Teoremi del calcolo (Rolle, Lagrange, valor medio, T. fond. calcolo integrale)]], [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Applicazione consapevole di teoremi]], [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.123
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 7
 
 **Quesito 7.** Giustificare, con considerazioni analitiche o mediante un'interpretazione grafica, che la seguente equazione: $x^5 + x^3 + 1 = 0$ ammette una e una sola soluzione reale. Trovare, quindi, l'intervallo $[z;\ z+1]$ al quale appartiene tale soluzione, essendo $z$ un numero intero.
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]], [[Limiti e Continuita]]
 **Metodi:** [[Teoremi di esistenza (continuita, Weierstrass, valori intermedi, zeri)]], [[Analisi qualitativa e deduzione di grafici]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 8
 
 **Quesito 8.** Considerata l'equazione $x^5 - 2x^3 + 1 = 0$, spiegare, con il metodo preferito ma in maniera esauriente, perché non può ammettere più di una soluzione razionale.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Studio di Funzione]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.124
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 9
 
@@ -103,7 +101,7 @@ Una sola alternativa è corretta: individuarla e fornire un'esauriente spiegazio
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.125
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 10
 
@@ -112,7 +110,7 @@ Una sola alternativa è corretta: individuarla e fornire un'esauriente spiegazio
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.125
+**Soluzione:** [[Soluzioni/2006_liceo_scientifico_ordinamento_2006_sessione_straor_questionario_120#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

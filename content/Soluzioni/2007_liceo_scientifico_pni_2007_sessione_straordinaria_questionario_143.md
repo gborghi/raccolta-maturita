@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143
 pdf: Prova_Maturita_2007.pdf
 source: text
-title: >-
-  Soluzioni —
-  2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143
+title: 2007 LS PNI Straordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2007_liceo_scientifico_pni_2007_sessione_straordinaria_questionario_143
-
 ## Quesito 1
 
 Si calcoli il limite della funzione $y = \dfrac{\log(x+3) - \log(2x+1)}{x^2 + x - 6}$ quando $x$ tende a $2$.

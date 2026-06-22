@@ -6,8 +6,6 @@ tags:
   - cluster/derivate_massimi_e_minimi
 ---
 
-# Derivate, Massimi e Minimi
-
 *Cluster tematico* — **82 prove**.
 
 ## Prove

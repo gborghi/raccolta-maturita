@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2015_estero_vecchio_ordinamento_2015_problema2_70
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_estero_vecchio_ordinamento_2015_problema2_70
+title: 2015 Estero vecchio ordinamento — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2015_estero_vecchio_ordinamento_2015_problema2_70
 
-## Problema 1
 
 Estero vecchio ordinamento 2015 -
 Problema $2$

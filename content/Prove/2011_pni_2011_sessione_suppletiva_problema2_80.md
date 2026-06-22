@@ -12,12 +12,9 @@ tags:
 title: 2011 PNI Suppletiva — Problema 2
 ---
 
-# 2011 PNI Suppletiva — Problema 2
+Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.80 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione
 $$f(x)=(3-x)\sqrt{x+3}.$$
@@ -30,11 +27,11 @@ $$f(x)=(3-x)\sqrt{x+3}.$$
 
 4) Si scelga a caso un punto all'interno del cono $S$. Si determini la probabilità che tale punto risulti esterno al solido $S'$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Geometria Solida]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Analisi e interpretazione di dati e probabilita]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2011_pni_2011_sessione_suppletiva_problema2_80#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/2011_pni_2011_sessione_suppletiva_problema2_80#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

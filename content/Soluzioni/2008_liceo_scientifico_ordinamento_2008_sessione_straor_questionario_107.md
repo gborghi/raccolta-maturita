@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: >-
-  Soluzioni —
-  2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107
+title: 2008 Ordinamento Straordinaria — Questionario — Svolgimento
 ---
-# Soluzioni — 2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107
 
 ## Quesito 1
 

@@ -12,9 +12,7 @@ tags:
 title: 2009 Sessione Ordinaria PNI — Prova
 ---
 
-# 2009 Sessione Ordinaria PNI — Prova
-
-Fonte:  · p.146 · 📄 Apri PDF
+Fonte: p.146 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 **Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
@@ -26,11 +24,11 @@ Sia $f$ la funzione definita da $$f(x)=\left(1+x+\frac{x^2}{2!}+\dots+\frac{x^n}
 3. Si studi la funzione $g$ ottenuta da $f$ quando $n=2$ e se ne disegni il grafico.
 4. Si calcoli $\displaystyle\int_0^2 g(x)\,dx$ e se ne dia l'interpretazione geometrica.
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Esponenziale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Problema 2
 
@@ -41,11 +39,11 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 3. Sia $D$ la regione finita del primo quadrante delimitata da $\gamma$ e dal grafico della funzione inversa di $g$. Si calcoli l'area di $D$.
 4. La regione $D$ è la base di un solido $W$ le cui sezioni con piani perpendicolari alla bisettrice del primo quadrante sono tutte rettangoli di altezza $12$. Si determini la sezione di area massima. Si calcoli il volume di $W$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 1
 
@@ -54,7 +52,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
 
@@ -63,7 +61,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
 
@@ -72,7 +70,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
 
@@ -81,7 +79,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
 
@@ -90,7 +88,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
 
@@ -99,7 +97,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Successioni e Serie]], [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni e disequazioni]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo numerico e stima]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
 
@@ -108,7 +106,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
 
@@ -117,7 +115,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Statistica]]
 **Metodi:** [[Sistemi di equazioni]], [[Statistica e analisi dati]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 9
 
@@ -126,7 +124,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Geometria Solida]], [[Calcolo Integrale]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Visualizzazione spaziale e geometrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 10
 
@@ -137,7 +135,7 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Topic:** [[Geometria Euclidea]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.146
+**Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/calcolo_integrale_e_aree

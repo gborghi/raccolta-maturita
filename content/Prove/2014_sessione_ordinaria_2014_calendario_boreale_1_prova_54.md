@@ -12,9 +12,7 @@ tags:
 title: Ordinaria 2014 Calendario Boreale 1 — Prova
 ---
 
-# Ordinaria 2014 Calendario Boreale 1 — Prova
-
-Fonte:  · p.54 · 📄 Apri PDF
+Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -32,7 +30,7 @@ La circonferenza $\Sigma_1$ di centro $C$ e raggio $a = 1$ appartiene al semipia
 **Topic:** [[Geometria Analitica (piano)]], [[Geometria Euclidea]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.54
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
 
@@ -46,11 +44,11 @@ Si consideri, in un riferimento cartesiano $Oxy$, la funzione $f(x) = x(x - 1)(x
 
 4. Sia $R$ la regione finita delimitata da $\Gamma$ e dalla retta $t$ tangente a $\Gamma$ nell'origine $O$. Si consideri il solido $W$ di base $R$, le cui sezioni con piani ortogonali all'asse delle ascisse sono tutti semicerchi i cui diametri hanno gli estremi uno su $t$ l'altro su $\Gamma$. Qual è l'altezza massima del solido $W$? Si calcoli il volume di $W$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Solida]]
 **Metodi:** [[Studio di funzione completo]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.54
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 1
 
@@ -59,7 +57,7 @@ Si consideri, in un riferimento cartesiano $Oxy$, la funzione $f(x) = x(x - 1)(x
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Sistemi di equazioni]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Problem solving (strategia risolutiva non immediata)]], [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
 
@@ -69,7 +67,7 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
 
@@ -78,7 +76,7 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
 
@@ -87,7 +85,7 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
 
@@ -96,7 +94,7 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Sistemi di equazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
 
@@ -105,7 +103,7 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.61
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
 
@@ -114,7 +112,7 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo numerico e stima]], [[Problem solving (strategia risolutiva non immediata)]], [[Interpretazione e formalizzazione del testo]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
 
@@ -123,7 +121,7 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.62
+**Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

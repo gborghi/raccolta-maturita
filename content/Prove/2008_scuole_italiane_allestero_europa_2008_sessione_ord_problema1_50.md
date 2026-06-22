@@ -12,12 +12,9 @@ tags:
 title: 2008 Estero Europa Ordinaria — Problema 1
 ---
 
-# 2008 Estero Europa Ordinaria — Problema 1
-
-Fonte:  · p.50 · 📄 Apri PDF
+Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 La circonferenza $\gamma$ passa per $B(0,-4)$ ed è tangente in $O(0,0)$ alla retta di coefficiente angolare $-4$; la parabola $\lambda$ passa per $A(4,0)$ ed è tangente in $O$ a $\gamma$.
 
@@ -32,7 +29,7 @@ La circonferenza $\gamma$ passa per $B(0,-4)$ ed è tangente in $O(0,0)$ alla re
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]], [[Trigonometria]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.50
+**Soluzione:** [[Soluzioni/2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

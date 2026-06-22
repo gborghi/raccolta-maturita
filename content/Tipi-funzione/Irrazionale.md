@@ -6,8 +6,6 @@ tags:
   - graph/ftype
 ---
 
-# Irrazionale
-
 *Tipo di funzione* — **58** problemi/quesiti.
 
 ## Problemi e quesiti

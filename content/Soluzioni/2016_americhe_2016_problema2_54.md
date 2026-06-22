@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2016_americhe_2016_problema2_54
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_americhe_2016_problema2_54
+title: 2016 Americhe — Problema 2 e Quesiti — Svolgimento
 ---
-# Soluzioni — 2016_americhe_2016_problema2_54
 
-## Problema 1
 
 Americhe 2016 - Problema $2$
 

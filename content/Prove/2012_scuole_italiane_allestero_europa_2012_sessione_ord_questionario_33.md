@@ -12,9 +12,7 @@ tags:
 title: Scuole estero Europa 2012 — Questionario
 ---
 
-# Scuole estero Europa 2012 — Questionario
-
-Fonte:  · p.33 · 📄 Apri PDF
+Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.33 · 📄 Apri PDF
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.33
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
 
@@ -33,7 +31,7 @@ Fonte:  · p.33 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.33
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 3
 
@@ -42,7 +40,7 @@ Fonte:  · p.33 · 📄 Apri PDF
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 4
 
@@ -51,7 +49,7 @@ Fonte:  · p.33 · 📄 Apri PDF
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.34
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 5
 
@@ -60,7 +58,7 @@ Fonte:  · p.33 · 📄 Apri PDF
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Calcolo simbolico e manipolazione algebrica]], [[Modellizzazione matematica di situazioni]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.35
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.35](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
 
@@ -71,7 +69,7 @@ $$\lim_{x\to 0}\frac{\tan(3x)+3x}{\operatorname{sen}(5x)}$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 7
 
@@ -80,7 +78,7 @@ $$\lim_{x\to 0}\frac{\tan(3x)+3x}{\operatorname{sen}(5x)}$$
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
 
@@ -89,7 +87,7 @@ $$\lim_{x\to 0}\frac{\tan(3x)+3x}{\operatorname{sen}(5x)}$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

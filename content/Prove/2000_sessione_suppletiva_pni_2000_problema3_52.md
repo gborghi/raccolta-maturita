@@ -12,12 +12,9 @@ tags:
 title: 2000 Suppletiva PNI — Problema 3
 ---
 
-# 2000 Suppletiva PNI — Problema 3
-
-Fonte:  · p.52 · 📄 Apri PDF
+Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
 **Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
-## Problema 1
 
 Si consideri l'esperimento consistente nell'estrazione a caso di $5$ palline, una dopo l'altra, senza reimbussolamento delle palline estratte, da un sacchetto contenente $90$ palline numerate da $1$ a $90$, aventi tutte le stesse possibilità di uscita (gioco del Lotto).
 
@@ -43,7 +40,7 @@ d. Supponendo di ripetere $n$ volte l'esperimento considerato, calcolare la prob
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Successioni, serie e ricorrenze]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2000_sessione_suppletiva_pni_2000_problema3_52#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.52
+**Soluzione:** [[Soluzioni/2000_sessione_suppletiva_pni_2000_problema3_52#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
 
 
 #maturita/prova #area/probabilita_e_combinatoria #cluster/probabilit_e_combinatoria

@@ -12,12 +12,9 @@ tags:
 title: 2010 Scientifico Ordinamento Straordinaria — Problema 1
 ---
 
-# 2010 Scientifico Ordinamento Straordinaria — Problema 1
+Fonte: p.173 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.173 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 In un triangolo $ABC$, l'angolo in $B$ è il doppio dell'angolo in $C$ e inoltre è $BC = a$.
 
@@ -31,11 +28,11 @@ espresso in funzione dell'angolo $x = A\hat{B}C$.
 
 **4)** Si calcoli il valore medio della funzione $f(x)$ nell'intervallo $0 \le x \le \pi$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_problema1_173#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.173
+**Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_problema1_173#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.173](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

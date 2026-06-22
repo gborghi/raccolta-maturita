@@ -12,12 +12,9 @@ tags:
 title: 2008 PNI Suppletiva — Problema 1
 ---
 
-# 2008 PNI Suppletiva — Problema 1
-
-Fonte:  · p.80 · 📄 Apri PDF
+Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Siano dati un cerchio di raggio $r$ ed una sua corda $AB$ uguale al lato del quadrato in esso inscritto.
 
@@ -31,11 +28,11 @@ e lo si esprima in funzione di $X = \tan P\hat{A}B$.
 
 4) Si calcoli l'area della parte finita di piano compresa tra la curva $\gamma$, la suddetta tangente e la retta di equazione $x = k$, essendo $k$ l'ascissa del punto di massimo relativo.
 
-**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Studio di Funzione]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Euclidea]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2008_pni_2008_sessione_suppletiva_problema1_80#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.80
+**Soluzione:** [[Soluzioni/2008_pni_2008_sessione_suppletiva_problema1_80#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

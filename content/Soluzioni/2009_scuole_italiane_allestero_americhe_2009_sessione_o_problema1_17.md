@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2009_scuole_italiane_allestero_americhe_2009_sessione_o_problema1_17
 pdf: Prova_Maturita_2009.pdf
 source: text
-title: >-
-  Soluzioni —
-  2009_scuole_italiane_allestero_americhe_2009_sessione_o_problema1_17
+title: 2009 Estero Americhe — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2009_scuole_italiane_allestero_americhe_2009_sessione_o_problema1_17
 
-## Problema 1
 
 Scuole italiane all’estero (Americhe) 2009
 Sessione $Ordinaria-$ Problema $1$

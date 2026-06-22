@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2013_ordinamento_2013_sessione_suppletiva_problema2_65
 pdf: Prova_Maturita_2013.pdf
 source: text
-title: Soluzioni — 2013_ordinamento_2013_sessione_suppletiva_problema2_65
+title: Ordinamento 2013 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2013_ordinamento_2013_sessione_suppletiva_problema2_65
 
-## Problema 1
 
 ORDINAMENTO 2013 SESSIONE SUPPLETIVA - PROBLEMA $2$
 

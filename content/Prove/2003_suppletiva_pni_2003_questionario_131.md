@@ -12,9 +12,7 @@ tags:
 title: 2003 Suppletiva PNI — Questionario
 ---
 
-# 2003 Suppletiva PNI — Questionario
-
-Fonte:  · p.131 · 📄 Apri PDF
+Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 **Cluster:** [[Geometria|Geometria]]
 
 ## Quesito 1
@@ -24,7 +22,7 @@ Fonte:  · p.131 · 📄 Apri PDF
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.131
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
 
@@ -33,18 +31,18 @@ Fonte:  · p.131 · 📄 Apri PDF
 **Topic:** [[Geometria nello Spazio]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]], [[Dimostrazione e argomentazione rigorosa]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
 
 **Quesito 3.** Il dominio della funzione $f(x) = \sqrt{x - \sqrt{x^2 - 2x}}$ è l'insieme degli $x$ reali tali che:
 $$A)\ x \le 0 \ \text{e/o}\ x > 2; \quad B)\ x \le 0 \ \text{e/o}\ x \ge 2; \quad C)\ x = 0 \ \text{e/o}\ x > 2; \quad D)\ x = 0 \ \text{e/o}\ x \ge 2$$
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.132
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
 
@@ -53,7 +51,7 @@ $$A)\ x \le 0 \ \text{e/o}\ x > 2; \quad B)\ x \le 0 \ \text{e/o}\ x \ge 2; \qua
 **Topic:** [[Derivate]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
 
@@ -64,7 +62,7 @@ e, in caso di risposta affermativa, determinarli.
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.133
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
 
@@ -72,10 +70,10 @@ e, in caso di risposta affermativa, determinarli.
 $$\begin{cases} kx + y + z = 0 \\ x + ky + z = 0 \\ x + y + kz = 0 \end{cases}$$
 dove $k$ è un parametro reale. Dire se l'affermazione: «il sistema ammette la sola soluzione $x = 0, y = 0, z = 0$ per ogni valore di $k$ diverso da $1$» è vera o falsa e fornire una spiegazione esauriente della risposta.
 
-**Topic:** [[Equazioni e Disequazioni]], [[Algebra]]
+**Topic:** [[Equazioni e Disequazioni]], [[Topics/Algebra|Algebra]]
 **Metodi:** [[Sistemi di equazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
 
@@ -84,7 +82,7 @@ dove $k$ è un parametro reale. Dire se l'affermazione: «il sistema ammette la 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.134
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
 
@@ -95,7 +93,7 @@ dove $a, b$ sono parametri reali. Dimostrare che fra esse vi è una similitudine
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Sistemi di equazioni]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 9
 
@@ -107,7 +105,7 @@ c) è messa da parte senza guardarne il colore?
 **Topic:** [[Probabilita]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.136
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.136](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 10
 
@@ -118,7 +116,7 @@ dove $a, b, c$ sono numeri reali qualsiasi, con $a \ne 0$, scrivere un algoritmo
 **Topic:** [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.137
+**Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.137](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

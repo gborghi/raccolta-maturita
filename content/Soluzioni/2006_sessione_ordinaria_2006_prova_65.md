@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2006_sessione_ordinaria_2006_prova_65
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: Soluzioni — 2006_sessione_ordinaria_2006_prova_65
+title: 2006 Sessione Ordinaria — Prova (p.65) — Svolgimento
 ---
-
-# Soluzioni — 2006_sessione_ordinaria_2006_prova_65
-
 ## Problema 1
 
 Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un'aiuola rettangolare.

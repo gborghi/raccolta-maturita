@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33
 pdf: Prova_Maturita_2012.pdf
 source: text
-title: >-
-  Soluzioni —
-  2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33
+title: Scuole estero Europa 2012 — Questionario — Svolgimento
 ---
-# Soluzioni — 2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33
 
 ## Quesito 1
 

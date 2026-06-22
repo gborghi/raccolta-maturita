@@ -12,12 +12,9 @@ tags:
 title: 2004 Estero australe Ordinaria — Problema 1
 ---
 
-# 2004 Estero australe Ordinaria — Problema 1
-
-Fonte:  · p.36 · 📄 Apri PDF
+Fonte: p.36 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 È assegnata una piramide retta a base quadrata il cui spigolo laterale misura $a$. Si determini:
 
@@ -30,7 +27,7 @@ c) La capacità in litri della sfera circoscritta a $P$ quando $a = 1{,}2$ metri
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2004_estero_calendario_australe_2004_sessione_ordinaria_problema1_36#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.36
+**Soluzione:** [[Soluzioni/2004_estero_calendario_australe_2004_sessione_ordinaria_problema1_36#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

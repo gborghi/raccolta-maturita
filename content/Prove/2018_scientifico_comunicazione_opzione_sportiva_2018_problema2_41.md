@@ -12,12 +12,9 @@ tags:
 title: 2018 Scientifico Comunicazione Sportiva — Problema 2
 ---
 
-# 2018 Scientifico Comunicazione Sportiva — Problema 2
+Fonte: p.41 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.41 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Siano $f: \mathbb{R} \to \mathbb{Z}$ e $g: \mathbb{R} \to \mathbb{R}$ rispettivamente le funzioni *parte intera* e *parte frazionaria* (o *mantissa*) di un numero. Tali funzioni sono così definite:
 
@@ -41,11 +38,11 @@ $$\min g = \min h, \quad \sup g = \max h, \quad 2h'' + 2h - 1 = 0$$
 
 ($\min$ = minimo, $\sup$ = estremo superiore, $\max$ = massimo). Quante sono le funzioni siffatte?
 
-**Topic:** [[Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni Differenziali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni Differenziali]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni differenziali]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2018_scientifico_comunicazione_opzione_sportiva_2018_problema2_41#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.41
+**Soluzione:** [[Soluzioni/2018_scientifico_comunicazione_opzione_sportiva_2018_problema2_41#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

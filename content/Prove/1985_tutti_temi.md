@@ -12,12 +12,9 @@ tags:
 title: 1985 Tema di maturita
 ---
 
-# 1985 Tema di maturita
+Fonte: p.126 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.126 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
@@ -40,11 +37,11 @@ In tal caso si calcoli il volume del solido generato nella precedente rotazione 
 $$y = 3x - x^2.$$
 Si scrivano l'equazione della parabola ad essa simmetrica rispetto all'asse delle ordinate e le equazioni delle due parabole ad esse simmetriche rispetto alla retta congiungente i loro vertici. Si calcoli l'area della regione finita di piano delimitata dalle quattro parabole e si trovi il perimetro del quadrato in essa inscritto con i lati tangenti alle parabole stesse.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Limiti e Continuita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Limiti e Continuita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Ottimizzazione e ricerca dell'ottimo]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Fonte:** 📄 Testo (PDF) — p.126
+**Fonte:** [📄 Testo (PDF) — p.126](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

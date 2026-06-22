@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2004_liceo_scientifico_ordinamento_2004_sessione_straor_problema2_116
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_liceo_scientifico_ordinamento_2004_sessione_straor_problema2_116
+title: 2004 Ordinamento Straordinaria — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2004_liceo_scientifico_ordinamento_2004_sessione_straor_problema2_116
 
-## Problema 1
 
 Liceo Scientifico Ordinamento 2004
 Sessione $Straordinaria-$ Problema $2$

@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2016_suppletiva_2016_problema2_189
 pdf: Prova_Maturita_2016.pdf
 source: text
-title: Soluzioni — 2016_suppletiva_2016_problema2_189
+title: 2016 Suppletiva — Problema 2 — Svolgimento
 ---
-# Soluzioni — 2016_suppletiva_2016_problema2_189
 
-## Problema 1
 
 Suppletiva 2016 - Problema $2$
 

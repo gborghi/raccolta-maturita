@@ -12,12 +12,9 @@ tags:
 title: 2009 Ordinamento Straordinaria — Problema 2
 ---
 
-# 2009 Ordinamento Straordinaria — Problema 2
+Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.111 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 2
 
 Sia $f(x) = a\cos^3 x + b\cos x + c$ e $x \in \mathbb{R}$.
 
@@ -30,11 +27,11 @@ $$f\left(\frac{\pi}{2}\right) = \frac{2}{3}, \qquad f(\pi) = \frac{4}{3}, \qquad
 
 **4)** Si calcoli l'area della superficie piana, delimitata da $\gamma$ e dall'asse delle ascisse.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema2_111#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.111
+**Soluzione:** [[Soluzioni/2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema2_111#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

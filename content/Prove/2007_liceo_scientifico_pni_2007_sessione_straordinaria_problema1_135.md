@@ -12,12 +12,9 @@ tags:
 title: 2007 LS PNI Straordinaria — Problema 1
 ---
 
-# 2007 LS PNI Straordinaria — Problema 1
+Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.135 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Si consideri la funzione
 
@@ -33,11 +30,11 @@ dove $a$ è un parametro reale.
 
 4) Si tracci $C_5$, corrispondente ad $a=5$ rispetto al sistema $(Oxy)$. Le curve $C_4$ e $C_5$ hanno un punto comune $A$, appartenente ad un asse. Si trovino le equazioni delle tangenti alle curve in $A$.
 
-**Topic:** [[Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Calcolo di limiti e continuita]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_problema1_135#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.135
+**Soluzione:** [[Soluzioni/2007_liceo_scientifico_pni_2007_sessione_straordinaria_problema1_135#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

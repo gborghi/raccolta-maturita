@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2005_pni_2005_sessione_suppletiva_problema1_111
 pdf: Prova_Maturita_2005.pdf
 source: text
-title: Soluzioni — 2005_pni_2005_sessione_suppletiva_problema1_111
+title: 2005 PNI Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2005_pni_2005_sessione_suppletiva_problema1_111
 
-## Problema 1
 
 PNI 2005 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

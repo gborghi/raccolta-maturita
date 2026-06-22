@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2015_sessione_suppletiva_2015_prova_184
 pdf: Prova_Maturita_2015.pdf
 source: text
-title: Soluzioni — 2015_sessione_suppletiva_2015_prova_184
+title: 2015 Suppletiva — Prova — Svolgimento
 ---
-# Soluzioni — 2015_sessione_suppletiva_2015_prova_184
 
 ## Problema 1
 

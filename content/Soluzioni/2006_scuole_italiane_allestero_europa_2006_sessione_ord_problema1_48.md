@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema1_48
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: >-
-  Soluzioni —
-  2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema1_48
+title: 2006 Estero Europa — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema1_48
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2006
 Sessione $Ordinaria-$ Problema $1$

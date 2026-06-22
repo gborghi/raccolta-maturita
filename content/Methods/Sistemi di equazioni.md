@@ -6,8 +6,6 @@ tags:
   - graph/method
 ---
 
-# Sistemi di equazioni
-
 *Metodo risolutivo* — **203** problemi/quesiti.
 
 ## Problemi e quesiti

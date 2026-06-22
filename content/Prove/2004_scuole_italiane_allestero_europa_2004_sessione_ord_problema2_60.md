@@ -12,12 +12,9 @@ tags:
 title: 2004 SE Europa Ord — Problema 2
 ---
 
-# 2004 SE Europa Ord — Problema 2
+Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.60 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$y=ax^2-\frac{3}{2}ax+\frac{1}{2x},$$
@@ -31,11 +28,11 @@ c) Dopo aver controllato che la curva $K$ trovata è quella che corrisponde al v
 
 d) Calcolare l'area della regione finita di piano delimitata dalla curva $K$ e dalla retta di equazione $y=\dfrac{1}{2}x+\dfrac{1}{4}$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Discussione di famiglie di curvefunzioni parametriche|Discussione di famiglie di curve/funzioni parametriche]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]]
 **Tipo funzione:** [[Razionale fratta]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema2_60#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema2_60#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

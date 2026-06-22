@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2004_liceo_scientifico_pni_2004_sessione_straordinaria_problema1_127
 pdf: Prova_Maturita_2004.pdf
 source: text
-title: >-
-  Soluzioni —
-  2004_liceo_scientifico_pni_2004_sessione_straordinaria_problema1_127
+title: 2004 PNI Straordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2004_liceo_scientifico_pni_2004_sessione_straordinaria_problema1_127
 
-## Problema 1
 
 Liceo Scientifico PNI 2004
 Sessione $Straordinaria-$ Problema $1$

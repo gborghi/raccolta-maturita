@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2017_sessione_suppletiva_2017_prova_122
 pdf: Prova_Maturita_2017.pdf
 source: text
-title: Soluzioni — 2017_sessione_suppletiva_2017_prova_122
+title: 2017 Suppletiva — Prova — Svolgimento
 ---
-# Soluzioni — 2017_sessione_suppletiva_2017_prova_122
 
 ## Problema 1
 

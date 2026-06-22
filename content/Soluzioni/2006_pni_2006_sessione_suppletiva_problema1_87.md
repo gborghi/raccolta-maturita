@@ -3,11 +3,9 @@ tipo: soluzione
 prova_stem: 2006_pni_2006_sessione_suppletiva_problema1_87
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: Soluzioni — 2006_pni_2006_sessione_suppletiva_problema1_87
+title: 2006 PNI Suppletiva — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2006_pni_2006_sessione_suppletiva_problema1_87
 
-## Problema 1
 
 PNI 2006 SESSIONE SUPPLETIVA - PROBLEMA $1$
 

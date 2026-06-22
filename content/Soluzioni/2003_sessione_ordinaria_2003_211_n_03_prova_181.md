@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2003_sessione_ordinaria_2003_211_n_03_prova_181
 pdf: Prova_Maturita_2003.pdf
 source: text
-title: Soluzioni — 2003_sessione_ordinaria_2003_211_n_03_prova_181
+title: 2003 Ordinaria — Prova (PNI) — Svolgimento
 ---
-
-# Soluzioni — 2003_sessione_ordinaria_2003_211_n_03_prova_181
-
 > **Nota:** Le pagine 181–182 del PDF contengono il foglio degli enunciati della prova (corso sperimentale PNI 2003), non le soluzioni svolte. Il raw estratto ripete gli enunciati senza svolgimenti. Le sezioni che seguono riportano gli enunciati con la matematica ricostruita in LaTeX, con note di svolgimento sintetico per Problema 1 e Problema 2.
 
 ## Problema 1

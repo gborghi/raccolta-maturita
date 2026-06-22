@@ -12,12 +12,9 @@ tags:
 title: 2005 Estero Australe Suppletiva — Problema 2
 ---
 
-# 2005 Estero Australe Suppletiva — Problema 2
+Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.63 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Sia $f$ la funzione definita da $f(x)=\operatorname{sen}(x)+a\cos(x)+b$, con $x\in[-\pi;\pi]$.
 
@@ -27,11 +24,11 @@ Sia $f$ la funzione definita da $f(x)=\operatorname{sen}(x)+a\cos(x)+b$, con $x\
 
 **3)** Calcolate l'area della regione finita di piano delimitata dalla tangente a $\lambda$ nel suo punto di ascissa nulla, da $\lambda$ e dalla retta $x=\dfrac{\pi}{2}$.
 
-**Topic:** [[Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Tipo funzione:** [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]
-**Soluzione:** [[Soluzioni/2005_estero_calendario_australe_2005_sessione_suppletiv_problema2_63#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.63
+**Soluzione:** [[Soluzioni/2005_estero_calendario_australe_2005_sessione_suppletiv_problema2_63#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

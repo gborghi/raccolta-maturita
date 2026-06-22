@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2018_sessione_suppletiva_2018_prova_98
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_sessione_suppletiva_2018_prova_98
+title: 2018 Sessione suppletiva — Prova — Svolgimento
 ---
-
-# Soluzioni — 2018_sessione_suppletiva_2018_prova_98
-
 ## Problema 1
 
 La cornice è ricavata da una tavola quadrata di lato $L \approx 3{,}00\ \text{dm}$ (lato approssimato alla seconda cifra decimale). Sul lato giacente sull'asse delle ascisse la macchina CNC traccia la curva

@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2010_estero_australe_2010_sessione_suppletiva_questionario_72
 pdf: Prova_Maturita_2010.pdf
 source: text
-title: Soluzioni — 2010_estero_australe_2010_sessione_suppletiva_questionario_72
+title: 2010 Estero Australe Suppletiva — Questionario — Svolgimento
 ---
-# Soluzioni — 2010_estero_australe_2010_sessione_suppletiva_questionario_72
 
 ## Quesito 1
 

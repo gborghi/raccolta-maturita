@@ -12,9 +12,7 @@ tags:
 title: 2005 Ordinaria — Prova
 ---
 
-# 2005 Ordinaria — Prova
-
-Fonte:  · p.16 · 📄 Apri PDF
+Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
@@ -27,11 +25,11 @@ Nel primo quadrante del sistema di riferimento $Oxy$, ortogonale e monometrico, 
 4. Per $0 < t < \sqrt{6}$ sia $A(t)$ l'area del triangolo delimitato dagli assi e dalla tangente a $\lambda$ nel suo punto di ascissa $t$. Si determini $A(1)$.
 5. Si determini il valore di $t$ per il quale $A(t)$ è minima.
 
-**Topic:** [[Studio di Funzione]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Problema 2
 
@@ -50,7 +48,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]], [[Massimi e Minimi]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di limiti e continuita]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Applicazione consapevole di teoremi]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 1
 
@@ -59,7 +57,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
 
@@ -68,7 +66,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Modellizzazione matematica di situazioni]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
 
@@ -77,7 +75,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.26
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
 
@@ -86,7 +84,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
 **Metodi:** [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ottimizzazione e ricerca dell'ottimo]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
 
@@ -95,7 +93,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Limiti e Continuita]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 6
 
@@ -104,17 +102,17 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.27
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
 
 7. Se $f(x) = x^4 - 4x^3 + 4x^2 + 3$, per quanti numeri reali $k$ è $f(k) = 2$? Si illustri il ragionamento seguito.
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Analisi qualitativa e deduzione di grafici]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Polinomiale]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.28
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
 
@@ -123,7 +121,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Geometria solida nello spazio (volumi, superfici, sezioni)]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Visualizzazione spaziale e geometrica]], [[Ragionamento logico-deduttivo]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 9
 
@@ -132,7 +130,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
 
@@ -141,7 +139,7 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Topic:** [[Derivate]], [[Trigonometria]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]]
-**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.16
+**Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

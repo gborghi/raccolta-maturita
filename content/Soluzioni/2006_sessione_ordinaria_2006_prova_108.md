@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2006_sessione_ordinaria_2006_prova_108
 pdf: Prova_Maturita_2006.pdf
 source: text
-title: Soluzioni — 2006_sessione_ordinaria_2006_prova_108
+title: 2006 Sessione Ordinaria PNI — Prova (p.108) — Svolgimento
 ---
-# Soluzioni — 2006_sessione_ordinaria_2006_prova_108
 
 ## Problema 1
 

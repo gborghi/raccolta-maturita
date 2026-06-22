@@ -3,9 +3,8 @@ tipo: soluzione
 prova_stem: 2024_sessione_suppletiva_2024_prova_91
 pdf: Prova_Maturita_2024.pdf
 source: text
-title: Soluzioni — 2024_sessione_suppletiva_2024_prova_91
+title: 2024 Suppletiva — Prova — Svolgimento
 ---
-# Soluzioni — 2024_sessione_suppletiva_2024_prova_91
 
 ## Problema 1
 

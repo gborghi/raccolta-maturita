@@ -12,12 +12,9 @@ tags:
 title: 2005 SE Americhe Ord — Problema 1
 ---
 
-# 2005 SE Americhe Ord — Problema 1
-
-Fonte:  · p.20 · 📄 Apri PDF
+Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 **Cluster:** [[Geometria|Geometria]]
 
-## Problema 1
 
 Il triangolo $ABC$ è isoscele sulla base $BC$ e contiene il centro della circonferenza $k$ circoscritta ad esso. Condotta la retta $t$ tangente a $k$ in $C$, indicare con $D$ la proiezione ortogonale di $A$ su $t$ e con $E$ quella di $A$ su $BC$.
 
@@ -36,7 +33,7 @@ Il triangolo $ABC$ è isoscele sulla base $BC$ e contiene il centro della circon
 **Topic:** [[Geometria Euclidea]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Ragionamento logico-deduttivo]], [[Visualizzazione spaziale e geometrica]]
-**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_problema1_20#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.20
+**Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_problema1_20#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 
 #maturita/prova #area/geometria #cluster/geometria

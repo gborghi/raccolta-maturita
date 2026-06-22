@@ -3,13 +3,9 @@ tipo: soluzione
 prova_stem: 2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: >-
-  Soluzioni —
-  2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50
+title: 2008 Estero Europa Ordinaria — Problema 1 — Svolgimento
 ---
-# Soluzioni — 2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50
 
-## Problema 1
 
 Scuole italiane all’estero (Europa) 2008
 Sessione $Ordinaria-$ Problema $1$

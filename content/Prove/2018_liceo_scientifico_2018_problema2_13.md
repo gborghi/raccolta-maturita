@@ -12,12 +12,9 @@ tags:
 title: 2018 Liceo Scientifico — Problema 2
 ---
 
-# 2018 Liceo Scientifico — Problema 2
-
-Fonte:  · p.13 · 📄 Apri PDF
+Fonte: p.13 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-## Problema 1
 
 Consideriamo $f_k(x): \mathbb{R} \to \mathbb{R}$ così definita:
 
@@ -33,11 +30,11 @@ $$f_k(x) = -x^3 + kx + 9, \quad \text{con } k \in \mathbb{Z}.$$
 
 *(figura nel PDF)*
 
-**Topic:** [[Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Probabilita]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Massimi e Minimi]], [[Probabilita]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]], [[Probabilita (classica, condizionata, Bayes, distribuzioni)]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Polinomiale]], [[Dipendente da un parametro]]
-**Soluzione:** [[Soluzioni/2018_liceo_scientifico_2018_problema2_13#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.13
+**Soluzione:** [[Soluzioni/2018_liceo_scientifico_2018_problema2_13#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.13](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

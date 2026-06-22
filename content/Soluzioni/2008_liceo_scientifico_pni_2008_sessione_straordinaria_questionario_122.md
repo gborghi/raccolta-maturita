@@ -3,13 +3,8 @@ tipo: soluzione
 prova_stem: 2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122
 pdf: Prova_Maturita_2008.pdf
 source: text
-title: >-
-  Soluzioni —
-  2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122
+title: 2008 PNI Straordinaria — Questionario — Svolgimento
 ---
-
-# Soluzioni — 2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122
-
 ## Quesito 1
 
 Fra le piramidi quadrangolari regolari di data area laterale $S$, si determini quella di volume massimo.

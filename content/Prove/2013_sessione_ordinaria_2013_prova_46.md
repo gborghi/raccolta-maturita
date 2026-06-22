@@ -12,12 +12,16 @@ tags:
 title: 2013 Ordinaria Sperimentale — Prova
 ---
 
-# 2013 Ordinaria Sperimentale — Prova
-
-Fonte:  · p.46 · 📄 Apri PDF
+Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 **Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
+
+<!--fig:start-->
+![[_attachments/2013_sessione_ordinaria_2013_prova_46/2013_sessione_ordinaria_2013_prova_46_fig.svg]]
+*I due cerchi $\Sigma$ e $\Delta$ di raggio 4 e centri $(-2,0)$ e $(2,0)$; la loro parte comune $\Gamma$ e le intersezioni $A$ e $B$ delle circonferenze.*
+
+<!--fig:end-->
 
 I due cerchi $\Sigma$ e $\Delta$, in figura, hanno uguale raggio $4$ e i rispettivi centri nei punti $(-2;0)$ e $(2;0)$. Con $\Gamma$ è denotata la loro parte comune e con $A$ e $B$ le intersezioni delle loro circonferenze. *(figura nel PDF)*
 
@@ -32,7 +36,7 @@ I due cerchi $\Sigma$ e $\Delta$, in figura, hanno uguale raggio $4$ e i rispett
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Massimi e Minimi]], [[Geometria Euclidea]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ottimizzazione e ricerca dell'ottimo]], [[Dimostrazione e argomentazione rigorosa]], [[Lettura e interpretazione di grafici e funzioni]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
 
@@ -46,11 +50,11 @@ Sia $\Gamma$ la curva di equazione $y=2\ln(x-1)$.
 
 4. La regione $R$ ruotando attorno all'asse $y$ genera il solido $\Omega$. Si calcoli il volume di $\Omega$.
 
-**Topic:** [[Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Visualizzazione spaziale e geometrica]]
 **Tipo funzione:** [[Logaritmica]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Problema 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.46
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 1
 
@@ -59,18 +63,18 @@ Sia $\Gamma$ la curva di equazione $y=2\ln(x-1)$.
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
 **Metodi:** [[Uso di relazioni e identita trigonometriche]], [[Risoluzione di equazioni e disequazioni]], [[Geometria euclidea sintetica (similitudine, teoremi su triangolicerchi)|Geometria euclidea sintetica (similitudine, teoremi su triangoli/cerchi)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
 
 2. Si calcoli, giustificando la risposta, il dominio della funzione
 $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
-**Topic:** [[Studio di Funzione]], [[Equazioni e Disequazioni]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
 **Metodi:** [[Risoluzione di equazioni e disequazioni]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
 **Tipo funzione:** [[Irrazionale]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 2|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 3
 
@@ -79,7 +83,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Impostazione con geometria analitica (coordinate, coniche)]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 3|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
 
@@ -88,7 +92,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
 **Metodi:** [[Probabilita (classica, condizionata, Bayes, distribuzioni)]], [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]]
 **Competenze:** [[Analisi e interpretazione di dati e probabilita]], [[Calcolo numerico e stima]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 4|📝 Svolgimento (LaTeX)]] · 📄 PDF p.58
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 5
 
@@ -97,7 +101,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Geometria Solida]]
 **Metodi:** [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]], [[Geometria solida nello spazio (volumi, superfici, sezioni)]]
 **Competenze:** [[Ragionamento logico-deduttivo]], [[Modellizzazione matematica di situazioni]], [[Astrazione e generalizzazione]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 5|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
 
@@ -106,7 +110,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Calcolo Combinatorio]]
 **Metodi:** [[Calcolo combinatorio (disposizioni, permutazioni, combinazioni)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 6|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 7
 
@@ -115,7 +119,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Geometria Analitica (piano)]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 7|📝 Svolgimento (LaTeX)]] · 📄 PDF p.59
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
 
@@ -124,7 +128,7 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Integrazione (calcolo di integrali)]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Applicazione consapevole di teoremi]], [[Problem solving (strategia risolutiva non immediata)]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 8|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 9
 
@@ -134,7 +138,7 @@ $$\lim_{x\to 0}4\,\frac{sen\cos x-sen x}{x^2}$$
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
 **Metodi:** [[Calcolo di limiti e continuita]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 9|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
 
@@ -143,7 +147,7 @@ $$\lim_{x\to 0}4\,\frac{sen\cos x-sen x}{x^2}$$
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
 **Metodi:** [[Derivazione e calcolo di derivate]], [[Studio di funzione completo]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]]
-**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 10|📝 Svolgimento (LaTeX)]] · 📄 PDF p.60
+**Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 10|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 
 #maturita/prova #area/analisi #cluster/derivate_massimi_e_minimi

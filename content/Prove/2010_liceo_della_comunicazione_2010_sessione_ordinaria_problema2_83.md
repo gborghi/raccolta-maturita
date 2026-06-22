@@ -12,12 +12,9 @@ tags:
 title: 2010 Liceo Comunicazione Ordinaria — Problema 2
 ---
 
-# 2010 Liceo Comunicazione Ordinaria — Problema 2
+Fonte: p.83 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
+**Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
-Fonte:  · p.83 · 📄 Apri PDF
-**Cluster:** [[Studio di Funzione|Studio di Funzione]]
-
-## Problema 1
 
 Nel piano $Oxy$ sono dati i punti $A(2; 0)$ e $B(4; k)$, con $k \in \mathbb{R}$. Sia $P$ il punto ottenuto dalla intersezione della retta $x = k$ con la perpendicolare per $B$ alla retta $AB$.
 
@@ -30,11 +27,11 @@ c) Si scriva l'equazione della retta $r$ tangente a $\gamma$ nel punto di asciss
 
 d) Si calcoli l'area della parte di piano delimitata da $r$, da $\gamma$ e dalla retta $x = 2$.
 
-**Topic:** [[Studio di Funzione]], [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Studio di funzione completo]], [[Derivazione e calcolo di derivate]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]]
 **Tipo funzione:** [[Razionale fratta]]
-**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema2_83#Problema 1|📝 Svolgimento (LaTeX)]] · 📄 PDF p.83
+**Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema2_83#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 
 #maturita/prova #area/analisi #cluster/studio_di_funzione

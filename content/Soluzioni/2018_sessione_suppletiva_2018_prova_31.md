@@ -3,11 +3,8 @@ tipo: soluzione
 prova_stem: 2018_sessione_suppletiva_2018_prova_31
 pdf: Prova_Maturita_2018.pdf
 source: text
-title: Soluzioni — 2018_sessione_suppletiva_2018_prova_31
+title: 2018 Sessione suppletiva — Prova (Sportiva) — Svolgimento
 ---
-
-# Soluzioni — 2018_sessione_suppletiva_2018_prova_31
-
 ## Problema 1
 
 *(Traccia — Sessione suppletiva 2018, Scientifico Comunicazione Opzione Sportiva)*
