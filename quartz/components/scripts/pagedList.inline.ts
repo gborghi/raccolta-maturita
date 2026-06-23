@@ -44,6 +44,21 @@ const COLS: { k: Key; label: string; link?: boolean }[] = [
   { k: "a", label: "Anno" },
 ]
 
+// Hidden keyword shadow-index (slug -> significant words of the atomic note),
+// lazy-loaded ONCE and shared across every list on the page. Powers the
+// "Contenuto" search mode.
+let KW: Record<string, string> | null = null
+let kwLoading: Promise<void> | null = null
+async function ensureKeywords(prefix: string): Promise<void> {
+  if (KW) return
+  if (!kwLoading)
+    kwLoading = fetch(prefix + "static/keywords.json")
+      .then((r) => r.json())
+      .then((j) => { KW = j as Record<string, string> })
+      .catch(() => { KW = {} })
+  await kwLoading
+}
+
 async function renderOne(el: HTMLElement, prefix: string) {
   const src = el.dataset.src
   if (!src) return
@@ -58,14 +73,42 @@ async function renderOne(el: HTMLElement, prefix: string) {
   let perPage = getPerPage()
   let page = 1
   let filter = ""
+  let searchMode: "table" | "content" = "table"
   let sortKey: Key = "a"
   let sortDir = -1 // anno desc by default (newest first)
 
-  // search box (filter within this listing)
+  // search box (filter within this listing) + mode switch (table entries vs the
+  // hidden keyword index of the atomized notes)
   const search = document.createElement("input")
   search.type = "search"
-  search.placeholder = `Cerca tra ${items.length} elementi…`
   search.className = "qtable-search"
+  function syncPlaceholder() {
+    search.placeholder =
+      searchMode === "content"
+        ? `Cerca nel contenuto di ${items.length} note…`
+        : `Cerca tra ${items.length} elementi…`
+  }
+  syncPlaceholder()
+
+  const modeSel = document.createElement("select")
+  modeSel.className = "paged-searchmode"
+  modeSel.title = "Dove cercare"
+  for (const [val, txt] of [["table", "Tabella"], ["content", "Contenuto"]] as const) {
+    const o = document.createElement("option")
+    o.value = val
+    o.textContent = txt
+    modeSel.appendChild(o)
+  }
+  modeSel.addEventListener("change", async () => {
+    searchMode = modeSel.value as "table" | "content"
+    syncPlaceholder()
+    if (searchMode === "content") await ensureKeywords(prefix)
+    page = 1
+    render()
+  })
+  const searchRow = document.createElement("div")
+  searchRow.className = "paged-searchrow"
+  searchRow.append(search, modeSel)
 
   const count = document.createElement("div")
   count.className = "qtable-count"
@@ -98,7 +141,7 @@ async function renderOne(el: HTMLElement, prefix: string) {
   table.className = "qtable-table"
   const pager = document.createElement("nav")
   pager.className = "qtable-pager"
-  el.replaceChildren(search, controls, table, pager)
+  el.replaceChildren(searchRow, controls, table, pager)
 
   // whether the data has structured columns; if every item lacks them (older
   // JSON), fall back to a single linked-label column.
@@ -125,16 +168,26 @@ async function renderOne(el: HTMLElement, prefix: string) {
 
   function filtered(): Item[] {
     const q = filter.toLowerCase().trim()
-    const base = q
-      ? items.filter(
-          (it) =>
-            (it.l && it.l.toLowerCase().includes(q)) ||
-            (it.s && it.s.toLowerCase().includes(q)) ||
-            (it.p && it.p.toLowerCase().includes(q)) ||
-            (it.n && it.n.toLowerCase().includes(q)) ||
-            (it.a && it.a.toLowerCase().includes(q)),
-        )
-      : items.slice()
+    if (!q) return items.slice().sort(cmp)
+    let base: Item[]
+    if (searchMode === "content") {
+      // match every query token against the note's keyword index (fallback to the
+      // visible label/snippet when a note isn't in the index)
+      const toks = q.split(/\s+/).filter(Boolean)
+      base = items.filter((it) => {
+        const kw = (KW && KW[it.h]) || `${it.l} ${it.s}`.toLowerCase()
+        return toks.every((t) => kw.includes(t))
+      })
+    } else {
+      base = items.filter(
+        (it) =>
+          (it.l && it.l.toLowerCase().includes(q)) ||
+          (it.s && it.s.toLowerCase().includes(q)) ||
+          (it.p && it.p.toLowerCase().includes(q)) ||
+          (it.n && it.n.toLowerCase().includes(q)) ||
+          (it.a && it.a.toLowerCase().includes(q)),
+      )
+    }
     return base.sort(cmp)
   }
 

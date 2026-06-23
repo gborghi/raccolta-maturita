@@ -146,6 +146,7 @@ details.cerca-facet > summary { font-family: var(--titleFont); }
   background: var(--light); color: var(--dark); font-size: 0.95rem;
 }
 .cerca-search:focus { outline: none; border-color: var(--secondary) !important; }
+.cerca-searchrow .cerca-search { flex: 1 1 auto; margin: 0; }
 
 // Search popout must sit ABOVE the sticky navbar (z-index 1000), else the
 // modal overlay + results get clipped behind the masthead.

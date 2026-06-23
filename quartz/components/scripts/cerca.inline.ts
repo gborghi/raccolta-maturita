@@ -47,6 +47,20 @@ function getPerPage(): number {
   return PER_PAGE_OPTS.includes(v) ? v : 50
 }
 
+// hidden keyword shadow-index (slug -> significant words), lazy-loaded once for
+// the "Contenuto" search mode.
+let KW: Record<string, string> | null = null
+let kwLoading: Promise<void> | null = null
+async function ensureKeywords(prefix: string): Promise<void> {
+  if (KW) return
+  if (!kwLoading)
+    kwLoading = fetch(prefix + "static/keywords.json")
+      .then((r) => r.json())
+      .then((j) => { KW = j as Record<string, string> })
+      .catch(() => { KW = {} })
+  await kwLoading
+}
+
 function esc(s: unknown): string {
   return String(s).replace(/[&<>"]/g, (c) =>
     c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
@@ -75,6 +89,7 @@ async function init() {
   const selected = new Set<string>()
   let mode: "AND" | "OR" = "AND"
   let filterText = ""
+  let searchMode: "table" | "content" = "table"
   let perPage = getPerPage()
 
   const facetValues: { facet: Facet; values: [string, number][] }[] = FACETS.map((facet) => {
@@ -113,15 +128,40 @@ async function init() {
   const search = document.createElement("input")
   search.type = "search"
   search.className = "qtable-search cerca-search"
-  search.placeholder = "Cerca nel testo dei risultati selezionati…"
+  function syncPlaceholder() {
+    search.placeholder =
+      searchMode === "content"
+        ? "Cerca nel contenuto delle note selezionate…"
+        : "Cerca nel testo dei risultati selezionati…"
+  }
+  syncPlaceholder()
   search.addEventListener("input", () => {
     filterText = search.value
     page = 0
     renderResults()
   })
+  const modeSel = document.createElement("select")
+  modeSel.className = "paged-searchmode"
+  modeSel.title = "Dove cercare"
+  for (const [val, txt] of [["table", "Tabella"], ["content", "Contenuto"]] as const) {
+    const o = document.createElement("option")
+    o.value = val
+    o.textContent = txt
+    modeSel.appendChild(o)
+  }
+  modeSel.addEventListener("change", async () => {
+    searchMode = modeSel.value as "table" | "content"
+    syncPlaceholder()
+    if (searchMode === "content") await ensureKeywords(prefix)
+    page = 0
+    renderResults()
+  })
+  const searchRow = document.createElement("div")
+  searchRow.className = "paged-searchrow cerca-searchrow"
+  searchRow.append(search, modeSel)
   const resultsBox = document.createElement("div")
   resultsBox.className = "cerca-results"
-  root.replaceChildren(controls, facetsBox, selectedBar, search, resultsBox)
+  root.replaceChildren(controls, facetsBox, selectedBar, searchRow, resultsBox)
 
   const toggle = document.createElement("button")
   toggle.className = "cerca-toggle"
@@ -166,10 +206,15 @@ async function init() {
   let sortDir = -1
   let page = 0
 
-  // free-text predicate over the visible columns + tag labels
+  // free-text predicate: "table" mode searches the visible columns + tag labels;
+  // "content" mode searches the hidden keyword index of the atomized note.
   function textMatch(p: P): boolean {
     const q = filterText.toLowerCase().trim()
     if (!q) return true
+    if (searchMode === "content") {
+      const kw = (KW && KW[p.href]) || `${p.title} ${p.summary}`.toLowerCase()
+      return q.split(/\s+/).filter(Boolean).every((t) => kw.includes(t))
+    }
     const hay = [
       p.title, p.summary, p.tipo, p.anno, p.area, p.cluster,
       ...(p.topics || []), ...(p.methods || []), ...(p.skills || []), ...(p.ftypes || []),

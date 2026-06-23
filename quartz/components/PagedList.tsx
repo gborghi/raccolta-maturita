@@ -10,6 +10,14 @@ div.paged-list { margin: 1rem 0; overflow-x: auto; }
   color: var(--dark); font-size: 0.95rem;
 }
 .paged-list .qtable-search:focus { outline: none; border-color: var(--secondary); }
+.paged-searchrow { display: flex; gap: 0.5rem; align-items: stretch; margin-bottom: 0.4rem; }
+.paged-searchrow .qtable-search { flex: 1 1 auto; margin-bottom: 0; }
+.paged-searchmode {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.82rem;
+  padding: 0.2rem 0.6rem; border-radius: 999px; border: 1.5px solid var(--lightgray);
+  background: var(--light); color: var(--dark); cursor: pointer; flex: 0 0 auto;
+}
+.paged-searchmode:focus { outline: none; border-color: var(--secondary); }
 .qtable-controls {
   display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
   flex-wrap: wrap; margin-bottom: 0.4rem;

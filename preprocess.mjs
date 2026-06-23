@@ -97,6 +97,58 @@ function summarize(content) {
   return ""
 }
 
+// Full plaintext of a note body for the searchable index: flatten math, links,
+// comments and markdown punctuation to bare words (keeps math variable names and
+// the meta tag labels; drops LaTeX command names).
+function plainText(content) {
+  return content
+    .replace(/<!--[\s\S]*?-->/g, " ")                            // html/tikz/fig comments
+    .replace(/!\[\[[^\]]*\]\]/g, " ")                            // embeds
+    .replace(/\$\$([\s\S]*?)\$\$/g, " $1 ")                      // display math -> inner
+    .replace(/\$([^$\n]*)\$/g, " $1 ")                           // inline math -> inner
+    .replace(/\[\[[^\]|#]*(?:#[^\]|]*)?\|([^\]]*)\]\]/g, "$1")   // [[a|b]] -> b
+    .replace(/\[\[([^\]|#]*)(?:#[^\]|]*)?\]\]/g, "$1")           // [[a]] -> a
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")                      // [t](u) -> t
+    .replace(/\\[a-zA-Z]+/g, " ")                                // \frac \sqrt ...
+    .replace(/[#>*_`~|{}\\]/g, " ")                              // md/latex punctuation
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
+// Italian (+ math-filler) stopwords dropped from the searchable keyword index.
+const STOPWORDS = new Set(
+  ("a ad ai al all alla alle allo agli ab abbia abbiamo abbiano abbiate accio agl alcun alcuna alcune alcuni " +
+   "altri altre altra altro anche ancora anzi avere aveva avevano avendo avuto avuta ben bene che chi ci cio cioe " +
+   "co coi col come con contro cosa cosi cui da dagli dai dal dall dalla dalle dallo degli dei del dell della delle " +
+   "dello dentro deve devono di dia dice dopo dove due dunque ecco ed egli ella eppure era erano ergo esempio esse " +
+   "essa esse essendo essere essi esso fa fanno fare fatto fin fine fino fra gia giacche gli ha hai hanno ho il in " +
+   "infatti inoltre insieme intanto intorno invece io la lan le lei li lo loro lui ma mai me medesimo meglio meno " +
+   "mentre mi mia mie miei mio modo molta molte molti molto ne nei nel nell nella nelle nello nemmeno neppure no noi " +
+   "non nondimeno nostra nostre nostri nostro o od oltre ogni ognuno ora ossia ovvero per percio perche piu po poco " +
+   "poi possa possono potrebbe puo pure qua quale quali qualche qualcosa qualcuno quando quanta quante quanti quanto " +
+   "quasi quel quella quelle quelli quello questa queste questi questo qui quindi sara sarebbe se sebbene sempre senza " +
+   "sia siamo siano siate siete solo sono sopra sotto spesso sta stata state stati stato stesso su sua sue sugli sui " +
+   "sul sull sulla sulle sullo suo suoi tale tali talvolta tanta tante tanti tanto te tu tua tue tuoi tuo tutta tutte " +
+   "tutti tutto un una uno vale vari varie vario verso vi via voi vostra vostre vostri vostro " +
+   // pure template/scaffolding words present in (almost) every note — never content
+   "fonte pdf apri prova maturita tema testo topic metodi competenze competenza tipo soluzione svolgimento " +
+   "cluster risposta ministero pag pagina sessione ordinaria suppletiva straordinaria scientifico liceo").split(/\s+/),
+)
+
+// Significant unique keywords of a note body (stopwords + bare numbers + short
+// tokens removed). Powers the in-listing content search.
+function keywords(content) {
+  const plain = plainText(content).toLowerCase()
+  const seen = new Set()
+  const out = []
+  for (const w of plain.split(/[^a-z0-9àèéìòùç]+/)) {
+    if (w.length < 3 || /^\d+$/.test(w) || STOPWORDS.has(w) || seen.has(w)) continue
+    seen.add(w)
+    out.push(w)
+  }
+  return out.join(" ")
+}
+
 // GitHub-slugger-ish heading anchor (matches Quartz's heading ids closely enough).
 function anchorSlug(s) {
   return s.toLowerCase().replace(/[^\w\s-]/g, "").replace(/\s/g, "-")
@@ -246,6 +298,8 @@ async function main() {
   }
 
   const prove = []
+  const fulltext = {} // slug -> full plaintext, for the in-listing content search
+  const FULLTEXT_DIRS = new Set(["Problemi", "Quesiti", "Prove"])
   let mdWritten = 0, assetsCopied = 0, clIdx = 0, pagedLists = 0
   for (const rel of files) {
     if (SKIP_FILES.has(path.basename(rel))) continue
@@ -280,6 +334,11 @@ async function main() {
     }
     await fs.writeFile(dest, matter.stringify(outContent, data))
     mdWritten++
+    // full-content keyword index (atomic notes + whole prove) for in-listing search
+    if (FULLTEXT_DIRS.has(topDir)) {
+      const kw = keywords(content)
+      if (kw) fulltext[slugFromRel(rel)] = kw
+    }
     // /cerca indexes the ATOMIC items (one record per single problema/quesito).
     if (data.tipo === "problema" || data.tipo === "quesito") {
       const tags = Array.isArray(data.tags) ? data.tags : []
@@ -300,6 +359,8 @@ async function main() {
   }
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(prove))
+  // hidden keyword shadow-index (never displayed; powers the "Contenuto" search mode)
+  await fs.writeFile(path.join(path.dirname(STATIC_JSON), "keywords.json"), JSON.stringify(fulltext))
 
   const home = `---
 title: Maturità Scientifica — Raccolta Prove
