@@ -1,9 +1,17 @@
 // Renders the <div class="paged-list" data-src="cl/N.json"> placeholders that
 // preprocess.mjs emitted in place of big concept bullet-lists. Loads the JSON
-// slice, shows a controls bar (items-per-page selector, kept under the navbar)
-// and pages through the items — so concept pages ship tiny HTML and load fast.
+// slice and shows a mate-style dynamic table: a search box (filter within the
+// listing), sortable columns (Testo / Prova / N. / Anno), an items-per-page
+// selector and a windowed pager — so concept pages ship tiny HTML and load fast.
 
-interface Item { h: string; l: string; s: string }
+interface Item {
+  h: string
+  l: string
+  s: string
+  a?: string // anno
+  p?: string // prova label
+  n?: string // item tag (Q8 / P2)
+}
 
 const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = Tutti
 const LS_KEY = "rgf-paged-perpage"
@@ -21,6 +29,21 @@ function getPerPage(): number {
   return PER_PAGE_OPTS.includes(v) ? v : 50
 }
 
+// "Q8"/"P2" -> [typeRank, number] so problemi sort before quesiti, then by number.
+function numKey(n: string): [number, number] {
+  const m = String(n || "").match(/([PQ])\s*0*(\d+)/i)
+  if (!m) return [9, 99999]
+  return [m[1].toUpperCase() === "P" ? 0 : 1, Number(m[2])]
+}
+
+type Key = "s" | "p" | "n" | "a"
+const COLS: { k: Key; label: string; link?: boolean }[] = [
+  { k: "s", label: "Testo", link: true },
+  { k: "p", label: "Prova" },
+  { k: "n", label: "N." },
+  { k: "a", label: "Anno" },
+]
+
 async function renderOne(el: HTMLElement, prefix: string) {
   const src = el.dataset.src
   if (!src) return
@@ -33,17 +56,21 @@ async function renderOne(el: HTMLElement, prefix: string) {
   }
 
   let perPage = getPerPage()
-  let page = 0
+  let page = 1
+  let filter = ""
+  let sortKey: Key = "a"
+  let sortDir = -1 // anno desc by default (newest first)
 
-  const controls = document.createElement("div")
-  controls.className = "paged-controls"
-  const listBox = document.createElement("div")
-  listBox.className = "paged-listbox"
-  const pager = document.createElement("nav")
-  pager.className = "paged-pager"
-  el.replaceChildren(controls, listBox, pager)
+  // search box (filter within this listing)
+  const search = document.createElement("input")
+  search.type = "search"
+  search.placeholder = `Cerca tra ${items.length} elementi…`
+  search.className = "qtable-search"
 
-  // items-per-page selector
+  const count = document.createElement("div")
+  count.className = "qtable-count"
+
+  // items-per-page selector (mate format: "mostra [sel] per pagina")
   const sel = document.createElement("select")
   sel.className = "paged-perpage"
   for (const n of PER_PAGE_OPTS) {
@@ -53,63 +80,170 @@ async function renderOne(el: HTMLElement, prefix: string) {
     if (n === perPage) o.selected = true
     sel.appendChild(o)
   }
-  const lbl = document.createElement("label")
-  lbl.className = "paged-perpage-label"
-  lbl.append(`${items.length} elementi · mostra `, sel, " per pagina")
-  controls.appendChild(lbl)
+  const perPageLbl = document.createElement("label")
+  perPageLbl.className = "paged-perpage-label"
+  perPageLbl.append("mostra ", sel, " per pagina")
   sel.addEventListener("change", () => {
     perPage = Number(sel.value)
     localStorage.setItem(LS_KEY, String(perPage))
-    page = 0
+    page = 1
     render()
   })
 
-  function pageCount(): number {
-    return perPage === 0 ? 1 : Math.max(1, Math.ceil(items.length / perPage))
+  const controls = document.createElement("div")
+  controls.className = "qtable-controls"
+  controls.append(count, perPageLbl)
+
+  const table = document.createElement("table")
+  table.className = "qtable-table"
+  const pager = document.createElement("nav")
+  pager.className = "qtable-pager"
+  el.replaceChildren(search, controls, table, pager)
+
+  // whether the data has structured columns; if every item lacks them (older
+  // JSON), fall back to a single linked-label column.
+  const structured = items.some((it) => it.p || it.n || it.a)
+
+  function cmp(a: Item, b: Item): number {
+    let r = 0
+    if (sortKey === "a") r = (Number(a.a) || 0) - (Number(b.a) || 0)
+    else if (sortKey === "n") {
+      const ka = numKey(a.n || ""), kb = numKey(b.n || "")
+      r = ka[0] - kb[0] || ka[1] - kb[1]
+    } else {
+      const av = String(a[sortKey] || "").toLowerCase()
+      const bv = String(b[sortKey] || "").toLowerCase()
+      r = av < bv ? -1 : av > bv ? 1 : 0
+    }
+    if (r !== 0) return r * sortDir
+    // stable tiebreak: prova then item number
+    const pa = String(a.p || a.l).toLowerCase(), pb = String(b.p || b.l).toLowerCase()
+    if (pa !== pb) return pa < pb ? -1 : 1
+    const ka = numKey(a.n || ""), kb = numKey(b.n || "")
+    return ka[0] - kb[0] || ka[1] - kb[1]
   }
 
-  function renderList() {
-    const start = perPage === 0 ? 0 : page * perPage
-    const slice = perPage === 0 ? items : items.slice(start, start + perPage)
-    listBox.innerHTML =
-      "<ul class='paged-ul'>" +
-      slice
-        .map(
+  function filtered(): Item[] {
+    const q = filter.toLowerCase().trim()
+    const base = q
+      ? items.filter(
           (it) =>
-            `<li><a href="${prefix}${esc(it.h)}">${esc(it.l)}</a>${it.s ? " — <span class='paged-snip'>" + esc(it.s) + "</span>" : ""}</li>`,
+            (it.l && it.l.toLowerCase().includes(q)) ||
+            (it.s && it.s.toLowerCase().includes(q)) ||
+            (it.p && it.p.toLowerCase().includes(q)) ||
+            (it.n && it.n.toLowerCase().includes(q)) ||
+            (it.a && it.a.toLowerCase().includes(q)),
         )
-        .join("") +
-      "</ul>"
-  }
-
-  function renderPager() {
-    const pc = pageCount()
-    if (pc <= 1) { pager.innerHTML = ""; return }
-    const btn = (label: string, target: number, disabled: boolean, cur = false) =>
-      `<button class="paged-btn${cur ? " current" : ""}" data-p="${target}" ${disabled ? "disabled" : ""}>${label}</button>`
-    // windowed page numbers
-    const nums: string[] = []
-    const win = 2
-    const lo = Math.max(0, page - win)
-    const hi = Math.min(pc - 1, page + win)
-    if (lo > 0) { nums.push(btn("1", 0, false)); if (lo > 1) nums.push(`<span class="paged-ellip">…</span>`) }
-    for (let i = lo; i <= hi; i++) nums.push(btn(String(i + 1), i, false, i === page))
-    if (hi < pc - 1) { if (hi < pc - 2) nums.push(`<span class="paged-ellip">…</span>`); nums.push(btn(String(pc), pc - 1, false)) }
-    pager.innerHTML =
-      btn("‹ Prec", page - 1, page === 0) + nums.join("") + btn("Succ ›", page + 1, page >= pc - 1)
-    pager.querySelectorAll<HTMLButtonElement>("button[data-p]").forEach((b) =>
-      b.addEventListener("click", () => {
-        page = Number(b.dataset.p)
-        render()
-        el.scrollIntoView({ block: "start", behavior: "smooth" })
-      }),
-    )
+      : items.slice()
+    return base.sort(cmp)
   }
 
   function render() {
-    renderList()
-    renderPager()
+    const shown = filtered()
+    const pages = perPage === 0 ? 1 : Math.max(1, Math.ceil(shown.length / perPage))
+    if (page > pages) page = pages
+    if (page < 1) page = 1
+    const start = perPage === 0 ? 0 : (page - 1) * perPage
+    const slice = perPage === 0 ? shown : shown.slice(start, start + perPage)
+    count.textContent =
+      pages > 1
+        ? `${shown.length} elementi — ${start + 1}–${start + slice.length} (pag. ${page}/${pages})`
+        : `${shown.length} elementi`
+
+    if (structured) {
+      const head =
+        "<thead><tr>" +
+        COLS.map(
+          (c) =>
+            `<th data-k="${c.k}" class="qtable-th${
+              sortKey === c.k ? " sorted-" + (sortDir > 0 ? "asc" : "desc") : ""
+            }">${c.label}</th>`,
+        ).join("") +
+        "</tr></thead>"
+      const body =
+        "<tbody>" +
+        slice
+          .map((it) => {
+            const link = `<a href="${prefix}${esc(it.h)}">${esc(it.s || it.l) || "(apri)"}</a>`
+            return (
+              "<tr>" +
+              `<td>${link}</td>` +
+              `<td>${esc(it.p || "")}</td>` +
+              `<td>${esc(it.n || "")}</td>` +
+              `<td>${esc(it.a || "")}</td>` +
+              "</tr>"
+            )
+          })
+          .join("") +
+        "</tbody>"
+      table.innerHTML = head + body
+      table.querySelectorAll<HTMLElement>("th.qtable-th").forEach((th) =>
+        th.addEventListener("click", () => {
+          const k = th.dataset.k as Key
+          if (sortKey === k) sortDir *= -1
+          else {
+            sortKey = k
+            sortDir = k === "a" ? -1 : 1
+          }
+          page = 1
+          render()
+        }),
+      )
+    } else {
+      // fallback: single linked-label column (no structured fields)
+      table.innerHTML =
+        "<tbody>" +
+        slice
+          .map(
+            (it) =>
+              `<tr><td><a href="${prefix}${esc(it.h)}">${esc(it.l)}</a>${
+                it.s ? " — <span class='paged-snip'>" + esc(it.s) + "</span>" : ""
+              }</td></tr>`,
+          )
+          .join("") +
+        "</tbody>"
+    }
+    renderPager(pages)
   }
+
+  function renderPager(pages: number) {
+    if (pages <= 1) {
+      pager.innerHTML = ""
+      return
+    }
+    const btn = (label: string, target: number, disabled: boolean, cur = false) =>
+      `<button class="paged-btn${cur ? " current" : ""}" data-p="${target}" ${disabled ? "disabled" : ""}>${label}</button>`
+    const nums: string[] = []
+    const win = 2
+    const lo = Math.max(1, page - win)
+    const hi = Math.min(pages, page + win)
+    if (lo > 1) {
+      nums.push(btn("1", 1, false))
+      if (lo > 2) nums.push(`<span class="paged-ellip">…</span>`)
+    }
+    for (let i = lo; i <= hi; i++) nums.push(btn(String(i), i, false, i === page))
+    if (hi < pages) {
+      if (hi < pages - 1) nums.push(`<span class="paged-ellip">…</span>`)
+      nums.push(btn(String(pages), pages, false))
+    }
+    pager.innerHTML =
+      btn("‹ Prec", page - 1, page === 1) + nums.join("") + btn("Succ ›", page + 1, page >= pages)
+  }
+
+  pager.addEventListener("click", (e) => {
+    const t = (e.target as HTMLElement).closest("button[data-p]") as HTMLElement | null
+    if (!t) return
+    page = Number(t.dataset.p)
+    render()
+    el.scrollIntoView({ block: "start", behavior: "smooth" })
+  })
+
+  search.addEventListener("input", () => {
+    filter = search.value
+    page = 1
+    render()
+  })
+
   render()
 }
 

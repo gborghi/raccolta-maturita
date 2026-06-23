@@ -128,10 +128,20 @@ function extractConceptList(content) {
     let target = m[1].trim()
     // concept lists already point into Prove/... ; keep that prefix as-is
     const anchor = m[2] ? "#" + anchorSlug(m[2].slice(1)) : ""
+    const label = (m[3] || target.replace(/^Prove\//, "")).trim()
+    // Split the label "<prova> · <Q8|P2>" into structured columns so the client
+    // table can sort by prova / item-number / year independently.
+    let prova = label, num = ""
+    const dot = label.lastIndexOf(" · ")
+    if (dot >= 0) { prova = label.slice(0, dot).trim(); num = label.slice(dot + 3).trim() }
+    const ym = prova.match(/\b(1[89]\d\d|20\d\d)\b/)
     items.push({
       h: sluggify(target) + anchor,
-      l: (m[3] || target.replace(/^Prove\//, "")).trim(),
+      l: label,
       s: (m[4] || "").trim(),
+      a: ym ? ym[1] : "",
+      p: prova,
+      n: num,
     })
   }
   if (!items.length) return null

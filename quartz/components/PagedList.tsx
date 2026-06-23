@@ -3,25 +3,40 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 import script from "./scripts/pagedList.inline"
 
 const style = `
-div.paged-list { margin: 1rem 0; }
-.paged-controls {
-  position: sticky; top: 3.4rem; z-index: 50;
-  display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;
-  padding: 0.5rem 0.8rem; margin-bottom: 0.8rem;
-  background: var(--light); border: 1px solid var(--lightgray); border-radius: var(--radius, 12px);
-  box-shadow: 0 2px 10px rgba(25,26,46,0.05);
+div.paged-list { margin: 1rem 0; overflow-x: auto; }
+.paged-list .qtable-search {
+  width: 100%; box-sizing: border-box; padding: 0.5rem 0.7rem; margin-bottom: 0.4rem;
+  border: 1.5px solid var(--lightgray); border-radius: 999px; background: var(--light);
+  color: var(--dark); font-size: 0.95rem;
 }
-.paged-perpage-label { font-size: 0.9rem; color: var(--darkgray); display: inline-flex; align-items: center; gap: 0.4rem; }
+.paged-list .qtable-search:focus { outline: none; border-color: var(--secondary); }
+.qtable-controls {
+  display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
+  flex-wrap: wrap; margin-bottom: 0.4rem;
+}
+.qtable-count { font-size: 0.82rem; color: var(--gray); }
+.paged-perpage-label { font-size: 0.85rem; color: var(--darkgray); display: inline-flex; align-items: center; gap: 0.4rem; }
 .paged-perpage {
-  font-family: var(--titleFont); font-weight: 600; font-size: 0.9rem;
-  padding: 0.25rem 0.5rem; border-radius: 8px; border: 1.5px solid var(--lightgray);
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.85rem;
+  padding: 0.2rem 0.45rem; border-radius: 8px; border: 1.5px solid var(--lightgray);
   background: var(--light); color: var(--dark); cursor: pointer;
 }
 .paged-perpage:focus { outline: none; border-color: var(--secondary); }
-ul.paged-ul { margin: 0.3rem 0; }
-ul.paged-ul li { margin: 0.15rem 0; }
+.paged-list table.qtable-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.paged-list table.qtable-table th, .paged-list table.qtable-table td {
+  text-align: left; padding: 0.35rem 0.55rem; border-bottom: 1px solid var(--lightgray);
+  vertical-align: top;
+}
+.paged-list table.qtable-table th.qtable-th { cursor: pointer; user-select: none; white-space: nowrap; }
+.paged-list table.qtable-table th.qtable-th:hover { color: var(--secondary); }
+.paged-list table.qtable-table th.sorted-asc::after { content: " \\2191"; }
+.paged-list table.qtable-table th.sorted-desc::after { content: " \\2193"; }
+.paged-list table.qtable-table td:nth-child(3), .paged-list table.qtable-table td:nth-child(4) { text-align: center; white-space: nowrap; }
 .paged-snip { color: var(--gray); font-size: 0.92em; }
-.paged-pager { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; margin: 1rem 0 0.3rem; }
+.qtable-pager {
+  display: flex; gap: 0.3rem; align-items: center; justify-content: center;
+  margin-top: 0.9rem; flex-wrap: wrap;
+}
 .paged-btn {
   font-family: var(--titleFont); font-weight: 600; font-size: 0.85rem;
   min-width: 2rem; padding: 0.3rem 0.6rem; border-radius: 999px;
