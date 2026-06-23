@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_1|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_1|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Determinare l'espressione analitica della funzione $y=f(x)$ sapendo che $f''(x)=2-\dfrac{20}{x^2}$ e che la retta di equazione $y=16x-16$ è tangente al grafico della funzione $f(x)$ nel suo punto $P(1;\,0)$. Trovare gli eventuali asintoti della funzione $y=f(x)$.
 

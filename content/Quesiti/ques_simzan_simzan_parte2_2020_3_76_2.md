@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 2. La funzione $f(x)=\dfrac{p(x)}{x^2+\alpha}$, in cui $p(x)$ è un polinomio e $\alpha\in\mathbb{R}$, ha il grafico in figura, che è simmetrico rispetto all'asse $y$. *(figura nel PDF)* La retta $t$ è tangente al grafico di $f(x)$ nel punto $A$ di ascissa 4 e ha coefficiente angolare assegnato. Determinare il grado di $p(x)$ e l'espressione della funzione basandosi sulle informazioni che si possono dedurre dal grafico. Determinare l'equazione dell'asintoto obliquo della funzione $g(x)=x\cdot f(x)$.
 

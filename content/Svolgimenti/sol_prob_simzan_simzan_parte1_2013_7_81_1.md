@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_7_81_1|Simulazione Zanichelli 2013 Sperimentale #7 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_7_81_1|Simulazione Zanichelli 2013 Sperimentale n.7 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]]
 
 Si considera una circonferenza con $A$ e $B$ estremi di una corda di lunghezza 1 e $AC$ diametro. Si pone $BC = x$.
 

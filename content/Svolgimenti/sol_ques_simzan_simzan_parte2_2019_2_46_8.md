@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_8|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_8|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 Un esperimento con effetto Compton viene eseguito con raggi X di frequenza $f_i = 3{,}220\times10^{17}$ Hz. I fotoni diffusi vengono osservati a un angolo $\theta = 130{,}3°$ rispetto alla direzione iniziale. Determinare l'energia dei fotoni incidenti, la frequenza del raggio diffuso e la corrispondente velocità iniziale dell'elettrone dopo la diffusione.
 

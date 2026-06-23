@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 4. Considera la funzione $f(x)=\dfrac{x^3-4x^2}{p(x)}$, dove $p(x)$ è un polinomio. Determina $p(x)$ sapendo che il grafico di $f(x)$ presenta un asintoto obliquo di equazione $y=\frac{1}{2}x+1$ e che in $x=4$ presenta un punto di singolarità eliminabile. Ricava le equazioni degli eventuali altri asintoti e le coordinate degli eventuali massimi e minimi relativi della funzione $f(x)$.
 

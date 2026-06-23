@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_9_103_2|Simulazione Zanichelli 2013 Ordinamento #9 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_9_103_2|Simulazione Zanichelli 2013 Ordinamento n.9 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]]
 
 Per ogni numero naturale $k > 0$ sono date le funzioni:
 

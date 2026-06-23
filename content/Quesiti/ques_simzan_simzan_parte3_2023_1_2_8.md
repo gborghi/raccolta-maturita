@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. Determina per quali valori dei parametri $a$ e $b$ il grafico della funzione $f(x)=(ax+b)e^{-x}$, con $a,b\in\mathbb{R}-\{0\}$, presenta nel suo punto d'intersezione con l'asse $y$ una retta tangente parallela alla retta di equazione $3x+2y+1=0$ e la funzione $f(x)$ è tale che $f''(x)$ è uguale a $f(x)+e^{-x}$.
 

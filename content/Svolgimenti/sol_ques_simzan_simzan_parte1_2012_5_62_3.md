@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_3|Simulazione Zanichelli 2012 Ordinamento #5 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_3|Simulazione Zanichelli 2012 Ordinamento n.5 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 La quantità domandata è $q = 500 - 25p$, con $0 \le p \le 15$.
 

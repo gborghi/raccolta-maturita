@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. I muoni sono particelle di massa $m=1{,}88\cdot10^{-28}$ kg la cui vita media in quiete è pari a $\tau=2{,}20$ μs. Un muone, prodotto dall'interazione di un raggio cosmico con l'atmosfera, si sta avvicinando alla Terra. Rispetto a un osservatore sulla Terra, il muone si muove con velocità verticale verso il basso di modulo pari a $v_\mu=0{,}99c$. Determina a quale quota è generato il muone se raggiunge la superficie terrestre prima di decadere in un tempo pari proprio alla vita media $\tau$. Determina inoltre l'energia cinetica e l'energia totale di tale muone espresse in eV. Un elettrone si muove parallelamente al muone, nello stesso verso e con velocità rispetto alla Terra $v_e=0{,}75c$; determina la velocità dell'elettrone misurata nel sistema di riferimento del muone.
 

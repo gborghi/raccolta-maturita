@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_2_23_2|Simulazione Zanichelli 2011 Ordinamento #2 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_2_23_2|Simulazione Zanichelli 2011 Ordinamento n.2 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 In un sistema di riferimento cartesiano $xOy$ si consideri il fascio di curve di equazione
 

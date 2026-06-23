@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 7. In un riferimento cartesiano $Oxyz$ sono assegnate una sfera di centro l'origine $O$ e raggio 5 e la retta $r$ rappresentata dal sistema parametrico:
 $$\begin{cases} x=-4t\\ y=-3, & \text{con } t\in\mathbb{R}.\\ z=3t \end{cases}$$

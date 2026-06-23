@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Nel riferimento cartesiano $xOy$ si consideri la funzione $f(x)$ definita e continua in $]-4;\, +\infty[$, e con la derivata seconda $f''(x)$ avente il grafico riportato nella figura.
 

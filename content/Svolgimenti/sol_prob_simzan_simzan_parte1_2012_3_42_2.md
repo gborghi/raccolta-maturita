@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_3_42_2|Simulazione Zanichelli 2012 Sperimentale #3 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_3_42_2|Simulazione Zanichelli 2012 Sperimentale n.3 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 La funzione $f(x)$ è definita in $]1; +\infty[$, con grafico che interseca l'asse delle ascisse in $P(2; 0)$, e la derivata prima $f'(x)$ è la funzione omografica $y = \frac{ax+b}{cx+d}$ di centro $(1; 1)$ passante per $P$.
 

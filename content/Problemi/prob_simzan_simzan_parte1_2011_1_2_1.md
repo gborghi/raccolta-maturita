@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Sia $ABC$ un triangolo con il lato $BC$ di lunghezza unitaria e l'angolo $A\hat{B}C$ di ampiezza $60°$.
 

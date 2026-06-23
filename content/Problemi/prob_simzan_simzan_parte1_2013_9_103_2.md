@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Per ogni numero naturale $k>0$ sono date le funzioni:
 $$f_k(x)=\operatorname{sen} kx+1,\qquad g_k(x)=\int_0^x (\operatorname{sen} kt+1)\,dt\quad\text{con } x\in[0;\pi].$$

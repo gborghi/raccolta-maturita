@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 10. Si lanciano 5 dadi regolari a sei facce. Detto $x$ il numero di dadi che presentano un valore maggiore o uguale a 3, si compili la tabella della distribuzione di probabilità della variabile casuale $X=x$ e se ne ricavino il valore medio e la deviazione standard.
 

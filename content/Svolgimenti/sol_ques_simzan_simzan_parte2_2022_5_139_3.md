@@ -14,7 +14,7 @@ tags:
   - anno/2022
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_3|Simulazione Zanichelli 2022 — SimZan parte2 #5 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_3|Simulazione Zanichelli 2022 — SimZan parte2 n.5 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]]
 
 Consideriamo le curve $f(x) = 2e^{-x}$ e $g(x) = e^{-x}$ *(grafico — vedi PDF p.141)*. Il triangolo $ABC$ ha i vertici:
 - $A = (0, 2)$ (sul grafico di $f$ per $x = 0$, poiché $f(0) = 2$);

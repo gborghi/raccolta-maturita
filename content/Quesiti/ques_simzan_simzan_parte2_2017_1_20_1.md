@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 1. Dati il piano $\alpha$ di equazione $2x-y+z-1=0$ e i punti $A(5;1;-2)$ e $B(1;1;2)$, verifica che $A$ e $B$ appartengono a $\alpha$ e individua due punti $C_1$ e $C_2$ nel piano $\beta$ perpendicolare a $\alpha$ e contenente la retta $AB$ tali che i triangoli $ABC_1$ e $ABC_2$ siano equilateri.
 

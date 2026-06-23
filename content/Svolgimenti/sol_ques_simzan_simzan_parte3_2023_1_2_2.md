@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_2|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Un negozio di abbigliamento ha aperto un nuovo sito di e-commerce. Il numero $N$ di accessi (in migliaia) alla home page del sito nel giorno di lancio della piattaforma è modellizzato dal grafico in figura. Il tempo $t$ è espresso in ore. Determinare per quali valori dei parametri reali $a$ e $b$ la funzione
 

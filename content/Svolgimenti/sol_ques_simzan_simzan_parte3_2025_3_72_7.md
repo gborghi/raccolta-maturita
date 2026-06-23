@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_7|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_7|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 $p(x)$ pari di grado 4, punto stazionario in $A(-\sqrt{2};\,-2)$, $p(0) = 0$.
 

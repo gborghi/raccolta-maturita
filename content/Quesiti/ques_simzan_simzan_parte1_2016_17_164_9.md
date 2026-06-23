@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 9. Determina l'espressione analitica della funzione $f(x)$ sapendo che il suo grafico è tangente alla retta di equazione $y=4x-2$ in un punto del primo quadrante e che la sua derivata prima è $f'(x)=x^3-3x$. Rappresenta quindi il grafico di $f(x)$, verificando che è una funzione pari. Dimostra, in generale, che se $f(x)$ è una funzione pari, allora $f'(x)$ è dispari e $f''(x)$ è pari.
 

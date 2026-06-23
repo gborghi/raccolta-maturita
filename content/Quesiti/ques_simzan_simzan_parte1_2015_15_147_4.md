@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 4. Sia $f(x)$ una funzione definita e continua in $\mathbb{R}$ tale che $\displaystyle\lim_{x\to 0}\frac{f(x)-1}{x}=2$. Calcola, giustificando il procedimento, il seguente limite:
 $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$

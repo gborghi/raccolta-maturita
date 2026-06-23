@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Sono date la famiglia di funzioni
 $$f(x) = ax^3 + x, \quad \text{con } a \in \mathbb{R},$$

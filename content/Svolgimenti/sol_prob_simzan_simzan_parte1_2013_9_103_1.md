@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_9_103_1|Simulazione Zanichelli 2013 Ordinamento #9 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_9_103_1|Simulazione Zanichelli 2013 Ordinamento n.9 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]]
 
 **a)** Si considera la circonferenza con $A$ e $B$ estremi di una corda di lunghezza 1 e $AC$ diametro.
 

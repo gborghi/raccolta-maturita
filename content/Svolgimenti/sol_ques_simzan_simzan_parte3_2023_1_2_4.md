@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_4|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_4|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Considera le funzioni $f(x)=a(x^2-2x)$ e $g(x)=x\!\left(\dfrac{\pi}{2}-ax\right)$ con $a\in\mathbb{R}\setminus\{0\}$. Verifica che per qualsiasi valore di $a$ i grafici delle due funzioni hanno tre punti in comune. Considera il valore di $a$ determinato in precedenza. Stabilisci se sull'intervallo $[0,2]$ è applicabile il teorema di Lagrange alle due funzioni, trova i valori $c\in[0,2]$ per cui è verificata la tesi. Stabilisci inoltre se sull'intervallo $[0,2]$ siano soddisfatte le ipotesi del teorema di Cauchy per la coppia $f(x)$ e $g(x)$.
 

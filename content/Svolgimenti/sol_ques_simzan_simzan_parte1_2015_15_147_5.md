@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_5|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_5|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Data la funzione $f(x) = \dfrac{4}{x^2+1}$, ricaviamo le equazioni di tutte le rette tangenti al suo grafico passanti per il punto $A(0;\,4)$.
 

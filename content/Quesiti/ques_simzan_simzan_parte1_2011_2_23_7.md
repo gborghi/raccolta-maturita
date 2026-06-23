@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 7. Calcolare il volume del solido generato dalla rotazione di $180°$, rispetto alla retta $r$ di equazione $x = 2$, dell'arco di parabola $\gamma$ di equazione $x = y^2 - 2y + 3$ avente per estremi i punti che $\gamma$ ha in comune con la retta $s$ di equazione $y = \dfrac{1}{2}x$.
 

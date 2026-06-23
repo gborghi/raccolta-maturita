@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_7|Simulazione Zanichelli 2014 #13 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_7|Simulazione Zanichelli 2014 n.13 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 In un riferimento cartesiano $Oxyz$ sono assegnate una sfera di centro $O$ e raggio 5 (equazione $x^2 + y^2 + z^2 = 25$) e la retta $r$:
 

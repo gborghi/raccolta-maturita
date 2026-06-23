@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_1|Simulazione Zanichelli 2011 Ordinamento #2 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_1|Simulazione Zanichelli 2011 Ordinamento n.2 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 **Testo:** 15 squadre partecipanti a un torneo devono essere distribuite in tre gironi $A$, $B$ e $C$, ciascuno composto da cinque squadre. Le tre squadre classificatesi al primo posto l'anno precedente devono necessariamente essere collocate in gironi distinti. Calcola il numero complessivo di composizioni possibili dei tre gironi.
 

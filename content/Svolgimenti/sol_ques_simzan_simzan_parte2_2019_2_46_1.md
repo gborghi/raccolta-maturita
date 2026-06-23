@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_1|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_1|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 La funzione:
 

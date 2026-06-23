@@ -16,7 +16,7 @@ tags:
   - anno/2020
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_6|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_6|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica) — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]]
 
 La cometa di Halley orbita intorno al Sole con un periodo di circa $76{,}0$ anni, descrivendo un'orbita ellittica molto eccentrica ($e = 0{,}967$). I valori orbitali della cometa all'afelio sono $v_{pe} = 914\ \text{m/s}$ e $r_{pe} = 35{,}1\ \text{UA}$.
 

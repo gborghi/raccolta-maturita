@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_5_62_1|Simulazione Zanichelli 2012 Ordinamento #5 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_5_62_1|Simulazione Zanichelli 2012 Ordinamento n.5 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Sono date la famiglia di funzioni $f(x) = ax^3 + x$ con $a \in \mathbb{R}$, e la funzione $g(x) = x^4 - x^2$.
 

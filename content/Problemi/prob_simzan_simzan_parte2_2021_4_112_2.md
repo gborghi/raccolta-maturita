@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Una spira rettangolare, i cui lati orizzontali e verticali misurano rispettivamente $a=10$ cm e $b=20$ cm, è fatta ruotare all'interno di un campo magnetico uniforme d'intensità $B=1{,}0\cdot10^{-2}$ T. All'istante $t=0$ la spira viene messa in movimento: l'angolo, in radianti, formato dalla normale alla spira $\vec{n}$ e il campo magnetico $\vec{B}$, varia nel tempo secondo la legge $\theta(t)=\dfrac{1}{2}\gamma t^2$, con $\gamma=1{,}0\cdot10^{2}$ rad/s².
 

@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_2_23_1|Simulazione Zanichelli 2011 Ordinamento #2 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_2_23_1|Simulazione Zanichelli 2011 Ordinamento n.2 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 Sia $ABC$ un triangolo con il lato $BC$ di lunghezza unitaria e l'angolo $\widehat{ABC}$ di ampiezza $60°$.
 

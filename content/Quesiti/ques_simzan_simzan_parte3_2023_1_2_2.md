@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 2. Un negozio di abbigliamento ha aperto un nuovo sito di e-commerce. L'andamento del numero di accessi alla home page del sito nel giorno di lancio della piattaforma di e-commerce è modellizzato dal grafico in figura. Il tempo $t$ è espresso in ore, mentre il numero $N$ in migliaia di accessi. Determina per quali valori dei parametri reali e positivi $a$ e $b$, la funzione $N(t)=at\,e^{-bt}$, con $t\in[0;24]$, ha l'andamento in figura. Stima il numero di accessi per $t=24$. *(figura nel PDF)*
 

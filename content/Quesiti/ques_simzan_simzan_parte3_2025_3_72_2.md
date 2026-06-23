@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 2. Sono date le rette di equazioni:
 $$r:\begin{cases} x=2t \\ y=2+t \\ z=1-t,\end{cases}\quad \text{con } t\in\mathbb{R};\qquad s:\begin{cases} x+2y=0 \\ x+2y-z=3.\end{cases}$$

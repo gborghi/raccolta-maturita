@@ -14,7 +14,7 @@ tags:
   - anno/2022
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2022_5_139_1|Simulazione Zanichelli 2022 — SimZan parte2 #5 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2022_5_139_1|Simulazione Zanichelli 2022 — SimZan parte2 n.5 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]]
 
 Consideriamo la famiglia di funzioni $f_a(x) = \dfrac{x + a}{1 + x^2}$, con $a \in \mathbb{R}$.
 

@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_8|Simulazione Zanichelli 2012 Ordinamento #5 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_8|Simulazione Zanichelli 2012 Ordinamento n.5 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Sia $g(x) = \displaystyle\int_{x}^{2x} f(t)\,dt$, con $f(t)$ continua su $\mathbb{R}$.
 

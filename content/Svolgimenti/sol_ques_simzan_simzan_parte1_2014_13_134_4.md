@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_4|Simulazione Zanichelli 2014 #13 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_4|Simulazione Zanichelli 2014 n.13 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 Assegnata la funzione $f(x) = 3\ln x - \dfrac{x^2}{2}$, dobbiamo trovare la retta tangente alla funzione inversa $F(x) = f^{-1}(x)$ nel suo punto di ascissa 2, dopo aver dimostrato che $f(x)$ è invertibile.
 

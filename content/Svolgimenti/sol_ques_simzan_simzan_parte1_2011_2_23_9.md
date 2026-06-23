@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_9|Simulazione Zanichelli 2011 Ordinamento #2 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_9|Simulazione Zanichelli 2011 Ordinamento n.2 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 **Testo:** Data l'iperbole $\Gamma$ di equazione $f(x) = \dfrac{x}{3} \cdot x$ e la retta $\varepsilon$ di equazione $f(1) = 3x + 2$, determinare nel semipiano $x > 0$ al variare di una generica retta $s$ parallela all'asse $y$, il luogo geometrico $\Gamma$ descritto dai punti medi del segmento che la retta $s$ intercetta tra l'iperbole e la retta $\varepsilon$. Determinare inoltre l'asintoto obliquo.
 

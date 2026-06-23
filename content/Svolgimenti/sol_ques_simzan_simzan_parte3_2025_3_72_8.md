@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_8|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_8|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 $f(x) = x^4 - 2ax^3$, $a > 0$.
 

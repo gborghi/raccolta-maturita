@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 1. Determina l'espressione analitica della funzione $y=f(x)$ sapendo che $f''(x)=2-\dfrac{1}{x^3}$ e che la retta di equazione $y=16x-16$ è tangente al grafico della funzione $f(x)$ nel suo punto $P(1;0)$. Trova gli eventuali asintoti della funzione $y=f(x)$.
 

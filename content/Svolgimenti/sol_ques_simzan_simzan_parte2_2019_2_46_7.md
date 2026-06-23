@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_7|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_7|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 Un fascio di radiazione infrarossa, che si propaga nel vuoto, in $\Delta t = 4{,}16$ s fornisce a una superficie piana di area $A = 31{,}6\;\text{cm}^2 = 31{,}6\times10^{-4}\;\text{m}^2$ un'energia $W = 1{,}97$ J.
 

@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2014_13_134_1|Simulazione Zanichelli 2014 #13 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2014_13_134_1|Simulazione Zanichelli 2014 n.13 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 **Trekking in montagna**
 

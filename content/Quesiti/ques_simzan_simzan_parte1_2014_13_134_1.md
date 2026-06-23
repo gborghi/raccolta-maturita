@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 1. Considera la curva $\gamma$ di equazione $y=-x^2+4x$ e il fascio di rette di equazione $y=mx$, con $m\in\mathbb{R}$. Ricava i valori di $m$ per i quali la corrispondente retta del fascio e la curva $\gamma$ delimitano una regione piana di area $\dfrac{9}{2}$.
 

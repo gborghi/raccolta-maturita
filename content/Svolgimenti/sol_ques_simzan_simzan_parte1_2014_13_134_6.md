@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_6|Simulazione Zanichelli 2014 #13 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_6|Simulazione Zanichelli 2014 n.13 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 Un contenitore di capacità $V$ ha la forma di un cilindro sormontato alle basi da due coni equilateri (con le basi coincidenti con quelle del cilindro). Indichiamo con $r$ il raggio di base e con $h$ l'altezza del cilindro.
 

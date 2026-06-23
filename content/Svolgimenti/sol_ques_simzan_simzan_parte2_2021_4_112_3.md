@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_3|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_3|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 **Testo.** Determina l'espressione analitica della funzione $y = f(x)$ sapendo che $f'(x) = 3x^2 - 8x + 4$ e che la sua tangente di flesso ha equazione $36x + 27y - 64 = 0$.
 

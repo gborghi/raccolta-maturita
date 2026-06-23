@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_8|Simulazione Zanichelli 2013 Sperimentale #7 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_8|Simulazione Zanichelli 2013 Sperimentale n.7 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]]
 
 Una sfera di raggio 1 è secata da due piani paralleli distanti 1 tra loro. Individuare la posizione dei piani affinché la somma delle aree delle sezioni sia massima.
 

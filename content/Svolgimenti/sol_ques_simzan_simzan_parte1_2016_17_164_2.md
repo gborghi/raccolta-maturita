@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_2|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_2|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **In figura è rappresentato il grafico della funzione $f'(x)$. Sapendo che $f(0) = 0$, il rapporto $\frac{f(4)-f(0)}{4-0}$ quanto vale?**
 

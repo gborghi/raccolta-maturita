@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte3_2023_1_2_1|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte3_2023_1_2_1|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 Considera la funzione $f(x) = \dfrac{ax}{bx^2 + b}$, con $a$ e $b$ parametri reali non nulli. Siano inoltre
 

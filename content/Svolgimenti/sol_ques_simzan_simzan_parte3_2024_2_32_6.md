@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_6|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_6|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 Determina il valore del parametro $a \in \mathbb{R}$ in modo tale che valga:
 

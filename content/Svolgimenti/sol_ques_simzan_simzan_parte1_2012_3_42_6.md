@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_6|Simulazione Zanichelli 2012 Sperimentale #3 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_6|Simulazione Zanichelli 2012 Sperimentale n.3 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 Sia $g(x) = \int_x^{2x} f(t)\, dt$ con $f$ continua su $\mathbb{R}$. Dati $f(0) = -\frac{1}{2}$, $f\!\left(\frac{1}{2}\right) = \frac{1}{4}$, $f(1) = 1$.
 

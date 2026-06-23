@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_10|Simulazione Zanichelli 2012 Ordinamento #5 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_10|Simulazione Zanichelli 2012 Ordinamento n.5 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Il signor Pierluigi vuole dimostrare che il rapporto tra il raggio $r$ del cerchio e il lato $l$ del quadrato è $\dfrac{5}{8}$.
 

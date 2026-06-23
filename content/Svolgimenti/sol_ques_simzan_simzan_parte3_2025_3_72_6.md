@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_6|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_6|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 Parabola di vertice $A(2;\,0)$ passante per $C(0;\,2)$: $y = \dfrac{1}{2}(x-2)^2$. Quadrato $OABC$.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 7. $p(x)$ è una funzione polinomiale pari di grado 4. Il suo grafico, in un sistema di riferimento cartesiano, ha un punto stazionario in $A(-\sqrt{2};-2)$ e passa per l'origine $O$. Determina le intersezioni tra il grafico di $p(x)$ e quello di $q(x)=\dfrac{p(x)}{x^2}$.
 

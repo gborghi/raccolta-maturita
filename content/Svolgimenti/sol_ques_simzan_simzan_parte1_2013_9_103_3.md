@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_3|Simulazione Zanichelli 2013 Ordinamento #9 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_3|Simulazione Zanichelli 2013 Ordinamento n.9 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]]
 
 Si calcola il limite:
 

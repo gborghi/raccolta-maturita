@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 7. Verifica che la funzione $y=ae^x+bxe^x+x$ soddisfa l'equazione differenziale $y''-2y'+y=x-2$ per ogni valore reale delle costanti $a$ e $b$, quindi determina i valori di $a$ e $b$ per i quali si ha: $y(0)=2$, $y'(0)=0$.
 

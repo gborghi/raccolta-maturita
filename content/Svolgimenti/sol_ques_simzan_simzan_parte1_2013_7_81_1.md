@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_1|Simulazione Zanichelli 2013 Sperimentale #7 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_1|Simulazione Zanichelli 2013 Sperimentale n.7 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]]
 
 Data la funzione:
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 1. 15 squadre partecipanti a un torneo devono essere distribuite in tre gironi A, B e C, ciascuno composto da cinque squadre. Le tre squadre classificatesi al primo posto l'anno precedente devono necessariamente essere collocate in gironi distinti. Calcola il numero complessivo di composizioni possibili dei tre gironi.
 

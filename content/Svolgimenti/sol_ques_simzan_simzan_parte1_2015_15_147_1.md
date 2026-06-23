@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_1|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_1|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Esiste un valore della costante reale $a$ per il quale l'equazione differenziale $xy'' + ay' + a^2 = 1$ abbia come soluzione la funzione $y(x) = \ln x - x$?
 

@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_10|Simulazione Zanichelli 2011 PNI #1 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_10|Simulazione Zanichelli 2011 PNI n.1 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 **Determinare $a\in\,]-1;3[$ affinché:**
 

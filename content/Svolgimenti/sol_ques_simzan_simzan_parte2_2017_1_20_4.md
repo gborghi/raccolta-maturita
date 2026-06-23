@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_4|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_4|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 La funzione $f(x) = \sqrt{x^2+3}-2x$. Si vuole trovare i punti del grafico dove la tangente passa per un punto generico $P(k;0)$ sull'asse $x$, con $0 < k \le \sqrt{3}$.
 

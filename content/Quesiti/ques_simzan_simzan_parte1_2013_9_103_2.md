@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 2. Angela vuole farsi una collana composta da perle di plastica colorate: 6 rosse, 10 arancioni e 8 gialle da chiudere con un fermaglio. Quante sono le possibili sequenze differenti? Qual è invece il numero delle sequenze nel caso in cui Angela voglia mettere agli estremi perle di colore arancione? Quale sarà poi tale numero se Angela pensa a composizioni con estremi di colore uguale?
 

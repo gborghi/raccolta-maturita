@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte3_2025_3_72_1|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte3_2025_3_72_1|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 **Testo.** Sia $f_a(x) = \dfrac{x^2 - ax}{|x| + 1}$, con $a \in \mathbb{R}$.
 

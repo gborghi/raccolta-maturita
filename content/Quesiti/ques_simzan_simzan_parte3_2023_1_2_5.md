@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 5. Nel sistema di riferimento cartesiano $Oxyz$ la retta $r$ è definita dal seguente sistema di equazioni parametriche
 $$r:\begin{cases} x=2t+2 \\ y=t-1 \\ z=t+1.\end{cases}$$

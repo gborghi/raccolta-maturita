@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_6|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_6|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 In un laboratorio posto sulla Terra, sotto una campana a vuoto, uno ione $\text{Ag}^+$ (carica $e = 1{,}602\times10^{-19}$ C, massa $m = 1{,}79\times10^{-25}$ kg) è lanciato obliquamente rispetto all'alto con velocità iniziale $v_0 = 1{,}53$ m/s a $45°$ rispetto all'orizzontale, da un'altezza $h = 1{,}53$ m rispetto alla base della campana. La base è elettrizzata con densità superficiale $\sigma = -7{,}92\times10^{-11}$ C/m², generando un campo elettrico che attrae lo ione verso il basso.
 

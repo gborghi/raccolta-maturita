@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 È data la funzione
 $$f(x) = \begin{cases} -x^2 + x + a & \text{se } x \le 0 \\ bx^2 \ln x & \text{se } x > 0. \end{cases}$$

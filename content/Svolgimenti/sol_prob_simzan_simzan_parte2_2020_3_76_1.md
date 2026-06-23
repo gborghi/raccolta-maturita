@@ -16,7 +16,7 @@ tags:
   - anno/2020
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2020_3_76_1|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2020_3_76_1|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica) — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]]
 
 A cura di Massimo Bergamini, Graziella Barozzi e Lorenzo Meneghini.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 <!--fig:start-->
 ![[_attachments/simzan_simzan_parte2_2021_4_112/simzan_simzan_parte2_2021_4_112_fig.svg]]

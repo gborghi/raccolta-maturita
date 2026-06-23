@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_5|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_5|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Nel sistema di riferimento cartesiano $Oxyz$ la retta $r$ è definita dal seguente sistema di equazioni parametriche:
 

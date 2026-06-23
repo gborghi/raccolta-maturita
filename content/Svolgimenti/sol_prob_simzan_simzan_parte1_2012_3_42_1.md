@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_3_42_1|Simulazione Zanichelli 2012 Sperimentale #3 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_3_42_1|Simulazione Zanichelli 2012 Sperimentale n.3 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 La famiglia di funzioni è $y = kx + (1-x)e^{2x}$, con $k \in \mathbb{R}$.
 

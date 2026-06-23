@@ -16,7 +16,7 @@ tags:
   - anno/2020
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_8|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_8|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica) — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]]
 
 Un osservatore $B$, solidale con un sistema di riferimento $S'$, si muove con velocità $v_1$ rispetto a un altro osservatore $A$, che si trova in un sistema di riferimento inerziale $S$. Al tempo $t = t' = 0\ \text{s}$ entrambi occupano la posizione spaziale $x = x' = 0\ \text{m}$ e la velocità relativa è rivolta nei semissi positivi dei sistemi. Si considerano i due eventi:
 

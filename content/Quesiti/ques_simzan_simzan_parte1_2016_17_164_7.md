@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 7. Date le funzioni:
 $$f(x)=\int_0^x \sin\!\big(t\ln(1+t)\big)\,dt,\qquad g(x)=\int_0^x \left(t-1+e^{-t}\right)\,dt,$$

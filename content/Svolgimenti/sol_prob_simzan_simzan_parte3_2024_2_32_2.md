@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte3_2024_2_32_2|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte3_2024_2_32_2|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 Elia vuole allestire un piccolo giardino rettangolare di dimensioni 6 m per 5 m. Il progetto illustrato in figura prevede una parte di manto erboso (la regione superiore in grigio scuro) e una zona (in grigio chiaro) coperta da aubretia (una specie tappezzante che produce dei piccoli fiori di colori vivaci), che circonda un piccolo stagno a forma di ellisse.
 

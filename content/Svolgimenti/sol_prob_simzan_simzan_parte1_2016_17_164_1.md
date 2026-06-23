@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2016_17_164_1|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2016_17_164_1|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 In uno studio di progettazione navale si vuole realizzare il modello in scala ridotta dello scafo di una nave. Il modello deve essere ricavato da un blocco omogeneo di materiale plastico in forma di prisma retto, di altezza 3 m, avente per base il trapezio isoscele $ABCD$ con $AB = 2\,\text{m}$, $CD = 1\,\text{m}$ e altezza $1\,\text{m}$.
 

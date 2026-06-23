@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2019_2_46_2|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2019_2_46_2|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 Si consideri un filo rettilineo infinito $t$, posto nel vuoto, con carica positiva distribuita uniformemente con densità lineare $\lambda$. Il campo elettrico $\vec{E}$ generato ha direzione radiale, è costante nei punti alla stessa distanza dal filo, e il suo modulo vale:
 

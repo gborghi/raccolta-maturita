@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_8|Simulazione Zanichelli 2012 Sperimentale #3 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_8|Simulazione Zanichelli 2012 Sperimentale n.3 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 È data $f(x)$ continua e derivabile con $f'(x) < e^x$ per ogni $x \in \mathbb{R}$. Si dimostra che $f(1) - f(0) < e$.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 1. Esiste un valore della costante reale $a$ per il quale l'equazione differenziale $xy''+ay'=2x-1$ abbia come soluzione la funzione $y(x)=x\ln x$? Motiva la risposta.
 

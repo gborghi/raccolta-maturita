@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_3|Simulazione Zanichelli 2014 #13 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_3|Simulazione Zanichelli 2014 n.13 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 Un rubinetto versa acqua con portata variabile $p(t) = \dfrac{10}{1+t}$ litri/minuto. Dobbiamo trovare il tempo $T$ affinché si riempiano 20 litri:
 

@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_5|Simulazione Zanichelli 2011 PNI #1 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_5|Simulazione Zanichelli 2011 PNI n.1 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 **Volume del solido con base la regione sottesa da $f(x)=\dfrac{1}{x}$ in $[1,2]$, con sezioni semicircolari di diametro $f(x)$.**
 

@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_8|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_8|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Nella figura sono riportati i grafici di una funzione $f(x)$, della sua derivata prima $f'(x)$ e della derivata seconda $f''(x)$.
 

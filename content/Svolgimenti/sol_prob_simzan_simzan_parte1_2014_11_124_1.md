@@ -16,7 +16,7 @@ tags:
   - anno/2014
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2014_11_124_1|Simulazione Zanichelli 2014 Problemi Tradizionali #11 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_11_124|Simulazione Zanichelli 2014 Problemi Tradizionali #11]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2014_11_124_1|Simulazione Zanichelli 2014 Problemi Tradizionali n.11 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_11_124|Simulazione Zanichelli 2014 Problemi Tradizionali n.11]]
 
 ### Punto a)
 

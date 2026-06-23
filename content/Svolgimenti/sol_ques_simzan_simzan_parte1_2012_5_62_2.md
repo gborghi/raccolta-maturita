@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_2|Simulazione Zanichelli 2012 Ordinamento #5 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_2|Simulazione Zanichelli 2012 Ordinamento n.5 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Calcoliamo $\displaystyle\lim_{x\to 0}\frac{1-\cos x + \sin x}{1-\cos x - \sin x}$ con almeno due metodi.
 

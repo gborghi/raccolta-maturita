@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Nel sito web della stazione meteorologica cittadina sono stati pubblicati, come ogni giorno, due grafici. Il primo grafico visualizza la distribuzione locale della pressione atmosferica al suolo mediante linee di livello (isobare) che uniscono i punti aventi la stessa pressione (misurata in kilopascal, kPa). Le linee di livello corrispondono a valori consecutivi della pressione atmosferica $(100, 101, 102, \dots)$. La diagonale $AB$ passa per i punti $L$ e $H$, dove la pressione assume rispettivamente un minimo (100 kPa) e un massimo (120 kPa). Il secondo grafico rappresenta l'andamento della pressione $p(x)$ in funzione della posizione $x$ lungo la diagonale $AB$ ($x$ è espresso in kilometri, con origine in $A$).
 

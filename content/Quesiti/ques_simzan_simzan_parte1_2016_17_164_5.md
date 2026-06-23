@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 5. Discuti la continuità e la derivabilità della seguente funzione reale:
 $$f(x)=\begin{cases} \dfrac{x}{|x|} & \text{se } x\ne 0 \\ 1 & \text{se } x=0 \end{cases}$$

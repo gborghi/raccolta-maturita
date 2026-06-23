@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 1. Verificare che il grafico della funzione
 $$F(x)=2+12x-\int_0^x \ln\!\big(t^2+1+4\big)\,dt$$

@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2015_16_151_1|Simulazione Zanichelli 2015 — SimZan parte1 #16 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_16_151|Simulazione Zanichelli 2015 — SimZan parte1 #16]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2015_16_151_1|Simulazione Zanichelli 2015 — SimZan parte1 n.16 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_16_151|Simulazione Zanichelli 2015 — SimZan parte1 n.16]]
 
 **Problema 1 – Conversazioni telefoniche**
 

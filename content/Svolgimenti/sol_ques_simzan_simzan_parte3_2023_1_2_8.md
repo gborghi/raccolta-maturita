@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_8|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_8|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Determina per quali valori dei parametri $a$ e $b$ la funzione
 

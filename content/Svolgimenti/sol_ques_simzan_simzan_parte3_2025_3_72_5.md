@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_5|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_5|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 $F(x) = \int_x^{-1}\!\left(\dfrac{3}{2}t^2 + t - 2\right)dt$.
 

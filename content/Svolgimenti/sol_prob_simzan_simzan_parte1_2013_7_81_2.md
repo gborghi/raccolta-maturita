@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_7_81_2|Simulazione Zanichelli 2013 Sperimentale #7 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_7_81_2|Simulazione Zanichelli 2013 Sperimentale n.7 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]]
 
 Sia data la funzione $f(x) = \ln(1+kx) - kx + k^2x^2$, dove $k \in \mathbb{R}$, $k \neq 0$.
 

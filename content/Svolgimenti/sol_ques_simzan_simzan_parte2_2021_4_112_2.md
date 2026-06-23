@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_2|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_2|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 **Testo.** Determina l'angolo formato dalle tangenti al grafico della funzione $f(x) = 1 + \sqrt{x^2 - x^4}$ nel suo punto angoloso.
 

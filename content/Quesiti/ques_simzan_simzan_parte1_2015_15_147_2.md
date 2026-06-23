@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 2. Una vasca cubica di 2 m per lato contiene inizialmente 2 m³ d'acqua. A un istante $t=0$ si apre un rubinetto che immette acqua nella vasca al ritmo costante di 10 m³ all'ora e nello stesso istante si apre lo scarico della vasca. Sapendo che l'acqua defluita dallo scarico dopo $t$ ore è pari a $10\left(t-1+e^{-t}\right)$ m³, qual è il massimo livello raggiunto dall'acqua nella vasca? La vasca finirà per svuotarsi?
 

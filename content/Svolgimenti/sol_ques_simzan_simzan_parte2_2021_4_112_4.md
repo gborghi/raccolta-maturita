@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_4|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_4|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 **Testo.** A un convegno partecipano 36 psichiatri e 24 psicologi. Si deve formare una commissione composta da tre di essi. Qual è la probabilità che vi siano almeno uno psichiatra e almeno uno psicologo?
 

@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_6_65_1|Simulazione Zanichelli 2012 Ordinamento #6 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_6_65|Simulazione Zanichelli 2012 Ordinamento #6]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_6_65_1|Simulazione Zanichelli 2012 Ordinamento n.6 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_6_65|Simulazione Zanichelli 2012 Ordinamento n.6]]
 
 ### Punto a)
 

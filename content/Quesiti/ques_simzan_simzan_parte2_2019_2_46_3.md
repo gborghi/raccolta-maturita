@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. Si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita ponendo:
 $$f(x)=\begin{cases} ax^2+\dfrac{1}{2} & \text{se } x<1 \\ e^{b-x} & \text{se } x\ge 1 \end{cases}$$

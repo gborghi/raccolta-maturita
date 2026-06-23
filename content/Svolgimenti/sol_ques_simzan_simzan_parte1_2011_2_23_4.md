@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_4|Simulazione Zanichelli 2011 Ordinamento #2 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_4|Simulazione Zanichelli 2011 Ordinamento n.2 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 **Testo:** In un sistema di riferimento cartesiano $xOy$, si consideri la parabola di equazione $y = x^2 - 4x + 4$ che interseca gli assi cartesiani nei punti $A$ e $B$. Si tracci la retta tangente in un qualunque punto dell'arco $AB$ e, considerando il triangolo che tale retta forma con gli assi cartesiani, si trovi il volume massimo del solido che il triangolo genera in una rotazione completa attorno all'asse $x$.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 La cinciallegra è un piccolo uccello dalla caratteristica colorazione giallo-verde molto diffuso in Europa e nel Nord Africa. Le cinciallegre vivono in stormi numerosi, adattandosi alle diverse tipologie di habitat. L'andamento della popolazione di uno stormo isolato di cinciallegre può essere descritto da un modello malthusiano continuo
 

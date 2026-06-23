@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 7. Un fascio di radiazione infrarossa, che si propaga nel vuoto, in 4,16 s fornisce 1,97 J di energia a una superficie piana di area pari a 31,6 cm², posta perpendicolarmente all'onda elettromagnetica. Calcolare:
    a. la densità volumica media di energia dell'onda elettromagnetica infrarossa;

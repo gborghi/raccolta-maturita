@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_1|Simulazione Zanichelli 2013 Ordinamento #9 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_1|Simulazione Zanichelli 2013 Ordinamento n.9 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]]
 
 La funzione $y = \arctan(x^2 - 1)$ è definita e continua su tutto $\mathbb{R}$.
 

@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_6|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_6|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 **Testo.** Un corpo in moto rettilineo ha una velocità (in m/s) variabile secondo la legge
 $$v(t) = \begin{cases} at(4-t) & \text{se } 0 \le t \le 3\;\text{s} \\ \dfrac{b}{(t^2+c)^2} & \text{se } t > 3\;\text{s} \end{cases}$$

@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_5|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_5|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 Nel diagramma in figura è rappresentata una trasformazione ciclica di un particolare sistema termodinamico. Il tratto $AB$ è lineare; il tratto $BC$ è a $V$ costante; nel tratto $CA$ sussiste tra $p$ e $V$ la relazione $p = \dfrac{\alpha}{V+\beta}$, con $\alpha$ e $\beta$ costanti reali.
 

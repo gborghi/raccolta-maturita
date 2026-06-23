@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_7|Simulazione Zanichelli 2012 Sperimentale #3 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_7|Simulazione Zanichelli 2012 Sperimentale n.3 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 Si determinano gli asintoti di $f(x) = \ln(e^x - 1)$.
 

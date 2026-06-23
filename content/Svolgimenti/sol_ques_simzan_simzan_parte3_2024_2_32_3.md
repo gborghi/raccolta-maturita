@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_3|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_3|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 Andrea va a scuola ogni giorno con lo stesso autobus, dal lunedì al venerdì. La probabilità $p$ di trovare un posto libero è distribuita nel corso della settimana come segue:
 

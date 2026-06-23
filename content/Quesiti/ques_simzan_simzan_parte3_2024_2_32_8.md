@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. In figura è rappresentato il grafico $\gamma$ della funzione $y=xe^{-x^2}$. *(figura nel PDF)* Trova le tangenti inflessionali di $\gamma$, poi verifica che le aree delle due regioni di piano delimitate da $\gamma$ e da ciascuna delle tangenti sono uguali.
 

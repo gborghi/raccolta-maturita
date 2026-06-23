@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. Un osservatore $B$, solidale con un sistema di riferimento $S'$, si muove con velocità $v_1$ rispetto a un altro osservatore $A$, che si trova in un sistema di riferimento inerziale $S$. Al tempo $t=t'=0$ s, entrambi occupano la posizione $x=x'=0$ m e la velocità relativa è rivolta nei semiassi positivi delle ascisse di entrambi i sistemi. Si considerano due eventi:
    - $E_1$, in cui l'orologio di $A$ indica l'istante $t_1=2{,}1\cdot10^{2}$ s e la sua coordinata spaziale in $S'$ è $x_1'=-8{,}5\cdot10^{10}$ m;

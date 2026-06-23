@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. Un esperimento sull'effetto Compton viene eseguito con raggi X che hanno una frequenza di $3{,}220\cdot10^{17}$ Hz. Determinare l'energia dei fotoni che hanno subito la diffusione Compton a un angolo di 130,3° e la corrispondente velocità iniziale dell'elettrone dopo la diffusione.
 

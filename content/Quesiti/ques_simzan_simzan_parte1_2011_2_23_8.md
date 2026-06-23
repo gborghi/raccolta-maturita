@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. Individuare i valori del parametro reale $a$ per i quali relativamente all'intervallo $x > 0$, l'area della regione compresa tra l'asse $x$ e la curva di equazione $f(x) = \dfrac{a}{1 + x^2} + e^{-ax}$, ha valore finito.
 

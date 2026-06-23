@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 6. Dato il cubo in figura, si determini l'ampiezza del diedro convesso che ha per spigolo $BD'$ e per facce i piani $A'D'B$ e $C'D'B$. *(figura nel PDF)*
 

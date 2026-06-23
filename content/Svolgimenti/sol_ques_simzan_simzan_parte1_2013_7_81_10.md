@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_10|Simulazione Zanichelli 2013 Sperimentale #7 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_10|Simulazione Zanichelli 2013 Sperimentale n.7 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]]
 
 Determinare $k$ affinché $\dfrac{x+kx}{e^x} = k$ ammetta due soluzioni coincidenti.
 

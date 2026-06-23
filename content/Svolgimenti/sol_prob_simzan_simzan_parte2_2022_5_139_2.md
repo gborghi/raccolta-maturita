@@ -14,7 +14,7 @@ tags:
   - anno/2022
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2022_5_139_2|Simulazione Zanichelli 2022 — SimZan parte2 #5 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2022_5_139_2|Simulazione Zanichelli 2022 — SimZan parte2 n.5 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]]
 
 La funzione è $f(x) = ax \cdot e^{-x/b}$, con massimo relativo in $x = 3$ *(grafico — vedi PDF p.140)*.
 

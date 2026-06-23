@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte3_2024_2_32_1|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte3_2024_2_32_1|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 Considera la funzione
 

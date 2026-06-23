@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_9|Simulazione Zanichelli 2011 PNI #1 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_9|Simulazione Zanichelli 2011 PNI n.1 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 **Volume del solido generato dalla rotazione del cerchio $x^2+y^2-2x=0$ attorno all'asse $y$.**
 

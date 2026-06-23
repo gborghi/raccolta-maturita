@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_6|Simulazione Zanichelli 2011 Ordinamento #2 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_6|Simulazione Zanichelli 2011 Ordinamento n.2 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 **Testo:** Stabilire per quale insieme di punti del piano cartesiano l'espressione $\sqrt{e^{x^2} - y^2}$ esiste e fornire la rappresentazione grafica.
 

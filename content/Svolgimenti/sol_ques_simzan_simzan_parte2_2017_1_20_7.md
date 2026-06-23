@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_7|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_7|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 Equazione differenziale: $y'' - 2y' + y = x - 2$, con condizioni iniziali $y(0)=2$, $y'(0)=0$.
 

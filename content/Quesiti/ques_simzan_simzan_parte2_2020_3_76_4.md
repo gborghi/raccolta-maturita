@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 4. Sono date due funzioni; detti $A$ e $B$ i punti comuni ai grafici delle due funzioni, determinare l'area della regione $R$ di piano delimitata dagli archi dei due grafici compresi tra $A$ e $B$. Verificare che i punti $A$ e $B$ appartengono anche al grafico della funzione $h(x)$ assegnata per qualunque $a>0$, quindi determinare il valore di $a>0$ per il quale la regione $R'$ delimitata dagli archi $AB$ dei grafici di $g(x)$ e di $h(x)$ sia equivalente a $R$.
 

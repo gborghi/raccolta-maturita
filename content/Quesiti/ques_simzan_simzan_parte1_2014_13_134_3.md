@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. Un rubinetto versa acqua in un recipiente di capacità 20 litri, inizialmente vuoto, con una portata variabile (misurata in litri/minuto) espressa dalla legge $p(t)=\dfrac{10}{1+t}$. Calcola il tempo, in minuti e secondi, necessario per riempire il recipiente.
 

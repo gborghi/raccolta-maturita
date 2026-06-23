@@ -183,6 +183,15 @@ function transform(content) {
     /\[([^\]]*)\]\(<?\s*[^)\s]*?([^/)\s]+\.pdf)(?:#([^)\s>]+))?\s*>?\)/gi,
     (_m, alias, file, frag) => pdfLink(file, frag, alias),
   )
+  // Quartz's wikilinkRegex forbids '#' in the alias segment ([^\[\]\#]*), so a
+  // wikilink whose display text contains '#' (e.g. the SimZan labels "… parte3 #1")
+  // fails to match and is left as raw "[[…]]" text on the web. Obsidian renders it
+  // fine, so this is a web-only fix: sanitize '#' -> 'n.' INSIDE the alias only
+  // (the target's own '#heading' anchor, before the '|', is left untouched).
+  content = content.replace(
+    /\[\[([^\[\]\n|]+)\|([^\[\]\n]*?)\]\]/g,
+    (_m, target, alias) => `[[${target}|${alias.replace(/#/g, "n.")}]]`,
+  )
   // drop the now-redundant backticked filename in "Fonte: `X.pdf` · p.N"
   content = content.replace(/`[^`]*\.pdf`/gi, "")
   content = content.replace(/Fonte:\s+·\s*/g, "Fonte: ")

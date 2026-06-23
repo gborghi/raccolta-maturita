@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_2|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_2|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 Nel riferimento cartesiano $Oxyz$ e raggio 1, ricava l'equazione del piano $\alpha$ tangente alla superficie sferica di centro $O(0;0;0)$ e raggio 1 nel suo punto $P\!\left(\frac{2}{3}; \frac{6}{7}; \frac{3}{4}\right)$.
 

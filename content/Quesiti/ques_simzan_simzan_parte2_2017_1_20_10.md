@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 10. La regione $R$ in figura è delimitata dall'asse $x$, dalla retta di equazione $x=1$ e da un arco della parabola di equazione $y=kx^2$, dove $k>0$ è un parametro reale. Determina il valore di $k$ in modo tale che il volume del solido ottenuto dalla rotazione completa di $R$ intorno all'asse $x$ sia uguale al volume del solido ottenuto dalla rotazione completa di $R$ intorno all'asse $y$. *(figura nel PDF)*
 

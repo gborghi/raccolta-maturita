@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_1|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_1|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 **Testo.** Determina il valore dei parametri reali $a$ e $b$ in modo che la funzione
 $$f(x) = \frac{1 + a\ln x}{1 - b\ln x}$$

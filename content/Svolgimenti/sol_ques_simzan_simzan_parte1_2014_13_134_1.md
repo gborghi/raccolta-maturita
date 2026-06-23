@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_1|Simulazione Zanichelli 2014 #13 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_1|Simulazione Zanichelli 2014 n.13 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 Consideriamo la curva $\gamma$ di equazione $y = x^2 - 4x$ e il fascio di rette $y = mx$, con $m \in \mathbb{R}$.
 

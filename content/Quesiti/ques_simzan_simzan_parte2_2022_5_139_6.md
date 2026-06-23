@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 6. Considera la funzione $f(x)=3ax-ax^2$, dove $a$ è un parametro reale positivo. Trova per quale valore di $a$ l'area del segmento parabolico determinato dalla parabola e dall'asse delle ascisse è $18$. Per il valore di $a$ trovato, calcola il valor medio della funzione $f(x)$ e le ascisse dei punti $c\in[0;3]$ tali che $\displaystyle\int_0^3 f(x)\,dx=3\cdot f(c)$.
 

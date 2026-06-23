@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_6|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_6|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Una gioielliera realizza una medaglietta d'argento il cui profilo è delimitato dall'arco $ACB$ della circonferenza $x^2+y^2=4$ e dall'arco di parabola $y=a+bx^2$ passante per i punti $A$ e $B$ di ordinata 1. Scrivi le equazioni delle rette tangenti comuni alle due curve nei punti $A$ e $B$. Calcola la massa del medaglione, sapendo che il suo spessore è di 2,0 mm e la densità dell'argento è $\rho_{Ag}=10{,}49$ g/cm³.
 

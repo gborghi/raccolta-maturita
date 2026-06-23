@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_8|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_8|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **Un architetto sta progettando una nuova sala per concerti; la pianta dell'edificio è la regione $R$ del piano cartesiano $Oxy$ compresa tra il grafico della funzione**
 

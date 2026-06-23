@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_5|Simulazione Zanichelli 2014 #13 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_5|Simulazione Zanichelli 2014 n.13 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 Anna e Berto si trovano sulla stessa riva di un fiume, a 50 m di distanza l'una dall'altro. Anna guarda un albero sulla riva opposta ruotando di $45°$ rispetto alla perpendicolare alla riva; Berto ruota di $60°$.
 

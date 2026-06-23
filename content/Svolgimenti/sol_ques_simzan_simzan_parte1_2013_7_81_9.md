@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_9|Simulazione Zanichelli 2013 Sperimentale #7 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_9|Simulazione Zanichelli 2013 Sperimentale n.7 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]]
 
 Scatola con $b$ palline bianche e $n = 100-b$ palline nere. Probabilità di estrarne due dello stesso colore = probabilità di colori diversi.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 9. Data l'iperbole $\gamma$ di equazione $f(x) = \dfrac{1}{x}$ e la retta $s$ di equazione $f(x) = 3x + 2$, determinare nel semipiano $x > 0$, al variare di una generica retta $r$ parallela all'asse $y$, il luogo geometrico $\Gamma$ descritto dai punti medi dei segmenti che hanno per estremi i punti in cui $r$ interseca $\gamma$ e $s$. Determinare, inoltre, l'asintoto obliquo di $\Gamma$.
 

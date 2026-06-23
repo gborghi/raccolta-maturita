@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 6. Data la funzione $f(x)=\displaystyle\int_a^x \frac{e^{-t^2}}{t+3}\,dt$, dimostra che è monotona crescente in tutto il suo dominio. Determina poi, motivando adeguatamente la risposta, quale tra le seguenti rette può essere la tangente al suo grafico nel punto di ascissa $x=a$ e ricava di conseguenza il valore di $a$:
 $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$

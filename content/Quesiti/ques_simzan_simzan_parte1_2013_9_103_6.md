@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 6. Si calcoli per quali valori di $k\in\mathbb{R}$ si ha:
 $$\int_0^k \frac{2}{x^2-1}\,dx<\int_0^1 \frac{1}{x+1}\,dx.$$

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. Considera un quadrato $ABCD$ di lato 1. Sia $P$ un punto del lato $AB$ e sia $Q$ l'intersezione tra il lato $AD$ e la perpendicolare in $P$ al segmento $PC$. Determina $x=\overline{AP}$ in modo che l'area $S$ del triangolo $APQ$ sia massima e ricava $S_{\max}$. Determina $x=\overline{AP}$ in modo che il volume $V$ del cono ottenuto per rotazione del triangolo $APQ$ intorno al cateto $AP$ sia massimo e ricava $V_{\max}$.
 

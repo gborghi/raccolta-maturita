@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2021_4_112_2|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2021_4_112_2|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 Una spira rettangolare con lati $a = 10\;\text{cm}$ e $b = 20\;\text{cm}$ ruota in un campo magnetico uniforme $B = 1{,}0 \times 10^{-2}\;\text{T}$. L'angolo tra la normale alla spira e il campo varia secondo:
 $$\theta(t) = \frac{1}{2}\omega t^2, \quad \omega = 1{,}0 \times 10^2\;\text{rad/s}^2.$$

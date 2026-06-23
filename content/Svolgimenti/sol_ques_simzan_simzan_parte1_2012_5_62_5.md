@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_5|Simulazione Zanichelli 2012 Ordinamento #5 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_5|Simulazione Zanichelli 2012 Ordinamento n.5 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Sia $f(x)$ continua e derivabile con $f'(x) < e^x$ per ogni $x$. Dimostrare che $f(1) - f(0) < e$.
 

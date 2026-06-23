@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_6|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_6|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **Nella sala un professore di matematica interroga da 0 a 3 studenti ogni volta. Per stabilire il numero di studenti interrogati, lancia due dadi regolari a 6 facce e somma i punteggi; chiama poi un numero di studenti uguale alla divisione intera per 3 della somma ottenuta. Calcola la probabilità che vengano interrogati 2 studenti, quindi quanti è il numero medio di studenti interrogati per lezione. Ci sono 28 studenti in classe.**
 

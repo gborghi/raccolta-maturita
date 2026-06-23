@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_9|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_9|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **Determina l'espressione analitica della funzione $f(x)$ sapendo che il suo grafico è tangente alla parabola di quarto grado nell'intervallo $[0,8]$. Dimostra, in generale, che se $f(x)$ è una funzione pari allora $f'(x)$ è dispari, e viceversa.**
 

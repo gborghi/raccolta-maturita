@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2017_1_20_1|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2017_1_20_1|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 **Testo (sintesi).** Il comune ha commissionato il recupero di un capannone modernista. La facciata ha un profilo del tetto descritto da una funzione definita su $[-10;10]$; le dimensioni dell'edificio sono: base 20 m, larghezza 8 m (vedi Figura 2).
 

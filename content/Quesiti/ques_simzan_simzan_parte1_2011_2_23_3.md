@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. Si dimostri che la funzione $f(x) = e^{2x} - 2\cos\dfrac{\pi}{2}x - 3$ è invertibile nell'intervallo $[0;\, +\infty[$. Detta $g(y)$ la funzione inversa di $f(x)$, calcolare $g'(e^6 - 3)$.
 

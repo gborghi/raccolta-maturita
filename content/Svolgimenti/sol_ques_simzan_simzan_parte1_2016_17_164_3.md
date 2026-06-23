@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_3|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_3|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **Sia data la seguente famiglia di funzioni, in cui $a, b, c, d$ sono costanti reali:**
 

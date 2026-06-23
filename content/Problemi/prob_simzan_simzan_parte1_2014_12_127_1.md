@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.127 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_12_127|Simulazione Zanichelli 2014 Problemi Tradizionali #12]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_12_127|Simulazione Zanichelli 2014 Problemi Tradizionali n.12]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 *(Statement non trascrivibile dalle pagine disponibili — vedi PDF.)*
 

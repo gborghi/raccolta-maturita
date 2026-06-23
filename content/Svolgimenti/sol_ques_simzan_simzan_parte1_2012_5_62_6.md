@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_6|Simulazione Zanichelli 2012 Ordinamento #5 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_6|Simulazione Zanichelli 2012 Ordinamento n.5 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Dato il cubo in figura, si determina l'ampiezza del diedro convesso con spigolo $BD'$ e facce i piani $A'D'B$ e $C'D'B$.
 

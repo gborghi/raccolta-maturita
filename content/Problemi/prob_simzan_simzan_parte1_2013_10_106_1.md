@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_10_106|Simulazione Zanichelli 2013 Ordinamento #10]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_10_106|Simulazione Zanichelli 2013 Ordinamento n.10]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 *(Statement non trascrivibile dalle pagine disponibili — vedi PDF.)*
 

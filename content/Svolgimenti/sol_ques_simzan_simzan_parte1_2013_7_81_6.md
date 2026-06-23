@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_6|Simulazione Zanichelli 2013 Sperimentale #7 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_6|Simulazione Zanichelli 2013 Sperimentale n.7 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]]
 
 La figura mostra il grafico di $f$ continua e derivabile due volte in $\mathbb{R}$, con due flessi in $O(0,0)$ e $F(6,-1)$, e tangenti nei punti $O(0,0)$, $M(3,-2)$, $F(6,-1)$.
 

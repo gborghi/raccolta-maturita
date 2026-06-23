@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. Si determinino quali condizioni devono soddisfare i due parametri reali $a$ e $b$, con $a>0$, affinché la seguente funzione verifichi le ipotesi del teorema di Lagrange nell'intervallo $\left[\frac{a}{2};b\right]$, analizzando separatamente i casi $b\le a$ e $b>a$:
 $$f(x)=\begin{cases} \dfrac{x}{x-2a} & \text{se } x\le a\\[2mm] -\dfrac{x}{a} & \text{se } x>a.\end{cases}$$

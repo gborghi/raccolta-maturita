@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_10|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_10|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **La funzione $f(x)$ rappresentata in figura è continua e derivabile; il grafico di $f'(x)$ è un polinomio di quarto grado. Ricava l'espressione analitica di $f'(x)$ e calcola poi:**
 

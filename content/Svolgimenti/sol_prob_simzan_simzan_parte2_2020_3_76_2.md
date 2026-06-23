@@ -16,7 +16,7 @@ tags:
   - anno/2020
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2020_3_76_2|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2020_3_76_2|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica) — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]]
 
 A cura di Gianni Melegari, Steave Selvaduray e Pietro Velonà.
 

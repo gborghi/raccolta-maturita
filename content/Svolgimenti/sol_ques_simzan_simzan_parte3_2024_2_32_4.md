@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_4|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_4|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 Dimostra che il volume massimo di una piramide retta a base quadrata inscritta in una sfera è minore di $\frac{1}{3}$ del volume della sfera.
 

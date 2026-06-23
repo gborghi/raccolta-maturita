@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_2|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_2|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Una vasca cubica di 2 m per lato contiene inizialmente $2\ \text{m}^3$ d'acqua. A un istante $t = 0$ si apre un rubinetto che immette acqua nella vasca al ritmo costante di $10\ \text{m}^3/\text{h}$ e si apre lo scarico. L'acqua defluita dallo scarico dopo $t$ ore è pari a $\left(10t - 10e^{-t} + 10\right)\ \text{m}^3$.
 

@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_10|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_10|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Si lanciano 5 dadi regolari a sei facce. Detto $x$ il numero di dadi che presentano un valore maggiore o uguale a 3 (valori 3, 4, 5, 6), la probabilità di successo per ogni dado è $p = \dfrac{4}{6} = \dfrac{2}{3}$, e quella di insuccesso è $q = \dfrac{1}{3}$.
 

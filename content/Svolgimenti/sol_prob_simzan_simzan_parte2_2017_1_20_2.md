@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2017_1_20_2|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2017_1_20_2|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 Fissato $\lambda\in\mathbb{R}$, la funzione è:
 

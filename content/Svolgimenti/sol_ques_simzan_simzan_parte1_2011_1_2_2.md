@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_2|Simulazione Zanichelli 2011 PNI #1 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_2|Simulazione Zanichelli 2011 PNI n.1 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 **Cilindro equilatero inscritto in un cono equilatero: probabilità che un punto scelto a caso sulle superfici totali dei due solidi cada sulla superficie laterale del cono.**
 

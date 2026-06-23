@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.124 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_11_124|Simulazione Zanichelli 2014 Problemi Tradizionali #11]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_11_124|Simulazione Zanichelli 2014 Problemi Tradizionali n.11]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 <!--fig:start-->
 ![[_attachments/simzan_simzan_parte1_2014_11_124/simzan_simzan_parte1_2014_11_124_fig.svg]]

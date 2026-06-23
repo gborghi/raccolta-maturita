@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_3|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_3|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 Le funzioni sono $f(x) = \frac{ax-1}{3x}$ e $g(x) = \frac{3}{x}$.
 

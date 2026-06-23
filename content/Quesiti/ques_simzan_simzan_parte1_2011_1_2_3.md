@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. È data la funzione definita dall'integrale: $F(x) = \displaystyle\int_{-\frac{\sqrt{2}}{2}}^{x} \frac{t}{\left(\arcsen t^2\right)^2 + 1}\, dt$. Si individui il dominio della funzione integranda e si dimostri che tale funzione è dispari. Si determini inoltre l'equazione della retta tangente al grafico di $F(x)$ nel punto di ascissa $x = \dfrac{\sqrt{2}}{2}$.
 

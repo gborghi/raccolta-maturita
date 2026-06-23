@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2019_2_46_1|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2019_2_46_1|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 Si consideri la funzione reale di variabile reale $i(t)$ così definita:
 

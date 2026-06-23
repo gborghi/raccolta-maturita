@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 6. Nella sua ora di lezione, un professore di matematica interroga da $0$ a $3$ studenti ogni volta. Per stabilire il numero $n$ di interrogati, lancia due dadi regolari a $6$ facce e calcola la somma $S$ dei punteggi ottenuti, quindi determina il resto della divisione fra $S$ e $4$; $n$ è uguale a tale resto. Calcola la probabilità che in una lezione siano interrogati $3$ studenti, quindi calcola il numero medio di ore necessario a interrogare tutti i $28$ studenti della classe.
 

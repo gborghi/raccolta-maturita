@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte3_2025_3_72_2|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte3_2025_3_72_2|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 **Testo.** Il grafico rappresenta $y = f(x)$ con $D = \mathbb{R}$, estremi relativi $M_1$ (minimo, $x < 0$) e $M_2$ (massimo, $x = 3$).
 

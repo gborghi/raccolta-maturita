@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 6. Una gioielliera realizza un medaglione d'argento il cui profilo, rappresentato in figura, è delimitato dall'arco $ACB$ della circonferenza $x^2+y^2=4$ e dall'arco di parabola $AB$. Determina l'equazione della parabola sapendo che è tangente alla circonferenza nei punti $A$ e $B$ di ordinata 1 e scrivi le equazioni delle rette tangenti alle curve nei due punti comuni. Stima la massa del medaglione, sapendo che il suo spessore uniforme è di $2{,}0$ mm e che la densità dell'argento è $\rho_{Ag}=10{,}49$ g/cm³. *(figura nel PDF)*
 

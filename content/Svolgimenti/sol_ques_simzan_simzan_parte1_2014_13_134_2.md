@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_2|Simulazione Zanichelli 2014 #13 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_2|Simulazione Zanichelli 2014 n.13 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 Per decidere la meta del fine settimana, Mario lancia un dado regolare a sei facce:
 - se esce 1 o 3 sceglie la località $A$: $P(A) = \dfrac{2}{6} = \dfrac{1}{3}$;

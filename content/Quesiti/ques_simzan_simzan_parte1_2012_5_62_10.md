@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 10. Il signor Pierluigi, appassionato di disegno tecnico, prendendo spunto dall'Uomo vitruviano di Leonardo rappresentato nella moneta da 1 euro, con qualche leggera modifica ottiene il disegno della figura, dove scopre che il rapporto tra il raggio del cerchio e il lato del quadrato è $\dfrac{5}{8}$. Mediante le relazioni della trigonometria, si dimostri che ha ragione. *(figura nel PDF)*
 

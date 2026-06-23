@@ -16,7 +16,7 @@ tags:
   - anno/2020
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_7|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_7|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica) — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]]
 
 Un campo elettrico $\vec{E}$, uniforme e variabile nel tempo, genera un campo magnetico $\vec{B}$. Si considera una circonferenza di raggio $r$ con centro $O$ perpendicolare al piano contenente il campo $\vec{E}$; il modulo del campo magnetico è dato da:
 

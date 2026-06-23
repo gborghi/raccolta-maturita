@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_8_84_1|Simulazione Zanichelli 2013 Sperimentale #8 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_8_84|Simulazione Zanichelli 2013 Sperimentale #8]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_8_84_1|Simulazione Zanichelli 2013 Sperimentale n.8 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_8_84|Simulazione Zanichelli 2013 Sperimentale n.8]]
 
 **a)** Disegniamo la circonferenza mettendo in evidenza gli elementi indicati dal problema: il diametro $AC$, di lunghezza variabile, la corda $AB$ (con $AB = 1$) e la corda $BC$ (con $BC = x$, $x > 0$, $x < AC$).
 

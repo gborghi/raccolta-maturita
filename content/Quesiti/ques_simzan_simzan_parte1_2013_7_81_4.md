@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 4. Si determini un'approssimazione di $\ln 2$ con tre cifre decimali e un errore inferiore al centesimo, utilizzando un metodo di integrazione numerica a scelta applicato a un opportuno integrale definito.
 

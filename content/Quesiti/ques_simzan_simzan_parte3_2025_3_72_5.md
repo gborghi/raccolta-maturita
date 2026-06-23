@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 5. Verifica che la funzione $F(x)=\displaystyle\int_x^{-1}\left(\frac{3}{2}t^2+t-2\right)dt$ soddisfa le ipotesi del teorema di Rolle nell'intervallo $[-1;2]$, poi trova il punto (o i punti) in cui si verifica la tesi del teorema.
 

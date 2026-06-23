@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. Una sfera di raggio 1 è secata da due piani paralleli tra di loro e distanti 1. Si individui la posizione reciproca dei due piani affinché la somma delle aree delle sezioni così individuate sia massima.
 

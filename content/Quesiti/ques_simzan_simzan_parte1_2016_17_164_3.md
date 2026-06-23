@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 3. Data nel riferimento $Oxyz$ la sfera di raggio unitario tangente nell'origine $O$ al piano $y=0$ e appartenente al semispazio $y\ge 0$, sia $P$ il punto distinto da $O$ in cui la retta $r$ passante per $O$ e per $A(2;1;0)$ incontra la superficie della sfera. Ricava l'equazione del piano tangente alla sfera nel punto $P$.
 

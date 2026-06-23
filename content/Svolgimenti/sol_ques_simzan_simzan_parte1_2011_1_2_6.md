@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_6|Simulazione Zanichelli 2011 PNI #1 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_6|Simulazione Zanichelli 2011 PNI n.1 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 **Dominio e rappresentazione grafica di $\sqrt{e^{x^2}-y^2}$.**
 

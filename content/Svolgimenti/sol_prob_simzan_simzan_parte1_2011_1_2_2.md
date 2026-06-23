@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_1_2_2|Simulazione Zanichelli 2011 PNI #1 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_1_2_2|Simulazione Zanichelli 2011 PNI n.1 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 È data la funzione:
 

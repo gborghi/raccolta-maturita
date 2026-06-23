@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_9|Simulazione Zanichelli 2014 #13 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_9|Simulazione Zanichelli 2014 n.13 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 Una pallina lasciata cadere da un'altezza di 1 m rimbalza verticalmente. Nell'urto (anelastico) la pallina risale fino a $\dfrac{9}{10}$ dell'altezza da cui era caduta.
 

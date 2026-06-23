@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 7. Si determinino i coefficienti reali $a$, $b$, $c$ in modo che la funzione
 $$f(x)=\begin{cases} ax^2+bx+c & \text{se } x\le -1\\ \cos\pi x & \text{se } -1<x<\dfrac{1}{2}\\ a\ln\left(x+\dfrac{1}{2}\right) & \text{se } x\ge\dfrac{1}{2}\end{cases}$$

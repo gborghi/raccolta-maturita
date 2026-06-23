@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte2_2021_4_112_1|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte2_2021_4_112_1|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 La famiglia di funzioni è $f_k(x) = \dfrac{4x}{k + x^2}$, con $k > 0$ parametro reale positivo.
 

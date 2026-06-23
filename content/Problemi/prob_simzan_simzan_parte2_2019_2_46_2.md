@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Si consideri un filo rettilineo infinito $t$, posto nel vuoto, che presenta una carica positiva distribuita in modo uniforme con densità lineare di carica $\lambda$. Al di fuori del filo, in un generico punto $P$ dello spazio, si osserva che il campo elettrico $\vec{E}$ generato dalla distribuzione lineare ha direzione radiale rispetto a $t$ ed è uscente da essa. Inoltre, il modulo del campo elettrico è costante nei punti posti alla stessa distanza dal filo.
 

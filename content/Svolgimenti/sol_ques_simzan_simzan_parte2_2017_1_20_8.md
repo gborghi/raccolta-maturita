@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_8|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_8|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 Vengono lanciati contemporaneamente una moneta e un dado a sei facce (entrambi non truccati), 5 volte. Il valore di ogni lancio è: l'esito del dado se esce testa, il doppio dell'esito se esce croce.
 

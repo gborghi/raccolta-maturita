@@ -14,7 +14,7 @@ tags:
   - anno/2022
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_7|Simulazione Zanichelli 2022 — SimZan parte2 #5 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_7|Simulazione Zanichelli 2022 — SimZan parte2 n.5 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]]
 
 Un'urna contiene 12 palline bianche e 8 nere (totale 20). Si estraggono due palline in successione: se la prima è bianca viene rimessa nell'urna; se è nera viene tolta.
 

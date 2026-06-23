@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_6|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_6|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Data la funzione $f(x) = \sqrt{a^2x^2 + 9}$, determina per quale valore della costante reale positiva $a$ i solidi ottenuti ruotando di 360° il sottografico di $f(x)$ compreso tra $x = 0$ e $x = 4$ prima intorno all'asse $x$ poi intorno all'asse $y$ risultano equivalenti.
 

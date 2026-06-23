@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 2. Per decidere la meta del fine settimana, Mario lancia un dado regolare a sei facce: se esce 1 o 3, sceglierà la località A, altrimenti la località B. Le previsioni meteo per il fine settimana indicano cielo nuvoloso con probabilità $30\%$ nella località A e $40\%$ nella località B. Al suo ritorno, Mario incontra Lucia e le dice di aver trascorso un bel weekend di sole. Qual è la probabilità che Mario abbia trascorso il fine settimana nella località A?
 

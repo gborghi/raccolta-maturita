@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_1|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_1|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **Sia la funzione reale $f(x)$, definita nell'intervallo $[0,6]$, tale che $f(0) = f(6) = 0$. Come conseguenza del teorema di Lagrange sull'intervallo $[0,6]$, deve esistere almeno un punto $\bar{x} \in (0,6)$ tale che $f'(\bar{x}) = \frac{f(6)-f(0)}{6-0}$?**
 

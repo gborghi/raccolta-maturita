@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 4. Data la superficie sferica $\Gamma$ di equazione $x^2+y^2+z^2-2x+4y-4=0$ e le rette $r_1$ e $r_2$ di equazioni:
 $$r_1:\begin{cases} x=3t \\ y=0 \\ z=-3t+2 \end{cases}\ (t\in\mathbb{R}),\qquad r_2:\begin{cases} x=3s+2 \\ y=-4 \\ z=-3s-2 \end{cases}\ (s\in\mathbb{R}),$$

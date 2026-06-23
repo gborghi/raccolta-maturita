@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Nell'ambito di uno studio epidemiologico riguardante la diffusione di una patologia influenzale in presenza di determinate strategie di prevenzione e cura, alcuni ricercatori hanno elaborato un semplice modello matematico per esprimere l'andamento temporale del numero di persone infette in un dato campione.
 

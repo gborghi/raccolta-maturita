@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.124 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_11_124|Simulazione Zanichelli 2014 Problemi Tradizionali #11]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_11_124|Simulazione Zanichelli 2014 Problemi Tradizionali n.11]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 Si vuole sperimentare una nuova turbina, con una pala che ha la forma schematizzata in figura. Una qualunque sezione con un piano perpendicolare all'asse di rotazione $z$ può essere rappresentata con la funzione $f(x)$, definita e continua nell'intervallo $[-4;6]$, di cui è assegnato il grafico in figura e di cui si sa che:
 - i tratti $AB$, $CD$ ed $EF$ sono segmenti di retta;

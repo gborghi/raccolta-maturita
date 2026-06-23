@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_10|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_10|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 La regione $R$ è delimitata dall'asse $x$, dalla retta $x=1$ e dalla parabola $y=kx^2$ (con $k>0$).
 

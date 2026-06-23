@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 6. In un laboratorio posto sulla Terra, sotto una campana a vuoto uno ione Ag⁺ (carica pari a $+e$, massa $m=1{,}79\cdot10^{-25}$ kg) è lanciato obliquamente verso l'alto con una velocità iniziale di 1,53 m/s inclinata di 45° rispetto all'orizzontale e da un'altezza di 3,20 cm rispetto alla base della campana. La base stessa è elettrizzata con una carica negativa che genera un campo elettrico corrispondente a quello di una distribuzione piana e infinita di carica con densità superficiale di carica $\sigma=-7{,}92\cdot10^{-17}$ C/m². Determinare qual è la velocità con cui lo ione Ag⁺ colpisce la base della campana a vuoto e la durata del suo volo.
 

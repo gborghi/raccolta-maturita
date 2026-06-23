@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_2|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_2|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 $$
 r: \begin{cases} x = 2t \\ y = 2 + t \\ z = 1 - t \end{cases}, \; t \in \mathbb{R}; \qquad s: \begin{cases} x + 2y = 0 \\ x + 2y - z = 3 \end{cases}.

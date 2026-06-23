@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale #7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_7_81|Simulazione Zanichelli 2013 Sperimentale n.7]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 9. Una scatola contiene palline bianche e palline nere per un totale di 100 palline. Sapendo che estraendone due la probabilità che siano dello stesso colore è uguale alla probabilità che siano di colore diverso, si determini il numero di palline di ciascun colore.
 

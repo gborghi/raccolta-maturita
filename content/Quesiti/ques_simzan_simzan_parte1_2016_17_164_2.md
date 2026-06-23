@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 2. In figura è rappresentato un piccolo taccuino aperto e rovesciato, con i bordi della copertina a contatto con il tavolo, che poggia su un fermacarte a forma di semisfera. Determina la misura in gradi e minuti dell'angolo $\alpha$ di apertura del taccuino, sapendo che il fermacarte ha il massimo raggio possibile. *(figura nel PDF)*
 

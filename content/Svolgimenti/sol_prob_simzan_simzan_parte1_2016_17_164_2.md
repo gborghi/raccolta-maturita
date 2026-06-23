@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2016_17_164_2|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2016_17_164_2|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 Nella figura sottostante è riportato il grafico della funzione $f'(x)$, derivata prima della funzione reale $f(x)$ definita e continua nell'intervallo $[0, 8]$.
 

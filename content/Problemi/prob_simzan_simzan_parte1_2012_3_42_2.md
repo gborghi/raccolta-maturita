@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Una funzione $f(x)$ definita in $]1;\, +\infty[$ ha il grafico che interseca l'asse delle ascisse in $P(2;\, 0)$ ed è tale che la derivata prima $f'(x)$ è la funzione omografica $y = \dfrac{ax + b}{cx + d}$ di centro $(1;\, 1)$ e passante per $P$.
 

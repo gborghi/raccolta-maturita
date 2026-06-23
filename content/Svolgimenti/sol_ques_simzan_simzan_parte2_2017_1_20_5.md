@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_5|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_5|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 La funzione polinomiale $p(x)$ di grado minimo ha:
 - minimo relativo in $A(0;1)$,

@@ -14,7 +14,7 @@ tags:
   - anno/2022
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_2|Simulazione Zanichelli 2022 — SimZan parte2 #5 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_2|Simulazione Zanichelli 2022 — SimZan parte2 n.5 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]]
 
 La funzione è:
 

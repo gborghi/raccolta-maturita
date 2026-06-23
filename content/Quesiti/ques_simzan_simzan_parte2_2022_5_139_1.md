@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 1. Nella figura è rappresentato il grafico della funzione $f'(x)$, derivata prima della funzione $f(x)$ definita nell'intervallo $[0;6]$. Ricava l'espressione di $f(x)$ sapendo che $f(0)=0$ e rappresentala graficamente. Stabilisci se la funzione $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervallo $[0;6]$ e determina gli eventuali punti che soddisfano il teorema. *(figura nel PDF)*
 

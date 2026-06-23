@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 9. È data la funzione: $f(x) = \begin{cases} x^3 - 2x & \text{se } x < 1 \\ \ln x & \text{se } x \ge 1 \end{cases}$. Si stabilisca, dando adeguata motivazione, il valore di verità della seguente proposizione: "Poiché $\displaystyle\lim_{x \to 1^-} f'(x) = \lim_{x \to 1^+} f'(x) = 1$, la funzione è derivabile in $x = 1$ con derivata uguale a 1".
 

@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_1|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_1|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 **a.** I triangoli rettangoli $ABM$ e $BCN$ sono congruenti per il primo criterio di congruenza (tre lati uguali). Risultano allora congruenti gli angoli corrispondenti: $M\hat{A}B \cong N\hat{B}C$. Consideriamo i triangoli $AMB$ e $HMB$: hanno in comune l'angolo in $M$ e i segmenti $AM$ e $HB$ sono uguali per costruzione. Quindi $AM \cong HM$; poiché angolo $\hat{M}$ in comune, segue che $AM \perp BM$.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 2. Nel riferimento cartesiano $Oxyz$ è data la superficie sferica di centro $O(0;0;0)$ e raggio 1. Ricava l'equazione del piano $\alpha$ tangente alla superficie sferica nel suo punto $B\left(\dfrac{2}{7};\dfrac{6}{7};\dfrac{3}{7}\right)$. Detti $P$, $Q$ e $R$ i punti in cui $\alpha$ interseca rispettivamente gli assi $x$, $y$ e $z$, determina l'area del triangolo $PQR$.
 

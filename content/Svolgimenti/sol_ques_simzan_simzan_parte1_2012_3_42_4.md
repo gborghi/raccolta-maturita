@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_4|Simulazione Zanichelli 2012 Sperimentale #3 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_4|Simulazione Zanichelli 2012 Sperimentale n.3 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 Dati $|A| = 6$ e $|B| = 5$, si determina il numero di funzioni suriettive da $A$ a $B$.
 

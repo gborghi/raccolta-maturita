@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 8. Un architetto sta progettando una nuova concert hall; la pianta dell'edificio è la regione $R$ del piano cartesiano $Oxy$ compresa tra il grafico della funzione $f(x)=40-\dfrac{3}{40}x^2$, l'asse $x$ e le rette di equazione $x=-20$ e $x=20$; le sue sezioni con piani ortogonali all'asse $x$ sono rettangoli di altezza $h(x)=\dfrac{1}{2}f(x)$. Rappresenta la regione $R$ e calcola la sua area. Calcola poi il volume complessivo dello stabile.
 

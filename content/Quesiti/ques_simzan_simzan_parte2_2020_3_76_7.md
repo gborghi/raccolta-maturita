@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 7. Un campo elettrico $\vec{E}$, uniforme e variabile nel tempo, genera un campo magnetico indotto $\vec{B}$. Si consideri una circonferenza $\gamma$ di raggio $r$ e di centro $O$ perpendicolare al campo $\vec{E}$; si sa che il campo $\vec{B}$ è tangente a $\gamma$, nel piano che la contiene; inoltre, in tutti i punti di $\gamma$ il suo modulo è dato dalla relazione $B(t)=a\cos(bt)\cdot r$, con $a=5\cdot10^5\ \frac{\text{T}}{\text{m}\cdot\text{s}}$ e $b=2$ s⁻¹.
    - Determinare il modulo del campo elettrico $\vec{E}$, supponendo che all'istante $t=0$ s sia nullo.

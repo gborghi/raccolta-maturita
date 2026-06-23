@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_1|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_1|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 Dati il piano $\alpha: x-2y+z-1=0$ e i punti $A(5;1;-2)$, $B(1;1;2)$.
 

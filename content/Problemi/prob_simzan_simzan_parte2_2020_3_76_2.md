@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 In un piano orizzontale $OXY$ è definito, sulla striscia $0\le X\le d$ (con $d=3{,}000\cdot10^{-1}$ m), il campo elettrostatico costante $\vec{E}$ orientato in senso opposto all'asse $OX$. È presente inoltre un solenoide disposto perpendicolarmente a tale piano, la cui sezione su $OXY$ è la circonferenza $\Gamma$. Il solenoide ha raggio $r=4{,}000$ cm ed è costituito da $N=100$ spire contigue di rame di resistività $\rho=1{,}680\cdot10^{-8}\ \Omega\cdot$m.
 

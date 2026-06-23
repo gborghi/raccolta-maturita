@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 6. La cometa di Halley orbita intorno al Sole con un periodo di circa 76,0 anni, descrivendo un'orbita ellittica molto eccentrica ($e=0{,}967$); per questo motivo l'afelio (punto più lontano dal Sole) differisce molto dal perielio (punto più vicino al Sole). *(figura nel PDF)* I valori orbitali della cometa all'afelio sono $v_{af}=914$ m/s e $r_{af}=35{,}1$ UA. Tenendo conto del principio di conservazione del momento angolare $\vec{L}$, il cui modulo è definito dalla relazione $L=mvr$ nei punti considerati:
    - verificare che le relazioni che indicano $v_{pe}$ e $r_{pe}$ (grandezze orbitali della cometa al perielio) sono date dalle espressioni assegnate, dove $E_s$ e $L_s$ sono, rispettivamente, l'energia e il modulo del momento angolare per unità di massa, $G$ è la costante di gravitazione universale e $M_s$ è la massa del Sole;

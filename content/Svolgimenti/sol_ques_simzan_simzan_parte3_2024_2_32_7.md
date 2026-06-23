@@ -14,7 +14,7 @@ tags:
   - anno/2024
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_7|Simulazione Zanichelli 2024 — SimZan parte3 #2 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_7|Simulazione Zanichelli 2024 — SimZan parte3 n.2 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]]
 
 Data una generica funzione polinomiale di terzo grado $f(x) = ax^3 + bx^2 + cx + d$, dimostra che le rette tangenti al grafico in punti con ascissa simmetrica rispetto al punto di flesso $x_F$ sono parallele tra loro.
 

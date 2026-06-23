@@ -14,7 +14,7 @@ tags:
   - anno/2016
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_4|Simulazione Zanichelli 2016 — SimZan parte1 #17 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_4|Simulazione Zanichelli 2016 — SimZan parte1 n.17 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]]
 
 **Sia $OAB$ la regione del primo quadrante delimitata dall'arco $AB$ della parabola di equazione $y = 4x^2$, con $A \in \mathbb{R}$, e dalla retta tangente alla parabola nel punto $P \in (AB)$. Determina il punto $P$ tale che l'area del triangolo $OPB$ sia massima, e verifica che il prodotto delle aree dei triangoli $OPA$ e $OPB$ è costante.**
 

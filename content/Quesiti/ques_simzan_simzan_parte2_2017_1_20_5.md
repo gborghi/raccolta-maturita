@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 5. Assegnati nel piano cartesiano i punti $A(0;1)$, $B(2;2)$ e $C(3;k)$, ricava la funzione polinomiale di grado minimo il cui grafico ammetta un minimo relativo in $A$ e in $C$ e un massimo relativo in $B$, quindi ricava il valore di $k$ e stabilisci quale sia il punto di minimo assoluto della funzione trovata.
 

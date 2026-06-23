@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_5|Simulazione Zanichelli 2013 Ordinamento #9 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_5|Simulazione Zanichelli 2013 Ordinamento n.9 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]]
 
 Dato un cubo di spigolo $l$, si cerca il percorso di minima lunghezza sulla superficie del cubo che congiunge i due estremi di una diagonale spaziale.
 

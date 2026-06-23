@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_5_62_2|Simulazione Zanichelli 2012 Ordinamento #5 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2012_5_62_2|Simulazione Zanichelli 2012 Ordinamento n.5 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Nel riferimento cartesiano $xOy$ si consideri la funzione $f(x)$ definita e continua in $]-4; +\infty[$, con la derivata seconda $f''(x)$ avente il grafico riportato nella figura. È noto che $x = -4$ è un asintoto verticale per $f(x)$; la tangente al grafico di $f(x)$ in $x = 0$ è parallela alla bisettrice del I e III quadrante (quindi $f'(0) = 1$); la tangente in $x = -3$ ha equazione $4x - y + 14 = 0$ (pendenza $4$, quindi $f'(-3) = 4$, e $f(-3) = 4(-3) + 14 = 2$).
 

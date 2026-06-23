@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_3|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_3|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Considera un quadrato $ABCD$ di lato 1. Sia $P$ un punto sul lato $AB$ e sia $e$ la perpendicolare dal punto $P$ al segmento $PC$. Determina $x=\overline{AP}$ in modo che l'area $S$ del triangolo $APQ$ sia massima e ricava $S_{\max}$. Determina $x=\overline{AP}$ in modo che il volume $V$ del cono ottenuto per rotazione del triangolo $APQ$ intorno al cateto $AP$ sia massimo e ricava $V_{\max}$.
 

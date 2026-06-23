@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 6. Nella figura sono rappresentati un arco della parabola di vertice $A(2;0)$ che passa per il punto $C(0;2)$ e il quadrato $OABC$. *(figura nel PDF)* Considera la retta di equazione $x=k$ che interseca il quadrato $OABC$ individuando le due regioni di piano $\mathcal{A}_1$ e $\mathcal{A}_2$ colorate in figura. Determina il valore del parametro $k$ che minimizza la somma delle aree di $\mathcal{A}_1$ e $\mathcal{A}_2$.
 

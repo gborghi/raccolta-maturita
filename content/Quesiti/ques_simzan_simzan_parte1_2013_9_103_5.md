@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 5. Dato un cubo di spigolo noto $l$ si determini qual è, muovendosi sulla superficie del cubo, il percorso di minima lunghezza che congiunge gli estremi di una delle sue diagonali. Si calcoli poi la misura della sua lunghezza in funzione di $l$.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 7. In una regione di spazio è presente un campo magnetico uniforme la cui intensità varia nel tempo secondo la legge $B(t)=B_0\cdot\sin(\omega t)$, con $B_0=4{,}0\cdot10^{-2}$ T, $\omega=2{,}5\cdot10^{2}$ rad·s⁻¹ e $t>0$. All'interno del campo magnetico è posto un solenoide cilindrico di rame di resistenza $R=1{,}3\cdot10^{1}\ \Omega$, il cui asse è parallelo a $\vec{B}$ e costituito da 4000 spire di diametro $d=5{,}0$ cm. Scrivi l'espressione dell'intensità della corrente indotta nel solenoide e determina l'intensità della corrente indotta nel primo istante in cui si annulla il campo magnetico.
 

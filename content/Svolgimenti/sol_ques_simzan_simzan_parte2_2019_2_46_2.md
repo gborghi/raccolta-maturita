@@ -16,7 +16,7 @@ tags:
   - anno/2019
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_2|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica) — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 #2 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_2|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica) — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2019_2_46|Simulazione Zanichelli 2019 — SimZan parte2 n.2 (Mat+Fisica)]]
 
 Una scatola contiene 30 palline, numerate da 1 a 30. Le palline sono di due colori: quelle il cui numero è multiplo di 3 sono nere (10 palline), le rimanenti sono bianche (20 palline). Si estraggono 3 palline simultaneamente. Determinare la probabilità degli eventi:
 - $A$: «le palline sono tutte di uno stesso colore»

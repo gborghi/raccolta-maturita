@@ -16,7 +16,7 @@ tags:
   - anno/2020
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_2|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_2|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica) — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]]
 
 Si consideri la funzione $f(x) = \dfrac{2}{x^2-2x+2}$.
 

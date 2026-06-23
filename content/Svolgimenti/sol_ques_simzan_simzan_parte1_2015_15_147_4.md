@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_4|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_4|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Sia $f(x)$ una funzione definita e continua in $\mathbb{R}$ tale che:
 

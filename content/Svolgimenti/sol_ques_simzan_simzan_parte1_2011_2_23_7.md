@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_7|Simulazione Zanichelli 2011 Ordinamento #2 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_7|Simulazione Zanichelli 2011 Ordinamento n.2 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 **Testo:** Calcolare il volume del solido generato dalla rotazione di $180°$, rispetto alla retta $y$ di equazione $y = \dfrac{x}{2}$, dell'arco di parabola $y^2 - 4y + 3 = 0$ avente per estremi i punti che ha in comune con la retta $y = x$.
 

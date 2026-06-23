@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. Si determini il valore di $a \in \left[-\dfrac{\pi}{2};\, \dfrac{3}{2}\pi\right]$ per il quale la funzione
 $$f(x) = \begin{cases} -\dfrac{4}{\pi}\operatorname{sen}(x - a) & \text{se } x \le a \\[6pt] \dfrac{4x^2}{\pi^2} - \dfrac{8x}{\pi} + 3 & \text{se } x > a \end{cases}$$

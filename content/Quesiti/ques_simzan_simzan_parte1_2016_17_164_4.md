@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 4. Sia $OAB$ la regione $R$ del primo quadrante del riferimento $Oxy$ delimitata dall'arco $AB$ della parabola $\gamma$ di equazione $y=1-x^2$, con $A$ e $B$ intersezioni di $\gamma$ con gli assi $x$ e $y$ rispettivamente. Detto $P$ il punto di intersezione tra l'arco di parabola $AB$ e la retta di equazione $5x-y-6=0$, ricava il rapporto tra i volumi $V_1$ e $V_2$ dei solidi ottenuti per rotazione di 360° dei triangoli mistilinei $OPB$ e $OPA$ in cui $R$ risulta divisa dal segmento $OP$, rispettivamente intorno all'asse $y$ e intorno all'asse $x$.
 

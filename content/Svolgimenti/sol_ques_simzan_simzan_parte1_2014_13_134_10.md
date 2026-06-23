@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_10|Simulazione Zanichelli 2014 #13 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_10|Simulazione Zanichelli 2014 n.13 — Quesito 10]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 La funzione $f(x) = 3x - 4\ln x$ è definita in $]0;\,+\infty[$ ed è continua. Calcoliamo i limiti agli estremi del dominio:
 

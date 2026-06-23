@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_10_106_1|Simulazione Zanichelli 2013 Ordinamento #10 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_10_106|Simulazione Zanichelli 2013 Ordinamento #10]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2013_10_106_1|Simulazione Zanichelli 2013 Ordinamento n.10 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_10_106|Simulazione Zanichelli 2013 Ordinamento n.10]]
 
 ### Punto a)
 

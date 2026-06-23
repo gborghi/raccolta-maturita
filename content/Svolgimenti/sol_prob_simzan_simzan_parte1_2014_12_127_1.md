@@ -16,7 +16,7 @@ tags:
   - anno/2014
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2014_12_127_1|Simulazione Zanichelli 2014 Problemi Tradizionali #12 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_12_127|Simulazione Zanichelli 2014 Problemi Tradizionali #12]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2014_12_127_1|Simulazione Zanichelli 2014 Problemi Tradizionali n.12 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_12_127|Simulazione Zanichelli 2014 Problemi Tradizionali n.12]]
 
 Si considera la famiglia di funzioni
 

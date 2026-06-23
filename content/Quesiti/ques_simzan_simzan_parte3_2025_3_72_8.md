@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 8. Determina il valore del parametro reale positivo $a$ in modo che una delle tangenti inflessionali della funzione $f(x)=x^4-2ax^2$ abbia equazione $2x+y-1=0$. Verifica che, per quel valore di $a$, il grafico della parabola di equazione $y=-x^2$ è tangente a quello della funzione $f(x)$ nei suoi punti di flesso.
 

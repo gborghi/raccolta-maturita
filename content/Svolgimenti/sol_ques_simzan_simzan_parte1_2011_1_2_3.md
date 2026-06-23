@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_3|Simulazione Zanichelli 2011 PNI #1 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_3|Simulazione Zanichelli 2011 PNI n.1 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 **Funzione definita dall'integrale $F(x) = \displaystyle\int_{-2}^{x}\frac{t\,\arcsin(t^2)}{t^2+1}\,dt$.**
 

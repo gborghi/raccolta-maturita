@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_9|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_9|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 Data $f(x) = ae^{bx}$, con $f'(0) = 8$ e $f^{(4)}(0) = 64$.
 

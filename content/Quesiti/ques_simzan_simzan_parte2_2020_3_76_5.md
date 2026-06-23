@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 5. Si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita a tratti. Determinare il valore dei parametri reali $a$ e $b$ tali che la funzione risulti derivabile in $\mathbb{R}$. Tracciare il grafico della funzione deducendolo da quello di funzioni elementari. Verificare che $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervallo $[-1;6]$, determinando l'ascissa del punto che ne soddisfa la tesi.
 

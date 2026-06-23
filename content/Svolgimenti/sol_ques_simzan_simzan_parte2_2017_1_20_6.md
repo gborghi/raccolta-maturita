@@ -14,7 +14,7 @@ tags:
   - anno/2017
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_6|Simulazione Zanichelli 2017 — SimZan parte2 #1 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_6|Simulazione Zanichelli 2017 — SimZan parte2 n.1 — Quesito 6]] · **Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]]
 
 La funzione $f(x) = \int_{\sqrt{x^2+3}}^{x}\frac{e^{at}}{t^2+3}\,dt$ è continua su $\mathbb{R}$, derivabile.
 

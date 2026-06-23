@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_9|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_9|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 In un quiz televisivo un concorrente deve rispondere a 10 domande, ciascuna delle quali ha 4 risposte possibili fra cui una sola è corretta. Rispondendo a caso, la probabilità di risposta corretta a ogni domanda è $p = \dfrac{1}{4}$.
 

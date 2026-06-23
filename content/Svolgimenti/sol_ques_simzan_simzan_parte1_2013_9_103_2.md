@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_2|Simulazione Zanichelli 2013 Ordinamento #9 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_2|Simulazione Zanichelli 2013 Ordinamento n.9 — Quesito 2]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]]
 
 Il numero di perle totali è $n = 6 + 10 + 8 = 24$, con fermaglio (quindi la collana è una sequenza con un punto di riferimento fisso — il fermaglio).
 

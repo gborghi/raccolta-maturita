@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. Sia data la funzione: $g(x) = \displaystyle\int_x^{2x} f(t)\, dt$, con $f(t)$ continua su $\mathbb{R}$. Sapendo che $f(0) = -\dfrac{1}{2}$, $f\left(\dfrac{1}{2}\right) = \dfrac{1}{4}$ e $f(1) = 1$, si calcolino $g(0)$, $g'(0)$ e $g'\left(\dfrac{1}{2}\right)$.
 

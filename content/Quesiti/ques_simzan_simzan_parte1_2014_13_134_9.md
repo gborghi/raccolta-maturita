@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 9. Una pallina, lasciata cadere da un'altezza di 1 m, rimbalza verticalmente sul pavimento. Nell'urto (anelastico) si perde parte dell'energia cinetica, pertanto la pallina risale fino a un'altezza pari ai $\dfrac{9}{10}$ di quella da cui era caduta, e così via per ogni rimbalzo. Ipotizzando infiniti rimbalzi, stabilisci se la distanza (complessivamente) percorsa dalla pallina nei suoi rimbalzi è infinita o finita e in tal caso a quanto ammonta tale distanza. Motiva la risposta con un opportuno modello matematico.
 

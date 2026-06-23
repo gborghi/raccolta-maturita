@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_3|Simulazione Zanichelli 2012 Sperimentale #3 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_3|Simulazione Zanichelli 2012 Sperimentale n.3 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 Si determina il valore di $a \in \left[-\frac{\pi}{2}; \frac{3\pi}{2}\right]$ per cui
 

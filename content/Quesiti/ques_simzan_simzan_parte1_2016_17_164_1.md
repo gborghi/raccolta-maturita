@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 #17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Prova:** [[Prove/simzan_simzan_parte1_2016_17_164|Simulazione Zanichelli 2016 — SimZan parte1 n.17]] · **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 1. Data la funzione reale $f(x)$, definita e continua in $[1;+\infty)$, sia $F(x)=\displaystyle\int_1^{x^2} f(t)\,dt$. Sapendo che $y=8x+1$ è la retta tangente al grafico di $F(x)$ nel suo punto di ascissa $x=2$, ricava $f(4)$ e il valor medio integrale di $f(x)$ nell'intervallo $[1;4]$.
 

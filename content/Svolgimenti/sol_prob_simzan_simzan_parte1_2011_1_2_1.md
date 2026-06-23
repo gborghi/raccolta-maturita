@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_1_2_1|Simulazione Zanichelli 2011 PNI #1 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI #1]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte1_2011_1_2_1|Simulazione Zanichelli 2011 PNI n.1 — Problema 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_1_2|Simulazione Zanichelli 2011 PNI n.1]]
 
 Sia $ABC$ un triangolo con il lato $BC$ di lunghezza unitaria e l'angolo $\widehat{ABC}$ di ampiezza $60°$. Posto $AB = x$.
 

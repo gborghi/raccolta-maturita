@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_4|Simulazione Zanichelli 2012 Ordinamento #5 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_4|Simulazione Zanichelli 2012 Ordinamento n.5 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_5_62|Simulazione Zanichelli 2012 Ordinamento n.5]]
 
 Sia $\gamma: y = kx^2$ con $k>0$. Preso $P = (a, ka^2)$ con $a>0$ su $\gamma$:
 

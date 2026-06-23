@@ -14,7 +14,7 @@ tags:
   - anno/2015
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_3|Simulazione Zanichelli 2015 — SimZan parte1 #15 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_3|Simulazione Zanichelli 2015 — SimZan parte1 n.15 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]]
 
 Dato nel riferimento $Oxyz$ il piano $\alpha$ di equazione $2\sqrt{2}\,x + 3\sqrt{2}\,y + 2\sqrt{2}\,z - 4 = 0$, e dette $A$, $B$, $C$ le sue intersezioni con gli assi $x$, $y$ e $z$.
 

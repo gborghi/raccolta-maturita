@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Problema:** [[Problemi/prob_simzan_simzan_parte3_2023_1_2_2|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Problema:** [[Problemi/prob_simzan_simzan_parte3_2023_1_2_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Problema 2]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 La cinciallegra è un piccolo uccello dalla caratteristica colorazione giallo-verde. L'andamento della popolazione di uno stormo isolato è descritto dal modello malthusiano continuo:
 

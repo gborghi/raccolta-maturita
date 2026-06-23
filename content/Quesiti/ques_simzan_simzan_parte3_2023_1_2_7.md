@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 7. Il grafico della funzione $y=\cos\frac{\pi x}{2}$ divide il quadrato $Q$ di vertici $(0;0)$, $(1;0)$, $(1;1)$ e $(0;1)$ in due regioni $R_1$ e $R_2$, con $\text{Area}(R_1)>\text{Area}(R_2)$. Scelti a caso, uno dopo l'altro, tre punti interni al quadrato $Q$ calcola la probabilità che solo l'ultimo punto appartenga alla regione $R_1$.
 

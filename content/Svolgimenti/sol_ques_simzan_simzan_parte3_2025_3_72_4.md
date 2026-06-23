@@ -14,7 +14,7 @@ tags:
   - anno/2025
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_4|Simulazione Zanichelli 2025 — SimZan parte3 #3 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_4|Simulazione Zanichelli 2025 — SimZan parte3 n.3 — Quesito 4]] · **Prova:** [[Prove/simzan_simzan_parte3_2025_3_72|Simulazione Zanichelli 2025 — SimZan parte3 n.3]]
 
 $\gamma: y = -x^2+6x-5$; $\alpha_k: y = kx^2-(7k+1)x+10k+5$, $k > 0$.
 

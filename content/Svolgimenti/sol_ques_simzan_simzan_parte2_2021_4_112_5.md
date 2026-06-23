@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_5|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_5|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 **Testo.** In figura è riportato il grafico della funzione $f(x) = \dfrac{ax^2 + bx}{x^2 + c}$. La retta $s$ di equazione $y = x$ è asintoto di $f(x)$ e la retta $r$ di equazione $y = -x$ è tangente in $O$ al grafico di $f(x)$. Determina l'espressione analitica della funzione $f(x)$.
 

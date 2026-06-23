@@ -14,7 +14,7 @@ tags:
   - anno/2022
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_5|Simulazione Zanichelli 2022 — SimZan parte2 #5 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 #5]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_5|Simulazione Zanichelli 2022 — SimZan parte2 n.5 — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2022_5_139|Simulazione Zanichelli 2022 — SimZan parte2 n.5]]
 
 Calcoliamo il volume del solido di rotazione attorno all'asse $x$ della regione compresa tra la retta $x + y = 4$ e la semicirconferenza $y = \sqrt{10 - x^2}$.
 

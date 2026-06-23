@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 6. Stabilire per quale insieme di punti del piano cartesiano l'espressione $\sqrt{e^{2x} - y^2}$ esiste e fornirne la rappresentazione grafica.
 

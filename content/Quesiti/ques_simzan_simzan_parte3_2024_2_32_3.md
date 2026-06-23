@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 #2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte3_2024_2_32|Simulazione Zanichelli 2024 — SimZan parte3 n.2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 3. Andrea va a scuola ogni giorno con lo stesso autobus, dal lunedì al venerdì. Da una lunga serie di osservazioni ha potuto stabilire che la probabilità $p$ di trovare un posto libero a sedere è distribuita nel corso della settimana come indicato in tabella.
 

@@ -14,7 +14,7 @@ tags:
   - anno/2013
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_9|Simulazione Zanichelli 2013 Ordinamento #9 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento #9]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_9|Simulazione Zanichelli 2013 Ordinamento n.9 — Quesito 9]] · **Prova:** [[Prove/simzan_simzan_parte1_2013_9_103|Simulazione Zanichelli 2013 Ordinamento n.9]]
 
 La funzione $f$ è continua e derivabile almeno due volte in $\mathbb{R}$, con due flessi in $O(0;0)$ e $F(6;-1)$. Le tangenti nei punti $O(0;0)$, $M(3;-2)$, $F(6;-1)$ sono note dal grafico.
 

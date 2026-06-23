@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 10. Si studino la continuità e la derivabilità della funzione definita dalla seguente legge:
 $$f(x) = \begin{cases} -\dfrac{|x|}{x} & \text{se } |x| > 1 \\ |x| & \text{se } |x| \le 1. \end{cases}$$

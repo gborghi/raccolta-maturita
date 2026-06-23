@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 È stata condotta un'indagine su un gruppo di studenti di una scuola superiore; a ciascuno studente è stato chiesto di registrare, nel corso di una settimana, la durata totale di tutte le conversazioni telefoniche effettuate e ricevute tramite il proprio cellulare. I dati raccolti sono stati riassunti nell'istogramma sottostante, in cui l'altezza di ogni rettangolo rappresenta il numero di studenti che hanno dichiarato una durata totale delle conversazioni settimanali maggiore di $t$ ore e minore o uguale di $t+1$ ore. La spezzata in colore, che congiunge i punti corrispondenti ai valori centrali di ogni classe, è il grafico di una funzione di $t$, lineare a tratti, detta *poligono delle frequenze*.
 

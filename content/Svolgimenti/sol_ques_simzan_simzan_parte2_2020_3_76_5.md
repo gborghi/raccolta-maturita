@@ -16,7 +16,7 @@ tags:
   - anno/2020
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_5|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica) — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 #3 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_5|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica) — Quesito 5]] · **Prova:** [[Prove/simzan_simzan_parte2_2020_3_76|Simulazione Zanichelli 2020 — SimZan parte2 n.3 (Mat+Fisica)]]
 
 Si consideri la funzione $f: \mathbb{R} \to \mathbb{R}$ così definita:
 

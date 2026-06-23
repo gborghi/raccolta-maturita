@@ -14,7 +14,7 @@ tags:
   - anno/2012
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_1|Simulazione Zanichelli 2012 Sperimentale #3 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale #3]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2012_3_42_1|Simulazione Zanichelli 2012 Sperimentale n.3 — Quesito 1]] · **Prova:** [[Prove/simzan_simzan_parte1_2012_3_42|Simulazione Zanichelli 2012 Sperimentale n.3]]
 
 Nel piano $xOy$ sia $y = kx^2$ ($k > 0$) la parabola $\gamma$. Sia $P(a; ka^2)$ con $a > 0$. La tangente in $P$ ha equazione $y = 2kax - ka^2$ e interseca l'asse $x$ in $Q\!\left(\frac{a}{2}; 0\right)$. La parallela all'asse $x$ passante per $P$ interseca $\gamma$ in $P'(-a; ka^2)$.
 

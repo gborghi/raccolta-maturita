@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 #1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Prova:** [[Prove/simzan_simzan_parte2_2017_1_20|Simulazione Zanichelli 2017 — SimZan parte2 n.1]] · **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 9. Data la funzione $f(x)=ae^{bx}$, determina i valori di $a$ e $b$ per i quali $f'(0)=8$ e $f^{(4)}(0)=64$. Dimostra che per i valori di $a$ e $b$ trovati è $f^{(n)}(x)=2^{n+2}e^{2x}$ e verifica che l'equazione $f^{(n+1)}(x)\cdot f^{(n-1)}(0)=\big[f^{(n)}(x)\big]^2$ è un'identità per ogni $n$ naturale.
 

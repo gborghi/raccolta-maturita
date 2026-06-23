@@ -16,7 +16,7 @@ tags:
   - anno/2021
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_8|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica) — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 #4 (Mat+Fisica)]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_8|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica) — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte2_2021_4_112|Simulazione Zanichelli 2021 — SimZan parte2 n.4 (Mat+Fisica)]]
 
 **Testo.** I muoni sono particelle di massa $m = 1{,}88 \times 10^{-28}\;\text{kg}$ con vita media in quiete $\tau = 2{,}20\;\mu\text{s}$. Un muone prodotto da un raggio cosmico si muove verso il basso con velocità $v_0 = 0{,}75c$ rispetto alla Terra. Determina la quota di generazione del muone. Determina l'energia cinetica e l'energia totale in eV. Un elettrone si muove parallelamente al muone con velocità $v_e = 0{,}75c$ rispetto alla Terra; determina la velocità dell'elettrone nel sistema di riferimento del muone.
 

@@ -14,7 +14,7 @@ tags:
   - anno/2011
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_3|Simulazione Zanichelli 2011 Ordinamento #2 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento #2]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2011_2_23_3|Simulazione Zanichelli 2011 Ordinamento n.2 — Quesito 3]] · **Prova:** [[Prove/simzan_simzan_parte1_2011_2_23|Simulazione Zanichelli 2011 Ordinamento n.2]]
 
 **Testo:** Si dimostri che $f(x) = e^x - 2\cos\dfrac{x}{2} - 3$ è invertibile nell'intervallo $[0,\,+\infty[$. Detta $g(y)$ la funzione inversa di $f(x)$, calcolare $g'\!\left(e^2-3\right)$.
 

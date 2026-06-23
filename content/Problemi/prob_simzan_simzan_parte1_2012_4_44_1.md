@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2012_4_44|Simulazione Zanichelli 2012 Sperimentale #4]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2012_4_44|Simulazione Zanichelli 2012 Sperimentale n.4]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 *(Statement non trascrivibile dalle pagine disponibili — le pagine contengono soltanto la risoluzione della simulazione 2012-13, Corso Sperimentale; il testo dei problemi è quello della prova precedente. Vedi PDF.)*
 

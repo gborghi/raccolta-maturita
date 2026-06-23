@@ -14,7 +14,7 @@ tags:
   - anno/2014
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_8|Simulazione Zanichelli 2014 #13 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 #13]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_8|Simulazione Zanichelli 2014 n.13 — Quesito 8]] · **Prova:** [[Prove/simzan_simzan_parte1_2014_13_134|Simulazione Zanichelli 2014 n.13]]
 
 $f(x)$ è una funzione continua nell'intervallo $[-2;\,4]$, derivabile nell'intervallo aperto $(-2;\,4)$ e tale che:
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 #15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
+**Prova:** [[Prove/simzan_simzan_parte1_2015_15_147|Simulazione Zanichelli 2015 — SimZan parte1 n.15]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 8. Nella figura a fianco sono riportati i grafici di una funzione $f(x)$, della sua derivata prima $f'(x)$ e della derivata seconda $f''(x)$. Associa $f(x)$, $f'(x)$ e $f''(x)$ al giusto grafico. Se uno dei tre grafici ha equazione
 $$y=\frac{2(1-x^2)}{(x^2+1)^2},$$

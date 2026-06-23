@@ -14,7 +14,7 @@ tags:
   - anno/2023
 ---
 
-**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_7|Simulazione Zanichelli 2023 — SimZan parte3 #1 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 #1]]
+**Quesito:** [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_7|Simulazione Zanichelli 2023 — SimZan parte3 n.1 — Quesito 7]] · **Prova:** [[Prove/simzan_simzan_parte3_2023_1_2|Simulazione Zanichelli 2023 — SimZan parte3 n.1]]
 
 **Testo:** Il grafico della funzione $y=\cos\dfrac{\pi x}{2}$ divide il quadrato $Q$ di vertici $(0;0)$, $(1;0)$, $(1;1)$ e $(0;1)$ in due regioni $R_1$ e $R_2$, con $\text{Area}(R_1)>\text{Area}(R_2)$. Scelti a caso tre punti interni al quadrato $Q$, calcola la probabilità che solo l'ultimo punto appartenga alla regione $R_1$.
 
