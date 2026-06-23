@@ -113,9 +113,16 @@ function extractConceptList(content) {
     if (lines[k].startsWith("## ")) { head = k; break }
     if (lines[k].startsWith("# ")) { head = k + 1; break }
   }
+  // Paginate ONLY the list under this heading — stop at the next "## " section so
+  // any following sections (e.g. a cluster's "## Argomenti correlati" cross-links)
+  // are preserved instead of being swallowed/discarded.
+  let end = lines.length
+  for (let k = head + 1; k < lines.length; k++) {
+    if (lines[k].startsWith("## ")) { end = k; break }
+  }
   const items = []
   const RE = /^- \[\[([^\]|#]+)(#[^\]|]*)?(?:\|([^\]]*))?\]\]\s*(?:[—-]\s*(.*))?$/
-  for (let k = head; k < lines.length; k++) {
+  for (let k = head; k < end; k++) {
     const m = lines[k].match(RE)
     if (!m) continue
     let target = m[1].trim()
@@ -129,7 +136,9 @@ function extractConceptList(content) {
   }
   if (!items.length) return null
   const kept = lines.slice(0, head + 1).join("\n").replace(/\n+$/, "")
-  const newContent = kept + "\n\n<div class=\"paged-list\" data-src=\"__SRC__\" data-count=\"" + items.length + "\"></div>\n"
+  const tail = lines.slice(end).join("\n").replace(/^\n+/, "")
+  const newContent = kept + "\n\n<div class=\"paged-list\" data-src=\"__SRC__\" data-count=\"" + items.length + "\"></div>\n" +
+    (tail ? "\n" + tail + "\n" : "")
   return { newContent, items }
 }
 

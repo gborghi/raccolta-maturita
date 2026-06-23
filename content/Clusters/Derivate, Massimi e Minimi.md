@@ -11,3 +11,12 @@ tags:
 ## Prove
 
 <div class="paged-list" data-src="cl/2.json" data-count="82"></div>
+
+## Argomenti correlati
+
+*Tutti i problemi e quesiti che toccano quest'area, per argomento:*
+
+- [[Derivate]] (664)
+- [[Massimi e Minimi]] (394)
+
+#graph/cluster #cluster/derivate_massimi_e_minimi
