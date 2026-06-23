@@ -13,7 +13,7 @@ title: 2001 Suppletiva Ordinamento — Questionario
 ---
 
 Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
 

@@ -13,7 +13,7 @@ title: 2006 Sessione Ordinaria — Prova (p.10)
 ---
 
 Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
 

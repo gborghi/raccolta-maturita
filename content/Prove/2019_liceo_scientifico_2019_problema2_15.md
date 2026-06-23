@@ -13,7 +13,7 @@ title: 2019 Liceo Scientifico — Problema 2
 ---
 
 Fonte: p.15 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Un condensatore piano è formato da due armature circolari di raggio $R$, poste a distanza $d$, dove $R$ e $d$ sono espresse in metri (m). Viene applicata alle armature una differenza di potenziale variabile nel tempo e inizialmente nulla.

@@ -13,7 +13,7 @@ title: 1999 Suppletiva — Problema 1
 ---
 
 Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Data una semicirconferenza di centro $O$ e di diametro $\overline{AB} = 2$, si assuma su di essa un punto $C$ in modo che l'angolo $A\hat{O}C$ sia acuto. Indicata con $\varphi$ l'ampiezza di tale angolo, siano:

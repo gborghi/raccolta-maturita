@@ -13,7 +13,7 @@ title: 2013 Scuole estero Americhe — Problema 2
 ---
 
 Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 **Scuole italiane all'estero (Americhe) 2013 — Problema 2**

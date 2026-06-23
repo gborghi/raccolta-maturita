@@ -13,7 +13,7 @@ title: Ordinamento 2014 — Problema 1
 ---
 
 Fonte: p.11 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Il grafico $\Gamma$ riportato è quello della funzione integrale

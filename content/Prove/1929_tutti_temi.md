@@ -13,7 +13,7 @@ title: 1929 Tema di maturita
 ---
 
 Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Considerando una qualunque dei triangoli rettangoli aventi un cerchio dato di raggio $r$ come cerchio inscritto o ex-inscritto tangente all'ipotenusa, far vedere che tra i cateti $x$ ed $y$ del triangolo sussiste sempre la relazione:

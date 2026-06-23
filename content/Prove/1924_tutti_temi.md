@@ -13,7 +13,7 @@ title: 1924 Tema di maturita
 ---
 
 Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Due circonferenze di raggi $R$ ed $r$ ($R > r$) sono tangenti internamente. Trovare sopra la tangente comune un punto tale che le tangenti condotte per esso alle due circonferenze formino un angolo dato $\gamma$. A quale condizione deve essere sottoposto $\gamma$ affinché il problema sia possibile? Si osservi che la differenza degli angoli che la tangente comune forma con le congiungenti il punto che si cerca coi centri dei circoli, eguaglia la metà di $\gamma$.

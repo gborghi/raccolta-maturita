@@ -13,14 +13,8 @@ title: 2016 Liceo Scientifico — Problema 2 e Quesiti
 ---
 
 Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-
-<!--fig:start-->
-![[_attachments/2016_liceo_scientifico_2016_problema2_26/2016_liceo_scientifico_2016_problema2_26_fig.svg]]
-*Figura 1: grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$ con i punti notevoli A(0,1), B(1,4) massimo, C(3,2) flesso, D(5,0), E(7,-3/4) minimo, F(8,0) e semiretta per G(10,4).*
-
-<!--fig:end-->
 
 Nella figura 1 è rappresentato il grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$, derivabile in $\,]0,+\infty)$, e sono indicate le coordinate di alcuni suoi punti.
 

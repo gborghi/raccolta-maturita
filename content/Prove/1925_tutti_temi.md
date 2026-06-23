@@ -13,7 +13,7 @@ title: 1925 Tema di maturita
 ---
 
 Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un cilindro circolare retto, di raggio $r$ ed altezza $h$, è descritta, col centro $O$ sull'asse del cilindro e col medesimo raggio $r$, una sfera che si suppone non abbia punti esterni al cilindro. Si vuole che il volume della sfera risulti medio proporzionale tra i volumi dei due solidi rotondi che, sommati alla sfera, danno il cilindro.

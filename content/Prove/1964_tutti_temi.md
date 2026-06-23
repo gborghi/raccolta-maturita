@@ -13,7 +13,7 @@ title: 1964 Tema di maturita
 ---
 
 Fonte: p.102 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 [Conclusione del problema precedente] Determinare una parallela $r$ al lato $BC$ in guisa che, dette $MN$ e $PQ$ le corde che su $r$ staccano rispettivamente il triangolo e la circonferenza, si abbia:

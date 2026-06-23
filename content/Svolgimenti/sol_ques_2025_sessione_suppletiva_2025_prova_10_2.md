@@ -28,7 +28,7 @@ $$
 
 *Diagramma ad albero (parziale) per la sfida Zoe–Eva: percorsi verso il punteggio $3{-}1$.*
 
-*Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+*Fonte: svolgimento dal libro «Matematica alla Maturità» · [📄 testo p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)*
 
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -13,7 +13,7 @@ title: 2000 Suppletiva PNI — Problema 3
 ---
 
 Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-**Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
+**Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
 Si consideri l'esperimento consistente nell'estrazione a caso di $5$ palline, una dopo l'altra, senza reimbussolamento delle palline estratte, da un sacchetto contenente $90$ palline numerate da $1$ a $90$, aventi tutte le stesse possibilità di uscita (gioco del Lotto).

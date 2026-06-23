@@ -13,7 +13,7 @@ title: 2007 PNI Suppletiva — Problema 1
 ---
 
 Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Si consideri la funzione integrale

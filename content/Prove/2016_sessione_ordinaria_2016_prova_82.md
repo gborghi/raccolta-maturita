@@ -13,7 +13,7 @@ title: 2016 Ordinaria (Opzione Sportiva) — Prova
 ---
 
 Fonte: p.82 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
 

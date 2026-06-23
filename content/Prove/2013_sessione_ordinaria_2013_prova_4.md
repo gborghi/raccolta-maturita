@@ -13,7 +13,7 @@ title: 2013 Ordinaria — Prova
 ---
 
 Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
 

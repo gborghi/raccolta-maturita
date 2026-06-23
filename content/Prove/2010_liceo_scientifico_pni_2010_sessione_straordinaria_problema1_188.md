@@ -13,7 +13,7 @@ title: 2010 Scientifico PNI Straordinaria — Problema 1
 ---
 
 Fonte: p.188 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sono dati: una semicirconferenza di centro $O$ e diametro $AB = 2$ e la tangente $t$ parallela al diametro. Si prolungano i raggi $OA$ ed $OB$ di due segmenti uguali $AP$ e $BQ$ e dai punti $P$ e $Q$ si conducono le tangenti alla semicirconferenza, che intersecano la retta $t$ rispettivamente nei punti $M$ ed $N$.

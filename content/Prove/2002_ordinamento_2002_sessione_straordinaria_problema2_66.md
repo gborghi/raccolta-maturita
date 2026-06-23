@@ -13,7 +13,7 @@ title: 2002 Straordinaria Ordinamento — Problema 2
 ---
 
 Fonte: p.66 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 Con riferimento a un sistema di assi cartesiani ortogonali $(Oxy)$:

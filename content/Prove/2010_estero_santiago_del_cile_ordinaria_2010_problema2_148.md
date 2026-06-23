@@ -13,7 +13,7 @@ title: 2010 Estero Santiago Ordinaria — Problema 2
 ---
 
 Fonte: p.148 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sia $AC$ una corda della semicirconferenza di diametro $AB=2$. Indicato con $D$ il punto medio dell'arco $BC$ si consideri il quadrilatero $ABDC$.

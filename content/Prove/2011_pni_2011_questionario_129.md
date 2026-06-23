@@ -13,7 +13,7 @@ title: 2011 PNI — Questionario
 ---
 
 Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Quesito 1
 

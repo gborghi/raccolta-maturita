@@ -13,7 +13,7 @@ title: 1889 Tema di maturita
 ---
 
 Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
+**Cluster:** [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
 
 
 **Problema 2.** È data la somma di tre numeri $x$, $y$, $z$, in progressione aritmetica ed è dato il loro prodotto $b$; trovare questi tre numeri e discutere i risultati.

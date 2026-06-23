@@ -44,7 +44,7 @@ Per un utilizzo ottimale la pista deve avere uno spessore compreso tra i 6,5 e g
 
 4. Determina il tempo che il macchinario impiega a realizzare uno strato di ghiaccio di spessore 7,5 cm.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni differenziali]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
 **Soluzione:** [[Svolgimenti/sol_prob_2017_sessione_straordinaria_2017_prova_80_1|📝 Svolgimento]] · [📄 PDF p.80](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)

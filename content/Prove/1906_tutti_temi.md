@@ -13,7 +13,7 @@ title: 1906 Tema di maturita
 ---
 
 Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Problema 1
 

@@ -13,15 +13,9 @@ title: 2015 Ordinaria Calendario Boreale 1 — Prova
 ---
 
 Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2015_sessione_ordinaria_2015_calendario_boreale_1_prova_105/2015_sessione_ordinaria_2015_calendario_boreale_1_prova_105_fig.svg]]
-*Figura 1: nel piano $Oxy$ il faro $F(0,1)$ con il settore luminoso (quarto di cerchio di raggio 10), le rotte rettilinee delle navi $P$ e $Q$ con i versi di moto, e la Zona Marittima Pericolosa (ZMP) delimitata dalle curve $f$, $g$ e dalla retta $x=0$ con la boa $B$.*
-
-<!--fig:end-->
 
 Sei il responsabile del controllo della navigazione della nave indicata in figura 1 con il punto $P$. Nel sistema di riferimento cartesiano $Oxy$ le posizioni della nave $P$, misurate negli istanti $t=0$ e $t=10$ (il tempo $t$ è misurato in minuti, le coordinate $x$ e $y$ sono espresse in miglia nautiche), sono date dai punti $P_1(14,13)$ e $P_2(12,11)$. Negli stessi istanti la posizione di una seconda nave $Q$ è data dai punti $Q_1(12,-2)$ e $Q_2(11,-1)$. Entrambe le navi si muovono in linea retta e con velocità costante, come rappresentato in figura 1 (non in scala).
 

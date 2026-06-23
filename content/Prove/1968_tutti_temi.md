@@ -13,7 +13,7 @@ title: 1968 Tema di maturita
 ---
 
 Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 **Problema.** Sia $ABC$ un triangolo equilatero di lato $a$ ed $E$ un punto generico del lato $AC$. Condotta per $E$ la parallela ad $AB$ ed indicata con $F$ la sua intersezione con $BC$, si denoti con $D$ il punto del prolungamento di $EF$, dalla parte di $F$, tale che sia

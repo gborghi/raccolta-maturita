@@ -13,7 +13,7 @@ title: 2009 Estero Europa — Problema 2
 ---
 
 Fonte: p.56 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel piano riferito ad un sistema $Oxy$ di coordinate cartesiane siano assegnate le parabole d'equazioni: $$y^2=2ax \quad e \quad x^2=ay,\qquad \text{con } a>0.$$

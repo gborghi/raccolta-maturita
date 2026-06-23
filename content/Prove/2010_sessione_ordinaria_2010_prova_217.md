@@ -13,15 +13,9 @@ title: 2010 Ordinaria PNI — Prova
 ---
 
 Fonte: p.217 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2010_sessione_ordinaria_2010_prova_217/2010_sessione_ordinaria_2010_prova_217_fig.svg]]
-*Grafico di g(x), derivata di f: tre semicirconferenze di centri (0,0), (3,0), (9/2,0) e raggi 2, 1, 1/2 (la prima e la terza sotto l'asse x, la seconda sopra).*
-
-<!--fig:end-->
 
 Nella figura che segue è riportato il grafico di $g(x)$ per $-2\le x\le 5$ essendo $g$ la derivata di una funzione $f$. Il grafico consiste di tre semicirconferenze con centri in $(0,0)$, $(3,0)$, $\left(\frac{9}{2},0\right)$ e raggi rispettivi $2$, $1$, $\frac{1}{2}$.
 

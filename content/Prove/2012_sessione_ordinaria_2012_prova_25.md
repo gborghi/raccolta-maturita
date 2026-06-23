@@ -13,7 +13,7 @@ title: Sessione Ordinaria 2012 (Americhe) — Prova
 ---
 
 Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
 

@@ -13,7 +13,7 @@ title: 2003 Americhe Australe Suppletiva — Problema 2
 ---
 
 Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Fra i coni circolari retti circoscritti ad una sfera di raggio $6$ cm, determinate:

@@ -13,7 +13,7 @@ title: 1955 Tema di maturita
 ---
 
 Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un piano, riferito ad un sistema di assi cartesiani $Oxy$, sono date la circonferenza di equazione $x^2 + y^2 = r^2$ e le rette di equazione

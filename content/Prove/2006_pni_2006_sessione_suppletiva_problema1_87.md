@@ -13,7 +13,7 @@ title: 2006 PNI Suppletiva — Problema 1
 ---
 
 Fonte: p.87 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel piano, riferito ad un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le due parabole $p'$ e $p''$ di equazioni rispettivamente:

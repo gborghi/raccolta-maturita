@@ -13,7 +13,7 @@ title: 2012 Scientifico Straordinaria — Problema 1
 ---
 
 Fonte: p.92 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il triangolo $ABC$, rettangolo in $A$, ha l'ipotenusa $BC=2a$; sia $P$ il punto medio di $AC$, $Q$ la sua proiezione ortogonale su $BC$ e $A\hat{B}C=\alpha$. *(figura nel PDF)*

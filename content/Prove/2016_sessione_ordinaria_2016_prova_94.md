@@ -13,7 +13,7 @@ title: 2016 Ordinaria (Internazionale Cinese) — Prova
 ---
 
 Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
 

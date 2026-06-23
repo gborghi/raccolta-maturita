@@ -89,7 +89,7 @@ L'area del rettangolo è $A(a) = 2\cdot 5e^{1-2a} = 10e^{1-2a}$. Studiamo: $A'(a
 
 *Grafico di $\gamma_1$: $f_1(x)=(x^2+1)e^{x+1}$, sempre positiva, con flesso a tangente orizzontale in $(-1,2)$, crescente su $\mathbb{R}$.*
 
-*Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+*Fonte: svolgimento dal libro «Matematica alla Maturità» · [📄 testo p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)*
 
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

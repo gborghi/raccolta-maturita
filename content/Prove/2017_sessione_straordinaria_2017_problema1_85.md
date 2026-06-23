@@ -13,14 +13,8 @@ title: 2017 Straordinaria — Problema 1
 ---
 
 Fonte: p.85 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-
-<!--fig:start-->
-![[_attachments/2017_sessione_straordinaria_2017_problema1_85/2017_sessione_straordinaria_2017_problema1_85_fig.svg]]
-*Figura 1: terreno rettangolare ABCD (40 m x 20 m) con la pista ellittica inscritta, su assi cartesiani Oxy centrati nel comune centro.*
-
-<!--fig:end-->
 
 L'azienda per cui lavori vuole aprire in città una pista di pattinaggio su ghiaccio e ti ha dato l'incarico di occuparti del progetto.
 
@@ -43,7 +37,7 @@ Per un utilizzo ottimale la pista deve avere uno spessore compreso tra i 6,5 e g
 
 4) Determina il tempo che il macchinario impiega a realizzare uno strato di ghiaccio di spessore 7,5 cm.
 
-**Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]]
+**Topic:** [[Geometria Analitica (piano)]], [[Derivate]], [[Calcolo Integrale]]
 **Metodi:** [[Impostazione con geometria analitica (coordinate, coniche)]], [[Risoluzione di equazioni e disequazioni]], [[Derivazione e calcolo di derivate]], [[Risoluzione di equazioni differenziali]], [[Modellizzazione matematica di un problema realeapplicato|Modellizzazione matematica di un problema reale/applicato]]
 **Competenze:** [[Modellizzazione matematica di situazioni]], [[Problem solving (strategia risolutiva non immediata)]], [[Calcolo simbolico e manipolazione algebrica]], [[Interpretazione e formalizzazione del testo]]
 **Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_problema1_85#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)

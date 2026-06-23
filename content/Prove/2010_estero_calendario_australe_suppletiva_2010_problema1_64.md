@@ -13,7 +13,7 @@ title: 2010 Estero Australe Suppletiva — Problema 1
 ---
 
 Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un sistema di riferimento cartesiano $Oxy$, si consideri la parabola $\lambda$ di equazione $y = kx^2$, dove $k > 0$.

@@ -13,7 +13,7 @@ title: 2005 Estero Australe Ord — Problema 1
 ---
 
 Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Sia $f(x)=\dfrac{x^2+1}{x^2}$ e sia $F(x)$ la sua primitiva tale che $F(1)=f(1)$. Siano inoltre $\varphi$ e $\phi$ le curve rappresentative rispettivamente di $f$ e $F$.

@@ -13,7 +13,7 @@ title: 2018 Suppletiva — Problema 1
 ---
 
 Fonte: p.102 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Un artigiano deve realizzare una cornice in cui inscrivere uno specchio di forma circolare. A partire da una tavola quadrata di lato $3\pi$ decimetri (approssimato alla seconda cifra decimale), adoperando una macchina a controllo numerico (CNC), incide su ciascun lato una decorazione che rappresenta una porzione di curva goniometrica.

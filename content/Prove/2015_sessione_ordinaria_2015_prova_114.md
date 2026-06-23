@@ -13,15 +13,9 @@ title: 2015 Ordinaria — Prova (Tedesca/Esabac)
 ---
 
 Fonte: p.114 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2015_sessione_ordinaria_2015_prova_114/2015_sessione_ordinaria_2015_prova_114_fig.svg]]
-*Figura 1: grafico $\Gamma$ di $y=f(x)$ su $[-3,3]$ con tangenti orizzontali in $x=-1,1,2$ e le quattro regioni A, B, C, D delimitate dalla curva e dall'asse $x$.*
-
-<!--fig:end-->
 
 La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, disegnato in figura 1. $\Gamma$ presenta tangenti orizzontali per $x=-1$, $x=1$, $x=2$. Le aree delle regioni A, B, C e D sono rispettivamente 2, 3, 3 e 1. Sia $g(x)$ una primitiva di $f(x)$ tale che $g(3)=-5$. *(figura nel PDF)*
 

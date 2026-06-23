@@ -13,7 +13,7 @@ title: 2004 Estero Americhe Ordinaria — Problema 1
 ---
 
 Fonte: p.15 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Tra i coni circolari retti inscritti in una sfera di raggio $10$ cm, si determini:

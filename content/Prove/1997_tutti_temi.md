@@ -13,7 +13,7 @@ title: 1997 — Tema di maturita
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 *Il candidato scelga a suo piacimento due dei seguenti problemi e li risolva. Tempo concesso: 5 ore.*

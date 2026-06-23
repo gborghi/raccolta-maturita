@@ -13,7 +13,7 @@ title: 2006 Australe Suppletiva — Problema 1
 ---
 
 Fonte: p.37 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il triangolo $ABC$, rettangolo in $C$, ha l'altezza relativa all'ipotenusa uguale a 1.

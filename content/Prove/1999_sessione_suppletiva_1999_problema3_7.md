@@ -13,7 +13,7 @@ title: 1999 Suppletiva — Problema 3
 ---
 
 Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 L'informazione che si ha della parabola $f(x) = ax^2 + bx + c$ è tutta concentrata nel punto di ascissa $x = 5$ ed è:

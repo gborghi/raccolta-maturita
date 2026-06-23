@@ -13,7 +13,7 @@ title: 2004 PNI Straordinaria — Problema 2
 ---
 
 Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
+**Cluster:** [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
 
 
 Si considerino le successioni di termini generali $a_n$, $b_n$ e $c_n$ tali che:

@@ -13,7 +13,7 @@ title: 2013 Ordinaria Americhe — Prova
 ---
 
 Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Problema 1
 

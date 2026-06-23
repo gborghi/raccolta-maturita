@@ -13,15 +13,9 @@ title: 2016 Ordinaria — Prova (Serbatoio)
 ---
 
 Fonte: p.40 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2016_sessione_ordinaria_2016_prova_40/2016_sessione_ordinaria_2016_prova_40_fig.svg]]
-*Figura 1: vista tridimensionale del serbatoio con lunghezza $L$, larghezza $l$ e altezza $h$. Figura 2: profilo laterale con punto angoloso alla sommità (angolo $\vartheta$) e asse di simmetria $AB$.*
-
-<!--fig:end-->
 
 L'amministratore di un piccolo condominio deve installare un nuovo serbatoio per il gasolio da riscaldamento. Non essendo soddisfatto dei modelli esistenti in commercio, ti incarica di progettarne uno che risponda alle esigenze del condominio.
 

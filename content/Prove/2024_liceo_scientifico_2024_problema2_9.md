@@ -16,12 +16,6 @@ Fonte: p.9 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN0
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2024_liceo_scientifico_2024_problema2_9/2024_liceo_scientifico_2024_problema2_9_fig.svg]]
-*Grafico $\alpha$ della funzione $f_2(x)=|x|-\sqrt{1-x^2}$ su $[-1,1]$, simmetrico rispetto all'asse $y$, con punto angoloso in $(0,-1)$ ed estremi in $(\pm1,1)$.*
-
-<!--fig:end-->
-
 *«All'inizio e alla fine, abbiamo il mistero. […] A questo mistero la matematica ci avvicina, pur senza penetrarlo». (E. De Giorgi)*
 
 Si consideri la famiglia di funzioni $f_n(x)=\sqrt[n]{x^2}-\sqrt{ax^2+bx+1}$, con $n\in\mathbb{N}$, $n>1$ e $a,b\in\mathbb{R}$, $a<0$.

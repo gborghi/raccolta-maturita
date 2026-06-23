@@ -13,7 +13,7 @@ title: 2007 Estero Americhe Ordinaria — Problema 2
 ---
 
 Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Della parabola $\gamma$ si sa che passa per i punti $A(0,2)$ e $B(2,0)$, ha l'asse parallelo all'asse $y$ e volge la concavità nel verso negativo di tale asse; inoltre l'area del dominio piano delimitato da $\gamma$ e dai segmenti $OA$ e $OB$ è $\dfrac{10}{3}$.

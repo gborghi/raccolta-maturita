@@ -13,7 +13,7 @@ title: 2003 Suppletiva PNI — Questionario
 ---
 
 Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Quesito 1
 

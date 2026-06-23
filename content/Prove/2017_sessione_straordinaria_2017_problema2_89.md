@@ -13,7 +13,7 @@ title: 2017 Straordinaria — Problema 2
 ---
 
 Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Le funzioni $g_1,g_2,g_3,g_4$ sono definite nel modo seguente:

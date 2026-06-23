@@ -13,7 +13,7 @@ title: 2004 SE Europa Ord — Problema 1
 ---
 
 Fonte: p.57 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un piano sono assegnati una retta $r$ ed un punto $H$ la cui distanza da $r$ è $\dfrac{3}{2}$ rispetto ad una data unità di misura delle lunghezze.

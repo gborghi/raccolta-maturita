@@ -13,7 +13,7 @@ title: 1943 Tema di maturità
 ---
 
 Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Di un triangolo rettangolo si conosce la misura $b$ di un cateto e la misura $d$ della differenza fra il triplo dell'ipotenusa e l'altro cateto. Determinare le misure dell'ipotenusa e del cateto incognito. Discussione.

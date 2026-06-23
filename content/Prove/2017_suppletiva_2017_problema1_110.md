@@ -13,14 +13,8 @@ title: 2017 Suppletiva — Problema 1
 ---
 
 Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
-**Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
+**Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
-
-<!--fig:start-->
-![[_attachments/2017_suppletiva_2017_problema1_110/2017_suppletiva_2017_problema1_110_fig.svg]]
-*Tabellone esagonale suddiviso nei tre settori A, B, C; i tre varchi tra i settori sono rappresentati con tratti ondulati e la pedina P si trova nel settore A.*
-
-<!--fig:end-->
 
 Un gioco si svolge su un tabellone, che è suddiviso in tre settori $A$, $B$, $C$, come in figura 1.
 

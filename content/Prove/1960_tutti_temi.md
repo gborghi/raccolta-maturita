@@ -13,7 +13,7 @@ title: 1960 Tema di maturita
 ---
 
 Fonte: p.99 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È dato il trapezio $ABCD$ rettangolo in $A$ e in $D$, avente le basi $AB$ e $CD$ e l'altezza $AD$ rispettivamente eguali a $5a$, $4a$, $2a$. Se con $P$ si denota un punto interno al trapezio, di cui $H$ e $K$ sono le proiezioni ortogonali su $BC$ e su $AD$, si trovi $P$ in guisa che siano soddisfatte le due condizioni:

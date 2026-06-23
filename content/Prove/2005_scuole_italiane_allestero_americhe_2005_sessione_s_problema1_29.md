@@ -13,7 +13,7 @@ title: 2005 Americhe Suppletiva — Problema 1
 ---
 
 Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, sono assegnate le curve di equazione

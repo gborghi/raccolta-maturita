@@ -13,7 +13,7 @@ title: 2009 Ordinamento Suppletiva — Problema 1
 ---
 
 Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 I due segmenti adiacenti $OA$, $AB$ sono uguali ed hanno una lunghezza data $a$. Nel medesimo semipiano rispetto alla retta $OB$ si descrivano due semicirconferenze di diametri rispettivi $OA$ ed $OB$, e per il punto $O$ si conduca la semiretta tangente comune, sulla quale si prenda il segmento $OC=a$. Con origine $O$, si conduca una semiretta, che forma con $OB$ un angolo $\alpha$ e interseca in $P$ e $Q$ le semicirconferenze.

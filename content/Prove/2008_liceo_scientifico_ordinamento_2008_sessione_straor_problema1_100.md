@@ -13,7 +13,7 @@ title: 2008 Ordinamento Straordinaria — Problema 1
 ---
 
 Fonte: p.100 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 Sia data la parabola: $y = ax^2 + bx + c$.

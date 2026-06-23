@@ -13,7 +13,7 @@ title: 1930 Tema di maturita
 ---
 
 Fonte: p.78 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Un trapezio convesso, inscritto in un cerchio di raggio $r$, ha per base maggiore un diametro del cerchio. Sapendo che $k$ è il rapporto alla base maggiore della somma degli altri tre lati, determinare questi. Discutere i risultati e far vedere che di tutti i trapezi convessi inscritti nel cerchio e aventi per base maggiore un diametro, quello di perimetro massimo è il semiesagono regolare, il quale soddisfa anche alla condizione di avere area massima.

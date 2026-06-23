@@ -13,7 +13,7 @@ title: 2008 Estero Europa Ordinaria — Problema 1
 ---
 
 Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 La circonferenza $\gamma$ passa per $B(0,-4)$ ed è tangente in $O(0,0)$ alla retta di coefficiente angolare $-4$; la parabola $\lambda$ passa per $A(4,0)$ ed è tangente in $O$ a $\gamma$.

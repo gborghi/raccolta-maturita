@@ -13,7 +13,7 @@ title: 2011 Ordinaria — Questionario
 ---
 
 Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 1. Sia $W$ il solido ottenuto facendo ruotare attorno all'asse $y$ la parte di piano compresa, per $x \in \left[0; \frac{\pi}{2}\right]$, fra il grafico di $y = \sin x$ e l'asse $x$. Quale dei seguenti integrali definiti fornisce il volume di $W$?

@@ -13,7 +13,7 @@ title: 2005 Estero Australe Ord — Problema 2
 ---
 
 Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il triangolo $ABC$ ha il lato $BC$ che è il doppio di $CA$ di lunghezza $k$, mentre il triangolo rettangolo $ABD$, con $D$ dalla parte opposta di $C$ rispetto ad $AB$, ha il cateto $AB$ che è il doppio di $BD$.

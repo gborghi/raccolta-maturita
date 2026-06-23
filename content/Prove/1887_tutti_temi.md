@@ -13,7 +13,7 @@ title: 1887 Tema di maturita
 ---
 
 Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 **Problema 1.** Trovare le lunghezze dei lati di un triangolo rettangolo sapendo che il perimetro misurato col metro è $1.20$ e che la distanza del vertice dell'angolo retto dall'ipotenusa è $0.24$.

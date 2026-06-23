@@ -17,12 +17,6 @@ Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0W
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/simzan_simzan_parte2_2021_4_112/simzan_simzan_parte2_2021_4_112_fig.svg]]
-*Piano cartesiano Oxy con i punti A(0;1) e B(0;-1) sull'asse y (sedi dei fili percorsi da corrente uscente) e il punto P(x;0) sul semiasse positivo delle ascisse.*
-
-<!--fig:end-->
-
 Considera la famiglia di funzioni $f_k:\mathbb{R}\to\mathbb{R}$ definita ponendo
 $$f_k(x)=\frac{4x}{k+x^2},$$
 dove $k$ è un parametro reale positivo.

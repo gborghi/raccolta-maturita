@@ -13,7 +13,7 @@ title: 2012 Comunicazione Ordinaria — Questionario
 ---
 
 Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Quesito 1
 

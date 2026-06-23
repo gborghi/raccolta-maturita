@@ -13,7 +13,7 @@ title: 2003 Americhe Boreale Suppletiva — Problema 2
 ---
 
 Fonte: p.57 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Su una semicirconferenza di centro $O$ e diametro $AB$, lungo $2r$, dove $r$ è una lunghezza nota, si consideri un punto $P$, si conduca, parallelamente alla retta $AP$, la tangente alla semicirconferenza e si chiami $M$ il punto di contatto. Sia poi $Q$ il punto in cui questa tangente interseca quella condotta per $P$.

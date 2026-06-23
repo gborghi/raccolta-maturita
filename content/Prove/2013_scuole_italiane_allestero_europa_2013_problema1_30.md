@@ -13,7 +13,7 @@ title: 2013 Scuole estero Europa — Problema 1
 ---
 
 Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 **Scuole italiane all'estero (Europa) 2013 — Problema 1**

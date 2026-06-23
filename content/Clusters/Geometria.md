@@ -6,7 +6,7 @@ tags:
   - cluster/geometria
 ---
 
-*Cluster tematico* — **162 prove**.
+*Cluster tematico* — **162 prove** (quelle in cui quest'area è dominante).
 
 ## Prove
 

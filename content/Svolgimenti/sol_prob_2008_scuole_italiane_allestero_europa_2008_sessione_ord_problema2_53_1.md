@@ -7,11 +7,11 @@ of_item: prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_
 prova_id: prova_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53
 anno: '2008'
 pdf: Prova_Maturita_2008.pdf
-cluster: 'Successioni, Serie ed Eq. Differenziali'
+cluster: Studio di Funzione
 tags:
   - maturita/soluzione
   - area/analisi
-  - cluster/successioni_serie_ed_eq_differenziali
+  - cluster/studio_di_funzione
   - anno/2008
 ---
 
@@ -118,4 +118,4 @@ $$\lim_{k \to +\infty} \Big[\arctan(2x)\Big]_0^k = \lim_{k \to +\infty} \big[\ar
 *Fonte:* [📄 PDF p.53](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
-#maturita/soluzione #area/analisi #cluster/successioni_serie_ed_eq_differenziali
+#maturita/soluzione #area/analisi #cluster/studio_di_funzione

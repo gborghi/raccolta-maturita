@@ -50,7 +50,7 @@ $\boxed{\frac{A_{1}}{A_{2}} = \frac{5/12}{1/12} = 5.}$
 
 *Grafico della funzione a tratti $f$ con $P_{2}(x)=x^{2}+x+1$ e $P_{3}(x)=x^{3}-2x^{2}+x$: continua in $0$, tangente $y=x$ in $0$, tangente $y=0$ in $x=1$.*
 
-*Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+*Fonte: svolgimento dal libro «Matematica alla Maturità» · [📄 testo p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)*
 
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

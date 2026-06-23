@@ -13,7 +13,7 @@ title: 2009 Estero Americhe — Problema 1
 ---
 
 Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ con centro nell'origine $O$ e raggio $r=3$.

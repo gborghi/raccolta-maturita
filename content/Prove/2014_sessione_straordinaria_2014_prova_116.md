@@ -17,12 +17,6 @@ Fonte: p.116 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/2014_sessione_straordinaria_2014_prova_116/2014_sessione_straordinaria_2014_prova_116_fig.svg]]
-*Grafico di $f(\varphi)=\operatorname{sen}\varphi+\frac{5}{4}\cos\varphi$ con la retta $y=\frac{5}{4}$ e la regione $R$ compresa tra grafico e retta.*
-
-<!--fig:end-->
-
 Siano $ABC$ e $ABD$ due triangoli, il secondo rettangolo. Nel triangolo $ABC$ il lato $BC$ è il doppio di $CA=1$ mentre nel triangolo $ABD$, con $D$ dalla parte opposta di $C$ rispetto ad $AB$, il cateto $AB$ è il doppio di $BD$.
 
 1. Si mostri che l'area del quadrilatero $ADBC$ in funzione dell'angolo $A\hat{C}B=\varphi$ è espressa da:

@@ -13,15 +13,9 @@ title: 2017 Suppletiva — Prova
 ---
 
 Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2017_sessione_suppletiva_2017_prova_122/2017_sessione_suppletiva_2017_prova_122_fig.svg]]
-*Tabellone esagonale suddiviso nei tre settori A, B, C separati da tre varchi (tratti ondulati); la pedina P si trova nel settore A.*
-
-<!--fig:end-->
 
 Un gioco si svolge su un tabellone, che è suddiviso in tre settori A, B, C, come in figura 1. *(figura nel PDF)*
 
@@ -68,7 +62,7 @@ e, posto
 $$H=\int_0^{+\infty}|f(x)|\,dx$$
 dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che cosa rappresentano, in termini geometrici, i valori di $I$ e $H$?
 
-**Topic:** [[Derivate]], [[Equazioni Differenziali]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
+**Topic:** [[Derivate]], [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Derivazione e calcolo di derivate]], [[Integrazione (calcolo di integrali)]], [[Uso di relazioni e identita trigonometriche]], [[Dimostrazioneprova rigorosa di una proprieta|Dimostrazione/prova rigorosa di una proprieta]]
 **Competenze:** [[Dimostrazione e argomentazione rigorosa]], [[Calcolo simbolico e manipolazione algebrica]], [[Collegamento tra ambiti matematici diversi]], [[Lettura e interpretazione di grafici e funzioni]]
 **Tipo funzione:** [[Mista  trascendente composita|Mista / trascendente composita]]

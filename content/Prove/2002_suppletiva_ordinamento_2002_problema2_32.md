@@ -13,7 +13,7 @@ title: 2002 Suppletiva Ordinamento — Problema 2
 ---
 
 Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Una piramide di vertice $V$, avente per base il trapezio rettangolo $ABCD$, è tale che:

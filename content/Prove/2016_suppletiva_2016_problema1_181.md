@@ -16,12 +16,6 @@ Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2016_suppletiva_2016_problema1_181/2016_suppletiva_2016_problema1_181_fig.svg]]
-*Figura 1: superficie (in metri) da coprire, delimitata dagli assi, da pareti rettilinee e da un bordo curvo che scende fino all'asse delle ascisse.*
-
-<!--fig:end-->
-
 Sei l'amministratore di un condominio che ha deliberato di dotarsi di una sala per le riunioni condominiali, sfruttando uno spazio comune già disponibile, da coprire e attrezzare.
 
 La superficie individuata è rappresentata in figura 1 *(figura nel PDF)*.

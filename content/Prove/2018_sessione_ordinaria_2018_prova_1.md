@@ -13,7 +13,7 @@ title: 2018 Sessione ordinaria — Prova
 ---
 
 Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
 

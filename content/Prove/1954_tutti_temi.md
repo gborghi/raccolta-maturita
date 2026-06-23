@@ -13,7 +13,7 @@ title: 1954 Tema di maturita
 ---
 
 Fonte: p.95 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel triangolo $ABC$, rettangolo in $B$, l'angolo acuto $B\hat{A}C$ ha l'ampiezza nota $\alpha$. Considerata la semicirconferenza di diametro $AB$, esterna al triangolo, si trovi su di essa un punto $P$ in modo che, condotta per $P$ la perpendicolare ad $AB$ fino ad incontrare l'ipotenusa $AC$ nel punto $Q$, risulti:

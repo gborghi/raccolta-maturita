@@ -5,6 +5,7 @@ concept_id: skill_analisi_dati
 tags:
   - graph/skill
 ---
+
 *Competenza* — **173** problemi/quesiti.
 
 ## Problemi e quesiti

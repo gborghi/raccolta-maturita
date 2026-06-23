@@ -13,14 +13,8 @@ title: 2017 Liceo Scientifico — Problema 2
 ---
 
 Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-
-<!--fig:start-->
-![[_attachments/2017_liceo_scientifico_2017_problema2_33/2017_liceo_scientifico_2017_problema2_33_fig.svg]]
-*Figura 1: grafico della funzione $f$ periodica ($T=4$) nell'intervallo $[0;4]$; segmenti $OB$, $BD$, $DE$ con $O(0,0)$, $B(1,1)$, $D(3,-1)$, $E(4,0)$ e quadrato $OABC$.*
-
-<!--fig:end-->
 
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, periodica di periodo $T=4$ il cui grafico, nell'intervallo $[0;4]$, è il seguente *(figura nel PDF)*.
 

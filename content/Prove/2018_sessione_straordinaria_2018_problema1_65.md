@@ -16,12 +16,6 @@ Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2018_sessione_straordinaria_2018_problema1_65/2018_sessione_straordinaria_2018_problema1_65_fig.svg]]
-*Figura 1: profilo della parte superiore della candela, con cuspide al vertice e angolo $\vartheta$ tra le tangenti.*
-
-<!--fig:end-->
-
 Un produttore di candeline tea light vuole produrre un nuovo tipo di candela colorata che abbia una parte inferiore di forma cilindrica ed una parte superiore avente la forma riportata in figura 1, che si connetta perfettamente a quella inferiore, come mostrato in figura 2.
 
 *(figure nel PDF)*

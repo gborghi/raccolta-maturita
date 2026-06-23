@@ -13,7 +13,7 @@ title: 1933 Tema di maturita
 ---
 
 Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sopra una circonferenza data il cui diametro $AB$ ha per misura $2r$, determinare un punto $P$ in modo che, detta $M$ la proiezione di esso sulla retta perpendicolare in $B$ ad $AB$, la somma dei due segmenti $AP$ e $PM$ abbia, rispetto alla stessa unità scelta per $AB$, per misura un numero dato $l$.

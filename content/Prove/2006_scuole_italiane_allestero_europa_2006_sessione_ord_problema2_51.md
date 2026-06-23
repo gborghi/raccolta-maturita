@@ -13,7 +13,7 @@ title: 2006 Estero Europa — Problema 2
 ---
 
 Fonte: p.51 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sia $T$ il tetraedro regolare di lato $1.20$ m.

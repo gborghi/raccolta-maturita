@@ -13,15 +13,9 @@ title: 'Simulazione Zanichelli 2016 — SimZan parte1 #17'
 ---
 
 Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/simzan_simzan_parte1_2016_17_164/simzan_simzan_parte1_2016_17_164_fig.png]]
-*Modello dello scafo: prisma retto a base trapezia isoscele ABCD (altezza 3 m; basi 2 m e 10/9 m; lato 1 m) in vista assonometrica, e sezione trasversale nel riferimento Oxy con le due curve gamma_1 e gamma_2 dell'arco AB.*
-<!--fig:end-->
-
 
 In uno studio di progettazione navale si vuole realizzare il modello in scala ridotta dello scafo di una nave, per sottoporlo a vari test fluidodinamici. Il modello deve essere ricavato da un blocco omogeneo di materiale plastico in forma di prisma retto, di altezza 3 m, avente per base il trapezio isoscele $ABCD$, le cui misure sono riportate in figura.
 

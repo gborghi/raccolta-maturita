@@ -13,7 +13,7 @@ title: 2003 Europa Ordinaria — Problema 2
 ---
 
 Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Si consideri un cono circolare retto.

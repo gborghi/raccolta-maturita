@@ -32,7 +32,7 @@ Zeri di $g$ in $[-\pi,\pi]$: $\boxed{x \in \left\{-\pi,\;-\frac{3\pi}{4},\;\frac
 
 *Grafico di $f(x)=\sin^2 x-\sin x\cos x$ in $[-\pi,\pi]$: gli zeri determinano quelli di $g$.*
 
-*Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+*Fonte: svolgimento dal libro «Matematica alla Maturità» · [📄 testo p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)*
 
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

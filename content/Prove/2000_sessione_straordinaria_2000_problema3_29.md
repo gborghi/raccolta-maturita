@@ -13,7 +13,7 @@ title: 2000 Straordinaria — Problema 3
 ---
 
 Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Della parabola $f(x) = ax^2 + bx + c$ si hanno le seguenti informazioni, tutte localizzate nel punto $x = 0$:

@@ -13,7 +13,7 @@ title: 2009 Ordinamento Straordinaria — Questionario
 ---
 
 Fonte: p.115 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
 

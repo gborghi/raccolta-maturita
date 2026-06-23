@@ -13,7 +13,7 @@ title: 2006 Ordinamento Suppletiva — Problema 1
 ---
 
 Fonte: p.67 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Nel piano, riferito ad un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le due parabole $p'$ e $p''$ di equazioni rispettivamente:

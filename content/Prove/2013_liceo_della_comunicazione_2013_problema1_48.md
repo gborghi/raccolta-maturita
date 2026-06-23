@@ -13,14 +13,8 @@ title: Liceo Comunicazione 2013 — Problema 1
 ---
 
 Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
-
-<!--fig:start-->
-![[_attachments/2013_liceo_della_comunicazione_2013_problema1_48/2013_liceo_della_comunicazione_2013_problema1_48_fig.svg]]
-*I due cerchi \u03a3 e \u0394 di raggio 4 e centri (-2;0) e (2;0); \u0393 \u00e8 la parte comune, A e B le intersezioni delle circonferenze.*
-
-<!--fig:end-->
 
 I due cerchi $\Sigma$ e $\Delta$, in figura, hanno uguale raggio $4$ e i rispettivi centri nei punti $(-2;0)$ e $(2;0)$. Con $\Gamma$ è denotata la loro parte comune e con $A$ e $B$ le intersezioni delle loro circonferenze.
 

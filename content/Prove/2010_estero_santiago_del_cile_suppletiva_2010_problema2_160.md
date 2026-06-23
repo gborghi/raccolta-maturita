@@ -13,7 +13,7 @@ title: 2010 Estero Santiago Suppletiva — Problema 2
 ---
 
 Fonte: p.160 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel piano è fissato il sistema di coordinate $Oxy$.

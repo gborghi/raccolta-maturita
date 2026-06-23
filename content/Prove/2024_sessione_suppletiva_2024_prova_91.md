@@ -17,12 +17,6 @@ Fonte: p.91 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/2024_sessione_suppletiva_2024_prova_91/2024_sessione_suppletiva_2024_prova_91_fig.svg]]
-*Grafico γ della funzione razionale fratta f(x)=A(x)/B(x): asintoto obliquo y=x, asintoti verticali x=0 e x=2, dominio (-∞;0)∪(0;2)∪(2;+∞).*
-
-<!--fig:end-->
-
 Si consideri il grafico $\gamma$ in figura, rappresentativo di una funzione $f(x)=\frac{A(x)}{B(x)}$, dove $A(x)$ e $B(x)$ sono dei polinomi, definita nel dominio $D=(-\infty;0)\cup(0;2)\cup(2;+\infty)$.
 
 *(figura nel PDF)*

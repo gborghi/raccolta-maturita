@@ -39,7 +39,7 @@ $$\min g = \min h, \quad \sup g = \max h, \quad 2h'' + 2h - 1 = 0$$
 
 ($\min$ = minimo, $\sup$ = estremo superiore, $\max$ = massimo). Quante sono le funzioni siffatte?
 
-**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni Differenziali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]]
 **Metodi:** [[Studio di funzione completo]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Risoluzione di equazioni differenziali]], [[Uso di relazioni e identita trigonometriche]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Dimostrazione e argomentazione rigorosa]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]

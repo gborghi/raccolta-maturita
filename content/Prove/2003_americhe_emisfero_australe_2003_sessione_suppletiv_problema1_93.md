@@ -13,7 +13,7 @@ title: 2003 Americhe Australe Suppletiva — Problema 1
 ---
 
 Fonte: p.93 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 Considerate assegnate, nel piano riferito a coordinate cartesiane ortogonali e monometriche $Oxy$, la parabola $\lambda$ d'equazione $x^2 = 4(x - y)$ e la retta $r$ d'equazione $2y = x + 3$.

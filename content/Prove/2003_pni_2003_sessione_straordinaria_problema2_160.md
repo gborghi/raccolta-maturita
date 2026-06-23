@@ -13,7 +13,7 @@ title: 2003 PNI Straordinaria — Problema 2
 ---
 
 Fonte: p.160 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
+**Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
 Un gruppo di persone è costituito da $3$ uomini e dalle rispettive mogli. Ciascun uomo sceglie a caso una fra le $3$ donne, con uguali possibilità di scelta, per un giro di ballo.

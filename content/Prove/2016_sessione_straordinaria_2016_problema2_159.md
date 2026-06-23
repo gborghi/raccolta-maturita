@@ -13,7 +13,7 @@ title: 2016 Straordinaria — Problema 2
 ---
 
 Fonte: p.159 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 La funzione $f:\mathbb{R}\to\mathbb{R}$ è così definita:

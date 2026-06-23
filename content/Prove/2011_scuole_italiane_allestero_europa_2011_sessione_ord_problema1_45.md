@@ -13,7 +13,7 @@ title: 2011 Estero Europa — Problema 1
 ---
 
 Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Nel sistema di riferimento cartesiano $Oxy$ si consideri il quadrato $OABC$, dove $A = (1; 0)$ e $C = (0; 1)$.

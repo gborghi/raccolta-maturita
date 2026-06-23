@@ -16,12 +16,6 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2024_sessione_suppletiva_2024_problema1_94/2024_sessione_suppletiva_2024_problema1_94_fig.svg]]
-*Grafico $\gamma$ di $f(x)=A(x)/B(x)$: ramo destro per $x>2$ con minimo relativo presso $x=4$ e foro in $(2,2)$, ramo sinistro per $x<0$ con massimo relativo presso $(-4,-16)$, e asintoto obliquo $y=x-8$ (tratteggiato).*
-
-<!--fig:end-->
-
 Si consideri il grafico $\gamma$ in figura, rappresentativo di una funzione $f(x)=\frac{A(x)}{B(x)}$, dove $A(x)$ e $B(x)$ sono dei polinomi, definita nel dominio $D=(-\infty;0)\cup(0;2)\cup(2;+\infty)$.
 
 *(figura nel PDF)*

@@ -13,7 +13,7 @@ title: 2000 Suppletiva PNI — Problema 2
 ---
 
 Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il triangolo $ABC$, rettangolo e non isoscele, è la base di una piramide di altezza $\dfrac{3a\sqrt{2}}{3}$.

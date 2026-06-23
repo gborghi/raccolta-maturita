@@ -13,14 +13,8 @@ title: 2016 Opzione Sportiva — Problema 2
 ---
 
 Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
-
-<!--fig:start-->
-![[_attachments/2016_scientifico_comunicazione_opzione_sportiva_2016_problema2_75/2016_scientifico_comunicazione_opzione_sportiva_2016_problema2_75_fig.svg]]
-*Grafico $\Gamma$ della funzione continua $f$ con i punti notevoli $A(0,1)$, massimo $B(1,4)$, flesso $C(3,2)$, $D(5,0)$, minimo $E(7,-4/3)$, $F(8,0)$ e la semiretta finale per $G(10,4)$.*
-
-<!--fig:end-->
 
 Nella figura 1 è rappresentato il grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$, derivabile in $\,]0,+\infty)$, e sono indicate le coordinate di alcuni suoi punti.
 

@@ -13,7 +13,7 @@ title: 2007 Ordinaria — Prova
 ---
 
 Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Problema 1
 

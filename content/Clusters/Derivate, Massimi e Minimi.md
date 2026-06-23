@@ -6,7 +6,7 @@ tags:
   - cluster/derivate_massimi_e_minimi
 ---
 
-*Cluster tematico* — **82 prove**.
+*Cluster tematico* — **82 prove** (quelle in cui quest'area è dominante).
 
 ## Prove
 

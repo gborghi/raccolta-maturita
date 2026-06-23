@@ -13,7 +13,7 @@ title: 1927 Tema di maturita
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Dato un angolo retto $y\widehat{O}x$ ed un punto $M$ ad esso interno che abbia da $Oy$ ed $Ox$ rispettivamente le distanze $a$ e $b$, condurre per $M$ una retta tale che, detti $A$ e $B$ i punti d'intersezione di essa coi lati dell'angolo retto, si abbia $\overline{AM}^2 + \overline{BM}^2 = m^2$, dove $m$ è un numero reale assegnato. Discutere i risultati e dire come deve essere condotta la retta $AB$, perché sia minima la somma $\overline{AM}^2 + \overline{BM}^2$.

@@ -13,7 +13,7 @@ title: 2004 PNI Straordinaria — Problema 1
 ---
 
 Fonte: p.127 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 In un piano è assegnata la parabola $p$ di vertice $V$ e fuoco $F$ tali che, rispetto a una assegnata unità di lunghezza, il segmento $\overline{VF}$ sia lungo $1/2$. Indicato con $E$ il punto simmetrico di $F$ rispetto a $V$ e riferito il piano a un conveniente sistema di assi cartesiani $(Oxy)$:

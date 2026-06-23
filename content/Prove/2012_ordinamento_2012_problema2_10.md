@@ -13,7 +13,7 @@ title: 2012 Ordinamento — Problema 2
 ---
 
 Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Siano dati i punti $A=(3;0)$ e $B=(0;3)$. Si consideri l'arco $L$ di parabola di equazione $x^2=9-6y$, con estremi $A$ e il punto $\left(0;\frac{3}{2}\right)$, e l'arco di circonferenza di centro $O$ e raggio $3$, di equazione $x^2+y^2=9$, con estremi $A$ e $B$.

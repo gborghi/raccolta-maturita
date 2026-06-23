@@ -13,7 +13,7 @@ title: 2012 Scientifico Straordinaria — Questionario
 ---
 
 Fonte: p.100 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Quesito 1
 

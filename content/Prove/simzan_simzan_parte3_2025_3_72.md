@@ -13,7 +13,7 @@ title: 'Simulazione Zanichelli 2025 — SimZan parte3 #3'
 ---
 
 Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
 

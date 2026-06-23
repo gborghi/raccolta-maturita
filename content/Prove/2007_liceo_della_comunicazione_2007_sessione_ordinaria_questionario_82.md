@@ -13,7 +13,7 @@ title: 2007 Liceo Comunicazione Ordinaria — Questionario
 ---
 
 Fonte: p.82 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Quesito 1
 

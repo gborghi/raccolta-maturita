@@ -13,7 +13,7 @@ title: 2008 PNI Suppletiva — Problema 1
 ---
 
 Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Siano dati un cerchio di raggio $r$ ed una sua corda $AB$ uguale al lato del quadrato in esso inscritto.

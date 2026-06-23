@@ -13,7 +13,7 @@ title: 2009 America Latina Suppletiva — Problema 2
 ---
 
 Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel piano $Oxy$ è assegnata la circonferenza $C$ di centro $O$ e raggio $1$.

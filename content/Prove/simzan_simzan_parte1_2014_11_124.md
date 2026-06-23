@@ -13,15 +13,9 @@ title: 'Simulazione Zanichelli 2014 Problemi Tradizionali #11'
 ---
 
 Fonte: p.124 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/simzan_simzan_parte1_2014_11_124/simzan_simzan_parte1_2014_11_124_fig.svg]]
-*Grafico qualitativo di una funzione dispari $f(x)$ con un massimo e un minimo relativi, simmetrica rispetto a $O$ e tendente a 0 per $x\to\pm\infty$.*
-
-<!--fig:end-->
 
 Nella figura è rappresentato in modo qualitativo il grafico cartesiano di una funzione reale $f(x)$, definita, continua e derivabile in $\mathbb{R}$, e di cui si sa che:
 - $\displaystyle\lim_{x\to\infty} f(x)=0$;

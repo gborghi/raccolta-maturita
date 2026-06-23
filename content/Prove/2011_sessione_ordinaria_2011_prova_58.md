@@ -13,7 +13,7 @@ title: 2011 Ordinaria (Europa) — Prova
 ---
 
 Fonte: p.58 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
 

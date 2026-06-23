@@ -17,12 +17,6 @@ Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/2017_sessione_ordinaria_2017_prova_23/2017_sessione_ordinaria_2017_prova_23_fig.svg]]
-*Figura 2: piano cartesiano con la ruota quadrata (lato $DE=2$, centro $C(x,d)$, vertici $D$ ed $E$) e il profilo della pedana $y=f(x)$, una gobba sull'intervallo $[-a,a]$.*
-
-<!--fig:end-->
-
 Si può pedalare agevolmente su una bicicletta a ruote quadrate? A New York, al MoMath – Museum of Mathematics si può fare, in uno dei padiglioni dedicati al divertimento matematico (figura 1). È però necessario che il profilo della pedana su cui il lato della ruota può scorrere soddisfi alcuni requisiti.
 
 In figura 2 è riportata una rappresentazione della situazione nel piano cartesiano $Oxy$: il quadrato di lato $DE=2$ (in opportune unità di misura) e di centro $C$ rappresenta la ruota della bicicletta, il grafico della funzione $f(x)$ rappresenta il profilo della pedana. *(figura nel PDF)*

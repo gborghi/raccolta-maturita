@@ -13,7 +13,7 @@ title: 2015 Liceo scientifico — Problema 2
 ---
 
 Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 La funzione $y=f(x)$ è derivabile in $[-3;3]$ e risulta $f'(-1)=f'(1)=f'(2)=0$. Le aree delle regioni $A$, $B$, $C$ e $D$ sono rispettivamente $2$, $3$, $3$ e $1$. La funzione $g(x)$ è una primitiva di $f(x)$ tale che $g(3)=-5$.

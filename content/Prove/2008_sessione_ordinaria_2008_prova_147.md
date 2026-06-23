@@ -13,7 +13,7 @@ title: 2008 Ordinaria — Prova (PNI Informatica)
 ---
 
 Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Problema 1
 

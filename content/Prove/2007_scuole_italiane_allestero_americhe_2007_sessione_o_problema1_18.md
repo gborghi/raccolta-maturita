@@ -13,7 +13,7 @@ title: 2007 Estero Americhe Ordinaria — Problema 1
 ---
 
 Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Si consideri la funzione $f$ definita da $f(x)=1-x^2$, il cui grafico è la parabola $\Gamma$.

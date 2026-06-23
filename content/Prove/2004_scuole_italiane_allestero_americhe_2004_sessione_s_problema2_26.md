@@ -13,7 +13,7 @@ title: 2004 Estero Americhe Suppletiva — Problema 2
 ---
 
 Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sia $S$ un semicerchio di raggio $2$. Si introduca nel piano cartesiano del semicerchio un sistema di coordinate cartesiane ortogonali e monometriche $xy$ e si determinino:

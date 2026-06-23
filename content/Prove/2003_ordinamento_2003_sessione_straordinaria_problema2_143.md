@@ -13,7 +13,7 @@ title: 2003 Straordinaria Ordinamento — Problema 2
 ---
 
 Fonte: p.143 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 La base minore, la base maggiore e il perimetro di un trapezio isoscele misurano nell'ordine $6\ \text{cm}$, $10\ \text{cm}$, $4(4 + \sqrt{5})\ \text{cm}$.

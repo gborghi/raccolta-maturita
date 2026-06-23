@@ -13,7 +13,7 @@ title: 2003 Americhe Boreale Suppletiva — Problema 1
 ---
 
 Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, sono assegnati i punti $A(a,0)$ e $B(0,2a)$, dove $a$ è un parametro reale positivo.

@@ -13,7 +13,7 @@ title: 1999 Sperimentale — Problema 3
 ---
 
 Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$ sono dati i punti $P(x,y)$, $A(x',y')$, $B(x'',y'')$, $P'(X,Y)$, legati dalle seguenti relazioni:

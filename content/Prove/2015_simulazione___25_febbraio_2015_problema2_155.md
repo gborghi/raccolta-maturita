@@ -13,7 +13,7 @@ title: 2015 SIMULAZIONE - 25 FEBBRAIO 2015
 ---
 
 Fonte: p.155 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 25-FEBBRAIO-2015_Problema2_155

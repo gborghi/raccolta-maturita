@@ -13,7 +13,7 @@ title: 2008 Estero Australe Ordinaria — Problema 2
 ---
 
 Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il trapezio $ABCD$ è isoscele e circoscritto ad un cerchio di raggio $1$. Si ponga la base minore $CD = 2x$.

@@ -6,7 +6,7 @@ tags:
   - cluster/probabilit_e_combinatoria
 ---
 
-*Cluster tematico* — **6 prove**.
+*Cluster tematico* — **6 prove** (quelle in cui quest'area è dominante).
 
 ## Prove
 

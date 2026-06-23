@@ -13,7 +13,7 @@ title: 2000 Straordinaria — Problema 2
 ---
 
 Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È assegnato un tronco di cono il cui volume è doppio di quello di una sfera di raggio $r$. Stabilire se tale tronco può essere circoscritto alla sfera e in caso affermativo esprimere i raggi delle basi del tronco in funzione del raggio $r$ della sfera.

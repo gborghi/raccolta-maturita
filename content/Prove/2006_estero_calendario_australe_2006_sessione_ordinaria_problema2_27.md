@@ -13,7 +13,7 @@ title: 2006 Australe Ordinaria — Problema 2
 ---
 
 Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 La somma di due numeri $x$ e $y$ è uguale al loro prodotto. Riferito il piano ad un sistema di coordinate cartesiane ortogonali e monometriche $(x,y)$:

@@ -11,8 +11,10 @@ tags:
   - anno/1999
 title: 1999 Suppletiva PNI — Problema 3
 ---
+
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
+**Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
+
 
 Una ditta dispone di $10$ linee telefoniche. La probabilità, in un istante qualsiasi, che una data linea sia occupata è $\dfrac{1}{5}$. Determinare il numero medio di linee telefoniche libere.
 

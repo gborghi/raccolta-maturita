@@ -13,7 +13,7 @@ title: 2011 Estero Americhe — Problema 2
 ---
 
 Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In una semicirconferenza di diametro $AB$ di lunghezza $2$, è inscritto un quadrilatero convesso $ABCD$ avente il lato $CD$ uguale al raggio. I prolungamenti dei lati $AD$ e $BC$ si incontrano in un punto $E$.

@@ -13,7 +13,7 @@ title: 1926 Tema di maturita
 ---
 
 Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 La base maggiore, il lato obliquo e la base minore di un trapezio isoscele formano una progressione aritmetica. Determinare il lato obliquo e la ragione della progressione sapendo che la somma dei lati obliqui e della base minore è $a$ e che la somma dei quadrati dei quattro lati è $2b^2$. Dire come deve scegliersi $b$ affinché, dato $a$, il problema sia possibile.

@@ -13,7 +13,7 @@ title: 1989 — Tema di maturita
 ---
 
 Fonte: p.132 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*

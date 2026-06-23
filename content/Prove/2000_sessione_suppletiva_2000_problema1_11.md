@@ -13,7 +13,7 @@ title: 2000 Suppletiva — Problema 1
 ---
 
 Fonte: p.11 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Una parabola passante per $A$ e $B$ divide il triangolo $ABC$ in due parti equivalenti. Supposto $ABC$ equilatero di lato $3\text{ cm}$ e l'asse della parabola perpendicolare al segmento $AB$, in un conveniente sistema di riferimento si determinino:

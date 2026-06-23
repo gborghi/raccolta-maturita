@@ -13,7 +13,7 @@ title: 2001 Suppletiva PNI — Problema 1
 ---
 
 Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Le misure $a$, $b$, $c$ dei lati di un triangolo $ABC$ sono in progressione aritmetica di ragione $k$.

@@ -13,7 +13,7 @@ title: 2009 Estero Europa — Problema 1
 ---
 
 Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ d'equazione $x^2+y^2=25$.

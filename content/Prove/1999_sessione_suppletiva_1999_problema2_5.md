@@ -13,7 +13,7 @@ title: 1999 Suppletiva — Problema 2
 ---
 
 Fonte: p.5 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 Si deve costruire un recipiente a forma di cilindro circolare retto che abbia una capacità di $16\pi \ \text{cm}^3$.

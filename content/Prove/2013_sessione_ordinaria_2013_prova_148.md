@@ -17,12 +17,6 @@ Fonte: p.148 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmk
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/2013_sessione_ordinaria_2013_prova_148/2013_sessione_ordinaria_2013_prova_148_fig.svg]]
-*Grafici $\Gamma$ di $f(x)$ (curva logistica con asintoto $y=8$ e flesso in $(2;4)$, tangente per l'origine) e $\Lambda$ di $f''(x)$ (curva a campana con asintoto $y=0$).*
-
-<!--fig:end-->
-
 Una funzione $f(x)$ è definita e derivabile, insieme alle sue derivate prima e seconda, in $[0,+\infty[$ e nella figura sono disegnati i grafici $\Gamma$ e $\Lambda$ di $f(x)$ e della sua derivata seconda $f''(x)$. La tangente a $\Gamma$ nel suo punto di flesso, di coordinate $(2;4)$, passa per $(0;0)$, mentre le rette $y=8$ e $y=0$ sono asintoti orizzontali per $\Gamma$ e $\Lambda$, rispettivamente. *(figura nel PDF)*
 
 1. Si dimostri che la funzione $f'(x)$, ovvero la derivata prima di $f(x)$, ha un massimo e se ne determinino le coordinate. Sapendo che per ogni $x$ del dominio è: $f''(x)\leq f'(x)\leq f(x)$, qual è un possibile andamento di $f'(x)$?

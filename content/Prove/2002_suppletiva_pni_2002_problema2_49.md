@@ -13,7 +13,7 @@ title: 2002 Suppletiva PNI — Problema 2
 ---
 
 Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È data la sfera $S$ di centro $O$ e raggio $R$. Determinare:

@@ -13,7 +13,7 @@ title: Ordinamento 2013 Suppletiva — Problema 2
 ---
 
 Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e la base minore $DC$ misurano rispettivamente $4\ \text{m}$ e $1\ \text{m}$, l'altezza del trapezio misura $3\ \text{m}$ e la tangente dell'angolo $B\hat{A}D$ è uguale a $\dfrac{3}{2}$.

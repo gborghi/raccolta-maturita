@@ -13,7 +13,7 @@ title: 2015 Suppletiva — Problema 2
 ---
 
 Fonte: p.171 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 La rotazione intorno all'asse $x$ dei grafici della famiglia di funzioni:

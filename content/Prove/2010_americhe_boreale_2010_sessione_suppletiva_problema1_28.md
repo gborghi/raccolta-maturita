@@ -13,7 +13,7 @@ title: 2010 Americhe Boreale Suppletiva — Problema 1
 ---
 
 Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Nel piano riferito a coordinate cartesiane $Oxy$, si consideri la parabola d'equazione $y=ax^2$, con $a$ numero reale.

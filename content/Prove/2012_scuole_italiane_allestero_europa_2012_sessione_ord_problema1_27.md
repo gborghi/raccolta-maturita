@@ -13,14 +13,8 @@ title: Scuole estero Europa 2012 — Problema 1
 ---
 
 Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-
-<!--fig:start-->
-![[_attachments/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27/2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27_fig.svg]]
-*Grafico di $y=f'(x)$ su $[-7;5]$: tre segmenti e una semicirconferenza di raggio 2 e centro in $O$.*
-
-<!--fig:end-->
 
 La funzione $f$ è definita e derivabile sull'intervallo chiuso $[-7;5]$ ed è $f(0)=5$. Il grafico di $y=f'(x)$, la derivata di $f$, consiste di tre segmenti e una semicirconferenza di raggio $2$ e centro in $O$, come indicato nella figura sotto.
 

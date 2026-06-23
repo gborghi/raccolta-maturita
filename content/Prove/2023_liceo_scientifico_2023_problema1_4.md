@@ -16,12 +16,6 @@ Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYt
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2023_liceo_scientifico_2023_problema1_4/2023_liceo_scientifico_2023_problema1_4_fig.svg]]
-*Grafico di $y=f(x)$ definita a tratti: arco di parabola $\Gamma_1$ su $[-2,0]$, arco di circonferenza $\Gamma_2$ su $[0,1]$ e arco di iperbole $\Gamma_3$ su $[1,2]$.*
-
-<!--fig:end-->
-
 Il grafico in figura, rappresentativo della funzione continua $y = f(x)$, è unione dell'arco di parabola $\Gamma_1$, dell'arco di circonferenza $\Gamma_2$ e dell'arco di iperbole $\Gamma_3$.
 
 *(figura nel PDF)*

@@ -13,7 +13,7 @@ title: 2008 Ordinamento Suppletiva — Problema 2
 ---
 
 Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Si consideri la funzione:

@@ -17,12 +17,6 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WT
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/simzan_simzan_parte2_2019_2_46/simzan_simzan_parte2_2019_2_46_fig.svg]]
-*Spira quadrata conduttrice immersa in un campo magnetico uniforme uscente dal piano del foglio (rappresentato dalla griglia di punti).*
-
-<!--fig:end-->
-
 Si consideri la funzione reale di variabile reale $i(t)$ così definita:
 $$i(t)=\begin{cases} 2 & \text{se } 0\le t\le 2 \\ t^3+at^2+bt+c & \text{se } 2<t\le 5 \end{cases}$$
 con $a$, $b$, $c$ parametri reali.

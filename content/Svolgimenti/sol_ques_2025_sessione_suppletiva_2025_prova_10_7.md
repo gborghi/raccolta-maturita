@@ -36,7 +36,7 @@ Dunque $\boxed{T=\left(-\frac{5}{4},\;\frac{53}{16}\right)}$.
 
 *Regione di piano racchiusa fra le due curve: punti di intersezione evidenziati.*
 
-*Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+*Fonte: svolgimento dal libro «Matematica alla Maturità» · [📄 testo p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)*
 
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -34,7 +34,7 @@ Per la sfera $C=(5,-7,2)$, $P=(1,-1,0)$: $r=|CP|=\sqrt{16+36+4}=\sqrt{56}=2\sqrt
 
 *Le rette $r$ e $s$ si intersecano in $P(5,2,1)$ e giacciono sul piano $\pi$.*
 
-*Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
+*Fonte: svolgimento dal libro «Matematica alla Maturità» · [📄 testo p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)*
 
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

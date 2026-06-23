@@ -16,12 +16,6 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2023_sessione_suppletiva_2023_problema2_76/2023_sessione_suppletiva_2023_problema2_76_fig.svg]]
-*Grafici di $P(x)$ ($\Gamma_1$) e $Q(x)=kP(x)$ ($\Gamma_2$): due funzioni quartiche con flesso a tangente orizzontale nell'origine; $Q$ ha massimo $27/4$.*
-
-<!--fig:end-->
-
 Sono assegnate due funzioni polinomiali $y=P(x)$ e $y=Q(x)=kP(x)$, con $k$ parametro reale, i cui grafici rappresentativi sono mostrati in figura in fondo al problema. *(figura nel PDF)*
 
 È noto che:

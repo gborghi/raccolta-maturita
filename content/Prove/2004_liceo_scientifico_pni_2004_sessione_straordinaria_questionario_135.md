@@ -13,7 +13,7 @@ title: 2004 PNI Straordinaria — Questionario
 ---
 
 Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Quesito 1
 

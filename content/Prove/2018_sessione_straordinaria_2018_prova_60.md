@@ -17,12 +17,6 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/2018_sessione_straordinaria_2018_prova_60/2018_sessione_straordinaria_2018_prova_60_fig.svg]]
-*Figura 1: profilo a sesto acuto (cuspide) della parte superiore della candela, con l'angolo $\vartheta$ al vertice.*
-
-<!--fig:end-->
-
 Il produttore di candele tea light vuole produrre un nuovo tipo di candela aromatica che abbia una parte inferiore di forma cilindrica ed una parte superiore con la forma riportata in figura 1, che si connette perfettamente a quella inferiore, come mostrato in figura 2.
 
 *(figure nel PDF)*

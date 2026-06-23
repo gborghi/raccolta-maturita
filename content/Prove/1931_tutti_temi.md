@@ -13,7 +13,7 @@ title: 1931 Tema di maturita
 ---
 
 Fonte: p.78 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 L'angolo $X\widehat{O}Y$ è di $60°$, e sul lato $OX$ sono dati due punti $A$ e $B$ in modo che $OB$ sia doppio di $OA$. Determinare sul lato $OY$ un punto $M$ tale che il rapporto $MA/MB$ sia uguale ad un numero assegnato $k$. Discutere i risultati e, dopo aver determinato su $OY$ anche i due punti $M_1$ e $M_2$ per i quali risulta massimo o minimo il rapporto delle distanze di un punto di $OY$ da $A$ e da $B$, far vedere che i quattro punti $A$, $B$, $M_1$, $M_2$ appartengono ad una stessa circonferenza. È in facoltà del candidato di risolvere la prima parte del problema anche per via geometrica.

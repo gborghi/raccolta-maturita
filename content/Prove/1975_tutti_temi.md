@@ -13,7 +13,7 @@ title: 1975 Tema di maturita
 ---
 
 Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.

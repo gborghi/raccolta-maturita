@@ -13,7 +13,7 @@ title: 2005 Americhe Suppletiva — Problema 2
 ---
 
 Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Un prisma retto ha per basi i quadrati $ABCD$ e $A'B'C'D'$ e i suoi spigoli laterali sono $AA'$, $BB'$, $CC'$, $DD'$. Gli spigoli di base del prisma misurano 2 cm, quelli laterali misurano 5 cm.

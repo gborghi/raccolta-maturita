@@ -13,7 +13,7 @@ title: 1999 Estero — Problema 1
 ---
 
 Fonte: p.13 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 In un piano $\alpha$ è assegnata una parabola avente il fuoco e il vertice nei punti rispettivamente $F$ e $V$ tali che $\overline{VF} = \dfrac{1}{2}$. Riferito il piano $\alpha$ ad un conveniente sistema monometrico di assi cartesiani ortogonali $Oxy$:

@@ -6,7 +6,7 @@ tags:
   - cluster/calcolo_integrale_e_aree
 ---
 
-*Cluster tematico* — **47 prove**.
+*Cluster tematico* — **47 prove** (quelle in cui quest'area è dominante).
 
 ## Prove
 

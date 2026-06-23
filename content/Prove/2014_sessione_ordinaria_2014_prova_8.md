@@ -13,15 +13,9 @@ title: Ordinaria 2014 (Ordinamento) — Prova
 ---
 
 Fonte: p.8 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2014_sessione_ordinaria_2014_prova_8/2014_sessione_ordinaria_2014_prova_8_fig.svg]]
-*Grafico $\Gamma$ di $g(x)=\int_0^x f(t)\,dt$: tangente all'asse $x$ in $O$, flesso in $x=h$ e massimo in $x=k$, sull'intervallo $[0,w]$.*
-
-<!--fig:end-->
 
 Nella figura a lato è disegnato il grafico $\Gamma$ di $\displaystyle g(x)=\int_0^x f(t)\,dt$ con $f$ funzione definita sull'intervallo $[0,w]$ e ivi continua e derivabile. $\Gamma$ è tangente all'asse $x$ nell'origine $O$ del sistema di riferimento e presenta un flesso e un massimo rispettivamente per $x=h$ e $x=k$. *(figura nel PDF)*
 

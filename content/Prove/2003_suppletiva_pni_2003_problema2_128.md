@@ -13,7 +13,7 @@ title: 2003 Suppletiva PNI — Problema 2
 ---
 
 Fonte: p.128 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un trapezio rettangolo $ABCD$, circoscritto a un cerchio, $AB$ è la base maggiore, $CD$ la minore e $BC$ il lato obliquo. Le misure, considerate rispetto alla stessa unità di misura, del raggio del cerchio e del perimetro del trapezio sono nell'ordine $2$ e $18$.

@@ -13,15 +13,9 @@ title: 2018 Sessione ordinaria — Prova (Mat-Fisica)
 ---
 
 Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2018_sessione_ordinaria_2018_prova_112/2018_sessione_ordinaria_2018_prova_112_fig.svg]]
-*Piano cartesiano con un tratto del grafico $\Gamma_1$ (in alto a destra) e il punto evidenziato $N$, la cui retta normale a $\Gamma_1$ passa per l'origine.*
-
-<!--fig:end-->
 
 Consideriamo la funzione $f_k:\mathbb{R}\to\mathbb{R}$ così definita:
 
@@ -69,7 +63,7 @@ $$\min g=\min h,\qquad \sup g=\max h,\qquad 2h''-2h+1=0$$
 
 Quante sono le funzioni siffatte?
 
-**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]], [[Equazioni Differenziali]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Calcolo Integrale]]
 **Metodi:** [[Analisi qualitativa e deduzione di grafici]], [[Integrazione (calcolo di integrali)]], [[Calcolo di aree e volumi con integrali (solidi di rotazione)]], [[Calcolo di limiti e continuita]], [[Risoluzione di equazioni differenziali]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ragionamento logico-deduttivo]], [[Collegamento tra ambiti matematici diversi]]
 **Tipo funzione:** [[Definita a tratti  per casi|Definita a tratti / per casi]], [[Goniometrica  trigonometrica|Goniometrica / trigonometrica]]

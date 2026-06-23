@@ -13,7 +13,7 @@ title: 2003 Europa Suppletiva — Problema 2
 ---
 
 Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Determinare $b$ e $c$ affinché la parabola di equazione $y=-x^2+bx+c$ abbia il vertice in $A(1;6)$. Determinare altresì il parametro $k$ in modo che l'iperbole di equazione $xy=k$ passi per $A$.

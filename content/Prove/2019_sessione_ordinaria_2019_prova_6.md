@@ -17,12 +17,6 @@ Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOB
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/2019_sessione_ordinaria_2019_prova_6/2019_sessione_ordinaria_2019_prova_6_fig.svg]]
-*Riferimento Oxy con i tre fili conduttori perpendicolari al piano passanti per P1(3/2,0), P2(3/2,1) e P3(3/2,-1/2); la corrente i1 in P1 entra nella pagina.*
-
-<!--fig:end-->
-
 Si considerino le seguenti funzioni:
 $$f(x)=ax^2-x+b \qquad\qquad g(x)=(ax+b)\,e^{2x-x^2}$$
 

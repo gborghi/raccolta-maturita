@@ -13,7 +13,7 @@ title: 2009 PNI Straordinaria — Problema 1
 ---
 
 Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Dato il triangolo $ABC$, rettangolo in $C$, di cateti $3$ e $4$, si consideri una retta passante per $C$, non secante il triangolo e formante un angolo $x$ con il cateto $AC$.

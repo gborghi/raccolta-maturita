@@ -85,7 +85,7 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 **Quesito 8.** Il coefficiente angolare della tangente al diagramma di $f(x)$ è, in ogni suo punto $P$, uguale al doppio dell'ascissa di $P$. Determinate $f(x)$ sapendo che $f(0)=4$.
 
-**Topic:** [[Calcolo Integrale]], [[Equazioni Differenziali]]
+**Topic:** [[Calcolo Integrale]]
 **Metodi:** [[Risoluzione di equazioni differenziali]], [[Integrazione (calcolo di integrali)]]
 **Competenze:** [[Calcolo simbolico e manipolazione algebrica]], [[Problem solving (strategia risolutiva non immediata)]]
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)

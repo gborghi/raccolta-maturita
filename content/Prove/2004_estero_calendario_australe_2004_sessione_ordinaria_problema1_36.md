@@ -13,7 +13,7 @@ title: 2004 Estero australe Ordinaria — Problema 1
 ---
 
 Fonte: p.36 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 È assegnata una piramide retta a base quadrata il cui spigolo laterale misura $a$. Si determini:

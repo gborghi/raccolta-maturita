@@ -13,7 +13,7 @@ title: 1879 Tema di maturita
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
+**Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 ## Problema 1
 

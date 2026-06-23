@@ -13,14 +13,8 @@ title: 2015 Europa — Problema 1
 ---
 
 Fonte: p.84 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
-
-<!--fig:start-->
-![[_attachments/2015_europa_2015_problema1_84/2015_europa_2015_problema1_84_fig.svg]]
-*Figura 1: sistema cartesiano Oxy con il faro F(0,1) che illumina un quarto di cerchio di raggio 10 miglia, la Zona Marittima Pericolosa (ZMP) e le traiettorie rettilinee delle navi P (punti $P_1$, $P_2$) e Q (punti $Q_1$, $Q_2$).*
-
-<!--fig:end-->
 
 Sei il responsabile del controllo della navigazione della nave indicata in Figura 1 con il punto $P$. Nel sistema di riferimento cartesiano $Oxy$ le posizioni della nave $P$, misurate negli istanti $t=0$ e $t=10$ (il tempo $t$ è misurato in minuti, le coordinate $x$ e $y$ sono espresse in miglia nautiche), sono date dai punti $P_1(14,13)$ e $P_2(12,11)$. Negli stessi istanti la posizione di una seconda nave $Q$ è data dai punti $Q_1(12,-2)$ e $Q_2(11,-1)$. Entrambe le navi si muovono in linea retta e con velocità costante, come rappresentato in Figura 1 (non in scala). *(figura nel PDF)*
 

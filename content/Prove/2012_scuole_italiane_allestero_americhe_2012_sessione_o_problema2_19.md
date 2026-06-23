@@ -13,7 +13,7 @@ title: Scuole estero Americhe 2012 — Problema 2
 ---
 
 Fonte: p.19 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Il grafico della funzione $g$, disegnato sotto, consiste di tre segmenti e di una semicirconferenza (con raggio $1$ e centro $(1,1)$).

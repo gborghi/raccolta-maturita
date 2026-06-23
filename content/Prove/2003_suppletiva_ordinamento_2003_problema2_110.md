@@ -13,7 +13,7 @@ title: 2003 Suppletiva Ordinamento — Problema 2
 ---
 
 Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È data una piramide retta a base quadrata.

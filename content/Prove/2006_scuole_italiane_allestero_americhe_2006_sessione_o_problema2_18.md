@@ -13,7 +13,7 @@ title: 2006 Estero Americhe — Problema 2
 ---
 
 Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Nel piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, è assegnata la parabola $p'$ di equazione $y = ax^2$, dove $a$ è un numero reale positivo assegnato.

@@ -13,7 +13,7 @@ title: 2009 Estero Australe Ordinaria — Questionario
 ---
 
 Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Quesito 1
 

@@ -13,7 +13,7 @@ title: 1932 Tema di maturità
 ---
 
 Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Dato un angolo retto $Y\widehat{O}X$ e dati due segmenti di misura $a$ ed $m$, determinare nell'interno dell'angolo un punto $P$ tale che $OP$ sia uguale al primo segmento e la somma della terza parte della distanza di $P$ da $OX$ con la quarta parte della distanza di $P$ da $OY$ sia uguale al secondo segmento. Discussione e costruzione geometrica.

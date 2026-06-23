@@ -13,7 +13,7 @@ title: 'Simulazione Zanichelli 2022 — SimZan parte2 #5'
 ---
 
 Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
 

@@ -6,7 +6,7 @@ tags:
   - cluster/fisica
 ---
 
-*Cluster tematico* — **1 prove**.
+*Cluster tematico* — **1 prove** (quelle in cui quest'area è dominante).
 
 ## Prove
 

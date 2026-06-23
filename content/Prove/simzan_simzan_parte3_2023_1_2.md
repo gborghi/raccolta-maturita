@@ -17,12 +17,6 @@ Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/simzan_simzan_parte3_2023_1_2/simzan_simzan_parte3_2023_1_2_fig.svg]]
-*Grafici delle tre funzioni $f$, $g=f'$ e $h=\int_0^x f$ ($\gamma_1,\gamma_2,\gamma_3$) nello stesso piano $Oxy$, con il punto notevole in $x=\sqrt3/3$.*
-
-<!--fig:end-->
-
 Considera la funzione $f(x)=\dfrac{ax}{4x^2+b}$, con $a$ e $b$ parametri reali non nulli. Siano inoltre
 
 $$g(x)=f'(x),\qquad h(x)=\int_0^x f(t)\,dt,$$

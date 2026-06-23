@@ -13,7 +13,7 @@ title: 2006 Straordinaria — Problema 1
 ---
 
 Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È dato il triangolo $ABC$ in cui: $\overline{AB}=\dfrac{25}{2}$, $\overline{AC}=5\sqrt{5}$, $\tan\hat{A}=2$.

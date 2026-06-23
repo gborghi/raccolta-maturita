@@ -13,7 +13,7 @@ title: 2003 Americhe Ordinaria — Problema 2
 ---
 
 Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 Dopo aver riferito il piano ad un sistema di assi cartesiani ortogonali $Oxy$:

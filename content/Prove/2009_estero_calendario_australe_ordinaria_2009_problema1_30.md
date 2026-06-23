@@ -13,7 +13,7 @@ title: 2009 Estero Australe Ordinaria — Problema 1
 ---
 
 Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È assegnata la parabola $\lambda$ d'equazione $x^2 - 2y = 0$.

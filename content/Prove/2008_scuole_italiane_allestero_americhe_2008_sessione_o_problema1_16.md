@@ -13,7 +13,7 @@ title: 2008 Estero Americhe Ordinaria — Problema 1
 ---
 
 Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Si fissi nel piano la semicirconferenza $\Gamma$ che ha centro in $C$ e diametro $\overline{AB}=2$ e si affrontino le seguenti questioni:

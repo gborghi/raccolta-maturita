@@ -13,7 +13,7 @@ title: 2007 Estero Australe Suppletiva — Problema 2
 ---
 
 Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Si consideri la parabola $\Gamma$ grafico della funzione $f$ definita da $f(x)=4-x^2$.

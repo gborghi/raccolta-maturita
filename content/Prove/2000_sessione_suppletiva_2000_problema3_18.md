@@ -13,7 +13,7 @@ title: 2000 Suppletiva — Problema 3
 ---
 
 Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-**Cluster:** [[Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
+**Cluster:** [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
 
 
 Si consideri la successione di termine generale $a_n=\dfrac{f(n)}{3^n}$, dove:

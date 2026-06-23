@@ -13,7 +13,7 @@ title: 2011 Ordinaria (Americhe) — Prova
 ---
 
 Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Problema 1
 

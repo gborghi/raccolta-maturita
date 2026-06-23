@@ -16,12 +16,6 @@ Fonte: p.125 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2015_simulazione___22_aprile_2015_problema1_125/2015_simulazione___22_aprile_2015_problema1_125_fig.svg]]
-*Figura 1: il settore "Curva Nord", una porzione di corona circolare di ampiezza angolare $\alpha=\frac{5\pi}{6}$.*
-
-<!--fig:end-->
-
 22-APRILE-2015_Problema1_125
 parent_node: prova_2015_simulazione___22_aprile_2015_problema1_125
 tipo_item: Problema

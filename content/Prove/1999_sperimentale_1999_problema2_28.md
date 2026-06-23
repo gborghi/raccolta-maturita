@@ -13,7 +13,7 @@ title: 1999 Sperimentale — Problema 2
 ---
 
 Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un piano $\pi$ è assegnato il triangolo $ABC$, retto in $B$, i cui cateti $AB$ e $BC$ misurano rispettivamente $4$ e $3$.

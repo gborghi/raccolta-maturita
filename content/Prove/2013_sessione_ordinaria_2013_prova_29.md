@@ -13,7 +13,7 @@ title: 2013 Ordinaria Americhe — Quesiti
 ---
 
 Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
 1. Un trapezio è inscritto in un semicerchio di raggio $2$ con una base coincidente con il diametro del cerchio. Si trovi l'area massima del trapezio.

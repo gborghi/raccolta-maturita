@@ -13,7 +13,7 @@ title: 2018 Scientifico Comunicazione Suppletiva — Problema 1
 ---
 
 Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sia dato un sistema di assi cartesiani $Oxy$ in cui l'unità corrisponde a 1 metro. Una particella puntiforme si muove lungo l'asse delle ascisse, nel verso positivo, partendo dall'origine, con una velocità di 2 metri al secondo. Quando la particella si trova in un generico punto $x = a$, costruisci un triangolo prendendo le tangenti alla curva di equazione $y = ax - x^2$ nei punti di ascissa 0 e $a$.

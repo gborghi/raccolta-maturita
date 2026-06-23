@@ -13,7 +13,7 @@ title: 2007 Estero Australe Suppletiva — Questionario
 ---
 
 Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 ## Quesito 1
 

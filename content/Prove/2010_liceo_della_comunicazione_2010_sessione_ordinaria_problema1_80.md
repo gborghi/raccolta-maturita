@@ -13,7 +13,7 @@ title: 2010 Liceo Comunicazione Ordinaria — Problema 1
 ---
 
 Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sia $\lambda$ la parabola d'equazione $f(x) = 1 + x^2$.

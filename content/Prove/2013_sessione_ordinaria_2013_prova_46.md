@@ -13,15 +13,9 @@ title: 2013 Ordinaria Sperimentale — Prova
 ---
 
 Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2013_sessione_ordinaria_2013_prova_46/2013_sessione_ordinaria_2013_prova_46_fig.svg]]
-*I due cerchi $\Sigma$ e $\Delta$ di raggio 4 e centri $(-2,0)$ e $(2,0)$; la loro parte comune $\Gamma$ e le intersezioni $A$ e $B$ delle circonferenze.*
-
-<!--fig:end-->
 
 I due cerchi $\Sigma$ e $\Delta$, in figura, hanno uguale raggio $4$ e i rispettivi centri nei punti $(-2;0)$ e $(2;0)$. Con $\Gamma$ è denotata la loro parte comune e con $A$ e $B$ le intersezioni delle loro circonferenze. *(figura nel PDF)*
 

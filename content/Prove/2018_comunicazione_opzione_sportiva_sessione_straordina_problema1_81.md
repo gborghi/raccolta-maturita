@@ -13,7 +13,7 @@ title: 2018 Comunicazione Sportiva Straordinaria — Problema 1
 ---
 
 Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Due archi illimitati di due parabole (con assi paralleli all'asse $y$ di un sistema di riferimento), ciascuno dei quali contenente il vertice della parabola, sono disposti in modo da passare per tutti e quattro i quadranti del piano e raccordarsi nell'origine, formando il grafico $\Gamma$ di una funzione:

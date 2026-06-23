@@ -13,7 +13,7 @@ title: 1988 — Tema di maturita
 ---
 
 Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*

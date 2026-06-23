@@ -16,12 +16,6 @@ Fonte: p.154 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2014_pni_2014_sessione_straordinaria_problema2_154/2014_pni_2014_sessione_straordinaria_problema2_154_fig.svg]]
-*Grafico $\gamma$ di $f(x)=\sqrt{\frac{1-x}{1+x}}$ sul dominio $-1<x\le 1$, con asintoto verticale in $x=-1$, passante per $(0,1)$ e $(1,0)$.*
-
-<!--fig:end-->
-
 Sia $f$ la funzione definita da:
 
 $$f(x) = \sqrt{\frac{1 - x}{1 + x}}$$

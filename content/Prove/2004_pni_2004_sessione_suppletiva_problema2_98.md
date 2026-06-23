@@ -13,7 +13,7 @@ title: 2004 PNI Suppletiva — Problema 2 e Quesiti
 ---
 
 Fonte: p.98 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-**Cluster:** [[Probabilità e Combinatoria|Probabilità e Combinatoria]]
+**Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
 Nel Liceo Scientifico "Torricelli" vi sono 4 classi quinte, i cui alunni sono distribuiti per sezione e per sesso in base alla seguente tabella:

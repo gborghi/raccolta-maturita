@@ -13,7 +13,7 @@ title: 1999 Estero — Problema 3
 ---
 
 Fonte: p.24 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 a) Fornire la definizione di piramide retta.

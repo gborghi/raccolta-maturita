@@ -13,7 +13,7 @@ title: 2008 Estero Europa Ordinaria — Questionario
 ---
 
 Fonte: p.55 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il candidato risolva uno dei due problemi e risponda a 4 degli 8 quesiti del questionario.

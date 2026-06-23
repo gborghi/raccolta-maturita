@@ -16,12 +16,6 @@ Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2015_simulazione___25_febbraio_2015_problema1_150/2015_simulazione___25_febbraio_2015_problema1_150_fig.svg]]
-*Grafico della velocità v(t) in funzione del tempo: parabola con asse di simmetria t=5, vertice V(5,30) e passante per A(0,5).*
-
-<!--fig:end-->
-
 25-FEBBRAIO-2015_Problema1_150
 parent_node: prova_2015_simulazione___25_febbraio_2015_problema1_150
 tipo_item: Problema

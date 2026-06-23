@@ -13,7 +13,7 @@ title: 2001 Suppletiva PNI — Problema 2
 ---
 
 Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Una industria commercializza un suo prodotto confezionandolo in lattine realizzate utilizzando fogli di una lamierina molto sottile. Ciascuna lattina, di assegnata capacità, ha la forma di un cilindro circolare retto. Trascurando lo spessore del materiale, il candidato determini:

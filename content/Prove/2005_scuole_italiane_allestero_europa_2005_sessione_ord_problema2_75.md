@@ -13,7 +13,7 @@ title: 2005 Europa Ordinaria — Problema 2
 ---
 
 Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
+**Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
 Siano date la parabola $\lambda$ e la retta $r$ d'equazioni rispettive $y = x^2 + 1$ e $y = x - 1$.

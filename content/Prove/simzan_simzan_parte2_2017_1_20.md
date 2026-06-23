@@ -13,15 +13,9 @@ title: 'Simulazione Zanichelli 2017 — SimZan parte2 #1'
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/simzan_simzan_parte2_2017_1_20/simzan_simzan_parte2_2017_1_20_fig.svg]]
-*Figura 1: profilo della facciata (tetto) nel piano cartesiano sull'intervallo $[-10;10]$, con vertice in $(0,4)$ e le due rette tangenti tratteggiate uscenti dal vertice.*
-
-<!--fig:end-->
 
 Il tuo comune ha commissionato allo studio di progettazione Urban2000 il recupero di un capannone in stile modernista per realizzarne una sala polivalente ed uno spazio espositivo.
 

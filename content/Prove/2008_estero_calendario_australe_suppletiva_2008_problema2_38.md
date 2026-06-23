@@ -13,7 +13,7 @@ title: 2008 Estero Australe Suppletiva — Problema 2
 ---
 
 Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È assegnato il settore circolare $AOB$ con $\overline{OB} = \overline{OA} = r$ e $A\hat{O}B = 60°$.

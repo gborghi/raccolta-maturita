@@ -16,12 +16,6 @@ Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
-<!--fig:start-->
-![[_attachments/2016_liceo_scientifico_2016_problema1_22/2016_liceo_scientifico_2016_problema1_22_fig.svg]]
-*Figura 2: profilo laterale del serbatoio con punto angoloso B alla sommità, asse di simmetria AB e angolo $\vartheta$; base da $-1$ a $1$.*
-
-<!--fig:end-->
-
 L'amministratore di un piccolo condominio deve installare un nuovo serbatoio per il gasolio da riscaldamento. Non essendo soddisfatto dei modelli esistenti in commercio, ti incarica di progettarne uno che risponda alle esigenze del condominio.
 
 *(figura nel PDF)*

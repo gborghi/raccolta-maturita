@@ -13,15 +13,9 @@ title: 2023 Ordinaria — Prova
 ---
 
 Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
-**Cluster:** [[Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
+**Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 ## Problema 1
-
-<!--fig:start-->
-![[_attachments/2023_sessione_ordinaria_2023_prova_1/2023_sessione_ordinaria_2023_prova_1_fig.svg]]
-*Grafico di $y=f(x)$: arco di parabola $\Gamma_1$ su $[-2,0]$, arco di circonferenza $\Gamma_2$ su $[0,1]$ e arco di iperbole $\Gamma_3$ su $[1,2]$.*
-
-<!--fig:end-->
 
 Il grafico in figura, rappresentativo della funzione continua $y=f(x)$, è unione dell'arco di parabola $\Gamma_1$, dell'arco di circonferenza $\Gamma_2$ e dell'arco di iperbole $\Gamma_3$.
 

@@ -5,17 +5,17 @@ item_id: prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_
 prova_id: prova_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53
 anno: '2008'
 pdf: Prova_Maturita_2008.pdf
-cluster: 'Successioni, Serie ed Eq. Differenziali'
+cluster: Studio di Funzione
 numero: '1'
 tags:
   - maturita/problema
   - area/analisi
-  - cluster/successioni_serie_ed_eq_differenziali
+  - cluster/studio_di_funzione
   - anno/2008
 ---
 
 Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-**Prova:** [[Prove/2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53|2008 Estero Europa Ordinaria — Problema 2]] · **Cluster:** [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
+**Prova:** [[Prove/2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53|2008 Estero Europa Ordinaria — Problema 2]] · **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 Nell'insieme delle funzioni $y=f(x)$ tali che
 $$y'=\frac{ax}{(1+4x^2)^2}$$
@@ -27,11 +27,11 @@ si trovi quella il cui grafico $\gamma$ passa per i punti $\left(\dfrac{1}{2}\,,
 
 3. Si calcoli l'area della superficie piana delimitata da $\gamma$ e dagli assi cartesiani.
 
-**Topic:** [[Equazioni Differenziali]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]]
+**Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]], [[Massimi e Minimi]]
 **Metodi:** [[Integrazione (calcolo di integrali)]], [[Studio di funzione completo]], [[Ottimizzazione ricerca di massimi e minimi|Ottimizzazione: ricerca di massimi e minimi]], [[Derivazione e calcolo di derivate]]
 **Competenze:** [[Lettura e interpretazione di grafici e funzioni]], [[Calcolo simbolico e manipolazione algebrica]], [[Ottimizzazione e ricerca dell'ottimo]]
 **Tipo funzione:** [[Razionale fratta]]
 **Soluzione:** [[Svolgimenti/sol_prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53_1|📝 Svolgimento]] · [📄 PDF p.53](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 
-#maturita/problema #area/analisi #cluster/successioni_serie_ed_eq_differenziali
+#maturita/problema #area/analisi #cluster/studio_di_funzione

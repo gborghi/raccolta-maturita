@@ -13,7 +13,7 @@ title: 2011 PNI Suppletiva — Problema 1
 ---
 
 Fonte: p.74 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È dato un quadrato $ABCD$ di lato $\overline{AB}=a$. Da $A$ si conduca una semiretta, che incontra il lato $BC$ in $E$ ed il prolungamento del lato $DC$ in $F$.

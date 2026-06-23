@@ -13,7 +13,7 @@ title: 2011 PNI Straordinaria — Problema 1
 ---
 
 Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È dato il segmento $AB = 2$. Dal punto $A$ si tracci una semiretta $s$ formante un angolo acuto $\alpha$ con la direzione $AB$ e si denoti con $C$ la proiezione ortogonale del punto $B$ sulla semiretta $s$. Si costruisca su $AC$, esternamente al triangolo $ABC$, un triangolo equilatero $ACM$.

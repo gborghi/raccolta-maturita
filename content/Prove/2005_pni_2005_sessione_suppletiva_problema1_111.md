@@ -13,7 +13,7 @@ title: 2005 PNI Suppletiva — Problema 1
 ---
 
 Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa in modo che una base sia la sezione della piramide con il piano equidistante dal suo vertice e dalla sua base.

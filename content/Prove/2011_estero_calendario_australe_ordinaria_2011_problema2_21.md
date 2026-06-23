@@ -13,7 +13,7 @@ title: 2011 Estero Australe Ordinaria — Problema 2
 ---
 
 Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 In un riferimento cartesiano $Oxy$ si consideri la semicirconferenza $\gamma$, tangente nell'origine all'asse $y$, passante per il punto $A(2,0)$ e appartenente al primo quadrante.

@@ -13,7 +13,7 @@ title: 1966 Tema di maturita
 ---
 
 Fonte: p.104 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 **Problema.** In un piano, sul quale è fissato un sistema cartesiano ortogonale $Oxy$, sono dati i punti $A(0,1)$, $B(b,0)$. Si determini sull'asse $x$ un punto $C$ tale che risulti

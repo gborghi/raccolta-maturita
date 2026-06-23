@@ -13,7 +13,7 @@ title: 2005 PNI Straordinaria — Problema 1
 ---
 
 Fonte: p.143 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Considerato un triangolo $ABC$, acutangolo e isoscele sulla base $BC$, si chiami $D$ il piede della sua altezza condotta per $C$ e si costruisca, dalla stessa parte di $A$ rispetto a $BC$, il punto $E$ in modo che il triangolo $ECD$ sia simile ad $ABC$.

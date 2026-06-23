@@ -13,7 +13,7 @@ title: 2007 Estero Australe Suppletiva — Problema 1
 ---
 
 Fonte: p.41 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il triangolo rettangolo $ABC$ ha l'ipotenusa $AB=k$ e l'angolo $B\hat{A}C=\dfrac{\pi}{3}$. Con centro in $B$ e raggio $x$ si tracci l'arco di circonferenza le cui intersezioni con i lati $BA$ e $BC$ siano, rispettivamente, $D$ ed $E$. Con centro in $A$ si tracci poi l'arco di circonferenza tangente in $D$ alla circonferenza già tracciata e che intersechi in $F$ il cateto $AC$.

@@ -13,7 +13,7 @@ title: 2005 SE Americhe Ord — Problema 1
 ---
 
 Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 Il triangolo $ABC$ è isoscele sulla base $BC$ e contiene il centro della circonferenza $k$ circoscritta ad esso. Condotta la retta $t$ tangente a $k$ in $C$, indicare con $D$ la proiezione ortogonale di $A$ su $t$ e con $E$ quella di $A$ su $BC$.

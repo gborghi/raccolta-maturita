@@ -17,12 +17,6 @@ Fonte: p.194 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 
 ## Problema 1
 
-<!--fig:start-->
-![[_attachments/2016_sessione_suppletiva_2016_prova_194/2016_sessione_suppletiva_2016_prova_194_fig.svg]]
-*Figura 1: pianta della superficie da coprire, rappresentata come regione poligonale su un riferimento con assi graduati in metri.*
-
-<!--fig:end-->
-
 Sei l'amministratore di un condominio che ha deliberato di dotarsi di una sala per le riunioni condominiali, sfruttando uno spazio comune già disponibile, da coprire e attrezzare.
 
 La superficie individuata è rappresentata in figura 1 *(figura nel PDF)*.

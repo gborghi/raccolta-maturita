@@ -13,7 +13,7 @@ title: 1928 Tema di maturità
 ---
 
 Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
-**Cluster:** [[Geometria|Geometria]]
+**Cluster:** [[Clusters/Geometria|Geometria]]
 
 
 È dato un angolo retto $X\widehat{O}Y$ e sono dati due punti $A$ e $B$ sui lati $OX$ ed $OY$ in modo che $\overline{OA} = \overline{OB}\sqrt{3}$. Determinare un punto $P$ interno all'angolo retto sapendo che l'angolo $\overline{OPA}$ è retto e che $\overline{OP}^2 + \overline{PB}^2 = k\,\overline{OB}^2$.
