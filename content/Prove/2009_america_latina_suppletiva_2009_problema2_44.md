@@ -16,6 +16,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_america_latina_suppletiva_2009_problema2_44_1|Problema 2]]*
+
 Nel piano $Oxy$ è assegnata la circonferenza $C$ di centro $O$ e raggio $1$.
 
 **a)** Si scrivano le equazioni delle rette tangenti a $C$ nei suoi punti di ascissa $\frac{1}{2}$.

@@ -16,6 +16,8 @@ Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_estero_calendario_australe_2006_sessione_ordinaria_problema2_27_1|Problema 1]]*
+
 La somma di due numeri $x$ e $y$ è uguale al loro prodotto. Riferito il piano ad un sistema di coordinate cartesiane ortogonali e monometriche $(x,y)$:
 
 1) Si trovi l'equazione cartesiana del luogo $\gamma$ dei punti $P(x,y)$ che soddisfano al problema.

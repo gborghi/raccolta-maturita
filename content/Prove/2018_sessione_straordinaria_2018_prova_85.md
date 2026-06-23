@@ -17,6 +17,8 @@ Fonte: p.85 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_straordinaria_2018_prova_85_1|Problema 1]]*
+
 Due archi illimitati di due parabole (con assi paralleli all'asse $y$ di un sistema di riferimento), ciascuno dei quali contenente il vertice della parabola, sono disposti in modo da passare per tutti e quattro i quadranti del piano e raccordarsi nell'origine, formando il grafico $\Gamma$ di una funzione:
 
 $$f(x)=\begin{cases}f_1(x) & \text{se } x<0\\ f_2(x) & \text{se } x\ge0\end{cases}$$
@@ -48,6 +50,8 @@ Il grafico $\Gamma$ interseca l'asse $x$ nell'origine $O$ e nei punti $A$ di asc
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_straordinaria_2018_prova_85_2|Problema 2]]*
+
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, così definita:
 
 $$f(x)=\ln(a\cdot e^{bx}+c)$$
@@ -74,6 +78,8 @@ al variare di $a,b,c$ parametri reali positivi.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_straordinaria_2018_prova_85_1|Quesito 1]]*
+
 1. Si dispone di due dadi uguali non bilanciati. Lanciando ciascuno dei due dadi, le probabilità di uscita dei numeri 1, 2, 3 e 4 sono pari a $k$, mentre le probabilità di uscita dei numeri 5 e 6 sono pari a $k/2$. Determinare il valore di $k$ e stabilire qual è la probabilità che, lanciando i due dadi contemporaneamente, escano due numeri uguali tra loro.
 
 **Topic:** [[Probabilita]]
@@ -83,6 +89,8 @@ al variare di $a,b,c$ parametri reali positivi.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_straordinaria_2018_prova_85_2|Quesito 2]]*
+
 2. Determinare il raggio della sfera di centro $C(2,2,2)$ tangente al piano di equazione $x+2y+z=12$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -91,6 +99,8 @@ al variare di $a,b,c$ parametri reali positivi.
 **Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_85#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.90](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_straordinaria_2018_prova_85_3|Quesito 3]]*
 
 3. Considerando la funzione $f:\mathbb{R}\to\mathbb{R}$ definita come:
 
@@ -106,6 +116,8 @@ al variare di $a,b,c$ parametri reali positivi.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_straordinaria_2018_prova_85_4|Quesito 4]]*
+
 4. Calcolare la derivata della funzione $f(x)=x\cdot\operatorname{sen}(x)$, adoperando la definizione di derivata.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -114,6 +126,8 @@ al variare di $a,b,c$ parametri reali positivi.
 **Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_85#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.91](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_straordinaria_2018_prova_85_5|Quesito 5]]*
 
 5. Determinare l'area della superficie compresa tra il grafico della funzione $f(x)=\dfrac{2x+1}{x^2+x+1}$, le rette $y=2$, $x=5$ e l'asse $y$.
 
@@ -125,6 +139,8 @@ al variare di $a,b,c$ parametri reali positivi.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_straordinaria_2018_prova_85_6|Quesito 6]]*
+
 6. Determinare l'equazione della retta tangente al grafico della funzione $f(x)=x\cdot e^{-x}$ nel suo punto di flesso.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Geometria Analitica (piano)]]
@@ -134,6 +150,8 @@ al variare di $a,b,c$ parametri reali positivi.
 **Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_85#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.92](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_straordinaria_2018_prova_85_7|Quesito 7]]*
 
 7. La variabile casuale $x$ ha densità di probabilità data dalla funzione:
 

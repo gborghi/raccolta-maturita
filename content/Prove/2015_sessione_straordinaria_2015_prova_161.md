@@ -17,6 +17,8 @@ Fonte: p.161 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_straordinaria_2015_prova_161_1|Problema 1]]*
+
 Stai seguendo un corso, nell'ambito dell'orientamento universitario, per la preparazione agli studi di Medicina. Il docente introduce la lezione dicendo che un medico ben preparato deve disporre di conoscenze, anche matematiche, che permettano di costruire modelli ed interpretare i dati che definiscono lo stato di salute e la situazione clinica dei pazienti. Al tuo gruppo di lavoro viene assegnato il compito di preparare una lezione sul tema: "come varia nel tempo la concentrazione di un farmaco nel sangue?".
 
 Se il farmaco viene somministrato per via endovenosa, si ipotizza per semplicità che la concentrazione del farmaco nel sangue raggiunga subito il valore massimo e che immediatamente inizi a diminuire, in modo proporzionale alla concentrazione stessa; nel caso che il docente ti ha chiesto di discutere, per ogni ora che passa la concentrazione diminuisce di $1/7$ del valore che aveva nell'ora precedente.
@@ -46,6 +48,8 @@ $$v(t)=k\cdot y(t)$$
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_straordinaria_2015_prova_161_2|Problema 2]]*
+
 Sia $f$ la funzione definita da $y(x)=(4x-2)\cdot e^{2x}$.
 
 1. Dimostra che la funzione possiede un unico punto di minimo e un unico punto di flesso. Calcola le coordinate del minimo e del flesso e traccia il grafico $G_f$ della funzione;
@@ -64,6 +68,8 @@ Sia $f$ la funzione definita da $y(x)=(4x-2)\cdot e^{2x}$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_1|Quesito 1]]*
+
 1. Determinare il volume del solido generato dalla rotazione attorno alla retta di equazione $y=3$ della regione di piano delimitata dalla curva di equazione $y=x^3-3x+3$ e dalla retta stessa.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -72,6 +78,8 @@ Sia $f$ la funzione definita da $y(x)=(4x-2)\cdot e^{2x}$.
 **Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.175](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_2|Quesito 2]]*
 
 2. Verificare che la funzione:
 $$f(x)=\frac{1}{3^{\frac{1}{x}}+1}$$
@@ -86,6 +94,8 @@ ha una discontinuità di terza specie ("eliminabile").
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_3|Quesito 3]]*
+
 3. Durante il picco massimo di un'epidemia di influenza il 15% della popolazione è a casa ammalato:
    a) qual è la probabilità che in una classe di 20 alunni ce ne siano più di due assenti per l'influenza?
    b) descrivere le operazioni da compiere per verificare che, se l'intera scuola ha 500 alunni, la probabilità che ce ne siano più di 50 influenzati è maggiore del 99%.
@@ -96,6 +106,8 @@ ha una discontinuità di terza specie ("eliminabile").
 **Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.176](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_4|Quesito 4]]*
 
 4. Nello spazio sono dati due piani $\alpha$ e $\beta$ rispettivamente di equazione:
 $$\alpha)\ x-3y+z-5=0$$
@@ -109,6 +121,8 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_5|Quesito 5]]*
+
 5. Considerata la parabola di equazione $y=4-x^2$, nel primo quadrante ciascuna tangente alla parabola delimita con gli assi coordinati un triangolo. Determinare il punto di tangenza in modo che l'area di tale triangolo sia minima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
@@ -118,6 +132,8 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_6|Quesito 6]]*
+
 6. Determinare la funzione densità di probabilità di una variabile casuale continua che assume valori nell'intervallo $[2,5]$ con una distribuzione uniforme. Determinare inoltre il valore medio, la varianza, la deviazione standard di tale variabile e la probabilità che sia $\dfrac{7}{3}\le x\le\dfrac{17}{4}$.
 
 **Topic:** [[Probabilita]], [[Statistica]], [[Calcolo Integrale]]
@@ -126,6 +142,8 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.178](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_7|Quesito 7]]*
 
 7. Calcolare il valor medio della funzione
 $$f(x)=\begin{cases} x-1 & 1\le x\le 3\\ e^{x-3}+1 & 3<x\le 6\end{cases}$$
@@ -138,6 +156,8 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_8|Quesito 8]]*
+
 8. Una sfera ha il raggio che aumenta al passare del tempo secondo una data funzione $r(t)$. Calcolare il raggio della sfera nell'istante in cui la velocità di crescita della superficie sferica e la velocità di crescita del raggio sono numericamente uguali.
 
 **Topic:** [[Derivate]], [[Geometria Solida]]
@@ -146,6 +166,8 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 **Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_9|Quesito 9]]*
 
 9. In un riferimento cartesiano nello spazio $Oxyz$, data la retta $r$ di equazioni:
 $$\begin{cases} x=2t+1\\ y=1+t\\ z=kt\end{cases}$$
@@ -157,6 +179,8 @@ e il piano $P$ di equazione $x+2y-z+2=0$, determinare per quale valore di $k$ la
 **Soluzione:** [[Soluzioni/2015_sessione_straordinaria_2015_prova_161#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_straordinaria_2015_prova_161_10|Quesito 10]]*
 
 10. Scrivere l'equazione della circonferenza $C$ che ha il centro sull'asse $y$ ed è tangente al grafico $G_f$ di $f(x)=x^3-3x^2$ nel suo punto di flesso.
 

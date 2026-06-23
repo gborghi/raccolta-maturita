@@ -17,6 +17,8 @@ Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_ordinaria_2005_prova_16_1|Problema 1]]*
+
 Nel primo quadrante del sistema di riferimento $Oxy$, ortogonale e monometrico, si consideri la regione $R$, finita, delimitata dagli assi coordinati e dalla parabola $\lambda$ d'equazione $y = 6 - x^2$.
 
 1. Si calcoli il volume del solido generato dalla rotazione completa di $R$ attorno all'asse $y$.
@@ -32,6 +34,8 @@ Nel primo quadrante del sistema di riferimento $Oxy$, ortogonale e monometrico, 
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_ordinaria_2005_prova_16_2|Problema 2]]*
 
 Si consideri la funzione $f$ definita sull'intervallo $[0; +\infty[$ da:
 
@@ -52,6 +56,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_1|Quesito 1]]*
+
 1. Si dimostri che il lato del decagono regolare inscritto in un cerchio è sezione aurea del raggio e si utilizzi il risultato per calcolare $\sin 18°$, $\sin 36°$.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -60,6 +66,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_2|Quesito 2]]*
 
 2. Una bevanda viene venduta in lattine, ovvero contenitori a forma di cilindro circolare retto, realizzati con fogli di latta. Se una lattina ha la capacità di $0{,}4$ litri, quali devono essere le sue dimensioni in centimetri, affinché sia minima la quantità di materiale necessario per realizzarla? (Si trascuri lo spessore della latta).
 
@@ -70,6 +78,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_3|Quesito 3]]*
+
 3. Si dimostri che la curva $y = x \sin x$ è tangente alla retta $y = x$ quando $\sin x = 1$ ed è tangente alla retta $y = -x$ quando $\sin x = -1$.
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -78,6 +88,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_4|Quesito 4]]*
 
 4. Si dimostri che tra tutti i rettangoli di dato perimetro, quello di area massima è un quadrato.
 
@@ -88,6 +100,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_5|Quesito 5]]*
+
 5. Il numero $e$ di Nepero [nome latinizzato dello scozzese John Napier (1550-1617)]: come si definisce? Perché la derivata di $e^x$ è $e^x$?
 
 **Topic:** [[Esponenziali e Logaritmi]], [[Derivate]], [[Limiti e Continuita]]
@@ -97,6 +111,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_6|Quesito 6]]*
+
 6. Come si definisce $n!$ ($n$ fattoriale) e quale ne è il significato nel calcolo combinatorio? Quale è il suo legame con i coefficienti binomiali? Perché?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -105,6 +121,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_7|Quesito 7]]*
 
 7. Se $f(x) = x^4 - 4x^3 + 4x^2 + 3$, per quanti numeri reali $k$ è $f(k) = 2$? Si illustri il ragionamento seguito.
 
@@ -116,6 +134,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_8|Quesito 8]]*
+
 8. I centri delle facce di un cubo sono i vertici di un ottaedro. È un ottaedro regolare? Quale è il rapporto tra i volumi dei due solidi?
 
 **Topic:** [[Geometria Solida]]
@@ -125,6 +145,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_9|Quesito 9]]*
+
 9. Si calcoli, senza l'aiuto della calcolatrice, il valore di $$\sin^2(35°) + \sin^2(55°)$$ ove le misure degli angoli sono in gradi sessagesimali.
 
 **Topic:** [[Trigonometria]]
@@ -133,6 +155,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_16#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.16](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_10|Quesito 10]]*
 
 10. Si dimostri, calcolandone la derivata, che la funzione $f(x) = \arctan x - \arctan\dfrac{x-1}{x+1}$ è costante, indi si calcoli il valore di tale costante.
 

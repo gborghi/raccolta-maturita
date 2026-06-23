@@ -16,6 +16,8 @@ Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_europa_2015_problema2_89_1|Problema 1]]*
+
 Sia data la famiglia di funzioni $f(x)=\ln\left(\dfrac{a-x}{x^2+4}\right)+bx$.
 
 **1)** Determina per quale valore di $a$ e $b$ il grafico della funzione passa per l'origine e ha un massimo nel punto di ascissa 2.

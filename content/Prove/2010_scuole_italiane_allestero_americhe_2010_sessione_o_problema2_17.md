@@ -16,6 +16,8 @@ Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema2_17_1|Problema 1]]*
+
 È dato il fascio di cubiche di equazione $y=kx^3-kx^2+2kx+1$, dove $k$ è un parametro reale non nullo.
 
 **1)** Si verifichi che tutte le curve del fascio hanno in comune con l'asse delle $y$ lo stesso punto $C$, di cui si chiedono le coordinate.

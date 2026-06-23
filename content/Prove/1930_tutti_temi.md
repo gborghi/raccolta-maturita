@@ -16,6 +16,8 @@ Fonte: p.78 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1930_tutti_temi_1|Problema 1]]*
+
 Un trapezio convesso, inscritto in un cerchio di raggio $r$, ha per base maggiore un diametro del cerchio. Sapendo che $k$ è il rapporto alla base maggiore della somma degli altri tre lati, determinare questi. Discutere i risultati e far vedere che di tutti i trapezi convessi inscritti nel cerchio e aventi per base maggiore un diametro, quello di perimetro massimo è il semiesagono regolare, il quale soddisfa anche alla condizione di avere area massima.
 
 Il candidato, se crede, può determinare il valore di $k$ per cui il suddetto trapezio inscritto sia anche circoscrittibile ad un cerchio, dando in questo caso la costruzione geometrica del trapezio stesso.

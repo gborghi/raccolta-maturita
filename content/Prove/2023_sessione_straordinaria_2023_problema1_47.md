@@ -16,6 +16,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_straordinaria_2023_problema1_47_1|Problema 1]]*
+
 Si consideri la famiglia di funzioni $f_n(x) = 2 - \dfrac{3}{x} + \dfrac{3}{x^n}$ con $n \in \mathbb{N}$ e $n > 1$.
 
 **a)** Verificare che tutte le curve rappresentate dalle funzioni della famiglia $f_n(x)$ passano per uno stesso punto e scrivere le sue coordinate. Determinare, in funzione del parametro $n$, le ascisse degli estremi e dei flessi e calcolarne il limite, con $n \to \infty$. Scrivere le equazioni degli asintoti e tracciare i grafici delle funzioni $f_n$, evidenziando le differenze tra i casi in cui $n$ è pari da quelli in cui $n$ è dispari.

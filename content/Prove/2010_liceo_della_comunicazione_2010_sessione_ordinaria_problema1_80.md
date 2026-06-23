@@ -16,6 +16,8 @@ Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema1_80_1|Problema 1]]*
+
 Sia $\lambda$ la parabola d'equazione $f(x) = 1 + x^2$.
 
 a) Sia $F$ il fuoco di $\lambda$ e $r$ la sua retta direttrice. Si determinino le coordinate di $F$ e l'equazione di $r$.

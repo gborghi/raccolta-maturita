@@ -16,6 +16,8 @@ Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema1_23_1|Problema 1]]*
+
 Tra i coni circoscritti ad una sfera di raggio $10$ cm, si determini:
 
 1. il cono $C$ di volume minimo e il valore, espresso in litri, di tale volume minimo;

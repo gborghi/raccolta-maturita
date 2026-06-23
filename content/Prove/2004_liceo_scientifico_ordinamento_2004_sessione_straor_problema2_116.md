@@ -16,6 +16,8 @@ Fonte: p.116 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_liceo_scientifico_ordinamento_2004_sessione_straor_problema2_116_1|Problema 1]]*
+
 In un piano, riferito a un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$y = \frac{1 + a \sin x}{\cos x}$$
 dove $a$ è un parametro reale.

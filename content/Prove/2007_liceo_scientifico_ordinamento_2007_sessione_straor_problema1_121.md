@@ -16,6 +16,8 @@ Fonte: p.121 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema1_121_1|Problema 1]]*
+
 Data una semicirconferenza di diametro $AB=2R$, si prenda sul prolungamento di $AB$, dalla parte di $B$, un punto $C$ tale che sia $BC=AB$. Essendo $P$ un punto della semicirconferenza:
 
 *(figura nel PDF)*

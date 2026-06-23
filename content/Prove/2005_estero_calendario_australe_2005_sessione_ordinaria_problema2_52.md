@@ -16,6 +16,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_estero_calendario_australe_2005_sessione_ordinaria_problema2_52_1|Problema 1]]*
+
 Il triangolo $ABC$ ha il lato $BC$ che è il doppio di $CA$ di lunghezza $k$, mentre il triangolo rettangolo $ABD$, con $D$ dalla parte opposta di $C$ rispetto ad $AB$, ha il cateto $AB$ che è il doppio di $BD$.
 
 **a)** Si esprima l'area del quadrilatero $ADBC$ in funzione dell'angolo $A\hat{C}B$.

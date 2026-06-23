@@ -17,6 +17,8 @@ Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQ
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_suppletiva_2017_prova_122_1|Problema 1]]*
+
 Un gioco si svolge su un tabellone, che è suddiviso in tre settori A, B, C, come in figura 1. *(figura nel PDF)*
 
 Nei vari settori possono essere collocate alcune pedine. I settori confinano a due a due attraverso tre varchi (rappresentati nella figura con tratti ondulati). Prima di ogni partita, per ciascun varco si effettua un sorteggio che stabilisce se esso sarà aperto oppure chiuso. La probabilità che un varco sia aperto è pari a un certo valore $x$ (lo stesso valore per tutti e tre) ed i tre sorteggi sono tra loro indipendenti.
@@ -47,6 +49,8 @@ Discutere inoltre, al variare di $x$ in $[0,1]$, quali delle tre possibilità in
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_suppletiva_2017_prova_122_2|Problema 2]]*
+
 Data una funzione $g:\mathbb{R}\to\mathbb{R}$ ovunque derivabile, consideriamo la funzione
 $$f(x)=g(x)\operatorname{sen}(2x).$$
 
@@ -70,6 +74,8 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_1|Quesito 1]]*
+
 1. Consideriamo la funzione $f(x)=e^{3-x}$. Preso un numero reale $a$, sia $R_a$ la regione illimitata formata dai punti aventi ascissa $x>a$ che sono compresi tra il grafico di $f$ e l'asse $x$. Per quale valore di $a$ l'area di $R_a$ risulta pari a 2?
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -78,6 +84,8 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 **Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_2|Quesito 2]]*
 
 2. Determinare l'equazione della retta perpendicolare nel punto $(1,0,3)$ al piano di equazione $3x+2y-z=0$.
 
@@ -88,6 +96,8 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_3|Quesito 3]]*
+
 3. Una variabile aleatoria, i cui valori appartengono all'intervallo $[0;2]$, è distribuita secondo la densità di probabilità data da $p(x)=k\cdot x^2(2-x)$, dove $k$ è una costante opportuna. Si stabilisca il valore medio della variabile aleatoria considerata.
 
 **Topic:** [[Probabilita]], [[Calcolo Integrale]]
@@ -96,6 +106,8 @@ dimostra che $H$ è finito e determina in modo approssimato il suo valore. Che c
 **Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_4|Quesito 4]]*
 
 4. Rappresentare il grafico della funzione:
 $$f(x)=\left|\frac{3-2x}{x-3}\right|$$
@@ -109,6 +121,8 @@ Verificare se negli intervalli $[0;2]$ e $[4;6]$ valgono le ipotesi del teorema 
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_5|Quesito 5]]*
+
 5. Sia $f(x)=\operatorname{sen}(x)+\cos(x)$. Determinare $f^{(2017)}(x)$, esplicitando, in modo chiaro ed esauriente, il procedimento seguito.
 
 **Topic:** [[Derivate]], [[Trigonometria]], [[Successioni e Serie]]
@@ -117,6 +131,8 @@ Verificare se negli intervalli $[0;2]$ e $[4;6]$ valgono le ipotesi del teorema 
 **Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_6|Quesito 6]]*
 
 6. Determinare la distanza tra il punto $P(6,6,8)$ e la retta:
 $$\begin{cases}x-y=2z+1\\ z=y+1\end{cases}$$
@@ -128,6 +144,8 @@ $$\begin{cases}x-y=2z+1\\ z=y+1\end{cases}$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_7|Quesito 7]]*
+
 7. Alberto e Barbara giocano lanciando un dado. Quando esce 1, 2, 3 o 4 Alberto fa 1 punto, quando esce 5 o 6 Barbara fa 2 punti. Vince chi arriva per primo a 6 punti. Qual è la probabilità che entrambi realizzino almeno 1 punto nel corso della partita? Qual è la probabilità che, in un certo momento della partita, il punteggio sia di 4 a 4?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -136,6 +154,8 @@ $$\begin{cases}x-y=2z+1\\ z=y+1\end{cases}$$
 **Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_8|Quesito 8]]*
 
 8. Stabilire se le rette:
 $$r:\ y=5x-6$$
@@ -150,6 +170,8 @@ $$y=x^3-2x^2+x+1$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_9|Quesito 9]]*
+
 9. Data la funzione:
 $$f(x)=x^2+1\qquad x\in\mathbb{R}$$
 determinare il volume del solido ottenuto dalla rotazione attorno all'asse delle $y$ della porzione di piano delimitata dal grafico di $f(x)$ e dall'asse delle ascisse per $x\in[0;3]$.
@@ -160,6 +182,8 @@ determinare il volume del solido ottenuto dalla rotazione attorno all'asse delle
 **Soluzione:** [[Soluzioni/2017_sessione_suppletiva_2017_prova_122#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_suppletiva_2017_prova_122_10|Quesito 10]]*
 
 10. Trovare una funzione $g$, il cui insieme di definizione sia un qualsiasi intervallo contenente 0, tale che:
 $$g(0)=0\quad g'(0)=0\quad g''(0)=0\quad g'''(0)=1\quad g^{(4)}(0)=1\quad g^{(5)}(0)=1$$

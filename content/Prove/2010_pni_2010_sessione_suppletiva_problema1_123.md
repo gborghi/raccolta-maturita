@@ -16,6 +16,8 @@ Fonte: p.123 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_pni_2010_sessione_suppletiva_problema1_123_1|Problema 1]]*
+
 È data una circonferenza di centro $O$ e diametro $\overline{AB}=2$. Sul prolungamento del diametro $AB$, dalla parte di $B$, si prenda un punto $P$ e da esso si conduca una tangente alla circonferenza.
 
 *(figura nel PDF)*

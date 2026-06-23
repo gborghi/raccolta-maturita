@@ -16,6 +16,8 @@ Fonte: p.57 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_americhe_emisfero_boreale_2003_sessione_suppletiva_problema2_57_1|Problema 1]]*
+
 Su una semicirconferenza di centro $O$ e diametro $AB$, lungo $2r$, dove $r$ è una lunghezza nota, si consideri un punto $P$, si conduca, parallelamente alla retta $AP$, la tangente alla semicirconferenza e si chiami $M$ il punto di contatto. Sia poi $Q$ il punto in cui questa tangente interseca quella condotta per $P$.
 
 Indicata con $x$ l'ampiezza dell'angolo $P\hat{A}B$:

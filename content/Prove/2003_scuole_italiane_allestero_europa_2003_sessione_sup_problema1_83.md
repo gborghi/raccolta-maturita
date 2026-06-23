@@ -16,6 +16,8 @@ Fonte: p.83 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_scuole_italiane_allestero_europa_2003_sessione_sup_problema1_83_1|Problema 1]]*
+
 Considerate le funzioni
 
 $$f(t)=\frac{e^t+e^{-t}}{2}\,,\qquad g(t)=\frac{e^t-e^{-t}}{2}$$

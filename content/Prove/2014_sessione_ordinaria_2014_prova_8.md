@@ -17,6 +17,8 @@ Fonte: p.8 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439h
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_prova_8_1|Problema 1]]*
+
 Nella figura a lato è disegnato il grafico $\Gamma$ di $\displaystyle g(x)=\int_0^x f(t)\,dt$ con $f$ funzione definita sull'intervallo $[0,w]$ e ivi continua e derivabile. $\Gamma$ è tangente all'asse $x$ nell'origine $O$ del sistema di riferimento e presenta un flesso e un massimo rispettivamente per $x=h$ e $x=k$. *(figura nel PDF)*
 
 1. Si determinino $f(0)$ e $f(k)$; si dica se il grafico della funzione $f$ presenta punti di massimo o di minimo e se ne tracci il possibile andamento.
@@ -33,6 +35,8 @@ Supposte fissate in decimetri le unità di misura del sistema monometrico $Oxy$,
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_prova_8_2|Problema 2]]*
+
 A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(figura nel PDF)*
 
 1. Si calcolino il massimo e il minimo assoluti di $f(x)$.
@@ -48,6 +52,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_1|Quesito 1]]*
+
 1. Nel triangolo disegnato a lato, qual è la misura, in gradi e primi sessagesimali, di $\alpha$? *(figura nel PDF)*
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -56,6 +62,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_8#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_2|Quesito 2]]*
 
 2. Si spieghi perché non esistono poliedri regolari le cui facce siano esagoni.
 
@@ -66,6 +74,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_3|Quesito 3]]*
+
 3. Nello sviluppo di $\left(2a^2-3b^3\right)^n$ compare il termine $1080\,a^4 b^9$. Qual è il valore di $n$?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -74,6 +84,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_8#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.32](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_4|Quesito 4]]*
 
 4. Un solido $\Sigma$ ha per base la regione $R$ delimitata dal grafico di $f(x)=e^{x-1}$ e dall'asse $x$ sull'intervallo $[-2,1]$. In ogni punto di $R$ di ascissa $x$, l'altezza del solido è data da $h(x)=\dfrac{1}{x^2}$. Si calcoli il volume del solido.
 
@@ -84,6 +96,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_5|Quesito 5]]*
+
 5. Dei numeri $1,2,3,\dots,6000$, quanti non sono divisibili né per 2, né per 3 né per 5?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -92,6 +106,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_8#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.8](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_6|Quesito 6]]*
 
 6. Un'azienda commercializza il suo prodotto in lattine da 5 litri a forma di parallelepipedo a base quadrata. Le lattine hanno dimensioni tali da richiedere la minima quantità di latta per realizzarle. Quali sono le dimensioni, arrotondate ai mm, di una lattina?
 
@@ -102,6 +118,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_7|Quesito 7]]*
+
 7. Il valor medio della funzione $f(x)=x^3$ sull'intervallo chiuso $[0,k]$ è $9$. Si determini $k$.
 
 **Topic:** [[Calcolo Integrale]]
@@ -110,6 +128,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_8#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.8](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_8|Quesito 8]]*
 
 8. Del polinomio di quarto grado $P(x)$ si sa che assume il suo massimo valore $3$ per $x=2$ e $x=3$ e, ancora, che $P(1)=0$. Si calcoli $P(4)$.
 
@@ -120,6 +140,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_9|Quesito 9]]*
+
 9. Si determini il dominio della funzione: $f(x)=\sqrt{3-\log_2(x+5)}$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
@@ -129,6 +151,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_8#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.8](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_8_10|Quesito 10]]*
 
 10. Si determinino i valori reali di $x$ per cui:
 $$\left(\frac{1}{5}\left(x^2-10x+26\right)\right)^{x^2-6x+5}=1$$

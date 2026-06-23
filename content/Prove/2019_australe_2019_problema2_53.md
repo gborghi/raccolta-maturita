@@ -16,6 +16,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGO
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_australe_2019_problema2_53_1|Problema 1]]*
+
 Un'onda elettromagnetica si propaga nel vuoto ed è linearmente polarizzata. Il campo elettrico dell'onda varia secondo la legge $E(x,t)=E_0\operatorname{sen}(kx-\omega t)$, in cui $\vec{E}$ è di verso lungo cui si propaga l'onda, $k$ la lunghezza d'onda e $\omega$ la pulsazione. Il campo magnetico vibra in un piano perpendicolare al campo elettrico.
 
 a) Descrivere, in modo qualitativo, il meccanismo di generazione e propagazione di un'onda elettromagnetica e specificare il significato delle costanti $E_0$, $k$, $\omega$.

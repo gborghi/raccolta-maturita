@@ -16,6 +16,8 @@ Fonte: p.104 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1966_tutti_temi_1|Problema 1]]*
+
 **Problema.** In un piano, sul quale è fissato un sistema cartesiano ortogonale $Oxy$, sono dati i punti $A(0,1)$, $B(b,0)$. Si determini sull'asse $x$ un punto $C$ tale che risulti
 
 $$\frac{|BC|}{|AC|} = \frac{4}{3}.$$

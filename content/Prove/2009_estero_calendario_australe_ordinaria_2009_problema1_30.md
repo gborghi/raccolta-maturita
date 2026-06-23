@@ -16,6 +16,8 @@ Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_estero_calendario_australe_ordinaria_2009_problema1_30_1|Problema 1]]*
+
 È assegnata la parabola $\lambda$ d'equazione $x^2 - 2y = 0$.
 
 **1)** Si disegni $\lambda$. Si determini il fuoco e la direttrice illustrandone le rispettive proprietà.

@@ -17,6 +17,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1952_tutti_temi_1|Problema 1]]*
+
 Il punto $O$ è l'ortocentro del triangolo $ABC$ del quale sono assegnati l'angolo $B\hat{A}C$ di ampiezza $\alpha$, il segmento $AO$ di lunghezza $s$. Indicata con $x$ l'ampiezza dell'angolo $C\hat{A}O$, si esprimano per mezzo di $s$, $\alpha$, $x$ le lunghezze dei tre lati del triangolo e quelle dei segmenti $OB$, $OC$. Supposto che l'angolo $\alpha$ abbia il coseno eguale a $1/3$, si determini l'angolo $x$ in modo che si abbia:
 
 $$2\cdot|OB| + 3\cdot|OC| = k\cdot|BC|$$
@@ -29,6 +31,8 @@ essendo $k$ un numero reale positivo dato. Nella discussione il candidato può l
 **Fonte:** [📄 Testo (PDF) — p.94](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1952_tutti_temi_2|Problema 2]]*
 
 È dato un triangolo $ABC$, del quale si conoscono: il lato $BC$ di lunghezza $a$ e gli angoli di vertici $B$ e $C$ di ampiezza $60°$ e $45°$ rispettivamente. Condotta per il vertice $A$ una retta $r$ non secante il triangolo, si consideri il solido ottenuto mediante una rotazione completa del triangolo attorno ad $r$. Si trovi il volume $V$ del solido in funzione dell'angolo $x$ che una delle semirette di $r$, di origine $A$, forma col lato $AB$; indi si verifichi l'esattezza dell'espressione di $V$ considerando qualche posizione particolarmente notevole della retta $r$ (per esempio: $r$ parallela a $BC$). Per quali valori di $x$ il volume $V$ assume il valore massimo o minimo? In questi casi estremi, qual è l'angolo che la retta $r$ forma con la mediana $AM$, relativa al lato $BC$?
 

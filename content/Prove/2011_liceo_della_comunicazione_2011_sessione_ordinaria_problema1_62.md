@@ -16,6 +16,8 @@ Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_liceo_della_comunicazione_2011_sessione_ordinaria_problema1_62_1|Problema 1]]*
+
 Nel sistema di riferimento $Oxy$, sia $\Gamma$ il grafico della funzione definita su $\mathbb{R}$ da
 $$f(x) = (1 - x^2)e^{-x}.$$
 

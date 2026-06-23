@@ -16,6 +16,8 @@ Fonte: p.13 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_liceo_scientifico_2018_problema2_13_1|Problema 1]]*
+
 Consideriamo $f_k(x): \mathbb{R} \to \mathbb{R}$ così definita:
 
 $$f_k(x) = -x^3 + kx + 9, \quad \text{con } k \in \mathbb{Z}.$$

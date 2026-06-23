@@ -16,6 +16,8 @@ Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_liceo_della_comunicazione_2012_sessione_ordinaria_problema2_45_1|Problema 1]]*
+
 Siano $f$ e $g$ le funzioni definite, per tutti gli $x$ reali, da
 
 $$f(x)=|8x^3| \qquad e \qquad g(x)=\operatorname{sen}(\pi x)$$

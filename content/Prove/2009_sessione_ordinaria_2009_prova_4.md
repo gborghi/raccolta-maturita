@@ -17,6 +17,8 @@ Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_4_1|Problema 1]]*
+
 È assegnato il settore circolare $AOB$ di raggio $r$ e ampiezza $x$ ($r$ e $x$ sono misurati, rispettivamente, in metri e radianti).
 
 1. Si provi che l'area $S$ compresa fra l'arco e la corda $AB$ è espressa, in funzione di $x$, da $$S(x)=\frac{1}{2}r^2\left(x-\sin x\right)$$ con $x\in[0,\,2\pi]$.
@@ -31,6 +33,8 @@ Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_4_2|Problema 2]]*
 
 Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci il grafico $G_f$ della funzione $f(x)=\log x$ (logaritmo naturale).
 
@@ -47,6 +51,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_1|Quesito 1]]*
+
 1. Si trovi la funzione $f(x)$ la cui derivata è $\sin x$ e il cui grafico passa per il punto $(0,2)$.
 
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
@@ -56,6 +62,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_2|Quesito 2]]*
+
 2. Sono dati gli insiemi $A=\{1,2,3,4\}$ e $B=\{a,b,c\}$. Tra le possibili applicazioni (o funzioni) di $A$ in $B$, ce ne sono di suriettive? Di iniettive? Di biiettive?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -64,6 +72,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_3|Quesito 3]]*
 
 3. Per quale o quali valori di $k$ la curva d'equazione $y=x^3+kx^2+3x-4$ ha una sola tangente orizzontale?
 
@@ -75,6 +85,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_4|Quesito 4]]*
+
 4. "Esiste solo un poliedro regolare le cui facce sono esagoni". Si dica se questa affermazione è vera o falsa e si fornisca una esauriente spiegazione della risposta.
 
 **Topic:** [[Geometria Solida]]
@@ -83,6 +95,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_5|Quesito 5]]*
 
 5. Si considerino le seguenti espressioni: $$\frac{0}{1};\quad \frac{1}{0};\quad \frac{0}{0};\quad 0^0$$ A quali di esse è possibile attribuire un valore numerico? Si motivi la risposta.
 
@@ -93,6 +107,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_6|Quesito 6]]*
+
 6. Si calcoli: $$\lim_{x\to-\infty}\frac{\sqrt{x^2+1}}{x}.$$
 
 **Topic:** [[Limiti e Continuita]]
@@ -102,6 +118,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_7|Quesito 7]]*
+
 7. Si dimostri l'identità $\dbinom{n}{k}+\dbinom{n}{k+1}=\dbinom{n+1}{k+1}$ con $n$ e $k$ naturali e $n>k$.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -110,6 +128,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_8|Quesito 8]]*
 
 8. Si provi che l'equazione: $$x^{2009}+2009x+1=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
@@ -121,6 +141,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_9|Quesito 9]]*
+
 9. Nei "Discorsi e dimostrazioni matematiche intorno a due nuove scienze", Galileo Galilei descrive la costruzione di un solido che chiama *scodella* considerando una semisfera di raggio $r$ e il cilindro ad essa circoscritto. La scodella si ottiene togliendo la semisfera dal cilindro. Si dimostri, utilizzando il principio di Cavalieri, che la scodella ha volume pari al cono di vertice $V$ in figura. *(figura nel PDF)*
 
 **Topic:** [[Geometria Solida]]
@@ -129,6 +151,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si tracci
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_4_10|Quesito 10]]*
 
 10. Si determini il periodo della funzione $f(x)=\cos 5x$.
 

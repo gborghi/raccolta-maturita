@@ -16,6 +16,8 @@ Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2017_scientifico_comunicazione_opzione_sportiva_2017_problema1_54_1|Problema 1]]*
+
 Fissato $\lambda\in\mathbb{R}$, la funzione $g_\lambda$ è così definita:
 $$g_\lambda(x)=\frac{x-2}{x^2-\lambda}$$
 e si indica con $\Gamma_\lambda$ il suo grafico, in un riferimento cartesiano $Oxy$.

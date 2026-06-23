@@ -16,6 +16,8 @@ Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema1_16_1|Problema 1]]*
+
 Si fissi nel piano la semicirconferenza $\Gamma$ che ha centro in $C$ e diametro $\overline{AB}=2$ e si affrontino le seguenti questioni:
 
 1. Si determini su $\Gamma$ un punto $P$ tale che, detta $Q$ la sua proiezione ortogonale sulla tangente in $B$ a $\Gamma$, si abbia $AP+PQ=k$ ove $k$ è un parametro reale diverso da zero.

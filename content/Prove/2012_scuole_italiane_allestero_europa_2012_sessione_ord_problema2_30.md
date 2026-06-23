@@ -16,6 +16,8 @@ Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema2_30_1|Problema 1]]*
+
 Si consideri l'arco $AB$, quarta parte di una circonferenza di centro $O$ e raggio $1$.
 
 1. Sia $C$ un punto di $AB$, $M$ il punto medio della corda $AC$ e $D$ il punto di incontro delle rette $OM$ e $BC$. Si provi che il triangolo $CMD$ è rettangolo isoscele qualunque sia la scelta di $C$ sull'arco $AB$, e, successivamente, si esprima in funzione di $x=\overline{AC}$ il rapporto

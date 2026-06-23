@@ -16,6 +16,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema2_47_1|Problema 1]]*
+
 Dopo aver riferito il piano ad un sistema di assi cartesiani ortogonali $Oxy$:
 
 **a)** Tra le iperboli di equazione $xy=k$ indicare con $j$ quella che passa per il punto $A(1;3)$ e chiamare $B$ il suo punto di ascissa $-3$.

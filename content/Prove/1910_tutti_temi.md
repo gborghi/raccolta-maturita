@@ -17,6 +17,8 @@ Fonte: p.57 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1910_tutti_temi_2|Problema 1]]*
+
 I punti $ABCD$ sono vertici successivi d'un quadrato di lato $a$.
 
 A quale distanza da $A$ sulla retta indefinita $AB$ si trova un punto $P$ in modo che sia
@@ -32,6 +34,8 @@ dove $m$ è un numero dato?
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1910_tutti_temi_4|Problema 1]]*
+
 In un triangolo rettangolo l'ipotenusa e i cateti sono in progressione geometrica. Calcolare e costruire geometricamente il coseno dell'angolo che l'ipotenusa forma col cateto più piccolo. Trovare poi le lunghezze dei lati supponendo data la somma di due qualunque di essi.
 
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
@@ -40,6 +44,8 @@ In un triangolo rettangolo l'ipotenusa e i cateti sono in progressione geometric
 **Fonte:** [📄 Testo (PDF) — p.57](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1910_tutti_temi_1|Problema 2]]*
 
 I punti $ABCD$ sono vertici consecutivi d'un rettangolo, di cui si conosce il perimetro $2p$.
 
@@ -56,6 +62,8 @@ Dato il rapporto $m$ tra la superficie totale del cilindro e quella del cono, si
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1910_tutti_temi_3|Problema 2]]*
+
 In un circolo di raggio $R$ è inscritto un triangolo $ACB$ rettangolo in $C$, e l'ipotenusa $\overline{AB}$ si proietta in $\overline{A'B'}$ sulla tangente in $C$.
 
 Trovare i valori dei cateti $|\overline{CA}| = x$, $|\overline{CB}| = y$, in modo che il volume del tronco di cono generato dalla rotazione del trapezio $AA'B'B$ intorno ad $\overline{A'B'}$ abbia un dato rapporto $m$ con il volume della sfera di diametro $\overline{A'B'}$.
@@ -67,6 +75,8 @@ Trovare i valori dei cateti $|\overline{CA}| = x$, $|\overline{CB}| = y$, in mod
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1910_tutti_temi_5|Problema 2]]*
+
 Dato il diametro $\overline{AB}$, di lunghezza $2R$, d'una circonferenza, a qual distanza dal centro $O$ bisogna condurre la corda $\overline{CD}$ perpendicolare ad $\overline{AB}$, acciocché la differenza delle aree dei triangoli che hanno per base la corda e per vertici opposti gli estremi del diametro sia uguale ad $mR^2$, dove $m$ è un numero?
 
 Mostrare che per $m = \sqrt{3}/4$ la corda sottende al centro un angolo di $60°$ o di $120°$.
@@ -77,6 +87,8 @@ Mostrare che per $m = \sqrt{3}/4$ la corda sottende al centro un angolo di $60°
 **Fonte:** [📄 Testo (PDF) — p.57](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 3
+
+*↳ Nota atomica: [[Problemi/prob_1910_tutti_temi_6|Problema 3]]*
 
 Due corde $\overline{AB}$, $\overline{CD}$ d'un circolo si tagliano perpendicolarmente in un punto interno $O$ di esso. Determinare le lunghezze delle due corde conoscendone la somma $a$ e sapendo che l'area comune dei rettangoli contenuti dai segmenti $\overline{OA}$, $\overline{OB}$ e $\overline{OC}$, $\overline{OD}$ è $b^2$.
 

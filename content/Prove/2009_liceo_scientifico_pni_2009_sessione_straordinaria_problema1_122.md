@@ -16,6 +16,8 @@ Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_liceo_scientifico_pni_2009_sessione_straordinaria_problema1_122_1|Problema 1]]*
+
 Dato il triangolo $ABC$, rettangolo in $C$, di cateti $3$ e $4$, si consideri una retta passante per $C$, non secante il triangolo e formante un angolo $x$ con il cateto $AC$.
 
 **1.** Dette $A'$ e $B'$ le proiezioni ortogonali di $A$ e $B$ su tale retta, si esprima mediante $t=\operatorname{tg}(x/2)$ il perimetro $y$ del quadrilatero $AA'B'B$, controllando che risulta:

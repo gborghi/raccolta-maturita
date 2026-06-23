@@ -16,6 +16,8 @@ Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema2_18_1|Problema 1]]*
+
 Sia $f$ la funzione definita da:
 
 $$f(x)=\frac{x+a}{bx^2+cx+2} \qquad (1)$$

@@ -16,6 +16,8 @@ Fonte: p.98 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1958_tutti_temi_1|Problema 1]]*
+
 [Conclusione del problema precedente] essendo $m$ un numero positivo.
 
 NB. Si assuma come incognita l'angolo $\widehat{CAB}$ e si tenga presente che l'angolo $\widehat{ACB}$, una volta fissata la corda $AB$, è da considerarsi noto.

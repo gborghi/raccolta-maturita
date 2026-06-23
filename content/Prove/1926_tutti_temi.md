@@ -16,6 +16,8 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1926_tutti_temi_1|Problema 1]]*
+
 La base maggiore, il lato obliquo e la base minore di un trapezio isoscele formano una progressione aritmetica. Determinare il lato obliquo e la ragione della progressione sapendo che la somma dei lati obliqui e della base minore è $a$ e che la somma dei quadrati dei quattro lati è $2b^2$. Dire come deve scegliersi $b$ affinché, dato $a$, il problema sia possibile.
 
 Essendo $a$, $b$, $c$, i lati di un triangolo ($a > b > c$) determinare $x$ in modo che $a - x$, $b - x$, $c - x$ siano i lati di un triangolo rettangolo. Discutere i risultati e farne qualche applicazione numerica in modo che risultino interi i valori dei lati del triangolo rettangolo.

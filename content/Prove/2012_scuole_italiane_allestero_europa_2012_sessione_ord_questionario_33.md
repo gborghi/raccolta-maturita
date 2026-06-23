@@ -17,6 +17,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_1|Quesito 1]]*
+
 **Quesito 1.** Quante sono tutte le funzioni iniettive da un insieme $A$ di $n$ elementi in un insieme $B$ di $m$ elementi?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -25,6 +27,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_2|Quesito 2]]*
 
 **Quesito 2.** Tra tutti i settori circolari che hanno un perimetro di $100$ metri, si determini quello di area massima.
 
@@ -35,6 +39,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_3|Quesito 3]]*
+
 **Quesito 3.** Sia $R$ la regione del piano racchiusa tra il grafico di $y=\sqrt{x-1}$, la retta $x=10$ e l'asse $x$. Si trovi il volume del solido generato da $R$ nella rotazione attorno alla retta $y=1$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -43,6 +49,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_4|Quesito 4]]*
 
 **Quesito 4.** Si determini l'equazione della normale alla curva $y=e^{-x}$ nel suo punto di ascissa $x=\ln 4$.
 
@@ -53,6 +61,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_5|Quesito 5]]*
+
 **Quesito 5.** Fra tutti i parallelepipedi a base quadrata con diagonale di misura $d$, si determini quello di volume massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -61,6 +71,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.35](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_6|Quesito 6]]*
 
 **Quesito 6.** Si calcoli:
 
@@ -73,6 +85,8 @@ $$\lim_{x\to 0}\frac{\tan(3x)+3x}{\operatorname{sen}(5x)}$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_7|Quesito 7]]*
+
 **Quesito 7.** Sia $AB$ un segmento di lunghezza $20\,\text{dm}$. Si determini il luogo dei punti $C$ dello spazio tali che $A\hat{B}C$ sia retto e $B\hat{A}C$ misuri $60°$.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
@@ -81,6 +95,8 @@ $$\lim_{x\to 0}\frac{\tan(3x)+3x}{\operatorname{sen}(5x)}$$
 **Soluzione:** [[Soluzioni/2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2012_scuole_italiane_allestero_europa_2012_sessione_ord_questionario_33_8|Quesito 8]]*
 
 **Quesito 8.** Quanti sono i numeri di $6$ cifre che contengono: $2$ volte esatte la cifra $1$, $2$ volte esatte la cifra $2$ e non contengono la cifra $0$?
 

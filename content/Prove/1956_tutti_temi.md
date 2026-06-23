@@ -16,6 +16,8 @@ Fonte: p.97 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1956_tutti_temi_1|Problema 1]]*
+
 Siano date le due curve:
 
 $$C_1, \ \text{di equazione } y = -\frac{x^2 - a}{2}, \qquad C_2, \ \text{di equazione } y = \frac{b}{x}.$$

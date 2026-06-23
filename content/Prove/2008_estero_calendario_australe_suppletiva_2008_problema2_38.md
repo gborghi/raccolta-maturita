@@ -16,6 +16,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_estero_calendario_australe_suppletiva_2008_problema2_38_1|Problema 1]]*
+
 È assegnato il settore circolare $AOB$ con $\overline{OB} = \overline{OA} = r$ e $A\hat{O}B = 60°$.
 
 **a)** Sia $CDLK$ il rettangolo inscritto nel settore circolare con il lato $CD$ su $OA$. Si esprimano in funzione di $A\hat{O}L = x$ le dimensioni del rettangolo.

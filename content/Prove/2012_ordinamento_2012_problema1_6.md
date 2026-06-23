@@ -16,6 +16,8 @@ Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrC
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_ordinamento_2012_problema1_6_1|Problema 1]]*
+
 Siano $f$ e $g$ le funzioni definite, per tutti gli $x$ reali, da
 
 $$f(x)=|27x^3| \qquad e \qquad g(x)=\operatorname{sen}\!\left(\frac{3}{2}\pi x\right)$$

@@ -16,6 +16,8 @@ Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_estero_vecchio_ordinamento_2015_problema2_70_1|Problema 1]]*
+
 Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con $F$ e $G$ i loro grafici in un riferimento cartesiano $Oxy$:
 
 **1)** stabilisci dominio e codominio delle funzioni $f$ e $g$, e traccia quindi i grafici relativi alle funzioni $a(x)=f(g(x))$ e $b(x)=g(f(x))$.

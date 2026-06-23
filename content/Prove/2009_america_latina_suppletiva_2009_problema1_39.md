@@ -16,6 +16,8 @@ Fonte: p.39 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_america_latina_suppletiva_2009_problema1_39_1|Problema 1]]*
+
 L'ellisse $\Sigma$ ha equazione $x^2 + 4y^2 - 4 = 0$.
 
 **a)** Si determinino le coordinate dei vertici e dei fuochi, le lunghezze degli assi e l'eccentricità.

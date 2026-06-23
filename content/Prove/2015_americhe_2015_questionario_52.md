@@ -17,6 +17,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_1|Quesito 1]]*
+
 **Quesito 1.** Determinare il volume del solido generato dalla rotazione attorno alla retta di equazione $y=3$ della regione di piano delimitata dalla curva di equazione $y=x^3-3x+3$ e dalla retta stessa.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -25,6 +27,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_2|Quesito 2]]*
 
 **Quesito 2.** Verificare che la funzione:
 $$f(x)=\frac{1}{3^{\frac{1}{x}}+1}$$
@@ -39,6 +43,8 @@ ha una discontinuità di terza specie ("eliminabile").
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_3|Quesito 3]]*
+
 **Quesito 3.** Durante il picco massimo di un'epidemia di influenza il 15% della popolazione è a casa ammalato:
 a) qual è la probabilità che in una classe di 20 alunni ce ne siano più di due assenti per l'influenza?
 b) descrivere le operazioni da compiere per verificare che, se l'intera scuola ha 500 alunni, la probabilità che ce ne siano più di 50 influenzati è maggiore del 99%.
@@ -49,6 +55,8 @@ b) descrivere le operazioni da compiere per verificare che, se l'intera scuola h
 **Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_4|Quesito 4]]*
 
 **Quesito 4.** Nello spazio sono dati due piani $\alpha$ e $\beta$ rispettivamente di equazione:
 $$\alpha)\quad x-3y+z-5=0$$
@@ -62,6 +70,8 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_5|Quesito 5]]*
+
 **Quesito 5.** Considerata la parabola di equazione $y=4-x^2$, nel primo quadrante ciascuna tangente alla parabola delimita con gli assi coordinati un triangolo. Determinare il punto di tangenza in modo che l'area di tale triangolo sia minima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
@@ -71,6 +81,8 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_6|Quesito 6]]*
+
 **Quesito 6.** Determinare la funzione densità di probabilità di una variabile casuale continua che assume valori nell'intervallo $[2,5]$ con una distribuzione uniforme. Determinare inoltre il valore medio, la varianza, la deviazione standard di tale variabile e la probabilità che sia $\dfrac{7}{3}\le x\le\dfrac{17}{4}$.
 
 **Topic:** [[Probabilita]], [[Statistica]]
@@ -79,6 +91,8 @@ Dopo aver determinato l'equazione parametrica della retta $r$ da essi individuat
 **Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_7|Quesito 7]]*
 
 **Quesito 7.** Calcolare il valor medio della funzione
 $$f(x)=\begin{cases}x-1 & 1\le x\le 3\\ e^{x-3}+1 & 3<x\le 6\end{cases}$$
@@ -91,6 +105,8 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_8|Quesito 8]]*
+
 **Quesito 8.** Una sfera ha il raggio che aumenta al passare del tempo secondo una data funzione $r(t)$. Calcolare il raggio della sfera nell'istante in cui la velocità di crescita della superficie sferica e la velocità di crescita del raggio sono numericamente uguali.
 
 **Topic:** [[Derivate]], [[Geometria Solida]]
@@ -99,6 +115,8 @@ nell'intervallo $[1,6]$ e determinare il valore della $x$ in cui la funzione ass
 **Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_9|Quesito 9]]*
 
 **Quesito 9.** In un riferimento cartesiano nello spazio $Oxyz$, data la retta $r$ di equazioni:
 $$\begin{cases}x=2t+1\\ y=1+t\\ z=kt\end{cases}$$
@@ -110,6 +128,8 @@ e il piano $P$ di equazione $x+2y-z+2=0$, determinare per quale valore di $k$ la
 **Soluzione:** [[Soluzioni/2015_americhe_2015_questionario_52#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2015_americhe_2015_questionario_52_10|Quesito 10]]*
 
 **Quesito 10.** Scrivere l'equazione della circonferenza $C$ che ha il centro sull'asse $y$ ed è tangente al grafico $G_f$ di $f(x)=x^3-3x^2$ nel suo punto di flesso.
 

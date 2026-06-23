@@ -16,6 +16,8 @@ Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_scuole_italiane_allestero_europa_2007_sessione_ord_problema2_63_1|Problema 1]]*
+
 Si consideri la funzione $f$ così definita: $$f(x)=\begin{cases}\dfrac{3-x^2}{2}&\text{se }x\le 1\\[2mm]\dfrac{1}{x}&\text{se }x>1\end{cases}$$
 
 1. Si disegni il grafico di $f$.

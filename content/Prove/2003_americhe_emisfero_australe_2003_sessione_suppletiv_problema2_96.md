@@ -16,6 +16,8 @@ Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_americhe_emisfero_australe_2003_sessione_suppletiv_problema2_96_1|Problema 1]]*
+
 Fra i coni circolari retti circoscritti ad una sfera di raggio $6$ cm, determinate:
 
 **a)** Il cono $C$ di volume minimo e il valore, espresso in litri, di tale volume minimo.

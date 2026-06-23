@@ -16,6 +16,8 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_suppletiva_2023_problema2_76_1|Problema 1]]*
+
 Sono assegnate due funzioni polinomiali $y=P(x)$ e $y=Q(x)=kP(x)$, con $k$ parametro reale, i cui grafici rappresentativi sono mostrati in figura in fondo al problema. *(figura nel PDF)*
 
 È noto che:

@@ -16,6 +16,8 @@ Fonte: p.74 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGO
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_boreale_2019_problema2_74_1|Problema 1]]*
+
 In uno dei possibili modelli per descrivere l'effetto della resistenza dell'aria in un moto di caduta libera, si suppone che il modulo della forza di attrito $F$, opposta alla forza peso, risulti
 $$F=k\cdot[v(t)]^2$$
 dove $v(t)$ indica la velocità di caduta all'istante $t$ e $k$ è una costante positiva. Tutte le grandezze fisiche presenti sono espresse nelle unità di misura del S.I. Nell'ipotesi che tale modello sia applicabile, il modulo della velocità di caduta in ciascun istante è esprimibile con una funzione della forma

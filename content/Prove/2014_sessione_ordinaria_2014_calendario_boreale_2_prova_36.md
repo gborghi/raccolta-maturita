@@ -17,6 +17,8 @@ Fonte: p.36 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_1|Problema 1]]*
+
 Si consideri la funzione $f(x)=\left|e^{2x}-3e^x\right|$.
 
 1. Si mostri che $\displaystyle\lim_{x\to-\infty} f(x)=0$ e $\displaystyle\lim_{x\to+\infty} f(x)=+\infty$.
@@ -31,6 +33,8 @@ Si consideri la funzione $f(x)=\left|e^{2x}-3e^x\right|$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_2|Problema 2]]*
 
 I lati di un triangolo rettangolo misurano $k$, $2k$ e $k\sqrt5$, essendo $k$ un numero reale positivo.
 
@@ -48,6 +52,8 @@ $$f(x)=\frac{x^2}{4-x^2}$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_1|Quesito 1]]*
+
 1. Si calcoli:
 $$\lim_{x\to 1}\frac{\sqrt{x}-1}{\ln x^2}$$
 
@@ -57,6 +63,8 @@ $$\lim_{x\to 1}\frac{\sqrt{x}-1}{\ln x^2}$$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_2|Quesito 2]]*
 
 2. Per quali valori reali di $x$ è:
 $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
@@ -68,6 +76,8 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_3|Quesito 3]]*
+
 3. È possibile che nello sviluppo della potenza $\left(2a^2-3b^3\right)^7$ compaia il monomio $ka^{10}b^9$? E il monomio $ka^8b^8$? ($k$ numero reale). Nel caso affermativo si trovi il valore di $k$ motivando esaurientemente la risposta.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -76,6 +86,8 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_4|Quesito 4]]*
 
 4. Sia $R$ la regione racchiusa tra $y=e^{2x}$ e $y=0$ per $0\le x\le 1$. Si calcoli il volume del solido ottenuto dalla rotazione completa di $R$ attorno all'asse $x$.
 
@@ -86,6 +98,8 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_5|Quesito 5]]*
+
 5. Si provi l'identità: $\operatorname{arctg}x+\operatorname{arctg}y=\operatorname{arctg}\dfrac{x+y}{1-xy}$.
 
 **Topic:** [[Trigonometria]]
@@ -94,6 +108,8 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_6|Quesito 6]]*
 
 6. Si trovi la capacità in litri della sfera inscritta in un cono di raggio di base $6$ dm e altezza $9$ dm.
 
@@ -104,6 +120,8 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_7|Quesito 7]]*
+
 7. Sapendo che $\cos x=\dfrac{e^{ix}+e^{-ix}}{2}$ e $\operatorname{sen}x=\dfrac{e^{ix}-e^{-ix}}{2i}$ (ove è $i^2=-1$) si dimostri che: $\cos^2 x+\operatorname{sen}^2 x=1$.
 
 **Topic:** [[Trigonometria]], [[Esponenziali e Logaritmi]]
@@ -112,6 +130,8 @@ $$\frac{1}{10}\left(x^2+3x+10\right)^{x^2-4x+1}\ge 1\,?$$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_2_prova_36_8|Quesito 8]]*
 
 8. Quanti colori si possono formare mediante le combinazioni dei sette colori fondamentali dello spettro? (contando, cioè, i colori presi separatamente e a 2 a 2, a 3 a 3, ..., a 7 a 7).
 

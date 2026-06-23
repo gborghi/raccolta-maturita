@@ -17,6 +17,8 @@ Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdB
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2015_15_147_1|Problema 1]]*
+
 È stata condotta un'indagine su un gruppo di studenti di una scuola superiore; a ciascuno studente è stato chiesto di registrare, nel corso di una settimana, la durata totale di tutte le conversazioni telefoniche effettuate e ricevute tramite il proprio cellulare. I dati raccolti sono stati riassunti nell'istogramma sottostante, in cui l'altezza di ogni rettangolo rappresenta il numero di studenti che hanno dichiarato una durata totale delle conversazioni settimanali maggiore di $t$ ore e minore o uguale di $t+1$ ore. La spezzata in colore, che congiunge i punti corrispondenti ai valori centrali di ogni classe, è il grafico di una funzione di $t$, lineare a tratti, detta *poligono delle frequenze*.
 
 *(figura nel PDF)*
@@ -49,6 +51,8 @@ f) Calcola la percentuale di studenti che hanno dichiarato una durata delle conv
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2015_15_147_2|Problema 2]]*
+
 Nel sito web della stazione meteorologica cittadina sono stati pubblicati, come ogni giorno, due grafici. Il primo grafico visualizza la distribuzione locale della pressione atmosferica al suolo mediante linee di livello (isobare) che uniscono i punti aventi la stessa pressione (misurata in kilopascal, kPa). Le linee di livello corrispondono a valori consecutivi della pressione atmosferica $(100, 101, 102, \dots)$. La diagonale $AB$ passa per i punti $L$ e $H$, dove la pressione assume rispettivamente un minimo (100 kPa) e un massimo (120 kPa). Il secondo grafico rappresenta l'andamento della pressione $p(x)$ in funzione della posizione $x$ lungo la diagonale $AB$ ($x$ è espresso in kilometri, con origine in $A$).
 
 *(figure nel PDF)*
@@ -76,6 +80,8 @@ e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane dell
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_1|Quesito 1]]*
+
 1. Esiste un valore della costante reale $a$ per il quale l'equazione differenziale $xy''+ay'=2x-1$ abbia come soluzione la funzione $y(x)=x\ln x$? Motiva la risposta.
 
 **Topic:** [[Equazioni Differenziali]], [[Derivate]]
@@ -84,6 +90,8 @@ e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane dell
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_2|Quesito 2]]*
 
 2. Una vasca cubica di 2 m per lato contiene inizialmente 2 m³ d'acqua. A un istante $t=0$ si apre un rubinetto che immette acqua nella vasca al ritmo costante di 10 m³ all'ora e nello stesso istante si apre lo scarico della vasca. Sapendo che l'acqua defluita dallo scarico dopo $t$ ore è pari a $10\left(t-1+e^{-t}\right)$ m³, qual è il massimo livello raggiunto dall'acqua nella vasca? La vasca finirà per svuotarsi?
 
@@ -94,6 +102,8 @@ e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane dell
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_3|Quesito 3]]*
+
 3. Dato nel riferimento $Oxyz$ il piano $\alpha$ di equazione $2x+2\sqrt{3}\,y+2\sqrt{2}\,z-4=0$ e dette $A$, $B$, $C$ le sue intersezioni con gli assi $x$, $y$ e $z$, calcola l'area del triangolo $ABC$ e la distanza di $O$ dal piano $\alpha$, poi determina il volume della piramide $ABCO$.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Solida]]
@@ -102,6 +112,8 @@ e) In tale riferimento ricava le equazioni parametriche e quelle cartesiane dell
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_4|Quesito 4]]*
 
 4. Sia $f(x)$ una funzione definita e continua in $\mathbb{R}$ tale che $\displaystyle\lim_{x\to 0}\frac{f(x)-1}{x}=2$. Calcola, giustificando il procedimento, il seguente limite:
 $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
@@ -113,6 +125,8 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_5|Quesito 5]]*
+
 5. Data la funzione $f(x)=\dfrac{4}{x^2+1}$, ricava le equazioni di tutte le rette tangenti al suo grafico passanti per il punto $A(0;4)$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -122,6 +136,8 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_6|Quesito 6]]*
+
 6. Data la funzione $f(x)=a\sqrt{x^2-9}$, determina per quale valore della costante reale positiva $a$ i solidi ottenuti ruotando di 360° il sottografico di $f(x)$ compreso tra le ascisse $x=0$ e $x=4$ prima intorno all'asse $x$ poi intorno all'asse $y$ risultano equivalenti.
 
 **Topic:** [[Calcolo Integrale]]
@@ -130,6 +146,8 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_7|Quesito 7]]*
 
 7. Considera la funzione $f(x)=x\sqrt{1-x}$.
    a) Stabilisci se $f(x)$ soddisfa le ipotesi del teorema di Rolle nell'intervallo $[-1;1]$.
@@ -143,6 +161,8 @@ $$\lim_{x\to 0}\frac{\int_0^{x^2} f(t)\,dt}{x^2}.$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_8|Quesito 8]]*
+
 8. Nella figura a fianco sono riportati i grafici di una funzione $f(x)$, della sua derivata prima $f'(x)$ e della derivata seconda $f''(x)$. Associa $f(x)$, $f'(x)$ e $f''(x)$ al giusto grafico. Se uno dei tre grafici ha equazione
 $$y=\frac{2(1-x^2)}{(x^2+1)^2},$$
 determina le equazioni degli altri due. *(figura nel PDF)*
@@ -155,6 +175,8 @@ determina le equazioni degli altri due. *(figura nel PDF)*
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_9|Quesito 9]]*
+
 9. In un quiz televisivo un concorrente deve rispondere a 10 domande, ciascuna delle quali ha 4 risposte possibili fra cui una sola è corretta. Rispondendo a caso, qual è la probabilità che il concorrente dia la risposta corretta a esattamente 6 domande, sufficienti per passare al gioco successivo?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -163,6 +185,8 @@ determina le equazioni degli altri due. *(figura nel PDF)*
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2015_15_147#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2015_15_147_10|Quesito 10]]*
 
 10. Si lanciano 5 dadi regolari a sei facce. Detto $x$ il numero di dadi che presentano un valore maggiore o uguale a 3, si compili la tabella della distribuzione di probabilità della variabile casuale $X=x$ e se ne ricavino il valore medio e la deviazione standard.
 

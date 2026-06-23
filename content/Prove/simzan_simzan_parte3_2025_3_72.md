@@ -17,6 +17,8 @@ Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1r
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte3_2025_3_72_1|Problema 1]]*
+
 Sia $f_a(x)=\dfrac{x^2+ax}{|x|+1}$, con $a\in\mathbb{R}$.
 
 a. Dimostra che, per qualsiasi valore di $a\in\mathbb{R}$, la funzione $f_a(x)$ è definita, continua e derivabile per ogni $x\in\mathbb{R}$. Dimostra poi che $f_a(x)$ ammette derivata seconda in $x=0$ solo se $a=0$.
@@ -31,6 +33,8 @@ d. Considera il triangolo $T$ formato dalle rette $t_1$ e $t_2$ determinate al p
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte3_2025_3_72_2|Problema 2]]*
 
 Il grafico in figura rappresenta una funzione $y=f(x)$ definita nel dominio $D=\mathbb{R}$ tale che i punti estremi relativi sono $M_1$ e $M_2$. La funzione è continua e derivabile almeno due volte nel suo dominio. *(figura nel PDF)*
 
@@ -47,6 +51,8 @@ d. Sia $A(k)$, con $k>0$, l'area della regione finita di piano compresa tra il g
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_1|Quesito 1]]*
+
 1. In un dado a sei facce truccato il numero 6 esce con probabilità $p$. Il dado viene lanciato per sei volte. Determina la probabilità dei seguenti eventi:
    $A$: «il numero 6 esce esattamente due volte»;
    $B$: «il numero 6 esce esattamente tre volte».
@@ -58,6 +64,8 @@ d. Sia $A(k)$, con $k>0$, l'area della regione finita di piano compresa tra il g
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_2|Quesito 2]]*
 
 2. Sono date le rette di equazioni:
 $$r:\begin{cases} x=2t \\ y=2+t \\ z=1-t,\end{cases}\quad \text{con } t\in\mathbb{R};\qquad s:\begin{cases} x+2y=0 \\ x+2y-z=3.\end{cases}$$
@@ -71,6 +79,8 @@ $$r:\begin{cases} x=2t \\ y=2+t \\ z=1-t,\end{cases}\quad \text{con } t\in\mathb
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_3|Quesito 3]]*
+
 3. Il trapezio isoscele $ABCD$ è circoscritto a una circonferenza di raggio $r$. La base maggiore $AB$ è lunga il triplo della base minore $CD$. Determina l'ampiezza degli angoli del trapezio e il rapporto tra il raggio della circonferenza inscritta e la base minore.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -79,6 +89,8 @@ $$r:\begin{cases} x=2t \\ y=2+t \\ z=1-t,\end{cases}\quad \text{con } t\in\mathb
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_4|Quesito 4]]*
 
 4. Considera, nel piano cartesiano, la parabola $\gamma:\;y=-x^2+6x-5$ e il fascio di parabole
 $$\alpha_k:\;y=kx^2-(7k+1)x+10k+5,$$
@@ -91,6 +103,8 @@ dove $k$ è un numero reale positivo. Verifica che $\gamma$ e $\alpha_k$ hanno u
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_5|Quesito 5]]*
+
 5. Verifica che la funzione $F(x)=\displaystyle\int_x^{-1}\left(\frac{3}{2}t^2+t-2\right)dt$ soddisfa le ipotesi del teorema di Rolle nell'intervallo $[-1;2]$, poi trova il punto (o i punti) in cui si verifica la tesi del teorema.
 
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]]
@@ -99,6 +113,8 @@ dove $k$ è un numero reale positivo. Verifica che $\gamma$ e $\alpha_k$ hanno u
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_6|Quesito 6]]*
 
 6. Nella figura sono rappresentati un arco della parabola di vertice $A(2;0)$ che passa per il punto $C(0;2)$ e il quadrato $OABC$. *(figura nel PDF)* Considera la retta di equazione $x=k$ che interseca il quadrato $OABC$ individuando le due regioni di piano $\mathcal{A}_1$ e $\mathcal{A}_2$ colorate in figura. Determina il valore del parametro $k$ che minimizza la somma delle aree di $\mathcal{A}_1$ e $\mathcal{A}_2$.
 
@@ -109,6 +125,8 @@ dove $k$ è un numero reale positivo. Verifica che $\gamma$ e $\alpha_k$ hanno u
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_7|Quesito 7]]*
+
 7. $p(x)$ è una funzione polinomiale pari di grado 4. Il suo grafico, in un sistema di riferimento cartesiano, ha un punto stazionario in $A(-\sqrt{2};-2)$ e passa per l'origine $O$. Determina le intersezioni tra il grafico di $p(x)$ e quello di $q(x)=\dfrac{p(x)}{x^2}$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
@@ -118,6 +136,8 @@ dove $k$ è un numero reale positivo. Verifica che $\gamma$ e $\alpha_k$ hanno u
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2025_3_72#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2025_3_72_8|Quesito 8]]*
 
 8. Determina il valore del parametro reale positivo $a$ in modo che una delle tangenti inflessionali della funzione $f(x)=x^4-2ax^2$ abbia equazione $2x+y-1=0$. Verifica che, per quel valore di $a$, il grafico della parabola di equazione $y=-x^2$ è tangente a quello della funzione $f(x)$ nei suoi punti di flesso.
 

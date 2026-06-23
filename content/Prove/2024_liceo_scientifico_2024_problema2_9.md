@@ -16,6 +16,8 @@ Fonte: p.9 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN0
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2024_liceo_scientifico_2024_problema2_9_1|Problema 1]]*
+
 *«All'inizio e alla fine, abbiamo il mistero. […] A questo mistero la matematica ci avvicina, pur senza penetrarlo». (E. De Giorgi)*
 
 Si consideri la famiglia di funzioni $f_n(x)=\sqrt[n]{x^2}-\sqrt{ax^2+bx+1}$, con $n\in\mathbb{N}$, $n>1$ e $a,b\in\mathbb{R}$, $a<0$.

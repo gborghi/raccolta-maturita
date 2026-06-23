@@ -17,6 +17,8 @@ Fonte: p.84 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1938_tutti_temi_1|Problema 1]]*
+
 Sopra una semicirconferenza di diametro $|\overline{AB}|=2r$, determinare un punto $P$ tale che, detta $Q$ la proiezione d'esso su $AB$, la somma dei due segmenti $AP$ e $QP$ sia uguale ad un segmento assegnato $a$. Discussione.
 
 È in facoltà del candidato di risolvere e discutere il problema anche per via geometrica.
@@ -28,6 +30,8 @@ Sopra una semicirconferenza di diametro $|\overline{AB}|=2r$, determinare un pun
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1938_tutti_temi_3|Problema 1]]*
+
 In assi cartesiani ortogonali una parabola data è rappresentata da una equazione del tipo $y=ax^2+bx+c$. Determinare $a$, $b$, $c$ e disegnare la parabola, sapendo che questa incontra l'asse delle $x$ nell'origine $O$ e in un punto $A$ di ascissa $4$ e che la tangente alla curva nell'origine forma con l'asse $x$ un angolo di $45°$. Determinare inoltre il trapezio di area massima fra tutti quelli che hanno per base maggiore il segmento $OA$ e per base minore una delle corde della parabola parallela ad $OA$. Dire anche in quale rapporto sta l'area di tale trapezio a quella del segmento parabolico determinato da $OA$ e contenente il trapezio.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Equazioni e Disequazioni]]
@@ -37,6 +41,8 @@ In assi cartesiani ortogonali una parabola data è rappresentata da una equazion
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1938_tutti_temi_2|Problema 2]]*
+
 Dopo aver disegnato nel piano cartesiano la curva (parabola) rappresentatrice della funzione $y=1-x^2$, condurre nel segmento parabolico, determinato dalla curva e dall'asse $x$, una corda $AB$, parallela a quest'asse, in modo che sia $2p$ il perimetro del rettangolo avente per vertici i punti $A$, $B$ e le proiezioni $A'$ e $B'$ di questi punti sull'asse delle $x$. Discussione. Calcolo dei valori di $p$ pei quali il rettangolo risulta quadrato o con due lati consecutivi uno metà dell'altro.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -45,6 +51,8 @@ Dopo aver disegnato nel piano cartesiano la curva (parabola) rappresentatrice de
 **Fonte:** [📄 Testo (PDF) — p.84](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1938_tutti_temi_4|Problema 2]]*
 
 Sopra un diametro $AB$ di un cerchio di centro $O$ e raggio $r$ sono dati i due punti $C$ e $D$ rispettivamente medi di $OA$ ed $OB$. Determinare la lunghezza $2x$ di una corda $EF$ del cerchio, parallela ad $AB$, in modo che, detto $m$ un numero reale e positivo, la somma delle aree dei quadrati costruiti sui quattro lati del trapezio convesso $CEFD$ risulti eguale a:
 

@@ -16,6 +16,8 @@ Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1925_tutti_temi_1|Problema 1]]*
+
 In un cilindro circolare retto, di raggio $r$ ed altezza $h$, è descritta, col centro $O$ sull'asse del cilindro e col medesimo raggio $r$, una sfera che si suppone non abbia punti esterni al cilindro. Si vuole che il volume della sfera risulti medio proporzionale tra i volumi dei due solidi rotondi che, sommati alla sfera, danno il cilindro.
 
 1. Si determini a quale distanza da una delle basi del cilindro va preso il centro $O$ della sfera.

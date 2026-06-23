@@ -16,6 +16,8 @@ Fonte: p.138 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_ordinamento_2014_sessione_straordinaria_problema2_138_1|Problema 1]]*
+
 Si consideri la funzione:
 $$f(x) = \frac{1}{3}\operatorname{tg}^3 x + \operatorname{tg}^2 x + \operatorname{tg} x.$$
 

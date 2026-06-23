@@ -17,6 +17,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_1|Quesito 1]]*
+
 **Quesito 1.** Si determini la derivata $n$-esima del polinomio $p(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0$ di grado $n$.
 
 **Topic:** [[Derivate]]
@@ -25,6 +27,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_2|Quesito 2]]*
 
 **Quesito 2.** È dato un triangolo $ABC$ e un punto $P$ tale che il segmento $PB$ sia perpendicolare al piano del triangolo $ABC$, con $BA$ perpendicolare alla retta $AC$. Si dimostri che il triangolo $CAP$ è rettangolo in $A$. *(figura nel PDF)*
 
@@ -35,6 +39,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_3|Quesito 3]]*
+
 **Quesito 3.** Si determini il punto in cui la retta tangente al grafico della funzione $f(x) = e^x$ forma con il semiasse positivo delle ascisse un angolo $\alpha$ con $\operatorname{tg}\alpha = e$, e si determini l'ampiezza di tale angolo.
 
 **Topic:** [[Derivate]], [[Trigonometria]], [[Esponenziali e Logaritmi]]
@@ -43,6 +49,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_4|Quesito 4]]*
 
 **Quesito 4.** Si calcoli $\displaystyle\lim_{x\to\infty} \frac{4x \operatorname{sen}\frac{1}{x}}{1}$, ovvero $\displaystyle\lim_{x\to\infty} 4x\operatorname{sen}\frac{1}{x}$.
 
@@ -53,6 +61,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_5|Quesito 5]]*
+
 **Quesito 5.** L'apotema di un cono circolare retto misura $80$ cm. Si determinino le dimensioni del cono di capacità (volume) massima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -61,6 +71,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.87](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_6|Quesito 6]]*
 
 **Quesito 6.** Si determini il dominio della funzione $f(x) = \sqrt{\cos x}$.
 
@@ -72,6 +84,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_7|Quesito 7]]*
+
 **Quesito 7.** Data una funzione definita a tratti, polinomiale con $f(4) = 0$ a sinistra e contenente il parametro $k$ a destra, si determini il valore di $k$ affinché la funzione sia continua in $x = 4$.
 
 **Topic:** [[Limiti e Continuita]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -81,6 +95,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_8|Quesito 8]]*
 
 **Quesito 8.** Si verifichi che, se $n > 3$, vale l'uguaglianza
 $$2\binom{n}{n-2} - \binom{n}{n-1} = \binom{n}{n-3} - \binom{n}{n-2}$$
@@ -93,6 +109,8 @@ e si determini il valore di $n$ che la soddisfa.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_9|Quesito 9]]*
+
 **Quesito 9.** In un triangolo sono noti due lati e un angolo; si discuta, mediante il teorema dei seni, l'esistenza e il numero delle soluzioni.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -101,6 +119,8 @@ e si determini il valore di $n$ che la soddisfa.
 **Soluzione:** [[Soluzioni/2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_della_comunicazione_2010_sessione_ordinaria_questionario_86_10|Quesito 10]]*
 
 **Quesito 10.** Per la ricorrenza della festa della mamma, la sig.ra Luisa organizza una cena a casa sua, con le sue amiche che hanno almeno una figlia femmina. La sig.ra Anna è una delle invitate e perciò ha almeno una figlia femmina. Durante la cena, la sig.ra Anna dichiara di avere esattamente due figli. Si chiede: qual è la probabilità che anche l'altro figlio della sig.ra Anna sia femmina? Si argomenti la risposta.
 

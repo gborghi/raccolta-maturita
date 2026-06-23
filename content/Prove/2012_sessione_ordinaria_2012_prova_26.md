@@ -17,6 +17,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_ordinaria_2012_prova_26_1|Problema 2]]*
+
 Sia $f$ la funzione definita da $f(x)=\int_0^x g(t)\,dt$.
 
 1. Si determinino $f(0)$ e $f'(0)$.
@@ -32,6 +34,8 @@ Sia $f$ la funzione definita da $f(x)=\int_0^x g(t)\,dt$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_1|Quesito 1]]*
+
 1. Un docente deve scegliere $4$ studenti cui affidare un compito tra i $10$ che ne hanno fatto richiesta. Quante scelte può fare?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -40,6 +44,8 @@ Sia $f$ la funzione definita da $f(x)=\int_0^x g(t)\,dt$.
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_26#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_2|Quesito 2]]*
 
 2. Si calcoli:
 
@@ -52,6 +58,8 @@ $$\lim_{x\to 0^+}\frac{3^{\frac{1}{x}}-2\cdot 3^{\frac{2}{x}}}{3^{\frac{2-x}{x}}
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_3|Quesito 3]]*
+
 3. Sia $f(x)=\dfrac{(x+4)(x-3)(x+2)}{(x-6)(x-4)(x-2)}$; si calcoli $f'(x)$.
 
 **Topic:** [[Derivate]]
@@ -60,6 +68,8 @@ $$\lim_{x\to 0^+}\frac{3^{\frac{1}{x}}-2\cdot 3^{\frac{2}{x}}}{3^{\frac{2-x}{x}}
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_26#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_4|Quesito 4]]*
 
 4. Sia $R$ la regione del piano racchiusa tra il grafico di $y=\sqrt{x-1}$, la retta $x=10$ e l'asse $x$. Si trovi l'area di $R$.
 
@@ -70,6 +80,8 @@ $$\lim_{x\to 0^+}\frac{3^{\frac{1}{x}}-2\cdot 3^{\frac{2}{x}}}{3^{\frac{2-x}{x}}
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_5|Quesito 5]]*
+
 5. Una particella si muove lungo l'asse $x$ in modo tale che la sua velocità $v$ al tempo $t$, per $0\le t\le 5$, è data da $v(t)=\ln(t^2-3t+3)$. Qual è l'accelerazione della particella al tempo $t=4$?
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -78,6 +90,8 @@ $$\lim_{x\to 0^+}\frac{3^{\frac{1}{x}}-2\cdot 3^{\frac{2}{x}}}{3^{\frac{2-x}{x}}
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_26#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.35](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_6|Quesito 6]]*
 
 6. Dato l'insieme $A=\{1,2,5,8\}$: determinare quanti numeri a due cifre si possono scrivere con gli elementi di $A$, considerando che sono ammesse le ripetizioni.
 
@@ -88,6 +102,8 @@ $$\lim_{x\to 0^+}\frac{3^{\frac{1}{x}}-2\cdot 3^{\frac{2}{x}}}{3^{\frac{2-x}{x}}
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_7|Quesito 7]]*
+
 7. Si determini il cono di volume minimo circoscritto ad una sfera di raggio $r$.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -96,6 +112,8 @@ $$\lim_{x\to 0^+}\frac{3^{\frac{1}{x}}-2\cdot 3^{\frac{2}{x}}}{3^{\frac{2-x}{x}}
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_26#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_26_8|Quesito 8]]*
 
 8. Di un tronco di piramide retta a base quadrata si conoscono l'altezza $h$ e i lati $a$ e $b$ delle due basi. Come si può procedere per esprimere il volume del tronco in funzione di $a$, $b$ e $h$?
 

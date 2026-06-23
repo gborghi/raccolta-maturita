@@ -16,6 +16,8 @@ Fonte: p.148 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_santiago_del_cile_ordinaria_2010_problema2_148_1|Problema 1]]*
+
 Sia $AC$ una corda della semicirconferenza di diametro $AB=2$. Indicato con $D$ il punto medio dell'arco $BC$ si consideri il quadrilatero $ABDC$.
 
 *(figura nel PDF)*

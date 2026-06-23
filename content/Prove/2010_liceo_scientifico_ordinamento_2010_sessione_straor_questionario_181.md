@@ -17,6 +17,8 @@ Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181_1|Quesito 1]]*
+
 **Quesito 1.** Due osservatori si trovano ai lati opposti di un grattacielo, a livello del suolo. La cima dell'edificio dista $1600$ metri dal primo osservatore, che la vede con un angolo di elevazione di $15°$. Se il secondo individuo si trova a $650$ metri dalla cima del grattacielo, quale è la distanza tra i due osservatori (non tenendo conto dell'ostacolo grattacielo)?
 
 **Topic:** [[Trigonometria]]
@@ -25,6 +27,8 @@ Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181_2|Quesito 2]]*
 
 **Quesito 2.** Si calcoli il limite della funzione $(1 + \operatorname{tg}(x))^{\cot g(x)}$ quando $x$ tende a $0$.
 
@@ -35,6 +39,8 @@ Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181_3|Quesito 3]]*
+
 **Quesito 3.** In quanti modi $10$ persone possono disporsi su dieci sedili allineati? E attorno ad un tavolo circolare?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -43,6 +49,8 @@ Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Soluzione:** [[Soluzioni/2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_ordinamento_2010_sessione_straor_questionario_181_4|Quesito 4]]*
 
 **Quesito 4.** Si dimostri che ogni funzione $f(x) = ax^3 + bx^2 + cx + d$ dove $a$, $b$, $c$, $d$ sono valori reali con $a \neq 0$, ha un massimo e un minimo relativi oppure non ha estremanti.
 

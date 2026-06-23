@@ -16,6 +16,8 @@ Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_scuole_italiane_allestero_europa_2013_problema1_30_1|Problema 1]]*
+
 **Scuole italiane all'estero (Europa) 2013 — Problema 1**
 
 In un riferimento cartesiano $Oxy$ siano $C_1$ e $C_2$ le circonferenze di equazioni

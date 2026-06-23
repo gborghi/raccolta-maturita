@@ -17,6 +17,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1882_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Trovare il valore delle formole:
 $$\frac{\cot A + \cot B + \cot C}{\cot A \cdot \cot B \cdot \cot C}, \qquad \frac{\sin 2A + \sin 2B + \sin 2C}{\cos A \cdot \cos B \cdot \cos C}$$
 quando $A + B + C = 90°$, e il valore delle formole
@@ -29,6 +31,8 @@ quando $A + B + C = 180°$.
 **Fonte:** [📄 Testo (PDF) — p.47](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1882_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Dati i raggi $a$, $b$ di due cerchi che si toccano esternamente, trovare il valore del seno dell'angolo compreso tra le loro tangenti comuni.
 

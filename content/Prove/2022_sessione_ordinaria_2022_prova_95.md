@@ -17,6 +17,8 @@ Fonte: p.95 · [📄 Apri PDF](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhG
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2022_sessione_ordinaria_2022_prova_95_1|Problema 1]]*
+
 Un'influenza si diffonde molto rapidamente in un paese, e i contagi (in migliaia) evolvono seguendo un andamento descritto dalla seguente funzione
 
 $$y = f(t) = \frac{Ae^{-kt}}{(1 + Be^{-kt})^2}, \qquad \text{con } A, B \in \mathbb{N}, \ t \ge 0 \ \text{e} \ k = \frac{1}{10}.$$
@@ -49,6 +51,8 @@ Determinare il numero di contagi totali nei primi 30 giorni di epidemia, tenendo
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2022_sessione_ordinaria_2022_prova_95_2|Problema 2]]*
+
 La figura mostra il grafico $G$ della funzione derivabile $y = f(x)$ per $x \in [-1; 4]$. $G$ presenta due punti stazionari in $O$ e $B$ e le aree delle regioni di piano $A_1$, $A_2$, $A_3$ e $A_4$ sono rispettivamente $\frac{5}{4}$; $4$; $\frac{11}{4}$ e $\frac{27}{4}$.
 
 *(figura nel PDF: punti $A(-1; 4)$, $B(2; 4)$, $C(3; 0)$, $D(4; -16)$)*
@@ -78,6 +82,8 @@ determinare i valori di $A$ e $B$ in modo che presenti gli stessi punti staziona
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_1|Quesito 1]]*
+
 1. Determinare per quale valore del parametro reale positivo $k$ la funzione
 $$f(x) = \frac{1}{e} + \frac{3}{2}xe^{kx^2}$$
 ha minimo assoluto uguale a zero.
@@ -89,6 +95,8 @@ ha minimo assoluto uguale a zero.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_2|Quesito 2]]*
+
 2. Calcolare il seguente limite:
 $$\lim_{x \to 0} \frac{\cos x - \cos 2x}{1 - \cos x}$$
 
@@ -98,6 +106,8 @@ $$\lim_{x \to 0} \frac{\cos x - \cos 2x}{1 - \cos x}$$
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_3|Quesito 3]]*
 
 3. Si consideri la funzione:
 $$f(x) = \begin{cases} ax^2 + \frac{3}{2} & \text{se } x < 1 \\ e^{b-x} & \text{se } x \ge 1 \end{cases}$$
@@ -110,6 +120,8 @@ Determinare i parametri reali $a$ e $b$ in modo che la funzione risulti continua
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_4|Quesito 4]]*
+
 4. Si consideri la funzione:
 $$f(x) = \begin{cases} x^2 - 5x + 6 & \text{se } x \le 3 \\ \ln(x - 2) & \text{se } x > 3 \end{cases}$$
 Dimostrare che $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervallo $[2; 4]$ e determinare l'ascissa del o dei punti che ne soddisfano la tesi.
@@ -120,6 +132,8 @@ Dimostrare che $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervall
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_5|Quesito 5]]*
 
 5. Dimostrare che l'equazione:
 $$\arctan(-x) = 2x^3$$
@@ -133,6 +147,8 @@ ha una e una sola soluzione reale.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_6|Quesito 6]]*
+
 6. Data la funzione
 $$y = \frac{ax^2 + bx + c}{x + 2}$$
 determinare il valore dei parametri $a$, $b$ e $c$ in modo tale che la retta $y = 3x - 8$ sia un suo asintoto obliquo per $x \to +\infty$ e la retta tangente al grafico della funzione nel suo punto di ascissa $x = 0$ formi un angolo di $45°$ con la direzione positiva dell'asse $x$.
@@ -145,6 +161,8 @@ determinare il valore dei parametri $a$, $b$ e $c$ in modo tale che la retta $y 
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_7|Quesito 7]]*
+
 7. La funzione $y = \ln x$ divide in due parti il rettangolo di vertici $A(1; 0)$, $B(e^2; 0)$, $C(e^2; 2)$ e $D(1; 2)$. Determinare la differenza tra le aree delle due parti.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -153,6 +171,8 @@ determinare il valore dei parametri $a$, $b$ e $c$ in modo tale che la retta $y 
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_prova_95#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.95](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_prova_95_8|Quesito 8]]*
 
 8. Dimostrare che le curve di equazione $y = x^2 + kx + k$ passano tutte per uno stesso punto.
 

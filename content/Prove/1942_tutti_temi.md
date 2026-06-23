@@ -17,6 +17,8 @@ Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1942_tutti_temi_1|Problema 1]]*
+
 Nel trapezio $ABCD$ di basi $AD$, $BC$ ($AD>BC$), le lunghezze del lato obliquo $AB$ e della diagonale $AC$ sono rispettivamente $l$ e $kl$. Si sa inoltre che, detto $E$ il punto d'incontro dei prolungamenti dei lati obliqui, l'altezza del triangolo $ADE$, relativa alla base $AD$, è doppia di quella del trapezio ed è uguale al lato obliquo $DC$. Determinare, analiticamente e geometricamente, gli elementi incogniti del trapezio e discutere.
 
 **Topic:** [[Geometria Euclidea]]
@@ -25,6 +27,8 @@ Nel trapezio $ABCD$ di basi $AD$, $BC$ ($AD>BC$), le lunghezze del lato obliquo 
 **Fonte:** [📄 Testo (PDF) — p.88](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1942_tutti_temi_2|Problema 2]]*
 
 Fissato nel piano un sistema di coordinate cartesiane ortogonali e scritta l'equazione della parabola avente l'asse perpendicolare all'asse delle ascisse e passante per i punti $(0,1)$, $(2,2)$, $(4,5)$, si determinino:
 

@@ -16,6 +16,8 @@ Fonte: p.109 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_ordinamento_2010_sessione_suppletiva_problema2_109_1|Problema 1]]*
+
 Data la funzione $f(x) = x\sqrt{1 - x^2}$.
 
 1. Si determini il dominio di $f(x)$ e si dica se la funzione è continua e derivabile in ogni punto di esso.

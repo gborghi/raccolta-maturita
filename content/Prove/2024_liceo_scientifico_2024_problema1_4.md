@@ -16,6 +16,8 @@ Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN0
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2024_liceo_scientifico_2024_problema1_4_1|Problema 1]]*
+
 Si consideri $f_{a,b}(x)=\dfrac{ax^3+b}{x^2}$, con $a,b\in\mathbb{R}$.
 
 a) Determinare i valori dei parametri in modo che la retta $t$, di equazione $7x+y-12=0$, sia tangente al grafico di $f_{a,b}(x)$ nel suo punto $P$ di ascissa $x=1$.

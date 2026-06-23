@@ -17,6 +17,8 @@ Fonte: p.12 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2003_sessione_ordinaria_2003_211_n_03_prova_12_1|Problema 1]]*
+
 Si consideri un tetraedro regolare $T$ di vertici $A$, $B$, $C$, $D$.
 
 a) Indicati rispettivamente con $V$ ed $S$ il volume e l'area totale di $T$ e con $r$ il raggio della sfera inscritta in $T$, trovare una relazione che leghi $V$, $S$ ed $r$.
@@ -36,6 +38,8 @@ e) Determinare per quale valore di $s$ la regione piana delimitata dalla parabol
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2003_sessione_ordinaria_2003_211_n_03_prova_12_2|Problema 2]]*
+
 È assegnata la funzione $f(x)=\dfrac{2x+1}{x^2+mx+m}$, dove $m$ è un parametro reale.
 
 a) Determinare il suo dominio di derivabilità.
@@ -54,6 +58,8 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_1|Quesito 1]]*
+
 1. Dopo aver fornito la definizione di rette sghembe, si consideri la seguente proposizione: «Comunque si prendano nello spazio tre rette $x$, $y$, $z$, due a due distinte, se $x$ ed $y$ sono sghembe e, così pure, se sono sghembe $y$ e $z$, allora anche $x$ e $z$ sono sghembe». Dire se è vera o falsa e fornire un'esauriente spiegazione della risposta.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -62,6 +68,8 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 **Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_2|Quesito 2]]*
 
 2. Un piano interseca tutti gli spigoli laterali di una piramide quadrangolare regolare: descrivere le caratteristiche dei possibili quadrilateri sezione a seconda della posizione del piano rispetto alla piramide.
 
@@ -72,6 +80,8 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_3|Quesito 3]]*
+
 3. Dal punto $A$, al quale è possibile accedere, è visibile il punto $B$, al quale però non si può accedere in alcun modo, così da impedire una misura diretta della distanza $AB$. Dal punto $A$ si può però accedere al punto $P$, dal quale, oltre ad $A$, è visibile $B$ in modo che, pur rimanendo impossibile misurare direttamente la distanza $PB$, è tuttavia possibile misurare la distanza $AP$. Disponendo degli strumenti di misura necessari e sapendo che $P$ non è allineato con $A$ e $B$, spiegare come si può utilizzare il teorema dei seni per calcolare la distanza $AB$.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -80,6 +90,8 @@ d) Calcolare l'area della regione finita di piano delimitata dal grafico $\gamma
 **Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_4|Quesito 4]]*
 
 4. Il dominio della funzione $f(x)=\ln\left\{\sqrt{x+1}-(x-1)\right\}$ è l'insieme degli $x$ reali tali che:
 A) $-1<x\le 3$;  B) $-1\le x<3$;  C) $0<x\le 3$;  D) $0\le x<3$.
@@ -93,6 +105,8 @@ Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_5|Quesito 5]]*
+
 5. La funzione $2x^3-3x^2+2$ ha un solo zero reale, vale a dire che il suo grafico interseca una sola volta l'asse delle ascisse. Fornire un'esauriente dimostrazione di questo fatto e stabilire se lo zero della funzione è positivo o negativo.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
@@ -103,6 +117,8 @@ Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_6|Quesito 6]]*
+
 6. La derivata della funzione $f(x)=\displaystyle\int_0^{x^2}e^{-t^2}\,dt$ è la funzione $f'(x)=2xe^{-x^4}$. Eseguire tutti i passaggi necessari a giustificare l'affermazione.
 
 **Topic:** [[Funzioni Integrali]], [[Derivate]], [[Calcolo Integrale]]
@@ -111,6 +127,8 @@ Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione
 **Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_7|Quesito 7]]*
 
 7. Considerati i primi $n$ numeri naturali a partire da $1$:
 $$1,\ 2,\ 3,\ \ldots,\ n-1,\ n,$$
@@ -124,6 +142,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_8|Quesito 8]]*
 
 8. $x$ ed $y$ sono due numeri naturali dispari tali che $x-y=2$. Il numero $x^3-y^3$:
 A) è divisibile per $2$ e per $3$.
@@ -139,6 +159,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_9|Quesito 9]]*
+
 9. Si consideri una data estrazione in una determinata Ruota del Lotto. Calcolare quante sono le possibili cinquine che contengono i numeri $1$ e $90$.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -147,6 +169,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2003_sessione_ordinaria_2003_211_n_03_prova_12#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_10|Quesito 10]]*
 
 10. Il valore dell'espressione $\log_2 3\cdot\log_3 2$ è $1$. Dire se questa affermazione è vera o falsa e fornire una esauriente spiegazione della risposta.
 

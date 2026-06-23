@@ -16,6 +16,8 @@ Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsn
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_sperimentale_1999_problema3_32_1|Problema 1]]*
+
 In un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$ sono dati i punti $P(x,y)$, $A(x',y')$, $B(x'',y'')$, $P'(X,Y)$, legati dalle seguenti relazioni:
 $$T_1:\begin{cases} x' = 2x \\ y' = 2y \end{cases} \qquad T_2:\begin{cases} x'' = -y' \\ y'' = x' \end{cases} \qquad T_3:\begin{cases} X = x'' + 2 \\ Y = y'' - 1 \end{cases}$$
 

@@ -16,6 +16,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsn
 **Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_sessione_suppletiva_pni_1999_problema3_46_1|Problema 1]]*
+
 Una ditta dispone di $10$ linee telefoniche. La probabilità, in un istante qualsiasi, che una data linea sia occupata è $\dfrac{1}{5}$. Determinare il numero medio di linee telefoniche libere.
 
 a) Calcolare per ogni istante — con due cifre significative — la probabilità che tutte le linee siano occupate.

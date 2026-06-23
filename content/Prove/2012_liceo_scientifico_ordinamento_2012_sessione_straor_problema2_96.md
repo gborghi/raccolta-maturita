@@ -16,6 +16,8 @@ Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema2_96_1|Problema 2]]*
+
 Si consideri la funzione:
 $$f(x)=\frac{3x+2}{\sqrt{x-5}}.$$
 

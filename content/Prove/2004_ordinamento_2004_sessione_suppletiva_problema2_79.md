@@ -16,6 +16,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_ordinamento_2004_sessione_suppletiva_problema2_79_1|Problema 1]]*
+
 Una piramide ha per base il quadrato $ABCD$ di lato lungo 7 cm. Anche l'altezza $VH$ della piramide è lunga 7 cm e il suo piede $H$ è il punto medio del lato $AB$. Condurre per la retta $AB$ il piano $\alpha$ che forma con il piano della base della piramide un angolo $\varphi$ tale che $\cos\varphi=\dfrac{3}{5}$ e indicare con $EF$ la corda che il piano $\alpha$ intercetta sulla faccia $VCD$ della piramide.
 
 **a)** Spiegare perché il quadrilatero convesso $ABEF$ è inscrivibile in una circonferenza $\gamma$.

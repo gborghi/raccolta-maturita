@@ -17,6 +17,8 @@ Fonte: p.174 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_prova_174_1|Problema 1]]*
+
 Sia $g(x)$ una funzione continua sull'intervallo chiuso $[-4,6]$. Il grafico di $g(x)$, disegnato a lato, passa per i punti $A(-4,0)$, $O(0,0)$, $B(2,2)$, $C(4,2)$, $D(6,0)$ e consiste della semicirconferenza di diametro $AO$, dell'arco, quarto di circonferenza, di estremi $O$ e $B$, del segmento $BC$ e dell'arco $CD$ di una parabola avente per asse di simmetria l'asse $x$. *(figura nel PDF)*
 
 1. Si dica, giustificando la risposta, se $g(x)$ è derivabile nei punti $A$, $O$, $B$, $C$, $D$.
@@ -30,6 +32,8 @@ Sia $g(x)$ una funzione continua sull'intervallo chiuso $[-4,6]$. Il grafico di 
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_prova_174_2|Problema 2]]*
 
 Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 
@@ -46,6 +50,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_1|Quesito 1]]*
+
 1. Nel triangolo disegnato a lato, qual è la misura, in gradi e primi sessagesimali, di $\alpha$? *(figura nel PDF)*
 
 **Topic:** [[Trigonometria]]
@@ -55,6 +61,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_2|Quesito 2]]*
+
 2. Si spieghi perché non esistono poliedri regolari le cui facce siano esagoni.
 
 **Topic:** [[Geometria Solida]]
@@ -63,6 +71,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_3|Quesito 3]]*
 
 3. Venti palline sono poste in un'urna. Cinque sono rosse, cinque verdi, cinque gialle e cinque bianche. Dall'urna si estraggono a caso, senza reimbussolamento, tre palline. Si valutino le seguenti probabilità:
    - esattamente una pallina è rossa
@@ -75,6 +85,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_4|Quesito 4]]*
+
 4. Un solido $\Sigma$ ha per base la regione $R$ delimitata dal grafico di $f(x)=e^{x-1}$ e dall'asse $x$ sull'intervallo $[-2,1]$. In ogni punto di $R$ di ascissa $x$, l'altezza del solido è data da $h(x)=\dfrac{1}{x^2}$. Si calcoli il volume del solido.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -83,6 +95,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_5|Quesito 5]]*
 
 5. In un contesto di geometria non euclidea si illustri un esempio di triangolo i cui angoli non hanno somma $180°$.
 
@@ -93,6 +107,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_6|Quesito 6]]*
+
 6. Si calcolino l'altezza e il raggio del massimo cilindro circolare retto inscritto in una sfera di raggio $\sqrt3$.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -101,6 +117,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_7|Quesito 7]]*
 
 7. Se $f'(x)=x\ln(x+2)$, per quale dei seguenti valori approssimati di $x$, $f$ ha un minimo relativo?
    (A) $5{,}146$  (B) $3{,}146$  (C) $1{,}000$  (D) $0{,}159$  (E) $0$
@@ -112,6 +130,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_8|Quesito 8]]*
+
 8. La "zara" è un gioco d'azzardo di origine araba che conobbe particolare fortuna in Italia in epoca medievale — ne parla anche Dante nella Divina Commedia — e si giocava con tre dadi. Si confronti la probabilità di ottenere in un lancio la somma 9 con quella di ottenere la somma 10.
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -121,6 +141,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_9|Quesito 9]]*
+
 9. Le lettere $N$, $Z$, $Q$, $R$ denotano, rispettivamente, gli insiemi dei numeri naturali, interi, razionali e reali mentre il simbolo $\aleph_0$ (aleph-zero) indica la cardinalità di $N$. Gli insiemi $Z$, $Q$ e $R$ hanno anch'essi cardinalità $\aleph_0$? Si motivi la risposta.
 
 **Topic:** [[Successioni e Serie]]
@@ -129,6 +151,8 @@ Sia $f(x)=(2-x)\sqrt{4x-x^2}$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_174#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.174](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_174_10|Quesito 10]]*
 
 10. Si stabilisca per quali valori reali di $a$ e $b$, si ha:
 $$\lim_{x\to 0}\frac{\sqrt{a+bx}-2}{x}=1$$

@@ -17,6 +17,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_straordinaria_2023_prova_44_1|Problema 1]]*
+
 Si consideri la famiglia di funzioni $f_n(x)=2-\frac{3}{x}+\frac{3}{x^n}$ con $n\in\mathbb{N}$ e $n>1$.
 
 a) Verificare che tutte le curve rappresentate dalle funzioni della famiglia $f_n(x)$ passano per uno stesso punto e scrivere le sue coordinate. Determinare, in funzione del parametro $n$, le ascisse degli estremi e dei flessi e calcolarne il limite, con $n\to\infty$. Scrivere le equazioni degli asintoti e tracciare i grafici delle funzioni $f_n$, evidenziando le differenze tra i casi in cui $n$ è pari da quelli in cui $n$ è dispari.
@@ -39,6 +41,8 @@ e verificare che il risultato non dipende da $n\in\mathbb{N}$, $n>1$.
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_straordinaria_2023_prova_44_2|Problema 2]]*
+
 Si considerino le famiglie di funzioni $f_a(x)=\frac{1}{2}(e^{ax}-e^{-ax})$ e $g_a(x)=\frac{1}{2}(e^{ax}+e^{-ax})$ con $a$ parametro reale positivo.
 
 a) Si traccino, al variare del parametro, i grafici rappresentativi $\gamma_f$ e $\gamma_g$ delle funzioni $f_a(x)$ e $g_a(x)$ evidenziando simmetrie, estremi e flessi.
@@ -59,6 +63,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_1|Quesito 1]]*
+
 1. Nel triangolo $ABC$, l'ampiezza di uno dei tre angoli è la metà di un secondo angolo del triangolo ed è pari al triplo del terzo angolo. Detti $A'$, $B'$, $C'$ i punti di tangenza tra i lati di $ABC$ ed il suo cerchio inscritto, determinare le ampiezze degli angoli del triangolo $A'B'C'$.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -67,6 +73,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_2|Quesito 2]]*
 
 2. Una classe è formata da 18 studenti; durante la lezione di musica, vengono creati (in modo completamente casuale) tre gruppi formati rispettivamente da 5, 6 e 7 studenti. Se Alice, Barbara e Chiara sono tre studentesse della classe, determinare la probabilità che solo due di loro facciano parte di uno stesso gruppo.
 
@@ -77,6 +85,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_3|Quesito 3]]*
+
 3. Assegnate le rette $r:\begin{cases}x=1+t\\ y=t\\ z=1+4t\end{cases}$, $s:\begin{cases}x=1\\ 2y-z=3\end{cases}$ con $t$ parametro reale, determinare l'equazione cartesiana del piano $\pi$ contenente $r$ e parallelo ad $s$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -86,6 +96,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_4|Quesito 4]]*
+
 4. Tra tutti i parallelepipedi rettangoli a base quadrata di diagonale fissata $d$, dimostrare che il cubo è quello di volume massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -94,6 +106,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_5|Quesito 5]]*
 
 5. Determina l'equazione della funzione dispari che ha un solo flesso a tangente orizzontale e la cui derivata seconda è $f''=-10x^3+12x$.
 
@@ -105,6 +119,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_6|Quesito 6]]*
+
 6. Si consideri la funzione $F(x)=\int_{-2}^{x} f(t)\,dt$ con $x\in[-2;5]$, dove $f$ è la funzione rappresentata in figura, ottenuta dall'unione di una semicirconferenza e due segmenti. Calcolare $F(-2)$, $F(2)$, $F(3)$ e $F(5)$. *(figura nel PDF)*
 
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]]
@@ -113,6 +129,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_7|Quesito 7]]*
 
 7. Determinare il dominio della funzione $f(x)=\frac{x\sqrt{x+1}}{x^3-x}$ e stabilire la tipologia delle sue discontinuità.
 
@@ -123,6 +141,8 @@ d) Determinare l'equazione $y=P(x)$ della parabola $\gamma$ avente il vertice ne
 **Soluzione:** [[Soluzioni/2023_sessione_straordinaria_2023_prova_44#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.65](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_straordinaria_2023_prova_44_8|Quesito 8]]*
 
 8. Si considerino le seguenti affermazioni sulla funzione $y=f(x)$.
    - A: "$f(x)$ è derivabile per $x=x_0$"

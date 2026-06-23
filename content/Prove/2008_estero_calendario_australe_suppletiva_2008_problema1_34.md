@@ -16,6 +16,8 @@ Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_estero_calendario_australe_suppletiva_2008_problema1_34_1|Problema 1]]*
+
 Un'ellisse $\Sigma$ ha gli assi di lunghezza $4$ e $2$ e i fuochi sull'asse delle ascisse.
 
 **a)** Si determini l'equazione canonica di $\Sigma$ e si inscriva in essa il rettangolo di area massima.

@@ -17,6 +17,8 @@ Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdB
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2016_17_164_1|Problema 1]]*
+
 In uno studio di progettazione navale si vuole realizzare il modello in scala ridotta dello scafo di una nave, per sottoporlo a vari test fluidodinamici. Il modello deve essere ricavato da un blocco omogeneo di materiale plastico in forma di prisma retto, di altezza 3 m, avente per base il trapezio isoscele $ABCD$, le cui misure sono riportate in figura.
 
 *(figura nel PDF)*
@@ -44,6 +46,8 @@ e) Per la sezione della superficie interna invece non ci sono dubbi: deve essere
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2016_17_164_2|Problema 2]]*
 
 Nella figura sottostante è riportato il grafico della funzione $f'(x)$, derivata prima della funzione reale $f(x)$ definita e continua nell'intervallo $[0;8]$.
 
@@ -81,6 +85,8 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_1|Quesito 1]]*
+
 1. Data la funzione reale $f(x)$, definita e continua in $[1;+\infty)$, sia $F(x)=\displaystyle\int_1^{x^2} f(t)\,dt$. Sapendo che $y=8x+1$ è la retta tangente al grafico di $F(x)$ nel suo punto di ascissa $x=2$, ricava $f(4)$ e il valor medio integrale di $f(x)$ nell'intervallo $[1;4]$.
 
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
@@ -89,6 +95,8 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_2|Quesito 2]]*
 
 2. In figura è rappresentato un piccolo taccuino aperto e rovesciato, con i bordi della copertina a contatto con il tavolo, che poggia su un fermacarte a forma di semisfera. Determina la misura in gradi e minuti dell'angolo $\alpha$ di apertura del taccuino, sapendo che il fermacarte ha il massimo raggio possibile. *(figura nel PDF)*
 
@@ -99,6 +107,8 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_3|Quesito 3]]*
+
 3. Data nel riferimento $Oxyz$ la sfera di raggio unitario tangente nell'origine $O$ al piano $y=0$ e appartenente al semispazio $y\ge 0$, sia $P$ il punto distinto da $O$ in cui la retta $r$ passante per $O$ e per $A(2;1;0)$ incontra la superficie della sfera. Ricava l'equazione del piano tangente alla sfera nel punto $P$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -108,6 +118,8 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_4|Quesito 4]]*
+
 4. Sia $OAB$ la regione $R$ del primo quadrante del riferimento $Oxy$ delimitata dall'arco $AB$ della parabola $\gamma$ di equazione $y=1-x^2$, con $A$ e $B$ intersezioni di $\gamma$ con gli assi $x$ e $y$ rispettivamente. Detto $P$ il punto di intersezione tra l'arco di parabola $AB$ e la retta di equazione $5x-y-6=0$, ricava il rapporto tra i volumi $V_1$ e $V_2$ dei solidi ottenuti per rotazione di 360° dei triangoli mistilinei $OPB$ e $OPA$ in cui $R$ risulta divisa dal segmento $OP$, rispettivamente intorno all'asse $y$ e intorno all'asse $x$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -116,6 +128,8 @@ e) Calcola, nel modo che ritieni più rapido, il valor medio integrale $\bar{f}$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_5|Quesito 5]]*
 
 5. Discuti la continuità e la derivabilità della seguente funzione reale:
 $$f(x)=\begin{cases} \dfrac{x}{|x|} & \text{se } x\ne 0 \\ 1 & \text{se } x=0 \end{cases}$$
@@ -128,6 +142,8 @@ e calcola, se esistono, i seguenti limiti: $\displaystyle\lim_{x\to+\infty} f(x)
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_6|Quesito 6]]*
+
 6. Nella sua ora di lezione, un professore di matematica interroga da $0$ a $3$ studenti ogni volta. Per stabilire il numero $n$ di interrogati, lancia due dadi regolari a $6$ facce e calcola la somma $S$ dei punteggi ottenuti, quindi determina il resto della divisione fra $S$ e $4$; $n$ è uguale a tale resto. Calcola la probabilità che in una lezione siano interrogati $3$ studenti, quindi calcola il numero medio di ore necessario a interrogare tutti i $28$ studenti della classe.
 
 **Topic:** [[Probabilita]], [[Statistica]]
@@ -136,6 +152,8 @@ e calcola, se esistono, i seguenti limiti: $\displaystyle\lim_{x\to+\infty} f(x)
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_7|Quesito 7]]*
 
 7. Date le funzioni:
 $$f(x)=\int_0^x \sin\!\big(t\ln(1+t)\big)\,dt,\qquad g(x)=\int_0^x \left(t-1+e^{-t}\right)\,dt,$$
@@ -149,6 +167,8 @@ $$\lim_{x\to 0}\frac{g(x)}{f(x)}.$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_8|Quesito 8]]*
+
 8. Un architetto sta progettando una nuova concert hall; la pianta dell'edificio è la regione $R$ del piano cartesiano $Oxy$ compresa tra il grafico della funzione $f(x)=40-\dfrac{3}{40}x^2$, l'asse $x$ e le rette di equazione $x=-20$ e $x=20$; le sue sezioni con piani ortogonali all'asse $x$ sono rettangoli di altezza $h(x)=\dfrac{1}{2}f(x)$. Rappresenta la regione $R$ e calcola la sua area. Calcola poi il volume complessivo dello stabile.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -157,6 +177,8 @@ $$\lim_{x\to 0}\frac{g(x)}{f(x)}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_9|Quesito 9]]*
 
 9. Determina l'espressione analitica della funzione $f(x)$ sapendo che il suo grafico è tangente alla retta di equazione $y=4x-2$ in un punto del primo quadrante e che la sua derivata prima è $f'(x)=x^3-3x$. Rappresenta quindi il grafico di $f(x)$, verificando che è una funzione pari. Dimostra, in generale, che se $f(x)$ è una funzione pari, allora $f'(x)$ è dispari e $f''(x)$ è pari.
 
@@ -167,6 +189,8 @@ $$\lim_{x\to 0}\frac{g(x)}{f(x)}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2016_17_164#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2016_17_164_10|Quesito 10]]*
 
 10. La funzione $f(x)$ rappresentata in figura è continua e derivabile in $\mathbb{R}$. Il suo grafico è tangente all'asse $x$ nell'origine e alla retta $t$ nel punto di flesso $A$.
     a) Traccia il grafico della funzione $f'(x)$, indicando in particolare il dominio, gli zeri, il segno e le coordinate dei massimi e dei minimi.

@@ -16,6 +16,8 @@ Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_ordinamento_2009_sessione_suppletiva_problema1_65_1|Problema 1]]*
+
 I due segmenti adiacenti $OA$, $AB$ sono uguali ed hanno una lunghezza data $a$. Nel medesimo semipiano rispetto alla retta $OB$ si descrivano due semicirconferenze di diametri rispettivi $OA$ ed $OB$, e per il punto $O$ si conduca la semiretta tangente comune, sulla quale si prenda il segmento $OC=a$. Con origine $O$, si conduca una semiretta, che forma con $OB$ un angolo $\alpha$ e interseca in $P$ e $Q$ le semicirconferenze.
 
 **1.** Si calcoli il rapporto

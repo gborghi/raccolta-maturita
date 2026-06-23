@@ -17,6 +17,8 @@ Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_1|Quesito 1]]*
+
 Le misure dei lati di un triangolo sono $10$, $24$ e $26$ cm. Si calcolino, con l'aiuto di una calcolatrice, le ampiezze degli angoli del triangolo approssimandole in gradi e primi sessagesimali.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -25,6 +27,8 @@ Le misure dei lati di un triangolo sono $10$, $24$ e $26$ cm. Si calcolino, con 
 **Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_2|Quesito 2]]*
 
 Si calcoli e si interpreti geometricamente l'integrale definito: $\displaystyle\int_{-1}^{1} \frac{1}{1+x^2}\,dx$.
 
@@ -35,6 +39,8 @@ Si calcoli e si interpreti geometricamente l'integrale definito: $\displaystyle\
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_3|Quesito 3]]*
+
 La capacità di una damigiana di vino è pari a quella del massimo cono circolare retto inscritto in una sfera di raggio $60$ cm. Si dica quanti litri di vino la damigiana può contenere.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -43,6 +49,8 @@ La capacità di una damigiana di vino è pari a quella del massimo cono circolar
 **Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_4|Quesito 4]]*
 
 Si dia un esempio, almeno, di polinomio $P(x)$ il cui grafico tagli la retta $y=3$ in $3$ punti distinti.
 
@@ -53,6 +61,8 @@ Si dia un esempio, almeno, di polinomio $P(x)$ il cui grafico tagli la retta $y=
 **Soluzione:** [[Soluzioni/2008_estero_australe_2008_sessione_ordinaria_questionario_45#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_5|Quesito 5]]*
 
 Quanti sono i numeri di quattro cifre (distinte tra loro) che è possibile scrivere utilizzando le cifre dispari?
 

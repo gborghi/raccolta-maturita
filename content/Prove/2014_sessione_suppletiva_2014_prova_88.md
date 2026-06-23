@@ -17,6 +17,8 @@ Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_suppletiva_2014_prova_88_1|Problema 1]]*
+
 Sono dati un quarto di cerchio $AOB$ e la tangente $t$ ad esso in $A$. Dal punto $O$ si mandi una semiretta che intersechi l'arco $AB$ e la tangente $t$, rispettivamente, in $M$ ed $N$.
 
 1. Posto $A\hat{O}M=a$, si calcoli il rapporto: $\dfrac{MN}{MA}$ e lo si esprima in funzione di $x=\operatorname{sen}\dfrac{a}{2}$, controllando che risulta:
@@ -33,6 +35,8 @@ $$f(x)=\frac{x}{1-2x^2}$$
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_suppletiva_2014_prova_88_2|Problema 2]]*
+
 Si consideri la funzione: $f(x)=\dfrac{1}{x\,\log^2 x}$.
 
 1. Si studi tale funzione e si tracci il suo grafico $\gamma$, su un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$.
@@ -48,6 +52,8 @@ Si consideri la funzione: $f(x)=\dfrac{1}{x\,\log^2 x}$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_1|Quesito 1]]*
+
 1. Si determini il dominio della funzione $f(x)=\sqrt{e^{2x}-3e^x+2}$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
@@ -58,6 +64,8 @@ Si consideri la funzione: $f(x)=\dfrac{1}{x\,\log^2 x}$.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_2|Quesito 2]]*
+
 2. La funzione: $f(x)=\operatorname{sen}\sqrt[3]{x}$, è evidentemente continua nel punto $x=0$. Si dimostri che nello stesso punto non è derivabile.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -66,6 +74,8 @@ Si consideri la funzione: $f(x)=\dfrac{1}{x\,\log^2 x}$.
 **Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_3|Quesito 3]]*
 
 3. Si scriva l'equazione della tangente al diagramma della funzione:
 $$f(x)=\frac{x^2}{3}\left(2+\operatorname{sen}^2\frac{1}{x}\right)$$
@@ -78,6 +88,8 @@ nel punto $P$ di ascissa $x=\dfrac{1}{\pi}$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_4|Quesito 4]]*
+
 4. Data la parte finita di piano compresa tra le rette $x+y-1=0$ e $x-1=0$ ed il grafico della funzione $y=e^x$, si determini la sua area ed il volume del solido ottenuto facendola ruotare di un giro completo attorno all'asse $x$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
@@ -87,6 +99,8 @@ nel punto $P$ di ascissa $x=\dfrac{1}{\pi}$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_5|Quesito 5]]*
+
 5. Un osservatore posto sulla riva di un lago a 236 m sopra il livello dell'acqua, vede un aereo sotto un angolo di elevazione $\alpha$ di $42{,}4°$ e la sua immagine riflessa sull'acqua sotto un angolo di depressione $\beta$ di $46{,}5°$. Si trovi l'altezza dell'aereo rispetto all'osservatore.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -95,6 +109,8 @@ nel punto $P$ di ascissa $x=\dfrac{1}{\pi}$.
 **Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.102](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_6|Quesito 6]]*
 
 6. Si trovino gli eventuali flessi della curva:
 $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
@@ -107,6 +123,8 @@ $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_7|Quesito 7]]*
+
 7. Una scatola di forma cilindrica ha raggio $r$ e altezza $h$. Se si aumenta del 5% ciascuna sua dimensione, di quanto aumenterà, in termini percentuali, il suo volume?
 
 **Topic:** [[Geometria Solida]], [[Derivate]]
@@ -115,6 +133,8 @@ $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 **Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.105](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_8|Quesito 8]]*
 
 8. Si calcoli il limite della funzione $\dfrac{\operatorname{sen}x+\cos x-\sqrt2}{\log\operatorname{sen}2x}$, quando $x$ tende a $\dfrac{\pi}{4}$.
 
@@ -125,6 +145,8 @@ $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_9|Quesito 9]]*
+
 9. Si calcoli il valore medio della funzione: $y=\cos^5 x$, nell'intervallo $0\le x\le\dfrac{\pi}{2}$.
 
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
@@ -133,6 +155,8 @@ $$f(x)=x\left[(\log 3x)^2-2\log 3x+2\right]$$
 **Soluzione:** [[Soluzioni/2014_sessione_suppletiva_2014_prova_88#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.108](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_suppletiva_2014_prova_88_10|Quesito 10]]*
 
 10. Un certo numero formato da tre cifre è uguale a 56 volte la somma delle cifre che lo compongono. La cifra delle unità è uguale a quella delle decine aumentata di 4, mentre, scambiando la cifra delle unità con quella delle centinaia, si ottiene un valore che è uguale a quello originario diminuito di 99. Si determini il numero di partenza.
 

@@ -16,6 +16,8 @@ Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_calendario_australe_suppletiva_2010_problema1_64_1|Problema 1]]*
+
 In un sistema di riferimento cartesiano $Oxy$, si consideri la parabola $\lambda$ di equazione $y = kx^2$, dove $k > 0$.
 
 **a)** Sia $P$ un punto di $\lambda$ del I quadrante e siano $A$ e $B$ le proiezioni di $P$ rispettivamente sugli assi $x$ e $y$. Si considerino le due regioni in cui $\lambda$ divide il rettangolo $OAPB$ e se ne calcolino le rispettive aree.

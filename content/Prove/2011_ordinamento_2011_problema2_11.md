@@ -16,6 +16,8 @@ Fonte: p.11 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_ordinamento_2011_problema2_11_1|Problema 1]]*
+
 È data la funzione
 $$f(x)=(ax+b)\,e^{-\frac{x}{3}}+3,$$
 dipendente dai parametri reali $a$ e $b$.

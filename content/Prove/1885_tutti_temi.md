@@ -17,6 +17,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1885_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Trovare i rapporti dei lati di un triangolo nel quale gli angoli stanno come $3 : 4 : 5$.
 
 **Topic:** [[Trigonometria]], [[Topics/Fisica|Fisica]]
@@ -25,6 +27,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.48](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1885_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Un grave è lanciato verticalmente: è dato il tempo trascorso dall'istante in cui esso passa per una data posizione all'istante in cui esso ritorna, scendendo, in quella stessa posizione. Trovare la velocità iniziale.
 

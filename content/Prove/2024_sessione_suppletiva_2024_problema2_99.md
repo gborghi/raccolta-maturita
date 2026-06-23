@@ -16,6 +16,8 @@ Fonte: p.99 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_suppletiva_2024_problema2_99_1|Problema 1]]*
+
 Si consideri la famiglia di curve $f_a(x)=\frac{x^2-1}{e^{ax}}$, con $a$ parametro reale non nullo, e si indichi con $\Gamma_a$ il grafico di $f_a$.
 
 a) Verificare che tutti i grafici $\Gamma_a$ hanno tre punti in comune e scrivere le loro coordinate.

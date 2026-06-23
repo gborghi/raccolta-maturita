@@ -17,6 +17,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_1|Quesito 1]]*
+
 **Quesito 1.** Calcolare l'ampiezza dell'angolo diedro formato da due facce consecutive di un ottaedro regolare, espressa in gradi sessagesimali e approssimata al secondo.
 
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
@@ -25,6 +27,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_2|Quesito 2]]*
 
 **Quesito 2.** Dimostrare che, se due piani sono perpendicolari, ogni retta perpendicolare a uno di essi è parallela all'altro o è contenuta in esso. Si può concludere che ogni retta parallela a uno dei due piani è perpendicolare all'altro? Fornire un'esauriente spiegazione della risposta.
 
@@ -35,6 +39,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_3|Quesito 3]]*
+
 **Quesito 3.** Determinare il dominio della funzione $f(x)=\ln\left(1-2x+\sqrt{x}\right)$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -44,6 +50,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.137](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_4|Quesito 4]]*
 
 **Quesito 4.** Il limite di $\operatorname{tg}x$ per $x$ tendente a $+\infty$:
 
@@ -58,6 +66,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_5|Quesito 5]]*
+
 **Quesito 5.** Si consideri la seguente implicazione: «Se la funzione reale di variabile reale $f(x)$ è derivabile nel punto $a$ allora è continua in $a$». Come noto, essa enuncia un importante teorema di analisi matematica. Enunciare le implicazioni inversa, contronominale e contraria dell'implicazione considerata e dire di ciascuna di esse se si tratta di un teorema. Quando non lo è fornire un esempio che chiarisca la situazione.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -66,6 +76,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.138](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_6|Quesito 6]]*
 
 **Quesito 6.** Determinare il più grande valore reale del parametro reale $m$ per cui il valore del seguente integrale:
 
@@ -80,6 +92,8 @@ non supera 24.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_7|Quesito 7]]*
+
 **Quesito 7.** In un piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, è assegnato un triangolo qualsiasi. Dimostrare le formule che esprimono le coordinate del baricentro del triangolo in funzione delle coordinate dei suoi vertici.
 
 **Topic:** [[Geometria Analitica (piano)]]
@@ -89,6 +103,8 @@ non supera 24.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_8|Quesito 8]]*
+
 **Quesito 8.** Si consideri l'esperimento consistente nel lancio di un dado con le facce numerate da «1» a «6», svolti tutte le stesse possibilità di uscire. Si ottiene un successo se, nell'esperimento, esca almeno un «5». Determinare il minimo numero di volte in cui bisogna effettuare l'esperimento per garantirsi una probabilità pari almeno al 99% di ottenere almeno un successo.
 
 **Topic:** [[Probabilita]]
@@ -97,6 +113,8 @@ non supera 24.
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_9|Quesito 9]]*
 
 **Quesito 9.** Alla finale dei 200 m piani partecipano 8 atleti, fra i quali figurano i nostri amici Antonio e Pietro. Sapendo che sul podio finiscono i primi 3 classificati e ammesso che tutti gli atleti abbiano le stesse possibilità, calcolare la probabilità che:
 
@@ -112,6 +130,8 @@ c) nessuno dei due finisca sul podio.
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_10|Quesito 10]]*
 
 **Quesito 10.** In un piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le affinità di equazioni:
 

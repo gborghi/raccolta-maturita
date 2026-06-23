@@ -16,6 +16,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_suppletiva_pni_2000_problema2_48_1|Problema 1]]*
+
 Il triangolo $ABC$, rettangolo e non isoscele, è la base di una piramide di altezza $\dfrac{3a\sqrt{2}}{3}$.
 
 Le misure dei suoi cateti sono date da due delle tre radici dell'equazione:

@@ -16,6 +16,8 @@ Fonte: p.66 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_ordinamento_2002_sessione_straordinaria_problema2_66_1|Problema 1]]*
+
 Con riferimento a un sistema di assi cartesiani ortogonali $(Oxy)$:
 
 **a)** studiare le funzioni:

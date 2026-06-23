@@ -16,6 +16,8 @@ Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwux
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_ordinamento_2010_problema1_7_1|Problema 1]]*
+
 *(Statement non trascrivibile dalle pagine disponibili — vedi PDF.)*
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Calcolo Integrale]]

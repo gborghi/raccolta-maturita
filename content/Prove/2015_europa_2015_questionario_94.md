@@ -17,6 +17,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_1|Quesito 1]]*
+
 **Quesito 1.** La funzione $f(x)$ è continua per $x\in[-4;4]$, il suo grafico è la spezzata passante per i punti: $(-4,0)$, $(-3,1)$, $(-2,0)$, $(0,-2)$, $(1,0)$, $(3,2)$, $(4,1)$. Qual è il valor medio di $f(x)$ per $x\in[-4;4]$? *(figura nel PDF)*
 
 **Topic:** [[Calcolo Integrale]]
@@ -25,6 +27,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.94](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_2|Quesito 2]]*
 
 **Quesito 2.** Da un'analisi di mercato è risultato che il 32% della popolazione usa il prodotto A. Scelto a caso un gruppo di 12 persone, determinare il valore medio, la varianza e la deviazione standard della variabile casuale $X=$ «numero di persone che usa il prodotto A». Calcolare inoltre la probabilità che, all'interno del gruppo scelto, il numero di persone che usano detto prodotto sia compreso tra 2 e 5, estremi inclusi.
 
@@ -35,6 +39,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_3|Quesito 3]]*
+
 **Quesito 3.** In un riferimento cartesiano $Oxyz$, si verifichi che la circonferenza $\gamma$, intersezione della sfera di equazione $x^2+y^2+z^2=4$ e del piano $z=1$ ha centro in $(0,0,1)$ e raggio $\sqrt{3}$. Si immagini che una sorgente di luce puntiforme $S$ sia situata sul semiasse positivo delle $z$. A quale distanza dal centro della sfera si deve trovare $S$ affinché $\gamma$ sia il confine tra la zona della sfera che risulta illuminata e quella che resta in ombra?
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Solida]]
@@ -43,6 +49,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_4|Quesito 4]]*
 
 **Quesito 4.** Sia $P(x)=x^2+bx+c$. Si suppone che $P(P(1))=P(P(2))=0$ e che $P(1)\ne P(2)$. Calcolare $P(0)$.
 
@@ -53,6 +61,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_5|Quesito 5]]*
+
 **Quesito 5.** Risolvere l'integrale improprio: $\displaystyle\int_0^1 \ln(x)\,dx$.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -62,6 +72,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_6|Quesito 6]]*
+
 **Quesito 6.** La popolazione di una colonia di batteri è di 4000 batteri al tempo $t=0$ e di 6500 al tempo $t=3$. Si suppone che la crescita della popolazione sia esponenziale, rappresentabile, cioè, con l'equazione differenziale $\dfrac{dy}{dt}=k\cdot y$, dove $k$ è una costante e $y$ la popolazione di batteri al tempo $t$. Al tempo $t=10$, la popolazione supererà i 20000 batteri?
 
 **Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]]
@@ -70,6 +82,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_7|Quesito 7]]*
 
 **Quesito 7.** Una particella si muove lungo una certa curva secondo le seguenti leggi:
 $$x(t)=3-2\cdot\cos(t),\qquad y(t)=2+3\cdot\operatorname{sen}(t).$$
@@ -82,6 +96,8 @@ Disegnare la traiettoria percorsa dalla particella per $t$ che va da 0 a $2\pi$ 
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_8|Quesito 8]]*
+
 **Quesito 8.** Se $f(x)=\displaystyle\int_1^{x^3}\frac{1}{1+\ln(t)}\,dt$ per $x\ge1$, qual è il valore di $f'(2)$?
 
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
@@ -91,6 +107,8 @@ Disegnare la traiettoria percorsa dalla particella per $t$ che va da 0 a $2\pi$ 
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_9|Quesito 9]]*
+
 **Quesito 9.** Risolvere il seguente problema posto nel 1547 da Ludovico Ferrari a Niccolò Tartaglia: "Si divida il numero 8 in 2 numeri reali non negativi in modo che sia massimo il prodotto di uno per l'altro e per la loro differenza".
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
@@ -99,6 +117,8 @@ Disegnare la traiettoria percorsa dalla particella per $t$ che va da 0 a $2\pi$ 
 **Soluzione:** [[Soluzioni/2015_europa_2015_questionario_94#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.102](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2015_europa_2015_questionario_94_10|Quesito 10]]*
 
 **Quesito 10.** Trovare l'equazione della retta perpendicolare al grafico di $f(x)=4x^3-7x^2$ nel punto di ascissa 3.
 

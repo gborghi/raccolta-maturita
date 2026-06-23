@@ -16,6 +16,8 @@ Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_liceo_scientifico_2016_problema1_22_1|Problema 1]]*
+
 L'amministratore di un piccolo condominio deve installare un nuovo serbatoio per il gasolio da riscaldamento. Non essendo soddisfatto dei modelli esistenti in commercio, ti incarica di progettarne uno che risponda alle esigenze del condominio.
 
 *(figura nel PDF)*

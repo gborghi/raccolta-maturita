@@ -16,6 +16,8 @@ Fonte: p.128 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema1_128_1|Problema 1]]*
+
 Considerato un triangolo $ABC$, acutangolo e isoscele sulla base $BC$, si chiami $D$ il piede della sua altezza condotta per $C$ e si costruisca, dalla stessa parte di $A$ rispetto a $BC$, il punto $E$ in modo che il triangolo $ECD$ sia simile ad $ABC$.
 
 **a)** Dimostrare che:

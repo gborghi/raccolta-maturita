@@ -16,6 +16,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_americhe_2015_problema2_47_1|Problema 1]]*
+
 Sia $f$ la funzione definita da $f(x)=(4x-2)\cdot e^{2x}$.
 
 **1)** Dimostra che la funzione possiede un unico punto di minimo e un unico punto di flesso. Calcola le coordinate del minimo e del flesso e traccia il grafico $G_f$ della funzione.

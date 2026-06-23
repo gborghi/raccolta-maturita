@@ -16,6 +16,8 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_pni_2013_sessione_suppletiva_problema1_76_1|Problema 1]]*
+
 **PNI 2013 – Sessione suppletiva — Problema 1**
 
 È dato un angolo retto $X\hat{O}Y$ e sulla sua bisettrice un punto $P$, tale che $P\hat{A}O = 2\cdot P\hat{B}O$, essendo $A$ e $B$ punti, rispettivamente, di $OX$ e di $OY$.

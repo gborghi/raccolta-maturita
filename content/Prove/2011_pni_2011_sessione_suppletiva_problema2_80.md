@@ -16,6 +16,8 @@ Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_pni_2011_sessione_suppletiva_problema2_80_1|Problema 1]]*
+
 Si consideri la funzione
 $$f(x)=(3-x)\sqrt{x+3}.$$
 

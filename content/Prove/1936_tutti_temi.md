@@ -17,6 +17,8 @@ Fonte: p.82 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1936_tutti_temi_1|Problema 1]]*
+
 Sopra una retta due segmenti adiacenti $AB$ e $BC$ di lunghezze rispettivamente $2r$ e $4r$ sono diametri di due circonferenze complanari di centri $O$ ed $O'$. Una semiretta $AX$ uscente da $A$ sega le due circonferenze: la prima in $M$, oltre che in $A$, la seconda in $N$ e $P$, con $N$ più vicino ad $M$. Supposta uguale a $\varphi$ la misura dell'angolo $M\widehat{A}B$ e detta $Q'$ la proiezione di $O'$ sulla retta $AP$, determinare le lunghezze dei segmenti $O'Q'$, $NQ$, $AM$ e dire come deve essere scelto $\varphi$ affinché il segmento $MN$ risulti uguale ad un segmento dato di lunghezza $a$.
 
 Discussione e costruzione geometrica in base alla formula di risoluzione.
@@ -28,6 +30,8 @@ Discussione e costruzione geometrica in base alla formula di risoluzione.
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1936_tutti_temi_3|Problema 1]]*
+
 Sopra l'arco $\overset{\frown}{AB}$, quarta parte della circonferenza di centro $O$ e raggio $2r$, determinare un punto $P$ tale che, detti $M$ ed $N$ i due punti situati rispettivamente sui raggi $OA$ e $OB$ alla distanza $r$ da $O$, il quadrangolo $MONP$ abbia per area $kr^2$, essendo $k$ un numero reale positivo. Discussione.
 
 Il candidato può aggiungere la risoluzione e discussione per via geometrica.
@@ -38,6 +42,8 @@ Il candidato può aggiungere la risoluzione e discussione per via geometrica.
 **Fonte:** [📄 Testo (PDF) — p.82](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1936_tutti_temi_2|Problema 2]]*
 
 In uno stesso sistema di coordinate cartesiane ortogonali due curve (parabole) hanno per equazioni:
 
@@ -54,6 +60,8 @@ Disegnare le due curve dopo aver trovato i loro punti d'intersezione, i punti d'
 **Fonte:** [📄 Testo (PDF) — p.82](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1936_tutti_temi_4|Problema 2]]*
 
 In un sistema di coordinate cartesiane ortogonali di origine $O$, una curva (parabola) ha per equazione
 

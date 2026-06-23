@@ -16,6 +16,8 @@ Fonte: p.95 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1953_tutti_temi_1|Problema 1]]*
+
 Risolvere il sistema:
 
 $$\begin{cases} x^2 = kx + (k-1)y + (1-k) \\ y^2 = -kx + (1-k)y + k \end{cases}$$

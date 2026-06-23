@@ -16,6 +16,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBf
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2012_4_44_1|Problema 1]]*
+
 *(Statement non trascrivibile dalle pagine disponibili — le pagine contengono soltanto la risoluzione della simulazione 2012-13, Corso Sperimentale; il testo dei problemi è quello della prova precedente. Vedi PDF.)*
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]]

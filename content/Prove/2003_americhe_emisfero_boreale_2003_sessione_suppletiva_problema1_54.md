@@ -16,6 +16,8 @@ Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_americhe_emisfero_boreale_2003_sessione_suppletiva_problema1_54_1|Problema 1]]*
+
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, sono assegnati i punti $A(a,0)$ e $B(0,2a)$, dove $a$ è un parametro reale positivo.
 
 **a)** Trovare l'equazione della parabola di asse parallelo all'asse $y$, avente il vertice in $A$ e passante per $B$.

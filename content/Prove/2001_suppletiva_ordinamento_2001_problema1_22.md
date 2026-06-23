@@ -16,6 +16,8 @@ Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2Cg
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2001_suppletiva_ordinamento_2001_problema1_22_1|Problema 1]]*
+
 Si consideri la funzione reale $f_m$ di variabile reale $x$ tale che:
 $$f_m=\frac{x^2}{|x-2m|+m}$$
 dove $m$ è un parametro reale non nullo.

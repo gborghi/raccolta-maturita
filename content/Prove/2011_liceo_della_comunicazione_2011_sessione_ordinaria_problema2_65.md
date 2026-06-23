@@ -16,6 +16,8 @@ Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_liceo_della_comunicazione_2011_sessione_ordinaria_problema2_65_1|Problema 1]]*
+
 Nel piano, riferito ad assi cartesiani $Oxy$, sono dati i punti: $A(2; 1)$, $B(-2; 1)$, $C(2; 3)$, $D(2; 5)$, $E(6; 5)$.
 
 **a)** Si verifichi che il quadrilatero convesso $ABDE$ è un parallelogramma del quale $C$ è il punto d'incontro delle diagonali. Si calcoli l'area del quadrilatero.

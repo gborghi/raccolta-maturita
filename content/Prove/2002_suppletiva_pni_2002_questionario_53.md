@@ -17,6 +17,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_1|Quesito 1]]*
+
 **Quesito 1.** Da un'urna contenente $90$ palline numerate se ne estraggono quattro senza reimbussolamento. Supponendo che l'ordine in cui i numeri vengono estratti sia irrilevante, come è nel gioco dell'Enalotto, si calcoli la probabilità che esca la quaterna $(7, 47, 67, 87)$.
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -25,6 +27,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_questionario_53#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_2|Quesito 2]]*
 
 **Quesito 2.** Calcolare la probabilità che in dieci lanci di una moneta non truccata dal quinto lancio in poi esca sempre testa.
 
@@ -35,6 +39,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_3|Quesito 3]]*
+
 **Quesito 3.** Calcolare la derivata rispetto ad $x$ della funzione $\displaystyle\int_x^b f(t)\,dt$, ove $f(x)$ è una funzione continua.
 
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
@@ -43,6 +49,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_questionario_53#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_4|Quesito 4]]*
 
 **Quesito 4.** Calcolare:
 $$\lim_{x\to 0}\frac{\displaystyle\int_0^x \mathrm{sen}\,t^3\,dt}{x^4}$$
@@ -54,6 +62,8 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x \mathrm{sen}\,t^3\,dt}{x^4}$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_5|Quesito 5]]*
+
 **Quesito 5.** Utilizzando il teorema di Rolle provare che tra due radici reali di $e^x\,\mathrm{sen}\,x=1$ c'è almeno una radice reale di $e^x\cos x=-1$.
 
 **Topic:** [[Derivate]], [[Equazioni e Disequazioni]]
@@ -62,6 +72,8 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x \mathrm{sen}\,t^3\,dt}{x^4}$$
 **Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_questionario_53#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_6|Quesito 6]]*
 
 **Quesito 6.** Applicando il teorema di Lagrange all'intervallo di estremi $1$ e $x$, provare che:
 $$1-\frac{1}{x}<\log x<x-1$$
@@ -74,6 +86,8 @@ e dare del risultato un'interpretazione grafica.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_7|Quesito 7]]*
+
 **Quesito 7.** Verificare che la funzione $y=f(x)=\dfrac{1-e^{1-x}}{1+e^{1-x}}$ è invertibile e, detta $g$ la funzione inversa, calcolare $g'(0)$.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
@@ -83,6 +97,8 @@ e dare del risultato un'interpretazione grafica.
 **Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_questionario_53#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_8|Quesito 8]]*
 
 **Quesito 8.** Con uno dei metodi di quadratura studiati, si valuti l'integrale definito
 $$\int_1^3 \frac{\ln x}{x}\,dx$$
@@ -95,6 +111,8 @@ con un errore inferiore a $10^{-4}$.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_9|Quesito 9]]*
+
 **Quesito 9.** Verificato che l'equazione $\cos x-\log x=0$ ammette una sola radice positiva compresa tra $1$ e $2$, se ne calcoli un'approssimazione applicando uno dei metodi numerici studiati.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Esponenziali e Logaritmi]]
@@ -103,6 +121,8 @@ con un errore inferiore a $10^{-4}$.
 **Soluzione:** [[Soluzioni/2002_suppletiva_pni_2002_questionario_53#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_10|Quesito 10]]*
 
 **Quesito 10.** Chiarire, con esempi appropriati, la differenza in matematica tra «concetto primitivo» e «assioma».
 

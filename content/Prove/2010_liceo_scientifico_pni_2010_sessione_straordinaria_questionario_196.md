@@ -17,6 +17,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_1|Quesito 1]]*
+
 **Quesito 1.** Due osservatori si trovano ai lati opposti di un grattacielo, a livello del suolo. La cima dell'edificio dista $1600$ metri dal primo osservatore, che la vede con un angolo di elevazione di $15°$. Se il secondo individuo si trova a $650$ metri dalla cima del grattacielo, quale è la distanza tra i due osservatori?
 
 **Topic:** [[Trigonometria]]
@@ -25,6 +27,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.196](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_2|Quesito 2]]*
 
 **Quesito 2.** Si calcoli il limite della funzione $(1 + \operatorname{tg} x)^{\operatorname{cotg} x}$ quando $x$ tende a $0$.
 
@@ -35,6 +39,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_3|Quesito 3]]*
+
 **Quesito 3.** In quanti modi $10$ persone possono disporsi su dieci sedili allineati? E attorno ad un tavolo circolare?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -43,6 +49,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.197](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_4|Quesito 4]]*
 
 **Quesito 4.** Si dimostri che ogni funzione $f(x) = ax^3 + bx^2 + cx + d$ dove $a$, $b$, $c$, $d$ sono valori reali con $a \neq 0$, ha un massimo e un minimo relativi oppure non ha estremanti.
 
@@ -54,6 +62,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_5|Quesito 5]]*
+
 **Quesito 5.** Si calcoli il volume del solido generato da una rotazione completa attorno all'asse $x$ del triangolo di vertici $A(2, 2)$, $B(6, 4)$, $C(6, 6)$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]], [[Geometria Solida]]
@@ -63,6 +73,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_6|Quesito 6]]*
+
 **Quesito 6.** I vertici di un triangolo sono: $O(0,0)$, $A(0,2)$, $B(1,1)$. Si trovi l'equazione della circonferenza $\gamma$ inscritta nel triangolo $OAB$ e quella della circonferenza $\gamma'$ ad esso circoscritta.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Geometria Euclidea]]
@@ -71,6 +83,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.199](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_7|Quesito 7]]*
 
 **Quesito 7.** Si verifichi che la cubica di equazione $y = x^3 + 3x^2 + 3x - 7$ è simmetrica rispetto al suo punto di flesso.
 
@@ -82,6 +96,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_8|Quesito 8]]*
+
 **Quesito 8.** Si dimostri che l'equazione $\dfrac{1}{x} - e^x = 0$ ha un'unica radice reale e se ne calcoli un valore approssimato con due cifre decimali esatte.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -92,6 +108,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_9|Quesito 9]]*
+
 **Quesito 9.** Una rappresentanza di cinque persone deve essere scelta a caso tra dieci uomini e tre donne. Qual è la probabilità che il comitato sia costituito da tre uomini e due donne?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -100,6 +118,8 @@ Fonte: p.196 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Soluzione:** [[Soluzioni/2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.202](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2010_liceo_scientifico_pni_2010_sessione_straordinaria_questionario_196_10|Quesito 10]]*
 
 **Quesito 10.** Sia data l'ellisse di equazione $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ e il rombo in essa inscritto, con i vertici coincidenti con quelli dell'ellisse. Si scelga a caso un punto all'interno dell'ellisse: si determini la probabilità che tale punto risulti esterno al rombo.
 

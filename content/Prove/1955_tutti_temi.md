@@ -16,6 +16,8 @@ Fonte: p.96 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1955_tutti_temi_1|Problema 1]]*
+
 In un piano, riferito ad un sistema di assi cartesiani $Oxy$, sono date la circonferenza di equazione $x^2 + y^2 = r^2$ e le rette di equazione
 
 $$y = -\frac{r\sqrt{3}}{2} \quad \text{e} \quad y = \frac{x}{\sqrt{3}}.$$

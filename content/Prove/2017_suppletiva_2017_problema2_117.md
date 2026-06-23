@@ -16,6 +16,8 @@ Fonte: p.117 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQ
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2017_suppletiva_2017_problema2_117_1|Problema 1]]*
+
 Data una funzione $g: \mathbb{R} \to \mathbb{R}$ ovunque derivabile, consideriamo la funzione
 
 $$f(x) = g(x)\,\mathrm{sen}(2x).$$

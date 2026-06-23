@@ -16,6 +16,8 @@ Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_suppletiva_pni_2003_problema1_122_1|Problema 1]]*
+
 In un piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le parabole di equazione:
 $$y=(a-1)x^2-2ax+a^2$$
 dove $a$ è un parametro reale diverso da $1$.

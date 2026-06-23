@@ -16,6 +16,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1991_tutti_temi_1|Problema 1]]*
+
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
 1. In un piano cartesiano ortogonale $Oxy$ si consideri il punto $A(2x, 0)$.

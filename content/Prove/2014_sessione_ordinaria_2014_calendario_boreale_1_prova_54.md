@@ -17,6 +17,8 @@ Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_1|Problema 1]]*
+
 La circonferenza $\Sigma_1$ di centro $C$ e raggio $a = 1$ appartiene al semipiano delle $y$ positive ed è tangente all'asse $x$ nell'origine $O$ del sistema di riferimento.
 
 1. Da un punto $P$ dell'asse $x$, distinto da $O$, si conduca l'ulteriore tangente a $\Sigma_1$ e si indichi con $T$ il punto di tangenza. Successivamente, si consideri la circonferenza $\Sigma_2$ tangente esternamente a $\Sigma_1$ nel punto $T$ e tangente altresì all'asse $x$ in un punto $A$; si denoti con $B$ il centro di $\Sigma_2$ e con $b$ il suo raggio. Si dimostri che i triangoli $OTA$ e $CPB$ sono entrambi rettangoli e che $\overline{OP}^2 = ab$.
@@ -33,6 +35,8 @@ La circonferenza $\Sigma_1$ di centro $C$ e raggio $a = 1$ appartiene al semipia
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_2|Problema 2]]*
 
 Si consideri, in un riferimento cartesiano $Oxy$, la funzione $f(x) = x(x - 1)(x - k)$ con $k \in \mathbb{R}$.
 
@@ -52,6 +56,8 @@ Si consideri, in un riferimento cartesiano $Oxy$, la funzione $f(x) = x(x - 1)(x
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_1|Quesito 1]]*
+
 1. Si determini, se esiste, un cono circolare retto tale che il suo volume e la sua superficie totale abbiano lo stesso valore numerico.
 
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
@@ -60,6 +66,8 @@ Si consideri, in un riferimento cartesiano $Oxy$, la funzione $f(x) = x(x - 1)(x
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_2|Quesito 2]]*
 
 2. Si calcoli
 $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$$
@@ -71,6 +79,8 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_3|Quesito 3]]*
+
 3. Si trovi un polinomio di terzo grado $p(x)$ che si annulli per $x = -3$ e tale che la retta tangente alla curva $y = p(x)$ nel suo punto di ascissa zero abbia equazione $2x + y - 6 = 0$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -79,6 +89,8 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_4|Quesito 4]]*
 
 4. Lo sviluppo della potenza $\left(x^3 + y^4\right)^{20}$ contiene il termine la cui parte letterale è: $x^{21} y^{26}$. Si trovi il valore di $k$.
 
@@ -89,6 +101,8 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_5|Quesito 5]]*
+
 5. Una targa d'argento ha la forma di un rettangolo di area $600 \text{ cm}^2$. La zona dove va incisa l'iscrizione è anch'essa rettangolare ed è posta a $2$ cm sia dal lato superiore sia dal lato inferiore della targa, lasciando inoltre un bordo di $3$ cm a sinistra e di $3$ cm a destra. Si determinino le dimensioni della targa in modo che sia massima l'area della zona dedicata all'incisione e si calcoli la percentuale dell'area totale da essa occupata.
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
@@ -97,6 +111,8 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_6|Quesito 6]]*
 
 6. Si spieghi perché le facce di un poliedro regolare sono tutti triangoli, tutti quadrati o tutti pentagoni.
 
@@ -107,6 +123,8 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_7|Quesito 7]]*
+
 7. Si calcolino, con l'aiuto di una calcolatrice, le ampiezze, in gradi e primi sessagesimali, degli angoli di un triangolo i cui lati misurano $10$, $24$ e $26$ decimetri.
 
 **Topic:** [[Trigonometria]]
@@ -115,6 +133,8 @@ $$\lim_{x \to 0^+} \frac{\ln(\operatorname{sen} 3x)}{\ln(\operatorname{sen} x)}$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_calendario_boreale_1_prova_54_8|Quesito 8]]*
 
 8. Siano $x_1$ e $x_2$ gli zeri di $P(x) = x^2 - x - 2014$, con $x_1 < x_2$. Siano $x_3$ e $x_4$ gli zeri di $Q(x) = x^2 - 2x - 2014$ con $x_3 < x_4$. Si calcoli $(x_4 - x_2) + (x_3 - x_1)$.
 

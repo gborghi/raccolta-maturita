@@ -17,6 +17,8 @@ Fonte: p.184 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_ordinaria_2005_prova_184_1|Problema 1]]*
+
 Nel piano $Oxy$ sono date le curve $\lambda$ e $r$ d'equazioni:
 
 $$\lambda:\ x^2 = 4(x - y) \qquad r:\ 4y = x + 6.$$
@@ -34,6 +36,8 @@ $$\lambda:\ x^2 = 4(x - y) \qquad r:\ 4y = x + 6.$$
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_184#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_ordinaria_2005_prova_184_2|Problema 2]]*
 
 Si consideri la funzione $f$ definita sull'intervallo $[0; +\infty[$ da:
 
@@ -54,6 +58,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_1|Quesito 1]]*
+
 1. Si dimostri che il lato del decagono regolare inscritto in un cerchio è sezione aurea del raggio e si utilizzi il risultato per calcolare $\sin 18°$, $\sin 36°$.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -63,6 +69,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_2|Quesito 2]]*
+
 2. Si dia una definizione di retta tangente ad una curva. Successivamente, si dimostri che la curva $y = x \sin x$ è tangente alla retta $y = x$ quando $\sin x = 1$ ed è tangente alla retta $y = -x$ quando $\sin x = -1$.
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -71,6 +79,8 @@ e sia $C$ la sua curva rappresentativa nel riferimento $Oxy$, ortogonale e monom
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_184#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_3|Quesito 3]]*
 
 3. Si determinino le equazioni di due simmetrie assiali $\sigma$ e $\varphi$ la cui composizione $\sigma \circ \varphi$ dia luogo alla traslazione di equazione:
 $$\begin{cases} x' = x + 5 \\ y' = y - 5 \end{cases}$$
@@ -83,6 +93,8 @@ Si determinino poi le equazioni della trasformazione che si ottiene componendo l
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_4|Quesito 4]]*
+
 4. Una bevanda viene venduta in lattine, ovvero contenitori a forma di cilindro circolare retto, realizzati con fogli di latta. Se una lattina ha la capacità di $0{,}4$ litri, quali devono essere le sue dimensioni in centimetri, affinché sia minima la quantità di latta necessaria per realizzarla? (Si trascuri lo spessore della latta).
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -91,6 +103,8 @@ Si determinino poi le equazioni della trasformazione che si ottiene componendo l
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_184#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_5|Quesito 5]]*
 
 5. Come si definisce e quale è l'importanza del numero $e$ di Nepero [nome latinizzato dello scozzese John Napier (1550-1617)]? Si illustri una procedura che consenta di calcolarlo con la precisione voluta.
 
@@ -101,6 +115,8 @@ Si determinino poi le equazioni della trasformazione che si ottiene componendo l
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_6|Quesito 6]]*
+
 6. Le rette $r$ e $s$ d'equazioni rispettive $y = 2x - 4$ e $y + 1 = 2x$ si corrispondono in una omotetia $\sigma$ di centro l'origine $O$. Si determini $\sigma$.
 
 **Topic:** [[Geometria Analitica (piano)]]
@@ -109,6 +125,8 @@ Si determinino poi le equazioni della trasformazione che si ottiene componendo l
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_184#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_7|Quesito 7]]*
 
 7. Come si definisce $n!$ ($n$ fattoriale) e quale ne è il significato nel calcolo combinatorio? Quale è il suo legame con i coefficienti binomiali? Perché?
 
@@ -119,6 +137,8 @@ Si determinino poi le equazioni della trasformazione che si ottiene componendo l
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_8|Quesito 8]]*
+
 8. Si trovi l'equazione della retta tangente alla curva di equazioni parametriche $x = e^t + 2$ e $y = e^{-t} + 3$ nel suo punto di coordinate $(3, 4)$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -128,6 +148,8 @@ Si determinino poi le equazioni della trasformazione che si ottiene componendo l
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_9|Quesito 9]]*
+
 9. Quale è la probabilità di ottenere $10$ lanciando due dadi? Se i lanci vengono ripetuti quale è la probabilità di avere due $10$ in sei lanci? E quale è la probabilità di avere almeno due $10$ in sei lanci?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -136,6 +158,8 @@ Si determinino poi le equazioni della trasformazione che si ottiene componendo l
 **Soluzione:** [[Soluzioni/2005_sessione_ordinaria_2005_prova_184#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_10|Quesito 10]]*
 
 10. Il $40\%$ della popolazione di un Paese ha $60$ anni o più. Può l'età media della popolazione di quel Paese essere uguale a $30$ anni? Si illustri il ragionamento seguito per dare la risposta.
 

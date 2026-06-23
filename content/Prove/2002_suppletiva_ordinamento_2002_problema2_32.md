@@ -16,6 +16,8 @@ Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_suppletiva_ordinamento_2002_problema2_32_1|Problema 1]]*
+
 Una piramide di vertice $V$, avente per base il trapezio rettangolo $ABCD$, è tale che:
 
 - il trapezio di base è circoscritto a un semicerchio avente come diametro il lato $AB$ perpendicolare alle basi del trapezio;

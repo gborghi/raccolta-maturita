@@ -17,6 +17,8 @@ Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_6_1|Problema 1]]*
+
 Si considerino le funzioni $f$ e $g$ definite, per tutti gli $x$ reali, da:
 $$f(x)=x^3-4x \qquad\text{e}\qquad g(x)=\operatorname{sen}\pi x$$
 
@@ -35,6 +37,8 @@ $$f(x)=x^3-4x \qquad\text{e}\qquad g(x)=\operatorname{sen}\pi x$$
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_6_2|Problema 2]]*
 
 Sia $f$ la funzione definita sull'insieme $\mathbb{R}$ dei numeri reali da
 $$f(x)=(ax+b)\,e^{-\frac{x}{3}}+3$$
@@ -63,6 +67,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_1|Quesito 1]]*
+
 1. Un serbatoio ha la stessa capacità del cilindro di massimo volume inscritto in una sfera di raggio 60 cm. Quale è la capacità in litri del serbatoio?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -71,6 +77,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_2|Quesito 2]]*
 
 2. Si trovi il punto della curva $y=\sqrt{x}$ più vicino al punto di coordinate $(4;0)$.
 
@@ -81,6 +89,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_3|Quesito 3]]*
+
 3. Sia $R$ la regione delimitata dalla curva $y=x^3$, dall'asse $x$ e dalla retta $x=2$ e sia $W$ il solido ottenuto dalla rotazione di $R$ attorno all'asse $y$. Si calcoli il volume di $W$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -89,6 +99,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_4|Quesito 4]]*
 
 4. Il numero delle combinazioni di $n$ oggetti a 4 a 4 è uguale al numero delle combinazioni degli stessi oggetti a 3 a 3. Si trovi $n$.
 
@@ -99,6 +111,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_5|Quesito 5]]*
+
 5. Si trovi l'area della regione delimitata dalla curva $y=\cos x$ e dall'asse $x$ da $x=1$ a $x=2$ radianti.
 
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
@@ -107,6 +121,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_6|Quesito 6]]*
 
 6. Si calcoli $$\lim_{x\to a}\frac{\operatorname{tg}x-\operatorname{tg}a}{x-a}.$$
 
@@ -117,6 +133,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_7|Quesito 7]]*
+
 7. Si provi che l'equazione $x^{2011}+2011x+12=0$ ha una sola radice compresa fra $-1$ e $0$.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Limiti e Continuita]], [[Derivate]]
@@ -125,6 +143,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_8|Quesito 8]]*
 
 8. In che cosa consiste il problema della quadratura del cerchio? Perché è così spesso citato?
 
@@ -135,6 +155,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_9|Quesito 9]]*
+
 9. Si provi che, nello spazio ordinario a tre dimensioni, il luogo geometrico dei punti equidistanti dai tre vertici di un triangolo rettangolo è la retta perpendicolare al piano del triangolo passante per il punto medio dell'ipotenusa.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
@@ -143,6 +165,8 @@ Si cerca una funzione che spieghi il fenomeno dell'andamento del profitto giudic
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_6#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_6_10|Quesito 10]]*
 
 10. Nella figura a lato, denotati con I, II e III, sono disegnati tre grafici. Uno di essi è il grafico di una funzione $f$, un altro lo è della funzione derivata $f'$ e l'altro ancora di $f''$. Quale delle seguenti alternative identifica correttamente ciascuno dei tre grafici?
 

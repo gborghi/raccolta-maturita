@@ -16,6 +16,8 @@ Fonte: p.156 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_santiago_del_cile_suppletiva_2010_problema1_156_1|Problema 1]]*
+
 Nel piano riferito ad un sistema di riferimento cartesiano $Oxy$, si denoti con $\Gamma$ la spezzata $OABC$ ove è: $A(2,2)$, $B(3,1)$, $C(4,2)$.
 
 *(figura nel PDF)*

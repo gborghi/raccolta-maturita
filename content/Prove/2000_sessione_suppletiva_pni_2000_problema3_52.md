@@ -16,6 +16,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_suppletiva_pni_2000_problema3_52_1|Problema 1]]*
+
 Si consideri l'esperimento consistente nell'estrazione a caso di $5$ palline, una dopo l'altra, senza reimbussolamento delle palline estratte, da un sacchetto contenente $90$ palline numerate da $1$ a $90$, aventi tutte le stesse possibilità di uscita (gioco del Lotto).
 
 a. Dire se è più probabile che, prescindendo dall'ordine di uscita, esca:

@@ -16,6 +16,8 @@ Fonte: p.107 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1970_tutti_temi_1|Problema 1]]*
+
 **Problema.** Verificare che le due curve piane, grafici cartesiani delle funzioni:
 
 $$y = x^3 + 3x^2 + 3x + 1, \qquad y = x^3 - 3x^2 - 3x + 1$$

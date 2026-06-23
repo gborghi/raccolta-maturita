@@ -17,6 +17,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1883_tutti_temi_1|Problema 1]]*
+
 **Problema 1a.** Dividere il numero $13$ in tre parti i cui quadrati diano la somma $75$ e in modo che i tre quadrati siano in progressione aritmetica.
 
 **Topic:** [[Trigonometria]], [[Successioni e Serie]], [[Equazioni e Disequazioni]]
@@ -25,6 +27,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.48](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1883_tutti_temi_2|Problema 1]]*
 
 **Problema 1b.** Trovare la distanza del sole dalla terra, preso il raggio terrestre come unità, e supposto essere $8''.57$ l'angolo che questo raggio sottende al centro del sole.
 
@@ -35,6 +39,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1883_tutti_temi_3|Problema 2]]*
+
 **Problema 2a.** Senza far uso di tavole, calcolare la tangente dell'arco di $37° 30'$.
 
 **Topic:** [[Trigonometria]]
@@ -43,6 +49,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.48](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1883_tutti_temi_4|Problema 2]]*
 
 **Problema 2b.** Un fiume separa un osservatore da una torre alta metri $64.8$. Con un sestante l'osservatore che è a $1.50\,\text{m}$ sul livello del piede della torre, determina in $47° 56'$ l'angolo sotteso dall'altezza della torre. Qual è la distanza dell'osservatore dalla torre?
 

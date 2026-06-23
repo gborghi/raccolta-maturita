@@ -16,6 +16,8 @@ Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_straordinaria_2000_problema1_23_1|Problema 1]]*
+
 È assegnata, nel piano riferito ad assi cartesiani ortogonali $Oxy$, la curva $g$ di equazione
 $$y = 1 - \frac{1}{1 + x^2}$$
 

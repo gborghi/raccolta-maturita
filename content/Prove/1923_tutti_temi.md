@@ -17,6 +17,8 @@ Fonte: p.66 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1923_tutti_temi_1|Problema 1]]*
+
 Dato il numero reale $m$, circoscrivere ad un emisfero di raggio $r$ un tronco di cono retto a basi parallele (con la base maggiore sul piano diametrale) in modo che il suo volume sia
 
 $$\frac{1}{3}\,\pi\, r\, m^2.$$
@@ -29,6 +31,8 @@ Di tutti i tronchi di cono a basi parallele circoscritti all'emisfero, qual è q
 **Fonte:** [📄 Testo (PDF) — p.66](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1923_tutti_temi_3|Problema 1]]*
 
 Dati due numeri reali e positivi $a$ e $b$, con $a > b$, ed il numero reale $m$, risolvere e discutere l'equazione
 
@@ -44,6 +48,8 @@ e dire per quali valori di $x$ è massima o minima la frazione che compare nel p
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1923_tutti_temi_2|Problema 2]]*
+
 Un tronco di cono è equivalente ad un cono retto di eguale altezza, nel quale il raggio della base ha per misura $a$. Si conosce inoltre la differenza delle aree delle basi del tronco, equivalente ad un cerchio di raggio $b$.
 
 Si determinino i raggi delle basi del tronco sapendo che la differenza delle due basi è equivalente a un cerchio di raggio $a$. Determinare i raggi delle basi del tronco e discutere i risultati.
@@ -54,6 +60,8 @@ Si determinino i raggi delle basi del tronco sapendo che la differenza delle due
 **Fonte:** [📄 Testo (PDF) — p.66](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1923_tutti_temi_4|Problema 2]]*
 
 Esprimere i lati di un triangolo in funzione del perimetro e degli angoli, ed in particolare in funzione del perimetro e delle tangenti delle metà degli angoli. Nell'ipotesi che il perimetro sia uguale a metri $200$ e due degli angoli misurino rispettivamente $30°$ e $45°$, calcolare i lati a meno di un centimetro.
 

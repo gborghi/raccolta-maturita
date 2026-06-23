@@ -16,6 +16,8 @@ Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_scuole_italiane_allestero_americhe_2013_problema2_18_1|Problema 1]]*
+
 **Scuole italiane all'estero (Americhe) 2013 — Problema 2**
 
 Sia $R$ la regione del primo quadrante degli assi cartesiani delimitata da $y=\sqrt{x}$ e da $y=\dfrac{x}{4}$. *(figura nel PDF)*

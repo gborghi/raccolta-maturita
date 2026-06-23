@@ -17,6 +17,8 @@ Fonte: p.185 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqG
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_straordinaria_2019_prova_185_1|Problema 1]]*
+
 Dato $k>0$, si consideri la funzione $f:[0,+\infty)\to\mathbb{R}$ così definita:
 $$f(x)=\begin{cases}kx & \text{se } 0\le x\le 1\\[4pt]\dfrac{k}{x^2} & \text{se } x>1\end{cases}$$
 
@@ -40,6 +42,8 @@ dove $k$ è un'opportuna costante, di cui si chiede l'espressione in funzione de
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_straordinaria_2019_prova_185_2|Problema 2]]*
+
 In un laboratorio di fisica, si vuole verificare sperimentalmente che un filo rettilineo percorso da corrente, immerso in un campo magnetico uniforme, è soggetto a una forza. A questo scopo, un filo di rame RS rettilineo, rigido, di lunghezza $l$, misurata in metri (m), di massa $m$, misurata in chilogrammi (Kg), viene appeso alle estremità di due fili conduttori. Tali fili, verticali e di massa trascurabile, sono liberi di ruotare, senza attrito, intorno a due ganci metallici, P e Q, posizionati alle altre estremità. Attraverso un interruttore, i ganci P e Q vengono collegati a un generatore di corrente continua e il filo di rame viene posto in un campo magnetico $\vec{B}$, uniforme e costante, perpendicolare al filo (fig. 1) e la cui intensità è misurata in tesla (T). Quando si chiude l'interruttore, il circuito è percorso da una corrente di intensità $i$, misurata in ampere (A) e il filo RS si sposta in una nuova posizione di equilibrio, in cui PR forma un angolo $\theta$ con la direzione verticale (fig. 2). *(figure nel PDF)*
 
 - Descrivere in direzione, verso e intensità, la forza con cui il campo $\vec{B}$ agisce sulla corrente che attraversa il tratto RS. Come varia la posizione di equilibrio del filo di rame al variare dell'intensità e del verso della corrente?
@@ -58,6 +62,8 @@ In un laboratorio di fisica, si vuole verificare sperimentalmente che un filo re
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_1|Quesito 1]]*
+
 1. Determinare il valore di questo limite: $\displaystyle\lim_{x\to 0}(1-\operatorname{sen}x)^{\frac{1}{x}}$.
 
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
@@ -66,6 +72,8 @@ In un laboratorio di fisica, si vuole verificare sperimentalmente che un filo re
 **Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.201](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_2|Quesito 2]]*
 
 2. Data la funzione $f(x)=x\operatorname{sen}x$ e fissato un numero $k>0$, provare che il valore di
 $$\int_0^{x_0} k\cdot f(kx)\,dx$$
@@ -78,6 +86,8 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_3|Quesito 3]]*
+
 3. Dato un triangolo $ABC$, sia $M$ il punto medio del lato $BC$. Dimostrare che, se la lunghezza di $AM$ è la metà di $BC$, allora $ABC$ è un triangolo rettangolo.
 
 **Topic:** [[Geometria Euclidea]]
@@ -87,6 +97,8 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_4|Quesito 4]]*
+
 4. Dopo aver verificato che il punto $T(1,0,1)$ appartiene al piano $\pi:\ x-2y+2z=3$, determinare l'equazione della superficie sferica passante per il punto $P(1,0,5)$ e tangente in $T$ al piano $\pi$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -95,6 +107,8 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 **Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.202](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_5|Quesito 5]]*
 
 5. Da un mazzo di 40 carte da gioco, vengono estratte 6 carte contemporaneamente.
    - Qual è la probabilità che nessuna delle carte estratte sia rossa?
@@ -107,6 +121,8 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_6|Quesito 6]]*
+
 6. Un condensatore piano, costituito da due armature quadrate di lato $l=4{,}0$ cm, distanti $d=3{,}0$ cm, è soggetto a una d.d.p. $\Delta V=15$ V. Un elettrone vi entra perpendicolarmente al campo elettrico, come in figura, con una velocità $v_0=2{,}5\cdot 10^6\ \dfrac{m}{s}$. A quale distanza dall'ingresso del condensatore deve essere posto uno schermo, affinché la deflessione verticale totale sia $20$ cm? *(figura nel PDF)*
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -116,6 +132,8 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_7|Quesito 7]]*
+
 7. Un protone viene sparato su una particella $\alpha$ (due protoni e due neutroni) da una distanza di 10 cm (considerare le particelle puntiformi), alla velocità $v_0=5{,}00\cdot 10^3\ \dfrac{m}{s}$. Calcolare la distanza di massimo avvicinamento.
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -124,6 +142,8 @@ $$\int_0^{x_0} k\cdot f(kx)\,dx$$
 **Soluzione:** [[Soluzioni/2019_sessione_straordinaria_2019_prova_185#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.205](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_straordinaria_2019_prova_185_8|Quesito 8]]*
 
 8. Un elettrone entra in una regione di spazio, sede di un campo magnetico di intensità $B=0{,}20$ T, con velocità di modulo $v_0=1{,}5\cdot 10^4\ \dfrac{m}{s}$, che forma un angolo di $10°$ con la direzione di $\vec{B}$. Determinare modulo, direzione e verso del campo elettrico necessario affinché l'elettrone non subisca deflessione.
 

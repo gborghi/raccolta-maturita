@@ -16,6 +16,8 @@ Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghc
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_liceo_scientifico_2018_problema1_6_1|Problema 1]]*
+
 Devi programmare il funzionamento di una macchina che viene adoperata nella produzione industriale di mattonelle per pavimenti. Le mattonelle sono di forma quadrata di lato 1 (in un'opportuna unità di misura) e le fasi di lavoro sono le seguenti:
 
 - si sceglie una funzione $y = f(x)$ definita e continua nell'intervallo $[0,1]$, che soddisfi le condizioni:

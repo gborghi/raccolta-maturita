@@ -17,6 +17,8 @@ Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1935_tutti_temi_1|Problema 1]]*
+
 Di un trapezio convesso isoscele le cui diagonali sono perpendicolari fra loro, si conosce il perimetro $2p$ e si sa che è equivalente ad un quadrato di lato $m$. Determinare i segmenti in cui ciascuna diagonale divide l'altra e discutere i risultati.
 
 È in facoltà del candidato di dare anche la costruzione geometrica rilevandola dalla formula ottenuta, o meglio, osservando che il problema può ricondursi a quello della costruzione di un triangolo rettangolo del quale si siano trovati l'ipotenusa e la somma dei cateti.
@@ -27,6 +29,8 @@ Di un trapezio convesso isoscele le cui diagonali sono perpendicolari fra loro, 
 **Fonte:** [📄 Testo (PDF) — p.81](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1935_tutti_temi_3|Problema 1]]*
 
 In un piano sono date una circonferenza di diametro $|AB| = 2r$ ed una retta $xy$ che la sega ed è perpendicolare ad $AB$ alla distanza $a$ da $A$. Determinare l'angolo $\varphi$ che una semiretta uscente dall'estremo $A$ deve formare con $AB$, affinché, detto $M$ l'altro punto d'intersezione della semiretta con la circonferenza ed $N$ il punto d'intersezione di essa con la retta $xy$, risulti uguale ad un segmento assegnato $m$ la distanza dei punti $M$ ed $N$.
 
@@ -40,6 +44,8 @@ Discussione e costruzione geometrica.
 **Fonte:** [📄 Testo (PDF) — p.81](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1935_tutti_temi_2|Problema 2]]*
 
 In coordinate cartesiane ortogonali rappresentare graficamente la funzione $y = x^3 - x^2$ dopo aver determinato della curva rappresentativa:
 
@@ -57,6 +63,8 @@ Determinare inoltre i punti d'intersezione della curva con la retta $y = mx$ e d
 **Fonte:** [📄 Testo (PDF) — p.81](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1935_tutti_temi_4|Problema 2]]*
 
 In coordinate cartesiane ortogonali rappresentare graficamente le funzioni:
 

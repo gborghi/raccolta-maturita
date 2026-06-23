@@ -16,6 +16,8 @@ Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYt
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2023_liceo_scientifico_2023_problema1_4_1|Problema 1]]*
+
 Il grafico in figura, rappresentativo della funzione continua $y = f(x)$, è unione dell'arco di parabola $\Gamma_1$, dell'arco di circonferenza $\Gamma_2$ e dell'arco di iperbole $\Gamma_3$.
 
 *(figura nel PDF)*

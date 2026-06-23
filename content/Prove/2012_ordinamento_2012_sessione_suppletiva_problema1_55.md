@@ -16,6 +16,8 @@ Fonte: p.55 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_ordinamento_2012_sessione_suppletiva_problema1_55_1|Problema 1]]*
+
 Un trapezio isoscele è circoscritto ad una semicirconferenza di raggio $1$, in modo che la base maggiore contenga il diametro.
 
 **1)** Si calcoli, in funzione dell'ampiezza $x$ del suo angolo acuto, il volume del solido generato dal trapezio in una rotazione di $180°$ intorno alla congiungente dei punti medi delle basi, controllando che risulta:

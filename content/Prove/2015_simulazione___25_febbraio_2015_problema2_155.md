@@ -16,6 +16,8 @@ Fonte: p.155 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_simulazione___25_febbraio_2015_problema2_155_1|Problema 1]]*
+
 25-FEBBRAIO-2015_Problema2_155
 parent_node: prova_2015_simulazione___25_febbraio_2015_problema2_155
 tipo_item: Problema

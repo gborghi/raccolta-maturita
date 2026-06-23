@@ -16,6 +16,8 @@ Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema1_29_1|Problema 1]]*
+
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, sono assegnate le curve di equazione
 
 $$(1)\qquad y = \frac{1}{3}x^3 + kx - 3,$$

@@ -16,6 +16,8 @@ Fonte: p.98 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_pni_2004_sessione_suppletiva_problema2_98_1|Problema 1]]*
+
 Nel Liceo Scientifico "Torricelli" vi sono 4 classi quinte, i cui alunni sono distribuiti per sezione e per sesso in base alla seguente tabella:
 
 | sezione \ sesso | A | B | C | D |

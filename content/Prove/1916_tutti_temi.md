@@ -17,6 +17,8 @@ Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1916_tutti_temi_2|Problema 1]]*
+
 **Problema 1**
 
 I tre spigoli $x$, $y$, $z$ d'un parallelepipedo rettangolo formano, nell'ordine in cui sono scritti, una progressione aritmetica.
@@ -29,6 +31,8 @@ Data la somma $a$ dei tre spigoli e sapendo che la somma delle tre facce da essi
 **Fonte:** [📄 Testo (PDF) — p.62](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1916_tutti_temi_4|Problema 1]]*
 
 **Problema 1**
 
@@ -45,6 +49,8 @@ Determinare la lunghezza del lato di base e quella dell'apotema.
 **Fonte:** [📄 Testo (PDF) — p.62](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1916_tutti_temi_1|Problema 2]]*
 
 **Problema 2**
 
@@ -63,6 +69,8 @@ il seno dell'angolo $\widehat{EDA}$.
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1916_tutti_temi_3|Problema 2]]*
+
 **Problema 2**
 
 Sui lati $OX$, $OY$, d'un angolo retto sono dati rispettivamente i punti $A$ e $B$. Determinare un punto $C$ del segmento $\overline{OA}$ e un punto $D$ del segmento $\overline{OB}$, in modo che siano eguali i tre segmenti $\overline{AC}$, $\overline{CD}$, $\overline{DB}$.
@@ -73,6 +81,8 @@ Sui lati $OX$, $OY$, d'un angolo retto sono dati rispettivamente i punti $A$ e $
 **Fonte:** [📄 Testo (PDF) — p.62](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1916_tutti_temi_5|Problema 2]]*
 
 **Problema 2**
 

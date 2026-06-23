@@ -16,6 +16,8 @@ Fonte: p.127 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1986_tutti_temi_1|Problema 1]]*
+
 2. In un sistema di assi coordinati cartesiani si consideri la cubica di equazione
 $$y = 2x^3 - 9x^2 + 12x - 5$$
 e si individui la traslazione $x = X + a$, $y = Y + b$ che porta l'origine del sistema di riferimento nel punto della curva di minimo relativo.

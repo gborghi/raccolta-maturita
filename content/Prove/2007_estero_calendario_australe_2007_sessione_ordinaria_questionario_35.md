@@ -17,6 +17,8 @@ Fonte: p.35 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_1|Quesito 1]]*
+
 **Quesito 1.** Si traccino i grafici delle seguenti funzioni di $\mathbb{R}$ in $\mathbb{R}$:
 $$f:x\to 3^{x+1};\qquad g:x\to 3^x+1;\qquad h:x\to 3^{|x|};\qquad k:x\to 3^{-x}.$$
 
@@ -28,6 +30,8 @@ $$f:x\to 3^{x+1};\qquad g:x\to 3^x+1;\qquad h:x\to 3^{|x|};\qquad k:x\to 3^{-x}.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_2|Quesito 2]]*
+
 **Quesito 2.** Quante cifre ha il numero $5^{59}$ nella rappresentazione decimale? Motiva esaurientemente la risposta.
 
 **Topic:** [[Esponenziali e Logaritmi]]
@@ -37,6 +41,8 @@ $$f:x\to 3^{x+1};\qquad g:x\to 3^x+1;\qquad h:x\to 3^{|x|};\qquad k:x\to 3^{-x}.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_3|Quesito 3]]*
+
 **Quesito 3.** Si consideri una sfera di volume $V$ e superficie $S$. Si dimostri che il tasso di variazione di $V$ rispetto al raggio è uguale a $S$.
 
 **Topic:** [[Derivate]], [[Geometria Solida]]
@@ -45,6 +51,8 @@ $$f:x\to 3^{x+1};\qquad g:x\to 3^x+1;\qquad h:x\to 3^{|x|};\qquad k:x\to 3^{-x}.
 **Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_4|Quesito 4]]*
 
 **Quesito 4.** Si illustrino il significato e l'ambito di utilizzo del simbolo $\binom{n}{m}$ e si risolva l'equazione:
 $$2\binom{x}{2}=3\binom{x-1}{2}\qquad \text{con } x\in\mathbb{N}.$$
@@ -56,6 +64,8 @@ $$2\binom{x}{2}=3\binom{x-1}{2}\qquad \text{con } x\in\mathbb{N}.$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_5|Quesito 5]]*
+
 **Quesito 5.** La capacità di un serbatoio è la stessa di quella del cilindro circolare retto di volume massimo inscrivibile in una sfera di $2$ metri di diametro. Quale è la capacità in litri del serbatoio?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -64,6 +74,8 @@ $$2\binom{x}{2}=3\binom{x-1}{2}\qquad \text{con } x\in\mathbb{N}.$$
 **Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_6|Quesito 6]]*
 
 **Quesito 6.** Dato un tetraedro regolare, si costruisca il tetraedro regolare avente per vertici i centri delle facce del primo. Si dimostri che ogni faccia di un tetraedro è parallela ad una faccia dell'altro.
 
@@ -74,6 +86,8 @@ $$2\binom{x}{2}=3\binom{x-1}{2}\qquad \text{con } x\in\mathbb{N}.$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_7|Quesito 7]]*
+
 **Quesito 7.** Si dia una definizione di "asintoto" — orizzontale, obliquo, verticale — di una curva e si fornisca un esempio di funzione $f(x)$ il cui grafico presenti un asintoto orizzontale e due asintoti verticali.
 
 **Topic:** [[Limiti e Continuita]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -83,6 +97,8 @@ $$2\binom{x}{2}=3\binom{x-1}{2}\qquad \text{con } x\in\mathbb{N}.$$
 **Soluzione:** [[Soluzioni/2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_8|Quesito 8]]*
 
 **Quesito 8.** La risoluzione di un problema assegnato conduce all'equazione $2\sin x+k\cos x=1$ ove $k>0$ e $0\le x\le \dfrac{\pi}{3}$. Si discutano le possibili soluzioni del problema.
 

@@ -16,6 +16,8 @@ Fonte: p.100 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmk
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_ordinamento_2013_sessione_straordinaria_problema1_100_1|Problema 1]]*
+
 Sia data una circonferenza di centro $O$ e raggio $1$ e una sua corda $MN$, condotta alla distanza $x$ da $O$.
 
 1) Si calcoli il rapporto $f(x)$ fra l'area del triangolo, formato dalla corda $MN$ e dalle tangenti alla circonferenza in $M$ ed $N$, e quella del rettangolo di lato $MN$, inscritto nella circonferenza, controllando che risulta:

@@ -17,6 +17,8 @@ Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_43_1|Problema 1]]*
+
 Nel riferimento cartesiano $Oxy$ si consideri il triangolo di vertici $O$, $B(1; 0)$, $A(0; a)$, con $a > 0$. Preso un punto $P$ interno al triangolo, si denotino con $Q$ e con $R$ i punti in cui la retta per $P$, parallela all'asse $y$, taglia i lati $OB$ e $AB$ rispettivamente.
 
 1. Si dimostri che il luogo dei punti $P$, interni al triangolo $OBA$, tali che
@@ -35,6 +37,8 @@ $$QP : QR = OQ : OB$$
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_43#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_43_2|Problema 2]]*
 
 In una semicirconferenza di diametro $AB$ di lunghezza $2$, è inscritto un quadrilatero convesso $ABCD$ avente il lato $CD$ uguale al raggio. I prolungamenti dei lati $AD$ e $BC$ si incontrano in un punto $E$.
 

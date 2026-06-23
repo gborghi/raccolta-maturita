@@ -16,6 +16,8 @@ Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_pni_2014_sessione_straordinaria_problema1_150_1|Problema 1]]*
+
 Siano $ABC$ e $ABD$ due triangoli, il secondo rettangolo. Nel triangolo $ABC$ il lato $BC$ è il doppio di $CA = 1$; nel triangolo $ABD$, con $D$ dalla parte opposta di $C$ rispetto ad $AB$, il cateto $AB$ è il doppio di $BD$.
 
 **1)** Si mostri che l'area del quadrilatero $ADBC$, in funzione dell'angolo $A\hat{C}B = \gamma$, è espressa da:

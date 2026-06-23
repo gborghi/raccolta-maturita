@@ -16,6 +16,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_estero_calendario_australe_2006_sessione_ordinaria_problema1_25_1|Problema 1]]*
+
 Il triangolo $ABC$ è rettangolo in $C$ ed è $CB = m$.
 
 *(figura nel PDF)*

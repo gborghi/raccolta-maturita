@@ -17,6 +17,8 @@ Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfH
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2011_1_2_1|Problema 1]]*
+
 Sia $ABC$ un triangolo con il lato $BC$ di lunghezza unitaria e l'angolo $A\hat{B}C$ di ampiezza $60°$.
 
 a) Posto $\overline{AB} = x$, si determini il rapporto $f(x)$ tra la misura del lato $AC$ e il seno dell'angolo $B\hat{C}A$. Indipendentemente dai vincoli geometrici del problema, si studi $f(x)$ e se ne rappresenti il grafico $g$.
@@ -36,6 +38,8 @@ e) Si determini l'intervallo di valori che può assumere il raggio della circonf
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2011_1_2_2|Problema 2]]*
 
 È data la funzione
 $$f(x) = \begin{cases} -x^2 + x + a & \text{se } x \le 0 \\ bx^2 \ln x & \text{se } x > 0. \end{cases}$$
@@ -58,6 +62,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_1|Quesito 1]]*
+
 1. 15 squadre partecipanti a un torneo devono essere distribuite in tre gironi A, B e C, ciascuno composto da cinque squadre. Le tre squadre classificatesi al primo posto l'anno precedente devono necessariamente essere collocate in gironi distinti. Calcola il numero complessivo di composizioni possibili dei tre gironi.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -67,6 +73,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_2|Quesito 2]]*
+
 2. Dopo aver dato la definizione di cono e di cilindro equilateri, considerare una figura solida costituita dal cilindro equilatero inscritto in un cono equilatero assegnato. Scelto a caso un punto $P$ appartenente a una delle due superfici totali, calcolare la probabilità che $P$ si trovi sulla superficie laterale del cono.
 
 **Topic:** [[Geometria Solida]], [[Probabilita]]
@@ -75,6 +83,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_3|Quesito 3]]*
 
 3. È data la funzione definita dall'integrale: $F(x) = \displaystyle\int_{-\frac{\sqrt{2}}{2}}^{x} \frac{t}{\left(\arcsen t^2\right)^2 + 1}\, dt$. Si individui il dominio della funzione integranda e si dimostri che tale funzione è dispari. Si determini inoltre l'equazione della retta tangente al grafico di $F(x)$ nel punto di ascissa $x = \dfrac{\sqrt{2}}{2}$.
 
@@ -86,6 +96,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_4|Quesito 4]]*
+
 4. In un sistema di riferimento cartesiano $xOy$, si consideri la parabola di equazione $y = x^2 - 4x + 4$ che interseca gli assi cartesiani nei punti $A$ e $B$. Si tracci la retta tangente in un qualunque punto dell'arco $AB$ e, considerato il triangolo che tale retta forma con gli assi cartesiani, si trovi il volume massimo del solido che il triangolo genera in una rotazione completa attorno all'asse $x$.
 
 **Topic:** [[Massimi e Minimi]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -94,6 +106,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_5|Quesito 5]]*
 
 5. Determinare il volume del solido avente come base la regione di piano sottesa nell'intervallo $[1;\, 2]$ dalla curva di equazione $f(x) = \dfrac{1}{x}$, e le cui sezioni, ottenute con piani perpendicolari all'asse $x$, siano semicerchi di diametro $f(x)$.
 
@@ -104,6 +118,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_6|Quesito 6]]*
+
 6. Stabilire per quale insieme di punti del piano cartesiano l'espressione $\sqrt{e^{2x} - y^2}$ esiste e fornirne la rappresentazione grafica.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -113,6 +129,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_7|Quesito 7]]*
+
 7. Per giungere a un appuntamento con un'amica, Veronica sceglie in modo del tutto casuale tra una bicicletta, con cui percorre il tragitto in 30 minuti e ha una probabilità di ritardo pari al 15%, e un'automobile, con cui percorre il tragitto in 10 minuti e ha una probabilità di ritardo pari al 25%. Supponendo che, indipendentemente dal mezzo scelto, Veronica sia uscita con l'intenzione di arrivare a destinazione puntuale ma non ci sia riuscita, qual è la probabilità che abbia scelto l'automobile?
 
 **Topic:** [[Probabilita]]
@@ -121,6 +139,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_8|Quesito 8]]*
 
 8. Determinare il numero degli zeri della funzione: $f(x) = e^{x} - e^2 \cdot \sqrt{x} - \dfrac{1}{2}$. Scelto il più piccolo, trovare un suo valore approssimato attraverso uno dei metodi numerici studiati, con un errore inferiore a $0,01$.
 
@@ -132,6 +152,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_9|Quesito 9]]*
+
 9. Calcolare il volume del solido generato dalla rotazione completa attorno all'asse $y$ del cerchio avente come perimetro la circonferenza di equazione $x^2 + y^2 - 2x = 0$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]], [[Geometria Solida]]
@@ -140,6 +162,8 @@ e) Calcolare il volume del solido $\Omega$ che si ottiene dalla rotazione comple
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2011_1_2#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2011_1_2_10|Quesito 10]]*
 
 10. Determinare il valore di $a \in [-1;\, 3]$ per il quale la funzione:
 $$f(x) = \begin{cases} e^{a-x} & \text{se } x < a \\ \dfrac{x^2 + 1}{1 + x} & \text{se } x \ge a \end{cases}$$

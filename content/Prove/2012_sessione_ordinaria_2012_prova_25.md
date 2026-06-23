@@ -17,6 +17,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_ordinaria_2012_prova_25_1|Problema 1]]*
+
 Il triangolo $ABC$ è equilatero di lato unitario. La retta $r$ parallela ad $AB$ interseca i lati $AC$ e $BC$, rispettivamente, nei punti $P$ e $Q$.
 
 1. Si indichi con $x$ la distanza di $r$ dal vertice $C$. Per quale valore di $x$, nel quadrilatero $ABQP$ si può inscrivere una circonferenza? Quale è la lunghezza del suo raggio?
@@ -38,6 +40,8 @@ Il rapporto $f(x)$ assume tutti i valori reali positivi? Si giustifichi la rispo
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_25#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_ordinaria_2012_prova_25_2|Problema 2]]*
 
 Il grafico della funzione $g$, disegnato sotto, consiste di tre segmenti e di una semicirconferenza (con raggio $1$ e centro $(1,1)$).
 

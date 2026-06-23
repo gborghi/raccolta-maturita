@@ -17,6 +17,8 @@ Fonte: p.130 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_1|Quesito 1]]*
+
 **Quesito 1.** Lanciando due dadi, qual è il numero che ha maggiore probabilità di uscita? Qual è la probabilità che esca un numero primo?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -25,6 +27,8 @@ Fonte: p.130 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 **Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_2|Quesito 2]]*
 
 **Quesito 2.** Si dimostri che l'equazione $\cos x - x = 0$ ha un'unica radice reale e se ne calcoli un valore approssimato con due cifre decimali esatte.
 
@@ -35,6 +39,8 @@ Fonte: p.130 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_3|Quesito 3]]*
+
 **Quesito 3.** Si calcoli il valore medio della funzione $f(x)=\operatorname{arctg}\left(\dfrac{x-1}{x+1}\right)$ sull'intervallo $0\le x\le 1$.
 
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
@@ -44,6 +50,8 @@ Fonte: p.130 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_4|Quesito 4]]*
+
 **Quesito 4.** Sia dato un triangolo avente i lati lunghi rispettivamente $13$ cm, $14$ cm e $15$ cm e il cerchio in esso inscritto. Si scelga a caso un punto all'interno del triangolo: si determini la probabilità che tale punto risulti esterno al cerchio.
 
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
@@ -52,6 +60,8 @@ Fonte: p.130 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 **Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_5|Quesito 5]]*
 
 **Quesito 5.** Si calcoli il limite
 $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
@@ -63,6 +73,8 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_6|Quesito 6]]*
+
 **Quesito 6.** Un serbatoio della capacità di $400\ \text{m}^3$ deve avere la forma di un cilindro circolare retto senza coperchio. Il materiale da costruzione per il fondo costa per metro quadrato il doppio di quello che serve per le pareti laterali. Si calcoli il rapporto fra il raggio $R$ e l'altezza $h$ in modo che la costruzione risulti la più economica.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -71,6 +83,8 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_7|Quesito 7]]*
 
 **Quesito 7.** Una statua alta $70$ metri viene sistemata su una collina di altezza $h$. Da un certo punto $A$, situato a livello del suolo, gli angoli di elevazione per la base $B$ e la cima $C$ della statua misurano rispettivamente $20{,}75°$ e $28{,}30°$. Si determini l'altezza $h$.
 
@@ -81,6 +95,8 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_8|Quesito 8]]*
+
 **Quesito 8.** In un piano cartesiano $Oxy$ una retta verticale divide il triangolo con i vertici nei punti $(0;0)$, $(1;1)$ e $(9;1)$ in due regioni di ugual area. Si trovi l'equazione di tale retta.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]]
@@ -90,6 +106,8 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_9|Quesito 9]]*
+
 **Quesito 9.** Un tronco di cono è circoscritto ad una sfera di raggio $r$. Si stabilisca la relazione che esiste fra i raggi di base del tronco e il raggio della sfera.
 
 **Topic:** [[Geometria Solida]]
@@ -98,6 +116,8 @@ $$\lim_{x\to 0}\frac{\displaystyle\int_0^x e^{t^2-t}\,dt}{x^3}.$$
 **Soluzione:** [[Soluzioni/2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2009_liceo_scientifico_pni_2009_sessione_straordinaria_questionario_130_10|Quesito 10]]*
 
 **Quesito 10.** Due punti $A$ e $B$, il primo sull'asse $x$ e l'altro sull'asse $y$, distano dall'origine rispettivamente $35$ cm e $15$ cm. Ambedue si muovono con moto rettilineo ed uniforme verso l'origine: $A$ con velocità $v_1=3\ \text{cm/s}$, $B$ con velocità $v_2=1\ \text{cm/s}$. In quale istante è minima la distanza tra i due punti e quanto vale questo minimo?
 

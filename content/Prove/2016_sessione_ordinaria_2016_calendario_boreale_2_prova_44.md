@@ -17,6 +17,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_1|Problema 1]]*
+
 Considerata la funzione $G:\mathbb{R}\to\mathbb{R}$ così definita:
 
 $$G(x)=\int_0^{2x} e^t\,\sin^2(t)\,dt,$$
@@ -35,6 +37,8 @@ svolgi le richieste che seguono.
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_2|Problema 2]]*
 
 Sia $\Gamma$ il grafico della funzione
 
@@ -67,6 +71,8 @@ $$F(x)=\int_0^x f(t)\,dt,$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_1|Quesito 1]]*
+
 1. Tre circonferenze di raggio $1$ sono tangenti esternamente una all'altra. Qual è l'area della regione interna che esse delimitano?
 
 **Topic:** [[Geometria Euclidea]]
@@ -75,6 +81,8 @@ $$F(x)=\int_0^x f(t)\,dt,$$
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_2|Quesito 2]]*
 
 2. In un'urna ci sono $20$ biglie, ognuna delle quali è rossa o nera. Stabilire quante sono quelle nere, sapendo che estraendo $2$ biglie senza riporre la prima estratta, la probabilità di estrarre almeno una biglia nera è $\frac{27}{38}$.
 
@@ -85,6 +93,8 @@ $$F(x)=\int_0^x f(t)\,dt,$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_3|Quesito 3]]*
+
 3. Dato un cilindro equilatero e la sfera ad esso circoscritta, qual è la probabilità che un punto interno alla sfera cada all'interno del cilindro?
 
 **Topic:** [[Probabilita]], [[Geometria Solida]]
@@ -93,6 +103,8 @@ $$F(x)=\int_0^x f(t)\,dt,$$
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_4|Quesito 4]]*
 
 4. Un solido ha per base la regione $R$ del piano cartesiano compresa tra il grafico della funzione
 
@@ -107,6 +119,8 @@ $$f(x)=\frac{1}{x^2+1}$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_5|Quesito 5]]*
+
 5. Il grafico di un polinomio di $3°$ grado è tangente all'asse $x$ nell'origine e interseca nuovamente l'asse $x$ in un punto di ascissa positiva. L'ascissa e l'ordinata del punto di massimo relativo sono tra loro uguali e diverse da $0$. Determinare l'area della regione piana limitata che è compresa tra l'asse $x$ e il grafico del polinomio, sapendo che anche tale area coincide numericamente con il valore comune all'ascissa e all'ordinata nel punto di massimo.
 
 **Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]]
@@ -116,6 +130,8 @@ $$f(x)=\frac{1}{x^2+1}$$
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_6|Quesito 6]]*
 
 6. Il grafico in figura è quello della derivata prima $f'(x)$ di una funzione $f(x)$ continua in $\mathbb{R}$. Il grafico riportato è simmetrico rispetto all'origine ed ha come asintoti le rette di equazione $x=0$ e $5x+2y=0$. *(figura nel PDF)*
 
@@ -128,6 +144,8 @@ $$f(x)=\frac{1}{x^2+1}$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_7|Quesito 7]]*
+
 7. Sono date le funzioni $f(x)=e^{3-x}$ e $g(x)=e^{2x}$. Determinare l'area della regione limitata racchiusa dall'asse $x$ e dai grafici di $f$ e di $g$.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -136,6 +154,8 @@ $$f(x)=\frac{1}{x^2+1}$$
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_8|Quesito 8]]*
 
 8. Un giocatore di basket si esercita ai tiri liberi. Normalmente ha una quota di canestri dell'$80\%$. Con quale probabilità va a canestro esattamente due volte su tre tiri? Individua un evento $E$ per il quale valga:
 
@@ -148,6 +168,8 @@ $$P(E)=\binom{50}{40}\cdot 0{,}8^{40}\cdot 0{,}2^{10}$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_9|Quesito 9]]*
+
 9. Dati i punti $A(4,14,17)$, $B(16,11,14)$, $C(16,2,23)$:
    a) si dimostri che il triangolo $ABC$ è isoscele e rettangolo;
    b) quali sono le coordinate del punto $D$ tale che $ABCD$ sia un quadrato?
@@ -158,6 +180,8 @@ $$P(E)=\binom{50}{40}\cdot 0{,}8^{40}\cdot 0{,}2^{10}$$
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_calendario_boreale_2_prova_44_10|Quesito 10]]*
 
 10. Si considerino nello spazio il punto $P(1,2,-1)$ ed il piano $\alpha$ di equazione $x-2y+z+4=0$.
     a) Verificare che $P\in\alpha$;

@@ -16,6 +16,8 @@ Fonte: p.8 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYt
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2023_liceo_scientifico_2023_problema2_8_1|Problema 1]]*
+
 Fissato un parametro reale $a$, con $a \ne 0$, si consideri la funzione $f_a$ così definita:
 
 $$f_a(x) = \frac{x^2 - ax}{x^2 - a}$$

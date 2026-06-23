@@ -16,6 +16,8 @@ Fonte: p.189 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqG
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_straordinaria_2019_problema1_189_1|Problema 1]]*
+
 Dato $k>0$, si consideri la funzione $f:[0,+\infty)\to\mathbb{R}$ così definita:
 $$f(x)=\begin{cases}kx & \text{se } 0\le x\le 1\\[4pt]\dfrac{k}{x^2} & \text{se } x>1\end{cases}$$
 

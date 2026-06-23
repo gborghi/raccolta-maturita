@@ -16,6 +16,8 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_estero_calendario_australe_2005_sessione_suppletiv_problema1_60_1|Problema 1]]*
+
 Si consideri l'equazione $y=x^3-ax+b$.
 
 **1)** Si determinino $a$ e $b$ in modo che la sua curva rappresentativa $\Gamma$ sia tangente, nel punto $A$ di ascissa $-1$, alla retta $r$ d'equazione $y=4$. Si disegni $\Gamma$.

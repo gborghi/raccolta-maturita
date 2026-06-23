@@ -16,6 +16,8 @@ Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_liceo_scientifico_pni_2007_sessione_straordinaria_problema2_139_1|Problema 1]]*
+
 Data una semicirconferenza di diametro $AB=2R$, si prenda sul prolungamento di $AB$, dalla parte di $B$, un punto $C$ tale che sia $BC=AB$. Essendo $P$ un punto della semicirconferenza:
 
 1) Si esprima per mezzo di $R$ e dell'ampiezza dell'angolo $x=A\hat{B}P$ il rapporto

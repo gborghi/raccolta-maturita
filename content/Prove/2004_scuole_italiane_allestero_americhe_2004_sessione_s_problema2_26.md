@@ -16,6 +16,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26_1|Problema 1]]*
+
 Sia $S$ un semicerchio di raggio $2$. Si introduca nel piano cartesiano del semicerchio un sistema di coordinate cartesiane ortogonali e monometriche $xy$ e si determinino:
 
 a) le dimensioni del rettangolo $R$ di area massima inscritto in $S$ e tale valore massimo;

@@ -16,6 +16,8 @@ Fonte: p.141 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_ordinamento_2003_sessione_straordinaria_problema1_141_1|Problema 1]]*
+
 È assegnata la seguente equazione in $x$: $\;x^3 + 2x - 50 = 0$.
 
 **a)** Dimostrare che ammette una e una sola soluzione $\overline{x}$ nel campo reale.

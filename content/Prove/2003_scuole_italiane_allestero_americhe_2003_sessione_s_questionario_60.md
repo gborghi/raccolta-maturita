@@ -17,6 +17,8 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_1|Quesito 1]]*
+
 **Quesito 1.** Sapendo che $\sin 30°=\frac{1}{2}$ calcolare $\sin 15°$.
 
 **Topic:** [[Trigonometria]]
@@ -25,6 +27,8 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_2|Quesito 2]]*
 
 **Quesito 2.** Di triangoli in cui due lati hanno lunghezze rispettivamente $b=2\sqrt{3}-2$ e $c=4$, l'angolo opposto al primo di essi ha ampiezza $\beta=15°$, ne esistono
 
@@ -42,6 +46,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_3|Quesito 3]]*
+
 **Quesito 3.** Dimostrare che se tre rette distinte dello spazio passano per uno stesso punto $O$ e ciascuna di esse interseca una quarta retta in un punto distinto da $O$ allora le quattro rette sono complanari.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -50,6 +56,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_4|Quesito 4]]*
 
 **Quesito 4.** Si consideri la seguente espressione:
 
@@ -68,6 +76,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_5|Quesito 5]]*
+
 **Quesito 5.** Determinare il campo di esistenza della funzione:
 
 $$f(x)=\log\left(2x-\sqrt{4x-1}\right)$$
@@ -79,6 +89,8 @@ $$f(x)=\log\left(2x-\sqrt{4x-1}\right)$$
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_6|Quesito 6]]*
 
 **Quesito 6.** Considerata la funzione $f(x)=\frac{1}{x^{x-1}}$, stabilire se esistono i suoi limiti per:
 
@@ -92,6 +104,8 @@ e, in caso di risposta affermativa, determinarli.
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_7|Quesito 7]]*
 
 **Quesito 7.** Si consideri il seguente integrale
 

@@ -16,6 +16,8 @@ Fonte: p.107 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema1_107_1|Problema 1]]*
+
 Si consideri la funzione $f$ definita da: $f(x) = \dfrac{x+1}{e^{3x}}$.
 
 **1)** Si studi $f$ e se ne tracci il grafico $\gamma$, su un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$.

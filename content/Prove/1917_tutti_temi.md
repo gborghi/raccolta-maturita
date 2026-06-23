@@ -17,6 +17,8 @@ Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1917_tutti_temi_1|Problema 1]]*
+
 **Problema 1**
 
 D'un cono retto a base circolare si conosce la somma $a$ delle lunghezze dell'apotema e del raggio della base, e si sa inoltre che l'area totale del cono è in rapporto conosciuto $m$ con quella della sfera iscritta: calcolare le lunghezze dell'apotema e del raggio.
@@ -30,6 +32,8 @@ Si supporrà $m$ numero reale positivo non nullo.
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1917_tutti_temi_3|Problema 1]]*
+
 **Problema 1**
 
 Tagliare una sfera di dato raggio con un piano in modo che uno dei due segmenti sferici che così si vengono a determinare sia in rapporto $k$ al volume del cilindro circolare retto avente per base il cerchio sezione e per altezza l'altezza dell'altro segmento sferico.
@@ -40,6 +44,8 @@ Tagliare una sfera di dato raggio con un piano in modo che uno dei due segmenti 
 **Fonte:** [📄 Testo (PDF) — p.63](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1917_tutti_temi_5|Problema 1]]*
 
 **Problema 1**
 
@@ -54,6 +60,8 @@ Costruzione geometrica per $m = 1$ e per $m = 2$.
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1917_tutti_temi_2|Problema 2]]*
+
 **Problema 2**
 
 Dati in un piano un cerchio di centro $O$ e raggio $R$ ed una retta $t$ distante $d$ da $O$, calcolare il lato d'un quadrato che abbia due vertici sulla retta e gli altri due sulla circonferenza. Discussione.
@@ -67,6 +75,8 @@ Facoltativamente, dare la soluzione grafica del problema.
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1917_tutti_temi_4|Problema 2]]*
+
 **Problema 2**
 
 Data la lunghezza $l$ della porzione di bisettrice d'un angolo acuto d'un triangolo rettangolo compresa tra il vertice e il centro del circolo iscritto, e data la lunghezza $r$ del raggio di questo, calcolare le lunghezze $x$ ed $y$ dei cateti e la lunghezza dell'ipotenusa.
@@ -77,6 +87,8 @@ Data la lunghezza $l$ della porzione di bisettrice d'un angolo acuto d'un triang
 **Fonte:** [📄 Testo (PDF) — p.63](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1917_tutti_temi_6|Problema 2]]*
 
 **Problema 2**
 

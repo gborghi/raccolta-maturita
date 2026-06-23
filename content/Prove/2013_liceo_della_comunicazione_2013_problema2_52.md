@@ -16,6 +16,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_liceo_della_comunicazione_2013_problema2_52_1|Problema 1]]*
+
 Sia $\Gamma$ la curva d'equazione $y=2\ln(x-1)$.
 
 1) Nel piano riferito a coordinate cartesiane $Oxy$, si disegni $\Gamma$. Si scriva l'equazione della curva che è simmetrica di $\Gamma$ rispetto all'asse $y$ e si scrivano altresì le equazioni delle curve simmetriche di $\Gamma$ rispetto alle rette $x=2$ e $y=x$.

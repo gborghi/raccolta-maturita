@@ -16,6 +16,8 @@ Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_suppletiva_ordinamento_2002_problema1_27_1|Problema 1]]*
+
 Se il polinomio $f(x)$ si divide per $x^2-1$ si ottiene $x$ come quoziente e $x$ come resto.
 
 **a)** Determinare $f(x)$.

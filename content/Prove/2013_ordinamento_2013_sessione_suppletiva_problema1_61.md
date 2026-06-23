@@ -16,6 +16,8 @@ Fonte: p.61 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_ordinamento_2013_sessione_suppletiva_problema1_61_1|Problema 1]]*
+
 $ABC$ è un triangolo equilatero di lato $a$. Dal vertice $A$, e internamente al triangolo, si conduca una semiretta $r$ che formi l'angolo $\alpha$ con il lato $AB$. Si denotino con $B'$ e $C'$, rispettivamente, le proiezioni ortogonali su $r$ dei vertici $B$ e $C$.
 
 1) Si calcoli il rapporto

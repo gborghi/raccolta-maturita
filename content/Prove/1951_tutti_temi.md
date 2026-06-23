@@ -17,6 +17,8 @@ Fonte: p.93 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1951_tutti_temi_1|Problema 1]]*
+
 Nel triangolo $ABC$ l'angolo di vertice $B$ è di $60°$. Trovare l'ampiezza $x$ dell'angolo $B\hat{A}C$ sapendo che $k/4$ è la misura, rispetto a $BC$, dell'ipotenusa di un triangolo rettangolo avente per cateti due segmenti rispettivamente eguali ad $AC$ e alla proiezione $BH$ di $BA$ su $BC$. Discutere i risultati, tenendo presenti i casi particolari: $x = 30°$, $x = 60°$, $x = 90°$. È facoltativa la risoluzione geometrica.
 
 **Topic:** [[Geometria Euclidea]]
@@ -26,6 +28,8 @@ Nel triangolo $ABC$ l'angolo di vertice $B$ è di $60°$. Trovare l'ampiezza $x$
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1951_tutti_temi_3|Problema 1]]*
+
 Il triangolo rettangolo $AOB$ ha i cateti $OA$, $OB$ di lunghezza $2$ e $\sqrt{3}$, rispettivamente. Determinare sull'ipotenusa $AB$ un punto $P$ in modo che sia $k$ la somma della sua distanza dal cateto $OA$ e del doppio della sua distanza dal punto medio $M$ del cateto $OB$. Discussione. È facoltativa la risoluzione geometrica.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Derivate]]
@@ -34,6 +38,8 @@ Il triangolo rettangolo $AOB$ ha i cateti $OA$, $OB$ di lunghezza $2$ e $\sqrt{3
 **Fonte:** [📄 Testo (PDF) — p.93](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1951_tutti_temi_2|Problema 2]]*
 
 Fissato in un piano un sistema di coordinate ortogonali $Oxy$, si considerino le infinite parabole di equazione:
 
@@ -51,6 +57,8 @@ Si determinino le equazioni delle rette passanti per l'origine $O$ degli assi e 
 **Fonte:** [📄 Testo (PDF) — p.93](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1951_tutti_temi_4|Problema 2]]*
 
 In un piano in cui è fissato un sistema di assi cartesiani ortogonali $xOy$ sono dati i due punti $A(a,0)$, $B(0,2a)$. Scrivere l'equazione della parabola di vertice $A$, tangente in $A$ all'asse delle $x$ e passante per $B$. Trovare i punti $P$, dell'arco $AB$ di parabola, le cui distanze dagli assi coordinati abbiano per somma un segmento di lunghezza $ka$. È facoltativo determinare i punti $P$ geometricamente.
 

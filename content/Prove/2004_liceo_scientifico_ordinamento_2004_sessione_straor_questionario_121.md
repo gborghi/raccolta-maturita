@@ -17,6 +17,8 @@ Fonte: p.121 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_1|Quesito 1]]*
+
 **Quesito 1.** Calcolare l'ampiezza dell'angolo diedro formato da due facce consecutive di un ottaedro regolare, espressa in gradi sessagesimali e approssimata al secondo.
 
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
@@ -25,6 +27,8 @@ Fonte: p.121 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.121](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_2|Quesito 2]]*
 
 **Quesito 2.** Dimostrare che, se due piani sono perpendicolari, ogni retta perpendicolare a uno di essi è parallela all'altro o è contenuta in esso. Si può concludere che ogni retta parallela a uno dei due piani è perpendicolare all'altro? Fornire un'esauriente spiegazione della risposta.
 
@@ -35,6 +39,8 @@ Fonte: p.121 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_3|Quesito 3]]*
+
 **Quesito 3.** Determinare il dominio della funzione $f(x)=\ln\left(1-2x+\sqrt{x}\right)$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -44,6 +50,8 @@ Fonte: p.121 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_4|Quesito 4]]*
 
 **Quesito 4.** Il limite di $\operatorname{tg}x$ per $x$ tendente a $+\infty$:
 
@@ -58,6 +66,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_5|Quesito 5]]*
+
 **Quesito 5.** Dimostrare il seguente teorema: «Condizione sufficiente ma non necessaria affinché la funzione reale di variabile reale $f(x)$ sia continua nel punto $a$ è che sia derivabile in $a$».
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -66,6 +76,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_6|Quesito 6]]*
 
 **Quesito 6.** Utilizzando il calcolo integrale, dimostrare la formula che fornisce il volume di una sfera di raggio assegnato.
 
@@ -76,6 +88,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_7|Quesito 7]]*
+
 **Quesito 7.** Indicata con $S_n$ la somma di $n$ termini in progressione geometrica, di primo termine $\frac{1}{2}$ e ragione $\frac{1}{2}$, calcolare $\displaystyle\lim_{n\to\infty}\frac{S_n}{n}$.
 
 **Topic:** [[Successioni e Serie]], [[Limiti e Continuita]]
@@ -84,6 +98,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_8|Quesito 8]]*
 
 **Quesito 8.** Calcolare il valore della seguente somma: $1^2+2^2+3^2+\cdots+100^2$.
 
@@ -94,6 +110,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_9|Quesito 9]]*
+
 **Quesito 9.** In una classe di 25 alunni bisogna estrarre a sorte una rappresentanza di 3 elementi. Calcolare quante sono le possibili terne di rappresentanti.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -102,6 +120,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.126](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_10|Quesito 10]]*
 
 **Quesito 10.** Alla finale dei 200 m piani partecipano 8 atleti, fra i quali figurano i nostri amici Antonio e Pietro. Calcolare il numero dei possibili ordini di arrivo che registrino i nostri due amici fra i primi tre classificati.
 

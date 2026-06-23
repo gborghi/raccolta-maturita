@@ -16,6 +16,8 @@ Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_ordinamento_2014_sessione_suppletiva_problema2_77_1|Problema 1]]*
+
 Si consideri la funzione:
 $$f(x) = \frac{1}{x\,\ln^2 x}.$$
 

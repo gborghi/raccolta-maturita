@@ -16,6 +16,8 @@ Fonte: p.195 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqG
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_straordinaria_2019_problema2_195_1|Problema 1]]*
+
 In un laboratorio di fisica, si vuole verificare sperimentalmente che un filo rettilineo percorso da corrente, immerso in un campo magnetico uniforme, è soggetto a una forza. A questo scopo, un filo di rame RS rettilineo, rigido, di lunghezza $l$, misurata in metri (m), di massa $m$, misurata in chilogrammi (Kg), viene appeso alle estremità di due fili conduttori. Tali fili, verticali e di massa trascurabile, sono liberi di ruotare, senza attrito, intorno a due ganci metallici, P e Q, posizionati alle altre estremità. Attraverso un interruttore, i ganci P e Q vengono collegati a un generatore di corrente continua e il filo di rame viene posto in un campo magnetico $\vec{B}$, uniforme e costante, perpendicolare al filo (fig. 1) e la cui intensità è misurata in tesla (T). Quando si chiude l'interruttore, il circuito è percorso da una corrente di intensità $i$, misurata in ampere (A) e il filo RS si sposta in una nuova posizione di equilibrio, in cui PR forma un angolo $\theta$ con la direzione verticale (fig. 2). *(figure nel PDF)*
 
 a) Descrivere in direzione, verso e intensità, la forza con cui il campo $\vec{B}$ agisce sulla corrente che attraversa il tratto RS. Come varia la posizione di equilibrio del filo di rame al variare dell'intensità e del verso della corrente?

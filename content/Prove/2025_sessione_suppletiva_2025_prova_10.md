@@ -17,6 +17,8 @@ Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21h
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_suppletiva_2025_prova_10_1|Problema 1]]*
+
 Si consideri la famiglia di funzioni $f_a(x) = (x^2 + 1)e^{ax+1}$, con $a$ parametro reale non nullo, e si indichi con $\gamma_a$ il grafico di $f_a$.
 
 a) Al variare di $a$, stabilire il numero degli estremi relativi e dei flessi. Determinare il valore positivo di $a$ in modo che il grafico abbia un flesso a tangente orizzontale.
@@ -34,6 +36,8 @@ d) Sia $P_a$ un punto sulla curva $\gamma_a$, di ascissa $x < 0$, nonché $Q_a$ 
 **Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_suppletiva_2025_prova_10_2|Problema 2]]*
 
 Il grafico $\gamma$ in figura rappresenta la funzione $f$ così definita:
 $$f(x) = \begin{cases} \ln(P_2(x)) & \text{se } x < 0 \\ P_3(x) & \text{se } x \ge 0 \end{cases}$$
@@ -62,6 +66,8 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_1|Quesito 1]]*
+
 1. Un rettangolo si dice aureo se il rapporto fra i suoi lati è uguale a $\varphi = \dfrac{1+\sqrt{5}}{2}$. Sia dato un foglio la cui forma è un rettangolo aureo e lo si indichi con $ABCD$. Dopo aver piegato il foglio come mostrato in figura, verificare che anche il rettangolo $ABPC'$ è aureo. Successivamente, determinare la lunghezza di $AD$, sapendo che $AC' = 40$ cm. *(figura nel PDF)*
 
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
@@ -70,6 +76,8 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 **Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_2|Quesito 2]]*
 
 2. Zoe sfida Eva al seguente gioco: lanciando un dado regolare a sei facce, Zoe segna un punto quando esce il 5 oppure il 6, in caso contrario è Eva a segnare un punto. Vince chi arriva prima a 3 punti. Qual è la probabilità che Zoe vinca con il punteggio 3 - 1?
 
@@ -80,6 +88,8 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_3|Quesito 3]]*
+
 3. Ci sono 9 matite di 9 colori diversi e 3 cassetti indicati con A, B, C. Se 4 matite devono essere messe nel cassetto A, 2 nel cassetto B e 3 nel cassetto C, quante sono le possibili collocazioni?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -88,6 +98,8 @@ d) Determinare il rapporto tra le aree delle regioni limitate di piano $R_1$ e $
 **Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_4|Quesito 4]]*
 
 4. Nello spazio con riferimento cartesiano ortogonale $Oxyz$ sono date le equazioni di due rette:
 $$r: \begin{cases} y - z - 1 = 0 \\ x - z = 4 \end{cases} \qquad s: \begin{cases} x = 1 + 2t \\ y = t \\ z = 3 - t \end{cases}$$
@@ -100,6 +112,8 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_5|Quesito 5]]*
+
 5. Il triangolo di Reuleaux è una figura utilizzata come elemento architettonico in diverse chiese gotiche. Si costruisce a partire da un triangolo equilatero di lato $L$, puntando il compasso in ogni suo vertice e tracciando l'arco minore di circonferenza che ha per estremi gli altri due vertici. Il triangolo di Reuleaux è la regione di piano delimitata dai tre archi tracciati. Dimostrare che il suo contorno ha lunghezza $\pi L$ ed esprimere la sua area in funzione di $L$.
 
 **Topic:** [[Geometria Euclidea]], [[Calcolo Integrale]]
@@ -108,6 +122,8 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 **Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_6|Quesito 6]]*
 
 6. Sapendo che $f(x) = \operatorname{sen}^2(x) - \operatorname{sen}(x)\cos(x)$, determinare gli zeri della funzione $g(x) = \dfrac{e^{f(x)} - 1}{x^2}$ nell'intervallo $[-\pi;\, \pi]$.
 
@@ -118,6 +134,8 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_7|Quesito 7]]*
+
 7. Determinare le coordinate del punto $T$ sulla parabola $p$ di equazione $y = x^2 + x + 3$, nel quale la retta tangente a $p$ risulta parallela alla retta $r$ di equazione $3x + 2y - 1 = 0$. Spiegare perché, sulla parabola $p$, il punto $T$ è quello che si trova alla minima distanza dalla retta $r$.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]]
@@ -126,6 +144,8 @@ Dopo aver dimostrato che le due rette sono incidenti, determinare l'equazione de
 **Soluzione:** [[Soluzioni/2025_sessione_suppletiva_2025_prova_10#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_suppletiva_2025_prova_10_8|Quesito 8]]*
 
 8. Sia data la funzione $f(x) = ax\ln(x) + \dfrac{b}{x^4} + c\sin\left(\dfrac{1}{x}\right)$, con $a, b, c \in \mathbb{R}$. Determinare i parametri $a, b, c$ in modo che:
 - il $\displaystyle\lim_{x \to 0^+} f(x)$ esista ed abbia un valore finito;

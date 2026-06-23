@@ -17,6 +17,8 @@ Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_ordinaria_2018_prova_27_1|Problema 1]]*
+
 Consideriamo la funzione $f_k:\mathbb{R}\to\mathbb{R}$ così definita:
 
 $$f_k(x)=x^3-kx+9$$
@@ -40,6 +42,8 @@ con $k\in\mathbb{Z}$.
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_27#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_ordinaria_2018_prova_27_2|Problema 2]]*
 
 Siano $f:\mathbb{R}\to\mathbb{Z}$ e $g:\mathbb{R}\to\mathbb{R}$ rispettivamente le funzioni parte intera e parte frazionaria (o mantissa) di un numero $x\in\mathbb{R}$. Tali funzioni sono così definite:
 
@@ -71,6 +75,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_1|Quesito 1]]*
+
 1. Dimostrare che il volume di un cilindro inscritto in un cono è minore della metà del volume del cono.
 
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]]
@@ -79,6 +85,8 @@ Quante sono le funzioni siffatte?
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_27#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_2|Quesito 2]]*
 
 2. Si dispone di due dadi uguali non bilanciati a forma di tetraedro regolare con le facce numerate da 1 a 4. Lanciando ciascuno dei due dadi, la probabilità che esca 1 è il doppio della probabilità che esca 2, che a sua volta è il doppio della probabilità che esca 3, che a sua volta è il doppio della probabilità che esca 4. Se si lanciano i due dadi contemporaneamente, qual è la probabilità che escano due numeri uguali tra loro?
 
@@ -89,6 +97,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_3|Quesito 3]]*
+
 3. Determinare i valori di $k$ tali che la retta di equazione $y=-4x+k$ sia tangente alla curva di equazione $y=5+x^2-x^3$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
@@ -97,6 +107,8 @@ Quante sono le funzioni siffatte?
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_27#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_4|Quesito 4]]*
 
 4. Considerata la funzione $f(x)=\dfrac{3x-e^{\operatorname{sen}x}}{5+e^{-x}-\cos x}$, determinare, se esistono, i valori di $\lim\limits_{x\to+\infty}f(x)$, $\lim\limits_{x\to-\infty}f(x)$, giustificando adeguatamente le risposte fornite.
 
@@ -107,6 +119,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_5|Quesito 5]]*
+
 5. Con una staccionata lunga 2 metri si vuole recintare una superficie avente la forma di un rettangolo sormontato da una semicirconferenza, come nel disegno. Determinare le dimensioni dei lati del rettangolo che consentono di recintare la superficie di area massima. *(figura nel PDF)*
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Geometria Euclidea]]
@@ -115,6 +129,8 @@ Quante sono le funzioni siffatte?
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_27#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_6|Quesito 6]]*
 
 6. Determinare $a$ in modo che $\displaystyle\int_{a}^{a+1}(3x^2+3)\,dx$ sia uguale a 10.
 
@@ -125,6 +141,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_7|Quesito 7]]*
+
 7. In un gioco a due giocatori, ogni partita vinta frutta 1 punto e vince chi per primo raggiunge 10 punti. Due giocatori che in ciascuna partita hanno la stessa probabilità di vincere si sfidano. Qual è la probabilità che uno dei due giocatori vinca in un numero di partite minore o uguale a 12?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -133,6 +151,8 @@ Quante sono le funzioni siffatte?
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_27#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_27_8|Quesito 8]]*
 
 8. Determinare quali sono i valori del parametro $k\in\mathbb{R}$ per cui la funzione $y(x)=2e^{kx+2}$ è soluzione dell'equazione differenziale $y''-2y'-3y=0$.
 

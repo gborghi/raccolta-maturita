@@ -17,6 +17,8 @@ Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_63_1|Problema 1]]*
+
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ d'equazione $x^2+y^2=25$.
 
 a) Si scrivano le equazioni delle tangenti a $\mathcal{C}$ nei suoi punti d'ordinata $y=3$.
@@ -33,6 +35,8 @@ d) Il settore circolare $POQ$ è la base di un solido $W$ che tagliato con piani
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_63_2|Problema 2]]*
 
 Nel piano riferito ad un sistema $Oxy$ di coordinate cartesiane siano assegnate le parabole d'equazioni: $$y^2=2ax \quad e \quad x^2=ay,\qquad \text{con } a>0.$$
 
@@ -51,6 +55,8 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_1|Quesito 1]]*
+
 1. Un tetraedro regolare e un cubo hanno superfici equivalenti. Si determini il rapporto dei rispettivi spigoli.
 
 **Topic:** [[Geometria Solida]]
@@ -59,6 +65,8 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.74](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_2|Quesito 2]]*
 
 2. Si dimostri che l'equazione: $$x^{11}+11x+5=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
@@ -70,6 +78,8 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_3|Quesito 3]]*
+
 3. Si determini il campo di esistenza della funzione: $$f:x\to\ln(-2x^2+4x+6).$$
 
 **Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -80,6 +90,8 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_4|Quesito 4]]*
+
 4. Qual è il periodo della funzione $f(x)=\cos(3x+1)$? Si dia ragione della risposta.
 
 **Topic:** [[Trigonometria]]
@@ -88,6 +100,8 @@ d) Si calcoli il volume del solido generato da $\mathcal{D}$ in una rotazione co
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_5|Quesito 5]]*
 
 5. Si sa che una grandezza fisica $y$ dipende da un'altra $x$ secondo una legge del tipo $y=kx^\alpha$ dove $k$ e $\alpha$ sono costanti incognite. Una misura simultanea di $x$ e $y$, eseguita in due diverse situazioni, ha dato i risultati riportati nella tabella seguente:
 
@@ -104,6 +118,8 @@ Si calcolino $k$ e $\alpha$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_6|Quesito 6]]*
+
 6. Si calcoli: $$\lim_{x\to 0}\frac{1-\cos x}{x^2}.$$
 
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
@@ -113,6 +129,8 @@ Si calcolino $k$ e $\alpha$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_7|Quesito 7]]*
+
 7. Dati due punti $A$ e $B$ distanti tra loro $4\ \mathrm{dm}$, si dica qual è il luogo dei punti $C$ dello spazio tali che il triangolo $ABC$ sia rettangolo in $A$ ed abbia area uguale a $2\ \mathrm{cm}^2$.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
@@ -121,6 +139,8 @@ Si calcolino $k$ e $\alpha$.
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_63#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.79](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_8|Quesito 8]]*
 
 8. Si determini il cilindro di massimo volume che si può inscrivere in una sfera di $60\ \mathrm{cm}$ di raggio. Quale è la capacità di tale cilindro, espressa in litri?
 

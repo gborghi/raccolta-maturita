@@ -16,6 +16,8 @@ Fonte: p.102 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1964_tutti_temi_1|Problema 1]]*
+
 [Conclusione del problema precedente] Determinare una parallela $r$ al lato $BC$ in guisa che, dette $MN$ e $PQ$ le corde che su $r$ staccano rispettivamente il triangolo e la circonferenza, si abbia:
 
 $$|PQ|+\frac{6}{7}|MN|=s$$

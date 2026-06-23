@@ -17,6 +17,8 @@ Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_1|Quesito 1]]*
+
 **Quesito 1.** Cosa si intende per funzione periodica? Qual è il periodo della funzione $f(x)=\tan(2x)+\cos 2x$?
 
 **Topic:** [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -27,6 +29,8 @@ Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_2|Quesito 2]]*
+
 **Quesito 2.** Provate che se l'equazione $ax^3+bx^2+cx+d=0$ ha due soluzioni entrambe di valore $k$, allora $k$ è anche soluzione dell'equazione $3ax^2+2bx+c=0$.
 
 **Topic:** [[Derivate]], [[Equazioni e Disequazioni]]
@@ -35,6 +39,8 @@ Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_3|Quesito 3]]*
 
 **Quesito 3.** Provate che la curva di equazione
 $$y=\frac{a_0x^n+a_1x^{n-1}+\cdots+a_{n-1}x+a_n}{b_0x^n+b_1x^{n-1}+\cdots+b_{n-1}x+b_n}$$
@@ -48,6 +54,8 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_4|Quesito 4]]*
+
 **Quesito 4.** Qual è il flesso della funzione $e^x-x^2$?
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -57,6 +65,8 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.89](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_5|Quesito 5]]*
 
 **Quesito 5.** Provate che una qualsiasi curva di equazione $y=ax^3+bx^2+cx+d$ presenta uno e un solo flesso e che questo è il centro di simmetria della curva.
 
@@ -68,6 +78,8 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_6|Quesito 6]]*
+
 **Quesito 6.** Per quale $x$ la tangente alla curva di equazione $y=\arcsin x$ ha coefficiente angolare $1$?
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -77,6 +89,8 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_7|Quesito 7]]*
+
 **Quesito 7.** $F(x)$ e $G(x)$ sono due primitive rispettivamente di $y=x^2$ e $y=x$. Sapendo che è $G(0)-F(0)=3$, quanto vale $G(1)-F(1)$?
 
 **Topic:** [[Calcolo Integrale]]
@@ -85,6 +99,8 @@ con $a_0$ e $b_0$ reali non nulli, ammette per asintoto la retta di equazione $y
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.91](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_sup_questionario_88_8|Quesito 8]]*
 
 **Quesito 8.** Tra i coni circolari retti di apotema $3\,\text{dm}$ quale è quello di capacità massima? Esprimete in litri tale capacità massima.
 

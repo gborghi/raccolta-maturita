@@ -16,6 +16,8 @@ Fonte: p.31 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_americhe_boreale_2010_sessione_suppletiva_problema2_31_1|Problema 1]]*
+
 Il trapezio rettangolo $ABCD$ ha la base maggiore $AB$ e il lato obliquo $AD$ entrambi di lunghezza $1$.
 
 a) Si esprima il perimetro del trapezio in funzione dell'angolo acuto $D\widehat{A}B=\delta$.

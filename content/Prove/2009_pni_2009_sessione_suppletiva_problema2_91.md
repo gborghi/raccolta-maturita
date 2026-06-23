@@ -16,6 +16,8 @@ Fonte: p.91 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_pni_2009_sessione_suppletiva_problema2_91_1|Problema 1]]*
+
 Si consideri la funzione:
 
 $$f(x)=2+\frac{a}{x+1}+\frac{b}{(x+1)^2}$$

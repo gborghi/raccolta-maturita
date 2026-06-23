@@ -17,6 +17,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_1|Quesito 1]]*
+
 **Quesito 1.** Nello spazio si considerino tre rette $a$, $b$, $c$, comunque scelte ma alle seguenti condizioni: la retta $a$ è strettamente parallela alla retta $b$ e la retta $b$ è strettamente parallela alla retta $c$. Si può concludere che le rette $a$, $c$ non hanno punti in comune? Fornire una esauriente motivazione della risposta.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -25,6 +27,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_2|Quesito 2]]*
 
 **Quesito 2.** Un piano $\gamma$ interseca i due piani $\alpha$ e $\beta$, paralleli in senso stretto, rispettivamente secondo le rette $a$ e $b$. Si può concludere qualcosa circa le posizioni reciproche di queste due rette? Fornire esaurienti spiegazioni della risposta.
 
@@ -35,6 +39,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_3|Quesito 3]]*
+
 **Quesito 3.** Dimostrare che la derivata, rispetto ad $x$, della funzione $2^x$ è $2^x \ln 2$, esplicitando ciò che si ammette.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -43,6 +49,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_4|Quesito 4]]*
 
 **Quesito 4.** Le parti letterali dei termini dello sviluppo del binomio $(a+b)^7$, ordinati secondo le potenze decrescenti di $a$ e crescenti di $b$, sono rispettivamente: $a^7$, $a^6 b$, $a^5 b^2$, $a^4 b^3$, $a^3 b^4$, $a^2 b^5$, $a b^6$, $b^7$. Elencare i loro coefficienti e giustificare in modo esauriente la risposta.
 
@@ -53,6 +61,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_5|Quesito 5]]*
+
 **Quesito 5.** In una fabbrica lavorano 35 operai e 25 operaie. Si deve formare una delegazione comprendente 3 operai e 2 operaie. Quante sono le possibili delegazioni?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -62,6 +72,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_6|Quesito 6]]*
+
 **Quesito 6.** Calcolare il limite della funzione $\dfrac{2x - \sin 3x}{3x + \cos 2x}$ per $x$ tendente a più infinito. È vero o falso che si può ricorrere al teorema di De L'Hôpital? Fornire una esauriente spiegazione della risposta.
 
 **Topic:** [[Limiti e Continuita]], [[Derivate]]
@@ -70,6 +82,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_7|Quesito 7]]*
 
 **Quesito 7.** Calcolare, se esiste, la funzione $f(x)$ tale che $\displaystyle\int_0^t f(x)\,dx = t^2 + \sqrt{t}$.
 

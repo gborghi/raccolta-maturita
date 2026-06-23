@@ -16,6 +16,8 @@ Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_scuole_italiane_allestero_americhe_2009_sessione_o_problema1_17_1|Problema 1]]*
+
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ con centro nell'origine $O$ e raggio $r=3$.
 
 a) Si tracci una corda $CD$ perpendicolare al diametro $AB$ con $A(-3;0)$ e $B(3;0)$. Si trovino le coordinate dei punti $C$ e $D$ di $\mathcal{C}$ affinché l'area del triangolo $ACD$ sia massima.

@@ -17,6 +17,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_1|Quesito 1]]*
+
 **Quesito 1.** Tra i rettangoli aventi la stessa area di $16\,\text{m}^2$ trovare quello di perimetro minimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
@@ -25,6 +27,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_questionario_113#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.113](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_2|Quesito 2]]*
 
 **Quesito 2.** Cosa si intende per «funzione periodica»? Qual è il periodo della funzione $f(x)=\operatorname{sen} x-2\cos x$?
 
@@ -36,6 +40,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_3|Quesito 3]]*
+
 **Quesito 3.** Dare un esempio di un solido la cui superficie laterale è $24\pi$.
 
 **Topic:** [[Geometria Solida]]
@@ -44,6 +50,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_questionario_113#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.114](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_4|Quesito 4]]*
 
 **Quesito 4.** Provare che se l'equazione $ax^3+bx^2+cx+d=0$ ha due soluzioni entrambe di valore $k$, allora $k$ è anche soluzione dell'equazione $y'=0$, avendo posto $y=ax^3+bx^2+cx+d$. A quale condizione $k$ è anche soluzione di $y''=0$?
 
@@ -54,6 +62,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_5|Quesito 5]]*
+
 **Quesito 5.** Dare una giustificazione delle formule: $\cos 2\alpha=2\cos^2\alpha-1$, $\cos 2\alpha=1-2\operatorname{sen}^2\alpha$ e utilizzarle per provare che: $\cos 4\alpha=8\cos^4\alpha-8\cos^2\alpha+1$.
 
 **Topic:** [[Trigonometria]]
@@ -62,6 +72,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_questionario_113#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.115](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_6|Quesito 6]]*
 
 **Quesito 6.** Dimostrare che l'equazione $x^5+10x+1=0$ ammette una sola soluzione reale.
 
@@ -73,6 +85,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_7|Quesito 7]]*
+
 **Quesito 7.** Enunciare il teorema del valor medio o di Lagrange [da Giuseppe Luigi Lagrange (1736–1813)] e mostrarne le implicazioni ai fini della determinazione della crescenza o decrescenza delle curve.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -81,6 +95,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_questionario_113#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_8|Quesito 8]]*
 
 **Quesito 8.** Di una funzione $f(x)$ si sa che la sua derivata seconda è $2^x$ e si sa ancora che: $f(0)=\left(\dfrac{1}{\ln 2}\right)^2$ e $f'(0)=0$. Qual è $f(x)$?
 
@@ -91,6 +107,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_9|Quesito 9]]*
+
 **Quesito 9.** Calcolare l'area della parte finita di piano delimitata dalla curva d'equazione $y=2e^x-1$ e dagli assi cartesiani.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -99,6 +117,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Soluzione:** [[Soluzioni/2003_suppletiva_ordinamento_2003_questionario_113#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_ordinamento_2003_questionario_113_10|Quesito 10]]*
 
 **Quesito 10.** Definire gli asintoti — orizzontale, obliquo, verticale — di una curva e fornire un esempio di funzione $f(x)$ il cui grafico presenti un asintoto orizzontale e due asintoti verticali.
 

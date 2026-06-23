@@ -17,6 +17,8 @@ Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdB
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2014_13_134_1|Problema 1]]*
+
 Al termine di un'escursione di trekking in montagna, Giulia ha raggiunto un rifugio. Grazie alla nuova app che ha scaricato, ha potuto rilevare con esattezza alcuni dati relativi al percorso effettuato, riassunti nella seguente tabella.
 
 | Distanza percorsa (km) | 0 | 3 | 12 | 20 | 27 | 30 |
@@ -52,6 +54,8 @@ f) Spiega cosa rappresenta l'area sottesa dal grafico di $v(t)$ nell'intervallo 
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2014_13_134_2|Problema 2]]*
+
 Nell'ambito di uno studio epidemiologico riguardante la diffusione di una patologia influenzale in presenza di determinate strategie di prevenzione e cura, alcuni ricercatori hanno elaborato un semplice modello matematico per esprimere l'andamento temporale del numero di persone infette in un dato campione.
 
 Indicato con $t$ il tempo trascorso, in giorni, dall'inizio della diffusione della patologia nel campione, secondo il modello il numero $n(t)$ di persone infette al giorno $t$ è espresso da una funzione del tipo:
@@ -78,6 +82,8 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_1|Quesito 1]]*
+
 1. Considera la curva $\gamma$ di equazione $y=-x^2+4x$ e il fascio di rette di equazione $y=mx$, con $m\in\mathbb{R}$. Ricava i valori di $m$ per i quali la corrispondente retta del fascio e la curva $\gamma$ delimitano una regione piana di area $\dfrac{9}{2}$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -86,6 +92,8 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_2|Quesito 2]]*
 
 2. Per decidere la meta del fine settimana, Mario lancia un dado regolare a sei facce: se esce 1 o 3, sceglierà la località A, altrimenti la località B. Le previsioni meteo per il fine settimana indicano cielo nuvoloso con probabilità $30\%$ nella località A e $40\%$ nella località B. Al suo ritorno, Mario incontra Lucia e le dice di aver trascorso un bel weekend di sole. Qual è la probabilità che Mario abbia trascorso il fine settimana nella località A?
 
@@ -96,6 +104,8 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_3|Quesito 3]]*
+
 3. Un rubinetto versa acqua in un recipiente di capacità 20 litri, inizialmente vuoto, con una portata variabile (misurata in litri/minuto) espressa dalla legge $p(t)=\dfrac{10}{1+t}$. Calcola il tempo, in minuti e secondi, necessario per riempire il recipiente.
 
 **Topic:** [[Calcolo Integrale]]
@@ -104,6 +114,8 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_4|Quesito 4]]*
 
 4. Assegnata la funzione $f(x)=3\ln x+2x^2$, ricava l'equazione della retta tangente al grafico della funzione $F(x)=f^{-1}(x)$, inversa di $f(x)$, nel suo punto di ascissa 2, dopo aver dimostrato che $f(x)$ è una funzione invertibile.
 
@@ -114,6 +126,8 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_5|Quesito 5]]*
+
 5. Anna e Berto si trovano sulla stessa riva di un fiume, a 50 m di distanza l'una dall'altro. Per guardare uno stesso albero che si trova sulla riva opposta, Anna deve girare lo sguardo di 45° rispetto alla perpendicolare alla riva, Berto di 60°. Le informazioni assegnate sono sufficienti per determinare in modo univoco la larghezza del fiume? Motiva adeguatamente la risposta.
 
 **Topic:** [[Trigonometria]]
@@ -123,6 +137,8 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_6|Quesito 6]]*
+
 6. Un contenitore di assegnata capacità $V$ ha la forma di un cilindro sormontato alle basi da due coni equilateri aventi le basi coincidenti con quelle del cilindro. Determina per quale valore del raggio di base del cilindro la superficie totale del contenitore risulta minima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -131,6 +147,8 @@ e) La funzione $n(t)$ si riferisce a un campione che mappa l'$1\unicode{x2030}$ 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_7|Quesito 7]]*
 
 7. In un riferimento cartesiano $Oxyz$ sono assegnate una sfera di centro l'origine $O$ e raggio 5 e la retta $r$ rappresentata dal sistema parametrico:
 $$\begin{cases} x=-4t\\ y=-3, & \text{con } t\in\mathbb{R}.\\ z=3t \end{cases}$$
@@ -142,6 +160,8 @@ Ricava le coordinate dei punti $A$ e $B$ in cui la retta interseca la superficie
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_8|Quesito 8]]*
 
 8. $f(x)$ è una funzione continua nell'intervallo $[2;4]$, derivabile nell'intervallo aperto $]2;4[$ e tale che:
    - a) $f(2)=1$;
@@ -156,6 +176,8 @@ Ricava le coordinate dei punti $A$ e $B$ in cui la retta interseca la superficie
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_9|Quesito 9]]*
+
 9. Una pallina, lasciata cadere da un'altezza di 1 m, rimbalza verticalmente sul pavimento. Nell'urto (anelastico) si perde parte dell'energia cinetica, pertanto la pallina risale fino a un'altezza pari ai $\dfrac{9}{10}$ di quella da cui era caduta, e così via per ogni rimbalzo. Ipotizzando infiniti rimbalzi, stabilisci se la distanza (complessivamente) percorsa dalla pallina nei suoi rimbalzi è infinita o finita e in tal caso a quanto ammonta tale distanza. Motiva la risposta con un opportuno modello matematico.
 
 **Topic:** [[Successioni e Serie]]
@@ -164,6 +186,8 @@ Ricava le coordinate dei punti $A$ e $B$ in cui la retta interseca la superficie
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_13_134#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2014_13_134_10|Quesito 10]]*
 
 10. Determina gli eventuali asintoti verticali, orizzontali e obliqui della funzione:
 $$f(x)=3x-4\ln x.$$

@@ -16,6 +16,8 @@ Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_scientifico_comunicazione_suppletiva_2018_problema1_34_1|Problema 1]]*
+
 Sia dato un sistema di assi cartesiani $Oxy$ in cui l'unità corrisponde a 1 metro. Una particella puntiforme si muove lungo l'asse delle ascisse, nel verso positivo, partendo dall'origine, con una velocità di 2 metri al secondo. Quando la particella si trova in un generico punto $x = a$, costruisci un triangolo prendendo le tangenti alla curva di equazione $y = ax - x^2$ nei punti di ascissa 0 e $a$.
 
 **1)** Determina l'area del triangolo in funzione di $a$; quanto vale l'area del triangolo dopo 5 secondi?

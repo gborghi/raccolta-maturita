@@ -16,6 +16,8 @@ Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema2_147_1|Problema 1]]*
+
 Nel piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$[1] \qquad y = x^4 + a x^3 + b x^2 + c \ .$$
 

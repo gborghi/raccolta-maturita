@@ -16,6 +16,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_pni_2008_sessione_suppletiva_problema2_86_1|Problema 1]]*
+
 Si consideri la funzione:
 $$y = a\sin^2 x + b\sin x + c.$$
 

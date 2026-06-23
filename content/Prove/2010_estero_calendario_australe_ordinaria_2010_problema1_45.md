@@ -16,6 +16,8 @@ Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_calendario_australe_ordinaria_2010_problema1_45_1|Problema 1]]*
+
 Sia $f$ la funzione di dominio $I = \left]-\frac{1}{2};\,+\infty\right[$ definita da $f(x) = \ln(1 + 2x)$.
 
 **a)** Qual è il codominio di $f$? Si dimostri che $f$ è strettamente crescente su $I$ e se ne tracci il grafico $\gamma$.

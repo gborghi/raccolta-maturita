@@ -16,6 +16,8 @@ Fonte: p.192 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_liceo_scientifico_pni_2010_sessione_straordinaria_problema2_192_1|Problema 1]]*
+
 Si consideri la funzione: $f(x) = \ln\left(x + \sqrt{1 + x^2}\right)$.
 
 1. Si studi tale funzione e si tracci il suo grafico $\gamma$ su un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$.

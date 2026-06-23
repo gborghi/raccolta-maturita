@@ -16,6 +16,8 @@ Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1990_tutti_temi_1|Problema 1]]*
+
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
 1. Data una semicirconferenza di diametro $|AC| = 2r$ e centro $O$, tracciare la semiretta uscente da $A$, perpendicolare ad $AC$ e giacente rispetto ad $AC$ dalla stessa parte della semicirconferenza. Detto $M$ un punto generico su tale semiretta, indicare con $x$ la distanza di $M$ da $A$. Da $M$ staccare l'ulteriore tangente in $B$ alla semicirconferenza. Detta $K$ l'intersezione della semicirconferenza con il segmento $OM$, determinare l'area $y$ del quadrilatero $ACBK$ in funzione di $x$. Determinare il valore di $y$ per $x$ tendente a $+\infty$.

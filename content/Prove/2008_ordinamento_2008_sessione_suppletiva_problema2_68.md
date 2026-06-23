@@ -16,6 +16,8 @@ Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_ordinamento_2008_sessione_suppletiva_problema2_68_1|Problema 1]]*
+
 Si consideri la funzione:
 $$y = \sin x\,(2\cos x + 1).$$
 

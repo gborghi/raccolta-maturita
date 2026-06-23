@@ -16,6 +16,8 @@ Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_estero_calendario_australe_ordinaria_2011_problema1_16_1|Problema 1]]*
+
 Sia $f$ la funzione definita da $f(x)=3\ln(e^2-x)$.
 
 a) Si studi la funzione $f$ e se ne tracci il grafico $\Gamma$.

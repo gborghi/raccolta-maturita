@@ -16,6 +16,8 @@ Fonte: p.137 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdB
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2014_14_137_1|Problema 1]]*
+
 *(Statement non trascrivibile dalle pagine disponibili — vedi PDF.)*
 
 Le pagine indicate (SimZan_parte1.pdf, pp. 137-146) contengono la **Risoluzione** della simulazione 2014/15 (Problema 1 – Trekking in montagna, Problema 2 – Una cura efficace e Questionario), non il testo della consegna.

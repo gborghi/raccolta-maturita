@@ -17,6 +17,8 @@ Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_1|Quesito 1]]*
+
 **QUESITO 1**
 
 Si consideri la regione $R$ del primo quadrante del sistema di riferimento $Oxy$, delimitata dal grafico di $y=e^{-x}$, dall'asse $x$ e dalla retta $x=\ln 3$. $R$ è la base di un solido $W$ che, tagliato con piani perpendicolari all'asse $x$, dà tutte sezioni quadrate. Si calcoli il volume di $W$.
@@ -27,6 +29,8 @@ Si consideri la regione $R$ del primo quadrante del sistema di riferimento $Oxy$
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_ordinaria_questionario_54#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_2|Quesito 2]]*
 
 **QUESITO 2**
 
@@ -40,6 +44,8 @@ $$(m-1)x^2-(m-5)x+m-1=0 \quad \text{con} \quad -2\le x\le -1.$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_3|Quesito 3]]*
+
 **QUESITO 3**
 
 Si determini il cono di volume minimo circoscritto ad un cilindro dato.
@@ -50,6 +56,8 @@ Si determini il cono di volume minimo circoscritto ad un cilindro dato.
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_ordinaria_questionario_54#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_4|Quesito 4]]*
 
 **QUESITO 4**
 
@@ -62,6 +70,8 @@ Si determini il punto della parabola $y=\dfrac{1}{4}x^2$ più vicino al punto di
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_5|Quesito 5]]*
+
 **QUESITO 5**
 
 Sia $AB$ un segmento di lunghezza $10$ cm. Si determini il luogo dei punti $C$ dello spazio tali che $A\hat{B}C$ sia retto e $B\hat{A}C$ misuri $60°$.
@@ -72,6 +82,8 @@ Sia $AB$ un segmento di lunghezza $10$ cm. Si determini il luogo dei punti $C$ d
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_ordinaria_questionario_54#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_6|Quesito 6]]*
 
 **QUESITO 6**
 
@@ -84,6 +96,8 @@ Due località $A$ e $B$ hanno la stessa longitudine; $A$ ha latitudine $43°36'\
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_7|Quesito 7]]*
+
 **QUESITO 7**
 
 Si dimostri che una funzione $f(x)$ derivabile in un punto $x_0$ è ivi anche continua; si porti un esempio di funzione continua in un punto e ivi non derivabile.
@@ -94,6 +108,8 @@ Si dimostri che una funzione $f(x)$ derivabile in un punto $x_0$ è ivi anche co
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_ordinaria_questionario_54#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_ordinaria_questionario_54_8|Quesito 8]]*
 
 **QUESITO 8**
 

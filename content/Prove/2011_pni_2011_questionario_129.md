@@ -17,6 +17,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_1|Quesito 1]]*
+
 **Quesito 1.** Si discuta se la geometria euclidea sia adeguata a descrivere lo spazio fisico, distinguendo il caso di uno spazio limitato da quello di spazi molto ampi (per esempio l'intera superficie terrestre, approssimabile a una sfera), e si indichi quale geometria si presta meglio a descrivere quest'ultima situazione.
 
 **Topic:** [[Geometria Euclidea]]
@@ -25,6 +27,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 **Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_2|Quesito 2]]*
 
 **Quesito 2.** Si determini il punto della curva $y=\sqrt{x}$ che ha distanza minima dal punto $(4\,;\,0)$.
 
@@ -35,6 +39,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_3|Quesito 3]]*
+
 **Quesito 3.** Si calcoli il volume del solido generato dalla rotazione attorno all'asse $y$ della regione delimitata dalla curva $y=\operatorname{sen}x$ e dall'asse $x$ nell'intervallo $[0\,;\,\pi]$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Trigonometria]]
@@ -43,6 +49,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 **Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_4|Quesito 4]]*
 
 **Quesito 4.** Si determini il numero naturale $n$, con $n\ge 4$, tale che $\dbinom{n}{4}=\dbinom{n}{3}$.
 
@@ -53,6 +61,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_5|Quesito 5]]*
+
 **Quesito 5.** Si spieghi, con un esempio, in che senso l'insieme dei numeri naturali e l'insieme dei numeri naturali che sono quadrati perfetti possano dirsi "ugualmente numerosi" (equipotenti).
 
 **Topic:** [[Successioni e Serie]]
@@ -61,6 +71,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 **Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_6|Quesito 6]]*
 
 **Quesito 6.** In una sfera di raggio $R=10\ \text{cm}$ è inscritto un cono. Si determini il cono di superficie laterale massima.
 
@@ -71,6 +83,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_7|Quesito 7]]*
+
 **Quesito 7.** Un test è costituito da $10$ domande, ciascuna con $4$ risposte possibili di cui una sola esatta. Rispondendo a caso, si calcoli la probabilità di indovinare almeno due risposte.
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -79,6 +93,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 **Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_8|Quesito 8]]*
 
 **Quesito 8.** Si illustri il significato dell'espressione "quadratura del cerchio" e si spieghi perché tale costruzione, con riga e compasso, è impossibile.
 
@@ -89,6 +105,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_9|Quesito 9]]*
+
 **Quesito 9.** Si determini il luogo dei punti dello spazio equidistanti dai tre vertici $A$, $B$, $C$ di un triangolo, dimostrando che si tratta della retta perpendicolare al piano del triangolo passante per il circocentro.
 
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
@@ -97,6 +115,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 **Soluzione:** [[Soluzioni/2011_pni_2011_questionario_129#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2011_pni_2011_questionario_129_10|Quesito 10]]*
 
 **Quesito 10.** Sono dati i grafici di tre funzioni $f$, $f'$, $f''$, indicati con I, II, III. Si stabilisca, motivando la risposta, quale grafico corrisponde a $f$, quale a $f'$ e quale a $f''$.
 

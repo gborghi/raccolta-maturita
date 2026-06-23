@@ -16,6 +16,8 @@ Fonte: p.189 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_suppletiva_2016_problema2_189_1|Problema 1]]*
+
 Fissato $k\in\mathbb{R}$, la funzione $g_k:\mathbb{R}\to\mathbb{R}$ è così definita: $g_k(x)=e^{-k\cdot x^2}$.
 
 Si indica con $\Gamma_k$ il suo grafico, in un riferimento cartesiano $Oxy$.

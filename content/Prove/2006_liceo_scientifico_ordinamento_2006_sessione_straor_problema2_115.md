@@ -16,6 +16,8 @@ Fonte: p.115 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema2_115_1|Problema 1]]*
+
 Si considerino i polinomi di 5° grado, nella variabile $x$, con coefficienti reali, i cui grafici, rappresentati in un piano riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sono simmetrici rispetto all'origine $O$ e hanno un massimo relativo nel punto $\left(-2;\ \dfrac{64}{15}\right)$.
 
 a) Trovare l'equazione $y=f(x)$ dei grafici suddetti.

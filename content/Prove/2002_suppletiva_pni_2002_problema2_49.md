@@ -16,6 +16,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_suppletiva_pni_2002_problema2_49_1|Problema 1]]*
+
 È data la sfera $S$ di centro $O$ e raggio $R$. Determinare:
 
 **a)** il cono $C$ di volume minimo circoscritto a $S$;

@@ -17,6 +17,8 @@ Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBf
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2013_7_81_1|Problema 1]]*
+
 Si consideri una circonferenza con $A$ e $B$ estremi di una corda di lunghezza 1 e $AC$ diametro.
 
 a) Posto $\overline{BC}=x$, si esprima in funzione di $x$ il rapporto fra l'area del triangolo $ABC$ e quella del quadrato costruito sul diametro, provando che è dato da:
@@ -39,6 +41,8 @@ e) Sia $L$ la regione di piano delimitata da $\gamma$ e dall'asse delle ascisse 
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2013_7_81_2|Problema 2]]*
+
 Sia data la funzione $f(x)=\ln(1-kx)+kx^2$, dove $k$ è un numero reale diverso da 0.
 
 a) Si determini per quale valore di $k$ la funzione ha un punto di flesso a tangente orizzontale.
@@ -59,6 +63,8 @@ e) Si disegni la curva simmetrica di $\gamma$ rispetto alla retta $x=1$ e si scr
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_1|Quesito 1]]*
+
 1. Data la funzione:
 $$f(x)=\begin{cases} e^{\frac{1}{x}} & \text{se } x<0,\\ 0 & \text{se } x=0,\end{cases}$$
 si studi la continuità di $f'(x)$.
@@ -70,6 +76,8 @@ si studi la continuità di $f'(x)$.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_2|Quesito 2]]*
+
 2. Angela vuole farsi una collana composta da perle di plastica colorate: 6 rosse, 10 arancioni e 8 gialle da chiudere con un fermaglio. Quante sono le possibili sequenze differenti? Qual è invece il numero delle sequenze nel caso in cui Angela voglia mettere agli estremi perle di colore arancione? Quale sarà poi tale numero se Angela pensa a composizioni con estremi di colore uguale?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -78,6 +86,8 @@ si studi la continuità di $f'(x)$.
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_7_81#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_3|Quesito 3]]*
 
 3. Si determinino quali condizioni devono soddisfare i due parametri reali $a$ e $b$, con $a>0$, affinché la seguente funzione verifichi le ipotesi del teorema di Lagrange nell'intervallo $\left[\frac{a}{2};b\right]$, analizzando separatamente i casi $b\le a$ e $b>a$:
 $$f(x)=\begin{cases} \dfrac{x}{x-2a} & \text{se } x\le a\\[2mm] -\dfrac{x}{a} & \text{se } x>a.\end{cases}$$
@@ -89,6 +99,8 @@ $$f(x)=\begin{cases} \dfrac{x}{x-2a} & \text{se } x\le a\\[2mm] -\dfrac{x}{a} & 
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_4|Quesito 4]]*
+
 4. Si determini un'approssimazione di $\ln 2$ con tre cifre decimali e un errore inferiore al centesimo, utilizzando un metodo di integrazione numerica a scelta applicato a un opportuno integrale definito.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -97,6 +109,8 @@ $$f(x)=\begin{cases} \dfrac{x}{x-2a} & \text{se } x\le a\\[2mm] -\dfrac{x}{a} & 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_7_81#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_5|Quesito 5]]*
 
 5. Si determini il dominio della funzione:
 $$y=\sqrt{\frac{\ln(x-2)}{\ln x-2}}.$$
@@ -109,6 +123,8 @@ $$y=\sqrt{\frac{\ln(x-2)}{\ln x-2}}.$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_6|Quesito 6]]*
+
 6. La seguente figura rappresenta il grafico di una funzione $f$ e le sue tangenti nei punti $O(0;0)$, $M(3;-2)$, $F(6;-1)$. La funzione è continua e derivabile almeno due volte in $\mathbb{R}$ e ha due flessi in $O$ e $F$. Si disegni un grafico probabile della derivata prima dando adeguata giustificazione, indicando in particolare le coordinate dei suoi punti di massimo e minimo relativi. *(figura nel PDF)*
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -117,6 +133,8 @@ $$y=\sqrt{\frac{\ln(x-2)}{\ln x-2}}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_7_81#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_7|Quesito 7]]*
 
 7. Senza fare uso del teorema di De L'Hospital, si calcoli:
 $$\lim_{x\to\pi}\frac{\operatorname{sen} x}{e^{\pi}-e^{x}}.$$
@@ -128,6 +146,8 @@ $$\lim_{x\to\pi}\frac{\operatorname{sen} x}{e^{\pi}-e^{x}}.$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_8|Quesito 8]]*
+
 8. Una sfera di raggio 1 è secata da due piani paralleli tra di loro e distanti 1. Si individui la posizione reciproca dei due piani affinché la somma delle aree delle sezioni così individuate sia massima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -137,6 +157,8 @@ $$\lim_{x\to\pi}\frac{\operatorname{sen} x}{e^{\pi}-e^{x}}.$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_9|Quesito 9]]*
+
 9. Una scatola contiene palline bianche e palline nere per un totale di 100 palline. Sapendo che estraendone due la probabilità che siano dello stesso colore è uguale alla probabilità che siano di colore diverso, si determini il numero di palline di ciascun colore.
 
 **Topic:** [[Probabilita]], [[Equazioni e Disequazioni]]
@@ -145,6 +167,8 @@ $$\lim_{x\to\pi}\frac{\operatorname{sen} x}{e^{\pi}-e^{x}}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_7_81#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_7_81_10|Quesito 10]]*
 
 10. Si determini il valore del parametro $k$ affinché l'equazione $\dfrac{x+kx}{e^{x}}=k$ ammetta due soluzioni coincidenti.
 

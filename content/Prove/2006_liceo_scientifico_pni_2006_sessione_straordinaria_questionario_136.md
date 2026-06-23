@@ -16,6 +16,8 @@ Fonte: p.136 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_liceo_scientifico_pni_2006_sessione_straordinaria_questionario_136_1|Problema 1]]*
+
 *Il candidato risolva uno dei due problemi e 5 dei 10 quesiti in cui si articola il questionario.*
 
 **1.** È assegnato un pentagono regolare di lato lungo $L$. Recidendo opportunamente, in esso, cinque triangoli congruenti, si ottiene un decagono regolare: calcolarne la lunghezza del lato. (Si lascino indicate le funzioni goniometriche degli angoli coinvolti).

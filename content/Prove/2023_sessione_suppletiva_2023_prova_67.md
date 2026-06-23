@@ -17,6 +17,8 @@ Fonte: p.67 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_suppletiva_2023_prova_67_1|Problema 1]]*
+
 Assegnata la funzione
 $$f(x)=a\,x\,\ln(x)-\frac{3}{2}x$$
 
@@ -39,6 +41,8 @@ dopo averne scritta l'espressione analitica. Determinare l'equazione della retta
 **Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_suppletiva_2023_prova_67_2|Problema 2]]*
 
 Sono assegnate due funzioni polinomiali $y=P(x)$ e $y=Q(x)=kP(x)$, con $k$ parametro reale, i cui grafici rappresentativi sono mostrati in figura in fondo al problema. *(figura nel PDF)*
 
@@ -65,6 +69,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_1|Quesito 1]]*
+
 1. $A\Rightarrow B$
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -74,6 +80,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_1|Quesito 1]]*
+
 1. $A\Rightarrow B$
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -83,6 +91,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_2|Quesito 2]]*
+
 2. $B\Rightarrow A$
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -92,6 +102,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_2|Quesito 2]]*
+
 2. $B\Rightarrow A$
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -101,6 +113,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_3|Quesito 3]]*
+
 3. $A\Leftrightarrow B$
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -110,6 +124,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_3|Quesito 3]]*
+
 3. $A\Leftrightarrow B$
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -118,6 +134,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_4|Quesito 4]]*
 
 4. $B\Leftrightarrow A$
 
@@ -129,6 +147,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_4|Quesito 4]]*
 
 4. $B\Leftrightarrow A$
 
@@ -141,6 +161,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_5|Quesito 5]]*
+
 5. Determinare il valore del parametro reale $k$ in modo che la retta di equazione cartesiana $y=x-2$ risulti tangente alla curva $y=x^3+kx$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -149,6 +171,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 **Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_6|Quesito 6]]*
 
 6. Scrivere una funzione polinomiale $y=p(x)$ di terzo grado che si annulli solo per $x=0$ e per $x=3$, il cui grafico sia tangente all'asse $x$ in un punto e passi per $P(1,-4)$. Determinare l'area della regione piana limitata compresa tra l'asse $x$ ed il grafico della funzione polinomiale individuata.
 
@@ -159,6 +183,8 @@ d) Verificare che, per $x>4$, la funzione $F(x)=\frac{1}{4}\ln\left(\frac{x-4}{x
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_7|Quesito 7]]*
+
 7. Calcolare
 $$\lim_{x\to 1}\frac{\int_1^x (t^2-1)\cdot e^{2t}\,dt}{(x-1)^2}$$
 
@@ -168,6 +194,8 @@ $$\lim_{x\to 1}\frac{\int_1^x (t^2-1)\cdot e^{2t}\,dt}{(x-1)^2}$$
 **Soluzione:** [[Soluzioni/2023_sessione_suppletiva_2023_prova_67#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_suppletiva_2023_prova_67_8|Quesito 8]]*
 
 8. Sia $f$ una funzione reale di variabile reale continua e derivabile in un intervallo $(a,b)$. Si considerino le seguenti affermazioni $A$: "$f$ ha un punto di massimo o di minimo locale in $x_0\in(a,b)$" e $B$: "$\exists\, x_0\in(a,b)$ tale che $f'(x_0)=0$". Stabilire quali fra le seguenti affermazioni sono vere per ogni $f$ funzione continua e derivabile in un intervallo $(a,b)$.
 

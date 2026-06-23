@@ -16,6 +16,8 @@ Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_ordinamento_2009_problema1_6_1|Problema 1]]*
+
 Sia dato un settore circolare $AOB$ di raggio $R$ e ampiezza $x$ (misurata in radianti).
 
 **1.** Si provi che l'area $S(x)$ del segmento circolare individuato dalla corda $AB$ e dall'arco $AB$ è data da

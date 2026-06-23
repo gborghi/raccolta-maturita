@@ -17,6 +17,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_1|Quesito 1]]*
+
 **Quesito 1.** Si considerino un tronco di piramide quadrangolare regolare, la cui base maggiore abbia area quadrupla della minore, e un piano $\alpha$ equidistante dalle basi del tronco. Dire se i dati sono sufficienti per calcolare il rapporto fra i volumi dei due tronchi in cui il tronco dato è diviso dal piano $\alpha$.
 
 **Topic:** [[Geometria Solida]]
@@ -26,6 +28,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_2|Quesito 2]]*
+
 **Quesito 2.** Sia $ABC$ un qualsiasi triangolo. Sui suoi lati ed esternamente ad esso si costruiscano i tre quadrati $ABDE$, $BCFG$ e $CAHL$. Dimostrare, col metodo preferito, che i triangoli $AHE$, $BDG$ e $CFL$ sono equivalenti al triangolo $ABC$.
 
 **Topic:** [[Geometria Euclidea]]
@@ -34,6 +38,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.136](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_3|Quesito 3]]*
 
 **Quesito 3.** Luca e Claudia devono calcolare il valore di una certa espressione contenente logaritmi. Trovano come risultati rispettivamente:
 $$\log_2 27 + \log_2 12 \ , \qquad 2 + \log_2 81 \ .$$
@@ -46,6 +52,8 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_4|Quesito 4]]*
+
 **Quesito 4.** Dimostrare che ogni funzione del tipo $y = a\,\sin^2 x + b\,\sin x \cos x + c\,\cos^2 x$, dove $a$, $b$, $c$ sono numeri reali non contemporaneamente nulli, ha di regola per grafico una sinusoide. C'è qualche eccezione?
 
 **Topic:** [[Trigonometria]]
@@ -54,6 +62,8 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.137](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_5|Quesito 5]]*
 
 **Quesito 5.** Determinare il più grande valore dell'intero $n$ per cui l'espressione
 $$\sum_{k=0}^{n} 3^k$$
@@ -66,6 +76,8 @@ non supera $10000$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_6|Quesito 6]]*
+
 **Quesito 6.** Dimostrare che il limite di $\cos x$, per $x$ tendente a $0$, è $1$, esplicitando ciò che si ammette.
 
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
@@ -75,6 +87,8 @@ non supera $10000$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_7|Quesito 7]]*
+
 **Quesito 7.** Determinare il dominio di derivabilità della funzione $f(x) = |x^2 - 1|$.
 
 **Topic:** [[Derivate]]
@@ -83,6 +97,8 @@ non supera $10000$.
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_8|Quesito 8]]*
 
 **Quesito 8.** Sia $f(x)$ una funzione continua per ogni $x$ reale tale che $\int_0^2 f(x)\,dx = 4$. Dei seguenti integrali:
 $$\int_0^1 f(2x)\,dx \qquad e \qquad \int_0^1 f\!\left(\frac{x}{2}\right)dx$$
@@ -95,6 +111,8 @@ se ne può calcolare uno solo in base alle informazioni fornite. Dire quale e sp
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_9|Quesito 9]]*
+
 **Quesito 9.** Dimostrare la seguente formula:
 $$\binom{n}{k} = \binom{n-1}{k} + \binom{n-1}{k-1} \ ,$$
 dove $n$, $k$ sono numeri naturali tali che $0 < k < n$. Essa spiega una delle regole sulle quali è basata la costruzione del "triangolo di Tartaglia" (da Niccolò Fontana, detto Tartaglia, 1505 ca. – 1557): enunciarla.
@@ -105,6 +123,8 @@ dove $n$, $k$ sono numeri naturali tali che $0 < k < n$. Essa spiega una delle r
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.140](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_10|Quesito 10]]*
 
 **Quesito 10.** Calcolare quante sono le possibili "cinquine" che si possono estrarre da un'urna contenente i numeri naturali da $1$ a $90$, ognuna delle quali comprenda però i tre numeri $1$, $2$ e $3$.
 

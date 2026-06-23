@@ -17,6 +17,8 @@ Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_1|Quesito 1]]*
+
 **Quesito 1.** Si considerino un tronco di piramide quadrangolare regolare, la cui base maggiore abbia area quadrupla della minore, e un piano $\alpha$ equidistante dalle basi del tronco. Dire se i dati sono sufficienti per calcolare il rapporto fra i volumi dei due tronchi in cui il tronco dato è diviso dal piano $\alpha$.
 
 **Topic:** [[Geometria Solida]]
@@ -26,6 +28,8 @@ Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_2|Quesito 2]]*
+
 **Quesito 2.** Sia $ABC$ un qualsiasi triangolo. Sui suoi lati ed esternamente ad esso si costruiscano i tre quadrati $ABDE$, $BCFG$ e $CAHL$. Dimostrare, col metodo preferito, che i triangoli $AHE$, $BDG$ e $CFL$ sono equivalenti al triangolo $ABC$.
 
 **Topic:** [[Geometria Euclidea]]
@@ -34,6 +38,8 @@ Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_3|Quesito 3]]*
 
 **Quesito 3.** Luca e Claudia devono calcolare il valore di una certa espressione contenente logaritmi. Trovano come risultati rispettivamente:
 $$\log_2 27 + \log_2 12 \ , \qquad 2 + \log_2 81 \ .$$
@@ -46,6 +52,8 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_4|Quesito 4]]*
+
 **Quesito 4.** Dimostrare che ogni funzione del tipo $y = a\,\sin^2 x + b\,\sin x \cos x + c\,\cos^2 x$, dove $a$, $b$, $c$ sono numeri reali non contemporaneamente nulli, ha di regola per grafico una sinusoide. C'è qualche eccezione?
 
 **Topic:** [[Trigonometria]]
@@ -54,6 +62,8 @@ Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che que
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_5|Quesito 5]]*
 
 **Quesito 5.** Enunciare il principio d'induzione matematica e applicarlo alla dimostrazione della seguente relazione:
 $$\sum_{i=1}^{n} i^3 = \left( \sum_{i=1}^{n} i \right)^{2} \ ,$$
@@ -66,6 +76,8 @@ la quale esprime una proprietà dei numeri naturali conosciuta come «teorema di
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_6|Quesito 6]]*
+
 **Quesito 6.** Il limite della funzione $\left(1 + \dfrac{1}{2x}\right)^{x}$ per $x \to +\infty$ è:
 $$\text{[A]}\ e \qquad \text{[B]}\ \frac{1}{e} \qquad \text{[C]}\ \sqrt{e} \qquad \text{[D]}\ \frac{1}{\sqrt{e}}$$
 dove "$e$" è la base dei logaritmi naturali. Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione della scelta operata.
@@ -77,6 +89,8 @@ dove "$e$" è la base dei logaritmi naturali. Una sola risposta è corretta: ind
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_7|Quesito 7]]*
+
 **Quesito 7.** Calcolare la derivata, rispetto a $x$, della funzione:
 $$\int_{-x}^{2x} \frac{dt}{\sin t} \ .$$
 
@@ -86,6 +100,8 @@ $$\int_{-x}^{2x} \frac{dt}{\sin t} \ .$$
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_8|Quesito 8]]*
 
 **Quesito 8.** Dopo aver spiegato, attraverso una dimostrazione o una interpretazione geometrica, perché l'equazione $x^3 + x + 1 = 0$ ammette una e una sola soluzione reale, esplicitare un algoritmo idoneo a calcolarne un valore approssimato.
 
@@ -97,6 +113,8 @@ $$\int_{-x}^{2x} \frac{dt}{\sin t} \ .$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_9|Quesito 9]]*
+
 **Quesito 9.** Un'urna contiene delle palline che possono essere bianche o nere, di vetro o di plastica. Precisamente: $135$ sono bianche, $115$ di vetro; inoltre $45$ palline di vetro sono bianche e $80$ palline di plastica sono nere. Si estrae a caso una pallina: qual è la probabilità che sia nera e di vetro?
 
 **Topic:** [[Probabilita]]
@@ -105,6 +123,8 @@ $$\int_{-x}^{2x} \frac{dt}{\sin t} \ .$$
 **Soluzione:** [[Soluzioni/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.157](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_10|Quesito 10]]*
 
 **Quesito 10.** Nelle ultime $10$ estrazioni non è uscito il «$47$» sulla Ruota di Napoli. Qual è la probabilità che non esca neppure nelle prossime $10$ estrazioni ed esca invece nell'$11$-esima estrazione?
 

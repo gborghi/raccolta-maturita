@@ -16,6 +16,8 @@ Fonte: p.13 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_suppletiva_2000_problema2_13_1|Problema 1]]*
+
 Il candidato:
 
 a) Illustri il teorema di de l'Hôpital e lo applichi per dimostrare che:

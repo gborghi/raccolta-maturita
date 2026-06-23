@@ -16,6 +16,8 @@ Fonte: p.15 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGO
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_liceo_scientifico_2019_problema2_15_1|Problema 1]]*
+
 Un condensatore piano è formato da due armature circolari di raggio $R$, poste a distanza $d$, dove $R$ e $d$ sono espresse in metri (m). Viene applicata alle armature una differenza di potenziale variabile nel tempo e inizialmente nulla.
 
 All'interno del condensatore si rileva la presenza di un campo magnetico $\vec{B}$. Trascurando gli effetti di bordo, a distanza $r$ dall'asse di simmetria del condensatore, l'intensità di $\vec{B}$, espressa in tesla (T), varia secondo la legge:

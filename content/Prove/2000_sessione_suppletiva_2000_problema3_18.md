@@ -16,6 +16,8 @@ Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_suppletiva_2000_problema3_18_1|Problema 1]]*
+
 Si consideri la successione di termine generale $a_n=\dfrac{f(n)}{3^n}$, dove:
 $$f(n)=\binom{n}{0}+\binom{n}{1}+\binom{n}{2}+\cdots+\binom{n}{n}$$
 

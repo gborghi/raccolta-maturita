@@ -17,6 +17,8 @@ Fonte: p.91 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_suppletiva_2024_prova_91_1|Problema 1]]*
+
 Si consideri il grafico $\gamma$ in figura, rappresentativo di una funzione $f(x)=\frac{A(x)}{B(x)}$, dove $A(x)$ e $B(x)$ sono dei polinomi, definita nel dominio $D=(-\infty;0)\cup(0;2)\cup(2;+\infty)$.
 
 *(figura nel PDF)*
@@ -39,6 +41,8 @@ d) Si consideri la funzione $F(x)=\int_3^x f(t)\,dt$, definita nell'intervallo $
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_suppletiva_2024_prova_91_2|Problema 2]]*
+
 Si consideri la famiglia di curve $f_a(x)=\frac{x^2-1}{e^{ax}}$, con $a$ parametro reale non nullo, e si indichi con $\Gamma_a$ il grafico di $f_a$.
 
 a) Verificare che tutti i grafici $\Gamma_a$ hanno tre punti in comune e scrivere le loro coordinate.
@@ -57,6 +61,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_1|Quesito 1]]*
+
 1. È dato un triangolo $ABC$ di lati $AB=a$ e $BC=\sqrt{3}\,a$. Quale delle seguenti affermazioni è corretta?
    - Se $A\hat{C}B=\frac{\pi}{6}$, allora il triangolo è rettangolo;
    - Se il triangolo è rettangolo, allora $A\hat{C}B=\frac{\pi}{6}$.
@@ -70,6 +76,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_2|Quesito 2]]*
+
 2. In un salvadanaio ci sono 15 monete, di cui 9 sono da 1 euro e le altre 6 da 2 euro. Se ne estraggono 6 contemporaneamente.
    - Qual è la probabilità che il valore totale delle monete estratte sia esattamente 10 euro?
    - Qual è la probabilità che il valore totale delle monete estratte sia al massimo 10 euro?
@@ -81,6 +89,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_3|Quesito 3]]*
+
 3. Verificare che i punti $O(0,0,0)$, $A(1,4,8)$, $B(-6,0,12)$ e $C(-7,-4,4)$ sono complanari. Calcolare area e perimetro del quadrilatero $OABC$ e classificarlo.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -89,6 +99,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 **Soluzione:** [[Soluzioni/2024_sessione_suppletiva_2024_prova_91#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.107](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_4|Quesito 4]]*
 
 4. Determinare il dominio della funzione $f(x)=\ln\left(\frac{ax-7}{x^2}\right)$, con $a$ parametro reale positivo. Successivamente, individuare il valore di $a$ in corrispondenza del quale risultano soddisfatte le ipotesi del teorema di Rolle nell'intervallo $[1;7]$ e le coordinate del punto che ne verifica la tesi.
 
@@ -100,6 +112,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_5|Quesito 5]]*
+
 5. Determinare i valori dei parametri reali $a$ e $b$ della funzione $f(x)=\frac{ax^2+bx+3}{2x^2+5x-1}$ in modo che essa abbia la retta $y=2$ come asintoto orizzontale e un punto stazionario per $x=1$. In corrispondenza dei valori trovati, stabilire se $f(x)$ presenta ulteriori asintoti.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]], [[Derivate]]
@@ -110,6 +124,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_6|Quesito 6]]*
+
 6. In un sistema di assi cartesiani $Oxy$, si consideri l'iperbole equilatera di equazione $xy=k$, con $k$ parametro reale non nullo. Sia $t$ la retta tangente all'iperbole in un suo punto $P$. Detti $A$ e $B$ i punti in cui $t$ interseca gli assi del riferimento, dimostrare che i triangoli $APO$ e $BPO$ sono equivalenti e che la loro area non dipende dalla scelta di $P$.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]]
@@ -119,6 +135,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_7|Quesito 7]]*
+
 7. Un resistore di resistenza $R$ è percorso da una corrente variabile nel tempo di intensità $I(t)=I_0\frac{a}{t}$, con $t>0$ e le costanti positive $I_0$ e $a$ espresse, rispettivamente, in ampère e in secondi. Sapendo che la potenza dissipata nel resistore per effetto Joule è $P(t)=RI^2(t)$, determinarne il valor medio nell'intervallo $[2a;3a]$.
 
 **Topic:** [[Calcolo Integrale]], [[Topics/Fisica|Fisica]]
@@ -127,6 +145,8 @@ d) Dimostrare che, per ogni valore di $a\neq 0$, le curve $\Gamma_a$ e $\Gamma_{
 **Soluzione:** [[Soluzioni/2024_sessione_suppletiva_2024_prova_91#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_suppletiva_2024_prova_91_8|Quesito 8]]*
 
 8. Scrive Leonardo Sinisgalli, in un brano tratto da *Furor Mathematicus*: «Avevo in mente un capitolo sulle leggi del caso: volevo trovare le parentele tra il triangolo di Tartaglia, relativo ai coefficienti del polinomio $(a+b)^n$ e il triangolo aritmetico di Pascal, che ci dà la probabilità di fare $m$ volte croce in $n$ partite giuocate a testa e croce». Descrivere il legame esistente tra i coefficienti binomiali ed il calcolo delle probabilità.
 

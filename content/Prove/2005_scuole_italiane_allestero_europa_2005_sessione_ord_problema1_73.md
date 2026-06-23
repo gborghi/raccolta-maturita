@@ -16,6 +16,8 @@ Fonte: p.73 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_scuole_italiane_allestero_europa_2005_sessione_ord_problema1_73_1|Problema 1]]*
+
 La funzione $f$ è definita da $f(x) = x^3 - 6x^2 + k$ dove $k$ è una costante arbitraria.
 
 **1)** Si trovino, in funzione di $k$, i valori di minimo e massimo relativo di $f$.

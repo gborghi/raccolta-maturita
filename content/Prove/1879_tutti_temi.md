@@ -17,6 +17,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1879_tutti_temi_1|Problema 1]]*
+
 **Problema 1a.** Trovare una progressione per quoziente, data la somma de' suoi termini, la somma dei loro quadrati, e la somma dei loro cubi.
 
 **Topic:** [[Successioni e Serie]], [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
@@ -26,6 +28,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1879_tutti_temi_2|Problema 2]]*
+
 **Problema 2a.** Trovare due numeri di cui è data la somma $2s$, e la somma o la differenza delle loro quarte potenze $2q$.
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -34,6 +38,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.46](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1879_tutti_temi_3|Problema 2]]*
 
 **Problema 2b.** Trovare il numero totale di combinazioni che si possono fare con $n$ oggetti, prendendoli successivamente ad $1, 2, \ldots, n$.
 

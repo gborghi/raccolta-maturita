@@ -16,6 +16,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1933_tutti_temi_1|Problema 1]]*
+
 Sopra una circonferenza data il cui diametro $AB$ ha per misura $2r$, determinare un punto $P$ in modo che, detta $M$ la proiezione di esso sulla retta perpendicolare in $B$ ad $AB$, la somma dei due segmenti $AP$ e $PM$ abbia, rispetto alla stessa unità scelta per $AB$, per misura un numero dato $l$.
 
 Discussione. È in facoltà del candidato di determinare anche, nell'ipotesi che $P$ vari sulla semicirconferenza, per quale posizione di $P$ è massimo il volume del solido generato dal trapezio $APMB$ in una rotazione completa intorno ad $AB$, essendo sempre $M$ la proiezione di $P$ sulla perpendicolare in $B$ ad $AB$.

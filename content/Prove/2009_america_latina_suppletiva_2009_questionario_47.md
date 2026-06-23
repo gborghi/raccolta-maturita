@@ -17,6 +17,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_1|Quesito 1]]*
+
 **Quesito 1.** Provare che, per $n > 0$, vale: $n! \ge 2^{n-1}$.
 
 **Topic:** [[Successioni e Serie]], [[Calcolo Combinatorio]]
@@ -26,6 +28,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_2|Quesito 2]]*
+
 **Quesito 2.** Si enunci il teorema del valor medio o di Lagrange e se ne illustrino il legame con il teorema di Rolle e le implicazioni ai fini della determinazione della crescenza o decrescenza delle funzioni.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -34,6 +38,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.47](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_3|Quesito 3]]*
 
 **Quesito 3.** Si dimostri, nel modo che si preferisce, che la media geometrica di due numeri positivi $a$ e $b$ non è mai superiore alla loro media aritmetica, cioè che:
 $$\sqrt{ab} \le \frac{a+b}{2}$$
@@ -45,6 +51,8 @@ $$\sqrt{ab} \le \frac{a+b}{2}$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_4|Quesito 4]]*
+
 **Quesito 4.** Fra tutti i coni inscritti in una data sfera, trovare quello di volume massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -53,6 +61,8 @@ $$\sqrt{ab} \le \frac{a+b}{2}$$
 **Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_5|Quesito 5]]*
 
 **Quesito 5.** Si calcoli:
 $$\lim_{x \to 0} \frac{1 - \cos x}{x \sin x}$$
@@ -64,6 +74,8 @@ $$\lim_{x \to 0} \frac{1 - \cos x}{x \sin x}$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_6|Quesito 6]]*
+
 **Quesito 6.** Sia $f$ la funzione definita da $f(x) = e^x - x^e$. Si precisi il dominio di $f$ e si stabilisca il segno delle sue derivate, prima e seconda, nel punto $x = e$.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
@@ -74,6 +86,8 @@ $$\lim_{x \to 0} \frac{1 - \cos x}{x \sin x}$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_7|Quesito 7]]*
+
 **Quesito 7.** Quante sono le diagonali di un poligono di $2009$ lati?
 
 **Topic:** [[Calcolo Combinatorio]], [[Geometria Euclidea]]
@@ -82,6 +96,8 @@ $$\lim_{x \to 0} \frac{1 - \cos x}{x \sin x}$$
 **Soluzione:** [[Soluzioni/2009_america_latina_suppletiva_2009_questionario_47#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_8|Quesito 8]]*
 
 **Quesito 8.** La regione $R$ del primo quadrante delimitata dal grafico di $y = 3e^{-x}$ e dalla retta $x = \ln 3$ è la base di un solido $S$ le cui sezioni, ottenute tagliando $S$ con piani perpendicolari all'asse $x$, sono tutti quadrati. Si calcoli il volume di $S$.
 

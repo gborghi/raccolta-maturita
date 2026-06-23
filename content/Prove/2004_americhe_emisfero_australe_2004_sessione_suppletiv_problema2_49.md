@@ -17,6 +17,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_1|Quesito 1]]*
+
 **Quesito 1.** Si spieghi perché la superficie totale di un cilindro equilatero sta alla superficie della sfera ad esso circoscritta come $3$ sta $4$.
 
 **Topic:** [[Geometria Solida]]
@@ -25,6 +27,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_2|Quesito 2]]*
 
 **Quesito 2.** Si enunci il teorema di Lagrange o del valor medio; se ne illustri il significato geometrico, il legame col teorema di Rolle e le implicazioni ai fini della determinazione del grafico di una funzione.
 
@@ -35,6 +39,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_3|Quesito 3]]*
+
 **Quesito 3.** Esiste una funzione $f(x)$ con un massimo relativo in $(1, 2)$ e un minimo relativo in $(-1, 3)$? Se sì, se ne può fornire un esempio?
 
 **Topic:** [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -43,6 +49,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_4|Quesito 4]]*
 
 **Quesito 4.** L'equazione $e^x + 3x = 0$ ammette soluzioni reali? Quale ragionamento può seguirsi per rispondere al quesito?
 
@@ -54,6 +62,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_5|Quesito 5]]*
+
 **Quesito 5.** Come si può trovare il $\lim\limits_{x \to 4} f(x)$ partendo dalla conoscenza che il $\lim\limits_{x \to 4} \dfrac{f(x) - 5}{x - 2} = 1$?
 
 **Topic:** [[Limiti e Continuita]]
@@ -62,6 +72,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_6|Quesito 6]]*
 
 **Quesito 6.** Di una funzione $g(x)$, non costante, si sa che $\lim\limits_{x \to 2} g(x) = 3$ e $g(2) = 4$. Trovate un'espressione di $g(x)$.
 
@@ -72,6 +84,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_7|Quesito 7]]*
+
 **Quesito 7.** Calcolate: $\displaystyle\int_{0}^{1} \arcsin x \, dx$.
 
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
@@ -80,6 +94,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_8|Quesito 8]]*
 
 **Quesito 8.** Siano dati gli insiemi $A = \{\Phi, \Sigma, \Omega, \Psi\}$ e $B = \{a, b, c\}$; quante sono le applicazioni (le funzioni) di $A$ in $B$?
 

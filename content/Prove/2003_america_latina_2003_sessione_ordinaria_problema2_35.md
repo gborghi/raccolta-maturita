@@ -16,6 +16,8 @@ Fonte: p.35 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_america_latina_2003_sessione_ordinaria_problema2_35_1|Problema 1]]*
+
 Nel piano riferito a coordinate cartesiane ortogonali e monometriche $Oxy$, siano: $S$ il punto di coordinate $(0, 4)$; $P$ un punto della retta $r$ di equazione $2x-y-2=0$; $n$ la retta per $S$ perpendicolare alla congiungente $S$ con $P$; $Q$ il punto di intersezione di $n$ con la retta $s$ parallela per $P$ all'asse $y$.
 
 **a)** Trovate l'equazione cartesiana del luogo $\Gamma$ descritto da $Q$ al variare di $P$ su $r$.

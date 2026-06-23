@@ -16,6 +16,8 @@ Fonte: p.143 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_ordinamento_2003_sessione_straordinaria_problema2_143_1|Problema 1]]*
+
 La base minore, la base maggiore e il perimetro di un trapezio isoscele misurano nell'ordine $6\ \text{cm}$, $10\ \text{cm}$, $4(4 + \sqrt{5})\ \text{cm}$.
 
 **a)** Dire, giustificando la risposta, se il trapezio è circoscrittibile a una circonferenza.

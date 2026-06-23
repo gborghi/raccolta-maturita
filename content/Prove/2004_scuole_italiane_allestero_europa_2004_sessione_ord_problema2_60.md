@@ -16,6 +16,8 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema2_60_1|Problema 1]]*
+
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$y=ax^2-\frac{3}{2}ax+\frac{1}{2x},$$
 dove $a$ è un parametro reale assegnato.

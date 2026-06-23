@@ -16,6 +16,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_pni_2002_sessione_straordinaria_problema2_86_1|Problema 1]]*
+
 Con riferimento a un sistema di assi cartesiani ortogonali $(Oxy)$:
 
 **a)** studiare le funzioni:

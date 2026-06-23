@@ -16,6 +16,8 @@ Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_scientifico_comunicazione_opzione_sportiva_2016_problema1_70_1|Problema 1]]*
+
 La funzione $f:\mathbb{R}\to\mathbb{R}$ è così definita:
 
 $$f(x)=\begin{cases}\dfrac{\sin(x)}{x} & \text{per } x\neq 0\\[2mm] 1 & x=0\end{cases}$$

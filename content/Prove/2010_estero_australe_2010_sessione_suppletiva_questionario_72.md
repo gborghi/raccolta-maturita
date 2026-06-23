@@ -17,6 +17,8 @@ Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_1|Quesito 1]]*
+
 **QUESITO 1**
 
 Sia $n>0$. Si dimostri che è: $n!\ge 2^{\,n-1}$.
@@ -27,6 +29,8 @@ Sia $n>0$. Si dimostri che è: $n!\ge 2^{\,n-1}$.
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_suppletiva_questionario_72#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_2|Quesito 2]]*
 
 **QUESITO 2**
 
@@ -39,6 +43,8 @@ Di tutti i coni inscritti in una sfera di raggio $R$, qual è quello di superfic
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_3|Quesito 3]]*
+
 **QUESITO 3**
 
 Si determini il punto della parabola $y=2x^2$ più vicino al punto di coordinate $(-2;-2)$.
@@ -49,6 +55,8 @@ Si determini il punto della parabola $y=2x^2$ più vicino al punto di coordinate
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_suppletiva_questionario_72#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.73](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_4|Quesito 4]]*
 
 **QUESITO 4**
 
@@ -61,6 +69,8 @@ $$x^2-(k-1)x+2=0 \quad \text{con} \quad 0\le x\le 2.$$
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_suppletiva_questionario_72#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.74](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_5|Quesito 5]]*
 
 **QUESITO 5**
 
@@ -75,6 +85,8 @@ $$\sin(\arcsin(-0.3))=-0.3 \qquad \cos(\arccos(-0.3))=-0.3$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_6|Quesito 6]]*
+
 **QUESITO 6**
 
 Si determini il periodo della funzione: $f(x)=\cos(3x)-2\sin(2x)-2\tan\left(\dfrac{x}{2}\right)$.
@@ -87,6 +99,8 @@ Si determini il periodo della funzione: $f(x)=\cos(3x)-2\sin(2x)-2\tan\left(\dfr
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_7|Quesito 7]]*
+
 **QUESITO 7**
 
 Si determini l'equazione della normale alla curva $y=e^x$ nel suo punto di ascissa $x=\ln 3$.
@@ -97,6 +111,8 @@ Si determini l'equazione della normale alla curva $y=e^x$ nel suo punto di ascis
 **Soluzione:** [[Soluzioni/2010_estero_australe_2010_sessione_suppletiva_questionario_72#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_australe_2010_sessione_suppletiva_questionario_72_8|Quesito 8]]*
 
 **QUESITO 8**
 

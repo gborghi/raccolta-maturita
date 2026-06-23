@@ -16,6 +16,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_calendario_australe_ordinaria_2010_problema2_49_1|Problema 1]]*
+
 Il triangolo $ABC$ è equilatero e di lato unitario. La retta $r$ parallela ad $AB$ interseca il lato $AC$ e il lato $BC$ nel punto $P$ e nel punto $Q$, rispettivamente.
 
 **a)** Detta $x$ la distanza di $r$ dal vertice $C$ si determini per quale valore di $x$ nel quadrilatero $ABQP$ si può inscrivere una circonferenza; quale è la lunghezza del suo raggio?

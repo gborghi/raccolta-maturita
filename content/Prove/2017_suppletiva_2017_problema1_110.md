@@ -16,6 +16,8 @@ Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQ
 **Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2017_suppletiva_2017_problema1_110_1|Problema 1]]*
+
 Un gioco si svolge su un tabellone, che è suddiviso in tre settori $A$, $B$, $C$, come in figura 1.
 
 *(figura nel PDF)*

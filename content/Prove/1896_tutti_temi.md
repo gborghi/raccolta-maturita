@@ -17,6 +17,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1896_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** In un angolo sono inscritti due circoli i quali si toccano esternamente nel punto $T$ e toccano lo stesso lato dell'angolo nei punti $A$ ed $A_1$. Chiamando $\alpha$ la metà dell'angolo dato, $R$ ed $R_1$ i raggi dei due cerchi, e supponendo $R > R_1$, si domanda:
 
 1. esprimere $R_1$ mediante $R$ ed $\alpha$;
@@ -28,6 +30,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1896_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Un triangolo rettangolo ruotando intorno all'ipotenusa, descrive un solido che si può considerare come l'insieme di due coni di rotazione aventi la base comune. Supponendo noti il volume totale del solido e l'area del triangolo rettangolo, determinare i lati di questo triangolo.
 

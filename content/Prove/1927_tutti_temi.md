@@ -16,6 +16,8 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1927_tutti_temi_1|Problema 1]]*
+
 Dato un angolo retto $y\widehat{O}x$ ed un punto $M$ ad esso interno che abbia da $Oy$ ed $Ox$ rispettivamente le distanze $a$ e $b$, condurre per $M$ una retta tale che, detti $A$ e $B$ i punti d'intersezione di essa coi lati dell'angolo retto, si abbia $\overline{AM}^2 + \overline{BM}^2 = m^2$, dove $m$ è un numero reale assegnato. Discutere i risultati e dire come deve essere condotta la retta $AB$, perché sia minima la somma $\overline{AM}^2 + \overline{BM}^2$.
 
 Il candidato ha facoltà di esaminare la questione da un punto di vista più generale, considerando anche i casi nei quali la retta $AB$ incontra uno dei lati dell'angolo retto ed il prolungamento dell'altro.

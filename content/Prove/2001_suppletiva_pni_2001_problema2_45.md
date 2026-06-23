@@ -16,6 +16,8 @@ Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2Cg
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2001_suppletiva_pni_2001_problema2_45_1|Problema 1]]*
+
 Una industria commercializza un suo prodotto confezionandolo in lattine realizzate utilizzando fogli di una lamierina molto sottile. Ciascuna lattina, di assegnata capacità, ha la forma di un cilindro circolare retto. Trascurando lo spessore del materiale, il candidato determini:
 
 **a)** le dimensioni della lattina per la quale occorre la minima quantità di materiale per realizzarla.

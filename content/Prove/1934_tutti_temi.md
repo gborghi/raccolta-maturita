@@ -17,6 +17,8 @@ Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1934_tutti_temi_1|Problema 1]]*
+
 In un trapezio convesso $ABCD$ le basi $AD$ e $BC$ sono perpendicolari al lato $AB$; di più la base $BC$ è uguale al lato $CD$ e la base $AD$ è minore del lato $AB$. Determinare le misure dei lati $BC$, $CD$, $DA$, sapendo che la misura del lato $AB$ è $a$ e che il trapezio è equivalente al triangolo rettangolo di cui un cateto è uguale ad $AB$ e l'altro ha per misura $k$. Discutere i risultati.
 
 Il candidato può aggiungere la risoluzione geometrica del problema.
@@ -27,6 +29,8 @@ Il candidato può aggiungere la risoluzione geometrica del problema.
 **Fonte:** [📄 Testo (PDF) — p.80](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1934_tutti_temi_3|Problema 1]]*
 
 I cateti $AB$ ed $AC$ del triangolo rettangolo $BAC$ hanno per misura rispettivamente $1$ e $2$. Condurre per il vertice $A$ una retta $r$ non secante il triangolo in modo che, sempre rispetto al segmento $AB$, sia $k$ la misura del segmento $B'C'$ che si ottiene proiettando ortogonalmente su di essa l'ipotenusa $BC$. Discutere i risultati e far vedere:
 
@@ -41,6 +45,8 @@ I cateti $AB$ ed $AC$ del triangolo rettangolo $BAC$ hanno per misura rispettiva
 **Fonte:** [📄 Testo (PDF) — p.80](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1934_tutti_temi_2|Problema 2]]*
 
 L'equazione di una curva (parabola) rispetto a due assi cartesiani ortogonali è
 
@@ -60,6 +66,8 @@ Determinare:
 **Fonte:** [📄 Testo (PDF) — p.80](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1934_tutti_temi_4|Problema 2]]*
 
 Rispetto a due assi cartesiani ortogonali, l'equazione di una curva (parabola) è della forma $y = ax^2 + bx + c$. Determinare $a$, $b$, $c$, sapendo che la curva passa per i due punti $(0,1)$ e $(1,0)$ e che in quest'ultimo è tangente ad una retta inclinata di $45°$ sull'asse delle $x$.
 

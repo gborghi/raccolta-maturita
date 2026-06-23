@@ -16,6 +16,8 @@ Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_scuole_italiane_allestero_europa_2012_sessione_ord_problema1_27_1|Problema 1]]*
+
 La funzione $f$ è definita e derivabile sull'intervallo chiuso $[-7;5]$ ed è $f(0)=5$. Il grafico di $y=f'(x)$, la derivata di $f$, consiste di tre segmenti e una semicirconferenza di raggio $2$ e centro in $O$, come indicato nella figura sotto.
 
 *(figura nel PDF)*

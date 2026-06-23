@@ -16,6 +16,8 @@ Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGO
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_liceo_scientifico_2019_problema1_10_1|Problema 1]]*
+
 Si considerino le seguenti funzioni:
 $$f(x)=ax^2-x+b \qquad\qquad g(x)=(ax+b)\,e^{2x-x^2}$$
 

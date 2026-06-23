@@ -16,6 +16,8 @@ Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_pni_2008_sessione_suppletiva_problema1_80_1|Problema 1]]*
+
 Siano dati un cerchio di raggio $r$ ed una sua corda $AB$ uguale al lato del quadrato in esso inscritto.
 
 1) Detto $P$ un generico punto della circonferenza, giacente sull'arco maggiore di estremi $A$ e $B$, si consideri il rapporto:

@@ -16,6 +16,8 @@ Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_calendario_australe_suppletiva_2010_problema2_68_1|Problema 1]]*
+
 Nel piano, riferito ad assi cartesiani $Oxy$:
 
 **a)** si disegni la curva $\Gamma$ di equazione $y = \sqrt[3]{x^2}$ e, in particolare, si dica se ammette estremi relativi o flessi.

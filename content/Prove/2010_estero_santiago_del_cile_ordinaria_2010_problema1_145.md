@@ -16,6 +16,8 @@ Fonte: p.145 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_santiago_del_cile_ordinaria_2010_problema1_145_1|Problema 1]]*
+
 Sia $f$ la funzione definita da: $f(x)=(x^2+1)e^{-x+2}$, con $x\in\mathbb{R}$.
 
 **a)** Nel piano riferito ad un sistema di riferimento cartesiano, si disegni il grafico $\lambda$ di $f(x)$.

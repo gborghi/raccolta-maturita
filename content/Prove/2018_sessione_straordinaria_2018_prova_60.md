@@ -17,6 +17,8 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_straordinaria_2018_prova_60_1|Problema 1]]*
+
 Il produttore di candele tea light vuole produrre un nuovo tipo di candela aromatica che abbia una parte inferiore di forma cilindrica ed una parte superiore con la forma riportata in figura 1, che si connette perfettamente a quella inferiore, come mostrato in figura 2.
 
 *(figure nel PDF)*
@@ -46,6 +48,8 @@ Il produttore di candele tea light vuole produrre un nuovo tipo di candela aroma
 **Soluzione:** [[Soluzioni/2018_sessione_straordinaria_2018_prova_60#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_straordinaria_2018_prova_60_2|Problema 2]]*
 
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, così definita:
 

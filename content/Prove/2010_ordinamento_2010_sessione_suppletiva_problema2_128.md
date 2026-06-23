@@ -16,6 +16,8 @@ Fonte: p.128 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_ordinamento_2010_sessione_suppletiva_problema2_128_1|Problema 1]]*
+
 In un sistema di riferimento cartesiano $Oxy$, si denoti con $\Gamma_a$ il grafico della funzione
 $$f_a(x) = (x - a)\, e^{2 - \frac{x}{a}}$$
 dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.

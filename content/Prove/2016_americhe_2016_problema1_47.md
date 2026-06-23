@@ -16,6 +16,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_americhe_2016_problema1_47_1|Problema 1]]*
+
 Considerata la funzione $G:\mathbb{R}\to\mathbb{R}$ così definita:
 
 $$G(x)=\int_0^{2x} e^t\,\sin^2(t)\,dt$$

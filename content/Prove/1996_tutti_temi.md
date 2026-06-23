@@ -16,6 +16,8 @@ Fonte: p.144 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1996_tutti_temi_1|Problema 1]]*
+
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
 1. In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, sono assegnate le parabole di equazione:

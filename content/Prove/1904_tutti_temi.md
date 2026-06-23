@@ -17,6 +17,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1904_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Determinare due numeri, l'uno dei quali diviso per $5$ dia resto $1$, l'altro diviso per $3$ dia resto $2$ e tali che la loro somma sia uguale alla differenza del quadrato del primo e di quello del secondo, ed il prodotto sia uguale a $10$ volte la somma aumentata di una unità.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Geometria Solida]], [[Massimi e Minimi]]
@@ -25,6 +27,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.52](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1904_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Fra tutti i triangoli rettangoli che hanno la stessa ipotenusa determinare quello che, ruotando attorno a questo lato, genera coi suoi cateti la massima superficie. Determinare ancora quel triangolo per il quale il quoziente tra la differenza delle superfici coniche generate dai cateti e l'area del cerchio comune dei coni corrispondenti è uguale a $\dfrac{2}{3}\sqrt[p]{10}$.
 

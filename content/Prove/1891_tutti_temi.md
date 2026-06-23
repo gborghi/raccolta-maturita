@@ -17,6 +17,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1891_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Si ha un cilindro circolare retto chiuso dalle due parti da due mezze sfere e si sa che in questo solido la superficie esterna è $s$, e che la sezione ottenuta tagliandolo con un piano condotto per l'asse ha per perimetro $2p$. Trovare il raggio $r$ e l'altezza $h$ della parte cilindrica del solido, e discutere i risultati.
 
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
@@ -25,6 +27,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1891_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Dal vertice $A$ di un triangolo $ABC$, i cui lati sono dati, condurre al lato opposto $BC$ una retta $AD$, in modo che il quadrato di $AD$ sia equivalente al rettangolo dei segmenti $BD$, $DC$ del lato $BC$. Calcolare uno dei segmenti, e discutere i dati e il risultato.
 

@@ -16,6 +16,8 @@ Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsn
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_estero_1999_problema2_18_1|Problema 1]]*
+
 a) Studiare la funzione
 
 $$y = f(x) = \frac{1}{\cos x} - \cos x, \qquad \text{con } -\pi \le x \le \pi$$

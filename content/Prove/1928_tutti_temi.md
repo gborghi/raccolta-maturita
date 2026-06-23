@@ -16,6 +16,8 @@ Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1928_tutti_temi_1|Problema 1]]*
+
 È dato un angolo retto $X\widehat{O}Y$ e sono dati due punti $A$ e $B$ sui lati $OX$ ed $OY$ in modo che $\overline{OA} = \overline{OB}\sqrt{3}$. Determinare un punto $P$ interno all'angolo retto sapendo che l'angolo $\overline{OPA}$ è retto e che $\overline{OP}^2 + \overline{PB}^2 = k\,\overline{OB}^2$.
 
 Si trovino anche le condizioni alle quali deve soddisfare il numero $k$ affinché il problema sia possibile e si dica quali valori deve avere lo stesso numero perché il punto $P$ cada sul lato $OX$ o sulla bisettrice dell'angolo $X\widehat{O}Y$. È in facoltà del candidato di risolvere e discutere il problema per via geometrica oltreché per via algebrica non mancando di far vedere come la risoluzione geometrica vale anche quando gli angoli $X\widehat{O}Y$ ed $\overline{OPA}$ od il rapporto $\overline{OA} : \overline{OB}$ abbiano valori qualsivogliano.

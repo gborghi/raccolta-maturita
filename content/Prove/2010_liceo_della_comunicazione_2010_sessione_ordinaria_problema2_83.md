@@ -16,6 +16,8 @@ Fonte: p.83 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_liceo_della_comunicazione_2010_sessione_ordinaria_problema2_83_1|Problema 1]]*
+
 Nel piano $Oxy$ sono dati i punti $A(2; 0)$ e $B(4; k)$, con $k \in \mathbb{R}$. Sia $P$ il punto ottenuto dalla intersezione della retta $x = k$ con la perpendicolare per $B$ alla retta $AB$.
 
 a) Si provi che il luogo geometrico $\gamma$ descritto da $P$ al variare di $k$ ha equazione:

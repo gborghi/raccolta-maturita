@@ -17,6 +17,8 @@ Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_4_1|Problema 1]]*
+
 La funzione $f$ è definita da $f(x)=\displaystyle\int_0^x\left[\cos\left(\frac{t}{2}\right)+\frac{1}{2}\right]dt$ per tutti i numeri reali $x$ appartenenti all'intervallo chiuso $[0,9]$.
 
 1. Si calcolino $f'(\pi)$ e $f'(2\pi)$ ove $f'$ indica la derivata di $f$.
@@ -33,6 +35,8 @@ La funzione $f$ è definita da $f(x)=\displaystyle\int_0^x\left[\cos\left(\frac{
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_4_2|Problema 2]]*
 
 Sia $f$ la funzione definita, per tutti gli $x$ reali, da $f(x)=\dfrac{8}{4+x^2}$.
 
@@ -52,6 +56,8 @@ Sia $f$ la funzione definita, per tutti gli $x$ reali, da $f(x)=\dfrac{8}{4+x^2}
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_1|Quesito 1]]*
+
 1. Un triangolo ha area $3$ e due lati che misurano $2$ e $3$. Qual è la misura del terzo lato? Si giustifichi la risposta.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -60,6 +66,8 @@ Sia $f$ la funzione definita, per tutti gli $x$ reali, da $f(x)=\dfrac{8}{4+x^2}
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_2|Quesito 2]]*
 
 2. Si calcoli il dominio della funzione
 $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
@@ -72,6 +80,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_3|Quesito 3]]*
+
 3. Si considerino, nel piano cartesiano, i punti $A(2;-1)$ e $B(-6;-8)$. Si determini l'equazione della retta passante per $B$ e avente distanza massima da $A$.
 
 **Topic:** [[Geometria Analitica (piano)]]
@@ -80,6 +90,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_4|Quesito 4]]*
 
 4. Di un tronco di piramide retta a base quadrata si conoscono l'altezza $h$ e i lati $a$ e $b$ delle due basi. Si esprima il volume $V$ del tronco in funzione di $a$, $b$ e $h$, illustrando il ragionamento seguito.
 
@@ -90,6 +102,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_5|Quesito 5]]*
+
 5. In un libro si legge: *"Due valigie della stessa forma sembrano "quasi uguali", quanto a capacità, quando differiscono di poco le dimensioni lineari; non sembra che in genere le persone si rendano conto che ad un aumento delle dimensioni lineari (lunghezza, larghezza, altezza) del 10% (oppure del 20% o del 25%) corrispondano aumenti di capacità (volume) di circa 33% (oppure 75% o 100% : naddoppio)"*. È così? Si motivi esaurientemente la risposta.
 
 **Topic:** [[Geometria Solida]]
@@ -98,6 +112,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_6|Quesito 6]]*
 
 6. Con le cifre da $1$ a $7$ è possibile formare $7!=5040$ numeri corrispondenti alle permutazioni delle $7$ cifre. Ad esempio i numeri $1234567$ e $3546712$ corrispondono a due di queste permutazioni. Se i $5040$ numeri ottenuti dalle permutazioni si dispongono in ordine crescente qual è il numero che occupa la settima posizione e quale quello che occupa la $721$-esima posizione?
 
@@ -108,6 +124,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_7|Quesito 7]]*
+
 7. Il foglio rettangolare, di dimensioni $a$ e $b$, ha area $1\,m^2$ e forma tale che, tagliandolo a metà (parallelamente al lato minore) si ottengono due rettangoli simili a quello di partenza. Quali sono le misure di $a$ e $b$?
 
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]
@@ -116,6 +134,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_8|Quesito 8]]*
 
 8. La funzione $f$ ha il grafico in figura. Se $g(x)=\displaystyle\int_3^x f(b)\,dt$, per quale valore positivo di $x$, $g$ ha un minimo? Si illustri il ragionamento seguito. *(figura nel PDF)*
 
@@ -126,6 +146,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_9|Quesito 9]]*
+
 9. Si calcoli:
 $$\lim_{x\to 0}4\,\frac{sen\cos x-sen x}{x^2}$$
 
@@ -135,6 +157,8 @@ $$\lim_{x\to 0}4\,\frac{sen\cos x-sen x}{x^2}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_4_10|Quesito 10]]*
 
 10. Se la figura a lato rappresenta il grafico di $f(x)$, quale dei seguenti potrebbe essere il grafico di $f'(x)$? Si giustifichi la risposta. *(figure nel PDF)*
 

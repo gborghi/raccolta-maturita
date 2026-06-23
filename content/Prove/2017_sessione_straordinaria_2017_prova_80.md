@@ -17,6 +17,8 @@ Fonte: p.80 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_straordinaria_2017_prova_80_1|Problema 1]]*
+
 L'azienda per cui lavori vuole aprire in città una pista di pattinaggio su ghiaccio e ti ha dato l'incarico di occuparti del progetto.
 
 La pista verrà realizzata su un terreno di forma rettangolare, di base 40 metri e altezza 20 metri, e secondo le specifiche che ti sono state fornite sarà di forma ellittica e avrà area pari a $600\,m^2$. Stabilito un sistema di assi cartesiani $Oxy$, il cui centro coincide con il centro dell'ellisse e con quello del rettangolo, in figura 1 sono rappresentati il terreno e la pista, in figura 2 la regione relativa al primo quadrante. La superficie in grigio è da adibire a deposito e a servizi tecnici, per cui deve essere inaccessibile al pubblico: essa è delimitata dalle tangenti alla pista passanti per i punti medi dei lati verticali $AB$ e $CD$. *(figure nel PDF)*
@@ -44,6 +46,8 @@ Per un utilizzo ottimale la pista deve avere uno spessore compreso tra i 6,5 e g
 **Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.80](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_straordinaria_2017_prova_80_2|Problema 2]]*
 
 Le funzioni $g_1,g_2,g_3,g_4$ sono definite nel modo seguente:
 $$g_1(x)=\frac{1}{2}x^2-\frac{1}{2}$$
@@ -77,6 +81,8 @@ ammette uno zero nell'intervallo $[\sqrt{e},\,e]$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_1|Quesito 1]]*
+
 1) Calcolare la derivata della funzione $f(x)=\ln(x)$, adoperando la definizione di derivata.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
@@ -85,6 +91,8 @@ ammette uno zero nell'intervallo $[\sqrt{e},\,e]$.
 **Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_2|Quesito 2]]*
 
 2) Data la funzione:
 $$f(x)=\begin{cases}kx^2-2x+1 & \text{per } x<2\\ x^2+(k-1)x-1 & \text{per } x\ge 2\end{cases}$$
@@ -97,6 +105,8 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_3|Quesito 3]]*
+
 3) Un solido ha per base la regione $\Pi$ del piano cartesiano compresa tra il grafico della funzione $f(x)=x^2+2$ e l'asse delle $x$ nell'intervallo $[0;2]$. Per ogni punto $P$ di $\Pi$, di ascissa $x$, l'intersezione del solido col piano passante per $P$ e ortogonale all'asse delle $x$ è un rettangolo di altezza $x+1$. Calcolare il volume del solido.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -106,6 +116,8 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_4|Quesito 4]]*
+
 4) Giovanni tira ripetutamente con l'arco a un bersaglio: la probabilità di colpirlo è del 28% per ciascun tiro. Se Giovanni esegue 10 tiri calcolare la probabilità che il bersaglio venga colpito: a) 4 volte; b) le prime 4 volte.
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -114,6 +126,8 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 **Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_5|Quesito 5]]*
 
 5) Stabilire per quale valore del parametro $k$ il grafico della funzione $f(x)=x^3+2x^2+kx-4$ ha una sola tangente parallela alla bisettrice del primo e terzo quadrante. Quante tangenti orizzontali ha il grafico della funzione per questo valore del parametro $k$?
 
@@ -125,6 +139,8 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_6|Quesito 6]]*
+
 6) In un sistema di riferimento cartesiano il piano $\pi$ di equazione $3x-4y-22=0$ è tangente a una sfera avente come centro il punto $C(3;3;0)$. Determinare il raggio della sfera.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -133,6 +149,8 @@ Determinare, se possibile, $k$ in modo che la funzione $f(x)$ e la sua derivata 
 **Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_7|Quesito 7]]*
 
 7) Data la funzione:
 $$f(x)=\ln(x)-[\ln(x)]^2$$
@@ -145,6 +163,8 @@ dimostrare che esistono due rette $r$ e $s$ tangenti al grafico della funzione i
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_8|Quesito 8]]*
+
 8) Determinare l'equazione della retta perpendicolare nel punto $P$ di coordinate $(1;1;0)$ al piano di equazione $2x-2y+z=0$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -154,6 +174,8 @@ dimostrare che esistono due rette $r$ e $s$ tangenti al grafico della funzione i
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_9|Quesito 9]]*
+
 9) Sapendo che una moneta è truccata e che la probabilità che esca "testa" in un lancio è pari a $p$, determina i possibili valori che può assumere $p$, sapendo che la probabilità che esca testa esattamente 2 volte lanciando 4 volte la moneta è $8/27$.
 
 **Topic:** [[Probabilita]], [[Equazioni e Disequazioni]]
@@ -162,6 +184,8 @@ dimostrare che esistono due rette $r$ e $s$ tangenti al grafico della funzione i
 **Soluzione:** [[Soluzioni/2017_sessione_straordinaria_2017_prova_80#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_straordinaria_2017_prova_80_10|Quesito 10]]*
 
 10) Data la funzione integrale:
 $$F(x)=\int_0^{e^{2x}}\ln(t)\,dt$$

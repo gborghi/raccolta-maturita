@@ -17,6 +17,8 @@ Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_1|Quesito 1]]*
+
 **Quesito 1.** Considerata la funzione $f(x)=\dfrac{\operatorname{sen}x}{\operatorname{sen}2x}$, calcolare, qualora esistano, i suoi limiti per $x\to 0$ e per $x\to+\infty$.
 
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
@@ -25,6 +27,8 @@ Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_2|Quesito 2]]*
 
 **Quesito 2.** Sia $f(x)$ una funzione reale di variabile reale continua su tutto l'asse reale. Si conosce il valore dell'integrale $\displaystyle\int_0^{1/\sqrt{2}} f(x)\,dx$. È allora possibile calcolare il valore di:
 
@@ -39,6 +43,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_3|Quesito 3]]*
+
 **Quesito 3.** Dimostrare la formula che fornisce la somma di $n$ numeri in progressione geometrica.
 
 **Topic:** [[Successioni e Serie]]
@@ -47,6 +53,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_4|Quesito 4]]*
 
 **Quesito 4.** Calcolare l'ampiezza dell'angolo diedro formato da due facce consecutive di un tetraedro regolare, misurata in gradi sessagesimali e approssimata al secondo.
 
@@ -57,6 +65,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_5|Quesito 5]]*
+
 **Quesito 5.** La retta $r$ è perpendicolare nel vertice $A$ al piano del quadrato $ABCD$. Indicato con $E$ un qualsiasi punto di $r$, distinto da $A$, dimostrare che le facce laterali della piramide di vertice $E$ e base $ABCD$ sono triangoli rettangoli, a due a due congruenti.
 
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
@@ -65,6 +75,8 @@ Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.67](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_6|Quesito 6]]*
 
 **Quesito 6.** Si consideri il seguente sistema di equazioni nelle indeterminate $x$, $y$:
 
@@ -78,6 +90,8 @@ Ogni sua soluzione rappresenta le coordinate di un punto del piano cartesiano $(
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_7|Quesito 7]]*
 
 **Quesito 7.** Una classe è formata da 30 alunni, fra i quali Aldo e il suo amico fidato Giacomo. Si deve formare una delegazione costituita da 4 studenti della classe. Calcolare quante sono le possibili quaterne comprendenti Aldo e Giacomo.
 

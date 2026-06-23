@@ -16,6 +16,8 @@ Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema2_34_1|Problema 1]]*
+
 In una semicirconferenza di diametro $AB$ di lunghezza $2$, è inscritto un quadrilatero convesso $ABCD$ avente il lato $CD$ uguale al raggio. I prolungamenti dei lati $AD$ e $BC$ si incontrano in un punto $E$.
 
 1. Si dimostri che, qualunque sia la posizione dei punti $C$ e $D$ sulla semicirconferenza, si ha:

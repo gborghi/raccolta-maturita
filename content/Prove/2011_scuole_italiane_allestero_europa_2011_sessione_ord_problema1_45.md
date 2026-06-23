@@ -16,6 +16,8 @@ Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema1_45_1|Problema 1]]*
+
 Nel sistema di riferimento cartesiano $Oxy$ si consideri il quadrato $OABC$, dove $A = (1; 0)$ e $C = (0; 1)$.
 
 1. Sia $P$ un punto appartenente al lato $AB$. Si considerino le parabole, con asse parallelo all'asse $y$, passanti per $O$ e per $P$ e tangenti al lato $BC$. Quali sono i possibili vertici di tali parabole, al variare di $P$ su $AB$?

@@ -17,6 +17,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_28_1|Problema 1]]*
+
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ con centro nell'origine $O$ e raggio $r=3$.
 
 a) Si tracci una corda $\overline{CD}$ perpendicolare al diametro $\overline{AB}$ con $A(-3,0)$ e $B(3,0)$. Si trovino le coordinate dei punti $C$ e $D$ di $\mathcal{C}$ affinché l'area del triangolo $ACD$ sia massima.
@@ -34,6 +36,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_28_2|Problema 2]]*
+
 1. Si trovi l'espressione generale di un polinomio $P(x)$ di $4°$ grado tale che $P(-2)=P(2)=0$ e $P(x)\ge 0$ per ogni $x\in\mathbb{R}$.
 2. Sia $P(x)=(x^2-4)^2$. In un sistema di riferimento cartesiano ortogonale $Oxy$ si rappresenti l'andamento di $P(x)$, determinandone in particolare i valori massimi e minimi e i flessi.
 3. Si determini l'area della regione piana finita $R$ compresa tra il grafico di $P(x)$ e l'asse $x$.
@@ -47,6 +51,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_1|Quesito 1]]*
+
 1. Si dimostri che l'equazione: $$x^{19}+19x+11=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -57,6 +63,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_2|Quesito 2]]*
+
 2. Si determini il periodo della funzione $f(x)=\cos 7x$.
 
 **Topic:** [[Trigonometria]]
@@ -65,6 +73,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_3|Quesito 3]]*
 
 3. Si scrivano le equazioni di almeno due funzioni razionali fratte che hanno un asintoto obliquo.
 
@@ -76,6 +86,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_4|Quesito 4]]*
+
 4. Si trovi il valore del parametro $k$ in modo che la curva d'equazione $y=kx^3-x+4$ abbia nel punto d'ascissa $x=1$ la tangente orizzontale.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -84,6 +96,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_5|Quesito 5]]*
 
 5. Si dia una definizione di poliedro regolare. Si dimostri che i poliedri regolari sono, a meno di similitudini, solo $5$ e si dica quali sono.
 
@@ -94,6 +108,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_6|Quesito 6]]*
+
 6. Quanti sono i numeri di quattro cifre (distinte tra loro) che è possibile scrivere utilizzando le cifre pari, diverse da zero?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -103,6 +119,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_7|Quesito 7]]*
+
 7. Si calcoli $$\lim_{x\to 0}\frac{1-\cos 3x}{x^2}.$$
 
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
@@ -111,6 +129,8 @@ d) Si calcoli il volume del solido ottenuto dalla rotazione del settore circolar
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_28#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_28_8|Quesito 8]]*
 
 8. Si risolva in $\mathbb{R}$ la seguente equazione: $$e^{2x}+e^x=2.$$
 

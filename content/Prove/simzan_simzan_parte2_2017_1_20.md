@@ -17,6 +17,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WT
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2017_1_20_1|Problema 1]]*
+
 Il tuo comune ha commissionato allo studio di progettazione Urban2000 il recupero di un capannone in stile modernista per realizzarne una sala polivalente ed uno spazio espositivo.
 
 *(Figura 1 e Figura 2 nel PDF)*
@@ -47,6 +49,8 @@ d. Sapendo che il restauro delle vetrate costa 220 €/m², stima la spesa per i
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2017_1_20_2|Problema 2]]*
+
 Fissato $\lambda\in\mathbb{R}$, sia $g_\lambda$ la funzione così definita: $g_\lambda(x)=x^3(x+\lambda)$.
 
 a. Determina il valore di $\lambda\in\mathbb{R}$ in modo che il grafico della funzione ammetta un flesso nel punto $F$ di ascissa $x=-1$. Verificato che risulta $\lambda=2$, indica con $\Gamma$ il grafico corrispondente.
@@ -69,6 +73,8 @@ e. Verifica che la funzione $G(x)$ non ammette estremi relativi né assoluti e c
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_1|Quesito 1]]*
+
 1. Dati il piano $\alpha$ di equazione $2x-y+z-1=0$ e i punti $A(5;1;-2)$ e $B(1;1;2)$, verifica che $A$ e $B$ appartengono a $\alpha$ e individua due punti $C_1$ e $C_2$ nel piano $\beta$ perpendicolare a $\alpha$ e contenente la retta $AB$ tali che i triangoli $ABC_1$ e $ABC_2$ siano equilateri.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -77,6 +83,8 @@ e. Verifica che la funzione $G(x)$ non ammette estremi relativi né assoluti e c
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_2|Quesito 2]]*
 
 2. Determina per quali valori dei parametri reali $a$ e $b$ il grafico della funzione $f(x)=\sqrt{ax^2+bx}-x$ ammette come asintoto obliquo per $x\to+\infty$ la retta di equazione $y=2x+1$.
 
@@ -87,6 +95,8 @@ e. Verifica che la funzione $G(x)$ non ammette estremi relativi né assoluti e c
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_3|Quesito 3]]*
 
 3. Determina il parametro reale positivo $a$ in modo tale che i grafici delle funzioni
 $$f(x)=\frac{ax-1}{3x},\qquad g(x)=\frac{x}{3}$$
@@ -99,6 +109,8 @@ risultino ortogonali nel loro punto di intersezione $P$, quindi ricava le coordi
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_4|Quesito 4]]*
+
 4. Data la funzione $f(x)=x^2+3-2x$ e considerato un generico punto $P(0;k)$ dell'asse delle ordinate, dimostra che esistono rette tangenti al grafico di $f(x)$ passanti per $P$ se e solo se $0<k\le 3$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -108,6 +120,8 @@ risultino ortogonali nel loro punto di intersezione $P$, quindi ricava le coordi
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_5|Quesito 5]]*
+
 5. Assegnati nel piano cartesiano i punti $A(0;1)$, $B(2;2)$ e $C(3;k)$, ricava la funzione polinomiale di grado minimo il cui grafico ammetta un minimo relativo in $A$ e in $C$ e un massimo relativo in $B$, quindi ricava il valore di $k$ e stabilisci quale sia il punto di minimo assoluto della funzione trovata.
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
@@ -116,6 +130,8 @@ risultino ortogonali nel loro punto di intersezione $P$, quindi ricava le coordi
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_6|Quesito 6]]*
 
 6. Data la funzione $f(x)=\displaystyle\int_a^x \frac{e^{-t^2}}{t+3}\,dt$, dimostra che è monotona crescente in tutto il suo dominio. Determina poi, motivando adeguatamente la risposta, quale tra le seguenti rette può essere la tangente al suo grafico nel punto di ascissa $x=a$ e ricava di conseguenza il valore di $a$:
 $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
@@ -127,6 +143,8 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_7|Quesito 7]]*
+
 7. Verifica che la funzione $y=ae^x+bxe^x+x$ soddisfa l'equazione differenziale $y''-2y'+y=x-2$ per ogni valore reale delle costanti $a$ e $b$, quindi determina i valori di $a$ e $b$ per i quali si ha: $y(0)=2$, $y'(0)=0$.
 
 **Topic:** [[Equazioni Differenziali]], [[Derivate]]
@@ -135,6 +153,8 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_8|Quesito 8]]*
 
 8. Vengono lanciati contemporaneamente una moneta e un dado a sei facce, entrambi non truccati, 5 volte. Il valore di ogni lancio è uguale all'esito del dado se esce testa, al suo doppio se esce croce.
    a. Qual è la probabilità di totalizzare almeno sei punti con 5 lanci?
@@ -147,6 +167,8 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_9|Quesito 9]]*
+
 9. Data la funzione $f(x)=ae^{bx}$, determina i valori di $a$ e $b$ per i quali $f'(0)=8$ e $f^{(4)}(0)=64$. Dimostra che per i valori di $a$ e $b$ trovati è $f^{(n)}(x)=2^{n+2}e^{2x}$ e verifica che l'equazione $f^{(n+1)}(x)\cdot f^{(n-1)}(0)=\big[f^{(n)}(x)\big]^2$ è un'identità per ogni $n$ naturale.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -155,6 +177,8 @@ $$r_1:\ y=\frac{1}{2}x-1\,;\qquad r_2:\ y=\frac{1}{2}x-\frac{1}{2}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2017_1_20#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2017_1_20_10|Quesito 10]]*
 
 10. La regione $R$ in figura è delimitata dall'asse $x$, dalla retta di equazione $x=1$ e da un arco della parabola di equazione $y=kx^2$, dove $k>0$ è un parametro reale. Determina il valore di $k$ in modo tale che il volume del solido ottenuto dalla rotazione completa di $R$ intorno all'asse $x$ sia uguale al volume del solido ottenuto dalla rotazione completa di $R$ intorno all'asse $y$. *(figura nel PDF)*
 

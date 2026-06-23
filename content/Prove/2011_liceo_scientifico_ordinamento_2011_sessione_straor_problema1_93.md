@@ -16,6 +16,8 @@ Fonte: p.93 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_liceo_scientifico_ordinamento_2011_sessione_straor_problema1_93_1|Problema 1]]*
+
 Siano dati un segmento $AB=1$ ed una circonferenza con il centro $O$ sulla perpendicolare in $A$ ad $AB$ e il diametro $AC=2x$.
 
 a) Posto $y=\tan O\hat{B}C$, si esprima $y$ in funzione di $x$, mostrando che risulta:

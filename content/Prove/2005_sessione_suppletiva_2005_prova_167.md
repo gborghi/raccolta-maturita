@@ -17,6 +17,8 @@ Fonte: p.167 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_suppletiva_2005_prova_167_1|Problema 1]]*
+
 Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa in modo che una base sia la sezione della piramide con il piano equidistante dal suo vertice e dalla sua base.
 
 A) Ammesso di conoscere il volume della piramide, dire se è possibile calcolare il volume del prisma e fornire una esauriente spiegazione della risposta.
@@ -37,6 +39,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_suppletiva_2005_prova_167_2|Problema 2]]*
+
 È assegnata la funzione $f_a(x) = \dfrac{a}{1 + x^2}$, dove $a$ è un parametro reale non nullo.
 
 1. Dopo aver fornito la definizione di funzione limitata, spiegare perché la funzione $f_a(x)$ è limitata.
@@ -52,6 +56,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_1|Quesito 1]]*
+
 1. È dato un trapezio rettangolo, in cui le bisettrici degli angoli adiacenti al lato obliquo si intersecano in un punto del lato perpendicolare alle basi. Dimostrare che il triangolo avente per vertici questo punto e gli estremi del lato obliquo è rettangolo e trovare quale relazione lega il lato obliquo alle basi del trapezio.
 
 **Topic:** [[Geometria Euclidea]]
@@ -60,6 +66,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_167#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.176](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_2|Quesito 2]]*
 
 2. Siano $AB$, $AC$, $AD$ tre spigoli di un cubo. Sapendo che uno spigolo è lungo $s$, calcolare la distanza del vertice $A$ dal piano dei punti $B$, $C$, $D$.
 
@@ -70,6 +78,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_3|Quesito 3]]*
+
 3. Alberto e Gianna sono chiamati a risolvere la seguente equazione: $\sin x \cos x = \dfrac{1}{4}$. Alberto ottiene come soluzione gli angoli $x$ tali che: $x = \dfrac{\pi}{12} + k\pi$ oppure $x = \dfrac{5\pi}{12} + k\pi$ ($k$ intero qualsiasi); Gianna trova la seguente soluzione: $x = (-1)^k\,\dfrac{\pi}{12} + k\,\dfrac{\pi}{2}$ ($k$ intero qualsiasi). È vero o è falso che Alberto ha risolto correttamente e Gianna no? Fornire una risposta esauriente.
 
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
@@ -79,6 +89,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_4|Quesito 4]]*
+
 4. Si consideri la seguente equazione in $x$: $(k-2)\,x^2 - (2k-1)\,x + (k+1) = 0$ dove $k$ è un parametro reale diverso da $2$. Indicate con $x'$ ed $x''$ le sue radici, calcolare i limiti di $x' + x''$ quando $k$ tende a $2$, a $+\infty$ e a $-\infty$.
 
 **Topic:** [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
@@ -87,6 +99,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_167#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.179](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_5|Quesito 5]]*
 
 5. Il limite della funzione $(1 - x)^{\frac{1}{x}}$ per $x \to 0$:
    [A] è uguale ad $1$;
@@ -103,6 +117,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_6|Quesito 6]]*
+
 6. Dimostrare che, se la derivata di una funzione reale di variabile reale $f(x)$ è nulla per ogni $x$ di un dato intervallo $J$, allora $f(x)$ è costante in $J$.
 
 **Topic:** [[Derivate]]
@@ -111,6 +127,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_167#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_7|Quesito 7]]*
 
 7. Spiegare in maniera esauriente perché una funzione reale di variabile reale integrabile in un intervallo chiuso e limitato $[a, b]$ non necessariamente ammette primitiva in $[a, b]$.
 
@@ -121,6 +139,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_8|Quesito 8]]*
+
 8. In un'urna ci sono due palline bianche, in una seconda urna ci sono due palline nere e in una terza urna ci sono una pallina bianca e una pallina nera. Scegli a caso un'urna ed estrai, sempre a caso, una delle due palline in essa contenute: è bianca. Saresti disposto a scommettere alla pari che la pallina rimasta nell'urna che hai scelto sia essa pure bianca?
 
 **Topic:** [[Probabilita]]
@@ -129,6 +149,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_167#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_9|Quesito 9]]*
 
 9. Si consideri il seguente sistema nelle incognite $x$, $y$, $z$:
 $$\begin{cases} ax + y + z = a \\ x + ay + z = a \\ x + y + az = a \end{cases}$$
@@ -145,6 +167,8 @@ dove $a$ è un parametro reale. Il sistema è:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_167#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_167_10|Quesito 10]]*
 
 10. Si consideri la trasformazione geometrica di equazioni:
 $$\begin{cases} x' = 2x + my - 1 \\ y' = mx - 2y - 2 \end{cases}$$

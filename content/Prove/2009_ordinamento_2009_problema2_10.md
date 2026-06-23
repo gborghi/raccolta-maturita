@@ -16,6 +16,8 @@ Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_ordinamento_2009_problema2_10_1|Problema 1]]*
+
 Sia data la funzione $f(x)=\ln x$ e il suo grafico.
 
 **1.** Detto $P=(t;\ln t)$ il generico punto del grafico, si conduca la tangente in $P$, che incontra l'asse $y$ in $A$, e la parallela all'asse $x$ per $P$, che incontra l'asse $y$ in $B$. Si dimostri che il segmento $\overline{AB}$ ha lunghezza costante al variare di $P$. Si esamini poi cosa accade quando $f(x)=\log_a x$, distinguendo i casi $a>1$ e $0<a<1$.

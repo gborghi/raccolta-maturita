@@ -16,6 +16,8 @@ Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_scuole_italiane_allestero_americhe_2008_sessione_o_questionario_22_1|Problema 1]]*
+
 Il candidato risolva uno dei due problemi e risponda a 4 degli 8 quesiti del questionario.
 
 1. Una strada rettilinea in salita supera un dislivello di $150$ m con un percorso di $3$ km. Qual è la sua inclinazione?

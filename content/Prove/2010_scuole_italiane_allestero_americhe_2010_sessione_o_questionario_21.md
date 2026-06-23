@@ -17,6 +17,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_1|Quesito 1]]*
+
 **Quesito 1.** Sia $\gamma$ il grafico di $y=\dfrac{10x}{x^2+1}$. Si trovi l'equazione della retta normale a $\gamma$ nel punto $(2,\,4)$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -25,6 +27,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_2|Quesito 2]]*
 
 **Quesito 2.** Si determini il cono rotondo di massimo volume inscritto in una sfera di raggio $30$ cm.
 
@@ -35,6 +39,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_3|Quesito 3]]*
+
 **Quesito 3.** Quale è la derivata di $f(x)=3^{\pi x}$? Si giustifichi la risposta.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -43,6 +49,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_4|Quesito 4]]*
 
 **Quesito 4.** Si dimostri che la media geometrica di due numeri positivi non è mai superiore alla loro media aritmetica.
 
@@ -53,6 +61,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_5|Quesito 5]]*
+
 **Quesito 5.** La regione $R$ del primo quadrante delimitata dal grafico di $y=3e^{-x}$ e dalla retta $x=\ln 3$ è la base di un solido $S$ le cui sezioni, ottenute tagliando $S$ con piani perpendicolari all'asse $x$, sono tutte quadrati. Si calcoli il volume di $S$.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]], [[Geometria Solida]]
@@ -61,6 +71,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_6|Quesito 6]]*
 
 **Quesito 6.** Un prisma a base quadrata ha altezza $x$ e spigolo di base $y$ tali che $x+y=3$. Quale è il suo volume massimo?
 
@@ -71,6 +83,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_7|Quesito 7]]*
+
 **Quesito 7.** Si disegni, nell'intervallo $]-\pi;\,\pi]$, il grafico della funzione $f(x)=\dfrac{1}{2}|\cos x|-1$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]]
@@ -80,6 +94,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_o_questionario_21_8|Quesito 8]]*
 
 **Quesito 8.** Si consideri una parabola del fascio $y=x^2-ax$ e siano $r$ e $s$ le rette ad essa tangenti rispettivamente nell'origine del sistema di riferimento e nel punto $T$ di ascissa $2a$. Sia $P$ il punto di intersezione fra $r$ e $s$. Si calcoli:
 

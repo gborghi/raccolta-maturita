@@ -16,6 +16,8 @@ Fonte: p.15 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15_1|Problema 1]]*
+
 Tra i coni circolari retti inscritti in una sfera di raggio $10$ cm, si determini:
 
 1. il cono $C$ di volume massimo e il valore, espresso in litri, di tale volume massimo;

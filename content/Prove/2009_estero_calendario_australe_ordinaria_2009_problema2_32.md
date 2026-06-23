@@ -16,6 +16,8 @@ Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_estero_calendario_australe_ordinaria_2009_problema2_32_1|Problema 2]]*
+
 Sia $p(x) = ax^3 + bx^2 + cx + d$.
 
 **1)** Si determinino $a$, $b$, $c$ e $d$ in modo che il grafico $\Gamma$ di $p(x)$ abbia nei punti $F(1, -2)$ e $M(2, -4)$ rispettivamente il punto di flesso e il punto di minimo.

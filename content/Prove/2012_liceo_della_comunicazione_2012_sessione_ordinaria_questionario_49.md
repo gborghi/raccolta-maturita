@@ -17,6 +17,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_1|Quesito 1]]*
+
 **Quesito 1.** Cosa rappresenta il seguente limite e qual è il suo valore?
 $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6}\right)}{h}$$
 
@@ -27,6 +29,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_2|Quesito 2]]*
+
 **Quesito 2.** Si calcoli la derivata diciassettesima di $f(x)=\cos x$.
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -35,6 +39,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 **Soluzione:** [[Soluzioni/2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_3|Quesito 3]]*
 
 **Quesito 3.** Si lancino due dadi. Qual è la probabilità che uno e soltanto uno dei due numeri sia $5$?
 
@@ -45,6 +51,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_4|Quesito 4]]*
+
 **Quesito 4.** Si scriva l'equazione della retta normale al grafico di $y=\operatorname{sen}2x$ nel punto di ascissa $\frac{\pi}{4}$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Trigonometria]]
@@ -53,6 +61,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 **Soluzione:** [[Soluzioni/2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_5|Quesito 5]]*
 
 **Quesito 5.** Si mostri che, nello sviluppo di $(a+b)^n$, il coefficiente del termine $a^k b^{n-k}$ è uguale a $\dfrac{n!}{k!\,(n-k)!}$.
 
@@ -63,6 +73,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_6|Quesito 6]]*
+
 **Quesito 6.** È noto che il lato del decagono regolare inscritto in un cerchio è sezione aurea del raggio. Si utilizzi il risultato per calcolare $\operatorname{sen}\dfrac{\pi}{10}$.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -71,6 +83,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 **Soluzione:** [[Soluzioni/2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_7|Quesito 7]]*
 
 **Quesito 7.** È dato un tetraedro regolare di spigolo $l$ e altezza $h$. Si determini l'ampiezza dell'angolo $\alpha$ formato da $l$ e da $h$.
 
@@ -81,6 +95,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_8|Quesito 8]]*
+
 **Quesito 8.** Fra le piramidi rette a base quadrata di assegnata superficie laterale $S$, si determini quella di volume massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -90,6 +106,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_9|Quesito 9]]*
+
 **Quesito 9.** Il problema di Erone (matematico alessandrino vissuto probabilmente nella seconda metà del I secolo d.C.) consiste, assegnati nel piano due punti $A$ e $B$, situati dalla stessa parte rispetto ad una retta $r$, nel determinare il cammino minimo che congiunge $A$ con $B$ toccando $r$. Si risolva il problema nel modo che si preferisce.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
@@ -98,6 +116,8 @@ $$\lim_{h\to 0}\frac{\tan\!\left(\frac{\pi}{6}+h\right)-\tan\!\left(\frac{\pi}{6
 **Soluzione:** [[Soluzioni/2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2012_liceo_della_comunicazione_2012_sessione_ordinaria_questionario_49_10|Quesito 10]]*
 
 **Quesito 10.** Quale delle seguenti funzioni è positiva per ogni $x$ reale?
 

@@ -16,6 +16,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_44_1|Problema 1]]*
+
 1. Sia $W$ il solido ottenuto facendo ruotare attorno all'asse $y$ la parte di piano compresa, per $x \in \left[0; \frac{\pi}{2}\right]$, fra il grafico di $y = \sin x$ e l'asse $x$. Quale dei seguenti integrali definiti fornisce il volume di $W$?
 $$A)\ 2\pi\int_0^{\frac{\pi}{2}} x\sin x\, dx; \quad B)\ \pi\int_0^1 (\arcsin x)^2\, dx; \quad C)\ \pi\int_0^{\frac{\pi}{2}} \sin^2 x\, dx; \quad D)\ \text{nessuno di questi.}$$
 Si motivi la risposta.

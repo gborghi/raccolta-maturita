@@ -16,6 +16,8 @@ Fonte: p.40 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_estero_calendario_australe_2006_sessione_suppletiv_problema2_40_1|Problema 1]]*
+
 Sia $f(x) = x - x^3$ sull'intervallo $[-2,\,2]$.
 
 1) Trovare $m$ e $n$ tali che la retta $r$ d'equazione $y=mx+n$ sia tangente al grafico di $f$ nel punto $(-1,0)$.

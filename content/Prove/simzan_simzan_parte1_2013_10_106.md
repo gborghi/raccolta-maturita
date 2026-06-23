@@ -16,6 +16,8 @@ Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdB
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2013_10_106_1|Problema 1]]*
+
 *(Statement non trascrivibile dalle pagine disponibili — vedi PDF.)*
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]]

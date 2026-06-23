@@ -17,6 +17,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_1|Quesito 1]]*
+
 **Quesito 1.** Si determini il campo di esistenza della funzione $y=(x^2-3x)^{\frac{1}{|x-4|}}$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Equazioni e Disequazioni]]
@@ -27,6 +29,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_2|Quesito 2]]*
+
 **Quesito 2.** Si calcoli il limite della funzione $\dfrac{\sqrt{x}+\sqrt{x+3}-3}{\sqrt{x}-\sqrt{x+3}+1}$ quando $x$ tende a $1$.
 
 **Topic:** [[Limiti e Continuita]]
@@ -35,6 +39,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 **Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_3|Quesito 3]]*
 
 **Quesito 3.** Si calcoli, in base alla definizione di derivata, la derivata della funzione $f(x)=\dfrac{1-x^2}{1+x^2}$ nel punto $x=-1$.
 
@@ -45,6 +51,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_4|Quesito 4]]*
+
 **Quesito 4.** In un sistema di assi cartesiani ortogonali $Oxy$, si consideri l'ellisse $\gamma$ d'equazione $x^2+9y^2=9$ e di asse maggiore $AB$. Fra i trapezi isosceli contenuti nel semipiano $y\ge 0$ inscritti in $\gamma$ e di cui una base è $AB$, si determini quello di area massima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]]
@@ -54,6 +62,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_5|Quesito 5]]*
+
 **Quesito 5.** Si consideri la seguente proposizione: "Dato un triangolo rettangolo, il cerchio che ha per raggio l'ipotenusa è la somma dei cerchi che hanno per raggio i cateti". Si dica se è vera o falsa e si motivi esaurientemente la risposta.
 
 **Topic:** [[Geometria Euclidea]]
@@ -62,6 +72,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 **Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_6|Quesito 6]]*
 
 **Quesito 6.** Si consideri la funzione:
 $$f(x)=\begin{cases}\sin^2 x\,\sin\dfrac{1}{x}, & x\ne 0\\[1mm] 0, & x=0\end{cases}$$
@@ -74,6 +86,8 @@ Se ne studi la continuità nel punto $x=0$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_7|Quesito 7]]*
+
 **Quesito 7.** Si calcoli il volume del solido generato in una rotazione completa attorno all'asse delle $x$ della regione finita di piano delimitata dalla curva di equazione $y=\sqrt{\sin x}$ e dall'asse stesso nell'intervallo $0\le x\le \pi$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -82,6 +96,8 @@ Se ne studi la continuità nel punto $x=0$.
 **Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_8|Quesito 8]]*
 
 **Quesito 8.** Si determinino i coefficienti dell'equazione $y=\dfrac{ax^2+6}{bx+3}$ perché la curva rappresentativa ammetta un asintoto obliquo d'equazione $y=x+3$.
 
@@ -93,6 +109,8 @@ Se ne studi la continuità nel punto $x=0$.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_9|Quesito 9]]*
+
 **Quesito 9.** Si enunci il teorema di Lagrange e se ne fornisca un'interpretazione geometrica.
 
 **Topic:** [[Derivate]]
@@ -101,6 +119,8 @@ Se ne studi la continuità nel punto $x=0$.
 **Soluzione:** [[Soluzioni/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_10|Quesito 10]]*
 
 **Quesito 10.** Si determinino le costanti $a$ e $b$ in modo che la funzione $F(x)=a\sin^3 x+b\sin x+2x$ sia una primitiva della funzione $f(x)=\cos^3 x-3\cos x+2$.
 

@@ -16,6 +16,8 @@ Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1973_tutti_temi_1|Problema 1]]*
+
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
 1. Si scrivano le equazioni delle due circonferenze $C'$ e $C''$ tangenti alla parabola di equazione $y = 5 - x^2$ ed alla retta di equazione $y = 1$ e si indichino con $r'$ ed $r''$ ($r' > r''$) i rispettivi raggi. Dopo aver determinato $r'$ ed $r''$, si scriva l'equazione di un'altra circonferenza $C'''$ tangente alla $C''$, avente il centro sulla retta degli altri due centri e raggio uguale ad $r'$. Inoltre si trovi l'equazione della parabola tangente a $C''$ ed a $C'''$ e si calcoli l'area della regione del piano limitata dalle due parabole.

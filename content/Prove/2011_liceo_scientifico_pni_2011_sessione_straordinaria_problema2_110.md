@@ -16,6 +16,8 @@ Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_liceo_scientifico_pni_2011_sessione_straordinaria_problema2_110_1|Problema 1]]*
+
 Si consideri, nell'intervallo chiuso $[0; 2\pi]$, la funzione:
 $$f(x) = \frac{\cos x}{1 + \sin x}.$$
 

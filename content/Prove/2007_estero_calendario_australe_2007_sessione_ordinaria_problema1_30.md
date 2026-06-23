@@ -16,6 +16,8 @@ Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_estero_calendario_australe_2007_sessione_ordinaria_problema1_30_1|Problema 1]]*
+
 Sia $f$ la funzione definita da:
 $$f(x)=a\log_{10}x+1,$$
 ove $a$ è un parametro reale.

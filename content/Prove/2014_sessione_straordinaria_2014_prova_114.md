@@ -17,6 +17,8 @@ Fonte: p.114 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_straordinaria_2014_prova_114_1|Problema 1]]*
+
 È data una semicirconferenza di centro $O$ e diametro $AB=2r$. Siano $C$ e $D$ i punti d'intersezione delle tangenti in $B$ e in $A$, rispettivamente, con una terza tangente alla semicirconferenza.
 
 1. Si dimostri che l'angolo $D\hat{O}C$ è retto e che $\overline{AD}\cdot\overline{BC}=r^2$.
@@ -34,6 +36,8 @@ Per quali valori di $x$, $V(x)$ ammette un massimo o un minimo?
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_straordinaria_2014_prova_114_2|Problema 2]]*
+
 Si consideri la funzione:
 $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x$$
 
@@ -50,6 +54,8 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_1|Quesito 1]]*
+
 1. Un gruppo di attivisti antinucleari ha organizzato una marcia di protesta verso un sito scelto per la costruzione di una centrale termonucleare. Essi camminano, in pianura, con velocità costante, dirigendosi in linea retta verso le torri di raffreddamento dell'impianto, che sono già state costruite. Alle 7 uno degli organizzatori della marcia antinucleare vede la cima della torre di raffreddamento con un angolo di elevazione di $2°$; 30 minuti più tardi l'ampiezza dell'angolo è pari a $5°$. Si calcoli a che ora il gruppo raggiungerà il cantiere, arrotondando il risultato al minuto.
 
 **Topic:** [[Trigonometria]]
@@ -58,6 +64,8 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_2|Quesito 2]]*
 
 2. Si calcoli il limite della funzione $\dfrac{e^{x^2}-1}{3x^2+x^3}$, quando $x$ tende a $0$.
 
@@ -68,6 +76,8 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_3|Quesito 3]]*
+
 3. Data una statua $AB$ di altezza $h=2{,}5$ m, posta su di un piedistallo $BP$ di altezza $a=2$ m, si determini sul piano orizzontale passante per il punto $P$ d'appoggio del piedistallo un punto $O$ tale che da esso la statua sia vista sotto angolo massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]]
@@ -76,6 +86,8 @@ $$f(x)=\frac{1}{3}\operatorname{tg}^3 x+\operatorname{tg}^2 x+\operatorname{tg}x
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_4|Quesito 4]]*
 
 4. Si scrivano le equazioni della tangente e della normale al diagramma della funzione:
 $$f(x)=\frac{3}{4}x^2-\frac{1}{4}\log\left(\frac{1}{1+x^2}\right)-\frac{1}{3}x^2+x$$
@@ -88,6 +100,8 @@ nel punto $P$ di ascissa $x=0$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_5|Quesito 5]]*
+
 5. La regione del I quadrante delimitata dall'iperbole di equazione $9x^2-4y^2=36$ e dall'asse $x$ nell'intervallo $2\le x\le 4$, è la base di un solido $S$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte esagoni regolari. Si calcoli il volume di $S$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -96,6 +110,8 @@ nel punto $P$ di ascissa $x=0$.
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.129](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_6|Quesito 6]]*
 
 6. Si determinino le equazioni degli asintoti della curva: $f(x)=x+\sqrt{x^2-2x+5}$.
 
@@ -107,6 +123,8 @@ nel punto $P$ di ascissa $x=0$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_7|Quesito 7]]*
+
 7. Si determini il campo di esistenza della funzione: $y=\log_{\operatorname{sen}x}(x^2-5x+6)$, con $0\le x\le 2\pi$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
@@ -117,6 +135,8 @@ nel punto $P$ di ascissa $x=0$.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_8|Quesito 8]]*
+
 8. Il kilogrammo campione è un cilindro di platino-iridio, che ha un diametro di 39 mm ed è alto 39 mm. Qual è la densità in $\dfrac{g}{cm^3}$ della lega che è stata usata per costruirlo?
 
 **Topic:** [[Geometria Solida]], [[Topics/Fisica|Fisica]]
@@ -126,6 +146,8 @@ nel punto $P$ di ascissa $x=0$.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_9|Quesito 9]]*
+
 9. Si calcoli il valore medio della funzione: $y=x^2\sqrt{x^3-1}$ nell'intervallo $1\le x\le 2$.
 
 **Topic:** [[Calcolo Integrale]]
@@ -134,6 +156,8 @@ nel punto $P$ di ascissa $x=0$.
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_114#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_114_10|Quesito 10]]*
 
 10. Un motociclista procede a velocità costante su di una strada statale. Poco dopo la partenza, incontra una pietra miliare con l'indicazione chilometrica scritta con due cifre. Un'ora più tardi, ne nota un'altra con le stesse cifre, ma invertite, e, dopo un'altra ora, ne individua una terza con le due cifre nell'ordine iniziale, ma separate da uno zero. Quale è stata la velocità della moto?
 

@@ -17,6 +17,8 @@ Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2008_sessione_ordinaria_2008_prova_147_1|Problema 1]]*
+
 Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si considerino i triangoli $ABC$ con $A(1,0)$, $B(3,0)$ e $C$ variabile sulla retta d'equazione $y=2x$.
 
 1. Si provi che i punti $(1,2)$ e $\left(\dfrac{3}{5},\dfrac{6}{5}\right)$ corrispondono alle due sole posizioni di $C$ per cui è $\widehat{ACB}=\dfrac{\pi}{4}$.
@@ -33,6 +35,8 @@ Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si consid
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2008_sessione_ordinaria_2008_prova_147_2|Problema 2]]*
 
 Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=x^2$.
 
@@ -52,6 +56,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_1|Quesito 1]]*
+
 1. Siano dati un cono equilatero e la sfera in esso inscritta. Si scelga a caso un punto all'interno del cono. Si determini la probabilità che tale punto risulti esterno alla sfera.
 
 **Topic:** [[Probabilita]], [[Geometria Solida]]
@@ -60,6 +66,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_2|Quesito 2]]*
 
 2. Ricordando che il lato del decagono regolare inscritto in un cerchio è sezione aurea del raggio, si provi che $\sin\dfrac{\pi}{10}=\dfrac{\sqrt{5}-1}{4}$.
 
@@ -70,6 +78,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_3|Quesito 3]]*
+
 3. Un solido ha per base un cerchio di raggio $1$. Ogni sezione del solido ottenuta con un piano perpendicolare ad un prefissato diametro è un triangolo equilatero. Si calcoli il volume del solido.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -78,6 +88,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_4|Quesito 4]]*
 
 4. Si esponga la regola del marchese de L'Hôpital ($1661$–$1704$) e la si applichi per dimostrare che è $\displaystyle\lim_{x\to+\infty}\frac{x^{2008}}{2^x}=0$.
 
@@ -88,6 +100,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_5|Quesito 5]]*
+
 5. Nel piano riferito a coordinate cartesiane $(x,y)$ si dica qual è l'insieme dei punti per i quali risulta $y^2-x^3>0$.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Geometria Analitica (piano)]]
@@ -96,6 +110,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_6|Quesito 6]]*
 
 6. I lati di un parallelepipedo rettangolo misurano $8$, $9$ e $12$ cm. Si calcoli, in gradi e primi sessagesimali, l'ampiezza dell'angolo che la diagonale mandata da un vertice fa con ciascuno dei tre spigoli concorrenti al vertice.
 
@@ -106,6 +122,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_7|Quesito 7]]*
+
 7. Perché è geometria "non" euclidea? Che cosa e come viene negato della geometria euclidea? Si illustri la questione con gli esempi che si ritengono più adeguati.
 
 **Topic:** [[Geometria Euclidea]]
@@ -114,6 +132,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_8|Quesito 8]]*
 
 8. Sia $f$ la funzione definita da $f(x)=\pi^x-x^\pi$. Si precisi il dominio di $f$ e si stabilisca il segno delle sue derivate, prima e seconda, nel punto $x=\pi$.
 
@@ -124,6 +144,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_9|Quesito 9]]*
+
 9. In una classe composta da $12$ maschi e $8$ femmine, viene scelto a caso un gruppo di $8$ studenti. Qual è la probabilità che, in tale gruppo, vi siano esattamente $4$ studentesse?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -132,6 +154,8 @@ Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da $f(x)=2^x$ e $g(x)=
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_147#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_10|Quesito 10]]*
 
 10. Qual è l'equazione della curva simmetrica rispetto all'origine di $y=e^{-2x}$? Quale quella della curva simmetrica rispetto alla bisettrice del primo e terzo quadrante?
 

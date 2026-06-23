@@ -17,6 +17,8 @@ Fonte: p.152 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_straordinaria_2016_prova_152_1|Problema 1]]*
+
 Sei addetto alla gestione di una macchina utensile in cui è presente un contenitore di olio lubrificante avente la forma di un cono circolare retto col vertice rivolto verso il basso. Il raggio di base $r$ del cono è 4 cm mentre l'altezza $h$ è 12 cm. In tale contenitore, inizialmente vuoto, viene versato automaticamente dell'olio lubrificante alla velocità di $12\pi\ \dfrac{\mathrm{cm}^3}{\mathrm{s}}$. Devi assicurarti che il processo avvenga correttamente, senza produrre traboccamenti di olio.
 
 1. Determina l'espressione della funzione $h(t)$, che rappresenta il livello $h$ (in cm) raggiunto dall'olio all'istante $t$ (in secondi) e la velocità con la quale cresce il livello dell'olio durante il riempimento del contenitore.
@@ -33,6 +35,8 @@ Sei addetto alla gestione di una macchina utensile in cui è presente un conteni
 **Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.152](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_straordinaria_2016_prova_152_2|Problema 2]]*
 
 La funzione $f:\mathbb{R}\to\mathbb{R}$ è così definita:
 $$f(x)=\operatorname{sen}(x)-x\cdot\cos(x)$$
@@ -60,6 +64,8 @@ $$\int_0^{(2n+1)\pi}f(x)\,dx=4,\qquad\int_0^{2n\pi}f(x)\,dx=0.$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_1|Quesito 1]]*
+
 1. Calcolare il limite:
 $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 
@@ -70,6 +76,8 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_2|Quesito 2]]*
+
 2. In media, il 4% dei passeggeri dei tram di una città non paga il biglietto. Qual è la probabilità che ci sia almeno un passeggero senza biglietto in un tram con 40 persone? Se il numero di persone raddoppia, la probabilità raddoppia?
 
 **Topic:** [[Probabilita]]
@@ -78,6 +86,8 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_3|Quesito 3]]*
 
 3. Determinare il parametro reale $a$ in modo che i grafici di $y=x^2$ e di $y=-x^2+4x-a$, risultino tangenti e stabilire le coordinate del punto di tangenza.
 
@@ -88,6 +98,8 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_4|Quesito 4]]*
+
 4. Dati i punti $A(2,4,-8)$ e $B(-2,4,-4)$, determinare l'equazione della superficie sferica di diametro $AB$ e l'equazione del piano tangente alla sfera e passante per $A$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -96,6 +108,8 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.165](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_5|Quesito 5]]*
 
 5. Un'azienda produce, in due capannoni vicini, scatole da imballaggio. Nel primo capannone si producono 600 scatole al giorno delle quali il 3% difettose, mentre nel secondo capannone se ne producono 400 con il 2% di pezzi difettosi. La produzione viene immagazzinata in un unico capannone dove, nel corso di un controllo casuale sulla produzione di una giornata, si trova una scatola difettosa. Qual è la probabilità che la scatola provenga dal secondo capannone?
 
@@ -106,6 +120,8 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_6|Quesito 6]]*
+
 6. In un semicerchio di raggio $r=10$ è inscritto un triangolo in modo che due vertici si trovino sulla semicirconferenza e il terzo vertice si trovi nel centro del cerchio. Qual è l'area massima che può assumere tale triangolo?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]], [[Trigonometria]]
@@ -114,6 +130,8 @@ $$\lim_{x\to 0}\frac{\operatorname{sen}(\cos(x)-1)}{\ln(\cos^2(x))}$$
 **Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.167](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_7|Quesito 7]]*
 
 7. Calcolare, se esiste, il limite della seguente successione esplicitando il procedimento seguito:
 $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
@@ -125,6 +143,8 @@ $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_8|Quesito 8]]*
+
 8. Data la funzione $f(x)=-x^4+2x^2+8$, sia $g$ la retta passante per i punti $A(0,8)$ e $B(2,0)$. Si calcoli l'area della regione tratteggiata indicata in figura. *(figura nel PDF)*
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -134,6 +154,8 @@ $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_9|Quesito 9]]*
+
 9. Dati i punti $A(-2,0,1)$, $B(1,1,2)$, $C(0,-1,-2)$, $D(1,1,0)$, determinare l'equazione del piano $\alpha$ passante per i punti $A$, $B$, $C$ e l'equazione della retta passante per $D$ e perpendicolare al piano $\alpha$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -142,6 +164,8 @@ $$\lim_{n\to\infty}\left(1+\frac{3}{n}\right)^{-n}$$
 **Soluzione:** [[Soluzioni/2016_sessione_straordinaria_2016_prova_152#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.168](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_straordinaria_2016_prova_152_10|Quesito 10]]*
 
 10. Si consideri, nel piano cartesiano, la regione limitata $R$, contenuta nel primo quadrante, compresa tra l'asse $y$ ed i grafici di $y=2^x$ e $y=x^2$. Si determinino i volumi dei solidi che si ottengono ruotando $R$ attorno all'asse $x$ e all'asse $y$.
 

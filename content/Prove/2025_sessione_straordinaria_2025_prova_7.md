@@ -17,6 +17,8 @@ Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hP
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_straordinaria_2025_prova_7_1|Problema 1]]*
+
 Si consideri la famiglia di funzioni $f(x) = ax + b\sqrt{x} + c$, con $a, b, c \in \mathbb{R}$.
 
 a) Determinare i valori dei parametri $a, b, c$ in corrispondenza dei quali la funzione abbia il punto di massimo assoluto di coordinate $(4, 8)$ e uno zero in $x = 16$.
@@ -36,6 +38,8 @@ d) Scrivere l'equazione della retta $r$, tangente a $\gamma$ nel suo punto di as
 **Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_straordinaria_2025_prova_7_2|Problema 2]]*
 
 Si consideri la funzione integrale $F(x) = \displaystyle\int_0^x P(t)\, dt$, con $-2 \le x \le 2$, in cui $P(t)$ indica un polinomio di terzo grado. I grafici $\gamma$ e $\gamma''$, in figura, sono rappresentativi di $F$ ed $F''$, derivata seconda della funzione $F$.
 
@@ -58,6 +62,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_1|Quesito 1]]*
+
 1. Determinare il perimetro e l'area di un poligono regolare di lato 4 cm, sapendo che gli angoli interni sono ampi $150°$.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -66,6 +72,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_2|Quesito 2]]*
 
 2. Un'urna contiene 16 palline, numerate da 1 a 16. Vengono estratte in blocco 5 palline dall'urna; qual è la probabilità che il numero più grande tra quelli usciti sia maggiore di 9?
 
@@ -76,6 +84,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_3|Quesito 3]]*
+
 3. Quanti sono i numeri naturali di tre cifre tali che la cifra "8" compare almeno una volta? Quanti quelli in cui la cifra "0" compare almeno una volta?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -85,6 +95,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_4|Quesito 4]]*
+
 4. Mostrare che, nello spazio tridimensionale, il piano di equazione $x + 2y - 3z - 7 = 0$ è tangente alla superficie sferica $S$ di equazione $x^2 + y^2 + z^2 - 2x + 2y - 4z - 8 = 0$ e stabilire le coordinate del punto di tangenza $T$. Scrivere, inoltre, l'equazione di una retta che sia tangente alla superficie $S$ nel punto $T$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -93,6 +105,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_5|Quesito 5]]*
 
 5. Si consideri la famiglia di funzioni $f_k(x) = \ln(1 - kx) + kx^2$, dove $k$ è un parametro reale non nullo. Determinare il valore di $k$ in modo che il grafico della funzione abbia un punto di flesso a tangente orizzontale.
 
@@ -104,6 +118,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_6|Quesito 6]]*
+
 6. Sia $\gamma$ il grafico rappresentativo della curva di equazione $xy = 3$. Determinare le coordinate del punto in cui la retta di equazione $y = 3x - 8$ è normale a $\gamma$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -113,6 +129,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_7|Quesito 7]]*
+
 7. Data la funzione $f(x) = \begin{cases} 2e^{\,x^2 - x} + a & \text{per } x \le 1 \\ bx^2 + x + 2 & \text{per } x > 1 \end{cases}$, determinare il valore dei parametri reali $a, b$, affinché la funzione sia continua e derivabile in tutto $\mathbb{R}$.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
@@ -121,6 +139,8 @@ d) Sia $P$ un punto di $\gamma''$, di ascissa positiva, e sia $r_P$ la retta tan
 **Soluzione:** [[Soluzioni/2025_sessione_straordinaria_2025_prova_7#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_straordinaria_2025_prova_7_8|Quesito 8]]*
 
 8. Dimostrare che la curva di equazione $y = \dfrac{2x + 1}{x^2 + x}$ è simmetrica rispetto al suo punto di flesso.
 

@@ -17,6 +17,8 @@ Fonte: p.108 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2006_sessione_ordinaria_2006_prova_108_1|Problema 1]]*
+
 Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un'aiuola rettangolare.
 
 a) Qual è l'aiuola di area massima che è possibile delimitare?
@@ -36,6 +38,8 @@ Un'aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una 
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2006_sessione_ordinaria_2006_prova_108_2|Problema 2]]*
+
 Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax^2$, essendo $a$ un parametro reale e il logaritmo in base $e$.
 
 1. Si discuta, al variare di $a$, l'equazione $\log x = ax^2$ e si dica, in particolare, per quale valore di $a$ i grafici di $f$ e $g$ sono tra loro tangenti.
@@ -52,6 +56,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_1|Quesito 1]]*
+
 1. Si narra che l'inventore del gioco degli scacchi chiedesse di essere compensato con chicchi di grano: un chicco sulla prima casella, due sulla seconda, quattro sulla terza e così via, sempre raddoppiando il numero dei chicchi, fino alla $64^a$ casella. Assumendo che $1000$ chicchi pesino circa $38\ \text{g}$, calcola il peso in tonnellate della quantità di grano pretesa dall'inventore.
 
 **Topic:** [[Successioni e Serie]]
@@ -60,6 +66,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_108#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_2|Quesito 2]]*
 
 2. I poliedri regolari — noti anche come solidi platonici — sono, a meno di similitudini, solo cinque: il tetraedro, il cubo, l'ottaedro, il dodecaedro e l'icosaedro. Sai dimostrarlo?
 
@@ -70,6 +78,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_3|Quesito 3]]*
+
 3. In un piano sono dati una retta $r$ e due punti $A$ e $B$ ad essa esterni ma situati nel medesimo semipiano di origine $r$. Si trovi il più breve cammino che congiunga $A$ con $B$ toccando $r$.
 
 **Topic:** [[Geometria Euclidea]], [[Massimi e Minimi]]
@@ -78,6 +88,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_108#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_4|Quesito 4]]*
 
 4. Si dimostri che l'equazione $\sin x = x - 1$ ha una e una sola radice $\alpha$ e, utilizzando una calcolatrice tascabile, se ne dia una stima. Si descriva altresì una procedura di calcolo che consenta di approssimare $\alpha$ con la precisione voluta.
 
@@ -89,6 +101,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_5|Quesito 5]]*
+
 5. Si dimostri che la somma dei coefficienti dello sviluppo di $(a+b)^n$ è uguale a $2^n$ per ogni $n \in \mathbb{N}$.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -97,6 +111,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_108#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.123](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_6|Quesito 6]]*
 
 6. L'equazione risolvente un dato problema è: $k\cos 2x - 5k + 2 = 0$ dove $k$ è un parametro reale e $x$ ha le seguenti limitazioni: $15° < x < 45°$. Si discuta per quali valori di $k$ le radici dell'equazione siano soluzioni del problema.
 
@@ -107,6 +123,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_7|Quesito 7]]*
+
 7. Bruno de Finetti ($1906$-$1985$), tra i più illustri matematici italiani del secolo scorso, del quale ricorre quest'anno il centenario della nascita, alla domanda: "che cos'è la probabilità?" era solito rispondere: "la probabilità non esiste!". Quale significato puoi attribuire a tale risposta? È possibile collegarla ad una delle diverse definizioni di probabilità che sono state storicamente proposte?
 
 **Topic:** [[Probabilita]]
@@ -115,6 +133,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_108#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_8|Quesito 8]]*
 
 8. Un tiratore spara ripetutamente ad un bersaglio; la probabilità di colpirlo è di $0{,}3$ per ciascun tiro. Quanti tiri deve fare per avere probabilità $\geq 0{,}99$ di colpirlo almeno una volta?
 
@@ -125,6 +145,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_9|Quesito 9]]*
+
 9. Della funzione $f(x)$ si sa che è derivabile e diversa da zero in ogni punto del suo dominio e, ancora, che $f'(x) = f(x)$ e $f(0) = 1$. Puoi determinare $f(x)$?
 
 **Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]]
@@ -133,6 +155,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_108#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_10|Quesito 10]]*
 
 10. Tenuto conto che $\displaystyle\int_0^1 \frac{4}{1 + x^2}\,dx = \pi$, calcola un'approssimazione di $\pi$ utilizzando uno dei metodi di integrazione numerica studiati.
 

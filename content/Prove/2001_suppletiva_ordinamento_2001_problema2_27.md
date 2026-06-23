@@ -16,6 +16,8 @@ Fonte: p.27 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2Cg
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2001_suppletiva_ordinamento_2001_problema2_27_1|Problema 1]]*
+
 Una piramide retta, di vertice $V$, ha per base il triangolo $ABC$, rettangolo in $A$, la cui area è $24a^2$, dove $a$ è una lunghezza assegnata. Si sa inoltre che $\dfrac{AB}{BC}=\dfrac{3}{5}$ e che il piano della faccia $VAB$ della piramide forma con il piano della base $ABC$ un angolo $\varphi$ tale che $\operatorname{sen}\varphi=\dfrac{12}{13}$.
 
 a) Calcolare l'altezza della piramide.

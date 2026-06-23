@@ -17,6 +17,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_ordinaria_2015_prova_28_1|Problema 1]]*
+
 Il piano tariffario proposto da un operatore telefonico prevede, per le telefonate all'estero, un canone fisso di 10 euro al mese, più 10 centesimi per ogni minuto di conversazione. Indicando con $x$ i minuti di conversazione effettuati in un mese, con $f(x)$ la spesa totale nel mese e con $g(x)$ il costo medio al minuto:
 
 1. individua l'espressione analitica delle funzioni $f(x)$ e $g(x)$ e rappresentale graficamente; verifica che la funzione $g(x)$ non ha massimi né minimi relativi e dai la tua interpretazione dell'andamento delle due funzioni alla luce della situazione concreta che esse rappresentano.
@@ -43,6 +45,8 @@ L'operatore di telefonia modifica il piano tariffario, inserendo un sovrapprezzo
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_ordinaria_2015_prova_28_2|Problema 2]]*
+
 La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, disegnato in figura 2. $\Gamma$ presenta tangenti orizzontali per $x=-1$, $x=1$, $x=2$. Le aree delle regioni A, B, C e D sono rispettivamente 2, 3, 3 e 1. Sia $g(x)$ una primitiva di $f(x)$ tale che $g(3)=-5$. *(figura nel PDF)*
 
 1. Nel caso $f(x)$ fosse esprimibile con un polinomio, quale potrebbe essere il suo grado minimo? Illustra il ragionamento seguito.
@@ -60,6 +64,8 @@ La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, diseg
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_1|Quesito 1]]*
+
 1. Determinare l'espressione analitica della funzione $y=f(x)$ sapendo che la retta $y=-2x+5$ è tangente al grafico di $f$ nel secondo quadrante e che $f'(x)=-2x^2+6$.
 
 **Topic:** [[Derivate]], [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -68,6 +74,8 @@ La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, diseg
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_28#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_2|Quesito 2]]*
 
 2. Dimostrare che il volume del tronco di cono è espresso dalla formula:
 $$V=\frac{1}{3}\pi\cdot h\cdot(R^2+r^2+R\cdot r),$$
@@ -80,6 +88,8 @@ dove $R$ ed $r$ sono i raggi e $h$ l'altezza.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_3|Quesito 3]]*
+
 3. Lanciando una moneta sei volte qual è la probabilità che si ottenga testa "al più" due volte? Qual è la probabilità che si ottenga testa "almeno" due volte?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -88,6 +98,8 @@ dove $R$ ed $r$ sono i raggi e $h$ l'altezza.
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_28#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_4|Quesito 4]]*
 
 4. Di quale delle seguenti equazioni differenziali la funzione $y=\dfrac{\ln(x)}{x}$ è soluzione?
 $$y''+\frac{2\cdot y'}{x}=y$$
@@ -102,6 +114,8 @@ $$x^2\cdot y''+x\cdot y'+\frac{2}{x}=y$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_5|Quesito 5]]*
+
 5. Determinare un'espressione analitica della retta perpendicolare nell'origine al piano di equazione $x+y-z=0$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -110,6 +124,8 @@ $$x^2\cdot y''+x\cdot y'+\frac{2}{x}=y$$
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_28#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_6|Quesito 6]]*
 
 6. Sia $f$ la funzione, definita per tutti gli $x$ reali, da
 $$f(x)=(x-1)^2+(x-2)^2+(x-3)^2+(x-4)^2+(x-5)^2,$$
@@ -122,6 +138,8 @@ determinare il minimo di $f$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_7|Quesito 7]]*
+
 7. Detta $A(n)$ l'area del poligono regolare di $n$ lati inscritto in un cerchio $C$ di raggio $r$, verificare che $A(n)=\dfrac{n}{2}r^2\sin\dfrac{2\pi}{n}$ e calcolarne il limite per $n\to\infty$.
 
 **Topic:** [[Limiti e Continuita]], [[Geometria Euclidea]], [[Trigonometria]]
@@ -131,6 +149,8 @@ determinare il minimo di $f$.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_8|Quesito 8]]*
+
 8. I lati di un triangolo misurano, rispettivamente, 6 cm, 6 cm e 5 cm. Preso a caso un punto $P$ all'interno del triangolo, qual è la probabilità che $P$ disti più di 2 cm da tutti e tre i vertici del triangolo?
 
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
@@ -139,6 +159,8 @@ determinare il minimo di $f$.
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_28#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_9|Quesito 9]]*
 
 9. Data la funzione:
 $$f(x)=\begin{cases} x^3 & 0\le x\le 1\\ x^2-kx+k & 1<x\le 2\end{cases}$$
@@ -150,6 +172,8 @@ determinare il parametro $k$ in modo che nell'intervallo $[0,2]$ sia applicabile
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_28#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_28_10|Quesito 10]]*
 
 10. Il grafico della funzione $f(x)=\sqrt{x}$ ($x\in\mathbb{R}$, $x\ge 0$) divide in due porzioni il rettangolo $ABCD$ avente vertici $A(1,0)$, $B(4,0)$, $C(4,2)$ e $D(1,2)$. Calcolare il rapporto tra le aree delle due porzioni.
 

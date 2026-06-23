@@ -16,6 +16,8 @@ Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_liceo_scientifico_ordinamento_2006_sessione_straor_problema1_110_1|Problema 1]]*
+
 È dato il triangolo $ABC$ in cui: $\overline{AB}=\dfrac{25}{2}$, $\overline{AC}=5\sqrt{5}$, $\tan\hat{A}=2$.
 
 Determinare l'altezza del triangolo relativa al lato $AB$ e tracciare la circonferenza $k$ avente centro in $C$ e tangente al lato $AB$.

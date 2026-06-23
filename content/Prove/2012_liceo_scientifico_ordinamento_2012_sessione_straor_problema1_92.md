@@ -16,6 +16,8 @@ Fonte: p.92 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_liceo_scientifico_ordinamento_2012_sessione_straor_problema1_92_1|Problema 1]]*
+
 Il triangolo $ABC$, rettangolo in $A$, ha l'ipotenusa $BC=2a$; sia $P$ il punto medio di $AC$, $Q$ la sua proiezione ortogonale su $BC$ e $A\hat{B}C=\alpha$. *(figura nel PDF)*
 
 1. Si calcoli il rapporto $$\frac{PQ+QC}{BQ}$$ e lo si esprima in funzione di $x=\operatorname{tg}\alpha$, controllando che risulti $$f(x)=\frac{x^2+x}{x^2+2}.$$

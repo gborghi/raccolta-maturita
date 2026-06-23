@@ -16,6 +16,8 @@ Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_liceo_scientifico_ordinamento_2009_sessione_straor_problema2_111_1|Problema 2]]*
+
 Sia $f(x) = a\cos^3 x + b\cos x + c$ e $x \in \mathbb{R}$.
 
 **1)** Si determinino $a$, $b$, $c$ in modo che risulti

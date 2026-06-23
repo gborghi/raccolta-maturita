@@ -17,6 +17,8 @@ Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_ordinaria_2017_prova_23_1|Problema 1]]*
+
 Si può pedalare agevolmente su una bicicletta a ruote quadrate? A New York, al MoMath – Museum of Mathematics si può fare, in uno dei padiglioni dedicati al divertimento matematico (figura 1). È però necessario che il profilo della pedana su cui il lato della ruota può scorrere soddisfi alcuni requisiti.
 
 In figura 2 è riportata una rappresentazione della situazione nel piano cartesiano $Oxy$: il quadrato di lato $DE=2$ (in opportune unità di misura) e di centro $C$ rappresenta la ruota della bicicletta, il grafico della funzione $f(x)$ rappresenta il profilo della pedana. *(figura nel PDF)*
@@ -51,6 +53,8 @@ se replicato varie volte, può rappresentare il profilo di una pedana adatta a e
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_ordinaria_2017_prova_23_2|Problema 2]]*
+
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, periodica di periodo $T=4$ il cui grafico, nell'intervallo $[0;4]$, è il seguente. *(figura nel PDF)*
 
 Come si evince dalla figura 1, i tratti $OB$, $BD$, $DE$ del grafico sono segmenti i cui estremi hanno coordinate: $O(0,0)$, $B(1,1)$, $D(3,-1)$, $E(4,0)$.
@@ -80,6 +84,8 @@ discuti, anche con argomentazioni qualitative, le variazioni (in aumento o in di
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_1|Quesito 1]]*
+
 1. Definito il numero $E$ come:
 $$E=\int_0^1 x e^x\,dx,$$
 dimostrare che risulta:
@@ -93,6 +99,8 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_2|Quesito 2]]*
+
 2. Una torta di forma cilindrica è collocata sotto una cupola di plastica di forma semisferica. Dimostrare che la torta occupa meno dei $3/5$ del volume della semisfera.
 
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
@@ -101,6 +109,8 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_3|Quesito 3]]*
 
 3. Sapendo che:
 $$\lim_{x\to 0}\frac{\sqrt{ax+2b}-6}{x}=1$$
@@ -113,6 +123,8 @@ determinare i valori di $a$ e $b$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_4|Quesito 4]]*
+
 4. Per sorteggiare numeri reali nell'intervallo $[0,2]$ viene realizzato un generatore di numeri casuali che fornisce numeri distribuiti, in tale intervallo, con densità di probabilità data dalla funzione:
 $$f(x)=\frac{3}{2}x^2-\frac{3}{4}x^3$$
 Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il primo numero estratto sia $4/3$? Qual è la probabilità che il secondo numero estratto sia minore di $1$?
@@ -124,6 +136,8 @@ Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il 
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_5|Quesito 5]]*
+
 5. Dati i punti $A(-2,3,1)$, $B(3,0,-1)$, $C(2,2,-3)$, determinare l'equazione della retta $r$ passante per $A$ e per $B$ e l'equazione del piano $\pi$ perpendicolare ad $r$ e passante per $C$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -132,6 +146,8 @@ Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il 
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_6|Quesito 6]]*
 
 6. Determinare il numero reale $a$ in modo che il valore di
 $$\lim_{x\to 0}\frac{\operatorname{sen}(x)-x}{x^a}$$
@@ -144,6 +160,8 @@ sia un numero reale non nullo.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_7|Quesito 7]]*
+
 7. Determinare le coordinate dei centri delle sfere di raggio $\sqrt{6}$ tangenti al piano $\pi$ di equazione:
 $$x+2y-z+1=0$$
 nel suo punto $P$ di coordinate $(1,0,2)$.
@@ -155,6 +173,8 @@ nel suo punto $P$ di coordinate $(1,0,2)$.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_8|Quesito 8]]*
+
 8. Un dado ha la forma di un dodecaedro regolare con le facce numerate da 1 a 12. Il dado è truccato in modo che la faccia contrassegnata dal numero 3 si presenti con una probabilità $p$ doppia rispetto a ciascun'altra faccia. Determinare il valore di $p$ in percentuale e calcolare la probabilità che in 5 lanci del dado la faccia numero 3 esca almeno 2 volte.
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -163,6 +183,8 @@ nel suo punto $P$ di coordinate $(1,0,2)$.
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_9|Quesito 9]]*
 
 9. Dimostrare che l'equazione:
 $$\operatorname{arctg}(x)+x^3+e^x=0$$
@@ -175,6 +197,8 @@ ha una e una sola soluzione reale.
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_23#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_23_10|Quesito 10]]*
 
 10. Data la funzione:
 $$f(x)=|4-x^2|$$

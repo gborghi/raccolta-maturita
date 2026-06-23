@@ -17,6 +17,8 @@ Fonte: p.151 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_1|Quesito 1]]*
+
 **QUESITO 1**
 
 Sia
@@ -31,6 +33,8 @@ $$\lim_{x\to 3^-}f(x); \qquad \lim_{x\to 3^+}f(x); \qquad \lim_{x\to 3}f(x).$$
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_2|Quesito 2]]*
+
 **QUESITO 2**
 
 Sia $t$ una retta e $P$ un punto non appartenente ad essa. Si dimostri che le circonferenze di assegnato raggio $r$, passanti per $P$ e con centro su $t$ sono al più due.
@@ -42,6 +46,8 @@ Sia $t$ una retta e $P$ un punto non appartenente ad essa. Si dimostri che le ci
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_3|Quesito 3]]*
+
 **QUESITO 3**
 
 Fra tutti i parallelepipedi rettangoli, a base quadrata, di superficie totale $a^2$ qual è quello di volume massimo?
@@ -52,6 +58,8 @@ Fra tutti i parallelepipedi rettangoli, a base quadrata, di superficie totale $a
 **Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_4|Quesito 4]]*
 
 **QUESITO 4**
 
@@ -65,6 +73,8 @@ In un riferimento cartesiano $Oxy$, si tracci la curva d'equazione: $xy-x+y-1=0$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_5|Quesito 5]]*
+
 **QUESITO 5**
 
 Si dimostri che il perimetro di un poligono regolare di $n$ lati, inscritto in una circonferenza di raggio $r$, quando si fa tendere $n$ all'infinito, tende alla lunghezza della circonferenza.
@@ -75,6 +85,8 @@ Si dimostri che il perimetro di un poligono regolare di $n$ lati, inscritto in u
 **Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.153](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_6|Quesito 6]]*
 
 **QUESITO 6**
 
@@ -88,6 +100,8 @@ $$\int_{-a}^{a} f(x)\,dx=0, \quad \forall x\in\mathbb{R}.$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_7|Quesito 7]]*
+
 **QUESITO 7**
 
 Si provi che per tutti gli $x$ reali, si ha:
@@ -99,6 +113,8 @@ $$\sin 3x=3\sin x-4\sin^3 x \qquad \text{e} \qquad \cos 3x=4\cos^3 x-3\cos x.$$
 **Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_ordinaria_2010_questionario_151#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_ordinaria_2010_questionario_151_8|Quesito 8]]*
 
 **QUESITO 8**
 

@@ -17,6 +17,8 @@ Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN0
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_ordinaria_2024_prova_1_1|Problema 1]]*
+
 Si consideri $f_{a,b}(x)=\frac{ax^2+b}{x^2}$, con $a,b\in\mathbb{R}$.
 
 a) Determinare i valori dei parametri in modo che la retta $t$, di equazione $7x+y-12=0$, sia tangente al grafico di $f_{a,b}(x)$ nel suo punto $P$ di ascissa $x=1$.
@@ -36,6 +38,8 @@ d) Sia $S(k)$, con $k>\frac{1}{2}$, l'area della regione finita di piano compres
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_ordinaria_2024_prova_1_2|Problema 2]]*
 
 «All'inizio e alla fine, abbiamo il mistero. […] A questo mistero la matematica ci avvicina, pur senza penetrarlo». (E. De Giorgi)
 
@@ -63,6 +67,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_1|Quesito 1]]*
+
 1. È dato un triangolo $ABC$, rettangolo in $B$. Dimostrare che tale triangolo è isoscele se e solo se l'altezza $BH$ relativa all'ipotenusa è congruente a metà ipotenusa.
 
 **Topic:** [[Geometria Euclidea]]
@@ -71,6 +77,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.15](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_2|Quesito 2]]*
 
 2. Si lancia 5 volte una moneta truccata che dà testa con probabilità $p$.
    - Qual è la probabilità di ottenere testa esattamente 2 volte?
@@ -83,6 +91,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_3|Quesito 3]]*
+
 3. Nello spazio con riferimento cartesiano ortogonale $Oxyz$, è dato il piano $\pi: 3x-2y+5=0$.
    - Determinare le coordinate del punto $H$, proiezione ortogonale di $P(4,2,1)$ sul piano $\pi$.
    - Determinare l'intersezione della retta $s: \begin{cases} x-y+1=0 \\ z-2=0 \end{cases}$ con il piano $\pi$.
@@ -94,6 +104,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_4|Quesito 4]]*
+
 4. Dimostrare che l'equazione $x^3+x-\cos x=0$ ammette un'unica soluzione positiva.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
@@ -103,6 +115,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_5|Quesito 5]]*
 
 5. Determinare la funzione polinomiale di quarto grado $y=p(x)$ sapendo che, in un sistema di riferimento cartesiano, il suo grafico verifica le seguenti condizioni:
    - è tangente all'asse $x$ nell'origine;
@@ -116,6 +130,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_6|Quesito 6]]*
+
 6. Si consideri la funzione integrale $F(x)=\int_a^x \frac{\cos\left(\frac{1}{t}\right)}{t^2}\,dt$, con $x\geq a$, in cui $a$ indica un parametro reale positivo. Determinare il più grande valore di $a$ in modo che $F\left(\frac{2}{\pi}\right)=-\frac{1}{2}$.
 
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]]
@@ -125,6 +141,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_7|Quesito 7]]*
+
 7. Il prossimo 5 luglio la Terra raggiungerà l'afelio, il punto della propria orbita in cui è massima la distanza dal Sole, pari a circa $1{,}52\cdot10^{11}$ m. Il perielio è invece il punto che si trova alla minima distanza dal Sole, pari a circa $1{,}47\cdot10^{11}$ m. Determinare, in un opportuno sistema di riferimento, l'equazione che rappresenta la traiettoria della Terra intorno al Sole.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Topics/Fisica|Fisica]]
@@ -133,6 +151,8 @@ d) Verificare che la funzione $H(x)=\frac{1}{2}\left(\arcsin(x)+x\sqrt{1-x^2}\ri
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_prova_1_8|Quesito 8]]*
 
 8. Scrive Carlo Emilio Gadda in uno dei racconti de *L'Adalgisa – Disegni milanesi*: «Le stanze dei numeri primi, i corridoi, l'anticamera e l'uno di due gabinetti, eran pavimentati con piastrelle rosse di piccolo formato: esagonali […]. L'apotema di quelle mattonelle misurava centimetri 5,196: mentre il raggio del circolo circoscritto raggiungeva i 60 millimetri».
    Esprimere la relazione esatta tra apotema e raggio del cerchio circoscritto ad un esagono regolare. Verificare il risultato ottenuto alla luce delle misure indicate dallo scrittore. Spiegare perché, utilizzando piastrelle esagonali regolari tutte congruenti, è possibile pavimentare un piano. Con quali altri poligoni regolari, tra loro congruenti, è possibile pavimentare un piano? Motivare la risposta.

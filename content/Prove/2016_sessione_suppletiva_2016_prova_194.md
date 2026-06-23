@@ -17,6 +17,8 @@ Fonte: p.194 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_suppletiva_2016_prova_194_1|Problema 1]]*
+
 Sei l'amministratore di un condominio che ha deliberato di dotarsi di una sala per le riunioni condominiali, sfruttando uno spazio comune già disponibile, da coprire e attrezzare.
 
 La superficie individuata è rappresentata in figura 1 *(figura nel PDF)*.
@@ -55,6 +57,8 @@ In occasione di una riunione di condominio, un rilevatore di $CO_2$ installato n
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_suppletiva_2016_prova_194_2|Problema 2]]*
+
 Fissato $k\in\mathbb{R}$, la funzione $g_k:\mathbb{R}\to\mathbb{R}$ è così definita: $g_k(x)=e^{-k\cdot x^2}$.
 
 Si indica con $\Gamma_k$ il suo grafico, in un riferimento cartesiano $Oxy$.
@@ -81,6 +85,8 @@ e interpreta il risultato in termini geometrici.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_1|Quesito 1]]*
+
 1. Si consideri questa equazione differenziale: $y''+2y'+2y=x$. Quale delle seguenti funzioni ne è una soluzione? Si giustifichi la risposta.
    a) $y=e^{-x}(\operatorname{sen}x+\cos x)+x$
    b) $y=2e^{-x}+x$
@@ -94,6 +100,8 @@ e interpreta il risultato in termini geometrici.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_2|Quesito 2]]*
+
 2. Data la funzione così definita in $\mathbb{R}$: $f(x)=x\cdot e^{-\left|x^3-1\right|}$, determinarne minimi, massimi ed eventuali asintoti.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -104,6 +112,8 @@ e interpreta il risultato in termini geometrici.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_3|Quesito 3]]*
+
 3. Determinare la velocità di variazione dello spigolo di un cubo, sapendo che il volume del cubo è pari a $0{,}1\ m^3$ e sta diminuendo alla velocità di $1200\ \frac{cm^3}{sec}$.
 
 **Topic:** [[Derivate]], [[Geometria Solida]]
@@ -112,6 +122,8 @@ e interpreta il risultato in termini geometrici.
 **Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_4|Quesito 4]]*
 
 4. Posto, per $n\in\mathbb{N}$, $A_n=\int_{0}^{1} x^n e^x\,dx$, stabilire il valore di $A_1$ e dimostrare che, per ogni $n>0$, si ha $A_n=e-n\,A_{n-1}$.
 
@@ -122,6 +134,8 @@ e interpreta il risultato in termini geometrici.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_5|Quesito 5]]*
+
 5. I lati di un triangolo $ABC$ misurano: $AB=8\ cm$, $BC=6\ cm$, $CA=5\ cm$. Preso a caso un punto $P$ all'interno del triangolo, qual è la probabilità che $P$ sia più vicino al vertice $B$ che al vertice $A$?
 
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
@@ -130,6 +144,8 @@ e interpreta il risultato in termini geometrici.
 **Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_6|Quesito 6]]*
 
 6. I punti $A(3,4,1)$, $B(6,3,2)$, $C(3,0,3)$, $D(0,1,2)$ sono vertici di un quadrilatero $ABCD$. Si dimostri che tale quadrilatero è un parallelogramma e si controlli se esso è un rettangolo.
 
@@ -140,6 +156,8 @@ e interpreta il risultato in termini geometrici.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_7|Quesito 7]]*
+
 7. Determinare la distanza tra il punto $P(2,1,1)$ e la retta:
 $$\begin{cases} x+y=z+1 \\ z=-y+1 \end{cases}$$
 
@@ -149,6 +167,8 @@ $$\begin{cases} x+y=z+1 \\ z=-y+1 \end{cases}$$
 **Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_8|Quesito 8]]*
 
 8. Supponiamo che l'intervallo di tempo $t$ (in anni) tra due cadute di fulmini in un'area di $100\ m^2$ sia dato da una variabile casuale continua con funzione di ripartizione:
 $$P(t\le z)=\int_{0}^{z} 0{,}01\cdot e^{-0{,}01 s}\,ds$$
@@ -162,6 +182,8 @@ $$P(t\le z)=\int_{0}^{z} 0{,}01\cdot e^{-0{,}01 s}\,ds$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_9|Quesito 9]]*
+
 9. Una curva "a spirale" inizia nel punto $A$, come indicato in figura *(figura nel PDF)*, ed è formata congiungendo un numero infinito di semicirconferenze di diametri sempre più piccoli. Il diametro $d_1$ della prima semicirconferenza è di $80\ cm$. Il diametro $d_2$ della seconda è pari ai $\frac{3}{5}$ di $d_1$. Il diametro $d_3$ della terza è pari ai $\frac{3}{5}$ di $d_2$, e così via: $d_{n+1}=\frac{3}{5}d_n$ per ogni $n$. Con lo sviluppo della curva, gli estremi delle varie semicirconferenze tendono al cosiddetto "occhio" $E$ della spirale (ossia l'unico punto contenuto in tutti i vari diametri). Qual è la distanza (in linea retta) tra il punto $A$ e il punto $E$? E qual è la lunghezza del cammino che va da $A$ a $E$, percorrendo l'intera curva?
 
 **Topic:** [[Successioni e Serie]], [[Geometria Euclidea]]
@@ -170,6 +192,8 @@ $$P(t\le z)=\int_{0}^{z} 0{,}01\cdot e^{-0{,}01 s}\,ds$$
 **Soluzione:** [[Soluzioni/2016_sessione_suppletiva_2016_prova_194#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.194](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_suppletiva_2016_prova_194_10|Quesito 10]]*
 
 10. Si stabilisca il valore del limite:
 $$\lim_{x\to+\infty}\frac{2-73\cos^3\!\left(4x+\frac{\pi}{11}\right)}{5x-\operatorname{sen}^2\!\left(x-\frac{\pi}{7}\right)},$$

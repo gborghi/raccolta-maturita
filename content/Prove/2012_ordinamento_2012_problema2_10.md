@@ -16,6 +16,8 @@ Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_ordinamento_2012_problema2_10_1|Problema 1]]*
+
 Siano dati i punti $A=(3;0)$ e $B=(0;3)$. Si consideri l'arco $L$ di parabola di equazione $x^2=9-6y$, con estremi $A$ e il punto $\left(0;\frac{3}{2}\right)$, e l'arco di circonferenza di centro $O$ e raggio $3$, di equazione $x^2+y^2=9$, con estremi $A$ e $B$.
 
 **1)** Si rappresentino nello stesso sistema di riferimento cartesiano la parabola, la circonferenza e la retta $r$ tangente in $A$ all'arco $L$. Si calcolino le aree delle due regioni $1$ e $2$ in cui la curva $L$ divide il quarto di cerchio. *(figura nel PDF)*

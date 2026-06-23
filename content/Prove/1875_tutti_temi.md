@@ -17,6 +17,8 @@ Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1875_tutti_temi_3|Problema 1]]*
+
 **Problema 1.** Trovare, con tre decimali esatti, una soluzione comune alle due equazioni
 $$2x^2 + 4xy + 13x + 6y + 1 = 0,$$
 $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
@@ -27,6 +29,8 @@ $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
 **Fonte:** [📄 Testo (PDF) — p.45](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1875_tutti_temi_1|Problema 2]]*
 
 **Problema 2.** Date tre tangenti e la direzione dei diametri di una parabola, trovare:
 
@@ -41,6 +45,8 @@ $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1875_tutti_temi_4|Problema 2]]*
+
 **Problema 2.** Descrivere una parabola tangente a tre rette date e passante per un punto dato.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Geometria Euclidea]]
@@ -49,6 +55,8 @@ $$x^2 + 6xy + 19x + 4y + 2 = 0.$$
 **Fonte:** [📄 Testo (PDF) — p.45](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 4
+
+*↳ Nota atomica: [[Problemi/prob_1875_tutti_temi_2|Problema 4]]*
 
 **Problema 4.** Fra due rette date allogare un segmento che sia veduto da due punti fissi sotto angoli dati.
 

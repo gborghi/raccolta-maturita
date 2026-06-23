@@ -16,6 +16,8 @@ Fonte: p.69 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_straordinaria_2018_problema2_69_1|Problema 1]]*
+
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, così definita:
 
 $$f(x)=\ln(a\cdot e^{bx}+c)$$

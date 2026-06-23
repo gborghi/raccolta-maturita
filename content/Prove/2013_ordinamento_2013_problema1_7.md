@@ -16,6 +16,8 @@ Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_ordinamento_2013_problema1_7_1|Problema 1]]*
+
 Sia data la funzione
 $$f(x)=\int_0^x\left[\cos\left(\frac{t}{2}\right)+\frac{1}{2}\right]dt,\qquad \text{con } x\in[0;9].$$
 

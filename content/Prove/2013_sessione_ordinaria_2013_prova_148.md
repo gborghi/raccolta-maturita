@@ -17,6 +17,8 @@ Fonte: p.148 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmk
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_148_1|Problema 1]]*
+
 Una funzione $f(x)$ è definita e derivabile, insieme alle sue derivate prima e seconda, in $[0,+\infty[$ e nella figura sono disegnati i grafici $\Gamma$ e $\Lambda$ di $f(x)$ e della sua derivata seconda $f''(x)$. La tangente a $\Gamma$ nel suo punto di flesso, di coordinate $(2;4)$, passa per $(0;0)$, mentre le rette $y=8$ e $y=0$ sono asintoti orizzontali per $\Gamma$ e $\Lambda$, rispettivamente. *(figura nel PDF)*
 
 1. Si dimostri che la funzione $f'(x)$, ovvero la derivata prima di $f(x)$, ha un massimo e se ne determinino le coordinate. Sapendo che per ogni $x$ del dominio è: $f''(x)\leq f'(x)\leq f(x)$, qual è un possibile andamento di $f'(x)$?
@@ -34,6 +36,8 @@ Una funzione $f(x)$ è definita e derivabile, insieme alle sue derivate prima e 
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_148#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.148](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_148_2|Problema 2]]*
 
 Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 
@@ -53,6 +57,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_1|Quesito 1]]*
+
 1. Un triangolo ha area $3$ e due lati che misurano $2$ e $3$. Qual è la misura del terzo lato? Si giustifichi la risposta.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -61,6 +67,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_148#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.148](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_2|Quesito 2]]*
 
 2. Se la funzione $f(x)-f(2x)$ ha derivata $5$ in $x=1$ e derivata $7$ in $x=2$, qual è la derivata di $f(x)-f(4x)$ in $x=1$?
 
@@ -71,6 +79,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_3|Quesito 3]]*
+
 3. Si considerino, nel piano cartesiano, i punti $A(2;-1)$ e $B(-6;-8)$. Si determini l'equazione della retta passante per $B$ e avente distanza massima da $A$.
 
 **Topic:** [[Geometria Analitica (piano)]]
@@ -79,6 +89,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_148#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.148](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_4|Quesito 4]]*
 
 4. Di un tronco di piramide retta a base quadrata si conoscono l'altezza $h$ e i lati $a$ e $b$ delle due basi. Si esprima il volume $V$ del tronco in funzione di $a$, $b$ e $h$, illustrando il ragionamento seguito.
 
@@ -89,6 +101,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_5|Quesito 5]]*
+
 5. In un libro si legge: *"se per la dilatazione corrispondente a un certo aumento della temperatura un corpo si allunga (in tutte le direzioni) di una certa percentuale (p.es. 0,38%), esso si accresce in volume in proporzione tripla (cioè dell'1,14%), mentre la sua superficie si accresce in proporzione doppia (cioè di 0,76%)"*. È così? Si motivi esaurientemente la risposta.
 
 **Topic:** [[Geometria Solida]]
@@ -97,6 +111,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_148#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.148](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_6|Quesito 6]]*
 
 6. Con le cifre da $1$ a $7$ è possibile formare $7!=5040$ numeri corrispondenti alle permutazioni delle $7$ cifre. Ad esempio i numeri $1234567$ e $3546712$ corrispondono a due di queste permutazioni. Se i $5040$ numeri ottenuti dalle permutazioni si dispongono in ordine crescente qual è il numero che occupa la $5036$-esima posizione e quale quello che occupa la $1441$-esima posizione?
 
@@ -107,6 +123,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_7|Quesito 7]]*
+
 7. In un gruppo di $10$ persone il $60\%$ ha occhi azzurri. Dal gruppo si selezionano a caso due persone. Quale è la probabilità che nessuna di esse abbia occhi azzurri?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -115,6 +133,8 @@ Sia $f$ la funzione definita per tutti gli $x$ positivi da $f(x)=x^3\ln x$.
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_148#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.148](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_8|Quesito 8]]*
 
 8. Si mostri, senza utilizzare il teorema di l'Hôpital, che
 $$\lim_{x\to \pi}\frac{e^{sen x}-e^{sen \pi}}{x-\pi}=-1$$
@@ -126,6 +146,8 @@ $$\lim_{x\to \pi}\frac{e^{sen x}-e^{sen \pi}}{x-\pi}=-1$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_9|Quesito 9]]*
+
 9. Tre amici discutono animatamente di numeri reali. Anna afferma che sia i numeri razionali che gli irrazionali sono infiniti e dunque i razionali sono tanti quanti gli irrazionali. Paolo sostiene che gli irrazionali costituiscono dei casi eccezionali, ovvero che la maggior parte dei numeri reali sono razionali. Luisa afferma, invece, il contrario: sia i numeri razionali che gli irrazionali sono infiniti, ma esistono più numeri irrazionali che razionali. Chi ha ragione? Si motivi esaurientemente la risposta.
 
 **Topic:** [[Successioni e Serie]]
@@ -134,6 +156,8 @@ $$\lim_{x\to \pi}\frac{e^{sen x}-e^{sen \pi}}{x-\pi}=-1$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_148#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.148](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_148_10|Quesito 10]]*
 
 10. Si stabilisca per quali valori $k\in R$ l'equazione $x^3(3-x)=k$ ammette due soluzioni distinte appartenenti all'intervallo $[0,3]$. Posto $k=3$, si approssimi con due cifre decimali la maggiore di tali soluzioni, applicando uno dei metodi iterativi studiati.
 

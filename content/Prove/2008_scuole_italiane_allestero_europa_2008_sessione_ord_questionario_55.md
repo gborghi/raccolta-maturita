@@ -16,6 +16,8 @@ Fonte: p.55 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_questionario_55_1|Problema 1]]*
+
 Il candidato risolva uno dei due problemi e risponda a 4 degli 8 quesiti del questionario.
 
 1. La regione $R$ delimitata dal grafico di $y=7\sqrt[3]{x}$, dall'asse $x$ e dalla retta $x=2$ è la base di un solido $S$ le cui sezioni, ottenute tagliando $S$ con piani perpendicolari all'asse $x$, sono tutte dei quadrati. Si calcoli il volume di $S$.

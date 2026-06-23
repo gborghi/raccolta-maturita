@@ -17,6 +17,8 @@ Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_1|Quesito 1]]*
+
 **Quesito 1.** Nota la lunghezza di una corda di un cerchio di dato raggio, calcolare quella della corda sottesa dall'angolo al centro uguale alla metà di quello che sottende la corda data. (Nota – La risoluzione del problema è stata usata da Tolomeo, II sec. d.C., per la costruzione di una tavola trigonometrica in maniera equivalente alla nostra formula di bisezione del seno).
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -26,6 +28,8 @@ Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_2|Quesito 2]]*
+
 **Quesito 2.** Nello spazio ordinario sono dati due piani $\alpha$ e $\beta$ e una retta $r$. Si sa che $r$ è parallela ad $\alpha$ e perpendicolare a $\beta$. Cosa si può concludere circa la posizione reciproca di $\alpha$ e $\beta$? Fornire un'esauriente spiegazione della risposta.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -34,6 +38,8 @@ Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_3|Quesito 3]]*
 
 **Quesito 3.** Il dominio della funzione $f(x) = \sqrt{x - \sqrt{x^2 - 2x}}$ è l'insieme degli $x$ reali tali che:
 $$A)\ x \le 0 \ \text{e/o}\ x > 2; \quad B)\ x \le 0 \ \text{e/o}\ x \ge 2; \quad C)\ x = 0 \ \text{e/o}\ x > 2; \quad D)\ x = 0 \ \text{e/o}\ x \ge 2$$
@@ -46,6 +52,8 @@ $$A)\ x \le 0 \ \text{e/o}\ x > 2; \quad B)\ x \le 0 \ \text{e/o}\ x \ge 2; \qua
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_4|Quesito 4]]*
+
 **Quesito 4.** Si consideri un polinomio di grado $n \ge 2$ nella variabile reale $x$ con coefficienti reali. Dimostrare che condizione necessaria e sufficiente affinché esso ammetta due zeri uguali al numero reale $\alpha$ è che il valore del polinomio e quello della sua derivata prima si annullino per $x = \alpha$.
 
 **Topic:** [[Derivate]], [[Equazioni e Disequazioni]]
@@ -54,6 +62,8 @@ $$A)\ x \le 0 \ \text{e/o}\ x > 2; \quad B)\ x \le 0 \ \text{e/o}\ x \ge 2; \qua
 **Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_5|Quesito 5]]*
 
 **Quesito 5.** Stabilire se esistono i limiti della funzione $f(x) = (1 + x)^{\frac{1}{x}}$ per:
 $$a)\ x \to +\infty; \qquad b)\ x \to -\infty; \qquad c)\ x \to 0;$$
@@ -66,6 +76,8 @@ e, in caso di risposta affermativa, determinarli.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_6|Quesito 6]]*
+
 **Quesito 6.** Si consideri il seguente sistema di equazioni nelle incognite $x, y, z$:
 $$\begin{cases} kx + y + z = 0 \\ x + ky + z = 0 \\ x + y + kz = 0 \end{cases}$$
 dove $k$ è un parametro reale. Dire se l'affermazione: «il sistema ammette la sola soluzione $x = 0, y = 0, z = 0$ per ogni valore di $k$ diverso da $1$» è vera o falsa e fornire una spiegazione esauriente della risposta.
@@ -77,6 +89,8 @@ dove $k$ è un parametro reale. Dire se l'affermazione: «il sistema ammette la 
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_7|Quesito 7]]*
+
 **Quesito 7.** Utilizzando il procedimento preferito, dimostrare la formula che fornisce l'area della regione piana racchiusa da un'ellisse di semiassi noti.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -85,6 +99,8 @@ dove $k$ è un parametro reale. Dire se l'affermazione: «il sistema ammette la 
 **Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.134](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_8|Quesito 8]]*
 
 **Quesito 8.** In un piano riferito a un sistema di assi cartesiani ortogonali $(Oxy)$ sono date le affinità di equazioni:
 $$\begin{cases} x' = (a+1)x - by + a \\ y' = (a-1)x + 2by - 1 \end{cases}$$
@@ -97,6 +113,8 @@ dove $a, b$ sono parametri reali. Dimostrare che fra esse vi è una similitudine
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_9|Quesito 9]]*
+
 **Quesito 9.** Un'urna contiene $30$ palline uguali in tutto e per tutto fuorché nel colore: infatti $18$ sono bianche e $12$ nere. Vengono estratte a caso, una dopo l'altra, due palline. Qual è la probabilità che la seconda pallina estratta sia bianca sapendo che la prima:
 a) è bianca e viene rimessa nell'urna?
 b) è bianca e non viene rimessa nell'urna?
@@ -108,6 +126,8 @@ c) è messa da parte senza guardarne il colore?
 **Soluzione:** [[Soluzioni/2003_suppletiva_pni_2003_questionario_131#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.136](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_10|Quesito 10]]*
 
 **Quesito 10.** Considerata l'equazione in $x$:
 $$ax^2 + bx + c = 0$$

@@ -16,6 +16,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_pni_2014_sessione_suppletiva_problema2_94_1|Problema 1]]*
+
 Si consideri la funzione:
 
 $$f(x) = \frac{e^x(x - 1)}{x^2}$$

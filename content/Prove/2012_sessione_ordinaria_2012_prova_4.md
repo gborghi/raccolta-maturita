@@ -17,6 +17,8 @@ Fonte: p.4 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrC
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_ordinaria_2012_prova_4_1|Problema 1]]*
+
 Siano $f$ e $g$ le funzioni definite, per tutti gli $x$ reali, da
 
 $$f(x)=\left|27x^3\right| \qquad e \qquad g(x)=\operatorname{sen}\left(\frac{3}{2}\pi x\right)$$
@@ -37,6 +39,8 @@ $$f(x)=\left|27x^3\right| \qquad e \qquad g(x)=\operatorname{sen}\left(\frac{3}{
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_ordinaria_2012_prova_4_2|Problema 2]]*
+
 Nel primo quadrante del sistema di riferimento $Oxy$ sono assegnati l'arco di circonferenza di centro $O$ e estremi $A(3,0)$ e $B(0,3)$ e l'arco $L$ della parabola d'equazione $x^2=9-6y$ i cui estremi sono il punto $A$ e il punto $(0,3/2)$.
 
 1. Sia $r$ la retta tangente in $A$ a $L$. Si calcoli l'area di ciascuna delle due parti in cui $r$ divide la regione $R$ racchiusa tra $L$ e l'arco $AB$.
@@ -56,6 +60,8 @@ Nel primo quadrante del sistema di riferimento $Oxy$ sono assegnati l'arco di ci
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_1|Quesito 1]]*
+
 1. Cosa rappresenta il limite seguente e qual è il suo valore?
 
 $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{h}$$
@@ -67,6 +73,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_2|Quesito 2]]*
+
 2. Si illustri il significato di asintoto e si fornisca un esempio di funzione $f(x)$ il cui grafico presenti un asintoto orizzontale e due asintoti verticali.
 
 **Topic:** [[Limiti e Continuita]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -75,6 +83,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_3|Quesito 3]]*
 
 3. La posizione di una particella è data da $s(t)=20\left(2e^{-\frac{t}{2}}+t-2\right)$. Qual è la sua accelerazione al tempo $t=4$?
 
@@ -85,6 +95,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_4|Quesito 4]]*
+
 4. Quale è la capacità massima, in litri, di un cono di apotema $1$ metro?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -93,6 +105,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_5|Quesito 5]]*
 
 5. Siano dati nello spazio $n$ punti $P_1, P_2, P_3, \dots, P_n$. Quanti sono i segmenti che li congiungono a due a due? Quanti i triangoli che hanno per vertici questi punti (supposto che nessuna terna sia allineata)? Quanti i tetraedri (supposto che nessuna quaterna sia complanare)?
 
@@ -103,6 +117,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_6|Quesito 6]]*
+
 6. Sia $f(x)=5\operatorname{sen}x\cos x+\cos^2 x-\operatorname{sen}^2 x-\frac{5}{2}\operatorname{sen}2x-\cos 2x-17$; si calcoli $f'(x)$.
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -111,6 +127,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_7|Quesito 7]]*
 
 7. È dato un tetraedro regolare di spigolo $l$ e altezza $h$. Si determini l'ampiezza dell'angolo $\alpha$ formato da $l$ e da $h$.
 
@@ -121,6 +139,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_8|Quesito 8]]*
+
 8. Qual è il valor medio di $f(x)=\frac{1}{x}$ da $x=1$ a $x=e$?
 
 **Topic:** [[Calcolo Integrale]]
@@ -130,6 +150,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_9|Quesito 9]]*
+
 9. Il problema di Erone (matematico alessandrino vissuto probabilmente nella seconda metà del I secolo d.C.) consiste, assegnati nel piano due punti $A$ e $B$, situati dalla stessa parte rispetto ad una retta $r$, nel determinare il cammino minimo che congiunge $A$ con $B$ toccando $r$. Si risolva il problema nel modo che si preferisce.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
@@ -138,6 +160,8 @@ $$\lim_{h\to 0}\frac{5\left(\frac{1}{2}+h\right)^4-5\left(\frac{1}{2}\right)^4}{
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_4#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.4](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_4_10|Quesito 10]]*
 
 10. Quale delle seguenti funzioni è positiva per ogni $x$ reale?
 

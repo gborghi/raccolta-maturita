@@ -17,6 +17,8 @@ Fonte: p.124 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdB
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2014_11_124_1|Problema 1]]*
+
 Nella figura è rappresentato in modo qualitativo il grafico cartesiano di una funzione reale $f(x)$, definita, continua e derivabile in $\mathbb{R}$, e di cui si sa che:
 - $\displaystyle\lim_{x\to\infty} f(x)=0$;
 - è simmetrica rispetto all'origine $O$ del riferimento;
@@ -42,6 +44,8 @@ d) Supponi che, per $x\ge 0$, $x$ rappresenti il tempo (in secondi) e $f(x)$ la 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2014_11_124#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2014_11_124_2|Problema 2]]*
 
 Si vuole sperimentare una nuova turbina, con una pala che ha la forma schematizzata in figura. Una qualunque sezione con un piano perpendicolare all'asse di rotazione $z$ può essere rappresentata con la funzione $f(x)$, definita e continua nell'intervallo $[-4;6]$, di cui è assegnato il grafico in figura e di cui si sa che:
 - i tratti $AB$, $CD$ ed $EF$ sono segmenti di retta;

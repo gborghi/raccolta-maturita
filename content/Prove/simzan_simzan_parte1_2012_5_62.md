@@ -17,6 +17,8 @@ Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBf
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2012_5_62_1|Problema 1]]*
+
 Sono date la famiglia di funzioni
 $$f(x) = ax^3 + x, \quad \text{con } a \in \mathbb{R},$$
 e la funzione
@@ -39,6 +41,8 @@ e) Si calcoli il volume del solido che ha come base la parte finita di piano app
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_5_62#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2012_5_62_2|Problema 2]]*
 
 Nel riferimento cartesiano $xOy$ si consideri la funzione $f(x)$ definita e continua in $]-4;\, +\infty[$, e con la derivata seconda $f''(x)$ avente il grafico riportato nella figura.
 
@@ -64,6 +68,8 @@ e) Si calcoli il volume del solido ottenuto dalla rotazione completa intorno all
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_1|Quesito 1]]*
+
 1. Dati due insiemi $A$ e $B$, costituiti rispettivamente da 6 e da 5 elementi tutti distinti, si determini il numero di funzioni suriettive da $A$ a $B$ che è possibile definire.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -73,6 +79,8 @@ e) Si calcoli il volume del solido ottenuto dalla rotazione completa intorno all
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_2|Quesito 2]]*
+
 2. Si calcoli il seguente limite, applicando almeno due metodi: $\displaystyle\lim_{x \to 0} \frac{1 - \cos x + \operatorname{sen} x}{1 - \cos x - \operatorname{sen} x}$.
 
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
@@ -81,6 +89,8 @@ e) Si calcoli il volume del solido ottenuto dalla rotazione completa intorno all
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_5_62#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_3|Quesito 3]]*
 
 3. La quantità $q$ domandata, e venduta, di un bene di consumo in funzione del prezzo unitario $p$ (in euro) è espressa dalla seguente relazione: $q = 500 - 25p$. Se il prezzo unitario non supera € 15,00, per quale valore del prezzo il ricavo che si ottiene dalla vendita è massimo? Si disegnino i grafici del ricavo in funzione del prezzo unitario e in funzione della quantità venduta.
 
@@ -92,6 +102,8 @@ e) Si calcoli il volume del solido ottenuto dalla rotazione completa intorno all
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_4|Quesito 4]]*
+
 4. Nel piano cartesiano $xOy$ si consideri la parabola $\gamma$ di equazione $y = kx^2$, con $k > 0$. Preso un punto $P$ di ascissa positiva su $\gamma$, si considerino la tangente a $\gamma$ in $P$, che interseca l'asse $x$ in $Q$, e la parallela all'asse $x$ passante per $P$, che interseca $\gamma$ in un altro punto $P'$. Si determini il limite del rapporto fra l'area del segmento parabolico individuato dalla corda $PP'$ e l'area del triangolo curvilineo individuato da $PQ$, $QO$ e dall'arco $OP$, al tendere di $P$ all'infinito.
 
 **Topic:** [[Calcolo Integrale]], [[Limiti e Continuita]], [[Geometria Analitica (piano)]]
@@ -100,6 +112,8 @@ e) Si calcoli il volume del solido ottenuto dalla rotazione completa intorno all
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_5_62#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_5|Quesito 5]]*
 
 5. È data una funzione $f(x)$, continua e derivabile con derivata puntualmente minore della funzione esponenziale $y = e^x$ (con $e$ base del logaritmo naturale); si dimostri che: $f(1) - f(0) < e$.
 
@@ -110,6 +124,8 @@ e) Si calcoli il volume del solido ottenuto dalla rotazione completa intorno all
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_6|Quesito 6]]*
+
 6. Dato il cubo in figura, si determini l'ampiezza del diedro convesso che ha per spigolo $BD'$ e per facce i piani $A'D'B$ e $C'D'B$. *(figura nel PDF)*
 
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
@@ -118,6 +134,8 @@ e) Si calcoli il volume del solido ottenuto dalla rotazione completa intorno all
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_5_62#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_7|Quesito 7]]*
 
 7. Si consideri la seguente funzione definita a tratti:
 $$f(x) = \begin{cases} x^2 + p^3 & \text{se } x < 0 \\ p & \text{se } 0 \le x < 1 \\ \dfrac{x + q}{x + 1} & \text{se } x \ge 2 \end{cases}$$
@@ -131,6 +149,8 @@ essendo $p$, $q$ due costanti reali. Per quali coppie ordinate $(p;\, q)$ di val
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_8|Quesito 8]]*
+
 8. Sia data la funzione: $g(x) = \displaystyle\int_x^{2x} f(t)\, dt$, con $f(t)$ continua su $\mathbb{R}$. Sapendo che $f(0) = -\dfrac{1}{2}$, $f\left(\dfrac{1}{2}\right) = \dfrac{1}{4}$ e $f(1) = 1$, si calcolino $g(0)$, $g'(0)$ e $g'\left(\dfrac{1}{2}\right)$.
 
 **Topic:** [[Funzioni Integrali]], [[Derivate]]
@@ -140,6 +160,8 @@ essendo $p$, $q$ due costanti reali. Per quali coppie ordinate $(p;\, q)$ di val
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_9|Quesito 9]]*
+
 9. È data la funzione: $f(x) = \begin{cases} x^3 - 2x & \text{se } x < 1 \\ \ln x & \text{se } x \ge 1 \end{cases}$. Si stabilisca, dando adeguata motivazione, il valore di verità della seguente proposizione: "Poiché $\displaystyle\lim_{x \to 1^-} f'(x) = \lim_{x \to 1^+} f'(x) = 1$, la funzione è derivabile in $x = 1$ con derivata uguale a 1".
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -148,6 +170,8 @@ essendo $p$, $q$ due costanti reali. Per quali coppie ordinate $(p;\, q)$ di val
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2012_5_62#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2012_5_62_10|Quesito 10]]*
 
 10. Il signor Pierluigi, appassionato di disegno tecnico, prendendo spunto dall'Uomo vitruviano di Leonardo rappresentato nella moneta da 1 euro, con qualche leggera modifica ottiene il disegno della figura, dove scopre che il rapporto tra il raggio del cerchio e il lato del quadrato è $\dfrac{5}{8}$. Mediante le relazioni della trigonometria, si dimostri che ha ragione. *(figura nel PDF)*
 

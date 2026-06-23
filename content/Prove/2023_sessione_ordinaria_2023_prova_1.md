@@ -17,6 +17,8 @@ Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYt
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_ordinaria_2023_prova_1_1|Problema 1]]*
+
 Il grafico in figura, rappresentativo della funzione continua $y=f(x)$, è unione dell'arco di parabola $\Gamma_1$, dell'arco di circonferenza $\Gamma_2$ e dell'arco di iperbole $\Gamma_3$.
 
 *(figura nel PDF)*
@@ -40,6 +42,8 @@ d) Sia $S$ la regione limitata del secondo quadrante, compresa tra il grafico $\
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_ordinaria_2023_prova_1_2|Problema 2]]*
+
 Fissato un parametro reale $a$, con $a\neq 0$, si consideri la funzione $f_a$ così definita:
 $$f_a(x)=\frac{x^2-ax}{x^2-a}$$
 il cui grafico sarà indicato con $\Omega_a$.
@@ -60,6 +64,8 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_1|Quesito 1]]*
+
 1. Sia $ABC$ un triangolo rettangolo in $A$. Sia $O$ il centro del quadrato $BCDE$ costruito sull'ipotenusa, dalla parte opposta al vertice $A$. Dimostrare che $O$ è equidistante dalle rette $AB$ e $AC$.
 
 **Topic:** [[Geometria Euclidea]]
@@ -68,6 +74,8 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.12](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_2|Quesito 2]]*
 
 2. Un dado truccato, con le facce numerate da 1 a 6, gode della proprietà di avere ciascuna faccia pari che si presenta con probabilità doppia rispetto a ciascuna faccia dispari. Calcolare le probabilità di ottenere, lanciando una volta il dado, rispettivamente:
    - un numero primo
@@ -81,6 +89,8 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_3|Quesito 3]]*
+
 3. Considerata la retta $r$ passante per i due punti $A(1,-2,0)$ e $B(2,3,-1)$, determinare l'equazione cartesiana della superficie sferica di centro $C(1,-6,7)$ e tangente a $r$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -89,6 +99,8 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.14](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_4|Quesito 4]]*
 
 4. Tra tutti i parallelepipedi a base quadrata di volume $V$, stabilire se quello di area totale minima ha anche diagonale di lunghezza minima.
 
@@ -99,6 +111,8 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_5|Quesito 5]]*
+
 5. Determinare l'equazione della retta tangente alla curva di equazione $y=\sqrt{25-x^2}$ nel suo punto di ascissa 3, utilizzando due metodi diversi.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -107,6 +121,8 @@ d) Determinare l'area della regione limitata compresa tra il grafico $\Omega_{-1
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_6|Quesito 6]]*
 
 6. Determinare i valori dei parametri reali $a$ e $b$ affinché:
 $$\lim_{x\to 0}\frac{\operatorname{sen} x-(ax^3+bx)}{x^3}=1$$
@@ -118,6 +134,8 @@ $$\lim_{x\to 0}\frac{\operatorname{sen} x-(ax^3+bx)}{x^3}=1$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_7|Quesito 7]]*
+
 7. Si consideri la funzione:
 $$f(x)=\begin{cases}-1+\arctan x & x<0\\ ax+b & x\geq 0\end{cases}$$
 Determinare per quali valori dei parametri reali $a$, $b$ la funzione è derivabile. Stabilire se esiste un intervallo di $\mathbb{R}$ in cui la funzione $f$ soddisfa le ipotesi del teorema di Rolle. Motivare la risposta.
@@ -128,6 +146,8 @@ Determinare per quali valori dei parametri reali $a$, $b$ la funzione è derivab
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.19](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_prova_1_8|Quesito 8]]*
 
 8. Data la funzione $f_a(x)=x^5-5ax+a$, definita nell'insieme dei numeri reali, stabilire per quali valori del parametro $a>0$ la funzione possiede tre zeri reali distinti.
 

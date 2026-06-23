@@ -16,6 +16,8 @@ Fonte: p.24 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_scuole_italiane_allestero_americhe_2009_sessione_o_questionario_24_1|Problema 1]]*
+
 1. Si dimostri che l'equazione $x^{19}+19x+11=0$ ha una sola radice compresa fra $-1$ e $0$.
 
 2. Si determini il periodo della funzione $f(x)=\cos(7x)$.

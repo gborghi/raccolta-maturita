@@ -17,6 +17,8 @@ Fonte: p.116 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_straordinaria_2014_prova_116_1|Problema 1]]*
+
 Siano $ABC$ e $ABD$ due triangoli, il secondo rettangolo. Nel triangolo $ABC$ il lato $BC$ è il doppio di $CA=1$ mentre nel triangolo $ABD$, con $D$ dalla parte opposta di $C$ rispetto ad $AB$, il cateto $AB$ è il doppio di $BD$.
 
 1. Si mostri che l'area del quadrilatero $ADBC$ in funzione dell'angolo $A\hat{C}B=\varphi$ è espressa da:
@@ -33,6 +35,8 @@ $$f(\varphi)=\operatorname{sen}\varphi+\frac{5}{4}\cos\varphi$$
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_straordinaria_2014_prova_116_2|Problema 2]]*
+
 Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 
 1. Si studi $f$ e si verifichi che il suo grafico $\Gamma$ ha l'andamento riportato in figura. La funzione $f$ è invertibile? Se sì, quale è l'espressione della sua inversa? *(figura nel PDF)*
@@ -48,6 +52,8 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_1|Quesito 1]]*
+
 1. Un gruppo di attivisti antinucleari ha organizzato una marcia di protesta verso un sito scelto per la costruzione di una centrale termonucleare. Essi camminano, in pianura, con velocità costante, dirigendosi in linea retta verso le torri di raffreddamento dell'impianto, che sono già state costruite. Alle 7 uno degli organizzatori della marcia antinucleare vede la cima della torre di raffreddamento con un angolo di elevazione di $2°$; 30 minuti più tardi l'ampiezza dell'angolo è pari a $5°$. Si calcoli a che ora il gruppo raggiungerà il cantiere, arrotondando il risultato al minuto.
 
 **Topic:** [[Trigonometria]]
@@ -56,6 +62,8 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_2|Quesito 2]]*
 
 2. Si calcoli il limite della funzione $\dfrac{e^{x^2}-1}{3x^2+x^3}$, quando $x$ tende a $0$.
 
@@ -66,6 +74,8 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_3|Quesito 3]]*
+
 3. Sia $AB=2{,}5$ m l'altezza di una statua e $BP=2$ m l'altezza del piedistallo su cui essa poggia. Si determini sul piano orizzontale passante per il punto $P$ d'appoggio del piedistallo il luogo dei punti tali che da essi la statua sia vista sotto angolo massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Trigonometria]]
@@ -74,6 +84,8 @@ Sia $f$ la funzione definita da: $f(x)=\dfrac{1-x}{1+x}$.
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_4|Quesito 4]]*
 
 4. Si scrivano le equazioni della tangente e della normale al diagramma della funzione:
 $$f(x)=\frac{3}{4}x^2-\frac{1}{4}\log\left(\frac{1}{1+x^2}\right)-\frac{1}{3}x^2+x$$
@@ -86,6 +98,8 @@ nel punto $P$ di ascissa $x=0$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_5|Quesito 5]]*
+
 5. La regione del I quadrante delimitata dall'iperbole di equazione $9x^2-4y^2=36$ e dall'asse $x$ nell'intervallo $2\le x\le 4$, è la base di un solido $S$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte esagoni regolari. Si calcoli il volume di $S$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -95,6 +109,8 @@ nel punto $P$ di ascissa $x=0$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_6|Quesito 6]]*
+
 6. Si determini in gradi e primi (sessagesimali) l'ampiezza dell'angolo $\varphi$ sotto il quale la curva di equazione $f(x)=\dfrac{x^2+1}{2x+3}$ taglia l'asse delle $y$.
 
 **Topic:** [[Derivate]], [[Trigonometria]], [[Geometria Analitica (piano)]]
@@ -103,6 +119,8 @@ nel punto $P$ di ascissa $x=0$.
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_7|Quesito 7]]*
 
 7. Tenuto conto che:
 $$\frac{\pi}{4}=\int_2^4\frac{1}{x^2-4x+5}\,dx,$$
@@ -115,6 +133,8 @@ si calcoli un'approssimazione di $\dfrac{\pi}{4}$, utilizzando uno dei metodi di
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_8|Quesito 8]]*
+
 8. Si dica se è possibile che sia:
 $$\binom{n}{k+1}=\binom{n}{k-1}$$
 
@@ -125,6 +145,8 @@ $$\binom{n}{k+1}=\binom{n}{k-1}$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_9|Quesito 9]]*
+
 9. Un solido $\Omega$ è formato da un cilindro equilatero di raggio $r$ e da due coni equilateri, aventi le basi coincidenti con quelle del cilindro ed esterni al cilindro. Se si sceglie a caso un punto all'interno di $\Omega$, qual è la probabilità che tale punto risulti interno al cilindro?
 
 **Topic:** [[Probabilita]], [[Geometria Solida]]
@@ -133,6 +155,8 @@ $$\binom{n}{k+1}=\binom{n}{k-1}$$
 **Soluzione:** [[Soluzioni/2014_sessione_straordinaria_2014_prova_116#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_straordinaria_2014_prova_116_10|Quesito 10]]*
 
 10. Qual è il numero delle cinquine che si possono ottenere completando l'ambo $\{3, 25\}$?
 

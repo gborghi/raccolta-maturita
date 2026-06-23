@@ -17,6 +17,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1890_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Un cilindro e un tronco di cono hanno a comune una base e l'altezza, e il rapporto dei loro volumi è il numero $a$. Trovare il rapporto dei raggi delle due basi del tronco di cono e discutere il risultato.
 
 **Topic:** [[Geometria Solida]], [[Successioni e Serie]], [[Equazioni e Disequazioni]]
@@ -26,6 +28,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1890_tutti_temi_3|Problema 1]]*
+
 **Problema 1.** In un cono si conosce la differenza fra la superficie laterale e quella della base, e si conosce la somma di queste due superficie. Trovare l'apotema e l'altezza del cono, e il raggio della base, e discutere i risultati.
 
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
@@ -34,6 +38,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.50](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1890_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Un cono cavo contiene $n$ sfere collocate una sopra l'altra, in modo che ciascuna sfera tocca la sfera che le sta sotto, quella che le sta sopra e la superficie interna del cono. Conoscendo il raggio della sfera suprema e la distanza del suo centro dal vertice del cono, trovare il raggio e la distanza analoga per un'altra qualunque delle sfere; e dimostrare che i raggi delle sfere formano una progressione geometrica, che le distanze dei centri dal vertice del cono formano un'altra progressione geometrica e che le due progressioni hanno la stessa ragione.
 

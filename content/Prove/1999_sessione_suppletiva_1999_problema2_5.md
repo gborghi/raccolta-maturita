@@ -16,6 +16,8 @@ Fonte: p.5 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_sessione_suppletiva_1999_problema2_5_1|Problema 1]]*
+
 Si deve costruire un recipiente a forma di cilindro circolare retto che abbia una capacità di $16\pi \ \text{cm}^3$.
 
 a) Il candidato determini le dimensioni del recipiente che richiederanno la quantità minima di materiale.

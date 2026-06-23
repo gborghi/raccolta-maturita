@@ -16,6 +16,8 @@ Fonte: p.52 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema1_52_1|Problema 1]]*
+
 Nel piano cartesiano $Oxy$ è data la circonferenza $\mathcal{C}$ d'equazione $x^2+y^2=25$.
 
 a) Si scrivano le equazioni delle tangenti a $\mathcal{C}$ nei suoi punti d'ordinata $y=3$.

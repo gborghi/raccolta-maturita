@@ -16,6 +16,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_liceo_della_comunicazione_2013_problema1_48_1|Problema 1]]*
+
 I due cerchi $\Sigma$ e $\Delta$, in figura, hanno uguale raggio $4$ e i rispettivi centri nei punti $(-2;0)$ e $(2;0)$. Con $\Gamma$ è denotata la loro parte comune e con $A$ e $B$ le intersezioni delle loro circonferenze.
 
 *(figura nel PDF)*

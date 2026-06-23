@@ -16,6 +16,8 @@ Fonte: p.132 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_simulazione___22_aprile_2015_problema2_132_1|Problema 1]]*
+
 22-APRILE-2015_Problema2_132
 parent_node: prova_2015_simulazione___22_aprile_2015_problema2_132
 tipo_item: Problema

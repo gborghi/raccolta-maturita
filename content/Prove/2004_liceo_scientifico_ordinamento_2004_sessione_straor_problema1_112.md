@@ -16,6 +16,8 @@ Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_liceo_scientifico_ordinamento_2004_sessione_straor_problema1_112_1|Problema 1]]*
+
 In un piano è assegnata la parabola $p$ di vertice $V$ e fuoco $F$ tali che, rispetto a una assegnata unità di lunghezza, il segmento $VF$ sia lungo $\frac{1}{2}$. Indicato con $E$ il punto simmetrico di $F$ rispetto a $V$ e riferito il piano a un conveniente sistema di assi cartesiani $(Oxy)$:
 
 a) determinare l'equazione della parabola $p$ e stabilire se esiste un punto $A$ di $p$ tale che il triangolo $AEF$ sia rettangolo in $A$.

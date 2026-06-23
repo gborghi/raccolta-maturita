@@ -16,6 +16,8 @@ Fonte: p.155 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_straordinaria_2016_problema1_155_1|Problema 1]]*
+
 Sei addetto alla gestione di una macchina utensile in cui è presente un contenitore di olio lubrificante avente la forma di un cono circolare retto col vertice rivolto verso il basso. Il raggio di base $r$ del cono è 4 cm mentre l'altezza $h$ è 12 cm. In tale contenitore, inizialmente vuoto, viene versato automaticamente dell'olio lubrificante alla velocità di $12\pi\ \dfrac{\mathrm{cm}^3}{\mathrm{s}}$. Devi assicurarti che il processo avvenga correttamente, senza produrre traboccamenti di olio.
 
 *(figura nel PDF)*

@@ -16,6 +16,8 @@ Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_scuole_italiane_allestero_americhe_2007_sessione_o_problema1_18_1|Problema 1]]*
+
 Si consideri la funzione $f$ definita da $f(x)=1-x^2$, il cui grafico è la parabola $\Gamma$.
 
 1. Si trovi il luogo geometrico $\Lambda$ dei centri $(a;b)$ delle circonferenze che sono tangenti a $\Gamma$ nel suo punto di ascissa $1$.

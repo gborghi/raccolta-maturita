@@ -16,6 +16,8 @@ Fonte: p.30 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_scuole_italiane_allestero_americhe_2011_sessione_o_problema1_30_1|Problema 1]]*
+
 Nel riferimento cartesiano $Oxy$ si consideri il triangolo di vertici $O$, $B(1\,;\,0)$, $A(0\,;\,a)$, con $a>0$. Preso un punto $P$ interno al triangolo, si denotino con $Q$ e con $R$ i punti in cui la retta per $P$, parallela all'asse $y$, taglia i lati $OB$ e $AB$ rispettivamente.
 
 *(figura nel PDF)*

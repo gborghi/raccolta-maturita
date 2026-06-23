@@ -16,6 +16,8 @@ Fonte: p.21 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_scuole_italiane_allestero_americhe_2006_sessione_o_questionario_21_1|Problema 1]]*
+
 **1.** Calcolare la derivata, rispetto ad $x$, della funzione $f(x) = \sen^2(2x)$.
 
 **2.** Si consideri la seguente proposizione: «Condizione necessaria e sufficiente affinché due triangoli siano congruenti è che abbiano due lati congruenti e i seni degli angoli fra essi compresi uguali». Dire se è vera o falsa e spiegare in modo esauriente la risposta data.

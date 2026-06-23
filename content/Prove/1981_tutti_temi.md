@@ -16,6 +16,8 @@ Fonte: p.121 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1981_tutti_temi_1|Problema 1]]*
+
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
 1. In un sistema di assi coordinati cartesiani si scrivano le equazioni delle due circonferenze passanti per l'origine $O$ ed aventi i centri rispettivamente in $C'(2,0)$ e $C''(-1/2,0)$. Condotte per il punto $O$ due rette mutuamente perpendicolari, delle quali la prima incontra le due circonferenze, oltre che nel punto $O$, nei punti $A$ e $B$ rispettivamente e la seconda nei punti $C$ e $D$, si determini il quadrilatero $ACBD$ avente area massima.

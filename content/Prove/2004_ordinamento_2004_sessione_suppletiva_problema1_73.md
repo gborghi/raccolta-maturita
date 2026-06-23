@@ -16,6 +16,8 @@ Fonte: p.73 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_ordinamento_2004_sessione_suppletiva_problema1_73_1|Problema 1]]*
+
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, è assegnata la curva $K$ di equazione:
 
 $$y=\frac{2x(6-x)}{2+x}\qquad [1]$$

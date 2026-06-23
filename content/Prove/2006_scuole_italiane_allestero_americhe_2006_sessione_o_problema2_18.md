@@ -16,6 +16,8 @@ Fonte: p.18 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_scuole_italiane_allestero_americhe_2006_sessione_o_problema2_18_1|Problema 1]]*
+
 Nel piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, è assegnata la parabola $p'$ di equazione $y = ax^2$, dove $a$ è un numero reale positivo assegnato.
 
 **a)** Condotta una generica retta $t$ per il fuoco $F$ della parabola $p'$ e chiamato $M$ il punto medio del segmento che $p'$ intercetta su $t$, trovare le funzioni $x(k)$ ed $y(k)$ che forniscono, nell'ordine, l'ascissa e l'ordinata di $M$ per mezzo della pendenza $k$ della retta $t$.

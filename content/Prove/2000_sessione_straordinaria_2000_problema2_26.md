@@ -16,6 +16,8 @@ Fonte: p.26 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_straordinaria_2000_problema2_26_1|Problema 1]]*
+
 È assegnato un tronco di cono il cui volume è doppio di quello di una sfera di raggio $r$. Stabilire se tale tronco può essere circoscritto alla sfera e in caso affermativo esprimere i raggi delle basi del tronco in funzione del raggio $r$ della sfera.
 
 Generalizzare la questione ponendo uguale a $k$ il rapporto tra il volume del tronco di cono e quello della sfera; stabilire le condizioni di risolubilità del problema illustrando altresì il caso $k = \dfrac{3}{2}$.

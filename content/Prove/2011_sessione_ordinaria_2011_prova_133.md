@@ -17,6 +17,8 @@ Fonte: p.133 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_133_1|Problema 1]]*
+
 Sia $f$ la funzione definita sull'insieme $\mathbb{R}$ dei numeri reali da $$f(x)=x+\ln 4+\frac{2}{e^x+1}$$ e sia $\Gamma$ la sua rappresentazione grafica nel sistema di riferimento $Oxy$.
 
 1. Si determini il limite di $f(x)$ per $x$ che tende a $+\infty$ e a $-\infty$. Si calcoli $f(x)+f(-x)$ e si spieghi perché dal risultato si può dedurre che il punto $A(0;\,1+\ln 4)$ è centro di simmetria di $\Gamma$.
@@ -34,6 +36,8 @@ Sia $f$ la funzione definita sull'insieme $\mathbb{R}$ dei numeri reali da $$f(x
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_133_2|Problema 2]]*
 
 Per il progetto di una piscina, un architetto si ispira alle funzioni $f$ e $g$ definite, per tutti gli $x$ reali, da:
 $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
@@ -54,6 +58,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_1|Quesito 1]]*
+
 1. Silvia, che ha frequentato un indirizzo sperimentale di liceo scientifico, sta dicendo ad una sua amica che la geometria euclidea non è più vera perché per descrivere la realtà del mondo che ci circonda occorrono modelli di geometria non euclidea. Silvia ha ragione? Si motivi la risposta.
 
 **Topic:** [[Geometria Euclidea]]
@@ -62,6 +68,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_2|Quesito 2]]*
 
 2. Si trovi il punto della curva $y=\sqrt{x}$ più vicino al punto di coordinate $(4;0)$.
 
@@ -72,6 +80,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_3|Quesito 3]]*
+
 3. Sia $R$ la regione delimitata, per $x\in[0,\pi]$, dalla curva $y=\operatorname{sen}x$ e dall'asse $x$ e sia $W$ il solido ottenuto dalla rotazione di $R$ attorno all'asse $y$. Si calcoli il volume di $W$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -80,6 +90,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_4|Quesito 4]]*
 
 4. Il numero delle combinazioni di $n$ oggetti a 4 a 4 è uguale al numero delle combinazioni degli stessi oggetti a 3 a 3. Si trovi $n$.
 
@@ -90,6 +102,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_5|Quesito 5]]*
+
 5. In una delle sue opere G. Galilei fa porre da Salviati, uno dei personaggi, la seguente questione riguardante l'insieme $\mathbb{N}$ dei numeri naturali ("i numeri tutti"). Dice Salviati: «...se io dirò, i numeri tutti, comprendendo i quadrati e i non quadrati, esser più che i quadrati soli, dirò proposizione verissima: non è così?». Come si può rispondere all'interrogativo posto e con quali argomentazioni?
 
 **Topic:** [[Successioni e Serie]]
@@ -98,6 +112,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_6|Quesito 6]]*
 
 6. Di tutti i coni inscritti in una sfera di raggio 10 cm, qual è quello di superficie laterale massima?
 
@@ -108,6 +124,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_7|Quesito 7]]*
+
 7. Un test d'esame consta di dieci domande, per ciascuna delle quali si deve scegliere l'unica risposta corretta fra quattro alternative. Quale è la probabilità che, rispondendo a caso alle dieci domande, almeno due risposte risultino corrette?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -116,6 +134,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_8|Quesito 8]]*
 
 8. In che cosa consiste il problema della quadratura del cerchio? Perché è citato così spesso?
 
@@ -126,6 +146,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_9|Quesito 9]]*
+
 9. Si provi che, nello spazio ordinario a tre dimensioni, il luogo geometrico dei punti equidistanti dai tre vertici di un triangolo rettangolo è la retta perpendicolare al piano del triangolo passante per il punto medio dell'ipotenusa.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
@@ -134,6 +156,8 @@ $$f(x)=x^3-16x \qquad\text{e}\qquad g(x)=\operatorname{sen}\frac{\pi}{2}x$$
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_133#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_133_10|Quesito 10]]*
 
 10. Nella figura a lato, denotati con I, II e III, sono disegnati tre grafici. Uno di essi è il grafico di una funzione $f$, un altro lo è della funzione derivata $f'$ e l'altro ancora di $f''$. Quale delle seguenti alternative identifica correttamente ciascuno dei tre grafici?
 

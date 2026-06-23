@@ -16,6 +16,8 @@ Fonte: p.14 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_scuole_italiane_allestero_americhe_2010_sessione_o_problema1_14_1|Problema 1]]*
+
 Nel piano riferito a coordinate cartesiane $Oxy$:
 
 **1)** Si studi la funzione $f(x)=\dfrac{x^2+1}{\sqrt{3}\,x}$ e se ne tracci il grafico $\gamma$.

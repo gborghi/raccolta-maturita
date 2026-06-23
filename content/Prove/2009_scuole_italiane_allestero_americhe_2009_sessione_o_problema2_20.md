@@ -16,6 +16,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_scuole_italiane_allestero_americhe_2009_sessione_o_problema2_20_1|Problema 1]]*
+
 1. Si trovi l'espressione generale di un polinomio $P(x)$ di $4°$ grado tale che $P(-2)=P(2)=0$ e $P(x)\ge 0$ per ogni $x\in\mathbb{R}$.
 
 2. Sia $P(x)=(x^2-4)^2$. In un sistema di riferimento cartesiano ortogonale $Oxy$ si rappresenti l'andamento di $P(x)$, determinandone in particolare i valori massimi e minimi e i flessi.

@@ -17,6 +17,8 @@ Fonte: p.37 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_1|Quesito 1]]*
+
 **Quesito 1.** La finale di nuoto "100 metri rana" è disputata da 6 atleti. Quanti sono, in teoria, i possibili ordini di arrivo?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -26,6 +28,8 @@ Fonte: p.37 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_2|Quesito 2]]*
+
 **Quesito 2.** Calcolare un valore, approssimato a meno di un grado centesimale, dell'angolo che una diagonale del cubo forma con una delle facce.
 
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
@@ -34,6 +38,8 @@ Fonte: p.37 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_3|Quesito 3]]*
 
 **Quesito 3.** Sia $S_n$ la somma di $n$ numeri in progressione aritmetica di primo termine $\frac{1}{2}$ e ragione $\frac{3}{2}$. Calcolare il seguente limite:
 
@@ -46,6 +52,8 @@ $$\lim_{n \to \infty} \frac{S_n}{n^2}.$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_4|Quesito 4]]*
+
 **Quesito 4.** È vero o falso che il grafico della funzione $\ln(x+2)^2$ coincide con quello della funzione $2\ln(x+2)$? Fornire una esauriente spiegazione della risposta.
 
 **Topic:** [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -56,6 +64,8 @@ $$\lim_{n \to \infty} \frac{S_n}{n^2}.$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_5|Quesito 5]]*
+
 **Quesito 5.** Utilizzando il procedimento preferito, dimostrare la seguente proprietà: "Se due numeri reali positivi variano in modo che il loro prodotto si mantenga costante, allora la loro somma è minima quando essi sono uguali".
 
 **Topic:** [[Massimi e Minimi]]
@@ -65,6 +75,8 @@ $$\lim_{n \to \infty} \frac{S_n}{n^2}.$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_6|Quesito 6]]*
+
 **Quesito 6.** Trovare la funzione $f(x)$ avente come primitiva la funzione $\tan\sqrt{x}$.
 
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
@@ -73,6 +85,8 @@ $$\lim_{n \to \infty} \frac{S_n}{n^2}.$$
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_7|Quesito 7]]*
 
 **Quesito 7.** Fornire un esempio di funzione reale di variabile reale $f(x)$ tale che $f(0)=0$, $f'(1)=1$, $f''(2)=2$.
 

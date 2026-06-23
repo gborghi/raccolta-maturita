@@ -16,6 +16,8 @@ Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_ordinamento_2010_sessione_suppletiva_problema1_105_1|Problema 1]]*
+
 Data una circonferenza di centro $O$ e raggio unitario, si prendano su di essa tre punti $A$, $B$, $C$, tali che $AB = BC$. *(figura nel PDF)*
 
 1. Si calcoli, in funzione dell'angolo $A\hat{O}B = x$, la quantità:

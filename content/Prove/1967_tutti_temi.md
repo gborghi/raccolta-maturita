@@ -16,6 +16,8 @@ Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1967_tutti_temi_1|Problema 1]]*
+
 **Problema.** In un piano, riferito ad un sistema cartesiano ortogonale $Oxy$, si considerino le parabole di equazione:
 
 $$y = mx^2 + x + 3 - 4m$$

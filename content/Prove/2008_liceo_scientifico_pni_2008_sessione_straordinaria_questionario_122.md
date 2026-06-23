@@ -17,6 +17,8 @@ Fonte: p.122 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_1|Quesito 1]]*
+
 **QUESITO 1**
 
 Fra le piramidi quadrangolari regolari di data area laterale $S$, si determini quella di volume massimo.
@@ -27,6 +29,8 @@ Fra le piramidi quadrangolari regolari di data area laterale $S$, si determini q
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.122](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_2|Quesito 2]]*
 
 **QUESITO 2**
 
@@ -41,6 +45,8 @@ quando $x$ tende a $0$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_3|Quesito 3]]*
+
 **QUESITO 3**
 
 Si provi se per la funzione $f(x) = |x+1| - 2x$, nell'intervallo $[-2;3]$, sono verificate le condizioni previste per la validità del teorema di Lagrange e, in caso affermativo, si trovi il punto in cui si verifica la tesi del teorema stesso.
@@ -53,6 +59,8 @@ Si provi se per la funzione $f(x) = |x+1| - 2x$, nell'intervallo $[-2;3]$, sono 
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_4|Quesito 4]]*
+
 **QUESITO 4**
 
 Si determini il campo di esistenza della funzione $y = (x^2 + 3x)^{\sqrt{-2-x}}$.
@@ -63,6 +71,8 @@ Si determini il campo di esistenza della funzione $y = (x^2 + 3x)^{\sqrt{-2-x}}$
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_5|Quesito 5]]*
 
 **QUESITO 5**
 
@@ -75,6 +85,8 @@ Siano dati un triangolo equilatero, il cerchio in esso inscritto e il triangolo 
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_6|Quesito 6]]*
+
 **QUESITO 6**
 
 Alla prova orale di un concorso sono stati ammessi $9$ maschi e $7$ femmine. Sappiamo che saranno assunte $5$ persone. Qual è la probabilità che siano assunti $2$ maschi e $3$ femmine?
@@ -85,6 +97,8 @@ Alla prova orale di un concorso sono stati ammessi $9$ maschi e $7$ femmine. Sap
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_7|Quesito 7]]*
 
 **QUESITO 7**
 
@@ -97,6 +111,8 @@ Si dimostri che l'equazione $\log x + x = 0$ ha un'unica radice reale e se ne ca
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.125](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_8|Quesito 8]]*
 
 **QUESITO 8**
 
@@ -111,6 +127,8 @@ $$f(x) = \int_1^x t\, e^t\, dt.$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_9|Quesito 9]]*
+
 **QUESITO 9**
 
 Il toro è il solido di rotazione, ottenuto facendo ruotare un cerchio di raggio $r$ di un giro completo attorno ad un asse, che abbia dal cerchio generatore una distanza $a > r$. Si calcolino l'area e il volume del toro.
@@ -121,6 +139,8 @@ Il toro è il solido di rotazione, ottenuto facendo ruotare un cerchio di raggio
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.127](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_pni_2008_sessione_straordinaria_questionario_122_10|Quesito 10]]*
 
 **QUESITO 10**
 

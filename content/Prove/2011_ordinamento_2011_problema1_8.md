@@ -16,6 +16,8 @@ Fonte: p.8 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_ordinamento_2011_problema1_8_1|Problema 1]]*
+
 Siano date le funzioni
 $$f(x)=x^3-4x \qquad g(x)=\operatorname{sen}(\pi x).$$
 

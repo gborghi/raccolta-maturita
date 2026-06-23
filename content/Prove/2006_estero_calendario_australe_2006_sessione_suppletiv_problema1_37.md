@@ -16,6 +16,8 @@ Fonte: p.37 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_estero_calendario_australe_2006_sessione_suppletiv_problema1_37_1|Problema 1]]*
+
 Il triangolo $ABC$, rettangolo in $C$, ha l'altezza relativa all'ipotenusa uguale a 1.
 
 1) Posto $x = C\hat{A}B$ e $t = \tan\dfrac{x}{2}$, si esprima il perimetro $p$ del triangolo in funzione di $t$.

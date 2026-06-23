@@ -16,6 +16,8 @@ Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1965_tutti_temi_1|Problema 1]]*
+
 **Problema.** Nel triangolo $ABC$, la proiezione $HC$ del lato $AC$ sulla retta $BC$ è tripla della proiezione $HB$ del lato $AB$ sulla stessa retta $BC$. Posto $|AH| = h$, $|BC| = x$, $\tan B\hat{A}C = y$:
 
 1. si trovi la relazione che sussiste tra $x$ e $y$, considerando separatamente i casi in cui $H$ risulti esterno o interno al segmento $BC$;

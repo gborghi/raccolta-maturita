@@ -17,6 +17,8 @@ Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte3_2023_1_2_1|Problema 1]]*
+
 Considera la funzione $f(x)=\dfrac{ax}{4x^2+b}$, con $a$ e $b$ parametri reali non nulli. Siano inoltre
 
 $$g(x)=f'(x),\qquad h(x)=\int_0^x f(t)\,dt,$$
@@ -38,6 +40,8 @@ $$\lim_{x\to 0}\frac{h(x)}{x^2},\qquad \lim_{x\to+\infty}\frac{h(x)}{\ln x}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2023_1_2#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte3_2023_1_2_2|Problema 2]]*
 
 La cinciallegra è un piccolo uccello dalla caratteristica colorazione giallo-verde molto diffuso in Europa e nel Nord Africa. Le cinciallegre vivono in stormi numerosi, adattandosi alle diverse tipologie di habitat. L'andamento della popolazione di uno stormo isolato di cinciallegre può essere descritto da un modello malthusiano continuo
 
@@ -65,6 +69,8 @@ $$y=a\cos x,\qquad y=a(1-|x|),\qquad y=a(1-\sin|x|).$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_1|Quesito 1]]*
+
 1. Determina l'espressione analitica della funzione $y=f(x)$ sapendo che $f''(x)=2-\dfrac{1}{x^3}$ e che la retta di equazione $y=16x-16$ è tangente al grafico della funzione $f(x)$ nel suo punto $P(1;0)$. Trova gli eventuali asintoti della funzione $y=f(x)$.
 
 **Topic:** [[Calcolo Integrale]], [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -74,6 +80,8 @@ $$y=a\cos x,\qquad y=a(1-|x|),\qquad y=a(1-\sin|x|).$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2023_1_2#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_2|Quesito 2]]*
 
 2. Un negozio di abbigliamento ha aperto un nuovo sito di e-commerce. L'andamento del numero di accessi alla home page del sito nel giorno di lancio della piattaforma di e-commerce è modellizzato dal grafico in figura. Il tempo $t$ è espresso in ore, mentre il numero $N$ in migliaia di accessi. Determina per quali valori dei parametri reali e positivi $a$ e $b$, la funzione $N(t)=at\,e^{-bt}$, con $t\in[0;24]$, ha l'andamento in figura. Stima il numero di accessi per $t=24$. *(figura nel PDF)*
 
@@ -85,6 +93,8 @@ $$y=a\cos x,\qquad y=a(1-|x|),\qquad y=a(1-\sin|x|).$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_3|Quesito 3]]*
+
 3. Considera un quadrato $ABCD$ di lato 1. Sia $P$ un punto del lato $AB$ e sia $Q$ l'intersezione tra il lato $AD$ e la perpendicolare in $P$ al segmento $PC$. Determina $x=\overline{AP}$ in modo che l'area $S$ del triangolo $APQ$ sia massima e ricava $S_{\max}$. Determina $x=\overline{AP}$ in modo che il volume $V$ del cono ottenuto per rotazione del triangolo $APQ$ intorno al cateto $AP$ sia massimo e ricava $V_{\max}$.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]], [[Geometria Solida]]
@@ -93,6 +103,8 @@ $$y=a\cos x,\qquad y=a(1-|x|),\qquad y=a(1-\sin|x|).$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2023_1_2#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_4|Quesito 4]]*
 
 4. Considera le funzioni $f(x)=ax(5-2x)$, $\;g(x)=x^2\left(\frac{5}{2}-ax\right)$, con $a\in\mathbb{R}-\{0\}$. Determina per quale valore di $a$ si ha $f(2)=g(2)$. Verifica che per questo valore di $a$ i grafici delle due funzioni hanno tre punti in comune. Considerando il valore di $a$ determinato in precedenza, stabilisci se nell'intervallo $[0;2]$ sia applicabile il teorema di Lagrange alle due funzioni. In caso affermativo, determina per entrambe le funzioni i valori $c\in\,]0;2[$ per cui è verificata la tesi. Stabilisci, inoltre, se nell'intervallo $[0;2]$ siano soddisfatte le ipotesi del teorema di Cauchy per la coppia di funzioni $f(x)$ e $g(x)$. In caso affermativo, trova i valori $x\in\,]0;2[$ per cui è verificata la tesi.
 
@@ -103,6 +115,8 @@ $$y=a\cos x,\qquad y=a(1-|x|),\qquad y=a(1-\sin|x|).$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2023_1_2#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_5|Quesito 5]]*
 
 5. Nel sistema di riferimento cartesiano $Oxyz$ la retta $r$ è definita dal seguente sistema di equazioni parametriche
 $$r:\begin{cases} x=2t+2 \\ y=t-1 \\ z=t+1.\end{cases}$$
@@ -115,6 +129,8 @@ Determina il punto $P$ che appartiene alla retta $r$ e che si trova alla distanz
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_6|Quesito 6]]*
+
 6. Una gioielliera realizza un medaglione d'argento il cui profilo, rappresentato in figura, è delimitato dall'arco $ACB$ della circonferenza $x^2+y^2=4$ e dall'arco di parabola $AB$. Determina l'equazione della parabola sapendo che è tangente alla circonferenza nei punti $A$ e $B$ di ordinata 1 e scrivi le equazioni delle rette tangenti alle curve nei due punti comuni. Stima la massa del medaglione, sapendo che il suo spessore uniforme è di $2{,}0$ mm e che la densità dell'argento è $\rho_{Ag}=10{,}49$ g/cm³. *(figura nel PDF)*
 
 **Topic:** [[Geometria Analitica (piano)]], [[Calcolo Integrale]], [[Derivate]]
@@ -124,6 +140,8 @@ Determina il punto $P$ che appartiene alla retta $r$ e che si trova alla distanz
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_7|Quesito 7]]*
+
 7. Il grafico della funzione $y=\cos\frac{\pi x}{2}$ divide il quadrato $Q$ di vertici $(0;0)$, $(1;0)$, $(1;1)$ e $(0;1)$ in due regioni $R_1$ e $R_2$, con $\text{Area}(R_1)>\text{Area}(R_2)$. Scelti a caso, uno dopo l'altro, tre punti interni al quadrato $Q$ calcola la probabilità che solo l'ultimo punto appartenga alla regione $R_1$.
 
 **Topic:** [[Probabilita]], [[Calcolo Integrale]]
@@ -132,6 +150,8 @@ Determina il punto $P$ che appartiene alla retta $r$ e che si trova alla distanz
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2023_1_2#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.2](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2023_1_2_8|Quesito 8]]*
 
 8. Determina per quali valori dei parametri $a$ e $b$ il grafico della funzione $f(x)=(ax+b)e^{-x}$, con $a,b\in\mathbb{R}-\{0\}$, presenta nel suo punto d'intersezione con l'asse $y$ una retta tangente parallela alla retta di equazione $3x+2y+1=0$ e la funzione $f(x)$ è tale che $f''(x)$ è uguale a $f(x)+e^{-x}$.
 

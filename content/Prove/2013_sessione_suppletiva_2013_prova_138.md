@@ -17,6 +17,8 @@ Fonte: p.138 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmk
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_suppletiva_2013_prova_138_1|Problema 1]]*
+
 $ABC$ è un triangolo equilatero di lato $a$. Dal vertice $A$, e internamente al triangolo, si conduca una semiretta $r$ che formi l'angolo $\alpha$ con il lato $AB$. Si denotino con $B'$ e $C'$, rispettivamente, le proiezioni ortogonali su $r$ dei vertici $B$ e $C$.
 
 1. Si calcoli il rapporto:
@@ -38,6 +40,8 @@ $$f(x) = \frac{5x^2 - 3\sqrt{3}\,x + 3}{4(x^2+1)}.$$
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_suppletiva_2013_prova_138_2|Problema 2]]*
+
 Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e la base minore $DC$ misurano rispettivamente $4\ \text{m}$ e $1\ \text{m}$, l'altezza del trapezio misura $3\ \text{m}$ e la tangente dell'angolo $D\hat{A}B$ è uguale a $3/2$.
 
 1. Si calcolino le aree dei quattro triangoli in cui il trapezio è diviso da una sua diagonale e dai segmenti che uniscono il punto medio di questa con gli estremi dell'altra diagonale.
@@ -55,6 +59,8 @@ Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e l
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_1|Quesito 1]]*
+
 1. È dato il settore circolare $AOB$, di centro $O$, raggio $r$ e ampiezza $\pi/3$. Si inscriva in esso il rettangolo $PQMN$, con $M$ ed $N$ sul raggio $OB$, $Q$ sull'arco $AB$ e $P$ su $OA$. Si determini l'angolo $B\hat{O}Q = x$, affinché il perimetro del rettangolo sia massimo.
 
 **Topic:** [[Trigonometria]], [[Massimi e Minimi]]
@@ -64,6 +70,8 @@ Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e l
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_2|Quesito 2]]*
+
 2. Quali sono i poliedri regolari? Perché sono detti anche solidi platonici?
 
 **Topic:** [[Geometria Solida]]
@@ -72,6 +80,8 @@ Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e l
 **Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.143](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_3|Quesito 3]]*
 
 3. Si scriva l'equazione della tangente al grafico della funzione:
 $$x = \tfrac{1}{2}\log\left(\frac{y+1}{y-1}\right)$$
@@ -84,6 +94,8 @@ nel punto $P$ di ordinata $y = 2$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_4|Quesito 4]]*
+
 4. Un solido $\Omega$ ha per base la regione $R$ delimitata dal grafico di $f(x) = \ln x$ e dall'asse $x$ sull'intervallo $[1,\,e]$. In ogni punto di $R$ a distanza $x$ dall'asse $y$, la misura dell'altezza del solido è data da $h(x) = x$. Quale sarà il volume del solido?
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
@@ -93,6 +105,8 @@ nel punto $P$ di ordinata $y = 2$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_5|Quesito 5]]*
+
 5. Un aereo civile viaggia in volo orizzontale con velocità costante lungo una rotta che lo porta a sorvolare Venezia. Da uno squarcio nelle nuvole il comandante vede le luci della città con un angolo di depressione di $7°$. Tre minuti più tardi ricompaiono nuovamente le luci, questa volta però l'angolo di depressione misurato è di $13°$. Quanti minuti saranno ancora necessari perché l'aereo venga a trovarsi esattamente sopra la città?
 
 **Topic:** [[Trigonometria]]
@@ -101,6 +115,8 @@ nel punto $P$ di ordinata $y = 2$.
 **Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.144](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_6|Quesito 6]]*
 
 6. Si consideri la curva d'equazione $f(x) = x^3 - 3x$. La curva ha asintoti? In caso affermativo, se ne determinino le equazioni.
 
@@ -112,6 +128,8 @@ nel punto $P$ di ordinata $y = 2$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_7|Quesito 7]]*
+
 7. Un cubo di legno di pioppo (densità $\rho_1 = 0,385\ \text{g/cm}^3$) ed un tetraedro regolare di cristallo ($\rho_2 = 3,33\ \text{g/cm}^3$) hanno entrambi lo spigolo $l = 5\ \text{cm}$. Quale dei due ha la massa maggiore?
 
 **Topic:** [[Geometria Solida]], [[Topics/Fisica|Fisica]]
@@ -121,6 +139,8 @@ nel punto $P$ di ordinata $y = 2$.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_8|Quesito 8]]*
+
 8. Tommaso ha costruito un modello di tetraedro regolare e vuole colorare le 4 facce, ognuna con un colore diverso. In quanti modi può farlo se ha a disposizione 10 colori? E se invece si fosse trattato di un cubo?
 
 **Topic:** [[Calcolo Combinatorio]], [[Geometria Solida]]
@@ -129,6 +149,8 @@ nel punto $P$ di ordinata $y = 2$.
 **Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_9|Quesito 9]]*
 
 9. Si calcoli il valore medio della funzione:
 $$f(x) = \frac{e^x}{1+x}$$
@@ -140,6 +162,8 @@ nell'intervallo $1 \le x \le 4$.
 **Soluzione:** [[Soluzioni/2013_sessione_suppletiva_2013_prova_138#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.145](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_suppletiva_2013_prova_138_10|Quesito 10]]*
 
 10. Si controlli se la funzione $f(x) = \operatorname{tg} x + \operatorname{sen} x + 7$, nell'intervallo chiuso $[0,\,\pi]$, verifica le ipotesi del teorema di Rolle e, in caso affermativo, si calcoli l'ascissa dei punti ove si annulla la derivata prima.
 

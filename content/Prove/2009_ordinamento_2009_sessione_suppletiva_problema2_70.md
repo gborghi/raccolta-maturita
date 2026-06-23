@@ -16,6 +16,8 @@ Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_ordinamento_2009_sessione_suppletiva_problema2_70_1|Problema 1]]*
+
 Sia data la funzione:
 $$f(x)=\begin{cases} x(2-\ln x), & \text{per } x>0 \\ 0, & \text{per } x=0 \end{cases}$$
 

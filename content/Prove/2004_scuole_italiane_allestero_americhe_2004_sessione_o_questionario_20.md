@@ -17,6 +17,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_1|Quesito 1]]*
+
 **Quesito 1.** La coppia $(1,\,2)$ è la soluzione di un sistema lineare di due equazioni in due incognite. Quale può essere il sistema?
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -25,6 +27,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_2|Quesito 2]]*
 
 **Quesito 2.** Sia $\alpha$ tale che la funzione $f(x)=\alpha x-\dfrac{x^3}{1+x^2}$ risulti crescente. Provare che $\alpha\geq\dfrac{9}{8}$.
 
@@ -36,6 +40,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_3|Quesito 3]]*
+
 **Quesito 3.** Mostrare che le tangenti alla curva $y=\dfrac{\pi\sin(x)}{x}$ in $x=\pi$ e $x=-\pi$ si intersecano ad angolo retto.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Trigonometria]]
@@ -45,6 +51,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_4|Quesito 4]]*
+
 **Quesito 4.** Nei saldi di fine stagione, un negozio ha diminuito del $30\%$ il prezzo di listino di tutti gli articoli. Se il prezzo scontato di un abito è di $275$ euro quale era il suo prezzo di listino?
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -53,6 +61,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_5|Quesito 5]]*
 
 **Quesito 5.** Calcolare:
 $$\int_0^{\pi} e^x\cos(x)\,dx$$
@@ -64,6 +74,8 @@ $$\int_0^{\pi} e^x\cos(x)\,dx$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_6|Quesito 6]]*
+
 **Quesito 6.** Si dica quante sono le soluzioni reali dell'equazione $\dfrac{x}{10}=\sin(x)$ e si indichi per ciascuna di esse un intervallo numerico che la comprende.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Trigonometria]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -74,6 +86,8 @@ $$\int_0^{\pi} e^x\cos(x)\,dx$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_7|Quesito 7]]*
+
 **Quesito 7.** Se $\tan\alpha$ e $\tan\beta$ sono radici di $x^2-px+q=0$ e $\cot\alpha$ e $\cot\beta$ sono radici di $x^2-rx+s=0$, quanto vale il prodotto $rs$ espresso in funzione di $p$ e $q$?
 
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
@@ -82,6 +96,8 @@ $$\int_0^{\pi} e^x\cos(x)\,dx$$
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_8|Quesito 8]]*
 
 **Quesito 8.** Un professore interroga i suoi alunni a due per volta. Stabilire quante possibili coppie diverse può interrogare, sapendo che la classe è di $20$ studenti.
 

@@ -17,6 +17,8 @@ Fonte: p.116 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmk
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_straordinaria_2013_prova_116_1|Problema 1]]*
+
 Sia data una circonferenza di centro $O$ e raggio $1$ e una sua corda $MN$, condotta alla distanza $x$ da $O$.
 
 1. Si calcoli il rapporto $f(x)$ fra l'area del triangolo, formato dalla corda $MN$ e dalle tangenti alla circonferenza in $M$ ed $N$, e quella del rettangolo di lato $MN$, inscritto nella circonferenza, controllando che risulta:
@@ -35,6 +37,8 @@ $$f(x)=\frac{1-x^2}{4x^2}.$$
 **Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.116](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_straordinaria_2013_prova_116_2|Problema 2]]*
 
 Si consideri la funzione:
 $$f(x)=\ln(x^2+1).$$
@@ -55,6 +59,8 @@ $$f(x)=\ln(x^2+1).$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_1|Quesito 1]]*
+
 1. Un ufficiale della guardia di finanza, in servizio lungo un tratto rettilineo di costa, avvista una motobarca di contrabbandieri che dirige in linea retta, perpendicolarmente alla costa, verso un vecchio faro abbandonato. L'angolo tra la direzione della costa e il raggio visivo dell'ufficiale che guarda la motobarca è di $34,6°$; al natante si trova a $6$ miglia marine dal faro e si muove con una velocità di $18$ nodi (miglia marine all'ora). L'ufficiale ordina di salire immediatamente in macchina, in modo da raggiungere il faro, percorrendo una strada parallela alla spiaggia, $10$ minuti prima che vi approdino i contrabbandieri, per coglierli con le mani nel sacco. A che velocità media, in km/h, deve muoversi l'automezzo della guardia di finanza per arrivare nei tempi previsti? (Un miglio marino = $1853,182\,m$).
 
 **Topic:** [[Trigonometria]], [[Topics/Fisica|Fisica]]
@@ -64,6 +70,8 @@ $$f(x)=\ln(x^2+1).$$
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_2|Quesito 2]]*
+
 2. Si calcoli il limite della funzione $(1+x^2)^{1/sen^2 x}$, quando $x$ tende a $0$.
 
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
@@ -72,6 +80,8 @@ $$f(x)=\ln(x^2+1).$$
 **Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.128](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_3|Quesito 3]]*
 
 3. Nel triangolo $ABC$ l'angolo in $B$ misura $\pi/6$ e quello in $C$ misura $x$. Si determini l'angolo $x$ in modo che, detta $H$ la proiezione ortogonale di $A$ sulla retta $BC$, la quantità:
 $$\frac{BC+HC}{AC},$$
@@ -84,6 +94,8 @@ risulti massima.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_4|Quesito 4]]*
+
 4. Si scriva l'equazione della tangente al diagramma della funzione:
 $$f(x)=\log_x 2$$
 nel punto $P$ di ascissa $x=2$.
@@ -95,6 +107,8 @@ nel punto $P$ di ascissa $x=2$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_5|Quesito 5]]*
+
 5. La superficie piana $S$, delimitata dalla curva $\gamma$ di equazione $y=\ln x$ e dall'asse $x$ nell'intervallo $1\leq x\leq e$, è la base di un solido $\Sigma$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte rettangoli aventi l'altezza quadrupla della base. Si calcoli il volume di $\Sigma$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Esponenziali e Logaritmi]]
@@ -103,6 +117,8 @@ nel punto $P$ di ascissa $x=2$.
 **Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_6|Quesito 6]]*
 
 6. Si determinino le equazioni degli asintoti della curva:
 $$f(x)=\frac{e^x}{e^x-1}.$$
@@ -115,6 +131,8 @@ $$f(x)=\frac{e^x}{e^x-1}.$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_7|Quesito 7]]*
+
 7. Si determini il campo di esistenza della funzione:
 $$y=\arccos(e^{2sen x}-1), \qquad con \quad 0\leq x\leq 2\pi.$$
 
@@ -126,6 +144,8 @@ $$y=\arccos(e^{2sen x}-1), \qquad con \quad 0\leq x\leq 2\pi.$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_8|Quesito 8]]*
+
 8. Un cubo di alluminio (densità $\rho=2,7\,g/cm^3$), avente lo spigolo $l=10\,cm$, presenta all'interno una cavità a forma di cilindro equilatero, avente il raggio di lunghezza $r_1=2,5\,cm$. Si calcoli la massa del cubo.
 
 **Topic:** [[Geometria Solida]], [[Topics/Fisica|Fisica]]
@@ -134,6 +154,8 @@ $$y=\arccos(e^{2sen x}-1), \qquad con \quad 0\leq x\leq 2\pi.$$
 **Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_9|Quesito 9]]*
 
 9. Si calcoli il valore medio della funzione:
 $$y=\frac{x}{\cos^2 x},$$
@@ -145,6 +167,8 @@ nell'intervallo $0\leq x\leq \pi/3$.
 **Soluzione:** [[Soluzioni/2013_sessione_straordinaria_2013_prova_116#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_straordinaria_2013_prova_116_10|Quesito 10]]*
 
 10. Un delfino si trova nel punto $A$ del bordo ovest di una piscina circolare. Nuota in linea retta per $12\,m$, e tocca con il naso il bordo della piscina nel punto $B$. Si gira e nuota in una direzione diversa in linea retta per $5\,m$, e arriva nel punto $C$ situato sul bordo della piscina e diametralmente opposto al punto $A$ dal quale era partito. Se la profondità dell'acqua è ovunque di $2,50\,m$, quanti litri d'acqua sono contenuti nella piscina?
 

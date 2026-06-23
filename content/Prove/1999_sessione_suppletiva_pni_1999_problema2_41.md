@@ -16,6 +16,8 @@ Fonte: p.41 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsn
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_sessione_suppletiva_pni_1999_problema2_41_1|Problema 1]]*
+
 In una semicirconferenza è inscritto un triangolo rettangolo $ABC$ di base $\overline{AB} = 2$. Si tracci la semiretta parallela alla base $AB$ passante per $C$ e che non interseca la circonferenza. Sia $D$ il punto su tale semiretta per cui è $\overline{CD} = \overline{AC}$.
 
 a) Trovare la funzione $f(x)$ che esprime la differenza tra le aree dei triangoli $ABC$ e $BCD$ in funzione dell'angolo $B\hat{A}C = x$.

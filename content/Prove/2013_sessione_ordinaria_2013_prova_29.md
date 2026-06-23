@@ -16,6 +16,8 @@ Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_29_1|Problema 1]]*
+
 1. Un trapezio è inscritto in un semicerchio di raggio $2$ con una base coincidente con il diametro del cerchio. Si trovi l'area massima del trapezio.
 
 2. In un libro si legge: *"La definizione classica di misura di un angolo per mezzo della lunghezza di un arco di cerchio è essenzialmente corretta"*. Si spieghi, eventualmente con qualche esempio, il significato di tale affermazione.

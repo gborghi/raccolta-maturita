@@ -17,6 +17,8 @@ Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2Cg
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_1|Quesito 1]]*
+
 **Quesito 1.** Considerata una funzione reale di variabile reale $f(x)$, si prendano in esame le due seguenti proposizioni:
 
 A: condizione necessaria e sufficiente affinché $f(x)$ sia definita in un punto $a$ è che sia continua in $a$.
@@ -34,6 +36,8 @@ a) A vera – B vera   b) A vera – B falsa   c) A falsa – B vera   d) A fals
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_2|Quesito 2]]*
+
 **Quesito 2.** Si consideri il cubo di spigoli $AA'$, $BB'$, $CC'$, $DD'$, in cui due facce opposte sono i quadrati $ABCD$ e $A'B'C'D'$. Indicato con $E$ il punto medio dello spigolo $AB$, sia $CF$ la retta perpendicolare a $DE$ condotta per $C$. I piani $D'DE$ e $C'CF$ dividono il cubo in quattro parti. Calcolare a quale frazione del cubo equivale ciascuna di esse.
 
 **Topic:** [[Geometria Solida]], [[Geometria nello Spazio]]
@@ -42,6 +46,8 @@ a) A vera – B vera   b) A vera – B falsa   c) A falsa – B vera   d) A fals
 **Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.33](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_3|Quesito 3]]*
 
 **Quesito 3.** Calcolare se esiste un numero naturale $n$ per il quale risulti:
 
@@ -54,6 +60,8 @@ $$\sum_{k=0}^{n} \binom{n}{k} = 1048576$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_4|Quesito 4]]*
+
 **Quesito 4.** Sia $f(x)$ una funzione reale di variabile reale, derivabile con derivata continua in tutto il campo reale, tale che: $f(0)=1$ ed $f'(0)=2$. Calcolare:
 
 $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
@@ -65,6 +73,8 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_5|Quesito 5]]*
+
 **Quesito 5.** Dimostrare che la derivata, rispetto a $x$, della funzione $a^x$, dove $a$ è un numero reale positivo diverso da $1$, è $a^x \ln a$.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -73,6 +83,8 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.35](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_6|Quesito 6]]*
 
 **Quesito 6.** Fra i rettangoli di dato perimetro determinare quello di area massima.
 
@@ -83,6 +95,8 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_7|Quesito 7]]*
+
 **Quesito 7.** Una primitiva della funzione $f(x)$ è $x^2 + 2x$. Se è possibile calcolare $\int_0^1 f\!\left(\frac{x}{2}\right) dx$, determinare il valore dell'integrale. In caso contrario spiegare perché il calcolo non è possibile.
 
 **Topic:** [[Calcolo Integrale]]
@@ -91,6 +105,8 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_8|Quesito 8]]*
 
 **Quesito 8.** In un piano, riferito a un sistema di assi cartesiani ortogonali $(Oxy)$, sia $T$ un trapezoide di base $[a;b]$ relativo alla funzione $f(x)$, continua in tale intervallo. Dimostrare la formula che esprime il volume del solido generato dal trapezoide quando ruota di un giro completo attorno all'asse $x$.
 
@@ -101,6 +117,8 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_9|Quesito 9]]*
+
 **Quesito 9.** Calcolare la derivata della funzione $\operatorname{sen} 2x$ rispetto alla variabile $x$, ricorrendo alla definizione di derivata di una funzione.
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -109,6 +127,8 @@ $$\lim_{x\to 0} \frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}$$
 **Soluzione:** [[Soluzioni/2001_suppletiva_ordinamento_2001_questionario_32#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_10|Quesito 10]]*
 
 **Quesito 10.** Considerata una funzione reale di variabile reale $f(x)$, derivabile almeno due volte in un dato punto $a$, affinché la funzione $f(x)$ abbia in $a$ un punto di flesso la condizione $f''(a)=0$ è:
 

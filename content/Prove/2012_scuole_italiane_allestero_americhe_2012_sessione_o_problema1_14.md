@@ -16,6 +16,8 @@ Fonte: p.14 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_scuole_italiane_allestero_americhe_2012_sessione_o_problema1_14_1|Problema 1]]*
+
 Il triangolo $ABC$ è equilatero di lato unitario. La retta $r$ parallela ad $AB$ interseca i lati $AC$ e $BC$, rispettivamente, nei punti $P$ e $Q$.
 
 *(figura nel PDF)*

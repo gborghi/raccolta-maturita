@@ -16,6 +16,8 @@ Fonte: p.97 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_liceo_scientifico_ordinamento_2011_sessione_straor_problema2_97_1|Problema 1]]*
+
 Si consideri la funzione:
 $$f(x) = e^x(x^2 - 4x + 3).$$
 

@@ -16,6 +16,8 @@ Fonte: p.23 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_scuole_italiane_allestero_americhe_2005_sessione_o_problema2_23_1|Problema 1]]*
+
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione: $y = x^4 + ax^2 + b$, dove $a$ e $b$ sono parametri reali.
 
 **a)** Determinare a quali condizioni devono soddisfare tali parametri affinché la corrispondente curva sia situata nel semipiano $y \ge 0$.

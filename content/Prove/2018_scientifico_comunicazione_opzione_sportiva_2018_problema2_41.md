@@ -16,6 +16,8 @@ Fonte: p.41 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_scientifico_comunicazione_opzione_sportiva_2018_problema2_41_1|Problema 1]]*
+
 Siano $f: \mathbb{R} \to \mathbb{Z}$ e $g: \mathbb{R} \to \mathbb{R}$ rispettivamente le funzioni *parte intera* e *parte frazionaria* (o *mantissa*) di un numero. Tali funzioni sono così definite:
 
 $$f(x) = \max\{m \in \mathbb{Z} \mid m \leq x\} \quad \text{e} \quad g(x) = x - f(x).$$

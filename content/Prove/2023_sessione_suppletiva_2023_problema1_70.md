@@ -16,6 +16,8 @@ Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_suppletiva_2023_problema1_70_1|Problema 1]]*
+
 Assegnata la funzione:
 $$f(x)=a\,x\,\ln x-\frac{3}{2}x$$
 

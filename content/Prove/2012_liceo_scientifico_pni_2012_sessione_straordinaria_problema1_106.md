@@ -16,6 +16,8 @@ Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZH
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_liceo_scientifico_pni_2012_sessione_straordinaria_problema1_106_1|Problema 1]]*
+
 La sezione trasversale di un canale di irrigazione ha la forma di un trapezio isoscele con la base maggiore in alto. Sia la base minore che i due lati obliqui misurano 2 metri.
 
 1. Se $x$ è l'angolo acuto del trapezio, si dimostri che l'area della sezione trasversale del canale è: $$A(x)=4\operatorname{sen}x\,(1+\cos x).$$

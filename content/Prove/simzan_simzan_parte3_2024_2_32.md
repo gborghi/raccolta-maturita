@@ -17,6 +17,8 @@ Fonte: p.32 · [📄 Apri PDF](https://drive.google.com/file/d/13rbvhu2X5WpEjO1r
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte3_2024_2_32_1|Problema 1]]*
+
 Considera la funzione
 
 $$f_k(x)=\frac{k(2x+k)}{x^2+k},$$
@@ -35,6 +37,8 @@ dove $k$ è un parametro reale non nullo, e indica con $\gamma_k$ il suo grafico
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.32](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte3_2024_2_32_2|Problema 2]]*
 
 Considera la funzione
 
@@ -55,6 +59,8 @@ con $a$ e $b$ parametri reali non nulli.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_1|Quesito 1]]*
+
 1. Dato il quadrato $ABCD$ di lato $l$, siano $M$ e $N$ i punti medi dei lati consecutivi $BC$ e $CD$ rispettivamente. Traccia i segmenti $AM$, $BN$ e la diagonale $AC$. Indicati con $H$ il punto di intersezione tra $AM$ e $BN$ e con $K$ il punto di intersezione tra $BN$ e $AC$, dimostra che:
    a. $AM$ e $BN$ sono perpendicolari;
    b. $\overline{HK}=\dfrac{2\sqrt{5}}{15}\,l$.
@@ -66,6 +72,8 @@ con $a$ e $b$ parametri reali non nulli.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_2|Quesito 2]]*
+
 2. Nel riferimento cartesiano $Oxyz$ è data la superficie sferica di centro $O(0;0;0)$ e raggio 1. Ricava l'equazione del piano $\alpha$ tangente alla superficie sferica nel suo punto $B\left(\dfrac{2}{7};\dfrac{6}{7};\dfrac{3}{7}\right)$. Detti $P$, $Q$ e $R$ i punti in cui $\alpha$ interseca rispettivamente gli assi $x$, $y$ e $z$, determina l'area del triangolo $PQR$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -74,6 +82,8 @@ con $a$ e $b$ parametri reali non nulli.
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_3|Quesito 3]]*
 
 3. Andrea va a scuola ogni giorno con lo stesso autobus, dal lunedì al venerdì. Da una lunga serie di osservazioni ha potuto stabilire che la probabilità $p$ di trovare un posto libero a sedere è distribuita nel corso della settimana come indicato in tabella.
 
@@ -91,6 +101,8 @@ con $a$ e $b$ parametri reali non nulli.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_4|Quesito 4]]*
+
 4. Dimostra che il volume massimo di una piramide retta a base quadrata inscritta in una sfera è minore di $\dfrac{1}{2}$ del volume della sfera.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -99,6 +111,8 @@ con $a$ e $b$ parametri reali non nulli.
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_5|Quesito 5]]*
 
 5. Date le funzioni
 $$f(x)=\frac{a-2x}{x-3},\qquad g(x)=\frac{b-2x}{x+2}$$
@@ -112,6 +126,8 @@ ricava i valori di $a$ e $b$ per i quali i grafici di $f(x)$ e $g(x)$ si interse
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_6|Quesito 6]]*
+
 6. Determina il valore del parametro $a\in\mathbb{R}$ in modo tale che valga:
 $$\lim_{x\to 0}\frac{\sin x-x+ax^3}{2x(1-\cos x)}=\frac{17}{6}.$$
 
@@ -121,6 +137,8 @@ $$\lim_{x\to 0}\frac{\sin x-x+ax^3}{2x(1-\cos x)}=\frac{17}{6}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_7|Quesito 7]]*
 
 7. Data una generica funzione polinomiale di terzo grado
 $$y=ax^3+bx^2+cx+d$$
@@ -133,6 +151,8 @@ dimostra che le rette tangenti al grafico in punti con ascissa simmetrica rispet
 **Soluzione:** [[Soluzioni/simzan_simzan_parte3_2024_2_32#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/13rbvhu2X5WpEjO1rY9mtk-0kSB1vz9lJ/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte3_2024_2_32_8|Quesito 8]]*
 
 8. In figura è rappresentato il grafico $\gamma$ della funzione $y=xe^{-x^2}$. *(figura nel PDF)* Trova le tangenti inflessionali di $\gamma$, poi verifica che le aree delle due regioni di piano delimitate da $\gamma$ e da ciascuna delle tangenti sono uguali.
 

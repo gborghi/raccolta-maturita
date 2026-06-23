@@ -17,6 +17,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_1|Quesito 1]]*
+
 **Quesito 1.** Le ampiezze degli angoli di un triangolo sono $\alpha,\beta,\gamma$. Sapendo che $\cos\alpha=\frac{5}{13}$ e $\cos\beta=\frac{12}{13}$, calcolare il valore esatto di $\cos\gamma$, specificando se il triangolo è rettangolo, acutangolo o ottusangolo.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -25,6 +27,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_2|Quesito 2]]*
 
 **Quesito 2.** In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, è assegnata la curva di equazione $y=\cos x-2\sin x$. Determinare una traslazione degli assi che trasformi l'equazione nella forma $Y=k\sin X$.
 
@@ -35,6 +39,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_3|Quesito 3]]*
+
 **Quesito 3.** Un trapezio è circoscrittibile ad un cerchio. Dimostrare che il triangolo avente per vertici il centro del cerchio e gli estremi di uno dei lati obliqui è un triangolo rettangolo.
 
 **Topic:** [[Geometria Euclidea]]
@@ -44,6 +50,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_4|Quesito 4]]*
+
 **Quesito 4.** $x$ ed $y$ sono due numeri naturali qualsiasi tali che $x-y=1$. Stabilire se il numero $x^4-y^4$ è divisibile per 2 o se non lo è.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Calcolo Combinatorio]]
@@ -52,6 +60,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_5|Quesito 5]]*
 
 **Quesito 5.** Determinare il campo di esistenza della funzione:
 
@@ -65,6 +75,8 @@ $$y=\log\frac{(x-1)(x-2)(x-3)}{(x+1)(x+2)(x+3)}$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_6|Quesito 6]]*
+
 **Quesito 6.** La funzione reale di variabile reale $f(x)$ è derivabile in ogni $x$ per cui risulti $1.0\le x\le 1.1$; inoltre $f(1.1)=0$ e $1.0\le f'(x)\le 1.1$ in ogni $x$ dell'intervallo $1.0\le x\le 1.1$. Dimostrare che risulta: $-0.11\le f(1.0)\le -0.10$.
 
 **Topic:** [[Derivate]]
@@ -73,6 +85,8 @@ $$y=\log\frac{(x-1)(x-2)(x-3)}{(x+1)(x+2)(x+3)}$$
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_7|Quesito 7]]*
 
 **Quesito 7.** Sia $f(x)$ una funzione continua e non negativa nell'intervallo chiuso e limitato $a\le x\le b$, rappresentata graficamente in un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$. Indicata con $R$ la regione finita di piano delimitata dal grafico della funzione, dall'asse $x$ e dalle rette $x=a$ e $x=b$, dimostrare che il volume $V$ del solido generato dalla regione $R$ quando ruota di un giro completo intorno all'asse $x$ è dato dalla formula seguente:
 

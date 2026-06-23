@@ -17,6 +17,8 @@ Fonte: p.70 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_straordinaria_2024_prova_70_1|Problema 1]]*
+
 Sia data la seguente funzione parametrica:
 
 $$y=x^3+ax^2+c$$
@@ -37,6 +39,8 @@ d) Si dimostri infine che la funzione $f(x)$ è simmetrica rispetto al suo punto
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_straordinaria_2024_prova_70_2|Problema 2]]*
+
 Si consideri la funzione $f(x)=e^{-x^2}$.
 
 a) Tracciare, nel medesimo sistema di riferimento, il grafico $\gamma_1$ della funzione $f(x)$ e il grafico $\gamma_2$ della sua funzione derivata, individuando i loro asintoti, estremi e flessi. Successivamente scrivere le coordinate del punto $P$ in cui $\gamma_1$ e $\gamma_2$ si intersecano.
@@ -55,6 +59,8 @@ d) Posto $F(x)=\int_0^x e^{-t^2}\,dt$, calcolare il $\lim_{x\to 0}\frac{F(x)}{f'
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_1|Quesito 1]]*
+
 1. Sia data una circonferenza $\Gamma$ e siano $A\hat{C}B$ e $A\hat{D}B$ angoli alla circonferenza che insistono sull'arco $AB$, con $AC$ parallelo a $DB$. Detto $O$ il punto di intersezione di $BC$ e $AD$, dimostrare che i triangoli $ACO$ e $BOD$ sono isosceli e simili fra di loro.
 
 **Topic:** [[Geometria Euclidea]]
@@ -63,6 +69,8 @@ d) Posto $F(x)=\int_0^x e^{-t^2}\,dt$, calcolare il $\lim_{x\to 0}\frac{F(x)}{f'
 **Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.83](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_2|Quesito 2]]*
 
 2. Lanciando due dadi regolari a sei facce, qual è la probabilità di:
    - ottenere somma 10;
@@ -76,6 +84,8 @@ d) Posto $F(x)=\int_0^x e^{-t^2}\,dt$, calcolare il $\lim_{x\to 0}\frac{F(x)}{f'
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_3|Quesito 3]]*
+
 3. Il centro di una superficie sferica $S$ è il punto di intersezione tra la retta $r$ individuata dalle equazioni
 $$\begin{cases} x+y-2z=0 \\ 3x+2y-1=0 \end{cases}$$
 e la retta $t$ passante per i punti $A(-2,3,0)$ e $B(2,-1,2)$. La superficie $S$ è inoltre tangente al piano $\alpha$ di equazione $4x-2y-4z+1=0$. Qual è l'equazione di $S$?
@@ -86,6 +96,8 @@ e la retta $t$ passante per i punti $A(-2,3,0)$ e $B(2,-1,2)$. La superficie $S$
 **Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.84](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_4|Quesito 4]]*
 
 4. Determinare il valore del parametro reale $k>1$ in modo che il valor medio della funzione
 $$f(x)=\ln(x^3)+\frac{3x-3}{x}$$
@@ -98,6 +110,8 @@ sull'intervallo $[1,k]$ sia uguale a $1-\ln\left(\frac{5}{2}\right)$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_5|Quesito 5]]*
+
 5. Individuare e classificare i punti in cui la funzione $f(x)=|x-1|+\sqrt[3]{x^3+x^2}$ è continua ma non derivabile.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -106,6 +120,8 @@ sull'intervallo $[1,k]$ sia uguale a $1-\ln\left(\frac{5}{2}\right)$.
 **Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.86](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_6|Quesito 6]]*
 
 6. Determinare l'equazione di una funzione polinomiale di primo grado $y=f(x)$ tale che
 $$i)\ \int_0^1 f(x)\,dx=1 \qquad ii)\ \int_1^2 f(x)\,dx=2$$
@@ -117,6 +133,8 @@ $$i)\ \int_0^1 f(x)\,dx=1 \qquad ii)\ \int_1^2 f(x)\,dx=2$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_7|Quesito 7]]*
+
 7. In un sistema di riferimento cartesiano $Oxy$, l'equazione $xy=k$, con $k$ parametro reale non nullo, rappresenta un'iperbole equilatera riferita ai propri asintoti. Si dimostri che le rette tangenti nei suoi vertici sono perpendicolari alle bisettrici dei quadranti del sistema di riferimento considerato.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Derivate]]
@@ -125,6 +143,8 @@ $$i)\ \int_0^1 f(x)\,dx=1 \qquad ii)\ \int_1^2 f(x)\,dx=2$$
 **Soluzione:** [[Soluzioni/2024_sessione_straordinaria_2024_prova_70#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.88](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_straordinaria_2024_prova_70_8|Quesito 8]]*
 
 8. Scrive Paolo Giordano ne *La solitudine dei numeri primi*: «I numeri primi sono divisibili soltanto per 1 e per sé stessi. Se ne stanno al loro posto nell'infinita serie dei numeri naturali, schiacciati come tutti fra due, ma un passo in là rispetto agli altri». Si considerino la funzione $f(x)=x^p$ e la sua derivata $(p-1)$-esima $f^{(p-1)}$. Si può dimostrare che, se $p$ è un numero primo, allora $p$ divide $f^{(p-1)}+1$. Verificare la correttezza di tale affermazione per tutti i numeri primi minori di 10.
 

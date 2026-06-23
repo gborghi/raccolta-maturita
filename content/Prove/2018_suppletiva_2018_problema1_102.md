@@ -16,6 +16,8 @@ Fonte: p.102 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGg
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_suppletiva_2018_problema1_102_1|Problema 1]]*
+
 Un artigiano deve realizzare una cornice in cui inscrivere uno specchio di forma circolare. A partire da una tavola quadrata di lato $3\pi$ decimetri (approssimato alla seconda cifra decimale), adoperando una macchina a controllo numerico (CNC), incide su ciascun lato una decorazione che rappresenta una porzione di curva goniometrica.
 
 *(figure nel PDF)*

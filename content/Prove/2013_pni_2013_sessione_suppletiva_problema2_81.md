@@ -16,6 +16,8 @@ Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_pni_2013_sessione_suppletiva_problema2_81_1|Problema 1]]*
+
 **PNI 2013 – Sessione suppletiva — Problema 2**
 
 Si consideri la funzione:

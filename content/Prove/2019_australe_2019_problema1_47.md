@@ -16,6 +16,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGO
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_australe_2019_problema1_47_1|Problema 1]]*
+
 Si consideri la funzione
 $$f(x)=\begin{cases}a-\dfrac{b}{(1-x)^2}, & 0\le x<1\\[2mm] a+\dfrac{b}{(1-x)^2}, & x>1\end{cases}$$
 in cui $a$ e $b$ sono costanti positive.

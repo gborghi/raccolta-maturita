@@ -17,6 +17,8 @@ Fonte: p.31 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_suppletiva_2018_prova_31_1|Problema 1]]*
+
 Sia dato un sistema di assi cartesiani $Oxy$ in cui l'unità corrisponde a 1 metro. Una particella puntiforme si muove lungo l'asse delle ascisse, nel verso positivo, partendo dall'origine, con una velocità di 2 metri al secondo. Quando la particella si trova in un generico punto $x=a$, costruisci un triangolo prendendo le tangenti alla curva di equazione $y=ax-x^2$ nei punti di ascissa $0$ e $a$.
 
 1. Determina l'area del triangolo in funzione di $a$; quanto vale l'area del triangolo dopo 5 secondi?
@@ -30,6 +32,8 @@ Sia dato un sistema di assi cartesiani $Oxy$ in cui l'unità corrisponde a 1 met
 **Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_31#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.31](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_suppletiva_2018_prova_31_2|Problema 2]]*
 
 Fissato un numero reale $k>0$, si definiscono le funzioni:
 $$f_k(x)=k\ln(x) \qquad e \qquad g_k(x)=e^{\frac{x}{k}},$$
@@ -53,6 +57,8 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_1|Quesito 1]]*
+
 1. Considerati nel piano cartesiano i punti $A(0,0)$ e $B(\pi,0)$, sia $R$ la regione piana delimitata dal segmento $AB$ e dall'arco di curva avente equazione $y=4\operatorname{sen} x$, con $0\le x\le\pi$. Calcolare il massimo perimetro che può avere un rettangolo inscritto in $R$ avente un lato contenuto nel segmento $AB$.
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Trigonometria]]
@@ -61,6 +67,8 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 **Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_31#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.48](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_2|Quesito 2]]*
 
 2. Si consideri la funzione $f(x)=\frac{1}{x}$ nell'intervallo $[p,2p]$ e, detto $\gamma$ il suo grafico, sia $t$ la retta tangente a $\gamma$ nel suo punto di ascissa $p$. Determinare, al variare di $p$, le aree delle due parti in cui la retta $t$ divide la regione finita di piano compresa fra $\gamma$ e l'asse delle ascisse.
 
@@ -71,6 +79,8 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_3|Quesito 3]]*
+
 3. Determinare l'equazione della superficie sferica di centro $C(1,1,2)$ tangente al piano di equazione $x+y-z=10$ e le coordinate del punto di contatto tra la superficie sferica e il piano.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -79,6 +89,8 @@ i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.
 **Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_31#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.50](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_4|Quesito 4]]*
 
 4. Verificare che
 $$\int_0^{\frac{\pi}{2}}\cos^n(x)\,dx=\frac{n-1}{n}\int_0^{\frac{\pi}{2}}\cos^{n-2}(x)\,dx$$
@@ -91,6 +103,8 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_5|Quesito 5]]*
+
 5. Si lancia $n$ volte un dado regolare a sei facce. Qual è il più piccolo valore di $n$ tale che la probabilità che non esca mai il numero 3 sia minore dello $0{,}01\%$?
 
 **Topic:** [[Probabilita]], [[Esponenziali e Logaritmi]]
@@ -99,6 +113,8 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 **Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_31#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.51](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_6|Quesito 6]]*
 
 6. Data la funzione $y=x^2+ax+b-3$, determinare il valore dei coefficienti $a$ e $b$ per i quali il grafico della funzione è tangente nel punto di ascissa $x=1$ alla retta di equazione $y=7x-9$.
 
@@ -109,6 +125,8 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_7|Quesito 7]]*
+
 7. Date le curve $\gamma_1$ e $\gamma_2$ di equazioni rispettivamente $y=x^2+1$ e $y=x^2-8x+9$, sia $t$ la retta che è tangente a entrambe. Stabilire l'area della regione piana di area finita che è delimitata da $\gamma_1$, $\gamma_2$ e $t$.
 
 **Topic:** [[Calcolo Integrale]], [[Derivate]], [[Geometria Analitica (piano)]]
@@ -117,6 +135,8 @@ per $n>1$ e usare questo risultato per calcolare $\int_0^{\frac{\pi}{2}}\cos^4(x
 **Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_31#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.52](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_8|Quesito 8]]*
 
 8. Una variabile casuale, a valori nell'intervallo $[0,10]$, è distribuita secondo la densità di probabilità data dalla funzione
 $$f(x)=\begin{cases}\dfrac{1}{3}-\dfrac{1}{4}x, & 0\le x\le 1\\[2mm] \dfrac{1}{12}, & 1<x\le 10\end{cases}$$
@@ -129,6 +149,8 @@ Stabilire il valore medio e il valore mediano di questa variabile casuale.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_9|Quesito 9]]*
+
 9. Determinare il luogo geometrico dei punti $P(x,y,z)$ equidistanti dai punti $A(0,1,2)$ e $B(3,2,0)$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -137,6 +159,8 @@ Stabilire il valore medio e il valore mediano di questa variabile casuale.
 **Soluzione:** [[Soluzioni/2018_sessione_suppletiva_2018_prova_31#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_suppletiva_2018_prova_31_10|Quesito 10]]*
 
 10. Verificare che la funzione $y=e^{-x}\operatorname{sen} x$ è soluzione dell'equazione differenziale $y''+2y'+2y=0$.
 

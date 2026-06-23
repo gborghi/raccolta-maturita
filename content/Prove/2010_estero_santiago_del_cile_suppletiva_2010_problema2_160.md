@@ -16,6 +16,8 @@ Fonte: p.160 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_estero_santiago_del_cile_suppletiva_2010_problema2_160_1|Problema 1]]*
+
 Nel piano è fissato il sistema di coordinate $Oxy$.
 
 **a)** Si determini l'equazione della parabola passante per $A(2,2)$ e tangente in $O$ alla retta $y=-x$.

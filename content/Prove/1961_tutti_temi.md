@@ -16,6 +16,8 @@ Fonte: p.100 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1961_tutti_temi_1|Problema 1]]*
+
 [Conclusione del problema precedente] $\dots$ $BC$ risulti ipotenusa di un triangolo rettangolo di cateti rispettivamente eguali a $CP$ e alla metà di $BP$. È facoltativa la risoluzione geometrica.
 
 In un piano, sul quale è fissato un sistema di assi cartesiani ortogonali $xOy$, si considerino le curve di equazione:

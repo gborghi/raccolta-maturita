@@ -16,6 +16,8 @@ Fonte: p.77 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1929_tutti_temi_1|Problema 1]]*
+
 Considerando una qualunque dei triangoli rettangoli aventi un cerchio dato di raggio $r$ come cerchio inscritto o ex-inscritto tangente all'ipotenusa, far vedere che tra i cateti $x$ ed $y$ del triangolo sussiste sempre la relazione:
 
 $$xy - 2r(x + y) + 2r^2 = 0. \tag{1}$$

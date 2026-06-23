@@ -16,6 +16,8 @@ Fonte: p.84 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_europa_2015_problema1_84_1|Problema 1]]*
+
 Sei il responsabile del controllo della navigazione della nave indicata in Figura 1 con il punto $P$. Nel sistema di riferimento cartesiano $Oxy$ le posizioni della nave $P$, misurate negli istanti $t=0$ e $t=10$ (il tempo $t$ è misurato in minuti, le coordinate $x$ e $y$ sono espresse in miglia nautiche), sono date dai punti $P_1(14,13)$ e $P_2(12,11)$. Negli stessi istanti la posizione di una seconda nave $Q$ è data dai punti $Q_1(12,-2)$ e $Q_2(11,-1)$. Entrambe le navi si muovono in linea retta e con velocità costante, come rappresentato in Figura 1 (non in scala). *(figura nel PDF)*
 
 L'area indicata con ZMP è una "Zona Marittima Pericolosa". Il raggio luminoso di un faro posto nel punto $F$ di coordinate $(0,1)$ spazza un quarto di un cerchio di raggio 10 miglia (vedi Figura 1).

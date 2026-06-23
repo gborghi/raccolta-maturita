@@ -16,6 +16,8 @@ Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_ordinamento_2013_problema2_10_1|Problema 1]]*
+
 Sia $\Phi$ la curva di equazione
 $$f(x)=\frac{8}{4+x^2}.$$
 

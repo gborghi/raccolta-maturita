@@ -16,6 +16,8 @@ Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_liceo_della_comunicazione_2012_sessione_ordinaria_problema1_42_1|Problema 1]]*
+
 Sia $f(x)=\sqrt{\ln^2(-x)-\ln x^2+1}$ e sia $g(x)=\sqrt{\ln^2(x)-\ln x^2+1}$.
 
 **1)** Si determinino i domini di $f$ e di $g$.

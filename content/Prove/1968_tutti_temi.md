@@ -16,6 +16,8 @@ Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1968_tutti_temi_1|Problema 1]]*
+
 **Problema.** Sia $ABC$ un triangolo equilatero di lato $a$ ed $E$ un punto generico del lato $AC$. Condotta per $E$ la parallela ad $AB$ ed indicata con $F$ la sua intersezione con $BC$, si denoti con $D$ il punto del prolungamento di $EF$, dalla parte di $F$, tale che sia
 
 $$|FD| = \frac{1}{2}|EF|.$$

@@ -16,6 +16,8 @@ Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_scuole_italiane_allestero_europa_2013_problema2_34_1|Problema 1]]*
+
 Sia $f$ la funzione definita da $f(x)=\dfrac{\ln x}{x}$ per tutti i numeri reali $x>0$.
 
 1. Si studi $f$ e se ne tracci il grafico $\Phi$ indicando le coordinate degli eventuali punti di massimo, di minimo o di flesso.

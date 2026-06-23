@@ -16,6 +16,8 @@ Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_straordinaria_2000_problema3_29_1|Problema 1]]*
+
 Della parabola $f(x) = ax^2 + bx + c$ si hanno le seguenti informazioni, tutte localizzate nel punto $x = 0$:
 $$f(0) = 1, \qquad f'(0) = 0, \qquad f''(0) = 2.$$
 

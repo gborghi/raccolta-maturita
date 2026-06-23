@@ -16,6 +16,8 @@ Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_straordinaria_2024_problema1_72_1|Problema 1]]*
+
 Sia data la seguente funzione parametrica:
 $$y=x^3+ax^2+c$$
 

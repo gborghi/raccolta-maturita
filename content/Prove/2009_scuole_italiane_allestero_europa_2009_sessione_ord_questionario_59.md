@@ -17,6 +17,8 @@ Fonte: p.59 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_1|Quesito 1]]*
+
 **QUESITO 1.** Un tetraedro regolare e un cubo hanno superfici equivalenti. Si determini il rapporto dei rispettivi spigoli.
 
 **Topic:** [[Geometria Solida]]
@@ -25,6 +27,8 @@ Fonte: p.59 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_2|Quesito 2]]*
 
 **QUESITO 2.** Si dimostri che l'equazione: $$x^{11}+11x+5=0$$ ha una sola radice compresa fra $-1$ e $0$.
 
@@ -36,6 +40,8 @@ Fonte: p.59 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_3|Quesito 3]]*
+
 **QUESITO 3.** Si determini il campo di esistenza della funzione: $$f:x\to\ln(-2x^2+4x+6).$$
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -46,6 +52,8 @@ Fonte: p.59 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_4|Quesito 4]]*
+
 **QUESITO 4.** Qual è il periodo della funzione $f(x)=\cos(3x+1)$? Si dia ragione della risposta.
 
 **Topic:** [[Trigonometria]]
@@ -54,6 +62,8 @@ Fonte: p.59 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_5|Quesito 5]]*
 
 **QUESITO 5.** Si sa che una grandezza fisica $y$ dipende da un'altra $x$ secondo una legge del tipo $y=kx^\alpha$ dove $k$ e $\alpha$ sono costanti incognite. Una misura simultanea di $x$ e $y$, eseguita in due diverse situazioni, ha dato i risultati riportati nella tabella seguente:
 
@@ -70,6 +80,8 @@ Si calcolino $k$ e $\alpha$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_6|Quesito 6]]*
+
 **QUESITO 6.** Si calcoli: $$\lim_{x\to 0}\frac{1-\cos x}{x^2}.$$
 
 **Topic:** [[Limiti e Continuita]], [[Trigonometria]]
@@ -79,6 +91,8 @@ Si calcolino $k$ e $\alpha$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_7|Quesito 7]]*
+
 **QUESITO 7.** Dati due punti $A$ e $B$ distanti tra loro $4\ \mathrm{dm}$, si dica qual è il luogo dei punti $C$ dello spazio tali che il triangolo $ABC$ sia rettangolo in $A$ ed abbia area uguale a $2\ \mathrm{cm}^2$.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
@@ -87,6 +101,8 @@ Si calcolino $k$ e $\alpha$.
 **Soluzione:** [[Soluzioni/2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.61](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2009_scuole_italiane_allestero_europa_2009_sessione_ord_questionario_59_8|Quesito 8]]*
 
 **QUESITO 8.** Si determini il cilindro di massimo volume che si può inscrivere in una sfera di $60\ \mathrm{cm}$ di raggio. Quale è la capacità di tale cilindro, espressa in litri?
 

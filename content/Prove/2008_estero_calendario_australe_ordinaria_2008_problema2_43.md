@@ -16,6 +16,8 @@ Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_estero_calendario_australe_ordinaria_2008_problema2_43_1|Problema 1]]*
+
 Il trapezio $ABCD$ è isoscele e circoscritto ad un cerchio di raggio $1$. Si ponga la base minore $CD = 2x$.
 
 **1)** Si provi che è: $AB = \dfrac{2}{x}$.

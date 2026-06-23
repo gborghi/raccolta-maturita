@@ -16,6 +16,8 @@ Fonte: p.51 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema2_51_1|Problema 1]]*
+
 Sia $T$ il tetraedro regolare di lato $1.20$ m.
 
 **1)** Si calcoli il volume, espresso come capacità in litri, di $T$.

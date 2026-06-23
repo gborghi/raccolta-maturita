@@ -16,6 +16,8 @@ Fonte: p.128 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_suppletiva_pni_2003_problema2_128_1|Problema 1]]*
+
 In un trapezio rettangolo $ABCD$, circoscritto a un cerchio, $AB$ è la base maggiore, $CD$ la minore e $BC$ il lato obliquo. Le misure, considerate rispetto alla stessa unità di misura, del raggio del cerchio e del perimetro del trapezio sono nell'ordine $2$ e $18$.
 
 a) Calcolare le misure dei lati del trapezio.

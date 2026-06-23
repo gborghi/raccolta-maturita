@@ -17,6 +17,8 @@ Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOB
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_ordinaria_2019_prova_6_1|Problema 1]]*
+
 Si considerino le seguenti funzioni:
 $$f(x)=ax^2-x+b \qquad\qquad g(x)=(ax+b)\,e^{2x-x^2}$$
 
@@ -37,6 +39,8 @@ I tre fili sono percorsi da correnti continue di intensità $i_1=2{,}0$ A, $i_2$
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_ordinaria_2019_prova_6_2|Problema 2]]*
 
 Un condensatore piano è formato da due armature circolari di raggio $R$, poste a distanza $d$, dove $R$ e $d$ sono espresse in metri (m). Viene applicata alle armature una differenza di potenziale variabile nel tempo e inizialmente nulla.
 
@@ -62,6 +66,8 @@ Calcolare la d.d.p. tra le armature del condensatore. A quale valore tende $|\ve
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_1|Quesito 1]]*
+
 1. Una data funzione è esprimibile nella forma $f(x)=\dfrac{p(x)}{x^2+d}$, dove $d\in\mathbb{R}$ e $p(x)$ è un polinomio. Il grafico di $f$ interseca l'asse $x$ nei punti di ascisse $0$ e $12/5$ ed ha come asintoti le rette di equazione $x=3$, $x=-3$ e $y=5$. Determinare i punti di massimo e di minimo relativi della funzione $f$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Massimi e Minimi]], [[Derivate]]
@@ -71,6 +77,8 @@ Calcolare la d.d.p. tra le armature del condensatore. A quale valore tende $|\ve
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.20](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_2|Quesito 2]]*
 
 2. È assegnata la funzione
 $$g(x)=\sum_{n=1}^{1010} x^{2n-1}=x+x^3+x^5+x^7+\cdots+x^{2017}+x^{2019}$$
@@ -83,6 +91,8 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_3|Quesito 3]]*
+
 3. Tra tutti i parallelepipedi rettangoli a base quadrata, con superficie totale di area $S$, determinare quello per cui la somma delle lunghezze degli spigoli è minima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -92,6 +102,8 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_4|Quesito 4]]*
+
 4. Dati i punti $A(2,0,-1)$ e $B(-2,2,1)$, provare che il luogo geometrico dei punti $P$ dello spazio, tali che $PA=\sqrt{2}\,PB$, è costituito da una superficie sferica $S$ e scrivere la sua equazione cartesiana. Verificare che il punto $T(-10,8,7)$ appartiene a $S$ e determinare l'equazione del piano tangente in $T$ a $S$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -100,6 +112,8 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_5|Quesito 5]]*
 
 5. Si lanciano 4 dadi con facce numerate da 1 a 6.
    - Qual è la probabilità che la somma dei 4 numeri usciti non superi 5?
@@ -113,6 +127,8 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_6|Quesito 6]]*
+
 6. Una spira di rame, di resistenza $R=4{,}0$ m$\Omega$, racchiude un'area di $30\ \text{cm}^2$ ed è immersa in un campo magnetico uniforme, le cui linee di forza sono perpendicolari alla superficie della spira. La componente del campo magnetico perpendicolare alla superficie varia nel tempo come indicato in figura. Spiegare la relazione esistente tra la variazione del campo che induce la corrente e il verso della corrente indotta. Calcolare la corrente media che passa nella spira durante i seguenti intervalli di tempo: a) da $0{,}0$ ms a $3{,}0$ ms; b) da $3{,}0$ ms a $5{,}0$ ms; c) da $5{,}0$ ms a $10$ ms. *(figura nel PDF)*
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -122,6 +138,8 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_7|Quesito 7]]*
+
 7. In laboratorio si sta osservando il moto di una particella che si muove nel verso positivo dell'asse $x$ di un sistema di riferimento ad esso solidale. All'istante iniziale, la particella si trova nell'origine e in un intervallo di tempo di $2{,}0$ ns percorre una distanza di $25$ cm. Una navicella passa con velocità $v=0{,}80\,c$ lungo la direzione $x$ del laboratorio, nel verso positivo, e da essa si osserva il moto della stessa particella. Determinare le velocità medie della particella nei due sistemi di riferimento. Quale intervallo di tempo e quale distanza misurerebbe un osservatore posto sulla navicella?
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -130,6 +148,8 @@ Provare che esiste un solo $x_0\in\mathbb{R}$ tale che $g(x_0)=0$. Determinare i
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_prova_6#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_prova_6_8|Quesito 8]]*
 
 8. Un protone penetra in una regione di spazio in cui è presente un campo magnetico uniforme di modulo $|\vec{B}|=1{,}00$ mT. Esso inizia a muoversi descrivendo una traiettoria ad elica cilindrica, con passo costante $\Delta x=38{,}1$ cm, ottenuta dalla composizione di un moto circolare uniforme di raggio $r=10{,}5$ cm e di un moto rettilineo uniforme. Determinare il modulo del vettore velocità e l'angolo che esso forma con $\vec{B}$.
 

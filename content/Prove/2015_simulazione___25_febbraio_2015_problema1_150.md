@@ -16,6 +16,8 @@ Fonte: p.150 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_simulazione___25_febbraio_2015_problema1_150_1|Problema 1]]*
+
 25-FEBBRAIO-2015_Problema1_150
 parent_node: prova_2015_simulazione___25_febbraio_2015_problema1_150
 tipo_item: Problema

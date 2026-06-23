@@ -17,6 +17,8 @@ Fonte: p.69 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_1|Quesito 1]]*
+
 **Quesito 1.** Si trovi l'area della regione delimitata dalla curva $y = \cos(x)$ e dall'asse $x$ da $x = 1$ a $x = 2$ radianti.
 
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
@@ -26,6 +28,8 @@ Fonte: p.69 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_2|Quesito 2]]*
+
 **Quesito 2.** Si trovi il punto della curva $y = \sqrt{x}$ più vicino al punto di coordinate $(4; 0)$.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
@@ -34,6 +38,8 @@ Fonte: p.69 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_3|Quesito 3]]*
 
 **Quesito 3.** Si calcoli
 $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
@@ -45,6 +51,8 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_4|Quesito 4]]*
+
 **Quesito 4.** Il numero delle combinazioni di $n$ oggetti a $4$ a $4$ è uguale al numero delle combinazioni degli stessi oggetti a $3$ a $3$. Si trovi $n$.
 
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
@@ -53,6 +61,8 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_5|Quesito 5]]*
 
 **Quesito 5.** In una delle sue opere G. Galilei fa porre da Salviati, uno dei suoi personaggi, la seguente questione riguardante l'insieme $N$ dei numeri naturali («i numeri tutti»). Dice Salviati: «...se io dirò, i numeri tutti, comprendendo i quadrati e i non quadrati, esser più che i quadrati soli, dirò proposizione verissima: non è così?». Quale la risposta (motivata) all'interrogativo posto?
 
@@ -63,6 +73,8 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_6|Quesito 6]]*
+
 **Quesito 6.** Di tutti i coni inscritti in una sfera di raggio $10$ cm, qual è quello di superficie laterale massima?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -71,6 +83,8 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.71](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_7|Quesito 7]]*
 
 **Quesito 7.** Un test d'esame consta di dieci domande, per ciascuna delle quali si deve scegliere l'unica risposta corretta fra quattro alternative. Quale è la probabilità che, rispondendo a caso alle dieci domande, almeno due risposte risultino corrette?
 
@@ -81,6 +95,8 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_8|Quesito 8]]*
+
 **Quesito 8.** In che cosa consiste il problema della quadratura del cerchio? E perché è così spesso citato?
 
 **Topic:** [[Geometria Euclidea]]
@@ -90,6 +106,8 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_9|Quesito 9]]*
+
 **Quesito 9.** Si provi che, nello spazio ordinario a tre dimensioni, il luogo dei punti equidistanti dai tre vertici di un triangolo rettangolo è la retta perpendicolare al piano del triangolo passante per il punto medio dell'ipotenusa.
 
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
@@ -98,6 +116,8 @@ $$\lim_{x \to a} \frac{\tan x - \tan a}{x - a}.$$
 **Soluzione:** [[Soluzioni/2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2011_liceo_della_comunicazione_2011_sessione_ordinaria_questionario_69_10|Quesito 10]]*
 
 **Quesito 10.** Nella figura a lato, denotati con I, II e III, sono disegnati tre grafici. Uno di essi è il grafico di una funzione $f$, un altro lo è della funzione derivata $f'$ e l'altro ancora di $f''$. Quale delle seguenti alternative identifica correttamente ciascuno dei tre grafici?
 

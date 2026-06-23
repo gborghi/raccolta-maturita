@@ -16,6 +16,8 @@ Fonte: p.90 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_pni_2014_sessione_suppletiva_problema1_90_1|Problema 1]]*
+
 La curva $\gamma$ è rappresentata dalle seguenti equazioni parametriche:
 
 $$x = \frac{t + 1}{t}, \qquad y = \frac{t^2 + 1}{t}$$

@@ -16,6 +16,8 @@ Fonte: p.106 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_liceo_scientifico_pni_2011_sessione_straordinaria_problema1_106_1|Problema 1]]*
+
 È dato il segmento $AB = 2$. Dal punto $A$ si tracci una semiretta $s$ formante un angolo acuto $\alpha$ con la direzione $AB$ e si denoti con $C$ la proiezione ortogonale del punto $B$ sulla semiretta $s$. Si costruisca su $AC$, esternamente al triangolo $ABC$, un triangolo equilatero $ACM$.
 
 **a)** Detto $O$ il punto medio di $AB$, si calcoli il valore $y$ di $\overline{OM}^2$ e lo si esprima in funzione di $x = \tan\alpha$ controllando che risulta:

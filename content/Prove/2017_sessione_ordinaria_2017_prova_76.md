@@ -17,6 +17,8 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_ordinaria_2017_prova_76_1|Problema 1]]*
+
 Fissato $\lambda\in\mathbb{R}$, la funzione $g_\lambda$ è così definita:
 $$g_\lambda(x)=\frac{x-2}{x^2-\lambda}$$
 e si indica con $\Gamma_\lambda$ il suo grafico, in un riferimento cartesiano $Oxy$.
@@ -36,6 +38,8 @@ e si indica con $\Gamma_\lambda$ il suo grafico, in un riferimento cartesiano $O
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_76#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_ordinaria_2017_prova_76_2|Problema 2]]*
 
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, periodica di periodo $T=4$ il cui grafico, nell'intervallo $[0;4]$, è il seguente. *(figura nel PDF)*
 
@@ -64,6 +68,8 @@ discuti, anche con argomentazioni qualitative, le variazioni (in aumento o in di
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_1|Quesito 1]]*
+
 1. Definito il numero $E$ come:
 $$E=\int_0^1 x e^x\,dx,$$
 dimostrare che risulta:
@@ -77,6 +83,8 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_2|Quesito 2]]*
+
 2. Una torta di forma cilindrica è collocata sotto una cupola di plastica di forma semisferica. Dimostrare che la torta occupa meno dei $3/5$ del volume della semisfera.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -85,6 +93,8 @@ ed esprimere $\int_0^1 x^3 e^x\,dx$ in termini di $e$ ed $E$.
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_76#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.96](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_3|Quesito 3]]*
 
 3. Sapendo che:
 $$\lim_{x\to 0}\frac{\sqrt{ax+2b}-6}{x}=1$$
@@ -97,6 +107,8 @@ determinare i valori di $a$ e $b$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_4|Quesito 4]]*
+
 4. Per sorteggiare numeri reali nell'intervallo $[0,2]$ viene realizzato un generatore di numeri casuali che fornisce numeri distribuiti, in tale intervallo, con densità di probabilità data dalla funzione:
 $$f(x)=\frac{3}{2}x^2-\frac{3}{4}x^3$$
 Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il primo numero estratto sia $4/3$? Qual è la probabilità che il secondo numero estratto sia minore di $1$?
@@ -107,6 +119,8 @@ Quale sarà il valore medio dei numeri generati? Qual è la probabilità che il 
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_76#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.98](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_5|Quesito 5]]*
 
 5. Scrivere l'equazione della retta tangente al grafico della funzione:
 $$f(x)=\operatorname{sen}(x)+\cos(x)$$
@@ -119,6 +133,8 @@ nel punto di ascissa $x_0=\pi$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_6|Quesito 6]]*
+
 6. Determinare il numero reale $a$ in modo che il valore di
 $$\lim_{x\to 0}\frac{\operatorname{sen}(x)-x}{x^a}$$
 sia un numero reale non nullo.
@@ -129,6 +145,8 @@ sia un numero reale non nullo.
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_76#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.99](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_7|Quesito 7]]*
 
 7. Stabilire se la funzione:
 $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
@@ -142,6 +160,8 @@ $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_8|Quesito 8]]*
+
 8. Un dado ha la forma di un dodecaedro regolare con le facce numerate da 1 a 12. Il dado è truccato in modo che la faccia contrassegnata dal numero 3 si presenti con una probabilità $p$ doppia rispetto a ciascun'altra faccia. Determinare il valore di $p$ in percentuale e calcolare la probabilità che in 5 lanci del dado la faccia numero 3 esca almeno 2 volte.
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -150,6 +170,8 @@ $$f(x)=\frac{x+2\sqrt{2}}{x^2-8}$$
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_76#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_9|Quesito 9]]*
 
 9. Dimostrare che l'equazione:
 $$\operatorname{arctg}(x)+x^3+e^x=0$$
@@ -162,6 +184,8 @@ ha una e una sola soluzione reale.
 **Soluzione:** [[Soluzioni/2017_sessione_ordinaria_2017_prova_76#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.100](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQzFajR9XIyzxnaMMGP/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2017_sessione_ordinaria_2017_prova_76_10|Quesito 10]]*
 
 10. Data la funzione:
 $$f(x)=|4-x^2|$$

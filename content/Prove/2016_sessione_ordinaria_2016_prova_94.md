@@ -17,6 +17,8 @@ Fonte: p.94 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_ordinaria_2016_prova_94_1|Problema 1]]*
+
 La funzione $f:\mathbb{R}\to\mathbb{R}$ è così definita:
 
 $$f(x)=\begin{cases}\dfrac{\operatorname{sen}(x)}{x} & \text{per } x\neq 0\\[2mm] 1 & \text{per } x=0\end{cases}$$
@@ -46,6 +48,8 @@ traccia un grafico indicativo dell'andamento della funzione $F$, individuandone,
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_ordinaria_2016_prova_94_2|Problema 2]]*
+
 Nella figura 1 è rappresentato il grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$, derivabile in $]0,+\infty)$, e sono indicate le coordinate di alcuni suoi punti.
 
 È noto che $\Gamma$ è tangente all'asse $y$ in $A$, che $B$ ed $E$ sono un punto di massimo e uno di minimo, che $C$ è un punto di flesso con tangente di equazione $2x+y-8=0$. Nel punto $D$ la retta tangente ha equazione $x+2y-5=0$ e per $x\geq 8$ il grafico consiste in una semiretta passante per il punto $G$. Si sa inoltre che l'area della regione delimitata dall'arco $ABCD$, dall'asse $x$ e dall'asse $y$ vale 11, mentre l'area della regione delimitata dall'arco $DEF$ e dall'asse $x$ vale 1.
@@ -71,6 +75,8 @@ specificando l'insieme di definizione di ciascuna di esse.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_1|Quesito 1]]*
+
 1. È noto che $\displaystyle\int_{-\infty}^{+\infty}e^{-x^2}\,dx=\sqrt{\pi}$. Stabilire se il numero reale $u$, tale che $\displaystyle\int_{-\infty}^{u}e^{-x^2}\,dx=1$, è positivo oppure negativo. Determinare inoltre i valori dei seguenti integrali, motivando le risposte:
 $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int_{-\infty}^{+\infty}e^{-5x^2}\,dx$$
 
@@ -82,6 +88,8 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_2|Quesito 2]]*
+
 2. Data una parabola di equazione $y=1-ax^2$, con $a>0$, si vogliono inscrivere dei rettangoli, con un lato sull'asse $x$, nel segmento parabolico delimitato dall'asse $x$. Determinare $a$ in modo tale che il rettangolo di area massima sia anche il rettangolo di perimetro massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
@@ -90,6 +98,8 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_94#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.94](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_3|Quesito 3]]*
 
 3. Un recipiente sferico con raggio interno $r$ è riempito con un liquido fino all'altezza $h$. Utilizzando il calcolo integrale, dimostrare che il volume del liquido è dato da: $V=\pi\cdot\left(rh^2-\dfrac{h^3}{3}\right)$.
 
@@ -100,6 +110,8 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_4|Quesito 4]]*
+
 4. Un test è costituito da 10 domande a risposta multipla, con 4 possibili risposte di cui solo una è esatta. Per superare il test occorre rispondere esattamente almeno a 8 domande. Qual è la probabilità di superare il test rispondendo a caso alle domande?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -109,6 +121,8 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_5|Quesito 5]]*
+
 5. Quali punti del grafico della funzione $f(x)=\dfrac{2}{x^2}$ hanno distanza minima dall'origine?
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Geometria Analitica (piano)]]
@@ -117,6 +131,8 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_94#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.94](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_6|Quesito 6]]*
 
 6. Si stabilisca se la seguente affermazione è vera o falsa, giustificando la risposta: "Esiste un polinomio $P(x)$ tale che: $|P(x)-\cos(x)|\leq 10^{-3}$, $\forall x\in\mathbb{R}$".
 
@@ -128,6 +144,8 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_7|Quesito 7]]*
+
 7. Una pedina è collocata nella casella in basso a sinistra di una scacchiera, come in figura. Ad ogni mossa, la pedina può essere spostata o nella casella alla sua destra o nella casella sopra di essa. Scelto casualmente un percorso di 14 mosse che porti la pedina nella casella d'angolo opposta A, qual è la probabilità che essa passi per la casella indicata con B? *(figura nel PDF)*
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -136,6 +154,8 @@ $$A=\int_{-u}^{u}x^7 e^{-x^2}\,dx\qquad B=\int_{-u}^{u}e^{-x^2}\,dx\qquad C=\int
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_94#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.94](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_8|Quesito 8]]*
 
 8. Calcolare il valore del limite:
 $$\lim_{x\to 6}\frac{6-\sqrt{5x+6}}{x^2-8x+12}$$
@@ -148,6 +168,8 @@ senza adoperare la regola di de l'Hôpital.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_9|Quesito 9]]*
+
 9. Data la funzione $f(x)$ definita in $\mathbb{R}$, $f(x)=e^x(2x+x^2)$, individuare la primitiva di $f(x)$ il cui grafico passa per il punto $(1,2e)$.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -156,6 +178,8 @@ senza adoperare la regola di de l'Hôpital.
 **Soluzione:** [[Soluzioni/2016_sessione_ordinaria_2016_prova_94#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.94](https://drive.google.com/file/d/1n2gTKzWAkc1lds8IWiZzygbuYhAllCSd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2016_sessione_ordinaria_2016_prova_94_10|Quesito 10]]*
 
 10. Sia $f$ la funzione così definita nell'intervallo $]1,+\infty)$:
 $$f(x)=\int_e^{x^2}\frac{t}{\ln t}\,dt$$

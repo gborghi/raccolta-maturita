@@ -16,6 +16,8 @@ Fonte: p.24 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsn
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_estero_1999_problema3_24_1|Problema 1]]*
+
 a) Fornire la definizione di piramide retta.
 
 b) Tra le piramidi rette triangolari, aventi la stessa altezza e uguale perimetro di base, determinare quella che ha il volume massimo.

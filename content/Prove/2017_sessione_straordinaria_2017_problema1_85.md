@@ -16,6 +16,8 @@ Fonte: p.85 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_straordinaria_2017_problema1_85_1|Problema 1]]*
+
 L'azienda per cui lavori vuole aprire in città una pista di pattinaggio su ghiaccio e ti ha dato l'incarico di occuparti del progetto.
 
 La pista verrà realizzata su un terreno di forma rettangolare, di base 40 metri e altezza 20 metri, e secondo le specifiche che ti sono state fornite sarà di forma ellittica e avrà area pari a $600\,m^2$. Stabilito un sistema di assi cartesiani $Oxy$, il cui centro coincide con il centro dell'ellisse e con quello del rettangolo, in figura 1 sono rappresentati il terreno e la pista, in figura 2 la regione relativa al primo quadrante. La superficie in grigio è da adibire a deposito e a servizi tecnici, per cui deve essere inaccessibile al pubblico: essa è delimitata dalle tangenti alla pista passanti per i punti medi dei lati verticali $AB$ e $CD$. *(figure nel PDF)*

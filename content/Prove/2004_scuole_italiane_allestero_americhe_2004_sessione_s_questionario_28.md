@@ -17,6 +17,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_1|Quesito 1]]*
+
 **Quesito 1.** Della funzione $f(x)$ si sa che: $f''(x)=2^x$, $f'(0)=0$, $f(0)=\left(\dfrac{1}{\log 2}\right)^2$. Quale è $f(x)$?
 
 *(N.B. Si suppone che con $\log$ si intenda il logaritmo naturale $\ln$.)*
@@ -28,6 +30,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_2|Quesito 2]]*
+
 **Quesito 2.** Determinare la derivata della funzione $\sqrt{x}$ usando la definizione.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -36,6 +40,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_3|Quesito 3]]*
 
 **Quesito 3.** Determinare un polinomio $P(x)$ tale che:
 $$P(0)=P(1)=0,\quad P'(1)=1 \quad\text{e}\quad \int_0^1 P(x)\,dx=1.$$
@@ -46,6 +52,8 @@ $$P(0)=P(1)=0,\quad P'(1)=1 \quad\text{e}\quad \int_0^1 P(x)\,dx=1.$$
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_4|Quesito 4]]*
 
 **Quesito 4.** Sia $a$ un parametro reale e sia $f$ una funzione definita da
 $$(a-x)\,f(x-a)+f(a-x)=a-x,\qquad \text{per ogni } x\in\mathbb{R}.$$
@@ -58,6 +66,8 @@ Determinare $f$.
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.29](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_5|Quesito 5]]*
 
 **Quesito 5.** Nel piano $Oxy$ l'equazione $x^2-100=0$ rappresenta:
 a) una parabola;
@@ -74,6 +84,8 @@ Motivare la risposta.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_6|Quesito 6]]*
+
 **Quesito 6.** Sapendo che $\displaystyle\lim_{x\to 4}\frac{f(x)-5}{\sqrt{x}-2}=1$, trovare $\displaystyle\lim_{x\to 4} f(x)$.
 
 **Topic:** [[Limiti e Continuita]]
@@ -83,6 +95,8 @@ Motivare la risposta.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_7|Quesito 7]]*
+
 **Quesito 7.** Si spieghi perché la derivata di $\sin x$ è $\cos x$ e si calcoli la derivata d'ordine $725$ di $\sin x$.
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -91,6 +105,8 @@ Motivare la risposta.
 **Soluzione:** [[Soluzioni/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.31](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_8|Quesito 8]]*
 
 **Quesito 8.** Si dia un esempio di solido il cui volume sia $40\pi$.
 

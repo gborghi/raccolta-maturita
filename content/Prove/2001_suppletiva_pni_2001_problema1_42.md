@@ -16,6 +16,8 @@ Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1rPhDiY_ek9MnO2Cg
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2001_suppletiva_pni_2001_problema1_42_1|Problema 1]]*
+
 Le misure $a$, $b$, $c$ dei lati di un triangolo $ABC$ sono in progressione aritmetica di ragione $k$.
 
 **a)** Si esprima, in funzione di $k$, il raggio $r$ della circonferenza inscritta nel triangolo.

@@ -16,6 +16,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_americhe_boreale_2010_sessione_suppletiva_problema1_28_1|Problema 1]]*
+
 Nel piano riferito a coordinate cartesiane $Oxy$, si consideri la parabola d'equazione $y=ax^2$, con $a$ numero reale.
 
 a) Si descriva come varia il grafico della parabola al variare di $a$.

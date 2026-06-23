@@ -16,6 +16,8 @@ Fonte: p.188 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_liceo_scientifico_pni_2010_sessione_straordinaria_problema1_188_1|Problema 1]]*
+
 Sono dati: una semicirconferenza di centro $O$ e diametro $AB = 2$ e la tangente $t$ parallela al diametro. Si prolungano i raggi $OA$ ed $OB$ di due segmenti uguali $AP$ e $BQ$ e dai punti $P$ e $Q$ si conducono le tangenti alla semicirconferenza, che intersecano la retta $t$ rispettivamente nei punti $M$ ed $N$.
 
 **1)** Si provi che l'area $S(x)$ della superficie del solido generato in una rotazione completa del trapezio $PQNM$ attorno alla retta $PQ$, è data da:

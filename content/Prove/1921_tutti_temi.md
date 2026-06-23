@@ -17,6 +17,8 @@ Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1921_tutti_temi_2|Problema 1]]*
+
 **Problema 1**
 
 Dato un angolo retto $\widehat{AOB}$, si hanno sulla semiretta $OA$ due punti $M$, $N$, con $|OM| = a$, $|ON| = b$, ($b > a$). Determinare sul lato $OB$ un punto $S$ tale che $\widehat{MSN}$ sia eguale ad un angolo dato $\omega$, e calcolare il segmento $OS$. Fra quali limiti deve essere compreso l'angolo $\omega$? Quale il valore di $|OS|$ quando $\omega$ raggiunge il suo massimo valore?
@@ -33,6 +35,8 @@ A quali conclusioni si giungerebbe:
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1921_tutti_temi_4|Problema 1]]*
+
 **Problema 1**
 
 Data una semicirconferenza di diametro $|AB| = 2r$, determinare su di essa un punto $C$ tale che, detta $D$ la sua proiezione sul diametro, si abbia
@@ -47,6 +51,8 @@ Come deve essere dato $a$ affinché il problema sia possibile?
 **Fonte:** [📄 Testo (PDF) — p.65](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1921_tutti_temi_1|Problema 2]]*
 
 **Problema 2**
 
@@ -67,6 +73,8 @@ Ricavare ancora quest'ultima relazione dopo aver trovato $\widehat{A} = 2\wideha
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1921_tutti_temi_3|Problema 2]]*
+
 **Problema 2**
 
 In un triangolo rettangolo d'ipotenusa $a$, è $m$ il rapporto tra il raggio del cerchio ex-inscritto tangente all'ipotenusa e il raggio del cerchio inscritto. Determinare i cateti e trovare la condizione di possibilità del problema.
@@ -77,6 +85,8 @@ In un triangolo rettangolo d'ipotenusa $a$, è $m$ il rapporto tra il raggio del
 **Fonte:** [📄 Testo (PDF) — p.65](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1921_tutti_temi_5|Problema 2]]*
 
 **Problema 2**
 

@@ -16,6 +16,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_scuole_italiane_allestero_europa_2003_sessione_sup_problema2_86_1|Problema 1]]*
+
 Determinare $b$ e $c$ affinché la parabola di equazione $y=-x^2+bx+c$ abbia il vertice in $A(1;6)$. Determinare altresì il parametro $k$ in modo che l'iperbole di equazione $xy=k$ passi per $A$.
 
 1) Disegnare le due curve e determinare le coordinate dei loro ulteriori punti comuni, indicando con $B$ quello appartenente al primo quadrante.

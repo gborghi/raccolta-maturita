@@ -16,6 +16,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1932_tutti_temi_1|Problema 1]]*
+
 Dato un angolo retto $Y\widehat{O}X$ e dati due segmenti di misura $a$ ed $m$, determinare nell'interno dell'angolo un punto $P$ tale che $OP$ sia uguale al primo segmento e la somma della terza parte della distanza di $P$ da $OX$ con la quarta parte della distanza di $P$ da $OY$ sia uguale al secondo segmento. Discussione e costruzione geometrica.
 
 Dato il quadrato $ABCD$ di lato $a$, determinare sul lato $AB$ un punto $M$ tale che sia $q$ il rapporto dei due solidi ottenuti facendo ruotare di un giro completo il trapezio $MBCD$, una volta intorno alla retta $AB$, un'altra volta intorno alla retta $AD$.

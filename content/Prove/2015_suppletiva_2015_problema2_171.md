@@ -16,6 +16,8 @@ Fonte: p.171 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_suppletiva_2015_problema2_171_1|Problema 1]]*
+
 La rotazione intorno all'asse $x$ dei grafici della famiglia di funzioni:
 $$f_k(x)=\frac{x}{4k}\sqrt{k^2-x}\quad\text{con } x\in\mathbb{R},\ 0\le x\le k^2,\ k\in\mathbb{R},\ k>0$$
 genera dei solidi di rotazione di forma aerodinamica.

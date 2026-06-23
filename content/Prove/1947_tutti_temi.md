@@ -17,6 +17,8 @@ Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1947_tutti_temi_1|Problema 1]]*
+
 In un sistema d'assi cartesiani ortogonali è dato il cerchio avente il centro nell'origine $O$ degli assi e raggio $\sqrt{5}$. Determinare i valori dei parametri $h$ e $k$ in modo che le rette $x+2y-h=0$, $2x+y-k=0$ risultino tangenti al cerchio rispettivamente in $A$ e $B$ del $1°$ quadrante. Determinare inoltre le coordinate dei punti di contatto $A$ e $B$ e del punto $C$ d'intersezione delle due tangenti. Determinare infine la tangente trigonometrica dell'angolo $B\hat{O}A$.
 
 **Topic:** [[Geometria Analitica (piano)]]
@@ -26,6 +28,8 @@ In un sistema d'assi cartesiani ortogonali è dato il cerchio avente il centro n
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1947_tutti_temi_3|Problema 1]]*
+
 Dato il triangolo isoscele $ABC$ la cui base $BC$ è $3a$ e il cui angolo $B\hat{A}C$ ha il coseno uguale a $7/25$, si indichino con $B'$, $C'$ i due punti situati il $1°$ sul lato $AB$ e il $2°$ sul prolungamento del lato $AC$ dalla parte di $C$, in modo che sia $|\overline{BB'}|=|\overline{CC'}|=a$. Determinare sulla base $BC$ un punto $P$ in modo che la somma dei quadrati di $B'P$ e $PC'$ sia eguale a $2k^2 a^2$.
 
 **Topic:** [[Geometria Solida]], [[Trigonometria]], [[Geometria Euclidea]]
@@ -34,6 +38,8 @@ Dato il triangolo isoscele $ABC$ la cui base $BC$ è $3a$ e il cui angolo $B\hat
 **Fonte:** [📄 Testo (PDF) — p.89](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1947_tutti_temi_2|Problema 2]]*
 
 I due settori circolari consecutivi $AOB$, $BOC$ del cerchio di centro $O$ e raggio $r$, hanno ciascuno l'angolo al centro di ampiezza $\alpha\leq 45°$. Si determini l'angolo $\alpha$ in modo che sia $k$ il rapporto fra il maggiore e il minore dei due solidi generati dai due settori dati, in una rotazione completa attorno alla retta $OA$. Si consideri il caso particolare $k=1+\sqrt{2}$.
 
@@ -49,6 +55,8 @@ dove $r$ ed $h$ sono rispettivamente le misure di $OA$ ed $HA$.
 **Fonte:** [📄 Testo (PDF) — p.89](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1947_tutti_temi_4|Problema 2]]*
 
 In un sistema di coordinate cartesiane ortogonali di origine $O$ è data la parabola $y=4-x^2$ che taglia l'asse $x$ nei punti $A$ e $B$, e l'asse delle ordinate nel punto $V$. È dato inoltre, sull'asse $y$, il punto $C$ di ordinata $8$.
 

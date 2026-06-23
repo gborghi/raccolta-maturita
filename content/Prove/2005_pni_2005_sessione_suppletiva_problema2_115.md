@@ -16,6 +16,8 @@ Fonte: p.115 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_pni_2005_sessione_suppletiva_problema2_115_1|Problema 1]]*
+
 È assegnata la funzione $f_a(x) = \dfrac{a}{1+x^2}$, dove $a$ è un parametro reale non nullo.
 
 **1)** Dopo aver fornito la definizione di funzione limitata, spiegare perché la funzione $f_a(x)$ è limitata.

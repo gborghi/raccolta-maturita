@@ -16,6 +16,8 @@ Fonte: p.136 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1992_tutti_temi_1|Problema 1]]*
+
 *Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.*
 
 1. Presi due vettori $\overrightarrow{OA}$ e $\overrightarrow{OB}$ non paralleli e con lo stesso punto di applicazione $O$, sia $\overrightarrow{OA} = 2 \cdot \vec{a}$ e $\overrightarrow{OB} = \vec{b}$. Tracciare il vettore $\overrightarrow{BC} = \vec{a}$ e congiungere $O$ con $C$. Il punto $P$ divida il segmento $OC$ in due parti tali che $\overrightarrow{OP} = 2 \cdot \overrightarrow{PC}$. Dimostrare che i punti $A$, $P$ e $B$ sono allineati (è allo scopo sufficiente dimostrare che i due vettori $\overrightarrow{AP}$ e $\overrightarrow{PB}$ sono multipli di uno stesso vettore).

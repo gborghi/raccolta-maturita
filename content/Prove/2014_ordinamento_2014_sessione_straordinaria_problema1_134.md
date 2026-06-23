@@ -16,6 +16,8 @@ Fonte: p.134 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_ordinamento_2014_sessione_straordinaria_problema1_134_1|Problema 1]]*
+
 È data una semicirconferenza di centro $O$ e diametro $AB = 2r$. Siano $C$ e $D$ i punti d'intersezione delle tangenti in $B$ e in $A$, rispettivamente, con una terza tangente alla semicirconferenza.
 
 1. Si dimostri che l'angolo $C\hat{O}D$ è retto e che $AD \cdot BC = r^2$.

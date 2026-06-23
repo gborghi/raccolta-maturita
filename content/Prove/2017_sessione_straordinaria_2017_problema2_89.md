@@ -16,6 +16,8 @@ Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2017_sessione_straordinaria_2017_problema2_89_1|Problema 1]]*
+
 Le funzioni $g_1,g_2,g_3,g_4$ sono definite nel modo seguente:
 $$g_1(x)=\frac{1}{2}x^2-\frac{1}{2}$$
 $$g_2(x)=|x|-1$$

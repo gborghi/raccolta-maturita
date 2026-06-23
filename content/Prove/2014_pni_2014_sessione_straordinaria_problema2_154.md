@@ -16,6 +16,8 @@ Fonte: p.154 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm43
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_pni_2014_sessione_straordinaria_problema2_154_1|Problema 1]]*
+
 Sia $f$ la funzione definita da:
 
 $$f(x) = \sqrt{\frac{1 - x}{1 + x}}$$

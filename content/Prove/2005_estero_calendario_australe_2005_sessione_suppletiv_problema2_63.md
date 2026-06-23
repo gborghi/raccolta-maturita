@@ -16,6 +16,8 @@ Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_estero_calendario_australe_2005_sessione_suppletiv_problema2_63_1|Problema 1]]*
+
 Sia $f$ la funzione definita da $f(x)=\operatorname{sen}(x)+a\cos(x)+b$, con $x\in[-\pi;\pi]$.
 
 **1)** Calcolate $a$ e $b$ in modo che $x=\dfrac{\pi}{6}$ sia punto di massimo relativo e $f\!\left(\dfrac{\pi}{6}\right)=0$.

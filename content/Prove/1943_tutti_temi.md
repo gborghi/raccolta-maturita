@@ -16,6 +16,8 @@ Fonte: p.89 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1943_tutti_temi_1|Problema 1]]*
+
 Di un triangolo rettangolo si conosce la misura $b$ di un cateto e la misura $d$ della differenza fra il triplo dell'ipotenusa e l'altro cateto. Determinare le misure dell'ipotenusa e del cateto incognito. Discussione.
 
 **Topic:** [[Geometria Euclidea]]

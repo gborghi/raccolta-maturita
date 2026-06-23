@@ -17,6 +17,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_46_1|Problema 1]]*
+
 I due cerchi $\Sigma$ e $\Delta$, in figura, hanno uguale raggio $4$ e i rispettivi centri nei punti $(-2;0)$ e $(2;0)$. Con $\Gamma$ è denotata la loro parte comune e con $A$ e $B$ le intersezioni delle loro circonferenze. *(figura nel PDF)*
 
 1. Si calcoli l'area di $\Gamma$.
@@ -33,6 +35,8 @@ I due cerchi $\Sigma$ e $\Delta$, in figura, hanno uguale raggio $4$ e i rispett
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_46_2|Problema 2]]*
 
 Sia $\Gamma$ la curva di equazione $y=2\ln(x-1)$.
 
@@ -52,6 +56,8 @@ Sia $\Gamma$ la curva di equazione $y=2\ln(x-1)$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_1|Quesito 1]]*
+
 1. Un triangolo ha area $3$ e due lati che misurano $2$ e $3$. Qual è la misura del terzo lato? Si giustifichi la risposta.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -60,6 +66,8 @@ Sia $\Gamma$ la curva di equazione $y=2\ln(x-1)$.
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_2|Quesito 2]]*
 
 2. Si calcoli, giustificando la risposta, il dominio della funzione
 $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
@@ -72,6 +80,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_3|Quesito 3]]*
+
 3. La retta tangente al grafico di una funzione $f(x)$ in $x=1$ è $y=3x+2$. Quali sono i valori di $f(1)$ e di $f'(1)$? Se in $x=2$ la retta tangente è $y=-x+5$, quali i valori di $f(2)$ e di $f'(2)$?
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -80,6 +90,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_4|Quesito 4]]*
 
 4. In un gruppo di $10$ persone il $60\%$ ha occhi azzurri. Dal gruppo si selezionano a caso due persone. Quale è la probabilità che nessuna di esse abbia occhi azzurri?
 
@@ -90,6 +102,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_5|Quesito 5]]*
+
 5. In un libro si legge: *"Due valigie della stessa forma sembrano "quasi uguali", quanto a capacità, quando differiscono di poco le dimensioni lineari; non sembra che in genere le persone si rendano ben conto che ad un aumento delle dimensioni lineari (lunghezza, larghezza, altezza) del 10% (oppure del 20% o del 25%) corrispondono aumenti di capacità (volume) di circa 33% (oppure 75% o 100% : raddoppio)"*. È così? Si motivi esaurientemente la risposta.
 
 **Topic:** [[Geometria Solida]]
@@ -98,6 +112,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_6|Quesito 6]]*
 
 6. Con le cifre da $1$ a $7$ è possibile formare $7!=5040$ numeri corrispondenti alle permutazioni delle $7$ cifre. Ad esempio i numeri $1234567$ e $3546712$ corrispondono a due di queste permutazioni. Se i $5040$ numeri ottenuti dalle permutazioni si dispongono in ordine crescente qual è il numero che occupa la posizione e quale quello che occupa la $721$-esima posizione?
 
@@ -108,6 +124,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_7|Quesito 7]]*
+
 7. Una ellisse ha semiasse maggiore $2$ e semiasse minore $1$. Qual è la distanza tra i due fuochi?
 
 **Topic:** [[Geometria Analitica (piano)]]
@@ -116,6 +134,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_8|Quesito 8]]*
 
 8. Il coefficiente angolare della tangente al grafico della funzione $f(x)$ è, in ogni suo punto $P$, uguale al prodotto dell'ascissa $x$ di $P$ per la radice cubica di $x$. Si determini $f(x)$ sapendo che passa per il punto $A(1;1)$.
 
@@ -126,6 +146,8 @@ $$f(x)=\sqrt{1-\sqrt{2-\sqrt{3-x}}}$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_9|Quesito 9]]*
+
 9. Si calcoli:
 $$\lim_{x\to 0}4\,\frac{sen\cos x-sen x}{x^2}$$
 
@@ -135,6 +157,8 @@ $$\lim_{x\to 0}4\,\frac{sen\cos x-sen x}{x^2}$$
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_46#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2013_sessione_ordinaria_2013_prova_46_10|Quesito 10]]*
 
 10. Sia $f(x)=\ln(\ln(1-x))$; si calcoli la derivata $f'(x)$.
 

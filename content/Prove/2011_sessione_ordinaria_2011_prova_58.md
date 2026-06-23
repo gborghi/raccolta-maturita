@@ -17,6 +17,8 @@ Fonte: p.58 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_58_1|Problema 1]]*
+
 Nel sistema di riferimento cartesiano $Oxy$ si consideri il quadrato $OABC$, dove $A = (1; 0)$ e $C = (0; 1)$.
 
 1. Sia $P$ un punto appartenente al lato $AB$. Si considerino le parabole, con asse parallelo all'asse $y$, passanti per $O$ e per $P$ e tangenti al lato $BC$. Quali sono i possibili vertici di tali parabole, al variare di $P$ su $AB$?
@@ -33,6 +35,8 @@ Nel sistema di riferimento cartesiano $Oxy$ si consideri il quadrato $OABC$, dov
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_58_3|Problema 1]]*
 
 Nel sistema di riferimento $Oxy$, sia $\Gamma$ il grafico della funzione definita su $\mathbb{R}$ da
 $$f(x) = (1 - x^2)e^{-x}$$
@@ -55,6 +59,8 @@ e si interpreti geometricamente il risultato.
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_58_2|Problema 2]]*
+
 Una circonferenza di centro $O$ e raggio $4$ è tangente esternamente nel punto $A$ ad un'altra circonferenza di raggio $x$ minore di $4$. Le tangenti comuni, non passanti per $A$, si incontrano in un punto $B$.
 
 1. Si provi che, al variare di $x$, la distanza $f(x)$ di $B$ da $O$ è data da $f(x) = \frac{4x + 16}{4 - x}$; si disegni il grafico $\Gamma$ di $f(x)$ prescindendo dai limiti posti ad $x$ dal problema.
@@ -72,6 +78,8 @@ Una circonferenza di centro $O$ e raggio $4$ è tangente esternamente nel punto 
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Problema 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2011_sessione_ordinaria_2011_prova_58_4|Problema 2]]*
 
 Nel piano, riferito ad assi cartesiani $Oxy$, sono dati i punti: $A(2; 1)$, $B(-2; 1)$, $C(2; 3)$, $D(2; 5)$, $E(6; 5)$.
 
@@ -93,6 +101,8 @@ d) Si calcoli l'area della regione finita di piano delimitata da $\lambda$, dall
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_1|Quesito 1]]*
+
 1. Si provi che se i lati di un triangolo rettangolo sono in progressione aritmetica di ragione $d$ allora il raggio della circonferenza inscritta è uguale a $d$.
 
 **Topic:** [[Geometria Euclidea]], [[Successioni e Serie]]
@@ -101,6 +111,8 @@ d) Si calcoli l'area della regione finita di piano delimitata da $\lambda$, dall
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.69](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_2|Quesito 2]]*
 
 2. Sia $W$ il solido ottenuto facendo ruotare attorno all'asse $y$ la parte di piano compresa, per $x \in \left[0; \frac{\pi}{2}\right]$, fra il grafico di $y = \sin x$ e l'asse $x$. Quale dei seguenti integrali definiti fornisce il volume di $W$?
 $$A)\ 2\pi\int_0^{\frac{\pi}{2}} x\sin x\, dx; \quad B)\ \pi\int_0^1 (\arcsin x)^2\, dx; \quad C)\ \pi\int_0^{\frac{\pi}{2}} \sin^2 x\, dx; \quad D)\ \text{nessuno di questi.}$$
@@ -113,6 +125,8 @@ Si motivi la risposta.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_3|Quesito 3]]*
+
 3. Fra tutti i parallelepipedi rettangoli, a base quadrata, di superficie totale $a^2$ quale è quello di volume massimo?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -121,6 +135,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_4|Quesito 4]]*
 
 4. La curva di equazione $y = \sqrt{x}\ln x$ ammette punti con tangente parallela all'asse $x$? Ammette punti con tangente parallela all'asse $y$? In caso affermativo si determinino.
 
@@ -132,6 +148,8 @@ Si motivi la risposta.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_5|Quesito 5]]*
+
 5. In una circonferenza di centro $O$ e raggio $r$ sono date due corde prive di punti comuni $AB = r$ e $CD = r\sqrt{3}$. Si dimostri che il quadrilatero $ABCD$ ha le diagonali perpendicolari.
 
 **Topic:** [[Geometria Euclidea]]
@@ -140,6 +158,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.70](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_6|Quesito 6]]*
 
 6. Sia $P$ un punto del piano di coordinate $\left(t + \frac{1}{t}; t - \frac{1}{t}\right)$. Quale è l'equazione cartesiana del luogo descritto da $P$ al variare di $t$ $(t \neq 0)$?
 
@@ -150,6 +170,8 @@ Si motivi la risposta.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_7|Quesito 7]]*
+
 7. Si calcoli il valor medio della funzione $f(x) = \frac{1}{x^2 + 1}$ nell'intervallo $[-1; 1]$ e se ne indichi il significato geometrico.
 
 **Topic:** [[Calcolo Integrale]]
@@ -158,6 +180,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_sessione_ordinaria_2011_prova_58#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.72](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2011_sessione_ordinaria_2011_prova_58_8|Quesito 8]]*
 
 8. La regione $R$ è delimitata da $y = 2x$ e $y = x^2$ come mostrato nella figura a lato. $R$ è la base di un solido $W$ le cui sezioni, ottenute tagliando $W$ con piani perpendicolari all'asse $x$, hanno area $A(x) = \sin\frac{\pi}{2}x$. Si determini il volume di $W$. *(figura nel PDF)*
 

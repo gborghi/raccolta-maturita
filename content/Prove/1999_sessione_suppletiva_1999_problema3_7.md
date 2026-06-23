@@ -16,6 +16,8 @@ Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_sessione_suppletiva_1999_problema3_7_1|Problema 1]]*
+
 L'informazione che si ha della parabola $f(x) = ax^2 + bx + c$ è tutta concentrata nel punto di ascissa $x = 5$ ed è:
 
 $$f(5) = 0, \qquad f'(5) = -1 \qquad \text{e} \qquad f''(5) = -2.$$

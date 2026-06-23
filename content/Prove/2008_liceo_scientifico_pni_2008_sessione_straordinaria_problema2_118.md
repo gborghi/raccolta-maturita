@@ -16,6 +16,8 @@ Fonte: p.118 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118_1|Problema 1]]*
+
 Si consideri la funzione
 $$f(x) = \begin{cases} e^{\frac{1}{x^2-1}}, & \text{se } |x| < 1; \\[1mm] 0, & \text{se } |x| \ge 1. \end{cases}$$
 

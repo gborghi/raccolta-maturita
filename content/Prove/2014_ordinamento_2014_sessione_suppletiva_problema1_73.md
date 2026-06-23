@@ -16,6 +16,8 @@ Fonte: p.73 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_ordinamento_2014_sessione_suppletiva_problema1_73_1|Problema 1]]*
+
 Sono dati un quarto di cerchio $AOB$ e la tangente $t$ ad esso in $A$. Dal punto $O$ si mandi una semiretta che intersechi l'arco $AB$ e la tangente $t$, rispettivamente, in $M$ ed $N$.
 
 1. Posto $A\hat{O}M = \alpha$, si calcoli il rapporto $\dfrac{MN}{MA}$ e lo si esprima in funzione di $x = \operatorname{sen}\dfrac{\alpha}{2}$, controllando che risulta:

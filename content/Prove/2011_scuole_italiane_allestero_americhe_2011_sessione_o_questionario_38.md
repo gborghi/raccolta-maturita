@@ -17,6 +17,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_1|Quesito 1]]*
+
 **Quesito 1.** Sia $W$ il solido ottenuto facendo ruotare attorno all'asse $y$ la parte di piano compresa, per $x \in \left[0; \frac{\pi}{2}\right]$, fra il grafico di $y = \sin x$ e l'asse $x$. Quale dei seguenti integrali definiti fornisce il volume di $W$?
 $$A)\ 2\pi\int_0^{\frac{\pi}{2}} x\sin x\, dx; \quad B)\ \pi\int_0^1 (\arcsin x)^2\, dx; \quad C)\ \pi\int_0^{\frac{\pi}{2}} \sin^2 x\, dx; \quad D)\ \text{nessuno di questi.}$$
 Si motivi la risposta.
@@ -28,6 +30,8 @@ Si motivi la risposta.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_2|Quesito 2]]*
+
 **Quesito 2.** Angelo siede in un punto $A$ della piazza del suo paese e vi osserva un albero in $B$, una fontana in $F$ e un lampione in $L$. Stima l'ampiezza dell'angolo sotto cui vede la congiungente $B$ e $F$ pari a $30°$ e l'ampiezza dell'angolo sotto cui vede $FL$ pari a $45°$. Sapendo che $BF = 12\,\text{m}$ e $FL = 20\,\text{m}$ e che $B\hat{F}L = 155°$, si spieghi ad Angelo come procedere per calcolare $AB$, $AF$ e $AL$. Sono attendibili i risultati $AB = AF \cong 23{,}18\,\text{m}$ e $AL \cong 27{,}85\,\text{m}$?
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -36,6 +40,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_3|Quesito 3]]*
 
 **Quesito 3.** La base di un solido $S$ è la regione triangolare compresa tra gli assi coordinati e la retta d'equazione: $4x + 5y = 20$. Si calcoli il volume di $S$ sapendo che le sue sezioni con piani perpendicolari all'asse $x$ sono semicerchi.
 
@@ -46,6 +52,8 @@ Si motivi la risposta.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_4|Quesito 4]]*
+
 **Quesito 4.** Si spieghi perché l'equazione $\cos x = x$ ha almeno una soluzione.
 
 **Topic:** [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
@@ -54,6 +62,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_5|Quesito 5]]*
 
 **Quesito 5.** Si risolva l'equazione $|x - 1| = 1 - |x|$.
 
@@ -64,6 +74,8 @@ Si motivi la risposta.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_6|Quesito 6]]*
+
 **Quesito 6.** Una sfera è inscritta in un cubo; quale è il rapporto fra il volume della sfera e quello del cubo?
 
 **Topic:** [[Geometria Solida]]
@@ -73,6 +85,8 @@ Si motivi la risposta.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_7|Quesito 7]]*
+
 **Quesito 7.** Si dimostri che in un triangolo, il rapporto tra ciascun lato e il seno dell'angolo ad esso opposto è uguale al diametro del cerchio circoscritto al triangolo.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -81,6 +95,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_americhe_2011_sessione_o_questionario_38_8|Quesito 8]]*
 
 **Quesito 8.** Sia $t \in [0; 2\pi]$; quale è la curva rappresentata dalle equazioni $x = a\cos t$ e $y = b\sin t$?
 

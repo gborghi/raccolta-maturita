@@ -16,6 +16,8 @@ Fonte: p.218 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqG
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_suppletiva_2019_problema2_218_1|Problema 1]]*
+
 Due cariche elettriche puntiformi $Q_1 = q$ (con $q$ positivo) e $Q_2 = -q$ sono collocate rispettivamente nei punti $A$ e $B$, posti ad una distanza $2k$. Le cariche sono espresse in coulomb (C) e le distanze in metri (m). Si indichi con $r$ la retta passante per i punti $A$ e $B$.
 
 *(figura nel PDF)*

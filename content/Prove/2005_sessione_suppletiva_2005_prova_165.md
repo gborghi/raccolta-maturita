@@ -17,6 +17,8 @@ Fonte: p.165 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_suppletiva_2005_prova_165_1|Problema 1]]*
+
 Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa in modo che una base sia la sezione della piramide con il piano equidistante dal suo vertice e dalla sua base.
 
 A) Ammesso di conoscere il volume della piramide, dire se è possibile calcolare il volume del prisma e fornire una esauriente spiegazione della risposta.
@@ -37,6 +39,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2005_sessione_suppletiva_2005_prova_165_2|Problema 2]]*
+
 È assegnata la funzione $f_a(x) = \dfrac{a}{1 + x^2}$, dove $a$ è un parametro reale non nullo.
 
 1. Dopo aver fornito la definizione di funzione limitata, spiegare perché la funzione $f_a(x)$ è limitata.
@@ -52,6 +56,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_1|Quesito 1]]*
+
 1. È dato un trapezio rettangolo, in cui le bisettrici degli angoli adiacenti al lato obliquo si intersecano in un punto del lato perpendicolare alle basi. Dimostrare che il triangolo avente per vertici questo punto e gli estremi del lato obliquo è rettangolo e trovare quale relazione lega il lato obliquo alle basi del trapezio.
 
 **Topic:** [[Geometria Euclidea]]
@@ -60,6 +66,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.176](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_2|Quesito 2]]*
 
 2. Siano $AB$, $AC$, $AD$ tre spigoli di un cubo. Sapendo che uno spigolo è lungo $s$, calcolare la distanza del vertice $A$ dal piano dei punti $B$, $C$, $D$.
 
@@ -70,6 +78,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_3|Quesito 3]]*
+
 3. Alberto e Gianna sono chiamati a risolvere la seguente equazione: $\sin x \cos x = \dfrac{1}{4}$. Alberto ottiene come soluzione gli angoli $x$ tali che: $x = \dfrac{\pi}{12} + k\pi$ oppure $x = \dfrac{5\pi}{12} + k\pi$ ($k$ intero qualsiasi); Gianna trova la seguente soluzione: $x = (-1)^k\,\dfrac{\pi}{12} + k\,\dfrac{\pi}{2}$ ($k$ intero qualsiasi). È vero o è falso che Alberto ha risolto correttamente e Gianna no? Fornire una risposta esauriente.
 
 **Topic:** [[Trigonometria]], [[Equazioni e Disequazioni]]
@@ -79,6 +89,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_4|Quesito 4]]*
+
 4. Si consideri la seguente equazione in $x$: $(k-2)\,x^2 - (2k-1)\,x + (k+1) = 0$ dove $k$ è un parametro reale diverso da $2$. Indicate con $x'$ ed $x''$ le sue radici, calcolare i limiti di $x' + x''$ quando $k$ tende a $2$, a $+\infty$ e a $-\infty$.
 
 **Topic:** [[Limiti e Continuita]], [[Equazioni e Disequazioni]]
@@ -87,6 +99,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.179](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_5|Quesito 5]]*
 
 5. Il limite della funzione $(1 - x)^{\frac{1}{x}}$ per $x \to 0$:
    [A] è uguale ad $1$;
@@ -103,6 +117,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_6|Quesito 6]]*
+
 6. Fornire un esempio di funzione reale di variabile reale $f(x)$ avente le seguenti caratteristiche: $f(1) = 1$, $f'(1) = 0$, $f''(1) < 0$.
 
 **Topic:** [[Derivate]], [[Massimi e Minimi]]
@@ -112,6 +128,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_7|Quesito 7]]*
+
 7. In un piano, riferito ad un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le rette $r$ ed $s$ di equazioni rispettivamente $2x + my = 1$ e $mx - 2y = 2$, dove $m$ è un parametro reale. Qual è l'equazione del luogo geometrico descritto dal punto di intersezione delle due rette al variare di $m$?
 
 **Topic:** [[Geometria Analitica (piano)]]
@@ -120,6 +138,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.181](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_8|Quesito 8]]*
 
 8. È vero o falso che le due funzioni $\ln(x^2 - 4)$ e $\ln(x+2) - \ln(2-x)$ hanno lo stesso grafico? Fornire una esauriente spiegazione della risposta.
 
@@ -131,6 +151,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_9|Quesito 9]]*
+
 9. Le parti letterali dei termini dello sviluppo del binomio $(a + b)^{10}$, ordinati secondo le potenze decrescenti di $a$ e crescenti di $b$, sono rispettivamente: $a^{10},\ a^9 b,\ a^8 b^2,\ a^7 b^3,\ a^6 b^4,\ a^5 b^5,\ a^4 b^6,\ a^3 b^7,\ a^2 b^8,\ a b^9,\ b^{10}$. Elencare i loro coefficienti e giustificare in modo esauriente la risposta.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -139,6 +161,8 @@ B) Posto che lo spigolo della base $ABC$ della piramide sia lungo $4$ cm:
 **Soluzione:** [[Soluzioni/2005_sessione_suppletiva_2005_prova_165#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2005_sessione_suppletiva_2005_prova_165_10|Quesito 10]]*
 
 10. Una classe è formata da $27$ alunni: $15$ femmine e $12$ maschi. Si deve costituire una delegazione di $5$ alunni, di cui $3$ femmine e $2$ maschi. Quante sono le possibili delegazioni?
 

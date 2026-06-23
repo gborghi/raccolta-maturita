@@ -16,6 +16,8 @@ Fonte: p.72 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_scuole_italiane_allestero_europa_2003_sessione_ord_problema1_72_1|Problema 1]]*
+
 Tra le circonferenze di equazione $x^2+y^2-4y-k=0$, sia $\Gamma$ quella di raggio $2\sqrt{2}$. Siano $A$ e $B$ i punti in cui $\Gamma$ interseca l'asse $x$.
 
 **a)** Determinare l'equazione della parabola $p$, con asse parallelo all'asse $y$, passante per $A$ e tangente in $B$ alla retta di equazione $y=-2x+4$.

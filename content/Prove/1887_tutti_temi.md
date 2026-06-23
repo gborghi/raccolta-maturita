@@ -16,6 +16,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1887_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Trovare le lunghezze dei lati di un triangolo rettangolo sapendo che il perimetro misurato col metro è $1.20$ e che la distanza del vertice dell'angolo retto dall'ipotenusa è $0.24$.
 
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]]

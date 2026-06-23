@@ -17,6 +17,8 @@ Fonte: p.124 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZH
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_suppletiva_2012_211_prova_124_1|Problema 1]]*
+
 Un trapezio isoscele è circoscritto ad una semicirconferenza di raggio $1$, in modo che la base maggiore contenga il diametro.
 
 1. Si calcoli, in funzione dell'ampiezza $x$ del suo angolo acuto, il volume del solido generato dal trapezio in una rotazione di $180°$ intorno alla congiungente dei punti medi delle basi, controllando che risulta:
@@ -36,6 +38,8 @@ $$V(x)=\frac{\pi}{3}\cdot\frac{\cos^2 x-3\cos x+3}{\operatorname{sen}^2 x}$$
 **Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.124](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_suppletiva_2012_211_prova_124_2|Problema 2]]*
 
 Si consideri la funzione:
 
@@ -59,6 +63,8 @@ $$x\sqrt{2-x}<1$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_1|Quesito 1]]*
+
 1. Si divida il segmento $\overline{AB}=a$ in due parti $AC$ e $CB$, in modo che, costruito su $AC$ il quadrato $ACDE$ e su $CB$ il triangolo equilatero $CBF$, sia minima l'area del pentagono $ABFDE$.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
@@ -67,6 +73,8 @@ $$x\sqrt{2-x}<1$$
 **Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_2|Quesito 2]]*
 
 2. Data la funzione:
 
@@ -81,6 +89,8 @@ si provi che è continua, ma non derivabile, nel punto $x=0$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_3|Quesito 3]]*
+
 3. Si scriva l'equazione della tangente al diagramma della funzione:
 
 $$f(x)=(x+2)^{\log(e+2x)}$$
@@ -94,6 +104,8 @@ nel punto $P(0,2)$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_4|Quesito 4]]*
+
 4. La superficie piana $S$, delimitata dalla curva $\gamma$ di equazione $y=1+\operatorname{tg}x$ e dall'asse $x$ nell'intervallo $0\le x\le \pi/4$, è la base di un solido $\Sigma$, le cui sezioni, ottenute con piani perpendicolari all'asse $x$, sono tutte triangoli equilateri. Si calcoli il volume di $\Sigma$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Trigonometria]]
@@ -103,6 +115,8 @@ nel punto $P(0,2)$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_5|Quesito 5]]*
+
 5. Mentre corre con una velocità costante attraverso il deserto, montando il suo fido cammello, un capo tuareg vede la cima di una grande palma e dirige direttamente verso di essa. Al primo avvistamento la cima della palma si presentava con un angolo di elevazione di $4°$; venti minuti più tardi l'angolo di elevazione misura $9°$. Quanti minuti sono ancora necessari al tuareg per raggiungere l'albero?
 
 **Topic:** [[Trigonometria]]
@@ -111,6 +125,8 @@ nel punto $P(0,2)$.
 **Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_6|Quesito 6]]*
 
 6. Si determinino le equazioni degli asintoti della curva:
 
@@ -124,6 +140,8 @@ $$f(x)=\sqrt{x^2+2x-3}-x$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_7|Quesito 7]]*
+
 7. Un ottaedro regolare di alluminio (densità $\rho=2{,}7\,\text{g/cm}^3$), avente lo spigolo $l=5\,\text{cm}$, presenta all'interno una cavità di forma cubica. Sapendo che la massa dell'ottaedro è $m=155\,\text{g}$, si calcoli la lunghezza dello spigolo della cavità.
 
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
@@ -133,6 +151,8 @@ $$f(x)=\sqrt{x^2+2x-3}-x$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_8|Quesito 8]]*
+
 8. Quante diagonali ha un poligono convesso di $n$ lati?
 
 **Topic:** [[Calcolo Combinatorio]], [[Geometria Euclidea]]
@@ -141,6 +161,8 @@ $$f(x)=\sqrt{x^2+2x-3}-x$$
 **Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 8|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 9
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_9|Quesito 9]]*
 
 9. Si calcoli il valore medio della funzione:
 
@@ -154,6 +176,8 @@ nell'intervallo $a\le x\le b$, con $0<a<b$, e si dimostri che esso è uguale all
 **Soluzione:** [[Soluzioni/2012_sessione_suppletiva_2012_211_prova_124#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_suppletiva_2012_211_prova_124_10|Quesito 10]]*
 
 10. Data la funzione:
 

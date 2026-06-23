@@ -17,6 +17,8 @@ Fonte: p.107 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_1|Quesito 1]]*
+
 **QUESITO 1**
 
 Si determinino le costanti $a$ e $b$ in modo che la funzione $F(x) = a\cos x + b\cos^3 x$ sia una primitiva della funzione $f(x) = 3\sin x - 2\sin^3 x$.
@@ -27,6 +29,8 @@ Si determinino le costanti $a$ e $b$ in modo che la funzione $F(x) = a\cos x + b
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.107](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_2|Quesito 2]]*
 
 **QUESITO 2**
 
@@ -40,6 +44,8 @@ Si determinino le equazioni degli asintoti della curva $f(x) = \arctan x - \dfra
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_3|Quesito 3]]*
+
 **QUESITO 3**
 
 Fra tutti i cilindri inscritti in un cono circolare retto, avente raggio di base $r$ e altezza $h$, si trovi quello di volume massimo.
@@ -50,6 +56,8 @@ Fra tutti i cilindri inscritti in un cono circolare retto, avente raggio di base
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.108](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_4|Quesito 4]]*
 
 **QUESITO 4**
 
@@ -65,6 +73,8 @@ Se ne studi la continuità per $x=0$ e poi si tracci il suo grafico.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_5|Quesito 5]]*
+
 **QUESITO 5**
 
 Si consideri la seguente proposizione: "Due piani $\alpha$ e $\beta$ sono tra loro perpendicolari se e solo se ogni retta di $\alpha$ è perpendicolare a ogni retta di $\beta$". Si dica se è vera o falsa e si motivi esaurientemente la risposta.
@@ -75,6 +85,8 @@ Si consideri la seguente proposizione: "Due piani $\alpha$ e $\beta$ sono tra lo
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.109](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_6|Quesito 6]]*
 
 **QUESITO 6**
 
@@ -87,6 +99,8 @@ Si determini, in base alla definizione, la derivata della funzione $f(x) = \sin^
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_7|Quesito 7]]*
+
 **QUESITO 7**
 
 Si provi che alla funzione $f(x) = \tan x + \sin x$ nell'intervallo $0 \le x \le \pi$, non è applicabile il teorema di Rolle.
@@ -97,6 +111,8 @@ Si provi che alla funzione $f(x) = \tan x + \sin x$ nell'intervallo $0 \le x \le
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.110](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_8|Quesito 8]]*
 
 **QUESITO 8**
 
@@ -109,6 +125,8 @@ Si calcoli il valor medio della funzione $y = \dfrac{x^4+1}{x^2+1}$ nell'interva
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_9|Quesito 9]]*
+
 **QUESITO 9**
 
 Si determini il campo di esistenza della funzione $y = \log\!\left(\sqrt{x^2 - 2x} - x + 4\right)$.
@@ -120,6 +138,8 @@ Si determini il campo di esistenza della funzione $y = \log\!\left(\sqrt{x^2 - 2
 **Soluzione:** [[Soluzioni/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.111](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_10|Quesito 10]]*
 
 **QUESITO 10**
 

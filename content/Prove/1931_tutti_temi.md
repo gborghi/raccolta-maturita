@@ -16,6 +16,8 @@ Fonte: p.78 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1931_tutti_temi_1|Problema 1]]*
+
 L'angolo $X\widehat{O}Y$ è di $60°$, e sul lato $OX$ sono dati due punti $A$ e $B$ in modo che $OB$ sia doppio di $OA$. Determinare sul lato $OY$ un punto $M$ tale che il rapporto $MA/MB$ sia uguale ad un numero assegnato $k$. Discutere i risultati e, dopo aver determinato su $OY$ anche i due punti $M_1$ e $M_2$ per i quali risulta massimo o minimo il rapporto delle distanze di un punto di $OY$ da $A$ e da $B$, far vedere che i quattro punti $A$, $B$, $M_1$, $M_2$ appartengono ad una stessa circonferenza. È in facoltà del candidato di risolvere la prima parte del problema anche per via geometrica.
 
 Per un punto $P$ interno ad una circonferenza di centro $O$ e raggio $r$, si conducano due rette perpendicolari fra loro e che incontrano la circonferenza, la prima nei punti $A$, $A'$, la seconda nei punti $B$, $B'$. Posto $|OP| = a$ e l'angolo $O\widehat{P}A = \alpha$, esprimere in funzione dei due parametri $a$ ed $\alpha$ l'area del quadrilatero convesso determinato dai quattro punti $A$, $B$, $A'$, $B'$. Inoltre, supposto prima costante $a$ e variabile $\alpha$ e poi $\alpha$ costante ed $a$ variabile, determinare nell'un caso e nell'altro, per quali valori del parametro variabile l'area del quadrilatero risulta uguale ad un numero dato $k^2$.

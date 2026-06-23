@@ -16,6 +16,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_estero_calendario_australe_2007_sessione_ordinaria_problema2_33_1|Problema 1]]*
+
 Si consideri la funzione $f$ così definita:
 $$f(x)=\begin{cases}\dfrac{4-x^2}{3} & \text{se } x\le 1\\[2mm] \dfrac{1}{x} & \text{se } x>1\end{cases}$$
 

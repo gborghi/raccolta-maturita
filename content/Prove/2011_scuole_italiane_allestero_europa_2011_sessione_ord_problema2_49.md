@@ -16,6 +16,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_scuole_italiane_allestero_europa_2011_sessione_ord_problema2_49_1|Problema 1]]*
+
 Una circonferenza di centro $O$ e raggio $4$ è tangente esternamente nel punto $A$ ad un'altra circonferenza di raggio $x$ minore di $4$. Le tangenti comuni, non passanti per $A$, si incontrano in un punto $B$.
 
 1. Si provi che, al variare di $x$, la distanza $f(x)$ di $B$ da $O$ è data da $f(x) = \frac{4x + 16}{4 - x}$; si disegni il grafico $\Gamma$ di $f(x)$ prescindendo dai limiti posti ad $x$ dal problema.

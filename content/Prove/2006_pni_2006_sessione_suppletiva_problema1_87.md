@@ -16,6 +16,8 @@ Fonte: p.87 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_pni_2006_sessione_suppletiva_problema1_87_1|Problema 1]]*
+
 Nel piano, riferito ad un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le due parabole $p'$ e $p''$ di equazioni rispettivamente:
 $$y = x^2, \qquad x = y^2 - 2y.$$
 

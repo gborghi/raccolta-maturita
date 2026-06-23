@@ -17,6 +17,8 @@ Fonte: p.91 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1949_tutti_temi_1|Problema 1]]*
+
 Nel trapezio rettangolo convesso $ABCD$ gli angoli di vertici $A$ e $D$ sono retti e l'angolo $A\hat{C}B$ formato dalla diagonale $AC$ e dal lato $CB$ è di $30°$. Determinare gli angoli del trapezio di vertici $B$ e $C$, sapendo che la somma della base $CD$ e del multiplo secondo il numero $m$ dell'altezza $AD$ ha con la base $AB$ un rapporto $k$. Fissato un valore di $m$, in quali intervalli dovrà variare $k$, affinché il problema ammetta una o due soluzioni?
 
 *NB.* Si consiglia di assumere come incognita l'angolo $C\hat{A}B = x$.
@@ -32,6 +34,8 @@ Parte facoltativa:
 **Fonte:** [📄 Testo (PDF) — p.91](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1949_tutti_temi_3|Problema 1]]*
 
 In una data circonferenza di centro $O$, la corda $\overline{AB}$ è il lato del quadrato inscritto. Condotta dal punto $B$ la semiretta tangente alla circonferenza che giace, rispetto alla retta $AB$, nel semipiano che contiene il centro $O$, determinare sulla semiretta un punto $P$ tale che si abbia:
 
@@ -53,6 +57,8 @@ Parte facoltativa:
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1949_tutti_temi_2|Problema 2]]*
+
 Siano date, in un sistema d'assi cartesiani ortogonali, le parabole di equazioni $y = x^2 - 2x$, $y = 4x - x^2$. Considerate le rette, parallele agli assi, di equazione $x = a$, $y = b$, determinare $a$, $b$ in modo che risultino massimi i segmenti $MN$, $PQ$ di tali rette appartenenti alla regione comune alla superficie delle due parabole e aventi estremi $N$, $Q$ sulla prima ed $M$, $P$ sulla seconda parabola. Determinare inoltre l'area della superficie comune alle due parabole.
 
 Parte facoltativa: Denotati con $R$, $S$ gli ulteriori punti d'intersezione della retta $PQ$ con la prima e con la seconda parabola, dimostrare che le tangenti ad esse nei quattro punti $R$, $P$, $Q$, $S$ determinano un parallelogramma. Dimostrare inoltre che il quadrilatero $MPNQ$ è un rombo e che il punto comune alle diagonali del rombo coincide col punto comune alle diagonali del parallelogramma.
@@ -63,6 +69,8 @@ Parte facoltativa: Denotati con $R$, $S$ gli ulteriori punti d'intersezione dell
 **Fonte:** [📄 Testo (PDF) — p.91](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1949_tutti_temi_4|Problema 2]]*
 
 Fissato un sistema di assi cartesiani ortogonali, dimostrare che fra le parabole, la cui equazione ha la forma $y = ax^2 + bx + c$,
 

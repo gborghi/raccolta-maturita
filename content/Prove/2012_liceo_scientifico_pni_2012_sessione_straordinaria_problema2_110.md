@@ -16,6 +16,8 @@ Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZH
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_liceo_scientifico_pni_2012_sessione_straordinaria_problema2_110_1|Problema 2]]*
+
 Si consideri la funzione:
 $$f(x)=\frac{\ln^2 x+2\ln x+2}{x}.$$
 

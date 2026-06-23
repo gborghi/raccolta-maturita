@@ -17,6 +17,8 @@ Fonte: p.87 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1941_tutti_temi_2|Problema 1]]*
+
 Risolvere il sistema:
 
 $$\begin{cases} x^2+y^2=2x \\ x+2y=2a \end{cases}$$
@@ -34,6 +36,8 @@ $$a=\frac{1}{2}, \quad a=1, \quad a=\frac{3}{2}, \quad a=\frac{1+\sqrt{5}}{2}.$$
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1941_tutti_temi_4|Problema 1]]*
+
 Determinare i lati di un triangolo rettangolo sapendo che la somma dei cateti è $2s$ e che la mediana relativa al cateto maggiore è $m$. Discussione e costruzione geometrica.
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -42,6 +46,8 @@ Determinare i lati di un triangolo rettangolo sapendo che la somma dei cateti è
 **Fonte:** [📄 Testo (PDF) — p.87](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1941_tutti_temi_1|Problema 2]]*
 
 Disegnare in coordinate cartesiane, la parabola $y^2=3x+4$ e determinare i punti di essa che distano di $a$ dal punto di coordinate $x=1$, $y=0$. Discussione. Nell'ipotesi che sia
 
@@ -56,6 +62,8 @@ verificare che i punti d'intersezione sono quattro e determinare l'area del quad
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1941_tutti_temi_3|Problema 2]]*
+
 Un settore circolare $OAB$ è quarta parte di un cerchio di centro $O$ e raggio $r$. Determinare l'angolo che un raggio $OP$, interno ad esso, deve fare con $OA$ affinché, detto $C$ il punto medio del raggio $OA$ e $D$ la proiezione ortogonale di $P$ su $OB$, si abbia $|\overline{PC}|^2+|\overline{PD}|^2=kr^2$, dove $k$ è un numero positivo dato. Discussione. Casi particolari a scelta del candidato.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Geometria Analitica (piano)]]
@@ -64,6 +72,8 @@ Un settore circolare $OAB$ è quarta parte di un cerchio di centro $O$ e raggio 
 **Fonte:** [📄 Testo (PDF) — p.87](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1941_tutti_temi_5|Problema 2]]*
 
 Una parabola, la cui equazione in coordinate cartesiane ortogonali è del tipo $y=ax^2+bx+c$, passa per i punti $(0,-3)$, $(2,-3)$, $(3,0)$. Dopo aver determinato i coefficienti $a$, $b$, $c$, disegnare la curva e trovare i punti di essa per i quali la differenza fra l'ordinata e l'ascissa è eguale ad un numero reale $m$. Dire inoltre come varia, rispetto agli assi coordinati, la posizione dei suddetti punti al variare di $m$.
 

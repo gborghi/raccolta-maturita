@@ -16,6 +16,8 @@ Fonte: p.16 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_ordinamento_2014_problema2_16_1|Problema 1]]*
+
 Sia data la funzione
 
 $$f(x) = x\sqrt{4 - x^2}$$

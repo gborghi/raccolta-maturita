@@ -16,6 +16,8 @@ Fonte: p.95 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1954_tutti_temi_1|Problema 1]]*
+
 Nel triangolo $ABC$, rettangolo in $B$, l'angolo acuto $B\hat{A}C$ ha l'ampiezza nota $\alpha$. Considerata la semicirconferenza di diametro $AB$, esterna al triangolo, si trovi su di essa un punto $P$ in modo che, condotta per $P$ la perpendicolare ad $AB$ fino ad incontrare l'ipotenusa $AC$ nel punto $Q$, risulti:
 
 $$|AQ| + |QP| = k\cdot|AP|,$$

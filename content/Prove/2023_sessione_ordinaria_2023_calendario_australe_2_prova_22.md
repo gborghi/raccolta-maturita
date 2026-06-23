@@ -17,6 +17,8 @@ Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_1|Problema 1]]*
+
 Si consideri la funzione $f(x) = x^\alpha \cdot e^x$, definita nell'insieme dei numeri reali.
 
 1. Determinare il valore minimo del parametro $\alpha$, intero positivo, in modo che la funzione $f(x) = x^\alpha \cdot e^x$ abbia un minimo assoluto nell'origine del sistema di riferimento.
@@ -34,6 +36,8 @@ Si consideri la funzione $f(x) = x^\alpha \cdot e^x$, definita nell'insieme dei 
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_calendario_australe_2_prova_22#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_2|Problema 2]]*
 
 Si consideri la famiglia di funzioni $f_k(x) = kx^4 + x^3 + 2kx^2$ con $k \ge 0$.
 
@@ -54,6 +58,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_1|Quesito 1]]*
+
 1. Data una circonferenza di centro $O$, siano $PA$ e $PB$ i segmenti di tangente alla circonferenza condotti da un suo punto esterno $P$. Dimostrare che il quadrilatero $AOBP$ ha le diagonali perpendicolari.
 
 **Topic:** [[Geometria Euclidea]]
@@ -62,6 +68,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_calendario_australe_2_prova_22#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_2|Quesito 2]]*
 
 2. È data un'urna contenente 10 palline bianche e 6 palline nere. Calcolare la probabilità che:
    - Estraendo una pallina, sia di colore nero;
@@ -75,6 +83,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_3|Quesito 3]]*
+
 3. Determinare le coordinate della proiezione ortogonale $H$ del punto $A(4, -1, 1)$ sul piano $\pi: 3x - 2y + z = 1$. Determinare le equazioni cartesiane del luogo geometrico dei punti di $\pi$ che hanno distanza $3\sqrt{2}$ da $A$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -83,6 +93,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_calendario_australe_2_prova_22#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_4|Quesito 4]]*
 
 4. È data la parabola di equazione $f(x) = -3x^2 + 6x$. Determinare le coordinate del punto $P$ appartenente alla porzione di curva $f(x)$ nel I quadrante tale che sia massimo il prodotto delle distanze di $P$ dagli assi cartesiani.
 
@@ -93,6 +105,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_5|Quesito 5]]*
+
 5. Gli angoli di un triangolo, inscritto in una circonferenza di raggio 7 m, hanno ampiezze $\alpha$, $\beta$ e $\gamma$. Sapendo che $\alpha = \dfrac{\pi}{6}$ e che $\cos\beta = \dfrac{1}{7}$, determinare il valore di $\operatorname{sen}\gamma$ e l'area del triangolo $ABC$.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -101,6 +115,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_calendario_australe_2_prova_22#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.40](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_6|Quesito 6]]*
 
 6. Assegnata la curva $y = ax^3 + bx^2 + cx + d$, determinare i valori dei parametri reali in modo che passi per $A(-1, -3)$, $B(1, -1)$ e risulti tangente in $C(0, 1)$ alla retta $t: y = 2x + 1$. Determinare infine le coordinate dell'ulteriore punto $Q$ di intersezione tra la curva e la retta $t$.
 
@@ -111,6 +127,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_7|Quesito 7]]*
+
 7. Dimostrare che la regione finita di piano contenuta nel primo quadrante, delimitata dagli assi cartesiani e dalla curva $y = \dfrac{k - x}{x^2 + k^2}$ con $k > 0$, ha area costante pari a $\dfrac{\pi}{4} - \dfrac{\ln 2}{2}$.
 
 **Topic:** [[Calcolo Integrale]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -120,6 +138,8 @@ $$\lim_{x \to 0} \frac{f_k(x)}{\operatorname{sen}^k(x)} \qquad \lim_{x \to \inft
 **Soluzione:** [[Soluzioni/2023_sessione_ordinaria_2023_calendario_australe_2_prova_22#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1SlPvapgs-eNHrpZYtGGUXCPHVcacwdKR/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2023_sessione_ordinaria_2023_calendario_australe_2_prova_22_8|Quesito 8]]*
 
 8. Data la funzione $f(x) = \dfrac{a}{1 + be^{-cx}}$ con $a > 0$, $b > 0$ e $c > 0$, determinare $a$, $b$, $c$ sapendo che $f(x)$ ha come asintoto orizzontale la retta $y = 5$ e che il grafico di $f(x)$ è tangente, in $x = 0$, alla retta di equazione $y = \dfrac{2}{5}x + 1$.
 

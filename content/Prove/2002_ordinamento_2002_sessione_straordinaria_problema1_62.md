@@ -16,6 +16,8 @@ Fonte: p.62 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_ordinamento_2002_sessione_straordinaria_problema1_62_1|Problema 1]]*
+
 Con riferimento a un sistema monometrico di assi cartesiani ortogonali $(Oxy)$:
 
 **a)** scrivere l'equazione della circonferenza $k$ con centro nel punto $(8;2)$ e raggio $6$ e calcolare le coordinate dei punti $M$ ed $N$ in cui la bisettrice $b$ del 1° e 3° quadrante interseca la curva.

@@ -16,6 +16,8 @@ Fonte: p.43 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_suppletiva_pni_2002_problema1_43_1|Problema 1]]*
+
 Nel piano riferito a coordinate cartesiane ortogonali monometriche $(x, y)$ è assegnata la funzione:
 $$y=\frac{a+b\ln x}{x}$$
 ove $\ln x$ denota il logaritmo naturale di $x$ e $a$ e $b$ sono numeri reali non nulli.

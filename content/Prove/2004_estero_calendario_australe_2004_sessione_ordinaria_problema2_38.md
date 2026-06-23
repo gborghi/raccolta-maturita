@@ -17,6 +17,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_1|Quesito 1]]*
+
 **Quesito 1.** Si dia un esempio di sistema lineare di due equazioni in due incognite compatibile, la cui soluzione è la coppia $(-1, 2)$, e si esponga il ragionamento seguito.
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -25,6 +27,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_2|Quesito 2]]*
 
 **Quesito 2.** Quale è la capacità massima di un cono circolare retto di apotema $12$ cm? Quale ne è il valore in litri?
 
@@ -35,6 +39,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_3|Quesito 3]]*
+
 **Quesito 3.** Si dimostri che la derivata $n$-esima di un polinomio $P(x)$ di grado $n - 1$ è zero.
 
 **Topic:** [[Derivate]]
@@ -44,6 +50,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_4|Quesito 4]]*
+
 **Quesito 4.** Si considerino gli insiemi $A = \{1, 2, 3, 4\}$ e $B = \{a, b, c\}$; quante sono le applicazioni (le funzioni) di $A$ in $B$?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -52,6 +60,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.43](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_5|Quesito 5]]*
 
 **Quesito 5.** Se $f(x) = x^4 - 3x^3 - 9x^2 + 4$, quanti sono i numeri reali $k$ per i quali è $f(k) = 2$? Si illustri il ragionamento seguito per giungere alla risposta.
 
@@ -63,6 +73,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_6|Quesito 6]]*
+
 **Quesito 6.** Nei saldi di fine stagione, un negozio ha diminuito del $25\%$ il prezzo di listino di tutti gli articoli. Se il prezzo scontato di un abito è di $210$ euro, quale era il suo prezzo di listino?
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -71,6 +83,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_7|Quesito 7]]*
 
 **Quesito 7.** Dire quante soluzioni reali ammette l'equazione $\cos x - \log x = 0$. C'è una radice positiva tra $1$ e $2$? Si illustri il ragionamento seguito.
 
@@ -81,6 +95,8 @@ Fonte: p.38 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Soluzione:** [[Soluzioni/2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.45](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_8|Quesito 8]]*
 
 **Quesito 8.** Calcolare: $\displaystyle\int_{0}^{\pi} e^x \cos x \, dx$.
 

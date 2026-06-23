@@ -16,6 +16,8 @@ Fonte: p.129 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1987_tutti_temi_1|Problema 1]]*
+
 3. Data una circonferenza di diametro $|AB|=2r$, si determini a quale distanza dal centro deve essere condotta la corda $CD$ perpendicolare ad $AB$ in modo che la differenza tra il triangolo $ACD$, contenente il centro, ed il triangolo $BCD$ abbia valore massimo.
 Si indichi la costruzione grafica della soluzione.
 

@@ -17,6 +17,8 @@ Fonte: p.78 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_1|Quesito 1]]*
+
 Indicata con $S_n$ la somma di $n$ termini in progressione geometrica di primo termine $\dfrac{1}{2}$ e ragione $\dfrac{1}{2}$, si calcoli il
 $$\lim_{n \to \infty} \frac{S_n}{n}.$$
 
@@ -27,6 +29,8 @@ $$\lim_{n \to \infty} \frac{S_n}{n}.$$
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_2|Quesito 2]]*
+
 Una piramide ha la base quadrata e l'altezza uguale a $8$ cm. Quanti piani paralleli alla base dividono la piramide in due parti i cui volumi sono nel rapporto $7:1$? Quali sono le distanze di tali piani dal vertice della piramide?
 
 **Topic:** [[Geometria Solida]], [[Equazioni e Disequazioni]]
@@ -35,6 +39,8 @@ Una piramide ha la base quadrata e l'altezza uguale a $8$ cm. Quanti piani paral
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.78](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_3|Quesito 3]]*
 
 Un recipiente contiene $1000$ litri di liquido. Se è un parallelepipedo a base quadrata, quali ne sono le dimensioni minime?
 
@@ -45,6 +51,8 @@ Un recipiente contiene $1000$ litri di liquido. Se è un parallelepipedo a base 
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_4|Quesito 4]]*
+
 Quale è il cilindro di volume massimo inscrivibile in una sfera assegnata?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -53,6 +61,8 @@ Quale è il cilindro di volume massimo inscrivibile in una sfera assegnata?
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.79](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_5|Quesito 5]]*
 
 Quando una funzione $f$ è invertibile? Come si calcola la derivata della funzione inversa $f^{-1}$? Fai un esempio.
 
@@ -63,6 +73,8 @@ Quando una funzione $f$ è invertibile? Come si calcola la derivata della funzio
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_6|Quesito 6]]*
+
 Spiegare come utilizzare il teorema di Carnot per trovare la distanza tra due punti accessibili ma separati da un ostacolo.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -72,6 +84,8 @@ Spiegare come utilizzare il teorema di Carnot per trovare la distanza tra due pu
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_7|Quesito 7]]*
+
 Trovare il periodo della funzione $y = \sin\dfrac{2}{3}x + \sin\dfrac{1}{4}x$.
 
 **Topic:** [[Trigonometria]]
@@ -80,6 +94,8 @@ Trovare il periodo della funzione $y = \sin\dfrac{2}{3}x + \sin\dfrac{1}{4}x$.
 **Soluzione:** [[Soluzioni/2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_8|Quesito 8]]*
 
 Dimostrate che la somma di qualsiasi numero reale positivo e del suo reciproco è almeno $2$.
 

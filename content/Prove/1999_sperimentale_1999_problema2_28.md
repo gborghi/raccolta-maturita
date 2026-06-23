@@ -16,6 +16,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsn
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_sperimentale_1999_problema2_28_1|Problema 1]]*
+
 In un piano $\pi$ è assegnato il triangolo $ABC$, retto in $B$, i cui cateti $AB$ e $BC$ misurano rispettivamente $4$ e $3$.
 
 Si conduca per il punto $A$ la perpendicolare al piano $\pi$ e sia $V$ un punto di questa per cui $VA = AB$.

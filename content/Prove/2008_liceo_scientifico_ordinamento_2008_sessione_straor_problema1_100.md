@@ -16,6 +16,8 @@ Fonte: p.100 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_liceo_scientifico_ordinamento_2008_sessione_straor_problema1_100_1|Problema 1]]*
+
 Sia data la parabola: $y = ax^2 + bx + c$.
 
 **1)** Si determinino $a$, $b$, $c$ in modo che la parabola passi per i punti $A(0;-6)$, $B(1;0)$ e nel punto $B$ sia tangente alla retta di coefficiente angolare $5$.

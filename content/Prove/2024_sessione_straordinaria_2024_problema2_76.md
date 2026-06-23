@@ -16,6 +16,8 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_straordinaria_2024_problema2_76_1|Problema 1]]*
+
 Si consideri la funzione $f(x)=e^{-x^2}$.
 
 a) Tracciare, nel medesimo sistema di riferimento, il grafico $\gamma_1$ della funzione $f(x)$ e il grafico $\gamma_2$ della sua funzione derivata, individuando i loro asintoti, estremi e flessi. Successivamente scrivere le coordinate del punto $P$ in cui $\gamma_1$ e $\gamma_2$ si intersecano.

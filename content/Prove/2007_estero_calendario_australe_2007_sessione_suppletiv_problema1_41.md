@@ -16,6 +16,8 @@ Fonte: p.41 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_estero_calendario_australe_2007_sessione_suppletiv_problema1_41_1|Problema 1]]*
+
 Il triangolo rettangolo $ABC$ ha l'ipotenusa $AB=k$ e l'angolo $B\hat{A}C=\dfrac{\pi}{3}$. Con centro in $B$ e raggio $x$ si tracci l'arco di circonferenza le cui intersezioni con i lati $BA$ e $BC$ siano, rispettivamente, $D$ ed $E$. Con centro in $A$ si tracci poi l'arco di circonferenza tangente in $D$ alla circonferenza già tracciata e che intersechi in $F$ il cateto $AC$.
 
 *(figura nel PDF)*

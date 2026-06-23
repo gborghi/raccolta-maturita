@@ -17,6 +17,8 @@ Fonte: p.5 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwux
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2010_sessione_ordinaria_2010_prova_5_1|Problema 1]]*
+
 Sia $ABCD$ un quadrato di lato $1$, $P$ un punto di $AB$ e $\gamma$ la circonferenza di centro $P$ e raggio $AP$. Si prenda sul lato $BC$ un punto $Q$ in modo che sia il centro di una circonferenza $\lambda$ passante per $C$ e tangente esternamente a $\gamma$.
 
 1. Se $AP=x$, si provi che il raggio di $\lambda$ in funzione di $x$ è dato da $f(x)=\dfrac{1-x}{1+x}$.
@@ -31,6 +33,8 @@ Sia $ABCD$ un quadrato di lato $1$, $P$ un punto di $AB$ e $\gamma$ la circonfer
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2010_sessione_ordinaria_2010_prova_5_2|Problema 2]]*
 
 Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ definita da $f(x)=b^x$ ($b>0$, $b\ne 1$).
 
@@ -47,6 +51,8 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_1|Quesito 1]]*
+
 1. Sia $p(x)$ un polinomio di grado $n$. Si dimostri che la sua derivata $n$-esima è $p^{(n)}(x)=n!\,a_n$ dove $a_n$ è il coefficiente di $x^n$.
 
 **Topic:** [[Derivate]], [[Successioni e Serie]]
@@ -55,6 +61,8 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_2|Quesito 2]]*
 
 2. Siano $ABC$ un triangolo rettangolo in $A$, $r$ la retta perpendicolare in $B$ al piano del triangolo e $P$ un punto di $r$ distinto da $B$. Si dimostri che i tre triangoli $PAB$, $PBC$, $PCA$ sono triangoli rettangoli.
 
@@ -65,6 +73,8 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_3|Quesito 3]]*
+
 3. Sia $\gamma$ il grafico di $f(x)=e^{3x+1}$. Per quale valore di $x$ la retta tangente a $\gamma$ in $(x,f(x))$ ha pendenza uguale a $2$?
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
@@ -73,6 +83,8 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_4|Quesito 4]]*
 
 4. Si calcoli: $\displaystyle\lim_{x\to\infty}4x\sin\frac{1}{x}$.
 
@@ -83,6 +95,8 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_5|Quesito 5]]*
+
 5. Un serbatoio ha la stessa capacità del massimo cono circolare retto di apotema $80$ cm. Quale è la capacità in litri del serbatoio?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -91,6 +105,8 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_6|Quesito 6]]*
 
 6. Si determini il dominio della funzione $f(x)=\sqrt{\cos x}$.
 
@@ -101,6 +117,8 @@ Nel piano, riferito a coordinate cartesiane $Oxy$, si consideri la funzione $f$ 
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_7|Quesito 7]]*
 
 7. Per quale o quali valori di $k$ la funzione
 $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
@@ -113,6 +131,8 @@ $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_8|Quesito 8]]*
+
 8. Se $n>3$ e $\dbinom{n}{n-1}$, $\dbinom{n}{n-2}$, $\dbinom{n}{n-3}$ sono in progressione aritmetica, qual è il valore di $n$?
 
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
@@ -122,6 +142,8 @@ $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_9|Quesito 9]]*
+
 9. Si provi che non esiste un triangolo $ABC$ con $AB=3$, $AC=2$ e $A\hat{B}C=45°$. Si provi altresì che se $AB=3$, $AC=2$ e $A\hat{B}C=30°$, allora esistono due triangoli che soddisfano queste condizioni.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -130,6 +152,8 @@ $$h(x)=\begin{cases} 3x^2-11x-4, & x\le 4\\[4pt] kx^2-2x-1, & x>4\end{cases}$$
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_5#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_5_10|Quesito 10]]*
 
 10. Si consideri la regione delimitata da $y=\sqrt{x}$, dall'asse $x$ e dalla retta $x=4$ e si calcoli il volume del solido che essa genera ruotando di un giro completo intorno all'asse $y$.
 

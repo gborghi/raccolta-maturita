@@ -16,6 +16,8 @@ Fonte: p.57 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_scuole_italiane_allestero_europa_2004_sessione_ord_problema1_57_1|Problema 1]]*
+
 In un piano sono assegnati una retta $r$ ed un punto $H$ la cui distanza da $r$ è $\dfrac{3}{2}$ rispetto ad una data unità di misura delle lunghezze.
 
 a) Dopo aver riferito il piano ad un conveniente sistema di assi cartesiani $(Oxy)$, determinare sulla retta $r$ due punti $A$ e $B$ tali che il triangolo $HAB$ sia equilatero e trovare l'equazione della circonferenza circoscritta al triangolo.

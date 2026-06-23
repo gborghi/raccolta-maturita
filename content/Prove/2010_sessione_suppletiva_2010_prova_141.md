@@ -17,6 +17,8 @@ Fonte: p.141 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2010_sessione_suppletiva_2010_prova_141_1|Problema 1]]*
+
 È data una circonferenza di centro $O$ e diametro $\overline{AB}=2$. Sul prolungamento del diametro $AB$, dalla parte di $B$, si prenda un punto $P$ e da esso si conduca una tangente alla circonferenza.
 
 1. Detti $T$ il punto di tangenza e $Q$ il punto di intersezione di questa tangente con la tangente in $A$ alla circonferenza, si calcoli il rapporto:
@@ -36,6 +38,8 @@ $$(1)\qquad \frac{x^2+1}{x^2+2x}=a+\frac{b}{x}+\frac{c}{x+2}.$$
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2010_sessione_suppletiva_2010_prova_141_2|Problema 2]]*
+
 In un sistema di riferimento cartesiano $Oxy$, si denoti con $\Gamma_a$ il grafico della funzione
 $$f_a(x)=(x-a)\,e^{\,2-\frac{x}{a}}$$
 dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
@@ -53,6 +57,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_1|Quesito 1]]*
+
 1. In cima ad una roccia a picco sulla riva di un fiume è stata costruita una torretta d'osservazione alta $11$ metri. Le ampiezze degli angoli di depressione per un punto situato sulla riva opposta del fiume, misurate rispettivamente dalla base e dalla sommità della torretta, sono pari a $18°$ e $24°$. Si determini la larghezza del fiume in quel punto.
 
 **Topic:** [[Trigonometria]]
@@ -61,6 +67,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_2|Quesito 2]]*
 
 2. Considerata la funzione $f(x)=\dfrac{3^{3x}-a^x}{6^x-5^x}$, dove $a$ è una costante reale positiva, si determini tale costante, sapendo che $\displaystyle\lim_{x\to 0}f(x)=2$.
 
@@ -71,6 +79,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_3|Quesito 3]]*
+
 3. Su un piano orizzontale $\alpha$ si pongono un cono circolare retto, il cui raggio di base è $r$ e l'altezza $2r$, e una sfera di raggio $r$. A quale distanza $x$ dal piano $\alpha$ bisogna segare questi due solidi con un piano orizzontale $\beta$, perché la somma delle aree delle sezioni così ottenute sia massima?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -79,6 +89,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.151](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_4|Quesito 4]]*
 
 4. Si dimostri che per gli zeri $x_1$ e $x_2$ di una funzione $f(x)=ax^2+bx+c$ vale la relazione $f'(x_1)+f'(x_2)=0$ e si dia una interpretazione geometrica della affermazione dimostrata.
 
@@ -89,6 +101,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_5|Quesito 5]]*
+
 5. Si calcoli il valore medio della funzione $f(x)=\dfrac{e^x(x-1)}{x^2}$, nell'intervallo $1\le x\le 2$.
 
 **Topic:** [[Calcolo Integrale]]
@@ -97,6 +111,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.153](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_6|Quesito 6]]*
 
 6. Si determini il punto della parabola $4y=x^2$ più vicino al punto di coordinate $(6,-3)$.
 
@@ -107,6 +123,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_7|Quesito 7]]*
+
 7. Si consideri l'equazione $x^3-3x^2+6x-6=0$. Si dimostri che essa ammette una soluzione reale $x_0$ tale che $1<x_0<2$. Avvalendosi di un qualsiasi procedimento iterativo si determini $x_0$ a meno di $1/100$.
 
 **Topic:** [[Equazioni e Disequazioni]], [[Limiti e Continuita]], [[Successioni e Serie]]
@@ -115,6 +133,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.154](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_8|Quesito 8]]*
 
 8. Nel piano cartesiano $Oxy$ è dato il cerchio $C$ con centro nell'origine e raggio $r=3$; siano $P(0,3)$ e $Q(2,\sqrt{5})$ punti di $C$. Si calcoli il volume del solido ottenuto dalla rotazione attorno all'asse $x$ del quadrilatero mistilineo $PORQ$ (con $R$ proiezione di $Q$ sull'asse $x$).
 
@@ -125,6 +145,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_9|Quesito 9]]*
+
 9. Siano dati un ottaedro regolare di spigolo $l$ e la sfera in esso inscritta; si scelga a caso un punto all'interno dell'ottaedro. Si determini la probabilità che tale punto risulti interno alla sfera.
 
 **Topic:** [[Probabilita]], [[Geometria Solida]]
@@ -133,6 +155,8 @@ dove $a$ è un parametro reale positivo ed $e$ è il numero di Nepero.
 **Soluzione:** [[Soluzioni/2010_sessione_suppletiva_2010_prova_141#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.141](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_suppletiva_2010_prova_141_10|Quesito 10]]*
 
 10. Un'urna contiene $20$ palline, che possono essere rosse o azzurre. Quante sono quelle azzurre, se, estraendo $2$ palline senza riporre la prima estratta, la probabilità di estrarre almeno una pallina azzurra è $27/38$?
 

@@ -16,6 +16,8 @@ Fonte: p.92 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_ordinamento_2007_sessione_suppletiva_problema2_92_1|Problema 1]]*
+
 Si consideri la funzione
 
 $$f(x)=e^{3x}+2e^{2x}-3e^{x}.$$

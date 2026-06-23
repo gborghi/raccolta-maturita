@@ -16,6 +16,8 @@ Fonte: p.19 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_scuole_italiane_allestero_americhe_2012_sessione_o_problema2_19_1|Problema 1]]*
+
 Il grafico della funzione $g$, disegnato sotto, consiste di tre segmenti e di una semicirconferenza (con raggio $1$ e centro $(1,1)$).
 
 *(figura nel PDF)*

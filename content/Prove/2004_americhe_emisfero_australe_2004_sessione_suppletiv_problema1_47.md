@@ -16,6 +16,8 @@ Fonte: p.47 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47_1|Problema 1]]*
+
 Si riferisca il semicerchio $S$ di raggio $2$ ad un conveniente sistema di coordinate cartesiane ortogonali e monometriche $xy$ e si determinino:
 
 a) Le dimensioni del rettangolo $R$ di area massima inscritto in $S$.

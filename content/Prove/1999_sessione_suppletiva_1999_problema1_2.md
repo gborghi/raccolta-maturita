@@ -16,6 +16,8 @@ Fonte: p.2 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_sessione_suppletiva_1999_problema1_2_1|Problema 1]]*
+
 Data una semicirconferenza di centro $O$ e di diametro $\overline{AB} = 2$, si assuma su di essa un punto $C$ in modo che l'angolo $A\hat{O}C$ sia acuto. Indicata con $\varphi$ l'ampiezza di tale angolo, siano:
 
 $$x = \tan\frac{\varphi}{2}$$

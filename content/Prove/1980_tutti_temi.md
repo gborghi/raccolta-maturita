@@ -16,6 +16,8 @@ Fonte: p.119 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1980_tutti_temi_1|Problema 1]]*
+
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
 1. Sui lati opposti $AB$ e $CD$ di un rettangolo $ABCD$ ed esternamente ad esso si costruiscano due triangoli isosceli $APB$ e $CQD$ aventi gli angoli alla base di ampiezza $\alpha$. Sapendo che il perimetro dell'esagono $APBCQD$ è $2p$, si determinino le lunghezze dei lati del rettangolo in modo che l'area dell'esagono risulti massima. Per quale valore di $\alpha$ tale esagono è inscrittibile in una circonferenza?

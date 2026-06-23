@@ -17,6 +17,8 @@ Fonte: p.7 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2007_sessione_ordinaria_2007_prova_7_1|Problema 1]]*
+
 Si considerino i triangoli la cui base è $AB=1$ e il cui vertice $C$ varia in modo che l'angolo $A\hat{C}B$ si mantenga doppio dell'angolo $A\hat{B}C$.
 
 1. Riferito il piano ad un conveniente sistema di coordinate, si determini l'equazione del luogo geometrico $\gamma$ descritto da $C$.
@@ -30,6 +32,8 @@ Si considerino i triangoli la cui base è $AB=1$ e il cui vertice $C$ varia in m
 **Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2007_sessione_ordinaria_2007_prova_7_2|Problema 2]]*
 
 Si consideri un cerchio $C$ di raggio $r$.
 
@@ -45,6 +49,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_1|Quesito 1]]*
+
 1. La regione $R$ delimitata dal grafico di $y=2\sqrt{x}$, dall'asse $x$ e dalla retta $x=1$ (in figura) è la base di un solido $S$ le cui sezioni, ottenute tagliando $S$ con piani perpendicolari all'asse $x$, sono tutte triangoli equilateri. Si calcoli il volume di $S$. *(figura nel PDF)*
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]]
@@ -54,6 +60,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_2|Quesito 2]]*
+
 2. Le misure dei lati di un triangolo sono $40$, $60$ e $80$ cm. Si calcolino, con l'aiuto di una calcolatrice, le ampiezze degli angoli del triangolo approssimandole in gradi e primi sessagesimali.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -62,6 +70,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_3|Quesito 3]]*
 
 3. Si determini, al variare di $k$, il numero delle soluzioni reali dell'equazione: $$x^3-x^2-k+1=0$$
 
@@ -73,6 +83,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_4|Quesito 4]]*
+
 4. Un serbatoio di olio ha la stessa capacità del massimo cono circolare retto di apotema $1$ metro. Si dica quanti litri di olio il serbatoio può contenere.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -81,6 +93,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.26](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_5|Quesito 5]]*
 
 5. Si mostri che la funzione $y=x^3+8$ soddisfa le condizioni del teorema del valor medio (o teorema di Lagrange) sull'intervallo $[-2,2]$. Si determinino i valori medi forniti dal teorema e se ne illustri il significato geometrico.
 
@@ -91,6 +105,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_6|Quesito 6]]*
+
 6. Si sa che il prezzo $p$ di un abito ha subìto una maggiorazione del $6\%$ e, altresì, una diminuzione del $6\%$; non si ha ricordo, però, se sia avvenuta prima l'una o l'altra delle operazioni. Che cosa si può dire del prezzo finale dell'abito?
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -99,6 +115,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_7|Quesito 7]]*
 
 7. Se $f(x)$ è una funzione reale dispari (ossia il suo grafico cartesiano è simmetrico rispetto all'origine), definita e integrabile nell'intervallo $[-2,2]$, che dire del suo integrale esteso a tale intervallo? Quanto vale nel medesimo intervallo l'integrale della funzione $3+f(x)$?
 
@@ -109,6 +127,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_8|Quesito 8]]*
+
 8. Si risolva l'equazione: $$4\binom{n}{4}=15\binom{n-2}{3}$$
 
 **Topic:** [[Calcolo Combinatorio]], [[Equazioni e Disequazioni]]
@@ -118,6 +138,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_9|Quesito 9]]*
+
 9. Si calcoli l'integrale indefinito $\displaystyle\int\sqrt{1-x^2}\,dx$ e, successivamente, si verifichi che il risultato di $\displaystyle\int_0^1\sqrt{1-x^2}\,dx$ è in accordo con il suo significato geometrico.
 
 **Topic:** [[Calcolo Integrale]]
@@ -126,6 +148,8 @@ Si consideri un cerchio $C$ di raggio $r$.
 **Soluzione:** [[Soluzioni/2007_sessione_ordinaria_2007_prova_7#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_10|Quesito 10]]*
 
 10. Per orientarsi sulla Terra si fa riferimento a meridiani e a paralleli, a latitudini e a longitudini. Supponendo che la Terra sia una sfera $S$ e che l'asse di rotazione terrestre sia una retta $r$ passante per il centro di $S$, come si può procedere per definire in termini geometrici meridiani e paralleli e introdurre un sistema di coordinate geografiche terrestri?
 

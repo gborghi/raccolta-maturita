@@ -17,6 +17,8 @@ Fonte: p.164 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_1|Quesito 1]]*
+
 **QUESITO 1**
 
 Le misure dei lati di un triangolo sono $5$, $12$ e $13$ dm. Si calcolino, con l'aiuto di una calcolatrice, le ampiezze degli angoli del triangolo approssimandole in gradi e primi sessagesimali.
@@ -27,6 +29,8 @@ Le misure dei lati di un triangolo sono $5$, $12$ e $13$ dm. Si calcolino, con l
 **Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.164](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_2|Quesito 2]]*
 
 **QUESITO 2**
 
@@ -42,6 +46,8 @@ $$f(x)=\cos^3 x-3\cos x+2.$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_3|Quesito 3]]*
+
 **QUESITO 3**
 
 Si risolva l'equazione:
@@ -54,6 +60,8 @@ $$4\binom{n}{4}=15\binom{n-2}{3}.$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_4|Quesito 4]]*
+
 **QUESITO 4**
 
 Si inscriva in una sfera di raggio $R$ il cono rotondo di massimo volume.
@@ -65,6 +73,8 @@ Si inscriva in una sfera di raggio $R$ il cono rotondo di massimo volume.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_5|Quesito 5]]*
+
 **QUESITO 5**
 
 Sia $P$ un punto del piano di coordinate $(a\cos t,\, b\sin t)$ dove è $0\le t\le 2\pi$. Al variare di $t$ il punto $P$ descrive un luogo geometrico. Quale o quali proprietà geometriche caratterizzano tale luogo?
@@ -75,6 +85,8 @@ Sia $P$ un punto del piano di coordinate $(a\cos t,\, b\sin t)$ dove è $0\le t\
 **Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.166](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_6|Quesito 6]]*
 
 **QUESITO 6**
 
@@ -90,6 +102,8 @@ hanno tangenti parallele.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_7|Quesito 7]]*
+
 **QUESITO 7**
 
 Si dimostri che l'equazione $e^x+3x=0$ ammette una ed una sola soluzione $\alpha$. Si determini l'intervallo di ampiezza $10^{-1}$ cui $\alpha$ appartiene.
@@ -101,6 +115,8 @@ Si dimostri che l'equazione $e^x+3x=0$ ammette una ed una sola soluzione $\alpha
 **Soluzione:** [[Soluzioni/2010_estero_santiago_del_cile_suppletiva_2010_questionario_164#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.168](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_estero_santiago_del_cile_suppletiva_2010_questionario_164_8|Quesito 8]]*
 
 **QUESITO 8**
 

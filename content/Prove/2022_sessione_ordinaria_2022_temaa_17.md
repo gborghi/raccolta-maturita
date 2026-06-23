@@ -17,6 +17,8 @@ Fonte: p.17 · [📄 Apri PDF](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhG
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2022_sessione_ordinaria_2022_temaa_17_1|Problema 1]]*
+
 Data la funzione:
 
 $$f(x) = ax \cdot e^{-\frac{x}{b}}$$
@@ -36,6 +38,8 @@ $$f(x) = ax \cdot e^{-\frac{x}{b}}$$
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.17](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2022_sessione_ordinaria_2022_temaa_17_2|Problema 2]]*
 
 Sia data la funzione
 
@@ -59,6 +63,8 @@ dove $a$ è un parametro reale.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_1|Quesito 1]]*
+
 1. Calcola il seguente limite mediante l'utilizzo di un limite notevole:
 $$\lim_{x \to 0} \frac{e^x - e^{-x}}{x}.$$
 
@@ -68,6 +74,8 @@ $$\lim_{x \to 0} \frac{e^x - e^{-x}}{x}.$$
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_2|Quesito 2]]*
 
 2. Determina le equazioni degli eventuali asintoti della seguente funzione:
 $$f(x) = 1 + \sqrt{x^2 - 2x + 5}.$$
@@ -80,6 +88,8 @@ $$f(x) = 1 + \sqrt{x^2 - 2x + 5}.$$
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_3|Quesito 3]]*
+
 3. Studia la continuità e la derivabilità della seguente funzione:
 $$f(x) = \begin{cases} 0 & x \le 1 \\ x^2 - 4x + 3 & 1 < x \le 3 \\ \ln(x - 2) & x > 3 \end{cases}$$
 
@@ -89,6 +99,8 @@ $$f(x) = \begin{cases} 0 & x \le 1 \\ x^2 - 4x + 3 & 1 < x \le 3 \\ \ln(x - 2) &
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_4|Quesito 4]]*
 
 4. Indica il dominio ed eventuali punti di massimo e minimo della seguente funzione:
 $$f(x) = \frac{1}{\sin x \cos x} \quad \text{in } [0, 2\pi].$$
@@ -100,6 +112,8 @@ $$f(x) = \frac{1}{\sin x \cos x} \quad \text{in } [0, 2\pi].$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_5|Quesito 5]]*
+
 5. Data la parabola di equazione $y = -x^2 + 4x$ si determini sull'arco $AB$ un punto $P$, contenuto nel primo quadrante (con $A$ coincidente con l'origine degli assi cartesiani di riferimento e $B$ ulteriore intersezione con l'asse delle ascisse) in modo che, detta $H$ la proiezione di $P$ sull'asse $x$, sia massima l'area del triangolo $APH$.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Analitica (piano)]], [[Derivate]]
@@ -108,6 +122,8 @@ $$f(x) = \frac{1}{\sin x \cos x} \quad \text{in } [0, 2\pi].$$
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_6|Quesito 6]]*
 
 6. Data la funzione
 $$f(x) = \begin{cases} x^2 - tx + 1 & -2 \le x \le 0 \\ x + s & 0 < x \le 2 \end{cases}$$
@@ -120,6 +136,8 @@ determinare i parametri $t$ e $s$ in modo che nell'intervallo $[-2; 2]$ sia appl
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_7|Quesito 7]]*
+
 7. Calcola il seguente integrale applicando la formula di integrazione per parti:
 $$\int \frac{\ln x}{x}\,dx$$
 
@@ -129,6 +147,8 @@ $$\int \frac{\ln x}{x}\,dx$$
 **Soluzione:** [[Soluzioni/2022_sessione_ordinaria_2022_temaa_17#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1V_wgAuSmeJCjjXhGqk4gv1aIb9rsuWmj/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2022_sessione_ordinaria_2022_temaa_17_8|Quesito 8]]*
 
 8. Dimostra che la seguente equazione ha una sola soluzione reale nell'intervallo $[0; 1]$ e calcolane un valore approssimato con una cifra decimale esatta: $x - e^{-x} = 0$.
 

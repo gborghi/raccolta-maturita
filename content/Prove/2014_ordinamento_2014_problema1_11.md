@@ -16,6 +16,8 @@ Fonte: p.11 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_ordinamento_2014_problema1_11_1|Problema 1]]*
+
 Il grafico $\Gamma$ riportato è quello della funzione integrale
 $$g(x) = \int_0^x f(t)\,dt,$$
 con $f$ definita nell'intervallo $[0;\,w]$ e ivi continua e derivabile. Inoltre la curva ha tangente orizzontale in $O$, presenta un flesso per $x = h$ ed un massimo per $x = k$. *(figura nel PDF)*

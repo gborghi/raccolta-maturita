@@ -16,6 +16,8 @@ Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_ordinamento_2013_sessione_suppletiva_problema2_65_1|Problema 1]]*
+
 Del trapezio $ABCD$ si hanno le seguenti informazioni: la base maggiore $AB$ e la base minore $DC$ misurano rispettivamente $4\ \text{m}$ e $1\ \text{m}$, l'altezza del trapezio misura $3\ \text{m}$ e la tangente dell'angolo $B\hat{A}D$ è uguale a $\dfrac{3}{2}$.
 
 1) Si calcolino le aree dei quattro triangoli in cui il trapezio è diviso da una sua diagonale e dai segmenti che uniscono il punto medio di questa con gli estremi dell'altra diagonale.

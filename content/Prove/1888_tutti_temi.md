@@ -17,6 +17,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1888_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Trovare i lati d'un parallelogrammo che ha un angolo semiretto, quando si conoscono l'area e il perimetro. Quand'è che il problema è possibile?
 
 **Topic:** [[Geometria Euclidea]], [[Equazioni e Disequazioni]], [[Successioni e Serie]]
@@ -26,6 +28,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1888_tutti_temi_3|Problema 1]]*
+
 **Problema 1.** I lati di un triangolo circoscritto ad un circolo di raggio dato sono in progressione aritmetica, la cui differenza è uguale alla quarta parte del raggio. Trovare i lati.
 
 **Topic:** [[Geometria Euclidea]], [[Successioni e Serie]]
@@ -34,6 +38,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.49](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1888_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Data la differenza di due numeri e data la differenza dei loro cubi, trovare i due numeri. Discutere la soluzione.
 

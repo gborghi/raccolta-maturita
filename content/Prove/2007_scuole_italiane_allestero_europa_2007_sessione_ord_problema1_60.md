@@ -16,6 +16,8 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_scuole_italiane_allestero_europa_2007_sessione_ord_problema1_60_1|Problema 1]]*
+
 Si consideri la parabola $\Gamma$ d'equazione $f(x)=x^2+1$.
 
 1. Sia $A(a,b)$ un punto di $\Gamma$. Si dimostri che, qualsiasi sia $a\in\mathbb{Z}$, l'ordinata $b$ non è mai un numero divisibile per $3$.

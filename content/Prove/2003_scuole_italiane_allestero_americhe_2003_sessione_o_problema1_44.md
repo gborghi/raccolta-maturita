@@ -16,6 +16,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44_1|Problema 1]]*
+
 In un piano, riferito ad un sistema di assi cartesiani ortogonali $Oxy$, sono assegnate le curve di equazione:
 
 $$y=\frac{kx^3+9x}{x^2+k}$$

@@ -16,6 +16,8 @@ Fonte: p.107 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGg
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_suppletiva_2018_problema2_107_1|Problema 1]]*
+
 Fissato un numero reale $k>0$, si definiscono le funzioni:
 $$f_k(x)=k\cdot\ln(x) \qquad e \qquad g_k(x)=e^{\frac{x}{k}},$$
 i cui grafici sono indicati, rispettivamente, con $F_k$ e $G_k$.

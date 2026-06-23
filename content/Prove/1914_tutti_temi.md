@@ -17,6 +17,8 @@ Fonte: p.61 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1914_tutti_temi_2|Problema 1]]*
+
 **Problema 1**
 
 Sono dati un segmento e un numero reale (positivo) $m$. Dire se esiste un rettangolo $ABCD$, di diagonale eguale al dato segmento, tale che a rotazione completa di esso rettangolo intorno ad $\overline{AD}$, risulti eguale ad $m$ il rapporto della superficie generata dalla spezzata $ACD$ alla superficie generata dalla spezzata $ABCD$.
@@ -34,6 +36,8 @@ Calcolare la misura dell'angolo $\widehat{ACD}$ quando è $m = 4/7$.
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1914_tutti_temi_4|Problema 1]]*
+
 **Problema 1**
 
 Sono dati una semicirconferenza di diametro $\overline{BC}$ e un numero reale $m$.
@@ -48,6 +52,8 @@ Sono dati una semicirconferenza di diametro $\overline{BC}$ e un numero reale $m
 **Fonte:** [📄 Testo (PDF) — p.61](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1914_tutti_temi_3|Problema 2]]*
 
 **Problema 2**
 
@@ -69,6 +75,8 @@ acquista valore massimo per $x = 8$ e valore minimo per $x = -2$, dimostrare che
 **Fonte:** [📄 Testo (PDF) — p.61](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 4
+
+*↳ Nota atomica: [[Problemi/prob_1914_tutti_temi_1|Problema 4]]*
 
 **Problema 4**
 

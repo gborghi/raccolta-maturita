@@ -16,6 +16,8 @@ Fonte: p.9 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70l
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_liceo_scientifico_2015_problema1_9_1|Problema 1]]*
+
 Il piano tariffario proposto da un operatore telefonico prevede, per le telefonate all'estero, un canone fisso di 10 euro al mese, più 10 centesimi per ogni minuto di conversazione. Indicando con $x$ i minuti di conversazione effettuati in un mese, con $f(x)$ la spesa totale nel mese e con $g(x)$ il costo medio al minuto:
 
 **1)** individua l'espressione analitica delle funzioni $f(x)$ e $g(x)$ e rappresentale graficamente; verifica che la funzione $g(x)$ non ha massimi né minimi relativi e dai la tua interpretazione dell'andamento delle due funzioni alla luce della situazione concreta che esse rappresentano.

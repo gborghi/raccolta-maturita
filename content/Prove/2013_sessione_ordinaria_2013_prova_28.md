@@ -17,6 +17,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_28_1|Problema 1]]*
+
 È data la semicirconferenza $\Gamma$ di centro $C$ e diametro $\overline{AB}=2$. Sia $t$ la semiretta tangente a $\Gamma$ in $B$ e giacente nello stesso semipiano di $\Gamma$ rispetto ad $AB$.
 
 1. Da un punto $D$ di $t$, distinto da $B$, si conduca l'altra tangente a $\Gamma$ e si indichi con $E$ il punto di tangenza. Dal centro $C$ si conduca una semiretta parallela a $DE$ che tagli $t$ in $F$. Si provi che il triangolo $FDC$ è isoscele.
@@ -34,6 +36,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Soluzione:** [[Soluzioni/2013_sessione_ordinaria_2013_prova_28#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc2wp0SYCzzIA0VSW3/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2013_sessione_ordinaria_2013_prova_28_2|Problema 2]]*
 
 Sia $R$ la regione del primo quadrante degli assi cartesiani delimitata da $y=\sqrt{x}$ e da $y=\dfrac{x}{4}$.
 

@@ -16,6 +16,8 @@ Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGO
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_boreale_2019_problema1_68_1|Problema 1]]*
+
 Si consideri la funzione
 $$E(x)=\frac{-Ax}{(1-x^2)^2}$$
 dove $A$ è una costante positiva.

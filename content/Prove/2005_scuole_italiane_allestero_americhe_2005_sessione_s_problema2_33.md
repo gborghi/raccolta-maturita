@@ -16,6 +16,8 @@ Fonte: p.33 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_scuole_italiane_allestero_americhe_2005_sessione_s_problema2_33_1|Problema 1]]*
+
 Un prisma retto ha per basi i quadrati $ABCD$ e $A'B'C'D'$ e i suoi spigoli laterali sono $AA'$, $BB'$, $CC'$, $DD'$. Gli spigoli di base del prisma misurano 2 cm, quelli laterali misurano 5 cm.
 
 **a)** Indicata con $\varphi$ l'ampiezza dell'angolo che un piano, contenente lo spigolo $AB$, forma col piano della base $ABCD$, determinare a quale condizione deve soddisfare $\varphi$ affinché il piano intersechi la faccia laterale $CDD'C'$ del prisma.

@@ -17,6 +17,8 @@ Fonte: p.51 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1903_tutti_temi_1|Problema 1]]*
+
 **Problema 1.** Essendo dato il rapporto fra il volume di un tronco di cono circoscritto ad una sfera ed il volume della sfera, calcolare i raggi delle basi del tronco ed il rapporto tra le superfici totali dei due solidi.
 
 **Topic:** [[Geometria Solida]], [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
@@ -25,6 +27,8 @@ Fonte: p.51 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.51](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1903_tutti_temi_2|Problema 2]]*
 
 **Problema 2.** Si hanno in un piano un cerchio ed un'ellisse concentrici: la somma degli assi di questa è doppia del diametro di quello, e gli assi medesimi stanno fra loro come $5$ sta a $3$. Se il rettangolo che ha per vertici i punti d'intersezione delle due coniche ruota attorno all'asse minore dell'ellisse, quale sarà il volume del solido risultante?
 

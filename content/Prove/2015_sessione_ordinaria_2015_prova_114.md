@@ -17,6 +17,8 @@ Fonte: p.114 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_ordinaria_2015_prova_114_1|Problema 1]]*
+
 La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, disegnato in figura 1. $\Gamma$ presenta tangenti orizzontali per $x=-1$, $x=1$, $x=2$. Le aree delle regioni A, B, C e D sono rispettivamente 2, 3, 3 e 1. Sia $g(x)$ una primitiva di $f(x)$ tale che $g(3)=-5$. *(figura nel PDF)*
 
 1. Nel caso $f(x)$ fosse esprimibile con un polinomio, quale potrebbe essere il suo grado minimo? Illustra il ragionamento seguito.
@@ -33,6 +35,8 @@ La funzione derivabile $y=f(x)$ ha, per $x\in[-3,3]$, il grafico $\Gamma$, diseg
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_114#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.114](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_ordinaria_2015_prova_114_2|Problema 2]]*
 
 Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con F e G i loro grafici in un riferimento cartesiano $Oxy$:
 
@@ -52,6 +56,8 @@ Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con F e G
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_1|Quesito 1]]*
+
 1. Determinare l'espressione analitica della funzione $y=f(x)$ sapendo che la retta $y=-2x+5$ è tangente al grafico di $f$ nel secondo quadrante e che $f'(x)=-2x^2+6$.
 
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
@@ -60,6 +66,8 @@ Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con F e G
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_114#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.117](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_2|Quesito 2]]*
 
 2. Risolvere l'equazione: $\displaystyle 5\binom{n+1}{5}=21\binom{n-1}{4}$.
 
@@ -70,6 +78,8 @@ Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con F e G
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_3|Quesito 3]]*
+
 3. Calcolare $\displaystyle\lim_{x\to+\infty}\left(\sqrt{3x+5}-\sqrt{3x-2}\right)$.
 
 **Topic:** [[Limiti e Continuita]]
@@ -78,6 +88,8 @@ Assegnate le funzioni reali $f(x)=\ln(x)$ e $g(x)=e^{x-2}$, e indicati con F e G
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_114#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.118](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_4|Quesito 4]]*
 
 4. Sia $f$ la funzione, definita per tutti gli $x$ reali, da
 $$f(x)=(x-1)^2+(x-2)^2+(x-3)^2+(x-4)^2+(x-5)^2$$
@@ -90,6 +102,8 @@ determinare il minimo di $f$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_5|Quesito 5]]*
+
 5. Detta $A(n)$ l'area del poligono regolare di $n$ lati inscritto in un cerchio $C$ di raggio $r$, verificare che $A(n)=\dfrac{n}{2}r^2\sin\dfrac{2\pi}{n}$ e calcolarne il limite per $n\to\infty$.
 
 **Topic:** [[Limiti e Continuita]], [[Geometria Euclidea]], [[Trigonometria]]
@@ -99,6 +113,8 @@ determinare il minimo di $f$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_6|Quesito 6]]*
+
 6. I lati di un triangolo misurano, rispettivamente, 6 cm, 6 cm e 5 cm. Preso a caso un punto $P$ all'interno del triangolo, qual è la probabilità che $P$ disti più di 2 cm da tutti e tre i vertici del triangolo?
 
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
@@ -107,6 +123,8 @@ determinare il minimo di $f$.
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_114#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.119](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_7|Quesito 7]]*
 
 7. Data la funzione:
 $$f(x)=\begin{cases} x^3 & 0\le x\le 1\\ x^2-kx+k & 1<x\le 2\end{cases}$$
@@ -118,6 +136,8 @@ determinare il parametro $k$ in modo che nell'intervallo $[0,2]$ sia applicabile
 **Soluzione:** [[Soluzioni/2015_sessione_ordinaria_2015_prova_114#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.120](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_ordinaria_2015_prova_114_8|Quesito 8]]*
 
 8. Il grafico della funzione $f(x)=\sqrt{x}$ ($x\in\mathbb{R}$, $x\ge 0$) divide in due porzioni il rettangolo $ABCD$ avente vertici $A(1,0)$, $B(4,0)$, $C(4,2)$ e $D(1,2)$. Calcolare il rapporto tra le aree delle due porzioni.
 

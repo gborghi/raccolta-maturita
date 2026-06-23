@@ -16,6 +16,8 @@ Fonte: p.211 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqG
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_suppletiva_2019_problema1_211_1|Problema 1]]*
+
 Al variare di $a\in\mathbb{R}$, si consideri la famiglia di funzioni:
 $$f_a(x)=\begin{cases}\dfrac{9}{2}\left(1+x\,e^{a-x}\right) & \text{per } x\ge 0\\[8pt]\dfrac{9a}{4(x-1)^4} & \text{per } x<0\end{cases}$$
 

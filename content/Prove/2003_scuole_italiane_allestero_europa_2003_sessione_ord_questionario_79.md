@@ -17,6 +17,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_1|Quesito 1]]*
+
 **Quesito 1.** Date un esempio di solido la cui superficie laterale è $7\pi$.
 
 **Topic:** [[Geometria Solida]]
@@ -25,6 +27,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.79](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_2|Quesito 2]]*
 
 **Quesito 2.** Date un esempio di polinomio il cui grafico taglia la retta $y=1$ tre volte.
 
@@ -36,6 +40,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_3|Quesito 3]]*
+
 **Quesito 3.** Dimostrate, senza risolverla, che l'equazione $2x^3+3x^2+6x+12=0$ ammette una e una sola radice reale.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]], [[Equazioni e Disequazioni]]
@@ -46,6 +52,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_4|Quesito 4]]*
+
 **Quesito 4.** Calcolate $D[\operatorname{arccot} x]$ ($D=$ derivata) e dite perché essa è opposta a $D[\arctan x]$.
 
 **Topic:** [[Derivate]], [[Trigonometria]]
@@ -55,6 +63,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_5|Quesito 5]]*
+
 **Quesito 5.** Scrivete l'equazione della tangente a $\lambda$, grafico di $f(x)=2x-\log\left(e^{\frac{\pi}{2}}+1\right)$ nel suo punto $P$ di ascissa $0$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -63,6 +73,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.81](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_6|Quesito 6]]*
 
 **Quesito 6.** Dopo aver tracciato il grafico della funzione $\log_4 x$, come vi regolereste per tracciare il grafico della funzione $\log_4(x-5)$? e quello della funzione $\log_4 2x$?
 
@@ -74,6 +86,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_7|Quesito 7]]*
+
 **Quesito 7.** Fra le primitive di $y=3\cos^3 x$ trovare quella il cui diagramma passa per $P(0,5)$.
 
 **Topic:** [[Calcolo Integrale]], [[Trigonometria]]
@@ -82,6 +96,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Soluzione:** [[Soluzioni/2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.82](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_8|Quesito 8]]*
 
 **Quesito 8.** Il coefficiente angolare della tangente al diagramma di $f(x)$ è, in ogni suo punto $P$, uguale al doppio dell'ascissa di $P$. Determinate $f(x)$ sapendo che $f(0)=4$.
 

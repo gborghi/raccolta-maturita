@@ -17,6 +17,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_1|Quesito 1]]*
+
 **Quesito 1.** Si dimostri che fra tutti i triangoli rettangoli aventi la stessa ipotenusa, quello isoscele ha l'area massima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
@@ -25,6 +27,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_2|Quesito 2]]*
 
 **Quesito 2.** Quando due rette si dicono sghembe? Come si definisce la distanza tra due rette sghembe?
 
@@ -35,6 +39,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_3|Quesito 3]]*
+
 **Quesito 3.** Si calcolino le radici dell'equazione: $$3^{x+3}+9^{x+1}=10$$
 
 **Topic:** [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -43,6 +49,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_4|Quesito 4]]*
 
 **Quesito 4.** Si traccino i grafici delle seguenti funzioni di $\mathbb{R}$ in $\mathbb{R}$: $$f:x\to 3^{x+1};\qquad g:x\to 3^x+1;\qquad h:x\to 3^{|x|};\qquad k:x\to 3^{-x}$$
 
@@ -54,6 +62,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_5|Quesito 5]]*
+
 **Quesito 5.** Siano $a$ e $b$ due numeri positivi diversi da $1$. Si dimostri che: $$\log_a b\cdot\log_b a=1$$
 
 **Topic:** [[Esponenziali e Logaritmi]]
@@ -62,6 +72,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.27](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_6|Quesito 6]]*
 
 **Quesito 6.** Il coefficiente angolare della tangente al grafico della funzione $f(x)$ è, in ogni suo punto $P$, uguale al quadruplo della radice cubica dell'ascissa di $P$. Si determini $f(x)$, sapendo che il grafico passa per il punto $A(-1,0)$.
 
@@ -72,6 +84,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_7|Quesito 7]]*
+
 **Quesito 7.** Un cerchio ha raggio $1$ metro. Quanto misura il lato del decagono regolare in esso inscritto? E quale è la misura del lato del decagono regolare circoscritto?
 
 **Topic:** [[Geometria Euclidea]], [[Trigonometria]]
@@ -80,6 +94,8 @@ Fonte: p.25 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Soluzione:** [[Soluzioni/2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.28](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_8|Quesito 8]]*
 
 **Quesito 8.** Il valore della seguente espressione: $$\int_0^1 \arccos x\,dx-\frac{1}{2}\int_0^1(1-2\arcsin x)\,dx$$ è $\dfrac{\pi-1}{2}$. Spiegarlo in maniera esauriente.
 

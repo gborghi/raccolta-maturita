@@ -16,6 +16,8 @@ Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_liceo_della_comunicazione_2014_problema1_64_1|Problema 1]]*
+
 Si consideri la funzione:
 $$f(x) = x\sqrt{4 - x^2}.$$
 

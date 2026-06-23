@@ -16,6 +16,8 @@ Fonte: p.104 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmk
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_ordinamento_2013_sessione_straordinaria_problema2_104_1|Problema 1]]*
+
 Si consideri la funzione:
 $$f(x)=\ln(x^2+1).$$
 

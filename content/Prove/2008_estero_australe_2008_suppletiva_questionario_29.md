@@ -17,6 +17,8 @@ Fonte: p.29 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_suppletiva_questionario_29_1|Quesito 1]]*
+
 Le misure dei lati di un triangolo sono $30$, $70$ e $90$ cm. Si calcolino, con l'aiuto di una calcolatrice, le ampiezze degli angoli del triangolo approssimandole in gradi e primi sessagesimali.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -25,6 +27,8 @@ Le misure dei lati di un triangolo sono $30$, $70$ e $90$ cm. Si calcolino, con 
 **Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.29](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_suppletiva_questionario_29_2|Quesito 2]]*
 
 Si dimostri che le espressioni $y = 2\sin\left(x-\frac{\pi}{3}\right) - 2$ e $y = \sin x - \sqrt{3}\cos x - 2$ definiscono la stessa funzione $f$. Di $f$ si precisi: dominio, codominio e periodo.
 
@@ -36,6 +40,8 @@ Si dimostri che le espressioni $y = 2\sin\left(x-\frac{\pi}{3}\right) - 2$ e $y 
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_suppletiva_questionario_29_3|Quesito 3]]*
+
 Si diano esempi di funzioni i cui grafici presentano un asintoto verticale e un asintoto orizzontale.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Limiti e Continuita]]
@@ -45,6 +51,8 @@ Si diano esempi di funzioni i cui grafici presentano un asintoto verticale e un 
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_suppletiva_questionario_29_4|Quesito 4]]*
+
 Si enunci il teorema del valor medio o di Lagrange e se ne illustrino il legame con il teorema di Rolle e le implicazioni ai fini della determinazione della crescenza o decrescenza delle funzioni.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -53,6 +61,8 @@ Si enunci il teorema del valor medio o di Lagrange e se ne illustrino il legame 
 **Soluzione:** [[Soluzioni/2008_estero_australe_2008_suppletiva_questionario_29#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.30](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2008_estero_australe_2008_suppletiva_questionario_29_5|Quesito 5]]*
 
 Si dimostri che l'equazione $x^9 - 9x + 9 = 0$ ha una sola radice reale.
 

@@ -16,6 +16,8 @@ Fonte: p.119 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmk
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_pni_2013_sessione_straordinaria_problema1_119_1|Problema 1]]*
+
 Data la semicirconferenza di centro $O$ e diametro $AB=2r$, si prenda su di essa un punto $P$ e si tracci il raggio $OQ$ parallelo ad $AP$.
 
 1) Posto $P\hat{A}B=\alpha$, si calcoli il rapporto:

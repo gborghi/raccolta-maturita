@@ -16,6 +16,8 @@ Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 **Cluster:** [[Clusters/Algebra|Algebra]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2002_pni_2002_sessione_straordinaria_problema1_81_1|Problema 1]]*
+
 Considerato il seguente sistema lineare nelle incognite $x$, $y$, $z$:
 
 $$\begin{cases} x + ay + a^2 z = 1 \\ x + ay + ab\,z = a \\ bx + a^2 y + a^2 b\,z = a^2 b \end{cases} \qquad [1]$$

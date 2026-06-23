@@ -17,6 +17,8 @@ Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0W
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2021_4_112_1|Problema 1]]*
+
 Considera la famiglia di funzioni $f_k:\mathbb{R}\to\mathbb{R}$ definita ponendo
 $$f_k(x)=\frac{4x}{k+x^2},$$
 dove $k$ è un parametro reale positivo.
@@ -43,6 +45,8 @@ mentre è nullo nell'origine.
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2021_4_112_2|Problema 2]]*
+
 Una spira rettangolare, i cui lati orizzontali e verticali misurano rispettivamente $a=10$ cm e $b=20$ cm, è fatta ruotare all'interno di un campo magnetico uniforme d'intensità $B=1{,}0\cdot10^{-2}$ T. All'istante $t=0$ la spira viene messa in movimento: l'angolo, in radianti, formato dalla normale alla spira $\vec{n}$ e il campo magnetico $\vec{B}$, varia nel tempo secondo la legge $\theta(t)=\dfrac{1}{2}\gamma t^2$, con $\gamma=1{,}0\cdot10^{2}$ rad/s².
 
 *(figura nel PDF)*
@@ -63,6 +67,8 @@ Una spira rettangolare, i cui lati orizzontali e verticali misurano rispettivame
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_1|Quesito 1]]*
+
 1. Determina il valore dei parametri reali $a$ e $b$ in modo che la funzione
 $$f(x)=\frac{ax+b}{\ln x - 1}$$
 ammetta gli asintoti $x=e$ e $y=-1$. Determina, se esistono, gli ulteriori asintoti della funzione.
@@ -75,6 +81,8 @@ ammetta gli asintoti $x=e$ e $y=-1$. Determina, se esistono, gli ulteriori asint
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_2|Quesito 2]]*
+
 2. Determina l'angolo formato dalle tangenti al grafico della funzione
 $$f(x)=\sqrt{1-x^2}+|x|$$
 nel suo punto angoloso.
@@ -85,6 +93,8 @@ nel suo punto angoloso.
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2021_4_112#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_3|Quesito 3]]*
 
 3. Determina l'espressione analitica della funzione $y=f(x)$ sapendo che
 $$f'(x)=3x^2-8x+4$$
@@ -97,6 +107,8 @@ e che la sua tangente di flesso ha equazione $36x+27y-64=0$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_4|Quesito 4]]*
+
 4. A un convegno partecipano 36 psichiatri e 24 psicologi. Si deve formare una commissione composta da tre di essi. Qual è la probabilità che vi siano almeno uno psichiatra e almeno uno psicologo?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -105,6 +117,8 @@ e che la sua tangente di flesso ha equazione $36x+27y-64=0$.
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2021_4_112#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_5|Quesito 5]]*
 
 5. In figura è riportato il grafico della funzione
 $$f(x)=\frac{ax^2+bx}{x^2+cx+d}.$$
@@ -118,6 +132,8 @@ La retta $s$ di equazione $y=x$ è asintoto di $f(x)$ e la retta $r$ di equazion
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_6|Quesito 6]]*
+
 6. Un corpo in moto rettilineo ha una velocità (in m/s) variabile secondo la legge
 $$v(t)=\begin{cases} at^2+bt+c & 0\le t\le 3 \\ \dfrac{c}{t} & t>3 \end{cases}$$
 in cui $t$ è in secondi e $a$, $b$ e $c$ sono costanti intere da determinare, sapendo che $v(3{,}0\text{ s})=3{,}0$ m/s e che l'accelerazione istantanea è continua per ogni $t\ge 0$. Posto che le costanti abbiano i valori così determinati, ricava lo spazio percorso dal corpo nei primi 4,0 secondi, quindi dimostra che comunque il corpo non potrà percorrere più di $1{,}8\cdot10^{1}$ metri.
@@ -129,6 +145,8 @@ in cui $t$ è in secondi e $a$, $b$ e $c$ sono costanti intere da determinare, s
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_7|Quesito 7]]*
+
 7. In una regione di spazio è presente un campo magnetico uniforme la cui intensità varia nel tempo secondo la legge $B(t)=B_0\cdot\sin(\omega t)$, con $B_0=4{,}0\cdot10^{-2}$ T, $\omega=2{,}5\cdot10^{2}$ rad·s⁻¹ e $t>0$. All'interno del campo magnetico è posto un solenoide cilindrico di rame di resistenza $R=1{,}3\cdot10^{1}\ \Omega$, il cui asse è parallelo a $\vec{B}$ e costituito da 4000 spire di diametro $d=5{,}0$ cm. Scrivi l'espressione dell'intensità della corrente indotta nel solenoide e determina l'intensità della corrente indotta nel primo istante in cui si annulla il campo magnetico.
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -137,6 +155,8 @@ in cui $t$ è in secondi e $a$, $b$ e $c$ sono costanti intere da determinare, s
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2021_4_112#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2021_4_112_8|Quesito 8]]*
 
 8. I muoni sono particelle di massa $m=1{,}88\cdot10^{-28}$ kg la cui vita media in quiete è pari a $\tau=2{,}20$ μs. Un muone, prodotto dall'interazione di un raggio cosmico con l'atmosfera, si sta avvicinando alla Terra. Rispetto a un osservatore sulla Terra, il muone si muove con velocità verticale verso il basso di modulo pari a $v_\mu=0{,}99c$. Determina a quale quota è generato il muone se raggiunge la superficie terrestre prima di decadere in un tempo pari proprio alla vita media $\tau$. Determina inoltre l'energia cinetica e l'energia totale di tale muone espresse in eV. Un elettrone si muove parallelamente al muone, nello stesso verso e con velocità rispetto alla Terra $v_e=0{,}75c$; determina la velocità dell'elettrone misurata nel sistema di riferimento del muone.
 

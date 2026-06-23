@@ -17,6 +17,8 @@ Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGO
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_1|Problema 1]]*
+
 Si consideri la funzione
 $$E(x)=\frac{-A\,x}{(1-x^2)^2}$$
 dove $A$ è una costante positiva.
@@ -38,6 +40,8 @@ specificando il significato geometrico di ciascuno di essi.
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_2|Problema 2]]*
 
 In uno dei possibili modelli per descrivere l'effetto della resistenza dell'aria in un moto di caduta libera, si suppone che il modulo della forza di attrito $F$, opposta alla forza peso, risulti
 $$F=k\cdot[v(t)]^2$$
@@ -67,6 +71,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_1|Quesito 1]]*
+
 1. Assegnata la funzione $f(x)=x^2+3x-\dfrac{3}{x}$, mostrare che esiste un solo valore $b>-3$ tale che nell'intervallo $[-3,b]$ siano rispettate tutte le ipotesi del teorema di Rolle. Determinare tale valore $b$.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -77,6 +83,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_2|Quesito 2]]*
+
 2. Dopo aver verificato che la curva di equazione $|y|+|x|^3=1$ è simmetrica sia rispetto all'asse $x$ sia rispetto all'asse $y$, determinare l'area della regione piana delimitata da tale curva.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -85,6 +93,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_3|Quesito 3]]*
 
 3. Dimostrare che, se in un parallelogramma si tracciano le due diagonali, esso viene suddiviso in quattro triangoli di area uguale. Discutere la validità o meno dell'affermazione inversa: se un quadrilatero convesso viene suddiviso dalle sue diagonali in quattro triangoli di area uguale, allora esso è un parallelogramma.
 
@@ -95,6 +105,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_4|Quesito 4]]*
+
 4. Sono assegnati, nello spazio tridimensionale, i punti $A(-1,3,2)$, $B(3,4,2)$, $C(5,1,4)$, $D(1,0,4)$. Dopo aver dimostrato che $ABCD$ è un rombo, determinare l'area di tale rombo ed il raggio della circonferenza in esso inscritta.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Euclidea]]
@@ -103,6 +115,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_5|Quesito 5]]*
 
 5. Alberto e Barbara fanno un gioco: ognuno lancia contemporaneamente 5 dadi, con facce numerate da 1 a 6. Ciascun dado fa guadagnare un punto a chi lo ha lanciato se esce il numero 5 o il 6; le facce da 1 a 4 non fanno guadagnare punti. Vince chi, con i 5 dadi lanciati, realizza più punti. Qual è la probabilità che pareggino?
 
@@ -113,6 +127,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_6|Quesito 6]]*
+
 6. Un elettrone, un protone e una particella $\alpha$ sono accelerati, da fermi, da una differenza di potenziale $\Delta V$ e in seguito penetrano, nello stesso punto, in un campo magnetico $\vec{B}$, uniforme e perpendicolare alle velocità. Esprimere i raggi di curvatura delle traiettorie del protone e della particella $\alpha$ in funzione del raggio di curvatura dell'elettrone. A parte l'entità dei raggi di curvatura, in cosa differiranno le traiettorie?
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -122,6 +138,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_7|Quesito 7]]*
+
 7. Due conduttori rettilinei, paralleli e complanari sono percorsi da correnti concordi di intensità $I_1=4$ A e $I_2=6$ A. I due conduttori sono fissati ad una distanza di 2 cm uno dall'altro. Determinare modulo, direzione e verso del campo magnetico nei punti del piano equidistanti dai due conduttori. Un terzo conduttore rettilineo, attraversato da una corrente $I_3$, libero di muoversi lateralmente, viene posto tra i primi due come in figura. Calcolare la posizione nella quale quest'ultimo conduttore resta in equilibrio. Determinare il verso della corrente $I_3$ in modo che la precedente posizione di equilibrio sia stabile. *(figura nel PDF)*
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -130,6 +148,8 @@ e stabilire il suo comportamento per $\tau\to+\infty$.
 **Soluzione:** [[Soluzioni/2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.64](https://drive.google.com/file/d/1ojz6PRWkAmZwQqGOBNvRb7lmy8wfykkO/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2019_sessione_ordinaria_2019_calendario_boreale_2_prova_64_8|Quesito 8]]*
 
 8. Considerare due sistemi di riferimento inerziali $\mathcal{R}$ e $\mathcal{R}'$ con assi paralleli. $\mathcal{R}'$ si muove con velocità $v>0$, rispetto a $\mathcal{R}$, lungo l'asse $x$. Inoltre, quando $t=t'=0$, le origini $O,O'$ dei due sistemi di riferimento coincidono. Si dimostra che la velocità $\vec{w}'=(w'_x,w'_y,w'_z)$ di una particella rispetto a $\mathcal{R}'$ è legata alla velocità $\vec{w}=(w_x,w_y,w_z)$ della medesima particella rispetto a $\mathcal{R}$ attraverso le seguenti relazioni (trasformazioni delle velocità):
 $$w'_x=\frac{w_x-v}{1-\dfrac{w_x v}{c^2}},\qquad w'_y=\frac{w_y\sqrt{1-v^2/c^2}}{1-\dfrac{w_x v}{c^2}},\qquad w'_z=\frac{w_z\sqrt{1-v^2/c^2}}{1-\dfrac{w_x v}{c^2}}.$$

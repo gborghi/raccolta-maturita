@@ -16,6 +16,8 @@ Fonte: p.88 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_ordinamento_2007_sessione_suppletiva_problema1_88_1|Problema 1]]*
+
 Rispetto ad un sistema di assi cartesiani $(Oxy)$ si consideri il punto $A(2,0)$.
 
 1) Si scriva l'equazione del luogo dei punti del piano che verificano la relazione

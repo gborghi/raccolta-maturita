@@ -17,6 +17,8 @@ Fonte: p.90 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1948_tutti_temi_1|Problema 1]]*
+
 In un cerchio di raggio $r$ è condotta una corda $AB$, la cui distanza dal centro è $r/2$. Iscrivere nel segmento circolare, che non contiene il centro, un triangolo $ABC$ in modo che i lati $AC$, $CB$ soddisfino la relazione:
 
 $$2\cdot|\overline{AC}|+3\cdot|\overline{BC}|=2kr,$$
@@ -32,6 +34,8 @@ essendo $k$ un numero positivo assegnato. Determinare l'angolo $C\hat{A}B=x$, i 
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1948_tutti_temi_3|Problema 1]]*
+
 Data una circonferenza di diametro $|\overline{AB}|=2r$, determinare sul prolungamento di $AB$, oltre $B$, un punto $P$ tale che si abbia $|\overline{PT}|^2+|\overline{TQ}|^2=k\cdot|\overline{PA}|^2$, con $k$ numero reale positivo, ove $T$ è il punto di contatto di una delle tangenti condotte da $P$ alla circonferenza e $Q$ il punto d'intersezione di questa tangente con quella condotta in $A$ alla circonferenza stessa. Discutere il problema.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Calcolo Integrale]]
@@ -40,6 +44,8 @@ Data una circonferenza di diametro $|\overline{AB}|=2r$, determinare sul prolung
 **Fonte:** [📄 Testo (PDF) — p.90](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1948_tutti_temi_2|Problema 2]]*
 
 La parabola di equazione
 

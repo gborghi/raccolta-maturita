@@ -16,6 +16,8 @@ Fonte: p.177 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_liceo_scientifico_ordinamento_2010_sessione_straor_problema2_177_1|Problema 1]]*
+
 Sia data la funzione: $f(x) = \dfrac{x^3}{x^2 - 1}$.
 
 **1)** Si verifichi che la curva che la rappresenta è simmetrica rispetto all'origine.

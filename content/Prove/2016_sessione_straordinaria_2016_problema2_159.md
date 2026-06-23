@@ -16,6 +16,8 @@ Fonte: p.159 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_sessione_straordinaria_2016_problema2_159_1|Problema 1]]*
+
 La funzione $f:\mathbb{R}\to\mathbb{R}$ è così definita:
 $$f(x)=\operatorname{sen}(x)-x\cdot\cos(x)$$
 

@@ -16,6 +16,8 @@ Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_pni_2007_sessione_suppletiva_problema1_105_1|Problema 1]]*
+
 Si consideri la funzione integrale
 
 $$f(x)=\int_{0}^{x}\left(e^{3t}+2e^{2t}-3e^{t}\right)\,dt.$$

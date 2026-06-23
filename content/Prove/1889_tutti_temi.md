@@ -16,6 +16,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1889_tutti_temi_1|Problema 2]]*
+
 **Problema 2.** È data la somma di tre numeri $x$, $y$, $z$, in progressione aritmetica ed è dato il loro prodotto $b$; trovare questi tre numeri e discutere i risultati.
 
 **Topic:** [[Successioni e Serie]], [[Equazioni e Disequazioni]]

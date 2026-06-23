@@ -17,6 +17,8 @@ Fonte: p.41 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2010_sessione_ordinaria_2010_prova_41_1|Problema 1]]*
+
 Nel piano riferito a coordinate cartesiane $Oxy$:
 
 1. si studi la funzione $f(x)=\dfrac{x^2+1}{\sqrt{3}\,x}$ e se ne tracci il grafico $\gamma$.
@@ -31,6 +33,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_41#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2010_sessione_ordinaria_2010_prova_41_2|Problema 2]]*
 
 È dato il fascio di cubiche di equazione $y=kx^3-kx^2+2kx+1$, dove $k$ è un parametro reale non nullo.
 
@@ -47,6 +51,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_1|Quesito 1]]*
+
 1. Sia $\gamma$ il grafico di $y=\dfrac{10x}{x^2+1}$. Si trovi l'equazione della retta normale a $\gamma$ nel punto $(2,4)$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -55,6 +61,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_41#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_2|Quesito 2]]*
 
 2. Si determini il cono rotondo di massimo volume inscritto in una sfera di raggio $30\,\text{cm}$.
 
@@ -65,6 +73,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_3|Quesito 3]]*
+
 3. Quale è la derivata di $f(x)=3^{\pi x}$? Si giustifichi la risposta.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -73,6 +83,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_41#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.57](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_4|Quesito 4]]*
 
 4. Si dimostri che la media geometrica di due numeri positivi non è mai superiore alla loro media aritmetica.
 
@@ -83,6 +95,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_5|Quesito 5]]*
+
 5. La regione $R$ del primo quadrante delimitata dal grafico di $y=3e^{-x}$ e dalla retta $x=\ln 3$ è la base di un solido $S$ le cui sezioni, ottenute tagliando $S$ con piani perpendicolari all'asse $x$, sono tutte quadrati. Si calcoli il volume di $S$.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -91,6 +105,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_41#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_6|Quesito 6]]*
 
 6. Un prisma a base quadrata ha altezza $x$ e spigolo di base $y$ tali che $x+y=3$. Quale è il suo volume massimo?
 
@@ -101,6 +117,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_7|Quesito 7]]*
+
 7. Si disegni, nell'intervallo $\,]-\pi,\pi]$, il grafico della funzione $f(x)=\frac{1}{2}|\cos x|-1$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Trigonometria]]
@@ -110,6 +128,8 @@ Nel piano riferito a coordinate cartesiane $Oxy$:
 **Soluzione:** [[Soluzioni/2010_sessione_ordinaria_2010_prova_41#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_sessione_ordinaria_2010_prova_41_8|Quesito 8]]*
 
 8. Si consideri una parabola del fascio $y=x^2-ax$ e siano $r$ e $s$ le rette ad essa tangenti rispettivamente nell'origine del sistema di riferimento $Oxy$ e nel punto $T$ di ascissa $2a$. Sia $P$ il punto di intersezione fra $r$ e $s$. Si calcoli:
 $$\lim_{a\to+\infty}\frac{OP}{PT}$$

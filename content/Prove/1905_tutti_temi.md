@@ -17,6 +17,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1905_tutti_temi_1|Problema 1]]*
+
 Fra tutti i triangoli rettangoli che hanno la medesima ipotenusa, determinare quello che, ruotando attorno a questo lato, genera il massimo volume.
 
 Determinare ancora quel triangolo per il quale il quoziente tra la differenza dei volumi contenuti nei coni generati dai cateti ed il volume della sfera che ha per raggio quello della base comune a quei coni è uguale a
@@ -30,6 +32,8 @@ $$\frac{1}{\sqrt{5}}.$$
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1905_tutti_temi_3|Problema 1]]*
+
 Trovare i lati d'un triangolo rettangolo, sapendo che la superficie laterale del cono di rotazione avente l'ipotenusa per raggio della base e per apotema la somma dei cateti è equivalente alla superficie del cerchio di raggio $a$, e sapendo inoltre che il rettangolo contenuto dalle differenze fra l'ipotenusa e ciascuno dei cateti è equivalente al quadrato di lato $b$.
 
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
@@ -38,6 +42,8 @@ Trovare i lati d'un triangolo rettangolo, sapendo che la superficie laterale del
 **Fonte:** [📄 Testo (PDF) — p.53](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1905_tutti_temi_2|Problema 2]]*
 
 Con $n$ cifre numeriche differenti $a_1, a_2, \ldots, a_n$ ($n \le 10$), permutabili in tutti i modi possibili, sian formati tutti i numeri distinti di $n$ cifre. Indicando con $S_n$ la somma di questi numeri, dimostrare che
 
@@ -55,6 +61,8 @@ e che $S_n - S_{n-1}$ è divisibile per $10^{n-1}$.
 **Fonte:** [📄 Testo (PDF) — p.53](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1905_tutti_temi_4|Problema 2]]*
 
 Trovare quattro numeri in progressione geometrica data la differenza $a$ degli estremi e quella $b$ dei medi; e provare che se il rapporto tra $b$ ed $a$ è dato dalla
 

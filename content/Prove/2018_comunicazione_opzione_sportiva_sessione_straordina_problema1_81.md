@@ -16,6 +16,8 @@ Fonte: p.81 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_comunicazione_opzione_sportiva_sessione_straordina_problema1_81_1|Problema 1]]*
+
 Due archi illimitati di due parabole (con assi paralleli all'asse $y$ di un sistema di riferimento), ciascuno dei quali contenente il vertice della parabola, sono disposti in modo da passare per tutti e quattro i quadranti del piano e raccordarsi nell'origine, formando il grafico $\Gamma$ di una funzione:
 
 $$f(x) = \begin{cases} f_1(x) & \text{se } x < 0 \\ f_2(x) & \text{se } x \geq 0 \end{cases}$$

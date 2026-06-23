@@ -17,6 +17,8 @@ Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1920_tutti_temi_3|Problema 1]]*
+
 **Problema 1**
 
 Dato il numero positivo $a$, risolvere e discutere il sistema:
@@ -30,6 +32,8 @@ $$\begin{cases} \cos x + \cos y = a \\ \cos^2 x + \cos^2 y = \dfrac{1}{2} \end{c
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1920_tutti_temi_4|Problema 1]]*
+
 **Problema 1**
 
 Due rette $XX'$, $YY'$ si tagliano perpendicolarmente nel punto $O$. Determinare sui raggi $OX$, $OY$, $OX'$, $OY'$ rispettivamente i punti $A$, $B$, $C$, $D$ in modo che sia $OA = OB$, $OC = OD$ e che il quadrilatero convesso $ABCD$ abbia il perimetro $2p$ e l'area $m^2$.
@@ -41,6 +45,8 @@ Due rette $XX'$, $YY'$ si tagliano perpendicolarmente nel punto $O$. Determinare
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1920_tutti_temi_6|Problema 1]]*
+
 **Problema 1**
 
 Un cilindro e un cono rotondo hanno la stessa altezza e lo stesso volume. Sapendo che $h$ è la misura dell'altezza comune e $m$ il rapporto della superficie totale del cilindro alla superficie laterale del cono, determinare i raggi di base dei due solidi.
@@ -51,6 +57,8 @@ Un cilindro e un cono rotondo hanno la stessa altezza e lo stesso volume. Sapend
 **Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1920_tutti_temi_5|Problema 2]]*
 
 **Problema 2**
 
@@ -65,6 +73,8 @@ Quale deve essere la posizione del punto sulla circonferenza perché sia minima 
 
 ## Problema 3
 
+*↳ Nota atomica: [[Problemi/prob_1920_tutti_temi_1|Problema 3]]*
+
 **Problema 3**
 
 Data una circonferenza e una sua tangente, condurre parallelamente a questa una corda, in modo che la diagonale del rettangolo, avente per lati opposti la corda e la proiezione di essa sulla tangente, sia eguale a un segmento dato.
@@ -77,6 +87,8 @@ Fra tutti i rettangoli, di cui un lato è una corda parallela alla tangente e il
 **Fonte:** [📄 Testo (PDF) — p.64](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 4
+
+*↳ Nota atomica: [[Problemi/prob_1920_tutti_temi_2|Problema 4]]*
 
 **Problema 4**
 

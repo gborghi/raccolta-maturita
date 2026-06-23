@@ -16,6 +16,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_estero_calendario_australe_2007_sessione_suppletiv_problema2_44_1|Problema 1]]*
+
 Si consideri la parabola $\Gamma$ grafico della funzione $f$ definita da $f(x)=4-x^2$.
 
 a) Si trovi il punto $P$ di $\Gamma$ del primo quadrante degli assi cartesiani la somma delle cui coordinate è massima.

@@ -16,6 +16,8 @@ Fonte: p.68 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2014_liceo_della_comunicazione_2014_problema2_68_1|Problema 1]]*
+
 Sia $f(x) = x^3 + 3x^2 + 4x - 12$.
 
 1. Si dimostri che l'equazione $f(x) = 0$ ha una sola radice $\alpha$ tale che $1 < \alpha < 2$.

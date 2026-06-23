@@ -17,6 +17,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1940_tutti_temi_1|Problema 1]]*
+
 Sul diametro $AB$ di un cerchio di centro $O$ e raggio $r$ è dato il punto $P$ medio del raggio $OA$. Determinare sul raggio $OB$ un punto $Q$ tale che, condotta per esso la corda $CD$ perpendicolare ad $AB$, la somma dei quadrati dei lati del triangolo $PCD$ sia:
 
 $$2\left(m+\frac{1}{4}\right)r^2,$$
@@ -30,6 +32,8 @@ essendo $m$ un numero reale positivo dato. Discussione.
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1940_tutti_temi_3|Problema 1]]*
+
 Sono dati due triangoli $ABC$, $DEF$, il primo rettangolo in $B$, il secondo con l'angolo $D\hat{E}F$ uguale a $60°$. Le misure dei segmenti $AB$, $BC$, $DE$, $EF$ formano, nell'ordine scritto, una progressione aritmetica di ragione conosciuta $d$ positiva; inoltre la somma dei quadrati delle misure di $AC$ e $DF$ vale $md^2$, con $m$ numero reale positivo dato. Determinare la lunghezza del lato $AB$. Discussione.
 
 **Topic:** [[Geometria Analitica (piano)]], [[Massimi e Minimi]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -38,6 +42,8 @@ Sono dati due triangoli $ABC$, $DEF$, il primo rettangolo in $B$, il secondo con
 **Fonte:** [📄 Testo (PDF) — p.86](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1940_tutti_temi_2|Problema 2]]*
 
 Disegnare, in un sistema di assi cartesiani ortogonali, le due curve rappresentate dalle equazioni:
 

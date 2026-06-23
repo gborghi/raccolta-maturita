@@ -16,6 +16,8 @@ Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_scientifico_comunicazione_opzione_sportiva_2016_problema2_75_1|Problema 1]]*
+
 Nella figura 1 è rappresentato il grafico $\Gamma$ della funzione continua $f:[0,+\infty)\to\mathbb{R}$, derivabile in $\,]0,+\infty)$, e sono indicate le coordinate di alcuni suoi punti.
 
 *(figura nel PDF)*

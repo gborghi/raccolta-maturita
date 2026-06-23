@@ -16,6 +16,8 @@ Fonte: p.64 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_ordinamento_2008_sessione_suppletiva_problema1_64_1|Problema 1]]*
+
 Dato un quadrante $AOB$ di cerchio, di centro $O$ e raggio $2$, si consideri sull'arco $AB$ un punto $P$.
 
 1) Si esprima in funzione di $t = \tan\dfrac{x}{2}$ (con $x = B\hat{O}P$) l'area del quadrilatero $OMPN$, essendo $M$ ed $N$ i punti medi dei raggi $OA$ e $OB$.

@@ -16,6 +16,8 @@ Fonte: p.28 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2017_liceo_scientifico_2017_problema1_28_1|Problema 1]]*
+
 Si può pedalare agevolmente su una bicicletta a ruote quadrate? A New York, al MoMath-Museum of Mathematics si può fare, in uno dei padiglioni dedicati al divertimento matematico (figura 1). È però necessario che il profilo della pedana su cui il lato della ruota può scorrere soddisfi alcuni requisiti.
 
 In figura 2 è riportata una rappresentazione della situazione nel piano cartesiano $Oxy$: il quadrato di lato $DE=2$ (in opportune unità di misura) e di centro $C$ rappresenta la ruota della bicicletta, il grafico della funzione $f(x)$ rappresenta il profilo della pedana. *(figure nel PDF)*

@@ -16,6 +16,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema2_53_1|Problema 1]]*
+
 Nell'insieme delle funzioni $y=f(x)$ tali che
 $$y'=\frac{ax}{(1+4x^2)^2}$$
 si trovi quella il cui grafico $\gamma$ passa per i punti $\left(\dfrac{1}{2}\,,\,1\right)$ e $(0,2)$.

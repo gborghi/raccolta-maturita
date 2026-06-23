@@ -17,6 +17,8 @@ Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGghc
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_ordinaria_2018_prova_1_1|Problema 1]]*
+
 Devi programmare il funzionamento di una macchina che viene adoperata nella produzione industriale di mattonelle per pavimenti. Le mattonelle sono di forma quadrata di lato 1 (in un'opportuna unità di misura) e le fasi di lavoro sono le seguenti:
 
 - si sceglie una funzione $y = f(x)$ definita e continua nell'intervallo $[0,1]$, che soddisfi le condizioni:
@@ -51,6 +53,8 @@ Il cliente decide di ordinare 5.000 mattonelle con il disegno derivato da $a_2(x
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_ordinaria_2018_prova_1_2|Problema 2]]*
+
 Consideriamo la funzione $f_k: \mathbb{R} \to \mathbb{R}$ così definita:
 
 $$f_k(x) = -x^3 + kx + 9$$
@@ -73,6 +77,8 @@ con $k \in \mathbb{Z}$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_1|Quesito 1]]*
+
 1. Dimostrare che il volume di un cilindro inscritto in un cono è minore della metà del volume del cono.
 
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]], [[Derivate]]
@@ -81,6 +87,8 @@ con $k \in \mathbb{Z}$.
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.19](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_2|Quesito 2]]*
 
 2. Si dispone di due dadi uguali non bilanciati a forma di tetraedro regolare con le facce numerate da 1 a 4. Lanciando ciascuno dei due dadi, la probabilità che esca 1 è il doppio della probabilità che esca 2, che a sua volta è il doppio della probabilità che esca 3, che a sua volta è il doppio della probabilità che esca 4. Se si lanciano i due dadi contemporaneamente, qual è la probabilità che escano due numeri uguali tra loro?
 
@@ -91,6 +99,8 @@ con $k \in \mathbb{Z}$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_3|Quesito 3]]*
+
 3. Determinare i valori di $k$ tali che la retta di equazione $y = -4x + k$ sia tangente alla curva di equazione $y = x^3 - 4x^2 + 5$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]], [[Equazioni e Disequazioni]]
@@ -99,6 +109,8 @@ con $k \in \mathbb{Z}$.
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_4|Quesito 4]]*
 
 4. Considerata la funzione $f(x) = \dfrac{3x - e^{\mathrm{sen}\, x}}{5 + e^{-x} - \cos x}$, determinare, se esistono, i valori di $\lim_{x \to +\infty} f(x)$, $\lim_{x \to -\infty} f(x)$, giustificando adeguatamente le risposte fornite.
 
@@ -109,6 +121,8 @@ con $k \in \mathbb{Z}$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_5|Quesito 5]]*
+
 5. Con una staccionata lunga 2 metri si vuole recintare una superficie avente la forma di un rettangolo sormontato da una semicirconferenza, come in figura. Determinare le dimensioni dei lati del rettangolo che consentono di recintare la superficie di area massima. *(figura nel PDF)*
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Geometria Euclidea]]
@@ -118,6 +132,8 @@ con $k \in \mathbb{Z}$.
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_6|Quesito 6]]*
+
 6. Determinare l'equazione della superficie sferica $S$, con centro sulla retta $r: \begin{cases} x = t \\ y = t \\ z = t \end{cases}$, $t \in \mathbb{R}$, tangente al piano $\pi: 3x - y - 2z + 14 = 0$ nel punto $T(-4, 0, 1)$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -126,6 +142,8 @@ con $k \in \mathbb{Z}$.
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_7|Quesito 7]]*
 
 7. Determinare $a$ in modo che
 
@@ -140,6 +158,8 @@ sia uguale a 10.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_8|Quesito 8]]*
+
 8. In un gioco a due giocatori, ogni partita vinta frutta 1 punto e vince chi per primo raggiunge 10 punti. Due giocatori che in ciascuna partita hanno la stessa probabilità di vincere si sfidano. Qual è la probabilità che uno dei due giocatori vinca in un numero di partite minore o uguale a 12?
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -149,6 +169,8 @@ sia uguale a 10.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_9|Quesito 9]]*
+
 9. Sono dati, nello spazio tridimensionale, i punti $A(3,1,0)$, $B(3,-1,2)$, $C(1,1,2)$. Dopo aver verificato che $ABC$ è un triangolo equilatero e che è contenuto nel piano $\alpha$ di equazione $x + y + z - 4 = 0$, stabilire quali sono i punti $P$ tali che $ABCP$ sia un tetraedro regolare.
 
 **Topic:** [[Geometria nello Spazio]], [[Geometria Solida]]
@@ -157,6 +179,8 @@ sia uguale a 10.
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_1#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_1_10|Quesito 10]]*
 
 10. Determinare quali sono i valori del parametro $k$ per cui la funzione $y(x) = 2e^{kx+2}$ è soluzione dell'equazione differenziale $y'' - 2y' - 3y = 0$.
 

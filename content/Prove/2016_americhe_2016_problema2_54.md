@@ -16,6 +16,8 @@ Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8I
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_americhe_2016_problema2_54_1|Problema 1]]*
+
 Sia $\Gamma$ il grafico della funzione
 
 $$f(x)=\frac{1}{1+k\cdot e^{-x}}\qquad k\in\mathbb{R},\ k>0$$

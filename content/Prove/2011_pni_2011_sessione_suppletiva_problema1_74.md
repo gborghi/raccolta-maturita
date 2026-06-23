@@ -16,6 +16,8 @@ Fonte: p.74 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2011_pni_2011_sessione_suppletiva_problema1_74_1|Problema 1]]*
+
 È dato un quadrato $ABCD$ di lato $\overline{AB}=a$. Da $A$ si conduca una semiretta, che incontra il lato $BC$ in $E$ ed il prolungamento del lato $DC$ in $F$.
 
 *(figura nel PDF)*

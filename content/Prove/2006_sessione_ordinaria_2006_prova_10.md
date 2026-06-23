@@ -17,6 +17,8 @@ Fonte: p.10 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2006_sessione_ordinaria_2006_prova_10_1|Problema 1]]*
+
 Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un'aiuola rettangolare.
 
 a) Qual è l'aiuola di area massima che è possibile delimitare?
@@ -36,6 +38,8 @@ Un'aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una 
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2006_sessione_ordinaria_2006_prova_10_2|Problema 2]]*
+
 Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax^2$, essendo $a$ un parametro reale e il logaritmo in base $e$.
 
 1. Si discuta, al variare di $a$, l'equazione $\log x = ax^2$ e si dica, in particolare, per quale valore di $a$ i grafici di $f$ e $g$ sono tra loro tangenti.
@@ -52,6 +56,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_1|Quesito 1]]*
+
 1. Si narra che l'inventore del gioco degli scacchi chiedesse di essere compensato con chicchi di grano: un chicco sulla prima casella, due sulla seconda, quattro sulla terza e così via, sempre raddoppiando il numero dei chicchi, fino alla $64^a$ casella. Assumendo che $1000$ chicchi pesino circa $38\ \text{g}$, calcola il peso in tonnellate della quantità di grano pretesa dall'inventore.
 
 **Topic:** [[Successioni e Serie]]
@@ -60,6 +66,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_10#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_2|Quesito 2]]*
 
 2. I poliedri regolari — noti anche come solidi platonici — sono, a meno di similitudini, solo cinque: il tetraedro, il cubo, l'ottaedro, il dodecaedro e l'icosaedro. Sai dimostrarlo?
 
@@ -70,6 +78,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_3|Quesito 3]]*
+
 3. Un foglio di carta deve contenere: un'area di stampa di $50\ \text{cm}^2$, margini superiore e inferiore di $4\ \text{cm}$ e margini laterali di $2\ \text{cm}$. Quali sono le dimensioni del foglio di carta di area minima che si può utilizzare?
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
@@ -78,6 +88,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_10#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.21](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_4|Quesito 4]]*
 
 4. La capacità di un serbatoio è pari a quella del cubo inscritto in una sfera di un metro di diametro. Quanti sono, approssimativamente, i litri di liquido che può contenere il serbatoio?
 
@@ -88,6 +100,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_5|Quesito 5]]*
+
 5. Si dimostri che la somma dei coefficienti dello sviluppo di $(a+b)^n$ è uguale a $2^n$ per ogni $n \in \mathbb{N}$.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -96,6 +110,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_10#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_6|Quesito 6]]*
 
 6. L'equazione risolvente un dato problema è: $k\cos 2x - 5k + 2 = 0$ dove $k$ è un parametro reale e $x$ ha le seguenti limitazioni: $15° < x < 45°$. Si discuta per quali valori di $k$ le radici dell'equazione siano soluzioni del problema.
 
@@ -106,6 +122,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_7|Quesito 7]]*
+
 7. La funzione $f(x) = x^3 - 2x^2$ soddisfa le condizioni del teorema di Lagrange nell'intervallo $[0, 1]$? Se sì, trova il punto $\xi$ che compare nella formula $\dfrac{f(b) - f(a)}{b - a} = f'(\xi)$.
 
 **Topic:** [[Derivate]]
@@ -114,6 +132,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_10#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.24](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_8|Quesito 8]]*
 
 8. La funzione $f(x) = \tan x$ assume valori di segno opposto negli estremi dell'intervallo $I = \left[\dfrac{\pi}{4}, \dfrac{3\pi}{4}\right]$, eppure non esiste alcun $x \in I$ tale che $f(x) = 0$. È così? Perché?
 
@@ -124,6 +144,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_9|Quesito 9]]*
+
 9. Della funzione $f(x)$ si sa che è derivabile e diversa da zero in ogni punto del suo dominio e, ancora, che $f'(x) = f(x)$ e $f(0) = 1$. Puoi determinare $f(x)$?
 
 **Topic:** [[Equazioni Differenziali]], [[Esponenziali e Logaritmi]]
@@ -132,6 +154,8 @@ Si considerino le funzioni $f$ e $g$ determinate da $f(x) = \log x$ e $g(x) = ax
 **Soluzione:** [[Soluzioni/2006_sessione_ordinaria_2006_prova_10#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.10](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_10|Quesito 10]]*
 
 10. La funzione $f(x) = a\sin x + b\cos x$ ha un estremo relativo per $x = \dfrac{4\pi}{3}$ ed è $f\left(\dfrac{2\pi}{3}\right) = 1$. Si trovino $a$ e $b$ e si dica qual è il periodo di $f(x)$.
 

@@ -16,6 +16,8 @@ Fonte: p.165 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_suppletiva_2015_problema1_165_1|Problema 1]]*
+
 Sei stato incaricato di progettare una pista da ballo all'esterno di un locale in costruzione in una zona balneare. Il progetto prevede, oltre alla pista, delle zone verdi e una tettoia che consenta l'uso della pista anche in caso di pioggia.
 
 La pista da ballo viene rappresentata, in un sistema di riferimento cartesiano $Oxy$ in cui l'unità di misura corrisponde a 1 metro, all'interno del rettangolo avente come vertici i punti di coordinate $(-4,0)$, $(4,0)$, $(-4,25)$ e $(4,25)$; nella scelta della sagoma della pista va rispettato il vincolo urbanistico che stabilisce che essa non può occupare più del 60% della superficie di tale rettangolo.

@@ -17,6 +17,8 @@ Fonte: p.130 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZH
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_1|Quesito 1]]*
+
 **Quesito 1.** Si calcoli
 $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 
@@ -27,6 +29,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_2|Quesito 2]]*
+
 **Quesito 2.** Una mattonella ha la forma di un esagono regolare di lato $10\ \text{cm}$. Su di essa viene lanciata a caso una moneta di diametro $d=2{,}325\ \text{cm}$. Si determini la probabilità che la moneta cada internamente alla mattonella, cioè senza intersecarne i lati. *(figura nel PDF)*
 
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
@@ -35,6 +39,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 **Soluzione:** [[Soluzioni/2012_pni_2012_questionario_130#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.130](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_3|Quesito 3]]*
 
 **Quesito 3.** Sia $f(x)=3^x$. Si determini l'ascissa del punto in cui la retta tangente al grafico di $f$ ha coefficiente angolare uguale a $1$.
 
@@ -45,6 +51,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_4|Quesito 4]]*
+
 **Quesito 4.** Si dica, motivando la risposta, se l'insieme $\mathbb{N}$ dei numeri naturali e l'insieme $\mathbb{Q}$ dei numeri razionali sono equipotenti.
 
 **Topic:** [[Successioni e Serie]]
@@ -54,6 +62,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_5|Quesito 5]]*
+
 **Quesito 5.** Dati $n$ punti nel piano, a tre a tre non allineati e a quattro a quattro non complanari, quanti segmenti, quanti triangoli e quanti tetraedri si possono individuare avendo tali punti come estremi o vertici?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -62,6 +72,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 **Soluzione:** [[Soluzioni/2012_pni_2012_questionario_130#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.131](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_6|Quesito 6]]*
 
 **Quesito 6.** Si dimostri che ogni cubica di equazione $y=x^3+ax+b$ ha uno ed un solo punto di flesso e che il suo grafico è simmetrico rispetto a tale punto.
 
@@ -73,6 +85,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_7|Quesito 7]]*
+
 **Quesito 7.** In un tetraedro regolare $VABC$ si determini l'ampiezza dell'angolo formato da uno spigolo laterale (ad esempio $VC$) con il piano della base. *(figura nel PDF)*
 
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
@@ -81,6 +95,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 **Soluzione:** [[Soluzioni/2012_pni_2012_questionario_130#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.132](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_8|Quesito 8]]*
 
 **Quesito 8.** Un'urna contiene palline di tre colori, secondo i dati assegnati. Estraendo una pallina, si determini, mediante il teorema di Bayes, la probabilità richiesta. *(dati nel PDF)*
 
@@ -91,6 +107,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_9|Quesito 9]]*
+
 **Quesito 9.** Date due rette $r$ e due punti $A$ e $B$ situati dalla stessa parte rispetto ad una retta $r$, si determini sulla retta $r$ il punto $D$ tale che la somma $AD+DB$ sia minima.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
@@ -99,6 +117,8 @@ $$\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}.$$
 **Soluzione:** [[Soluzioni/2012_pni_2012_questionario_130#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.133](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2012_pni_2012_questionario_130_10|Quesito 10]]*
 
 **Quesito 10.** Una semicirconferenza di diametro $AB=2r$ è la base di un cono. Si determini, al variare di un opportuno parametro, la posizione per cui la superficie laterale del solido considerato è minima. *(figura nel PDF)*
 

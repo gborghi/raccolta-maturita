@@ -16,6 +16,8 @@ Fonte: p.105 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_suppletiva_ordinamento_2003_problema1_105_1|Problema 1]]*
+
 Del triangolo $ABC$ si hanno le seguenti informazioni:
 $$\overline{AB}=3\,\text{cm}\qquad \overline{AC}=2\,\text{cm}\qquad C\hat{A}B=60°$$
 

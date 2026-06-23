@@ -17,6 +17,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1878_tutti_temi_2|Problema 1]]*
+
 **Problema 1b.** Dividere un numero $2a$ in due parti tali, che la somma dei quozienti di ciascuna parte divisa per l'altra sia un minimo.
 
 **Topic:** [[Massimi e Minimi]], [[Equazioni e Disequazioni]]
@@ -25,6 +27,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Fonte:** [📄 Testo (PDF) — p.46](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1878_tutti_temi_1|Problema 2]]*
 
 **Problema 2b.** In quanti triangoli differenti può essere diviso un poligono di $n$ lati per mezzo di diagonali, un lato almeno del poligono essendo sempre uno dei lati dei triangoli?
 

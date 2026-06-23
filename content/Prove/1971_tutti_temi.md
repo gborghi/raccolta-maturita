@@ -16,6 +16,8 @@ Fonte: p.108 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1971_tutti_temi_1|Problema 1]]*
+
 *Il candidato risolva, a sua scelta, almeno due dei seguenti quesiti. Tempo concesso: 5 ore.*
 
 1. È dato il triangolo $AOB$, rettangolo in $O$, del quale sia $h$ l'altezza relativa all'ipotenusa. Detta $x$ l'ampiezza dell'angolo $O\hat{A}B$ e posto

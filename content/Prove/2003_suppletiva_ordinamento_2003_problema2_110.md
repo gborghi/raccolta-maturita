@@ -16,6 +16,8 @@ Fonte: p.110 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_suppletiva_ordinamento_2003_problema2_110_1|Problema 1]]*
+
 È data una piramide retta a base quadrata.
 
 1) Si sezioni la piramide con un piano parallelo alla base e si indichino con $a$, $b$ ($a>b$) e $h$ rispettivamente le misure degli spigoli delle basi e l'altezza del tronco che ne risulta. Si esprima in funzione di $a$, $b$, $h$ il volume del tronco di piramide illustrando il ragionamento seguito.

@@ -16,6 +16,8 @@ Fonte: p.131 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs
 **Cluster:** [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_liceo_scientifico_pni_2004_sessione_straordinaria_problema2_131_1|Problema 1]]*
+
 Si considerino le successioni di termini generali $a_n$, $b_n$ e $c_n$ tali che:
 
 $$a_n=\sum_{k=1}^{n} ik,\qquad b_n=\sum_{j=1}^{n} j^2,\qquad c_n=\sum_{\substack{k=1\\(k\ne i)}}^{n} ik.$$

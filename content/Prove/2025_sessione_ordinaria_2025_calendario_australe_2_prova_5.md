@@ -17,6 +17,8 @@ Fonte: p.5 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hP
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_1|Problema 1]]*
+
 Si consideri la funzione $f(x)=\frac{2x^2+ax+b}{cx-1}$, con $a,b,c\in\mathbb{R}$.
 
 a. Determinare il valore dei parametri $a,b,c$ in modo che il grafico della funzione $f$ abbia la retta $x=\frac{1}{2}$ come asintoto verticale, l'asintoto obliquo passi per il punto $P\left(\frac{3}{2},3\right)$ e la retta tangente nel punto di ascissa $x=-1$ passi dal punto $Q(2,3)$.
@@ -36,6 +38,8 @@ d. Calcolare l'area della regione $R_k$ delimitata da $\gamma$, dal suo asintoto
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_2|Problema 2]]*
 
 Il grafico $\gamma$ in figura, per opportuni valori dei parametri reali $a,b,c,d$, rappresenta, in un periodo $T$, la funzione
 
@@ -61,6 +65,8 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_1|Quesito 1]]*
+
 1. Dato un trapezio circoscritto ad una circonferenza di centro $O$, dimostrare che il triangolo avente per vertici $O$ e gli estremi di uno dei lati obliqui è un triangolo rettangolo.
 
 **Topic:** [[Geometria Euclidea]]
@@ -69,6 +75,8 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_2|Quesito 2]]*
 
 2. Si estraggono in blocco 5 carte da un mazzo da 40, di cui 12 sono figure. Qual è la probabilità che escano esattamente 3 figure? Qual è la probabilità che escano almeno 3 figure?
 
@@ -79,6 +87,8 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_3|Quesito 3]]*
+
 3. Determinare le equazioni dei piani passanti per $A(3,-1,4)$ e $B(2,-1,3)$ e tangenti alla sfera $x^2+y^2+z^2-4x+2y+2=0$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -87,6 +97,8 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_4|Quesito 4]]*
 
 4. Fra tutti i triangoli isosceli inscritti in una circonferenza di raggio $r$, determinare quello di area massima.
 
@@ -97,6 +109,8 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_5|Quesito 5]]*
+
 5. Determinare per quali valori del parametro reale $k>0$ il grafico della funzione $f(x)=e^x-kx^3$ risulta volgere la concavità verso l'alto $\forall x\in\mathbb{R}$.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -106,6 +120,8 @@ d. Si consideri la funzione integrale $F(x)=\int_0^x f(t)\,dt$, $0\leq x\leq 3$.
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_6|Quesito 6]]*
 
 6. Data la funzione
 $$f(x)=\begin{cases} -x^2+ax-8 & \text{se } x<1 \\ e^x+b & \text{se } x\geq 1 \end{cases}$$
@@ -118,6 +134,8 @@ si determinino i valori dei parametri reali $a$ e $b$ che rendono continua e der
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_7|Quesito 7]]*
+
 7. Dimostrare che la funzione $f(x)=2x^3+e^x+\frac{\operatorname{sen}(x)+x}{2}$ ammette un solo zero.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
@@ -127,6 +145,8 @@ si determinino i valori dei parametri reali $a$ e $b$ che rendono continua e der
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_calendario_australe_2_prova_5#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.5](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_calendario_australe_2_prova_5_8|Quesito 8]]*
 
 8. Determinare l'area della regione finita di piano delimitata dalla funzione $f(x)=x\ln x$ e dalle rette $x=1$ e $x=e$.
 

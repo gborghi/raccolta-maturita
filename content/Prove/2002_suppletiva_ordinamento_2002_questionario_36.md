@@ -17,6 +17,8 @@ Fonte: p.36 · [📄 Apri PDF](https://drive.google.com/file/d/1RhB51YA7Eeccsqpg
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_1|Quesito 1]]*
+
 **Quesito 1.** Si consideri la seguente equazione in $x$, $y$: $\;2x^2+2y^2+x+y+k=0$, dove $k$ è un parametro reale. La sua rappresentazione in un piano, riferito a un sistema monometrico di assi cartesiani ortogonali:
 
 a) è una circonferenza per ogni valore di $k$;
@@ -33,6 +35,8 @@ Una sola alternativa è corretta: individuarla e giustificare la risposta.
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_2|Quesito 2]]*
+
 **Quesito 2.** Considerata la funzione di variabile reale: $\;f(x)=\sqrt{x-1}+\sqrt{1-x}$, dire se esiste il limite di $f(x)$ per $x$ tendente a $1$ e giustificare la risposta.
 
 **Topic:** [[Limiti e Continuita]]
@@ -42,6 +46,8 @@ Una sola alternativa è corretta: individuarla e giustificare la risposta.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_3|Quesito 3]]*
+
 **Quesito 3.** Sia $f(x)$ una funzione reale di variabile reale. Si sa che: $f(x)$ è derivabile su tutto l'asse reale; $f(x)=0$ solo per $x=0$; $f(x)\to 0$ per $x\to\pm\infty$; $f'(x)=0$ soltanto per $x=-2$ e $x=1$; $f(-2)=1$ ed $f(1)=-2$. Dire, dandone esauriente spiegazione, se le informazioni suddette sono sufficienti per determinare gli intervalli in cui la funzione è definita, quelli in cui è continua, quelli in cui è positiva, quelli in cui è negativa, quelli in cui cresce, quelli in cui decresce. Si può dire qualcosa circa i flessi di $f(x)$?
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Derivate]]
@@ -50,6 +56,8 @@ Una sola alternativa è corretta: individuarla e giustificare la risposta.
 **Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_4|Quesito 4]]*
 
 **Quesito 4.** Sia $f(x)$ una funzione di variabile reale definita nel modo seguente:
 $$f(x)=\begin{cases}\dfrac{1}{a}\,\mathrm{sen}\,2x & \text{per } 0<x<\dfrac{\pi}{2}\\[2mm]\dfrac{1+a}{\mathrm{sen}\,x} & \text{per } -\dfrac{\pi}{2}<x<0\end{cases}$$
@@ -62,6 +70,8 @@ dove $a$ è un parametro reale non nullo. Stabilire se esiste un valore di $a$ p
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_5|Quesito 5]]*
+
 **Quesito 5.** Un titolo di borsa ha perso ieri l'$x\,\%$ del suo valore. Oggi quel titolo, guadagnando l'$y\,\%$, è ritornato al valore che aveva ieri prima della perdita. Esprimere $y$ in funzione di $x$.
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -71,6 +81,8 @@ dove $a$ è un parametro reale non nullo. Stabilire se esiste un valore di $a$ p
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_6|Quesito 6]]*
+
 **Quesito 6.** Come si sa, la condizione che la funzione reale di variabile reale $f(x)$ sia continua in un intervallo chiuso e limitato $[a;b]$ è sufficiente per concludere che $f(x)$ è integrabile su $[a;b]$. Fornire due esempi, non concettualmente equivalenti, che dimostrino come la condizione non sia necessaria.
 
 **Topic:** [[Calcolo Integrale]], [[Limiti e Continuita]]
@@ -79,6 +91,8 @@ dove $a$ è un parametro reale non nullo. Stabilire se esiste un valore di $a$ p
 **Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.39](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_7|Quesito 7]]*
 
 **Quesito 7.** Una primitiva della funzione $f(x)=\dfrac{1}{2x}+\dfrac{1}{2x+4}$ è:
 $$[A]\;\ln\frac{x}{x+2}\;;\qquad [B]\;\ln\frac{x+2}{x}\;;\qquad [C]\;\ln\sqrt{x^2+2x}\;;\qquad [D]\;\ln\sqrt{2x^2+x}\;.$$
@@ -91,6 +105,8 @@ Una sola alternativa è corretta: individuarla e fornire una spiegazione della s
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_8|Quesito 8]]*
+
 **Quesito 8.** $S_n$ rappresenta la somma dei primi $n$ numeri naturali dispari. La successione di termine generale $a_n$ tale che $a_n=\dfrac{S_n}{2n^2}$ è:
 $$[A]\;\text{costante}\;;\qquad [B]\;\text{crescente}\;;\qquad [C]\;\text{decrescente}\;.$$
 Una sola alternativa è corretta: individuarla e fornire una spiegazione della scelta operata.
@@ -102,6 +118,8 @@ Una sola alternativa è corretta: individuarla e fornire una spiegazione della s
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_9|Quesito 9]]*
+
 **Quesito 9.** Dato un tetraedro regolare, si consideri il quadrilatero avente per vertici i punti medi degli spigoli di due facce. Dimostrare che si tratta di un quadrato.
 
 **Topic:** [[Geometria Solida]], [[Geometria Euclidea]]
@@ -110,6 +128,8 @@ Una sola alternativa è corretta: individuarla e fornire una spiegazione della s
 **Soluzione:** [[Soluzioni/2002_suppletiva_ordinamento_2002_questionario_36#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.41](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_10|Quesito 10]]*
 
 **Quesito 10.** Di due rette $a$, $b$ – assegnate nello spazio ordinario – si sa soltanto che entrambe sono perpendicolari a una stessa retta $p$.
 

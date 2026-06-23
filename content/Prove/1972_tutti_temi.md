@@ -16,6 +16,8 @@ Fonte: p.109 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1972_tutti_temi_1|Problema 1]]*
+
 *Il candidato risolva, a sua scelta, almeno due dei seguenti quesiti. Tempo concesso: 5 ore.*
 
 1. Si scriva l'equazione della circonferenza passante per i punti $A(-2,0)$, $B(4,0)$ ed avente il centro sulla retta $y = 4$, e si calcolino le coordinate degli estremi del diametro parallelo all'asse delle $x$. Si determinino poi i coefficienti dell'equazione $y = ax^2 + bx + c$ in modo che le parabole da essa rappresentate abbiano in comune il punto $C(0,4)$ e siano tangenti all'asse delle ascisse. Tra queste parabole si trovino quelle che passano per l'uno e per l'altro degli estremi del diametro suddetto. Si calcoli infine l'area della regione limitata dalle predette parabole e dall'asse delle $x$.

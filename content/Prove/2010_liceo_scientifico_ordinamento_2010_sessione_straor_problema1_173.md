@@ -16,6 +16,8 @@ Fonte: p.173 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nw
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2010_liceo_scientifico_ordinamento_2010_sessione_straor_problema1_173_1|Problema 1]]*
+
 In un triangolo $ABC$, l'angolo in $B$ è il doppio dell'angolo in $C$ e inoltre è $BC = a$.
 
 **1)** Dette $BH$ e $CL$, rispettivamente, le altezze del triangolo uscenti dai vertici $B$ e $C$, si consideri il rapporto:

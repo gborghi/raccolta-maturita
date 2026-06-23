@@ -16,6 +16,8 @@ Fonte: p.44 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_suppletiva_pni_2000_problema1_44_1|Problema 1]]*
+
 È assegnata la curva $\gamma$ di equazione:
 $$y=e^{-\left(\frac{x}{a}\right)^2}$$
 dove $a$ è una costante positiva.

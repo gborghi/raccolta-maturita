@@ -16,6 +16,8 @@ Fonte: p.75 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_scuole_italiane_allestero_europa_2005_sessione_ord_problema2_75_1|Problema 1]]*
+
 Siano date la parabola $\lambda$ e la retta $r$ d'equazioni rispettive $y = x^2 + 1$ e $y = x - 1$.
 
 **1)** Quale è la distanza minima tra $\lambda$ e $r$? E quale ne è il valore?

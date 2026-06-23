@@ -17,6 +17,8 @@ Fonte: p.54 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1906_tutti_temi_1|Problema 1]]*
+
 Trovare quattro numeri in progressione geometrica, conoscendo il rapporto $q$ di un antecedente al rispettivo conseguente, la somma $a$ dei due antecedenti e la somma $b$ dei quattro numeri.
 
 **Topic:** [[Geometria Solida]]
@@ -25,6 +27,8 @@ Trovare quattro numeri in progressione geometrica, conoscendo il rapporto $q$ di
 **Fonte:** [📄 Testo (PDF) — p.54](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1906_tutti_temi_3|Problema 1]]*
 
 Un cono è circoscritto ad una sfera di raggio $r$ lungo un circolo minore di essa. Quale deve essere l'altezza del segmento sferico, interno al cono, acciocché il volume del primo abbia un rapporto $q$ con quello del secondo?
 
@@ -37,6 +41,8 @@ Costruzione geometrica dell'altezza per $q = 1/4$.
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1906_tutti_temi_5|Problema 1]]*
+
 Una sfera di raggio $r$ viene segata da un piano.
 
 Calcolare e costruire il raggio del circolo sezione nell'ipotesi siano equivalenti la superficie laterale del cono, che ha per vertice il centro della sfera e per base quella sezione, e la superficie della sfera che per diametro la distanza del centro della sfera data dal piano secante.
@@ -48,6 +54,8 @@ Calcolare e costruire il raggio del circolo sezione nell'ipotesi siano equivalen
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1906_tutti_temi_2|Problema 2]]*
+
 Per il vertice $C$ opposto ad $A$ di un rettangolo $ABCD$ si conduca una retta che seghi nei punti $P$ e $Q$ i prolungamenti dei lati $AB$ ed $AD$, e si completi il rettangolo $APQR$. Determinare i segmenti $\overline{AP}$ ed $\overline{AQ}$ in modo che il volume del cilindro generato dalla rotazione del rettangolo $APRQ$ intorno al lato $\overline{AP}$ sia eguale al volume di un altro cilindro avente il raggio della base eguale ad un segmento dato $k$ e l'altezza eguale ad $\overline{AQ}$. Qual'è il più piccolo valore che si può dare a $k$ e come si trovano in questo caso i punti $P$ e $Q$?
 
 **Topic:** [[Successioni e Serie]], [[Equazioni e Disequazioni]]
@@ -56,6 +64,8 @@ Per il vertice $C$ opposto ad $A$ di un rettangolo $ABCD$ si conduca una retta c
 **Fonte:** [📄 Testo (PDF) — p.54](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1906_tutti_temi_4|Problema 2]]*
 
 Le misure $x$ e $y$ delle distanze di due punti, mobili su una retta, da un punto $O$ di questa sono legate dalla
 
@@ -74,6 +84,8 @@ Trovare:
 **Fonte:** [📄 Testo (PDF) — p.54](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1906_tutti_temi_6|Problema 2]]*
 
 Il doppio dell'area d'un triangolo rettangolo è equivalente a quella di un quadrato di lato $a$, e la somma dei quadrati delle proiezioni dei cateti sull'ipotenusa è equivalente ad un altro quadrato di lato $b$.
 

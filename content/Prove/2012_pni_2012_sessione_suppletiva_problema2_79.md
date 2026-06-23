@@ -16,6 +16,8 @@ Fonte: p.79 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZHr
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2012_pni_2012_sessione_suppletiva_problema2_79_1|Problema 1]]*
+
 Si consideri la funzione:
 
 $$f(x)=\operatorname{arctg}x-\frac{x}{1+x^2}$$

@@ -16,6 +16,8 @@ Fonte: p.45 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1877_tutti_temi_1|Problema 1]]*
+
 **Problema 1a.** La longitudine di Roma all'ovest di Berlino è $0.003$, e quella di Vienna all'est della stessa città è $0.008$: supposte le longitudini espresse in parti decimali del giro ($=360°$). Le latitudini di Roma e Vienna, espresse in gradi e parti decimali di grado, sono rispettivamente $41.902$ e $48.210$. Calcolare la minima distanza tra Roma e Vienna, nell'ipotesi che la superficie terrestre sia sferica.
 
 **Topic:** [[Trigonometria]], [[Geometria Solida]]

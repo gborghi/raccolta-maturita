@@ -16,6 +16,8 @@ Fonte: p.65 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGgh
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_straordinaria_2018_problema1_65_1|Problema 1]]*
+
 Un produttore di candeline tea light vuole produrre un nuovo tipo di candela colorata che abbia una parte inferiore di forma cilindrica ed una parte superiore avente la forma riportata in figura 1, che si connetta perfettamente a quella inferiore, come mostrato in figura 2.
 
 *(figure nel PDF)*

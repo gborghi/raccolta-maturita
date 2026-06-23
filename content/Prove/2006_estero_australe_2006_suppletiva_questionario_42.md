@@ -17,6 +17,8 @@ Fonte: p.42 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_1|Quesito 1]]*
+
 Si sa che $G(0) - F(0) = 3$, essendo $F(x)$ e $G(x)$ due primitive di $y = x^2$ e $y = x$ rispettivamente. Quanto vale $G(1) - F(1)$?
 
 **Topic:** [[Calcolo Integrale]], [[Funzioni Integrali]]
@@ -25,6 +27,8 @@ Si sa che $G(0) - F(0) = 3$, essendo $F(x)$ e $G(x)$ due primitive di $y = x^2$ 
 **Soluzione:** [[Soluzioni/2006_estero_australe_2006_suppletiva_questionario_42#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_2|Quesito 2]]*
 
 Quanti sono i numeri di tre cifre (distinte tra loro) che è possibile scrivere utilizzando le cifre pari, diverse da zero?
 
@@ -35,6 +39,8 @@ Quanti sono i numeri di tre cifre (distinte tra loro) che è possibile scrivere 
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_3|Quesito 3]]*
+
 La somma di due numeri è $s$; determinate i due numeri in modo che il loro prodotto sia massimo.
 
 **Topic:** [[Massimi e Minimi]]
@@ -43,6 +49,8 @@ La somma di due numeri è $s$; determinate i due numeri in modo che il loro prod
 **Soluzione:** [[Soluzioni/2006_estero_australe_2006_suppletiva_questionario_42#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.42](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_4|Quesito 4]]*
 
 Fra tutti i coni inscritti in una data sfera, trovare quello di volume massimo.
 
@@ -53,6 +61,8 @@ Fra tutti i coni inscritti in una data sfera, trovare quello di volume massimo.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_5|Quesito 5]]*
+
 Si dimostri che la somma dei coefficienti dello sviluppo di $(a + b)^n$ è uguale a $2^n$ per ogni $n \in \mathbb{N}$.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -61,6 +71,8 @@ Si dimostri che la somma dei coefficienti dello sviluppo di $(a + b)^n$ è ugual
 **Soluzione:** [[Soluzioni/2006_estero_australe_2006_suppletiva_questionario_42#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_6|Quesito 6]]*
 
 Si consideri la funzione $f(x) = x^3 - 4x^2 + 5x + 1$ e la tangente $t$ al suo grafico nel punto di ascissa $x = 2$. Quale è la pendenza di $t$?
 
@@ -71,6 +83,8 @@ Si consideri la funzione $f(x) = x^3 - 4x^2 + 5x + 1$ e la tangente $t$ al suo g
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_7|Quesito 7]]*
+
 È data l'equazione $x^2 - 2(k-1)x + 4 = 0$. Dire per quali valori positivi del parametro $k$ una o entrambe le radici sono reali.
 
 **Topic:** [[Equazioni e Disequazioni]]
@@ -79,6 +93,8 @@ Si consideri la funzione $f(x) = x^3 - 4x^2 + 5x + 1$ e la tangente $t$ al suo g
 **Soluzione:** [[Soluzioni/2006_estero_australe_2006_suppletiva_questionario_42#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.44](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_8|Quesito 8]]*
 
 La funzione $f(x) = a\sin x + bx$ è tale che $f\!\left(\dfrac{\pi}{6}\right) = 1 - \sqrt{3}\,\dfrac{\pi}{6}$ e presenta un massimo relativo nello stesso punto. Si trovino $a$ e $b$ e si dica se $f(x)$ è periodica.
 

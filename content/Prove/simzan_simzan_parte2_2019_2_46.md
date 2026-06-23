@@ -17,6 +17,8 @@ Fonte: p.46 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WT
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2019_2_46_1|Problema 1]]*
+
 Si consideri la funzione reale di variabile reale $i(t)$ così definita:
 $$i(t)=\begin{cases} 2 & \text{se } 0\le t\le 2 \\ t^3+at^2+bt+c & \text{se } 2<t\le 5 \end{cases}$$
 con $a$, $b$, $c$ parametri reali.
@@ -47,6 +49,8 @@ approssima in una certa misura l'andamento di $i(t)$ nell'intervallo $[0;5]$ sec
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2019_2_46_2|Problema 2]]*
+
 Si consideri un filo rettilineo infinito $t$, posto nel vuoto, che presenta una carica positiva distribuita in modo uniforme con densità lineare di carica $\lambda$. Al di fuori del filo, in un generico punto $P$ dello spazio, si osserva che il campo elettrico $\vec{E}$ generato dalla distribuzione lineare ha direzione radiale rispetto a $t$ ed è uscente da essa. Inoltre, il modulo del campo elettrico è costante nei punti posti alla stessa distanza dal filo.
 
 1. Con riferimento alle caratteristiche geometriche di $\vec{E}$ esposte in precedenza, dimostrare che il modulo del campo elettrico generato dalla distribuzione lineare di carica in un punto $P$ che dista $r$ da $t$ è dato da:
@@ -73,6 +77,8 @@ $$\lim_{X\to-\infty}\frac{\int_X^{-2} f(z)\,dz}{\ln(-2X-1)}.$$
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_1|Quesito 1]]*
+
 1. Verificare che il grafico della funzione
 $$F(x)=2+12x-\int_0^x \ln\!\big(t^2+1+4\big)\,dt$$
 ammette un punto di flesso di ascissa $x=0$ e ricavare l'equazione della retta tangente in tale punto.
@@ -84,6 +90,8 @@ ammette un punto di flesso di ascissa $x=0$ e ricavare l'equazione della retta t
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_2|Quesito 2]]*
+
 2. Una scatola contiene 30 palline, numerate da 1 a 30. Le palline sono di due colori diversi: quelle il cui numero è multiplo di 3 sono nere, le rimanenti sono bianche. Si estraggono 3 palline simultaneamente. Determinare la probabilità degli eventi: $A$: «le palline sono di uno stesso colore»; $B$: «il più piccolo dei numeri estratti è 15»; $C$: «le palline sono di colori diversi».
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -92,6 +100,8 @@ ammette un punto di flesso di ascissa $x=0$ e ricavare l'equazione della retta t
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_3|Quesito 3]]*
 
 3. Si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita ponendo:
 $$f(x)=\begin{cases} ax^2+\dfrac{1}{2} & \text{se } x<1 \\ e^{b-x} & \text{se } x\ge 1 \end{cases}$$
@@ -105,6 +115,8 @@ Determinare i parametri reali $a$ e $b$ in modo che la funzione risulti derivabi
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_4|Quesito 4]]*
+
 4. Data la superficie sferica $\Gamma$ di equazione $x^2+y^2+z^2-2x+4y-4=0$ e le rette $r_1$ e $r_2$ di equazioni:
 $$r_1:\begin{cases} x=3t \\ y=0 \\ z=-3t+2 \end{cases}\ (t\in\mathbb{R}),\qquad r_2:\begin{cases} x=3s+2 \\ y=-4 \\ z=-3s-2 \end{cases}\ (s\in\mathbb{R}),$$
 siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D$ i punti di intersezione tra $\Gamma$ e la retta $r_2$. Dimostrare che i punti $A$, $B$, $C$ e $D$ appartengono a uno stesso piano $\alpha$ contenente il centro della superficie sferica e determinare l'equazione di tale piano.
@@ -116,6 +128,8 @@ siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_5|Quesito 5]]*
+
 5. Nel diagramma in figura è rappresentata una trasformazione ciclica di un particolare sistema termodinamico. *(figura nel PDF)* Il tratto $AB$ è lineare; lungo il tratto $BC$ il prodotto $p\cdot V$ è costante; infine nel tratto $CA$ sussiste tra $p$ e $V$ una relazione del tipo $p=\alpha V+\beta$ dove $\alpha$ e $\beta$ sono due costanti reali. Ricavare i valori di $\alpha$ e $\beta$, specificandone l'unità di misura. Utilizzando il calcolo integrale, calcolare poi il lavoro totale $W$, in joule, compiuto dal sistema in un ciclo specificandone il segno e approssimando il risultato alle unità.
 
 **Topic:** [[Topics/Fisica|Fisica]], [[Calcolo Integrale]]
@@ -125,6 +139,8 @@ siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_6|Quesito 6]]*
+
 6. In un laboratorio posto sulla Terra, sotto una campana a vuoto uno ione Ag⁺ (carica pari a $+e$, massa $m=1{,}79\cdot10^{-25}$ kg) è lanciato obliquamente verso l'alto con una velocità iniziale di 1,53 m/s inclinata di 45° rispetto all'orizzontale e da un'altezza di 3,20 cm rispetto alla base della campana. La base stessa è elettrizzata con una carica negativa che genera un campo elettrico corrispondente a quello di una distribuzione piana e infinita di carica con densità superficiale di carica $\sigma=-7{,}92\cdot10^{-17}$ C/m². Determinare qual è la velocità con cui lo ione Ag⁺ colpisce la base della campana a vuoto e la durata del suo volo.
 
 **Topic:** [[Topics/Fisica|Fisica]]
@@ -133,6 +149,8 @@ siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_7|Quesito 7]]*
 
 7. Un fascio di radiazione infrarossa, che si propaga nel vuoto, in 4,16 s fornisce 1,97 J di energia a una superficie piana di area pari a 31,6 cm², posta perpendicolarmente all'onda elettromagnetica. Calcolare:
    a. la densità volumica media di energia dell'onda elettromagnetica infrarossa;
@@ -144,6 +162,8 @@ siano $A$ e $B$ i punti di intersezione tra $\Gamma$ e la retta $r_1$ e $C$ e $D
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2019_2_46#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.46](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2019_2_46_8|Quesito 8]]*
 
 8. Un esperimento sull'effetto Compton viene eseguito con raggi X che hanno una frequenza di $3{,}220\cdot10^{17}$ Hz. Determinare l'energia dei fotoni che hanno subito la diffusione Compton a un angolo di 130,3° e la corrispondente velocità iniziale dell'elettrone dopo la diffusione.
 

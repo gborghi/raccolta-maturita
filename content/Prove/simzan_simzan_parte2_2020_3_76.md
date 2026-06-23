@@ -17,6 +17,8 @@ Fonte: p.76 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0WT
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2020_3_76_1|Problema 1]]*
+
 Si consideri la famiglia di funzioni reali di variabile reale
 $$f_k(x)=\frac{1}{x^2+k},$$
 per ogni $k\in\mathbb{R}^+$.
@@ -44,6 +46,8 @@ dove $h$ è una costante positiva e $f_1(x)$ è una funzione della famiglia $f_k
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.76](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2020_3_76_2|Problema 2]]*
 
 In un piano orizzontale $OXY$ è definito, sulla striscia $0\le X\le d$ (con $d=3{,}000\cdot10^{-1}$ m), il campo elettrostatico costante $\vec{E}$ orientato in senso opposto all'asse $OX$. È presente inoltre un solenoide disposto perpendicolarmente a tale piano, la cui sezione su $OXY$ è la circonferenza $\Gamma$. Il solenoide ha raggio $r=4{,}000$ cm ed è costituito da $N=100$ spire contigue di rame di resistività $\rho=1{,}680\cdot10^{-8}\ \Omega\cdot$m.
 
@@ -73,6 +77,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_1|Quesito 1]]*
+
 1. Sia $f:\mathbb{R}\to\mathbb{R}$ la funzione definita da $f(x)=\dfrac{e^x-1}{e^x+1}$. Calcola, se esistono, i limiti $\displaystyle\lim_{x\to+\infty} f(x)$ e $\displaystyle\lim_{x\to-\infty} f(x)$, giustificando le risposte.
 
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
@@ -81,6 +87,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_2|Quesito 2]]*
 
 2. La funzione $f(x)=\dfrac{p(x)}{x^2+\alpha}$, in cui $p(x)$ è un polinomio e $\alpha\in\mathbb{R}$, ha il grafico in figura, che è simmetrico rispetto all'asse $y$. *(figura nel PDF)* La retta $t$ è tangente al grafico di $f(x)$ nel punto $A$ di ascissa 4 e ha coefficiente angolare assegnato. Determinare il grado di $p(x)$ e l'espressione della funzione basandosi sulle informazioni che si possono dedurre dal grafico. Determinare l'equazione dell'asintoto obliquo della funzione $g(x)=x\cdot f(x)$.
 
@@ -92,6 +100,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_3|Quesito 3]]*
+
 3. Si consideri la funzione $f(x)$ assegnata. Indicato con $M$ il suo punto di massimo assoluto, determinare le equazioni delle rette tangenti al grafico della funzione e passanti per $M$.
 
 **Topic:** [[Derivate]], [[Massimi e Minimi]]
@@ -100,6 +110,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_4|Quesito 4]]*
 
 4. Sono date due funzioni; detti $A$ e $B$ i punti comuni ai grafici delle due funzioni, determinare l'area della regione $R$ di piano delimitata dagli archi dei due grafici compresi tra $A$ e $B$. Verificare che i punti $A$ e $B$ appartengono anche al grafico della funzione $h(x)$ assegnata per qualunque $a>0$, quindi determinare il valore di $a>0$ per il quale la regione $R'$ delimitata dagli archi $AB$ dei grafici di $g(x)$ e di $h(x)$ sia equivalente a $R$.
 
@@ -110,6 +122,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_5|Quesito 5]]*
+
 5. Si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita a tratti. Determinare il valore dei parametri reali $a$ e $b$ tali che la funzione risulti derivabile in $\mathbb{R}$. Tracciare il grafico della funzione deducendolo da quello di funzioni elementari. Verificare che $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervallo $[-1;6]$, determinando l'ascissa del punto che ne soddisfa la tesi.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -119,6 +133,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_6|Quesito 6]]*
 
 6. La cometa di Halley orbita intorno al Sole con un periodo di circa 76,0 anni, descrivendo un'orbita ellittica molto eccentrica ($e=0{,}967$); per questo motivo l'afelio (punto più lontano dal Sole) differisce molto dal perielio (punto più vicino al Sole). *(figura nel PDF)* I valori orbitali della cometa all'afelio sono $v_{af}=914$ m/s e $r_{af}=35{,}1$ UA. Tenendo conto del principio di conservazione del momento angolare $\vec{L}$, il cui modulo è definito dalla relazione $L=mvr$ nei punti considerati:
    - verificare che le relazioni che indicano $v_{pe}$ e $r_{pe}$ (grandezze orbitali della cometa al perielio) sono date dalle espressioni assegnate, dove $E_s$ e $L_s$ sono, rispettivamente, l'energia e il modulo del momento angolare per unità di massa, $G$ è la costante di gravitazione universale e $M_s$ è la massa del Sole;
@@ -131,6 +147,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_7|Quesito 7]]*
+
 7. Un campo elettrico $\vec{E}$, uniforme e variabile nel tempo, genera un campo magnetico indotto $\vec{B}$. Si consideri una circonferenza $\gamma$ di raggio $r$ e di centro $O$ perpendicolare al campo $\vec{E}$; si sa che il campo $\vec{B}$ è tangente a $\gamma$, nel piano che la contiene; inoltre, in tutti i punti di $\gamma$ il suo modulo è dato dalla relazione $B(t)=a\cos(bt)\cdot r$, con $a=5\cdot10^5\ \frac{\text{T}}{\text{m}\cdot\text{s}}$ e $b=2$ s⁻¹.
    - Determinare il modulo del campo elettrico $\vec{E}$, supponendo che all'istante $t=0$ s sia nullo.
    - Verificare che esso non dipende da $r$.
@@ -141,6 +159,8 @@ Introdurre poi la seguente variabile adimensionale $\tau=\sqrt{c}\,t$ e definire
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2020_3_76#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.85](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2020_3_76_8|Quesito 8]]*
 
 8. Un osservatore $B$, solidale con un sistema di riferimento $S'$, si muove con velocità $v_1$ rispetto a un altro osservatore $A$, che si trova in un sistema di riferimento inerziale $S$. Al tempo $t=t'=0$ s, entrambi occupano la posizione $x=x'=0$ m e la velocità relativa è rivolta nei semiassi positivi delle ascisse di entrambi i sistemi. Si considerano due eventi:
    - $E_1$, in cui l'orologio di $A$ indica l'istante $t_1=2{,}1\cdot10^{2}$ s e la sua coordinata spaziale in $S'$ è $x_1'=-8{,}5\cdot10^{10}$ m;

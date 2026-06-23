@@ -16,6 +16,8 @@ Fonte: p.40 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_estero_calendario_australe_ordinaria_2008_problema1_40_1|Problema 1]]*
+
 L'ellisse $\Sigma$ ha equazione $x^2 + 4y^2 = 4$ e $P(a;b)$, con $b \ge 0$, è un suo punto.
 
 **1)** Si determini l'equazione della tangente a $\Sigma$ in $P$ e se ne indichi con $Q$ l'intersezione con l'asse $y$.

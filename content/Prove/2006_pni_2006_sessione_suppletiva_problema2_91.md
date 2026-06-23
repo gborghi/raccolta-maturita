@@ -16,6 +16,8 @@ Fonte: p.91 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_pni_2006_sessione_suppletiva_problema2_91_1|Problema 1]]*
+
 Nel piano, riferito ad un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$y = \frac{x + k}{x^2},$$
 dove $k$ è un parametro reale non nullo.

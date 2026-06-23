@@ -16,6 +16,8 @@ Fonte: p.36 · [📄 Apri PDF](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2004_estero_calendario_australe_2004_sessione_ordinaria_problema1_36_1|Problema 1]]*
+
 È assegnata una piramide retta a base quadrata il cui spigolo laterale misura $a$. Si determini:
 
 a) La piramide $P$ di volume massimo e il rapporto di questo con il volume del cubo di spigolo unitario.

@@ -16,6 +16,8 @@ Fonte: p.93 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9
 **Cluster:** [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_americhe_emisfero_australe_2003_sessione_suppletiv_problema1_93_1|Problema 1]]*
+
 Considerate assegnate, nel piano riferito a coordinate cartesiane ortogonali e monometriche $Oxy$, la parabola $\lambda$ d'equazione $x^2 = 4(x - y)$ e la retta $r$ d'equazione $2y = x + 3$.
 
 **a)** Verificate che $\lambda$ e $r$ non hanno punti di intersezione.

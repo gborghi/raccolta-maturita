@@ -16,6 +16,8 @@ Fonte: p.125 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema2_125_1|Problema 1]]*
+
 Si consideri la funzione $f(x)=\ln\sqrt{x^2-4}$.
 
 1) Si studi tale funzione e si tracci il suo grafico $C$ su un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$.

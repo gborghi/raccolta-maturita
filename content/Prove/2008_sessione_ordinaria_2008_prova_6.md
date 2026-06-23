@@ -17,6 +17,8 @@ Fonte: p.6 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iq
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2008_sessione_ordinaria_2008_prova_6_1|Problema 1]]*
+
 Il triangolo rettangolo $ABC$ ha l'ipotenusa $AB=a$ e l'angolo $\widehat{CAB}=\dfrac{\pi}{3}$.
 
 a) Si descriva, internamente al triangolo, con centro in $B$ e raggio $x$, l'arco di circonferenza di estremi $P$ e $Q$ rispettivamente su $AB$ e su $BC$. Sia poi $R$ l'intersezione con il cateto $CA$ dell'arco di circonferenza di centro $A$ e raggio $AP$. Si specifichino le limitazioni da imporre ad $x$ affinché la costruzione sia realizzabile.
@@ -33,6 +35,8 @@ d) Il triangolo $ABC$ è la base di un solido $W$. Si calcoli il volume di $W$ s
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2008_sessione_ordinaria_2008_prova_6_2|Problema 2]]*
 
 Assegnato nel piano il semicerchio $\Gamma$ di centro $C$ e diametro $AB=2$, si affrontino le seguenti questioni:
 
@@ -52,6 +56,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_1|Quesito 1]]*
+
 1. Si consideri la seguente proposizione: "Se due solidi hanno uguale volume, allora, tagliati da un fascio di piani paralleli, intercettano su di essi sezioni di uguale area". Si dica se essa è vera o falsa e si motivi esaurientemente la risposta.
 
 **Topic:** [[Geometria Solida]]
@@ -60,6 +66,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.22](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_2|Quesito 2]]*
 
 2. Ricordando che il lato del decagono regolare inscritto in un cerchio è sezione aurea del raggio, si provi che $\sin\dfrac{\pi}{10}=\dfrac{\sqrt{5}-1}{4}$.
 
@@ -70,6 +78,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_3|Quesito 3]]*
+
 3. Fra le casseruole, di forma cilindrica, aventi la stessa superficie $S$ (quella laterale più il fondo), qual è quella di volume massimo?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]]
@@ -78,6 +88,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.23](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_4|Quesito 4]]*
 
 4. Si esponga la regola del marchese de L'Hôpital ($1661$–$1704$) e la si applichi per dimostrare che è $\displaystyle\lim_{x\to+\infty}\frac{x^{2008}}{2^x}=0$.
 
@@ -88,6 +100,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_5|Quesito 5]]*
+
 5. Si determini un polinomio $P(x)$ di terzo grado tale che $P(0)=0$, $P'(0)=0$, $P(1)=0$ e $\displaystyle\int_0^1 P(x)\,dx=\frac{1}{12}$.
 
 **Topic:** [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
@@ -97,6 +111,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_6|Quesito 6]]*
+
 6. Se $\binom{n}{1}$, $\binom{n}{2}$, $\binom{n}{3}$ con $n>3$ sono in progressione aritmetica, qual è il valore di $n$?
 
 **Topic:** [[Calcolo Combinatorio]], [[Successioni e Serie]]
@@ -105,6 +121,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.25](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_7|Quesito 7]]*
 
 7. Si determini, al variare di $k$, il numero delle soluzioni reali dell'equazione $x^3-3x^2+k=0$.
 
@@ -116,6 +134,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_8|Quesito 8]]*
+
 8. Sia $f$ la funzione definita da $f(x)=\pi^x-x^\pi$. Si precisi il dominio di $f$ e si stabilisca il segno delle sue derivate, prima e seconda, nel punto $x=\pi$.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -125,6 +145,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_9|Quesito 9]]*
+
 9. Sia $f(x)=\dfrac{x^x-1}{x-1}$; esiste $\displaystyle\lim_{x\to 1}f(x)$? Si giustifichi la risposta.
 
 **Topic:** [[Limiti e Continuita]]
@@ -133,6 +155,8 @@ d) Si studi $f(x)$ e se ne disegni il grafico prescindendo dai limiti geometrici
 **Soluzione:** [[Soluzioni/2008_sessione_ordinaria_2008_prova_6#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.6](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_6_10|Quesito 10]]*
 
 10. Secondo il codice della strada il segnale di "salita ripida" preavverte di un tratto di strada con pendenza tale da costituire pericolo. La pendenza vi è espressa in percentuale e nell'esempio è $10\%$. Se si sta realizzando una strada rettilinea che, con un percorso di $1{,}2$ km, supera un dislivello di $85$ m, qual è la sua inclinazione (in gradi sessagesimali)? Quale la percentuale da riportare sul segnale? *(figura nel PDF)*
 

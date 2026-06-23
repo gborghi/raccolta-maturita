@@ -16,6 +16,8 @@ Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1974_tutti_temi_1|Problema 1]]*
+
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
 1. Assegnata la funzione $y = \sin x + a\cos x + b$ ($-\pi \le x \le \pi$), si determinino i valori di $a$ e di $b$ in modo che ammetta un massimo relativo $y = 0$ nel punto

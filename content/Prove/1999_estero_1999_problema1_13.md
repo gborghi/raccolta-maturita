@@ -16,6 +16,8 @@ Fonte: p.13 · [📄 Apri PDF](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsn
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1999_estero_1999_problema1_13_1|Problema 1]]*
+
 In un piano $\alpha$ è assegnata una parabola avente il fuoco e il vertice nei punti rispettivamente $F$ e $V$ tali che $\overline{VF} = \dfrac{1}{2}$. Riferito il piano $\alpha$ ad un conveniente sistema monometrico di assi cartesiani ortogonali $Oxy$:
 
 a) Determinare l'equazione della parabola.

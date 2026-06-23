@@ -17,6 +17,8 @@ Fonte: p.146 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_146_1|Problema 1]]*
+
 Sia $f$ la funzione definita da $$f(x)=\left(1+x+\frac{x^2}{2!}+\dots+\frac{x^n}{n!}\right)e^{-x}$$ dove $n$ è un intero positivo e $x\in\mathbb{R}$.
 
 1. Si verifichi che la derivata di $f(x)$ è: $$f'(x)=-\frac{x^n}{n!}e^{-x}.$$
@@ -31,6 +33,8 @@ Sia $f$ la funzione definita da $$f(x)=\left(1+x+\frac{x^2}{2!}+\dots+\frac{x^n}
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2009_sessione_ordinaria_2009_prova_146_2|Problema 2]]*
 
 In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita da $f(x)=x^3+kx$, con $k$ parametro reale.
 
@@ -47,6 +51,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_1|Quesito 1]]*
+
 1. Siano: $0<a<b$ e $x\in[-b,b]$. Si provi che: $$\int_{-b}^{b}\sqrt{a^2-x^2}\,dx=a^2+b.$$
 
 **Topic:** [[Calcolo Integrale]]
@@ -55,6 +61,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_2|Quesito 2]]*
 
 2. Sono dati gli insiemi $A=\{1,2,3,4\}$ e $B=\{a,b,c\}$. Tra le possibili funzioni (o applicazioni) di $A$ in $B$, ce ne sono di suriettive? Di iniettive? Di biiettive?
 
@@ -65,6 +73,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_3|Quesito 3]]*
+
 3. Una moneta da $2$ euro (il suo diametro è $25{,}75\ \mathrm{mm}$) viene lanciata su un pavimento ricoperto con mattonelle quadrate di lato $10\ \mathrm{cm}$. Quale è la probabilità che la moneta vada a finire internamente ad una mattonella? (cioè non tagli i lati dei quadrati)
 
 **Topic:** [[Probabilita]], [[Geometria Euclidea]]
@@ -73,6 +83,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_4|Quesito 4]]*
 
 4. "Esiste solo un poliedro regolare le cui facce sono esagoni". Si dica se questa affermazione è vera o falsa e si fornisca una esauriente spiegazione della risposta.
 
@@ -83,6 +95,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_5|Quesito 5]]*
+
 5. Si considerino le seguenti espressioni: $$\frac{0}{1};\quad \frac{1}{0};\quad \frac{0}{0};\quad 0^0$$ A quali di esse è possibile attribuire un valore numerico? Si motivi la risposta.
 
 **Topic:** [[Limiti e Continuita]]
@@ -91,6 +105,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_6|Quesito 6]]*
 
 6. Con l'aiuto di una calcolatrice, si applichi il procedimento iterativo di Newton all'equazione $\sin x=0$, con punto iniziale $x_0=3$. Cosa si ottiene dopo due iterazioni?
 
@@ -101,6 +117,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_7|Quesito 7]]*
+
 7. Si dimostri l'identità $\dbinom{n}{k}+\dbinom{n}{k+1}=\dbinom{n+1}{k+1}$ con $n$ e $k$ naturali e $n>k$.
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -109,6 +127,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_8|Quesito 8]]*
 
 8. Alla festa di compleanno di Anna l'età media dei partecipanti è di $22$ anni. Se l'età media degli uomini è $26$ anni e quella delle donne è $19$, qual è il rapporto tra il numero degli uomini e quello delle donne?
 
@@ -119,6 +139,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_9|Quesito 9]]*
+
 9. Nei "Discorsi e dimostrazioni matematiche intorno a due nuove scienze", Galileo Galilei descrive la costruzione di un solido che chiama *scodella* considerando una semisfera di raggio $r$ e il cilindro ad essa circoscritto. La scodella si ottiene togliendo la semisfera dal cilindro. Si dimostri, utilizzando il principio di Cavalieri, che la scodella ha volume pari al cono di vertice $V$ in figura. *(figura nel PDF)*
 
 **Topic:** [[Geometria Solida]], [[Calcolo Integrale]]
@@ -127,6 +149,8 @@ In un sistema di riferimento cartesiano ortogonale $Oxy$, si consideri la funzio
 **Soluzione:** [[Soluzioni/2009_sessione_ordinaria_2009_prova_146#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_10|Quesito 10]]*
 
 10. "Se due punti $P$ e $Q$ del piano giacciono dalla stessa parte rispetto ad una retta $AB$ e gli angoli $B\widehat{A}P$ e $A\widehat{B}Q$ hanno somma minore di $180°$, allora le semirette $AP$ e $BQ$, prolungate adeguatamente al di là dei punti $P$ e $Q$, si devono intersecare". Questa proposizione è stata per secoli oggetto di studio da parte di schiere di matematici. Si dica perché e con quali risultati.
 

@@ -16,6 +16,8 @@ Fonte: p.48 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_scuole_italiane_allestero_europa_2006_sessione_ord_problema1_48_1|Problema 1]]*
+
 Siano $\lambda$ e $\gamma$ le curve d'equazioni rispettive $y = e^x$ e $y = e^{-x}$.
 
 **1)** Si disegnino $\lambda$ e $\gamma$; si indichi con $P$ il loro punto comune e si indichino con $A$ e $B$ le loro intersezioni rispettive con una retta di equazione $y = k$ ($k > 0$).

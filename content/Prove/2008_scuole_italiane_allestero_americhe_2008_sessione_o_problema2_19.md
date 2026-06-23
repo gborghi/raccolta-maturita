@@ -16,6 +16,8 @@ Fonte: p.19 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema2_19_1|Problema 1]]*
+
 Nel piano riferito a coordinate cartesiane ortogonali e monometriche:
 
 1. Si studino e si rappresentino graficamente le funzioni $f$ e $g$ definite per ogni numero reale non nullo, rispettivamente, da

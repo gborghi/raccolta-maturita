@@ -17,6 +17,8 @@ Fonte: p.139 · [📄 Apri PDF](https://drive.google.com/file/d/1BqmILUntZpcWp0W
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2022_5_139_1|Problema 1]]*
+
 Considera la famiglia di funzioni $f_a:\mathbb{R}\to\mathbb{R}$ definita ponendo
 
 $$f_a(x)=\frac{x+a}{1+x^2},$$
@@ -37,6 +39,8 @@ dove $a$ è un parametro reale.
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte2_2022_5_139_2|Problema 2]]*
+
 Nella figura è rappresentato il grafico della funzione $f(x)=ax\cdot e^{-\frac{x}{b}}$, che ha un massimo relativo in $x=3$. *(figura nel PDF)*
 
 1. Usa i dati in figura per determinare i valori dei parametri reali non nulli $a$ e $b$.
@@ -53,6 +57,8 @@ Nella figura è rappresentato il grafico della funzione $f(x)=ax\cdot e^{-\frac{
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_1|Quesito 1]]*
+
 1. Nella figura è rappresentato il grafico della funzione $f'(x)$, derivata prima della funzione $f(x)$ definita nell'intervallo $[0;6]$. Ricava l'espressione di $f(x)$ sapendo che $f(0)=0$ e rappresentala graficamente. Stabilisci se la funzione $f(x)$ soddisfa le ipotesi del teorema di Lagrange nell'intervallo $[0;6]$ e determina gli eventuali punti che soddisfano il teorema. *(figura nel PDF)*
 
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
@@ -61,6 +67,8 @@ Nella figura è rappresentato il grafico della funzione $f(x)=ax\cdot e^{-\frac{
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_2|Quesito 2]]*
 
 2. Considera la funzione
 $$f(x)=\begin{cases} ax^2(x+2)+bx-8a, & \text{se } x<2 \\ \ln(x-1), & \text{se } x\ge 2.\end{cases}$$
@@ -73,6 +81,8 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_3|Quesito 3]]*
+
 3. Considera le funzioni $f(x)=2xe^{-x}$ e $g(x)=e^{-x}$, il cui andamento è rappresentato in figura, e il triangolo $ABC$ i cui vertici sono il punto $A$ in comune tra le due curve e i punti $B$ e $C$ che le due curve hanno in comune con la retta $x=k$, dove $k\ge 1$ è un parametro reale. *(figura nel PDF)* Determina per quale valore di $k$ l'area del triangolo $ABC$ è massima.
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -81,6 +91,8 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_4|Quesito 4]]*
 
 4. Considera la funzione $f(x)=\dfrac{x^3-4x^2}{p(x)}$, dove $p(x)$ è un polinomio. Determina $p(x)$ sapendo che il grafico di $f(x)$ presenta un asintoto obliquo di equazione $y=\frac{1}{2}x+1$ e che in $x=4$ presenta un punto di singolarità eliminabile. Ricava le equazioni degli eventuali altri asintoti e le coordinate degli eventuali massimi e minimi relativi della funzione $f(x)$.
 
@@ -92,6 +104,8 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_5|Quesito 5]]*
+
 5. Calcola il volume del solido ottenuto dalla rotazione completa attorno all'asse $x$ della regione finita di piano compresa tra la retta $x+y=4$ e la funzione $y=\sqrt{10-x^2}$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -101,6 +115,8 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_6|Quesito 6]]*
+
 6. Considera la funzione $f(x)=3ax-ax^2$, dove $a$ è un parametro reale positivo. Trova per quale valore di $a$ l'area del segmento parabolico determinato dalla parabola e dall'asse delle ascisse è $18$. Per il valore di $a$ trovato, calcola il valor medio della funzione $f(x)$ e le ascisse dei punti $c\in[0;3]$ tali che $\displaystyle\int_0^3 f(x)\,dx=3\cdot f(c)$.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -109,6 +125,8 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_7|Quesito 7]]*
 
 7. Un'urna contiene 12 palline bianche e 8 nere. Vengono estratte due palline, una dopo l'altra, con le seguenti modalità: se la prima pallina estratta è bianca viene rimessa nell'urna, mentre se è nera viene tolta dall'urna. Calcola le seguenti probabilità:
    a. la seconda pallina estratta è bianca;
@@ -120,6 +138,8 @@ Determina per quali valori dei parametri reali $a$ e $b$ la funzione è ovunque 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte2_2022_5_139#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.139](https://drive.google.com/file/d/1BqmILUntZpcWp0WTcGWm3xoaeRYCJBf0/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte2_2022_5_139_8|Quesito 8]]*
 
 8. Calcola il valore del limite:
 $$\lim_{x\to e}\frac{x\displaystyle\int_e^x \ln t\,dt}{x-e}.$$

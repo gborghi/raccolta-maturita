@@ -17,6 +17,8 @@ Fonte: p.112 · [📄 Apri PDF](https://drive.google.com/file/d/1vt-OZDFhSWqupGg
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_ordinaria_2018_prova_112_1|Problema 1]]*
+
 Consideriamo la funzione $f_k:\mathbb{R}\to\mathbb{R}$ così definita:
 
 $$f_k(x)=x^3-kx+9$$
@@ -40,6 +42,8 @@ con $k\in\mathbb{Z}$.
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_112#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2018_sessione_ordinaria_2018_prova_112_2|Problema 2]]*
 
 Siano $f:\mathbb{R}\to\mathbb{Z}$ e $g:\mathbb{R}\to\mathbb{R}$ rispettivamente le funzioni parte intera e parte frazionaria (o mantissa) di un numero $x\in\mathbb{R}$. Tali funzioni sono così definite:
 
@@ -71,6 +75,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_1|Quesito 1]]*
+
 1. Dimostrare che il volume di un cilindro inscritto in un cono è minore della metà del volume del cono.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -79,6 +85,8 @@ Quante sono le funzioni siffatte?
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_112#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_2|Quesito 2]]*
 
 2. Si dispone di due dadi uguali non bilanciati a forma di tetraedro regolare con le facce numerate da 1 a 4. Lanciando ciascuno dei due dadi, la probabilità che esca 1 è il doppio della probabilità che esca 2, che a sua volta è il doppio della probabilità che esca 3, che a sua volta è il doppio della probabilità che esca 4. Se si lanciano i due dadi contemporaneamente, qual è la probabilità che escano due numeri uguali tra loro?
 
@@ -89,6 +97,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_3|Quesito 3]]*
+
 3. Determinare i valori di $k$ tali che la retta di equazione $y=-4x+k$ sia tangente alla curva di equazione $y=5+x^2-x^3$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -97,6 +107,8 @@ Quante sono le funzioni siffatte?
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_112#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_4|Quesito 4]]*
 
 4. Considerata la funzione $f(x)=\dfrac{3x-e^{\operatorname{sen}x}}{5+e^{-x}-\cos x}$, determinare, se esistono, i valori di $\lim\limits_{x\to+\infty}f(x)$, $\lim\limits_{x\to-\infty}f(x)$, giustificando adeguatamente le risposte fornite.
 
@@ -107,6 +119,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_5|Quesito 5]]*
+
 5. Con una staccionata lunga 2 metri si vuole recintare una superficie avente la forma di un rettangolo sormontato da una semicirconferenza, come nel disegno. Determinare le dimensioni dei lati del rettangolo che consentono di recintare la superficie di area massima. *(figura nel PDF)*
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]], [[Geometria Euclidea]]
@@ -116,6 +130,8 @@ Quante sono le funzioni siffatte?
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_6|Quesito 6]]*
+
 6. Determinare $a$ in modo che $\displaystyle\int_{a}^{a+1}(3x^2+3)\,dx$ sia uguale a 10.
 
 **Topic:** [[Calcolo Integrale]], [[Equazioni e Disequazioni]]
@@ -124,6 +140,8 @@ Quante sono le funzioni siffatte?
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_112#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_7|Quesito 7]]*
 
 7. Trovare l'area $R$ della regione di spazio racchiusa dalla curva
 
@@ -137,6 +155,8 @@ Sapendo inoltre che la retta di equazione $x=k$ divide $R$ in due figure di egua
 **Soluzione:** [[Soluzioni/2018_sessione_ordinaria_2018_prova_112#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.112](https://drive.google.com/file/d/1vt-OZDFhSWqupGghcan_yIZCMQ0DrJTR/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2018_sessione_ordinaria_2018_prova_112_8|Quesito 8]]*
 
 8. Verificare che, qualunque siano le costanti reali $\varphi$ e $k$, la funzione $y=ke^{-x}\operatorname{sen}(x+\varphi)$ è soluzione dell'equazione differenziale $y''+2y'+2y=0$. Trovare $\varphi$ e $k$ tali che questa funzione abbia un punto di massimo di coordinate $(0,1)$.
 

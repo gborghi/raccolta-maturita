@@ -16,6 +16,8 @@ Fonte: p.147 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1997_tutti_temi_1|Problema 1]]*
+
 *Il candidato scelga a suo piacimento due dei seguenti problemi e li risolva. Tempo concesso: 5 ore.*
 
 **1.** In un piano sono assegnate una circonferenza $k$ di raggio di lunghezza nota $r$ ed una parabola $p$ che seca $k$ nei punti $A$ e $B$ e passa per il suo centro $C$. Inoltre l'asse di simmetria della parabola è perpendicolare alla retta $AC$ e la corda $AB$ è lunga quanto il lato del triangolo equilatero inscritto in $k$. Dopo aver riferito il piano ad un conveniente sistema di assi cartesiani $Oxy$:

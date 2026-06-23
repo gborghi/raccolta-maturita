@@ -16,6 +16,8 @@ Fonte: p.14 · [📄 Apri PDF](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2006_scuole_italiane_allestero_americhe_2006_sessione_o_problema1_14_1|Problema 1]]*
+
 Nel piano, riferito ad un sistema di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione:
 $$y = ax^2 + \frac{b}{x},$$
 dove $a$, $b$ sono parametri reali.

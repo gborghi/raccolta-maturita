@@ -16,6 +16,8 @@ Fonte: p.14 · [📄 Apri PDF](https://drive.google.com/file/d/1Ujy2KOoOlYqnKmkc
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2013_scuole_italiane_allestero_americhe_2013_problema1_14_1|Problema 1]]*
+
 **Scuole italiane all'estero (Americhe) 2013 — Problema 1**
 
 È data la semicirconferenza $\Gamma$ di centro $C$ e diametro $\overline{AB}=2$. Sia $t$ la semiretta tangente a $\Gamma$ in $B$ e giacente nello stesso semipiano di $\Gamma$ rispetto ad $AB$. *(figura nel PDF)*

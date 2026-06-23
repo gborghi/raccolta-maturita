@@ -16,6 +16,8 @@ Fonte: p.22 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7E
 **Cluster:** [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_scuole_italiane_allestero_americhe_2007_sessione_o_problema2_22_1|Problema 1]]*
+
 Della parabola $\gamma$ si sa che passa per i punti $A(0,2)$ e $B(2,0)$, ha l'asse parallelo all'asse $y$ e volge la concavità nel verso negativo di tale asse; inoltre l'area del dominio piano delimitato da $\gamma$ e dai segmenti $OA$ e $OB$ è $\dfrac{10}{3}$.
 
 1. Si determini l'equazione di $\gamma$ e se ne tracci il grafico.

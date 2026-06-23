@@ -16,6 +16,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1SlPvapgs-eNHrpZY
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2023_sessione_straordinaria_2023_problema2_53_1|Problema 1]]*
+
 Si considerino le famiglie di funzioni $f_a(x) = \dfrac{1}{2}(e^{ax} - e^{-ax})$ e $g_a(x) = \dfrac{1}{2}(e^{ax} + e^{-ax})$ con $a$ parametro reale positivo.
 
 **a)** Si traccino, al variare del parametro, i grafici rappresentativi $\gamma_f$ e $\gamma_g$ delle funzioni $f_a(x)$ e $g_a(x)$ evidenziando simmetrie, estremi e flessi.

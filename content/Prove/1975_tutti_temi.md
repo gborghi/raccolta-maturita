@@ -16,6 +16,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4P
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_1975_tutti_temi_1|Problema 1]]*
+
 Fra le seguenti questioni il candidato tratti quelle che ritiene più adeguate alla sua preparazione. Tempo concesso: 5 ore.
 
 1. Assegnata una circonferenza di diametro $\overline{AB} = 2$, si conduca per $A$ la retta tangente e su essa si consideri un punto $M$ tale che $|AM| = x$. Da $M$ si tracci la ulteriore retta tangente alla circonferenza e sia $C$ il punto in cui essa incontra il prolungamento di $AB$. Posto $|AC| = y$, si esprima $y$ in funzione di $x$ e si disegni il grafico relativo.

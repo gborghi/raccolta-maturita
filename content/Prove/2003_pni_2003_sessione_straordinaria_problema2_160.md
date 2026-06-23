@@ -16,6 +16,8 @@ Fonte: p.160 · [📄 Apri PDF](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d
 **Cluster:** [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2003_pni_2003_sessione_straordinaria_problema2_160_1|Problema 1]]*
+
 Un gruppo di persone è costituito da $3$ uomini e dalle rispettive mogli. Ciascun uomo sceglie a caso una fra le $3$ donne, con uguali possibilità di scelta, per un giro di ballo.
 
 **a)** Calcolare quante sono le possibili terne di coppie di ballerini.

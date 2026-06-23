@@ -17,6 +17,8 @@ Fonte: p.60 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1913_tutti_temi_2|Problema 1]]*
+
 **Problema 1**
 
 In un trapezio tre dei lati sono eguali a uno stesso segmento di lunghezza $a$ metri ed il quarto è uguale ad una delle diagonali.
@@ -30,6 +32,8 @@ Esprimere l'area d'un tale trapezio in funzione di $a$, e calcolare per $a = 1.5
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1913_tutti_temi_4|Problema 1]]*
+
 **Problema 1**
 
 Il volume di un tronco di cono a basi parallele e di altezza $h$ eguaglia quello di una sfera il cui raggio è eguale all'altezza del tronco di cono. In pari tempo il volume di un cono che ha per sua base $A$ una delle basi del tronco suddetto ed ha per altezza il raggio dell'altra base, eguaglia il volume di un cilindro che ha per base un cerchio di raggio dato $a$ e per altezza il raggio della base $A$ del cono. Trovare i raggi di base del tronco di cono.
@@ -40,6 +44,8 @@ Il volume di un tronco di cono a basi parallele e di altezza $h$ eguaglia quello
 **Fonte:** [📄 Testo (PDF) — p.60](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1913_tutti_temi_1|Problema 2]]*
 
 È data la diagonale $a$ di un rettangolo ed un segmento $b$. Calcolare i lati contigui del rettangolo supponendo che la sua area sia eguale a quella di un altro rettangolo che ha uno dei lati eguale a $b$ e l'altro lato eguale alla somma dei due primi.
 
@@ -54,6 +60,8 @@ $$\frac{(\tan B + 1)^2}{\tan B} = 1 + \sqrt{1 + \frac{a^2}{b^2}}.$$
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1913_tutti_temi_3|Problema 2]]*
+
 **Problema 2**
 
 Da un punto $A$ d'una circonferenza di raggio $R$ si conducono tre corde $\overline{AB}$, $\overline{AC}$, $\overline{AD}$ rispettivamente eguali ai lati del pentagono regolare, del quadrato e del triangolo equilatero iscritti.
@@ -67,6 +75,8 @@ Esprimere, in funzione di $R$, i lati e le diagonali del quadrilatero $ABCD$; ca
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1913_tutti_temi_5|Problema 2]]*
+
 **Problema 2**
 
 Il volume di un cono è in rapporto dato $m$ con quello di un cilindro che ha per base un circolo di dato raggio $a$ ed ha per altezza il raggio di base del cono. La superficie laterale dello stesso cono è in rapporto dato $n$ con la superficie laterale di un cilindro che ha la stessa base del cono ed ha altezza data $h$. Si domanda quali sono i valori del raggio della base e dell'altezza del cono, ed in quali casi il problema non è possibile.
@@ -77,6 +87,8 @@ Il volume di un cono è in rapporto dato $m$ con quello di un cilindro che ha pe
 **Fonte:** [📄 Testo (PDF) — p.60](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 3
+
+*↳ Nota atomica: [[Problemi/prob_1913_tutti_temi_6|Problema 3]]*
 
 **Problema 3**
 

@@ -16,6 +16,8 @@ Fonte: p.113 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema1_113_1|Problema 1]]*
+
 Con riferimento ad un sistema di assi cartesiani ortogonali $Oxy$, si trattino le seguenti questioni.
 
 1) Si costruisca il grafico $\gamma$ della funzione $f(x) = 2(2-x)\sqrt{x^2-1}$.

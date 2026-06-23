@@ -16,6 +16,8 @@ Fonte: p.31 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2015_americhe_2015_problema1_31_1|Problema 1]]*
+
 Stai seguendo un corso, nell'ambito dell'orientamento universitario, per la preparazione agli studi di Medicina. Il docente introduce la lezione dicendo che un medico ben preparato deve disporre di conoscenze, anche matematiche, che permettano di costruire modelli ed interpretare i dati che definiscono lo stato di salute e la situazione clinica dei pazienti. Al tuo gruppo di lavoro viene assegnato il compito di preparare una lezione sul tema: "come varia nel tempo la concentrazione di un farmaco nel sangue?".
 
 Se il farmaco viene somministrato per via endovenosa, si ipotizza per semplicità che la concentrazione del farmaco nel sangue raggiunga subito il valore massimo e che immediatamente inizi a diminuire, in modo proporzionale alla concentrazione stessa; nel caso che il docente ti ha chiesto di discutere, per ogni ora che passa la concentrazione diminuisce di $1/7$ del valore che aveva nell'ora precedente.

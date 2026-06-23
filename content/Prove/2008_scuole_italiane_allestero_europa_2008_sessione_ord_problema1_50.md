@@ -16,6 +16,8 @@ Fonte: p.50 · [📄 Apri PDF](https://drive.google.com/file/d/1c1FHjNiMGKITLO7i
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50_1|Problema 1]]*
+
 La circonferenza $\gamma$ passa per $B(0,-4)$ ed è tangente in $O(0,0)$ alla retta di coefficiente angolare $-4$; la parabola $\lambda$ passa per $A(4,0)$ ed è tangente in $O$ a $\gamma$.
 
 1. Si disegnino $\gamma$ e $\lambda$ e se ne determinino le rispettive equazioni cartesiane.

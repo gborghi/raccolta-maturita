@@ -17,6 +17,8 @@ Fonte: p.1 · [📄 Apri PDF](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hP
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_ordinaria_2025_prova_1_1|Problema 1]]*
+
 «La ragione non è nulla senza l'immaginazione» - Cartesio
 
 Dati $r > 0$ e $k < 0$, si considerino la circonferenza $C_r$, di centro l'origine e raggio $r$, e la funzione
@@ -37,6 +39,8 @@ d) Si consideri la funzione $F(x) = \displaystyle\int_{-2}^{x} \sqrt{4 - t^2}\, 
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2025_sessione_ordinaria_2025_prova_1_2|Problema 2]]*
 
 «La bellezza è mescolare, in giuste proporzioni, il finito e l'infinito» - attribuita a Platone
 
@@ -62,6 +66,8 @@ d) Calcolare l'area della regione limitata $R$ compresa tra $\gamma_1$, $\gamma_
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_1|Quesito 1]]*
+
 1. Dato un triangolo $ABC$, sia $M$ il punto medio del lato $BC$ e siano $B'$ e $C'$ due punti, rispettivamente, sul lato $AB$ e sul lato $AC$, in modo tale che $AB' = \dfrac{1}{3} AB$ e $AC' = \dfrac{1}{3} AC$. Dimostrare che, se i segmenti $MB'$ e $MC'$ sono tra loro congruenti, allora lo sono anche i lati $AB$ e $AC$.
 
 **Topic:** [[Geometria Euclidea]]
@@ -71,6 +77,8 @@ d) Calcolare l'area della regione limitata $R$ compresa tra $\gamma_1$, $\gamma_
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_2|Quesito 2]]*
+
 2. Si considerino la superficie sferica di equazione $(x - 1)^2 + (y - 2)^2 + z^2 = 1$ e il piano $\pi$ di equazione $x - 2y - 2z + d = 0$. Discutere, al variare del parametro reale $d$, se il piano $\pi$ è secante, tangente o esterno alla superficie sferica. Determinare il valore del parametro $d$ in modo che $\pi$ divida la sfera in due parti uguali.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -79,6 +87,8 @@ d) Calcolare l'area della regione limitata $R$ compresa tra $\gamma_1$, $\gamma_
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_3|Quesito 3]]*
 
 3. L'opera futurista di Boccioni "Forme uniche della continuità nello spazio" del 1913, riportata sulla moneta da 20 centesimi, descrive un uomo che avanza velocemente nello spazio. Una parte del profilo evidenziato in figura, in un opportuno sistema di riferimento, può essere approssimato dalla funzione
 $$f(x) = \begin{cases} -4x^2 - 8x, & -1 \le x \le 0 \\[4pt] 1 + \tan\left(x + \dfrac{3}{4}\pi\right), & 0 < x \le 2 \end{cases}$$
@@ -92,6 +102,8 @@ Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabi
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_4|Quesito 4]]*
+
 4. Assegnata una funzione $g$, derivabile in $\mathbb{R}$ e tale che $g\left(\dfrac{\pi}{4}\right) = g'\left(\dfrac{\pi}{4}\right) = 2$, determinare l'equazione della retta normale alla curva $y = g(x)\,\operatorname{sen} 2x$ nel suo punto di ascissa $\dfrac{\pi}{4}$.
 
 **Topic:** [[Derivate]], [[Geometria Analitica (piano)]]
@@ -100,6 +112,8 @@ Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabi
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_5|Quesito 5]]*
 
 5. Determinare il valore del parametro reale $k$ in modo che le due curve $y = e^x$, $y = 6 - ke^{-x}$ risultino tangenti tra loro, individuando le coordinate del punto di contatto.
 
@@ -110,6 +124,8 @@ Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabi
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_6|Quesito 6]]*
+
 6. Scrivere una funzione polinomiale $f$ in modo tale che la retta di equazione $y = 2x + 3$ sia tangente al grafico di $f$ nel suo punto di ascissa $0$ e si abbia $\displaystyle\int_0^3 f(x)\, dx = 9$.
 
 **Topic:** [[Calcolo Integrale]], [[Derivate]]
@@ -118,6 +134,8 @@ Tracciare il grafico di $f$, dopo averne analizzato la continuità e la derivabi
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_7|Quesito 7]]*
 
 7. Siccome mi sembrava che per puro caso alcuni fatti fossero avvenuti così com'erano stati predetti dagl'indovini, tu hai parlato a lungo del caso, e hai detto, per esempio, che si può ottenere il "colpo di Venere" lanciando a caso quattro dadi […].
 *(Cicerone, De divinatione, II, 21, 48)*
@@ -131,6 +149,8 @@ Cicerone, nel dialogo con il fratello Quinto, parla del colpo di Venere, che con
 **Soluzione:** [[Soluzioni/2025_sessione_ordinaria_2025_prova_1#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.1](https://drive.google.com/file/d/1eFb2mSEYYU4eZ21hPBBkSerDAgf3k4Dp/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2025_sessione_ordinaria_2025_prova_1_8|Quesito 8]]*
 
 8. Quanti sono gli anagrammi, anche senza significato, della parola "STUDIARE"? In quanti di tali anagrammi si può leggere consecutivamente la parola "ARTE", come ad esempio in "SUARTEDI"? Quanti sono gli anagrammi, anche senza significato, della parola "VACANZA"?
 

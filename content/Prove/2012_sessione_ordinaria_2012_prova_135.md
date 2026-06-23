@@ -17,6 +17,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/15uTp-FXyM3r6gZH
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_ordinaria_2012_prova_135_1|Problema 1]]*
+
 Della funzione $f$, definita per $0\le x\le 6$, si sa che è dotata di derivata prima e seconda e che il grafico della sua derivata $f'(x)$, disegnato a lato, presenta due tangenti orizzontali per $x=2$ e $x=4$. Si sa anche che $f(0)=9$, $f(3)=6$ e $f(5)=3$.
 
 1. Si trovino le ascisse dei punti di flesso di $f$ motivando le risposte in modo esauriente.
@@ -36,6 +38,8 @@ Della funzione $f$, definita per $0\le x\le 6$, si sa che è dotata di derivata 
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2012_sessione_ordinaria_2012_prova_135_2|Problema 2]]*
+
 Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 
 1. Fissato un riferimento cartesiano $Oxy$, si disegnino i grafici di $f$ e di $g$ e si calcoli l'area della regione $R$ che essi delimitano tra $x=\frac{1}{2}$ e $x=1$.
@@ -53,6 +57,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_1|Quesito 1]]*
+
 1. Si calcoli $\displaystyle\lim_{x\to 0^+}\frac{2^{3x}-3^{4x}}{x^2}$.
 
 **Topic:** [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
@@ -61,6 +67,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_2|Quesito 2]]*
 
 2. Una moneta da $1$ euro (il suo diametro è $23{,}25\,\text{mm}$) viene lanciata su un pavimento ricoperto con mattonelle esagonali (regolari) di lato $10\,\text{cm}$. Quale è la probabilità che la moneta vada a finire internamente ad una mattonella (cioè non tagli i lati degli esagoni)?
 
@@ -71,6 +79,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_3|Quesito 3]]*
+
 3. Sia $f(x)=3^x$. Per quale valore di $x$, approssimato a meno di $10^{-3}$, la pendenza della retta tangente alla curva nel punto $(x,f(x))$ è uguale a $1$?
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]]
@@ -79,6 +89,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_4|Quesito 4]]*
 
 4. L'insieme dei numeri naturali e l'insieme dei numeri razionali sono insiemi equipotenti? Si giustifichi la risposta.
 
@@ -89,6 +101,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_5|Quesito 5]]*
+
 5. Siano dati nello spazio $n$ punti $P_1, P_2, P_3, \dots, P_n$. Quanti sono i segmenti che li congiungono a due a due? Quanti i triangoli che hanno per vertici questi punti (supposto che nessuna terna sia allineata)? Quanti i tetraedri (supposto che nessuna quaterna sia complanare)?
 
 **Topic:** [[Calcolo Combinatorio]], [[Geometria nello Spazio]]
@@ -97,6 +111,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_6|Quesito 6]]*
 
 6. Si dimostri che la curva di equazione $y=x^3+ax+b$ ha uno ed un solo punto di flesso rispetto a cui è simmetrica.
 
@@ -108,6 +124,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_7|Quesito 7]]*
+
 7. È dato un tetraedro regolare di spigolo $l$ e altezza $h$. Si determini l'ampiezza dell'angolo $\alpha$ formato da $l$ e da $h$.
 
 **Topic:** [[Geometria Solida]], [[Trigonometria]]
@@ -116,6 +134,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_8|Quesito 8]]*
 
 8. Un'azienda industriale possiede tre stabilimenti ($A$, $B$ e $C$). Nello stabilimento $A$ si produce la metà dei pezzi, e di questi il $10\%$ sono difettosi. Nello stabilimento $B$ si produce un terzo dei pezzi, e il $7\%$ sono difettosi. Nello stabilimento $C$ si producono i pezzi rimanenti, e il $5\%$ sono difettosi. Sapendo che un pezzo è difettoso, con quale probabilità esso proviene dallo stabilimento $A$?
 
@@ -126,6 +146,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_9|Quesito 9]]*
+
 9. Il problema di Erone (matematico alessandrino vissuto probabilmente nella seconda metà del I secolo d.C.) consiste, assegnati nel piano due punti $A$ e $B$, situati dalla stessa parte rispetto ad una retta $r$, nel determinare il cammino minimo che congiunge $A$ con $B$ toccando $r$. Si risolva il problema nel modo che si preferisce.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]]
@@ -134,6 +156,8 @@ Siano $f$ e $g$ le funzioni definite da $f(x)=e^{-x}$ e $g(x)=\ln x$.
 **Soluzione:** [[Soluzioni/2012_sessione_ordinaria_2012_prova_135#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.135](https://drive.google.com/file/d/15uTp-FXyM3r6gZHrCu6HThex3dLEYCIU/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2012_sessione_ordinaria_2012_prova_135_10|Quesito 10]]*
 
 10. Si provi che fra tutti i coni circolari retti circoscritti ad una sfera di raggio $r$, quello di minima area laterale ha il vertice che dista $2r$ dalla superficie sferica.
 

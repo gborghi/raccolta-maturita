@@ -17,6 +17,8 @@ Fonte: p.184 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_suppletiva_2015_prova_184_1|Problema 1]]*
+
 Sei stato incaricato di progettare una pista da ballo all'esterno di un locale in costruzione in una zona balneare. Il progetto prevede, oltre alla pista, delle zone verdi e una tettoia che consenta l'uso della pista anche in caso di pioggia.
 
 La pista da ballo viene rappresentata, in un sistema di riferimento cartesiano $Oxy$ in cui l'unità di misura corrisponde a 1 metro, all'interno del rettangolo avente come vertici i punti di coordinate $(-4,0)$, $(4,0)$, $(-4,25)$ e $(4,25)$; nella scelta della sagoma della pista va rispettato il vincolo urbanistico che stabilisce che essa non può occupare più del 60% della superficie di tale rettangolo.
@@ -45,6 +47,8 @@ Per realizzare la tettoia, è necessario usare un piano leggermente inclinato, p
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_2015_sessione_suppletiva_2015_prova_184_2|Problema 2]]*
+
 La rotazione intorno all'asse $x$ dei grafici della famiglia di funzioni:
 $$f_k(x)=\frac{x}{4k}\sqrt{k^2-x}\quad\text{con } x\in\mathbb{R},\ 0\le x\le k^2,\ k\in\mathbb{R},\ k>0$$
 genera dei solidi di rotazione di forma aerodinamica.
@@ -67,6 +71,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_1|Quesito 1]]*
+
 1. Data la funzione integrale $\displaystyle\int_1^x \ln(t)\,dt$, determinare per quali valori di $x$ il suo grafico incontra la retta di equazione $y=2x+1$.
 
 **Topic:** [[Funzioni Integrali]], [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -75,6 +81,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_2|Quesito 2]]*
 
 2. Data la famiglia di funzioni $y=-x^3+6kx+33$ trovare la funzione tangente nel punto di ascissa 3 ad una retta parallela alla bisettrice del primo quadrante. Determinare l'equazione di detta tangente.
 
@@ -85,6 +93,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_3|Quesito 3]]*
+
 3. Vengono lanciati due dadi. Dei due punteggi, viene considerato il maggiore; se sono uguali, viene considerato il punteggio comune dei due dadi. Detto X il punteggio registrato, riportare in una tabella la distribuzione di probabilità di X e mostrare che $p(X=3)=\dfrac{5}{36}$. Calcolare inoltre la media e la varianza di X.
 
 **Topic:** [[Probabilita]], [[Statistica]]
@@ -93,6 +103,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_4|Quesito 4]]*
 
 4. In un sistema di riferimento cartesiano nello spazio $Oxyz$ sono dati i punti $A(-3,4,0)$ e $C(-2,1,2)$. I tre punti O, A e C giacciono su un piano E. Determinare l'equazione che descrive il piano E.
 
@@ -103,6 +115,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_5|Quesito 5]]*
+
 5. Determinare il volume del solido generato dalla rotazione attorno alla retta di equazione $x=2$ della parte di piano delimitata dalla parabola di equazione $y^2=8x$ e dalla retta stessa.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Analitica (piano)]]
@@ -111,6 +125,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_6|Quesito 6]]*
 
 6. Preso un punto C su una semicirconferenza di diametro $\overline{AB}=2r$, sia M il punto medio dell'arco BC. Determinare il valore massimo che può assumere l'area del quadrilatero ABMC.
 
@@ -121,6 +137,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_7|Quesito 7]]*
+
 7. Una fabbrica produce mediamente il 3% di prodotti difettosi. Determinare la probabilità che in un campione di 100 prodotti ve ne siano 2 difettosi, usando: la distribuzione binomiale; la distribuzione di Poisson.
 
 **Topic:** [[Probabilita]], [[Calcolo Combinatorio]]
@@ -129,6 +147,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_8|Quesito 8]]*
 
 8. Provare che la funzione $y=e^x-\tan x$ ha infiniti zeri, mentre la funzione $y=e^x-\arctan x$ non ne ha alcuno.
 
@@ -140,6 +160,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_9|Quesito 9]]*
+
 9. Calcolare la derivata della funzione $f(x)=x\cdot e^x$, adoperando la definizione di derivata.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]], [[Esponenziali e Logaritmi]]
@@ -148,6 +170,8 @@ dove gli estremi di integrazione $a$ e $b$ vanno scelti opportunamente, e $V$ in
 **Soluzione:** [[Soluzioni/2015_sessione_suppletiva_2015_prova_184#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.184](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2015_sessione_suppletiva_2015_prova_184_10|Quesito 10]]*
 
 10. Sia la derivata seconda di una funzione reale $f(x)$ data da $f''(x)=3x-6$. Determinare l'espressione di $f(x)$, sapendo che il grafico della funzione passa per il punto $P(2,-7)$ e che l'angolo formato dalla tangente al grafico di $f(x)$ con l'asse $y$ nel punto di ascissa $x=0$ vale $45°$.
 

@@ -16,6 +16,8 @@ Fonte: p.11 · [📄 Apri PDF](https://drive.google.com/file/d/1nJgEA-rszR8-nXdC
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2000_sessione_suppletiva_2000_problema1_11_1|Problema 1]]*
+
 Una parabola passante per $A$ e $B$ divide il triangolo $ABC$ in due parti equivalenti. Supposto $ABC$ equilatero di lato $3\text{ cm}$ e l'asse della parabola perpendicolare al segmento $AB$, in un conveniente sistema di riferimento si determinino:
 
 a. le coordinate di $A$, $B$ e $C$;

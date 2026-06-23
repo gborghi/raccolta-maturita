@@ -16,6 +16,8 @@ Fonte: p.135 · [📄 Apri PDF](https://drive.google.com/file/d/1VbHTyALjAtoi5p7
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2007_liceo_scientifico_pni_2007_sessione_straordinaria_problema1_135_1|Problema 1]]*
+
 Si consideri la funzione
 
 $$y=\frac{2x^2+ax+3}{(x+1)^2}$$

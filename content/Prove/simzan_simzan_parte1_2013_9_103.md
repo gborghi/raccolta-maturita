@@ -17,6 +17,8 @@ Fonte: p.103 · [📄 Apri PDF](https://drive.google.com/file/d/1fQWRc0VGk-_FhdB
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2013_9_103_1|Problema 1]]*
+
 Si consideri una circonferenza con $A$ e $B$ estremi di una corda di lunghezza 1 e $AC$ diametro.
 
 a) Posto $\overline{BC}=x$, si esprima in funzione di $x$ il rapporto fra l'area del triangolo $ABC$ e quella del quadrato costruito sul diametro, provando che è dato da:
@@ -39,6 +41,8 @@ e) Sia $L$ la regione di piano delimitata da $\gamma$ e dall'asse delle ascisse 
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_simzan_simzan_parte1_2013_9_103_2|Problema 2]]*
+
 Per ogni numero naturale $k>0$ sono date le funzioni:
 $$f_k(x)=\operatorname{sen} kx+1,\qquad g_k(x)=\int_0^x (\operatorname{sen} kt+1)\,dt\quad\text{con } x\in[0;\pi].$$
 
@@ -60,6 +64,8 @@ e) Si calcoli il volume del solido generato in una rotazione completa attorno al
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_1|Quesito 1]]*
+
 1. Si dimostri che in un opportuno intorno di $x=1$ la funzione $y=\arctan(x^2-1)$ è invertibile. Si determini la derivata della funzione inversa nel punto 0.
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -70,6 +76,8 @@ e) Si calcoli il volume del solido generato in una rotazione completa attorno al
 
 ## Quesito 2
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_2|Quesito 2]]*
+
 2. Angela vuole farsi una collana composta da perle di plastica colorate: 6 rosse, 10 arancioni e 8 gialle da chiudere con un fermaglio. Quante sono le possibili sequenze differenti? Qual è invece il numero delle sequenze nel caso in cui Angela voglia mettere agli estremi perle di colore arancione? Quale sarà poi tale numero se Angela pensa a composizioni con estremi di colore uguale?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -78,6 +86,8 @@ e) Si calcoli il volume del solido generato in una rotazione completa attorno al
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 2|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 3
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_3|Quesito 3]]*
 
 3. Si calcoli il seguente limite:
 $$\lim_{x\to 1}\left(1+\ln x\right)^{\frac{1}{x-1}}.$$
@@ -88,6 +98,8 @@ $$\lim_{x\to 1}\left(1+\ln x\right)^{\frac{1}{x-1}}.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_4|Quesito 4]]*
 
 4. Data la funzione
 $$f(x)=\begin{cases} e^{x} & \text{se } x<0\\ 0 & \text{se } x=0\\ x^2+1 & \text{se } x>0,\end{cases}$$
@@ -105,6 +117,8 @@ si dica quale delle seguenti proposizioni è vera dandone adeguata motivazione. 
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_5|Quesito 5]]*
+
 5. Dato un cubo di spigolo noto $l$ si determini qual è, muovendosi sulla superficie del cubo, il percorso di minima lunghezza che congiunge gli estremi di una delle sue diagonali. Si calcoli poi la misura della sua lunghezza in funzione di $l$.
 
 **Topic:** [[Geometria Solida]], [[Massimi e Minimi]]
@@ -113,6 +127,8 @@ si dica quale delle seguenti proposizioni è vera dandone adeguata motivazione. 
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_6|Quesito 6]]*
 
 6. Si calcoli per quali valori di $k\in\mathbb{R}$ si ha:
 $$\int_0^k \frac{2}{x^2-1}\,dx<\int_0^1 \frac{1}{x+1}\,dx.$$
@@ -123,6 +139,8 @@ $$\int_0^k \frac{2}{x^2-1}\,dx<\int_0^1 \frac{1}{x+1}\,dx.$$
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_7|Quesito 7]]*
 
 7. Si determinino i coefficienti reali $a$, $b$, $c$ in modo che la funzione
 $$f(x)=\begin{cases} ax^2+bx+c & \text{se } x\le -1\\ \cos\pi x & \text{se } -1<x<\dfrac{1}{2}\\ a\ln\left(x+\dfrac{1}{2}\right) & \text{se } x\ge\dfrac{1}{2}\end{cases}$$
@@ -135,6 +153,8 @@ sia derivabile in $\mathbb{R}$.
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_8|Quesito 8]]*
+
 8. Dato il triangolo di lati 2 cm, 3 cm, 4 cm, si dimostri che è ottusangolo.
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -144,6 +164,8 @@ sia derivabile in $\mathbb{R}$.
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_9|Quesito 9]]*
+
 9. La seguente figura rappresenta il grafico di una funzione $f$ e le sue tangenti nei punti $O(0;0)$, $M(3;-2)$, $F(6;-1)$. La funzione è continua e derivabile almeno due volte in $\mathbb{R}$ e ha due flessi in $O$ e $F$. Si disegni un grafico probabile della derivata prima dando adeguata giustificazione, indicando in particolare le coordinate dei suoi punti di massimo e minimo relativi. *(figura nel PDF)*
 
 **Topic:** [[Derivate]], [[Topics/Studio di Funzione|Studio di Funzione]]
@@ -152,6 +174,8 @@ sia derivabile in $\mathbb{R}$.
 **Soluzione:** [[Soluzioni/simzan_simzan_parte1_2013_9_103#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.103](https://drive.google.com/file/d/1fQWRc0VGk-_FhdBfHHWvR7AwPixbohX-/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_simzan_simzan_parte1_2013_9_103_10|Quesito 10]]*
 
 10. Si determini il dominio della funzione:
 $$y=\sqrt{\frac{\ln(x-2)}{\ln x-2}}.$$

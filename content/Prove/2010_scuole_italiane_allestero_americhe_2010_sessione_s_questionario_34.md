@@ -17,6 +17,8 @@ Fonte: p.34 · [📄 Apri PDF](https://drive.google.com/file/d/1J5aZuRvV3aZZ5Nwu
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_1|Quesito 1]]*
+
 Fra tutti i coni inscritti in una sfera si trovi quello di volume massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -25,6 +27,8 @@ Fra tutti i coni inscritti in una sfera si trovi quello di volume massimo.
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.34](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_2|Quesito 2]]*
 
 Si enunci il teorema del valor medio o di Lagrange e se ne illustrino il legame con il teorema di Rolle e le implicazioni ai fini della determinazione della crescenza o decrescenza delle funzioni.
 
@@ -35,6 +39,8 @@ Si enunci il teorema del valor medio o di Lagrange e se ne illustrino il legame 
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_3|Quesito 3]]*
+
 Si dimostri che il prodotto di due numeri positivi che hanno somma costante è massimo quando i due numeri sono uguali.
 
 **Topic:** [[Massimi e Minimi]], [[Derivate]]
@@ -43,6 +49,8 @@ Si dimostri che il prodotto di due numeri positivi che hanno somma costante è m
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.36](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_4|Quesito 4]]*
 
 Si tracci il grafico di $y=|x^5-1|$.
 
@@ -54,6 +62,8 @@ Si tracci il grafico di $y=|x^5-1|$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_5|Quesito 5]]*
+
 Nel piano riferito a un sistema di coordinate $Oxy$, si consideri la regione $R$ delimitata dal grafico di $y=e^x$, dagli assi cartesiani e dalla retta $x=\ln(1/2)$. Si calcoli l'area di $R$.
 
 **Topic:** [[Calcolo Integrale]], [[Esponenziali e Logaritmi]]
@@ -62,6 +72,8 @@ Nel piano riferito a un sistema di coordinate $Oxy$, si consideri la regione $R$
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.37](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_6|Quesito 6]]*
 
 Cosa si intende per periodo di una funzione? Si spieghi il procedimento da seguire per determinare il periodo della funzione: $f(x)=\sin(3x+1)$.
 
@@ -72,6 +84,8 @@ Cosa si intende per periodo di una funzione? Si spieghi il procedimento da segui
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_7|Quesito 7]]*
 
 Si determini il campo di esistenza della funzione:
 $$f:x\mapsto x^2-x-\ln x$$
@@ -84,6 +98,8 @@ La $f$ ha caratteristiche di simmetria? È invertibile? Si tracci il grafico di 
 **Soluzione:** [[Soluzioni/2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.38](https://drive.google.com/file/d/1J5aZuRvV3aZZ5NwuxHjhKtmXNI-5yTxd/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2010_scuole_italiane_allestero_americhe_2010_sessione_s_questionario_34_8|Quesito 8]]*
 
 Sia $f$ la funzione polinomiale definita per ogni $x$ reale da $f(x)=x^4+5x^2+3$. Allora $f(x^2-1)$ è dato per ogni $x$ da:
 

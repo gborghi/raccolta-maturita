@@ -16,6 +16,8 @@ Fonte: p.56 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_scuole_italiane_allestero_europa_2009_sessione_ord_problema2_56_1|Problema 1]]*
+
 Nel piano riferito ad un sistema $Oxy$ di coordinate cartesiane siano assegnate le parabole d'equazioni: $$y^2=2ax \quad e \quad x^2=ay,\qquad \text{con } a>0.$$
 
 a) Si disegnino le due parabole e si denoti con $A$ il loro punto d'intersezione diverso dall'origine $O$.

@@ -17,6 +17,8 @@ Fonte: p.56 · [📄 Apri PDF](https://drive.google.com/file/d/1TfImhTiR0dAKm4Pi
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1909_tutti_temi_1|Problema 1]]*
+
 Di un triangolo rettangolo è conosciuta l'altezza $h$ relativa all'ipotenusa, ed è anche dato il rapporto $m$ tra l'area laterale del cilindro circolare retto, che ha per raggio uno dei cateti e per lato l'altro cateto, e la somma delle aree laterali dei due coni generati dalla rotazione del triangolo intorno all'ipotenusa.
 
 Si calcolino i cateti del triangolo, e discutendo la soluzione si mostri che il minimo valore di $m$ è $\sqrt{2}$. Di che natura è il triangolo in questo caso?
@@ -27,6 +29,8 @@ Si calcolino i cateti del triangolo, e discutendo la soluzione si mostri che il 
 **Fonte:** [📄 Testo (PDF) — p.56](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 1
+
+*↳ Nota atomica: [[Problemi/prob_1909_tutti_temi_3|Problema 1]]*
 
 Per un punto posto sulla bisettrice di un angolo retto, a distanza $a$ dai due lati, è condotta una retta che li taglia.
 
@@ -41,6 +45,8 @@ Nella discussione si faccia vedere quali valori siano possibili per $m$, e si tr
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_1909_tutti_temi_5|Problema 1]]*
+
 I punti $ABCD$ sono vertici consecutivi d'un quadrato di lato $a$, e $P$ è un punto sul lato $\overline{AB}$.
 
 Rotando il quadrato di un giro intorno al lato $\overline{AB}$, i triangoli $APD$ e $BPC$ generano due coni.
@@ -54,6 +60,8 @@ Quale posizione dovrà avere il punto $P$ in modo che la somma delle superfici l
 
 ## Problema 2
 
+*↳ Nota atomica: [[Problemi/prob_1909_tutti_temi_2|Problema 2]]*
+
 Un diametro $\overline{AB}$ di una sfera si prolunga di una lunghezza $\overline{BC}$ eguale al raggio $r$ della sfera stessa, e per un suo punto $P$, interno a questa, si conduce il piano perpendicolare al diametro medesimo.
 
 Trovare la posizione del punto $P$ in modo che l'area del cerchio di raggio $\overline{PC}$ abbia un dato rapporto $m$ con quella del cerchio sezione del piano con la sfera.
@@ -66,6 +74,8 @@ Nella discussione si faccia vedere che sono ammissibili tutti i valori di $m$ su
 **Fonte:** [📄 Testo (PDF) — p.56](https://drive.google.com/file/d/1TfImhTiR0dAKm4PiIDPxk3_ptWdJ4Pko/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_1909_tutti_temi_4|Problema 2]]*
 
 Un cono di rotazione è circoscritto ad una sfera di raggio $r$.
 

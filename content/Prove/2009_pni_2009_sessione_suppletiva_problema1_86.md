@@ -16,6 +16,8 @@ Fonte: p.86 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_pni_2009_sessione_suppletiva_problema1_86_1|Problema 1]]*
+
 Si consideri la funzione:
 
 $$f(x)=\begin{cases} \ln\sqrt{x^2+1} & \text{per } x<0 \\[4pt] 0 & \text{per } x=0 \\[4pt] \operatorname{arctg}(\operatorname{sen}x) & \text{per } x>0 \end{cases}$$

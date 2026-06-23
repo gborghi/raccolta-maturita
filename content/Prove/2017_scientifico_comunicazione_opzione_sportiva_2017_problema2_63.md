@@ -16,6 +16,8 @@ Fonte: p.63 · [📄 Apri PDF](https://drive.google.com/file/d/1xzo_uvfbEGjvrRQz
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2017_scientifico_comunicazione_opzione_sportiva_2017_problema2_63_1|Problema 1]]*
+
 Consideriamo la funzione $f:\mathbb{R}\to\mathbb{R}$, periodica di periodo $T=4$ il cui grafico, nell'intervallo $[0;4]$, è il seguente *(figura nel PDF)*.
 
 Come si evince dalla Figura 1, i tratti $OB$, $BD$, $DE$ del grafico sono segmenti i cui estremi hanno coordinate: $O(0,0)$, $B(1,1)$, $D(3,-1)$, $E(4,0)$.

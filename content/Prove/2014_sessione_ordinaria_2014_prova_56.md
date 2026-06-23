@@ -17,6 +17,8 @@ Fonte: p.56 · [📄 Apri PDF](https://drive.google.com/file/d/1WH26K6aDhT0rm439
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_prova_56_1|Problema 1]]*
+
 A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(figura nel PDF)*
 
 1. Si calcoli il massimo e il minimo assoluti di $f(x)$.
@@ -31,6 +33,8 @@ A lato è disegnato il grafico $\Gamma$ della funzione $f(x)=x\sqrt{4-x^2}$. *(f
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2014_sessione_ordinaria_2014_prova_56_2|Problema 2]]*
 
 Sia $f(x)=x^3+3x^2+4x-12$.
 
@@ -47,6 +51,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_1|Quesito 1]]*
+
 1. Nel triangolo disegnato a lato, qual è la misura, in gradi e primi sessagesimali, di $\alpha$? *(figura nel PDF)*
 
 **Topic:** [[Trigonometria]], [[Geometria Euclidea]]
@@ -55,6 +61,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.58](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_2|Quesito 2]]*
 
 2. Si spieghi perché non esistono poliedri regolari le cui facce siano esagoni.
 
@@ -65,6 +73,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_3|Quesito 3]]*
+
 3. Quanti sono i numeri di 5 cifre con almeno una cifra dispari? Quanti quelli con almeno una cifra pari?
 
 **Topic:** [[Calcolo Combinatorio]]
@@ -73,6 +83,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.59](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_4|Quesito 4]]*
 
 4. La "zara" è un gioco d'azzardo di origine araba che conobbe particolare fortuna in Italia in epoca medievale — ne parla anche Dante nella Divina Commedia — e si giocava con tre dadi. Si confronti la probabilità di ottenere in un lancio la somma 9 con quella di ottenere la somma 10.
 
@@ -83,6 +95,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_5|Quesito 5]]*
+
 5. Si determini l'equazione della tangente alla curva $y=\log_{\frac12}x$ condotta dal punto $(0;1)$.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Geometria Analitica (piano)]]
@@ -91,6 +105,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.60](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_6|Quesito 6]]*
 
 6. Un'azienda commercializza il suo prodotto in lattine da 5 litri a forma di parallelepipedo a base quadrata. Le lattine hanno dimensioni tali da richiedere la minima quantità di latta per realizzarle. Quali sono le dimensioni, arrotondate ai mm, di una lattina?
 
@@ -101,6 +117,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_7|Quesito 7]]*
+
 7. Il valor medio della funzione $f(x)=x^3$ sull'intervallo chiuso $[0,k]$ è $9$. Si determini $k$.
 
 **Topic:** [[Calcolo Integrale]]
@@ -109,6 +127,8 @@ Sia $f(x)=x^3+3x^2+4x-12$.
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.62](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_8|Quesito 8]]*
 
 8. Si provi che:
 $$\lim_{x\to+\infty}\frac{x^{2014}}{2^x}=0$$
@@ -120,6 +140,8 @@ $$\lim_{x\to+\infty}\frac{x^{2014}}{2^x}=0$$
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_9|Quesito 9]]*
+
 9. Si determini il dominio della funzione: $f(x)=\sqrt{3-\log_2(x+5)}$.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]]
@@ -129,6 +151,8 @@ $$\lim_{x\to+\infty}\frac{x^{2014}}{2^x}=0$$
 **Soluzione:** [[Soluzioni/2014_sessione_ordinaria_2014_prova_56#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1WH26K6aDhT0rm439hBww1SX_Dwrvky9g/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2014_sessione_ordinaria_2014_prova_56_10|Quesito 10]]*
 
 10. Nella figura a lato è riportato il grafico della funzione $y=f(x)$. In quale o quali dei cinque punti $A$, $B$, $C$, $D$, $E$ la derivata prima e la derivata seconda della funzione sono entrambe negative? *(figura nel PDF)*
 

@@ -16,6 +16,8 @@ Fonte: p.181 · [📄 Apri PDF](https://drive.google.com/file/d/1n2gTKzWAkc1lds8
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2016_suppletiva_2016_problema1_181_1|Problema 1]]*
+
 Sei l'amministratore di un condominio che ha deliberato di dotarsi di una sala per le riunioni condominiali, sfruttando uno spazio comune già disponibile, da coprire e attrezzare.
 
 La superficie individuata è rappresentata in figura 1 *(figura nel PDF)*.

@@ -17,6 +17,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_1|Quesito 1]]*
+
 **Quesito 1.** Data la funzione integrale $\int_1^x \ln(t)\,dt$, determinare per quali valori di $x$ il suo grafico incontra la retta di equazione $y=2x+1$.
 
 **Topic:** [[Funzioni Integrali]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -25,6 +27,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.175](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_2|Quesito 2]]*
 
 **Quesito 2.** Data la famiglia di funzioni $y=-x^3+6kx+33$, trovare la funzione tangente nel punto di ascissa $3$ ad una retta parallela alla bisettrice del primo quadrante. Determinare l'equazione di detta tangente.
 
@@ -35,6 +39,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_3|Quesito 3]]*
+
 **Quesito 3.** Vengono lanciati due dadi. Dei due punteggi, viene considerato il maggiore; se sono uguali, viene considerato il punteggio comune dei due dadi. Detto $X$ il punteggio registrato, riportare in una tabella la distribuzione di probabilità di $X$ e mostrare che $p(X=3)=\frac{5}{36}$. Calcolare inoltre la media e la varianza di $X$.
 
 **Topic:** [[Probabilita]], [[Statistica]]
@@ -43,6 +49,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.176](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_4|Quesito 4]]*
 
 **Quesito 4.** In un sistema di riferimento cartesiano nello spazio $Oxyz$ sono dati i punti $A(-3,4,0)$ e $C(-2,1,2)$. I tre punti $O$, $A$ e $C$ giacciono su un piano $E$. Determinare l'equazione che descrive il piano $E$.
 
@@ -53,6 +61,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_5|Quesito 5]]*
+
 **Quesito 5.** Determinare il volume del solido generato dalla rotazione attorno alla retta di equazione $x=2$ della parte di piano delimitata dalla parabola di equazione $y^2=8x$ e dalla retta stessa.
 
 **Topic:** [[Calcolo Integrale]], [[Geometria Solida]], [[Geometria Analitica (piano)]]
@@ -62,6 +72,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_6|Quesito 6]]*
+
 **Quesito 6.** Preso un punto $C$ su una semicirconferenza di diametro $AB=2r$, sia $M$ il punto medio dell'arco $BC$. Determinare il valore massimo che può assumere l'area del quadrilatero $ABMC$.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Euclidea]], [[Trigonometria]]
@@ -70,6 +82,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 6|📝 Svolgimento (LaTeX)]] · [📄 PDF p.178](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 7
+
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_7|Quesito 7]]*
 
 **Quesito 7.** Una fabbrica produce mediamente il $3\%$ di prodotti difettosi. Determinare la probabilità che in un campione di $100$ prodotti ve ne siano $2$ difettosi, usando:
 - la distribuzione binomiale;
@@ -82,6 +96,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Quesito 8
 
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_8|Quesito 8]]*
+
 **Quesito 8.** Provare che la funzione $y=e^x-\tan x$ ha infiniti zeri, mentre la funzione $y=e^x-\arctan x$ non ne ha alcuno.
 
 **Topic:** [[Topics/Studio di Funzione|Studio di Funzione]], [[Esponenziali e Logaritmi]], [[Trigonometria]]
@@ -92,6 +108,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 
 ## Quesito 9
 
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_9|Quesito 9]]*
+
 **Quesito 9.** Calcolare la derivata della funzione $f(x)=x\cdot e^x$, adoperando la definizione di derivata.
 
 **Topic:** [[Derivate]], [[Limiti e Continuita]]
@@ -100,6 +118,8 @@ Fonte: p.175 · [📄 Apri PDF](https://drive.google.com/file/d/1M3fBnPOYAk0BQg7
 **Soluzione:** [[Soluzioni/2015_suppletiva_2015_questionario_175#Quesito 9|📝 Svolgimento (LaTeX)]] · [📄 PDF p.182](https://drive.google.com/file/d/1M3fBnPOYAk0BQg70levYud2t_jZneRJa/view)
 
 ## Quesito 10
+
+*↳ Nota atomica: [[Quesiti/ques_2015_suppletiva_2015_questionario_175_10|Quesito 10]]*
 
 **Quesito 10.** Sia la derivata seconda di una funzione reale $f(x)$ data da $f''(x)=3x-6$. Determinare l'espressione di $f(x)$, sapendo che il grafico della funzione passa per il punto $P(2,-7)$ e che l'angolo formato dalla tangente al grafico di $f(x)$ con l'asse $y$ nel punto di ascissa $x=0$ vale $45°$.
 

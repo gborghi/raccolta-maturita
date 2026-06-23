@@ -17,6 +17,8 @@ Fonte: p.49 · [📄 Apri PDF](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN
 
 ## Problema 1
 
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_1|Problema 1]]*
+
 Fissato un parametro reale $k$, con $k\neq 0$, si consideri la funzione $f_k$ così definita:
 
 $$f_k(x)=\begin{cases} \dfrac{k(x+2)}{\sqrt{x+1}} & x>0 \\[2mm] -x^2+2k & x\leq 0 \end{cases}$$
@@ -38,6 +40,8 @@ d) Determinare l'area della regione finita di piano delimitata da $\Gamma_{\frac
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Problema 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.49](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Problema 2
+
+*↳ Nota atomica: [[Problemi/prob_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_2|Problema 2]]*
 
 In figura, sono rappresentati i grafici della funzione esponenziale, con $x<0$, e della funzione logaritmica, con $x>1$, entrambe in base naturale.
 
@@ -63,6 +67,8 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_1|Quesito 1]]*
+
 1. Si considerino due circonferenze congruenti $\gamma$ e $\gamma'$, di centri rispettivamente $O$ e $O'$, le quali si intersecano nei punti $A$ e $B$. Indicato con $P$ il punto di intersezione della retta $BO'$, distinto da $B$, con la circonferenza $\gamma$, dimostrare che il quadrilatero $PO'AO$ è inscrivibile in una circonferenza.
 
 **Topic:** [[Geometria Euclidea]]
@@ -71,6 +77,8 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.63](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_2|Quesito 2]]*
 
 2. Si consideri una scatola contenente 9 palline, di cui 6 bianche e 3 nere. Si estraggono le palline una ad una senza reinserimento finché non siano estratte 4 palline bianche. Qual è la probabilità che siano necessarie esattamente 4 estrazioni? Qual è la probabilità che siano necessarie esattamente 6 estrazioni?
 
@@ -81,6 +89,8 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_3|Quesito 3]]*
+
 3. Nello spazio cartesiano $Oxyz$ sono assegnati i punti $A(2,0,2)$, $B(2,-1,0)$, $C(-2,0,3)$, $D(0,0,3)$. Verificare che le rette $AB$ e $CD$ sono sghembe e determinare l'equazione del piano $\alpha$ passante per $AB$ e perpendicolare alla retta $CD$.
 
 **Topic:** [[Geometria nello Spazio]]
@@ -90,6 +100,8 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 
 ## Quesito 4
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_4|Quesito 4]]*
+
 4. Fra tutti i coni aventi area totale uguale ad $S$, determinare quello avente volume massimo.
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -98,6 +110,8 @@ d) Scrivere l'equazione della retta $t$, tangente al grafico $\gamma$, nel punto
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 4|📝 Svolgimento (LaTeX)]] · [📄 PDF p.66](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 5
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_5|Quesito 5]]*
 
 5. Calcolare il seguente limite:
 $$\lim_{x\to+\infty} x[\ln(x+1)-\ln x].$$
@@ -109,6 +123,8 @@ $$\lim_{x\to+\infty} x[\ln(x+1)-\ln x].$$
 
 ## Quesito 6
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_6|Quesito 6]]*
+
 6. Determinare i valori del parametro reale $k$ per cui la curva $y=e^{2x}-8e^x+k$ non ha punti a tangente orizzontale; determinare invece per quali valori di $k$ la curva ha un punto a tangente orizzontale di ordinata $y<0$.
 
 **Topic:** [[Derivate]], [[Esponenziali e Logaritmi]], [[Equazioni e Disequazioni]]
@@ -118,6 +134,8 @@ $$\lim_{x\to+\infty} x[\ln(x+1)-\ln x].$$
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_7|Quesito 7]]*
+
 7. Sono date $f(x)=\frac{x-2}{x-1}$ e $g(x)=\frac{2x+1}{1-2x}$. Calcola $f'(x)$ e $g'(x)$. Confronta e commenta il risultato ottenuto.
 
 **Topic:** [[Derivate]]
@@ -126,6 +144,8 @@ $$\lim_{x\to+\infty} x[\ln(x+1)-\ln x].$$
 **Soluzione:** [[Soluzioni/2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.68](https://drive.google.com/file/d/1VOgKnntd-8HAK_xN07R1HOW3WMKnaLip/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2024_sessione_ordinaria_2024_calendario_boreale_2_prova_49_8|Quesito 8]]*
 
 8. Nel canto 28 del Paradiso di Dante si legge «l'incendio suo seguiva ogni scintilla ed eran tante, che 'l numero loro più di doppiar de li scacchi s'inmilla». Tra questi versi, il poeta fa riferimento a un fenomeno di crescita descritto dalla funzione $f(x)=a^x$. Per quali valori di $a$ la funzione è definita e continua in $\mathbb{R}$? Esistono valori di $a$ in corrispondenza dei quali $f$ non è invertibile? Motivare la risposta.
 

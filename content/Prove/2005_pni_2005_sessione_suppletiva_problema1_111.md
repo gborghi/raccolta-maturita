@@ -16,6 +16,8 @@ Fonte: p.111 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02X
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_pni_2005_sessione_suppletiva_problema1_111_1|Problema 1]]*
+
 Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa in modo che una base sia la sezione della piramide con il piano equidistante dal suo vertice e dalla sua base.
 
 **A)** Ammesso di conoscere il volume della piramide, dire se è possibile calcolare il volume del prisma e fornire una esauriente spiegazione della risposta.

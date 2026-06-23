@@ -16,6 +16,8 @@ Fonte: p.20 · [📄 Apri PDF](https://drive.google.com/file/d/1O4FzCBuKW40z02Xp
 **Cluster:** [[Clusters/Geometria|Geometria]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2005_scuole_italiane_allestero_americhe_2005_sessione_o_problema1_20_1|Problema 1]]*
+
 Il triangolo $ABC$ è isoscele sulla base $BC$ e contiene il centro della circonferenza $k$ circoscritta ad esso. Condotta la retta $t$ tangente a $k$ in $C$, indicare con $D$ la proiezione ortogonale di $A$ su $t$ e con $E$ quella di $A$ su $BC$.
 
 **a)** Dimostrare che i triangoli $ACD$ e $ACE$ sono congruenti.

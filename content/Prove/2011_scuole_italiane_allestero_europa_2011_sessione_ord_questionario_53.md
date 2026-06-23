@@ -17,6 +17,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 
 ## Quesito 1
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_1|Quesito 1]]*
+
 **Quesito 1.** Si provi che se i lati di un triangolo rettangolo sono in progressione aritmetica di ragione $d$ allora il raggio della circonferenza inscritta è uguale a $d$.
 
 **Topic:** [[Geometria Euclidea]], [[Successioni e Serie]]
@@ -25,6 +27,8 @@ Fonte: p.53 · [📄 Apri PDF](https://drive.google.com/file/d/1n7qQSR6joIJerX8l
 **Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 1|📝 Svolgimento (LaTeX)]] · [📄 PDF p.53](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 2
+
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_2|Quesito 2]]*
 
 **Quesito 2.** Sia $W$ il solido ottenuto facendo ruotare attorno all'asse $y$ la parte di piano compresa, per $x \in \left[0; \frac{\pi}{2}\right]$, fra il grafico di $y = \sin x$ e l'asse $x$. Quale dei seguenti integrali definiti fornisce il volume di $W$?
 $$A)\ 2\pi\int_0^{\frac{\pi}{2}} x\sin x\, dx; \quad B)\ \pi\int_0^1 (\arcsin x)^2\, dx; \quad C)\ \pi\int_0^{\frac{\pi}{2}} \sin^2 x\, dx; \quad D)\ \text{nessuno di questi.}$$
@@ -37,6 +41,8 @@ Si motivi la risposta.
 
 ## Quesito 3
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_3|Quesito 3]]*
+
 **Quesito 3.** Fra tutti i parallelepipedi rettangoli, a base quadrata, di superficie totale $a^2$ quale è quello di volume massimo?
 
 **Topic:** [[Massimi e Minimi]], [[Geometria Solida]], [[Derivate]]
@@ -45,6 +51,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 3|📝 Svolgimento (LaTeX)]] · [📄 PDF p.54](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 4
+
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_4|Quesito 4]]*
 
 **Quesito 4.** La curva di equazione $y = \sqrt{x}\ln x$ ammette punti con tangente parallela all'asse $x$? Ammette punti con tangente parallela all'asse $y$? In caso affermativo si determinino.
 
@@ -56,6 +64,8 @@ Si motivi la risposta.
 
 ## Quesito 5
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_5|Quesito 5]]*
+
 **Quesito 5.** In una circonferenza di centro $O$ e raggio $r$ sono date due corde prive di punti comuni $AB = r$ e $CD = r\sqrt{3}$. Si dimostri che il quadrilatero $ABCD$ ha le diagonali perpendicolari.
 
 **Topic:** [[Geometria Euclidea]]
@@ -64,6 +74,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 5|📝 Svolgimento (LaTeX)]] · [📄 PDF p.55](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 6
+
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_6|Quesito 6]]*
 
 **Quesito 6.** Sia $P$ un punto del piano di coordinate $\left(t + \frac{1}{t}; t - \frac{1}{t}\right)$. Quale è l'equazione cartesiana del luogo descritto da $P$ al variare di $t$ $(t \neq 0)$?
 
@@ -74,6 +86,8 @@ Si motivi la risposta.
 
 ## Quesito 7
 
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_7|Quesito 7]]*
+
 **Quesito 7.** Si calcoli il valor medio della funzione $f(x) = \frac{1}{x^2 + 1}$ nell'intervallo $[-1; 1]$ e se ne indichi il significato geometrico.
 
 **Topic:** [[Calcolo Integrale]]
@@ -82,6 +96,8 @@ Si motivi la risposta.
 **Soluzione:** [[Soluzioni/2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53#Quesito 7|📝 Svolgimento (LaTeX)]] · [📄 PDF p.56](https://drive.google.com/file/d/1n7qQSR6joIJerX8l_7M5ZnD0O28Aqabx/view)
 
 ## Quesito 8
+
+*↳ Nota atomica: [[Quesiti/ques_2011_scuole_italiane_allestero_europa_2011_sessione_ord_questionario_53_8|Quesito 8]]*
 
 **Quesito 8.** La regione $R$ è delimitata da $y = 2x$ e $y = x^2$ come mostrato nella figura a lato. $R$ è la base di un solido $W$ le cui sezioni, ottenute tagliando $W$ con piani perpendicolari all'asse $x$, hanno area $A(x) = \sin\frac{\pi}{2}x$. Si determini il volume di $W$. *(figura nel PDF)*
 

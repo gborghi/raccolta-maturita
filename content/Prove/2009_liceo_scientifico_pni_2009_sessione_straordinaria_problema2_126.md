@@ -16,6 +16,8 @@ Fonte: p.126 · [📄 Apri PDF](https://drive.google.com/file/d/1Ioge1QbGS_AhQas
 **Cluster:** [[Clusters/Studio di Funzione|Studio di Funzione]]
 
 
+*↳ Nota atomica: [[Problemi/prob_2009_liceo_scientifico_pni_2009_sessione_straordinaria_problema2_126_1|Problema 1]]*
+
 Si consideri la funzione $f$ definita da $\;f(x)=\dfrac{1}{2}\ln\dfrac{1+x}{1-x}$.
 
 **1.** Si studi $f$ e se ne tracci il grafico $\gamma$ su un piano riferito ad un sistema di assi cartesiani ortogonali $Oxy$.
