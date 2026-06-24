@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import CercaPage from "./CercaPage"
 import Navbar from "./Navbar"
 import PagedList from "./PagedList"
+import SimzanGate from "./SimzanGate"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   CercaPage,
   Navbar,
   PagedList,
+  SimzanGate,
 }

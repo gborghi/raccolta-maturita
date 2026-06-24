@@ -28,6 +28,10 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Password-protect SimZan (copyrighted) pages
+        run: node protect_simzan.mjs
+        env:
+          SIMZAN_PASS: ${{ secrets.SIMZAN_PASS }}
       - name: Shrink heavy assets for low-RAM mobile
         run: node shrink_build.mjs
       - name: Upload artifact
