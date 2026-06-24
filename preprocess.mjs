@@ -3,7 +3,7 @@
 // - copies non-md assets so embeds resolve
 // - strips links to local PDFs (the exam PDFs are not published)
 // - emits ./quartz/static/prove.json (the 'tipo: prova' subset) for /cerca
-import { promises as fs, readFileSync } from "node:fs"
+import { promises as fs, readFileSync, readdirSync, existsSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 
@@ -58,6 +58,13 @@ const CL_DIR = path.join(ROOT, "quartz", "static", "cl")   // per-concept pagina
 const SKIP_DIRS = new Set(["tmp_imgs"])
 const SKIP_FILES = new Set(["_Home.md"])                   // we generate our own index.md
 const CONCEPT_DIRS = ["Topics", "Methods", "Skills", "Clusters", "Tipi-funzione"]
+// available decorative concept icons (static/decor/<slug>.svg), keyed by slug
+const DECOR_DIR = path.join(ROOT, "quartz", "static", "decor")
+const DECOR = new Set(
+  existsSync(DECOR_DIR)
+    ? readdirSync(DECOR_DIR).filter((f) => f.endsWith(".svg")).map((f) => f.slice(0, -4))
+    : [],
+)
 
 function sluggify(s) {
   return s.split("/").map((seg) =>
@@ -279,10 +286,25 @@ function tagVal(tags, prefix) {
   return t ? t.slice(prefix.length) : ""
 }
 
+// resilient recursive remove: Dropbox holds transient sync locks on files inside
+// content/ (the site now lives in Dropbox), making a single fs.rm throw EBUSY/
+// ENOTEMPTY mid-wipe and leaving content/ half-deleted. Retry with backoff.
+async function rmrf(p) {
+  for (let attempt = 1; attempt <= 8; attempt++) {
+    try {
+      await fs.rm(p, { recursive: true, force: true })
+      return
+    } catch (e) {
+      if (attempt === 8) throw e
+      await new Promise((r) => setTimeout(r, 400 * attempt))
+    }
+  }
+}
+
 async function main() {
-  await fs.rm(CONTENT, { recursive: true, force: true })
+  await rmrf(CONTENT)
   await fs.mkdir(CONTENT, { recursive: true })
-  await fs.rm(CL_DIR, { recursive: true, force: true })
+  await rmrf(CL_DIR)
   await fs.mkdir(CL_DIR, { recursive: true })
   const files = await walk(VAULT)
 
@@ -324,6 +346,16 @@ async function main() {
     // Big concept lists -> JSON + client pagination (tiny page HTML).
     const topDir = rel.split(path.sep)[0]
     if (CONCEPT_DIRS.includes(topDir)) {
+      // decorative per-concept icon (generated as static/decor/<slug>.svg): float it
+      // at the top of the note when one exists for this concept.
+      const slug = sluggify(path.basename(rel, ".md"))
+      if (DECOR.has(slug)) {
+        const depth = (slugFromRel(rel).match(/\//g) || []).length
+        const pre = "../".repeat(depth)
+        outContent =
+          `<img class="concept-icon" src="${pre}static/decor/${encodeURI(slug)}.svg" alt="" loading="lazy" />\n\n` +
+          outContent
+      }
       const ex = extractConceptList(outContent)
       if (ex) {
         const srcRel = "cl/" + clIdx + ".json"

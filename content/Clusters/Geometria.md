@@ -5,6 +5,8 @@ tags:
   - graph/cluster
   - cluster/geometria
 ---
+<img class="concept-icon" src="../static/decor/Geometria.svg" alt="" loading="lazy" />
+
 
 *Cluster tematico* — **162 prove** (quelle in cui quest'area è dominante).
 

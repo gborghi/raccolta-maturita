@@ -5,6 +5,8 @@ tags:
   - graph/cluster
   - cluster/fisica
 ---
+<img class="concept-icon" src="../static/decor/Fisica.svg" alt="" loading="lazy" />
+
 
 *Cluster tematico* — **1 prove** (quelle in cui quest'area è dominante).
 

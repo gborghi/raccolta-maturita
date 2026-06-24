@@ -5,6 +5,8 @@ tags:
   - graph/cluster
   - cluster/studio_di_funzione
 ---
+<img class="concept-icon" src="../static/decor/Studio-di-Funzione.svg" alt="" loading="lazy" />
+
 
 *Cluster tematico* — **310 prove** (quelle in cui quest'area è dominante).
 

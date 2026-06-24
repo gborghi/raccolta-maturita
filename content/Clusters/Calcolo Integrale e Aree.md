@@ -5,6 +5,8 @@ tags:
   - graph/cluster
   - cluster/calcolo_integrale_e_aree
 ---
+<img class="concept-icon" src="../static/decor/Calcolo-Integrale-e-Aree.svg" alt="" loading="lazy" />
+
 
 *Cluster tematico* — **47 prove** (quelle in cui quest'area è dominante).
 

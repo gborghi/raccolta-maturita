@@ -5,6 +5,8 @@ tags:
   - graph/cluster
   - cluster/probabilit_e_combinatoria
 ---
+<img class="concept-icon" src="../static/decor/Probabilit%C3%A0-e-Combinatoria.svg" alt="" loading="lazy" />
+
 
 *Cluster tematico* — **6 prove** (quelle in cui quest'area è dominante).
 

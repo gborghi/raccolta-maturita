@@ -172,6 +172,13 @@ details.cerca-facet > summary { font-family: var(--titleFont); }
 
 .page-title { font-weight: 800; }
 blockquote { border-left: 3px solid var(--accent-teal); }
+
+// decorative per-concept icon (top-right of concept pages), sober + unobtrusive
+img.concept-icon {
+  float: right; width: 116px; height: auto; margin: 0.1rem 0 0.8rem 1.2rem;
+  opacity: 0.92;
+}
+@media (max-width: 600px) { img.concept-icon { width: 84px; margin-left: 0.8rem; } }
 .graph .graph-outer, .explorer { border-radius: var(--radius); }
 
 // On-demand graph: the local/global graph is NOT rendered on page load (too heavy

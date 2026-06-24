@@ -5,6 +5,8 @@ tags:
   - graph/cluster
   - cluster/successioni_serie_ed_eq_differenziali
 ---
+<img class="concept-icon" src="../static/decor/Successioni,-Serie-ed-Eq.-Differenziali.svg" alt="" loading="lazy" />
+
 
 *Cluster tematico* — **3 prove** (quelle in cui quest'area è dominante).
 

@@ -5,6 +5,8 @@ tags:
   - graph/cluster
   - cluster/derivate_massimi_e_minimi
 ---
+<img class="concept-icon" src="../static/decor/Derivate,-Massimi-e-Minimi.svg" alt="" loading="lazy" />
+
 
 *Cluster tematico* — **82 prove** (quelle in cui quest'area è dominante).
 

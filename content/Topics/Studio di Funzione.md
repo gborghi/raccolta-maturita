@@ -5,6 +5,8 @@ concept_id: topic_studiofunzione
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Studio-di-Funzione.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **668** problemi/quesiti.
 
