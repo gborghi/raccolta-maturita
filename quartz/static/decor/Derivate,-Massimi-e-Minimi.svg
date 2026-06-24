@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
-<path d="M 767.867 1276.52 C 795.892 1258.51 799.082 1250.32 814.1 1220.9 L 1364.9 1726.07 C 1377.77 1737.73 1418.07 1781.94 1433.45 1782.49 L 1738.02 1782.19 C 1762.01 1782.15 1810.1 1779.64 1832.65 1784.72 C 1867.25 1792.53 1865.12 1857.03 1823.56 1858.05 C 1802.16 1859.84 1781.44 1859.07 1760.31 1859.04 L 1490.23 1859.05 C 1416.1 1859.07 1414.76 1871.96 1359.21 1820.75 L 821.695 1325.81 C 803.623 1309.38 785.373 1293.71 767.867 1276.52 z" fill="rgb(242,131,47)" transform="translate(0,0)"></path>
-<path d="M 605.006 1113.09 C 598.658 1107.97 590.682 1098.76 585.14 1092.47 C 395.743 877.772 249.814 619.34 203.401 334.057 C 197.702 302.8 195.655 278.94 191.611 246.761 C 187.675 215.434 181.26 171.934 228.82 172.905 C 261.086 173.563 260.724 215.986 263.034 236.664 C 271.511 399.023 336.784 589.583 415.967 733.215 C 471.043 833.119 535.121 925.737 607.414 1014.06 C 622.404 1032.37 640.494 1050.71 654.389 1069.57 C 630.108 1081.22 621.463 1091.66 605.006 1113.09 z" fill="rgb(244,198,162)" transform="translate(0,0)"></path>
-<path d="M 654.389 1069.57 C 758.312 1030.82 849.44 1118.91 814.1 1220.9 C 799.082 1250.32 795.892 1258.51 767.867 1276.52 C 660.355 1340 542.63 1215.96 605.006 1113.09 C 621.463 1091.66 630.108 1081.22 654.389 1069.57 z" fill="rgb(188,92,65)" transform="translate(0,0)"></path>
-<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "UKgi2VN7oTaDqLZVpTI748WN8kTntg2IcEXliZGzxN/hIrJhVd62nljhyCfi97EYKuSQx+WtNcZk8GsOqSySCQ==", "signing_algo": "Ed25519", "generation_timestamp": 1782332418, "identifier": "4ebf0e24-da81-469a-843c-05a6fc75c227"}</recraft-signature></metadata></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <path d="M88 392 Q256 92 424 392" fill="none" stroke="#1c3d6e" stroke-width="22" stroke-linecap="round"/>
+  <path d="M132 242 H380" fill="none" stroke="#f3902b" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="256" cy="242" r="22" fill="#f3902b" stroke="#1c3d6e" stroke-width="9"/>
+</svg>

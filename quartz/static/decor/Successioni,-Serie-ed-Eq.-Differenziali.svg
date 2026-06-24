@@ -1,30 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
-<defs>
-	<linearGradient gradientUnits="userSpaceOnUse" id="Gradient1" x1="819.675" x2="716.365" y1="1070.44" y2="975.514">
-		<stop class="stop0" offset="0" stop-color="rgb(222,113,47)" stop-opacity="1"></stop>
-		<stop class="stop1" offset="1" stop-color="rgb(249,170,62)" stop-opacity="1"></stop>
-	</linearGradient>
-	<linearGradient gradientUnits="userSpaceOnUse" id="Gradient2" x1="1322.77" x2="1237.47" y1="1078.72" y2="968.179">
-		<stop class="stop0" offset="0" stop-color="rgb(224,116,45)" stop-opacity="1"></stop>
-		<stop class="stop1" offset="1" stop-color="rgb(250,170,61)" stop-opacity="1"></stop>
-	</linearGradient>
-	<linearGradient gradientUnits="userSpaceOnUse" id="Gradient3" x1="1072.61" x2="975.578" y1="1075.23" y2="971.328">
-		<stop class="stop0" offset="0" stop-color="rgb(223,114,47)" stop-opacity="1"></stop>
-		<stop class="stop1" offset="1" stop-color="rgb(250,175,68)" stop-opacity="1"></stop>
-	</linearGradient>
-	<linearGradient gradientUnits="userSpaceOnUse" id="Gradient4" x1="556.841" x2="466.84" y1="1077.31" y2="968.307">
-		<stop class="stop0" offset="0" stop-color="rgb(221,111,46)" stop-opacity="1"></stop>
-		<stop class="stop1" offset="1" stop-color="rgb(246,162,57)" stop-opacity="1"></stop>
-	</linearGradient>
-	<linearGradient gradientUnits="userSpaceOnUse" id="Gradient5" x1="1334.1" x2="645.111" y1="1504.95" y2="449.459">
-		<stop class="stop0" offset="0" stop-color="rgb(197,136,97)" stop-opacity="1"></stop>
-		<stop class="stop1" offset="1" stop-color="rgb(255,223,186)" stop-opacity="1"></stop>
-	</linearGradient>
-</defs>
-<path d="M 1394.03 1383.44 C 1316.35 1384.56 1235.56 1383.44 1157.63 1383.44 L 384.156 1383.48 C 328.544 1383.54 266.318 1377.45 254.887 1307.1 C 252.188 1290.48 253.831 1268.99 253.885 1251.67 L 253.456 765.992 C 252.969 675.276 306.816 660.538 384.679 660.602 L 1670.97 660.671 C 1778.35 661.006 1791.44 727.452 1791.45 818.431 L 1791.41 915.445 C 1791.37 1020.61 1792.52 1127.58 1791.42 1232.61 C 1793.26 1272.36 1796.21 1324.77 1768.54 1354.71 C 1738.49 1387.23 1710.06 1383.64 1670.55 1383.52 L 1593.78 1383.42 C 1527.89 1383.43 1459.71 1384.44 1394.03 1383.44 z M 1754.74 1217.71 L 1754.82 810.056 C 1754.93 707.227 1738.59 700.738 1629.26 700.755 L 342.519 700.364 C 277.928 700.776 291.075 776.233 291.093 820.735 L 291.083 1294.32 C 291.31 1347.37 349.929 1345.34 386.18 1345.35 L 1412.07 1345.33 C 1443.21 1345.31 1476.04 1344.71 1507.08 1345.32 C 1570.53 1343.87 1636.2 1345.59 1699.72 1346.22 C 1769.17 1346.9 1754.7 1263.31 1754.74 1217.71 z" fill="url(#Gradient5)" transform="translate(0,0)"></path>
-<path d="M 500.387 951.245 C 540.171 944.809 577.632 971.865 584.029 1011.66 C 590.426 1051.45 563.334 1088.88 523.538 1095.24 C 483.796 1101.59 446.423 1074.54 440.035 1034.81 C 433.646 995.07 460.658 957.671 500.387 951.245 z" fill="url(#Gradient4)" transform="translate(0,0)"></path>
-<path d="M 1015.8 951.296 C 1055.88 946.496 1092.23 975.181 1096.89 1015.28 C 1101.54 1055.38 1072.72 1091.63 1032.61 1096.13 C 992.696 1100.62 956.676 1071.98 952.047 1032.09 C 947.418 992.195 975.923 956.071 1015.8 951.296 z" fill="url(#Gradient3)" transform="translate(0,0)"></path>
-<path d="M 1268.59 952.321 C 1307.94 945.759 1345.17 972.322 1351.76 1011.67 C 1358.35 1051.01 1331.81 1088.25 1292.47 1094.87 C 1253.09 1101.5 1215.8 1074.93 1209.2 1035.54 C 1202.61 996.16 1229.2 958.889 1268.59 952.321 z" fill="url(#Gradient2)" transform="translate(0,0)"></path>
-<path d="M 762.551 951.662 C 802.02 948.32 836.777 977.484 840.338 1016.93 C 843.9 1056.38 814.928 1091.3 775.499 1095.08 C 735.76 1098.89 700.507 1069.64 696.917 1029.88 C 693.328 990.122 722.772 955.031 762.551 951.662 z" fill="url(#Gradient1)" transform="translate(0,0)"></path>
-<path d="M 1754.74 1217.71 L 1756.44 1216.79 C 1758.59 1201.35 1755.06 1173.71 1757.4 1161.26 C 1763.14 1164.41 1784.06 1179.9 1785.84 1185.49 C 1788.75 1194.64 1789.21 1225.82 1791.42 1232.61 C 1793.26 1272.36 1796.21 1324.77 1768.54 1354.71 C 1738.49 1387.23 1710.06 1383.64 1670.55 1383.52 L 1593.78 1383.42 C 1527.89 1383.43 1459.71 1384.44 1394.03 1383.44 L 1393.3 1381.76 C 1378.74 1382.89 1351.49 1388.78 1343.05 1374.1 C 1346.11 1365.43 1349.82 1355.26 1359.84 1352.48 C 1401.55 1339.74 1464.57 1354.23 1505.66 1345.63 L 1507.08 1345.32 C 1570.53 1343.87 1636.2 1345.59 1699.72 1346.22 C 1769.17 1346.9 1754.7 1263.31 1754.74 1217.71 z" fill="rgb(195,133,95)" transform="translate(0,0)"></path>
-<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "feew8ndD8yB22zyrsTXB+5WHSWM+Tn7tNgTz6bx020vS/eyJN66YAKaA0dDiS+b+Fc27lVhhBUlUxHKo7p0OBA==", "signing_algo": "Ed25519", "generation_timestamp": 1782332431, "identifier": "bd217b33-6c1c-42ea-a888-a6994a2c1426"}</recraft-signature></metadata></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <path d="M70 392 H446" fill="none" stroke="#1c3d6e" stroke-width="14" stroke-linecap="round" opacity="0.45"/>
+  <circle cx="78" cy="296" r="40" fill="#f3902b"/>
+  <circle cx="178" cy="320" r="30" fill="#f3a64b"/>
+  <circle cx="258" cy="338" r="22" fill="#f3902b"/>
+  <circle cx="320" cy="352" r="16" fill="#f3a64b"/>
+  <circle cx="368" cy="362" r="11" fill="#f3902b"/>
+  <circle cx="404" cy="370" r="8" fill="#f3a64b"/>
+  <circle cx="432" cy="376" r="12" fill="#1c3d6e"/>
+</svg>
