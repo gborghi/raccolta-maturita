@@ -37,7 +37,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      // "Soluzioni" (per-prova) and "Svolgimenti" (per-item) hold the same worked
+      // solutions at different granularity; show only one folder in the sidebar.
+      // The atomic Svolgimenti notes still resolve (linked from each item).
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "Svolgimenti",
+    }),
   ],
   right: [
     Component.Graph(),
@@ -61,7 +66,12 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      // "Soluzioni" (per-prova) and "Svolgimenti" (per-item) hold the same worked
+      // solutions at different granularity; show only one folder in the sidebar.
+      // The atomic Svolgimenti notes still resolve (linked from each item).
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "Svolgimenti",
+    }),
   ],
   right: [],
 }
