@@ -375,6 +375,10 @@ Archivio delle prove scritte di **Matematica** della Maturità (Liceo Scientific
 - **Prove intere**: cartella *Prove* · **Singoli problemi**: cartella *Problemi* · **Singoli quesiti**: cartella *Quesiti* · **Soluzioni**: cartella *Soluzioni* (svolgimenti in LaTeX)
 
 Usa la **[ricerca per più tag](cerca)** per filtrare i ${prove.length} singoli problemi e quesiti combinando tipo, anno, area, cluster, argomento, metodo, competenza e tipo di funzione. In alternativa: ricerca testuale (in alto) o il **grafo** della conoscenza. Ogni elenco nelle pagine-concetto è navigabile via wikilink.
+
+## Fonti e crediti
+
+I testi delle tracce provengono dalle prove ufficiali della seconda prova scritta di Matematica dell'Esame di Stato. Per le sessioni **dal 1999 in poi** si è attinto ai fascicoli ministeriali; **tutte le tracce anteriori al 1999** — fino alle prime maturità di fine Ottocento — si trovano oggi raccolte **soltanto** nel volume *Matematica alla Maturità* di **[Luciano Battaia](https://www.batmath.it)** ed **Enrico Suppa**, che ricostruisce cronologicamente l'intero corpus dei temi assegnati dal 1871 in avanti. È un lavoro di ricerca storica e archivistica senza il quale questo archivio non sarebbe stato possibile: agli autori va un sentito ringraziamento.
 `
   await fs.writeFile(path.join(CONTENT, "index.md"), home)
 
