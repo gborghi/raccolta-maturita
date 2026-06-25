@@ -5,6 +5,8 @@ concept_id: topic_funzioniintegrali
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Funzioni-Integrali.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **100** problemi/quesiti.
 

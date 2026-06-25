@@ -5,6 +5,8 @@ concept_id: topic_massimiminimi
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Massimi-e-Minimi.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **394** problemi/quesiti.
 

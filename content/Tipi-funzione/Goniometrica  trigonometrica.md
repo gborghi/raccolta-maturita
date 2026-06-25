@@ -5,6 +5,8 @@ concept_id: ftype_goniometrica
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Goniometrica--trigonometrica.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **95** problemi/quesiti.
 

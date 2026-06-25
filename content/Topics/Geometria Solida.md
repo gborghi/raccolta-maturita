@@ -5,6 +5,8 @@ concept_id: topic_geometriasolida
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Geometria-Solida.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **420** problemi/quesiti.
 

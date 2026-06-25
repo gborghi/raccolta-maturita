@@ -5,6 +5,8 @@ concept_id: ftype_irrazionale
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Irrazionale.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **58** problemi/quesiti.
 

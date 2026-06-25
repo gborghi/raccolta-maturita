@@ -5,6 +5,8 @@ concept_id: ftype_definita_tratti
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Definita-a-tratti--per-casi.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **40** problemi/quesiti.
 

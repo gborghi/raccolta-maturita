@@ -5,6 +5,8 @@ concept_id: ftype_parametrica
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Dipendente-da-un-parametro.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **152** problemi/quesiti.
 

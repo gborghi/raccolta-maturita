@@ -5,6 +5,8 @@ concept_id: topic_derivate
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Derivate.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **664** problemi/quesiti.
 

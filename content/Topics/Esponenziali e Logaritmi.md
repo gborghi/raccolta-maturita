@@ -5,6 +5,8 @@ concept_id: topic_explog
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Esponenziali-e-Logaritmi.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **342** problemi/quesiti.
 

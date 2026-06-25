@@ -5,6 +5,8 @@ concept_id: topic_geometriaspazio
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Geometria-nello-Spazio.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **86** problemi/quesiti.
 

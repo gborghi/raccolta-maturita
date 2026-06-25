@@ -5,6 +5,8 @@ concept_id: topic_limiti
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Limiti-e-Continuita.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **287** problemi/quesiti.
 

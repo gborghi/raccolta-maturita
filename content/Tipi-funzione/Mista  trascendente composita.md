@@ -5,6 +5,8 @@ concept_id: ftype_trascendente_mista
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Mista--trascendente-composita.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **85** problemi/quesiti.
 

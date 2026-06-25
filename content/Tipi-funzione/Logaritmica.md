@@ -5,6 +5,8 @@ concept_id: ftype_logaritmica
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Logaritmica.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **68** problemi/quesiti.
 

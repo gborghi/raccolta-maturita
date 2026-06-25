@@ -5,6 +5,8 @@ concept_id: topic_geometriaanalitica
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Geometria-Analitica-(piano).svg" alt="" loading="lazy" />
+
 
 *Argomento* — **376** problemi/quesiti.
 

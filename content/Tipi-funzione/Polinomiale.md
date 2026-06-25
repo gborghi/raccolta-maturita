@@ -5,6 +5,8 @@ concept_id: ftype_polinomiale
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Polinomiale.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **122** problemi/quesiti.
 

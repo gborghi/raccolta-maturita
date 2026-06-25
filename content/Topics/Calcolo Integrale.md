@@ -5,6 +5,8 @@ concept_id: topic_calcolointegrale
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Calcolo-Integrale.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **719** problemi/quesiti.
 

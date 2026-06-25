@@ -5,6 +5,8 @@ concept_id: topic_probabilita
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Probabilita.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **171** problemi/quesiti.
 

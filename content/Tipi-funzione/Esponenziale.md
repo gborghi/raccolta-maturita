@@ -5,6 +5,8 @@ concept_id: ftype_esponenziale
 tags:
   - graph/ftype
 ---
+<img class="concept-icon" src="../static/decor/Esponenziale.svg" alt="" loading="lazy" />
+
 
 *Tipo di funzione* — **75** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: topic_combinatoria
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Calcolo-Combinatorio.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **167** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: topic_equazionidisequazioni
 tags:
   - graph/topic
 ---
+<img class="concept-icon" src="../static/decor/Equazioni-e-Disequazioni.svg" alt="" loading="lazy" />
+
 
 *Argomento* — **314** problemi/quesiti.
 
