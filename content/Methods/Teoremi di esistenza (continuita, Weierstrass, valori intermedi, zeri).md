@@ -5,6 +5,8 @@ concept_id: method_teoremi_esistenza
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Teoremi-di-esistenza-(continuita,-Weierstrass,-valori-intermedi,-zeri).svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **69** problemi/quesiti.
 

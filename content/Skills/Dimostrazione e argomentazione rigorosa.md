@@ -5,6 +5,8 @@ concept_id: skill_dimostrare
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Dimostrazione-e-argomentazione-rigorosa.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **574** problemi/quesiti.
 

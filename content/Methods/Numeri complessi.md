@@ -5,6 +5,8 @@ concept_id: method_numeri_complessi
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Numeri-complessi.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **1** problemi/quesiti.
 

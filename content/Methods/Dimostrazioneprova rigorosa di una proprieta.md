@@ -5,6 +5,8 @@ concept_id: method_dimostrazione
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Dimostrazioneprova-rigorosa-di-una-proprieta.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **476** problemi/quesiti.
 

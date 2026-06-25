@@ -5,6 +5,8 @@ concept_id: method_induzione
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Dimostrazione-per-induzione.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **25** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: skill_astrazione
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Astrazione-e-generalizzazione.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **75** problemi/quesiti.
 

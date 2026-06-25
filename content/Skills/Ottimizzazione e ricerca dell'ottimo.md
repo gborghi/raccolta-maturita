@@ -5,6 +5,8 @@ concept_id: skill_ottimizzazione
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Ottimizzazione-e-ricerca-dell'ottimo.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **332** problemi/quesiti.
 

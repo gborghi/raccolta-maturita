@@ -5,6 +5,8 @@ concept_id: method_discussione_parametrica
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Discussione-di-famiglie-di-curvefunzioni-parametriche.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **293** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: skill_visualizzazione_spaziale
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Visualizzazione-spaziale-e-geometrica.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **390** problemi/quesiti.
 

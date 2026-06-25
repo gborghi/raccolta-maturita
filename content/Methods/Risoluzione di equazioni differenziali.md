@@ -5,6 +5,8 @@ concept_id: method_equazioni_differenziali
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Risoluzione-di-equazioni-differenziali.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **40** problemi/quesiti.
 

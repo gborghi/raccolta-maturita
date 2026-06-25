@@ -5,6 +5,8 @@ concept_id: skill_problem_solving
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Problem-solving-(strategia-risolutiva-non-immediata).svg" alt="" loading="lazy" />
+
 
 *Competenza* — **939** problemi/quesiti.
 

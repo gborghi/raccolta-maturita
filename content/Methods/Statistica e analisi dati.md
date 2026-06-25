@@ -5,6 +5,8 @@ concept_id: method_statistica
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Statistica-e-analisi-dati.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **32** problemi/quesiti.
 

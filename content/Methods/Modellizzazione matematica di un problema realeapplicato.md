@@ -5,6 +5,8 @@ concept_id: method_modellizzazione
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Modellizzazione-matematica-di-un-problema-realeapplicato.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **155** problemi/quesiti.
 

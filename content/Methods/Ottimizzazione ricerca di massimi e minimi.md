@@ -5,6 +5,8 @@ concept_id: method_ottimizzazione
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Ottimizzazione-ricerca-di-massimi-e-minimi.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **388** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: skill_analisi_dati
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Analisi-e-interpretazione-di-dati-e-probabilita.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **173** problemi/quesiti.
 

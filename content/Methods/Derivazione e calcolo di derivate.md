@@ -5,6 +5,8 @@ concept_id: method_derivazione
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Derivazione-e-calcolo-di-derivate.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **880** problemi/quesiti.
 

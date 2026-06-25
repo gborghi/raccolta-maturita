@@ -5,6 +5,8 @@ concept_id: method_calcolo_combinatorio
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Calcolo-combinatorio-(disposizioni,-permutazioni,-combinazioni).svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **177** problemi/quesiti.
 

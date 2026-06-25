@@ -5,6 +5,8 @@ concept_id: skill_interpretazione_testo
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Interpretazione-e-formalizzazione-del-testo.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **128** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: method_geometria_sintetica
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Geometria-euclidea-sintetica-(similitudine,-teoremi-su-triangolicerchi).svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **244** problemi/quesiti.
 

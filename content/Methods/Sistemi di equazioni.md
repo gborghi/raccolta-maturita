@@ -5,6 +5,8 @@ concept_id: method_sistemi
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Sistemi-di-equazioni.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **203** problemi/quesiti.
 

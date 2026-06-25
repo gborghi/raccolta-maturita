@@ -5,6 +5,8 @@ concept_id: method_limiti
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Calcolo-di-limiti-e-continuita.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **264** problemi/quesiti.
 

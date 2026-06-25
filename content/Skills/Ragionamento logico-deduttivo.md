@@ -5,6 +5,8 @@ concept_id: skill_ragionamento_logico
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Ragionamento-logico-deduttivo.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **978** problemi/quesiti.
 

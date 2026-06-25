@@ -5,6 +5,8 @@ concept_id: method_trigonometria
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Uso-di-relazioni-e-identita-trigonometriche.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **440** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: method_equazioni_disequazioni
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Risoluzione-di-equazioni-e-disequazioni.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **587** problemi/quesiti.
 

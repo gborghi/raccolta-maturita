@@ -5,6 +5,8 @@ concept_id: method_geometria_analitica
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Impostazione-con-geometria-analitica-(coordinate,-coniche).svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **439** problemi/quesiti.
 

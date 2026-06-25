@@ -5,6 +5,8 @@ concept_id: method_probabilita
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Probabilita-(classica,-condizionata,-Bayes,-distribuzioni).svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **180** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: method_teoremi_calcolo
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Teoremi-del-calcolo-(Rolle,-Lagrange,-valor-medio,-T.-fond.-calcolo-integrale).svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **138** problemi/quesiti.
 

@@ -5,6 +5,8 @@ concept_id: skill_uso_teoremi
 tags:
   - graph/skill
 ---
+<img class="concept-icon" src="../static/decor/Applicazione-consapevole-di-teoremi.svg" alt="" loading="lazy" />
+
 
 *Competenza* — **339** problemi/quesiti.
 

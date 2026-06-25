@@ -5,6 +5,8 @@ concept_id: method_integrazione
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Integrazione-(calcolo-di-integrali).svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **535** problemi/quesiti.
 

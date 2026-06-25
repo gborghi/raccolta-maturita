@@ -5,6 +5,8 @@ concept_id: method_studio_funzione
 tags:
   - graph/method
 ---
+<img class="concept-icon" src="../static/decor/Studio-di-funzione-completo.svg" alt="" loading="lazy" />
+
 
 *Metodo risolutivo* — **626** problemi/quesiti.
 
