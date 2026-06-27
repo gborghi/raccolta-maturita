@@ -418,7 +418,7 @@ I testi delle tracce provengono dalle prove ufficiali della seconda prova scritt
 title: Ricerca per più tag
 ---
 
-Seleziona uno o più tag per filtrare i ${prove.length} singoli problemi e quesiti. Usa l'interruttore **TUTTI / QUALSIASI** per richiedere tutti i tag (intersezione) o almeno uno (unione).
+Seleziona uno o più tag per filtrare i ${prove.length} singoli problemi e quesiti. Con **TUTTI** ogni problema/quesito deve avere *tutti* i tag scelti. Con **uno per gruppo** vale la logica a faccette: all'interno dello stesso gruppo (es. più anni) basta *uno* dei tag (OR), ma i diversi gruppi (anno, argomento, metodo…) si combinano in **AND**.
 
 <div id="cerca"></div>
 `

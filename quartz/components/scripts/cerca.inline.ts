@@ -114,7 +114,15 @@ async function init() {
       return String(p[facet.key]) === val
     }
     const tokens = [...selected]
-    return mode === "AND" ? tokens.every(test) : tokens.some(test)
+    if (mode === "AND") return tokens.every(test)
+    // QUALSIASI = faceted: OR within the same tag group, AND across different
+    // groups, i.e. (anno: a|b) AND (argomento: x|y) AND …
+    const byGroup = new Map<string, string[]>()
+    for (const t of tokens) {
+      const key = t.split("::")[0]
+      ;(byGroup.get(key) ?? byGroup.set(key, []).get(key)!).push(t)
+    }
+    return [...byGroup.values()].every((group) => group.some(test))
   }
 
   const controls = document.createElement("div")
@@ -166,7 +174,10 @@ async function init() {
   const toggle = document.createElement("button")
   toggle.className = "cerca-toggle"
   function syncToggle() {
-    toggle.textContent = mode === "AND" ? "Corrispondenza: TUTTI i tag" : "Corrispondenza: QUALSIASI tag"
+    toggle.textContent =
+      mode === "AND"
+        ? "Corrispondenza: TUTTI i tag"
+        : "Corrispondenza: uno per gruppo (OR nel gruppo, AND tra gruppi)"
   }
   toggle.addEventListener("click", () => {
     mode = mode === "AND" ? "OR" : "AND"
