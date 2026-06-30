@@ -280,6 +280,17 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     window.addEventListener('resize', __setNavH);
     document.addEventListener('nav', __setNavH);
   `)
+  // i18n tweak without forking the shared graph plugin: rename the panel title
+  // "Vista grafico" -> "Vista grafo" in the DOM on every SPA navigation.
+  componentResources.afterDOMLoaded.push(`
+    function __renameGrafo(){
+      document.querySelectorAll('h3').forEach(function(h){
+        if (h.textContent.trim() === 'Vista grafico') h.textContent = 'Vista grafo';
+      });
+    }
+    __renameGrafo();
+    document.addEventListener('nav', __renameGrafo);
+  `)
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)

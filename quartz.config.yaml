@@ -161,13 +161,18 @@ plugins:
     options: {}
     order: 50
   # ── layout components ──
-  - source: github:quartz-community/explorer
+  # fork: hides the "Svolgimenti" folder in the sidebar (in addition to "tags")
+  - source: github:gborghi/explorer
     enabled: true
     layout:
       position: left
       priority: 50
-  - source: github:quartz-community/graph
+  # fork: on-demand local graph + maxNodes cap so hub pages don't freeze low-RAM devices
+  - source: github:gborghi/graph
     enabled: true
+    options:
+      localGraph:
+        maxNodes: 220
     layout:
       position: right
       priority: 10

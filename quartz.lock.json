@@ -110,9 +110,9 @@
       "installedAt": "2026-06-30T13:18:29.504Z"
     },
     "explorer": {
-      "source": "github:quartz-community/explorer",
-      "resolved": "https://github.com/quartz-community/explorer.git",
-      "commit": "a2dfd1373abe58ace461ebea0b4e94cb287f894e",
+      "source": "github:gborghi/explorer",
+      "resolved": "https://github.com/gborghi/explorer.git",
+      "commit": "2437c0efce21b925ab571100c9de2282a1874e3c",
       "installedAt": "2026-06-30T13:18:40.116Z"
     },
     "favicon": {
@@ -140,9 +140,9 @@
       "installedAt": "2026-06-30T13:18:18.643Z"
     },
     "graph": {
-      "source": "github:quartz-community/graph",
-      "resolved": "https://github.com/quartz-community/graph.git",
-      "commit": "46f0ba1c3c0cc484697572e7bcf315fa384d80d2",
+      "source": "github:gborghi/graph",
+      "resolved": "https://github.com/gborghi/graph.git",
+      "commit": "96ad9ce54ce94326051303b4d2124566e45a4965",
       "installedAt": "2026-06-30T13:18:41.044Z"
     },
     "hard-line-breaks": {
