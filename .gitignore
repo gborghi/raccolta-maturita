@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+# Quartz 5: community plugins are restored from quartz.lock.json, not committed
+.quartz/
+private/
+.replit
+replit.nix
+# Exam PDFs (487MB) live on Google Drive, not in the repo — see pdf_drive_map.json.
+quartz/static/pdf/
+*.log

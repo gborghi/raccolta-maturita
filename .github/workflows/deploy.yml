@@ -26,8 +26,16 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: npm ci
+      - name: Restore community plugins
+        # Quartz 5 plugins live in github:quartz-community/* repos, pinned in
+        # quartz.lock.json. `restore` clones them, builds each (tsup) and
+        # generates .quartz/plugins/index.ts. `npx quartz build` does NOT run the
+        # `prebuild` npm hook, so this must be an explicit step.
+        run: npx quartz plugin restore
       - name: Build Quartz
         run: npx quartz build
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192
       - name: Password-protect SimZan (copyrighted) pages
         run: node protect_simzan.mjs
         env:

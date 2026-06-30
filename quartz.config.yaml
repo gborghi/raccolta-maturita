@@ -1,0 +1,273 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+# Maturità Scientifica — Raccolta Prove (migrated from Quartz v4.5.2 config.ts)
+configuration:
+  pageTitle: "Maturità Scientifica — Raccolta Prove"
+  pageTitleSuffix: ""
+  enableSPA: true
+  enablePopovers: true
+  analytics: null
+  locale: it-IT
+  baseUrl: gborghi.github.io/raccolta-maturita
+  ignorePatterns:
+    - private
+    - templates
+    - .obsidian
+    - tmp_imgs
+  defaultDateType: modified
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Lora
+      body: Nunito Sans
+      code: IBM Plex Mono
+    colors:
+      lightMode:
+        light: "#fffaf3"
+        lightgray: "#f0e2d0"
+        gray: "#9c8466"
+        darkgray: "#3a322a"
+        dark: "#2a1a0f"
+        secondary: "#e8821e"
+        tertiary: "#3a6ea5"
+        highlight: rgba(232, 130, 30, 0.10)
+        textHighlight: "#ffd27a99"
+      darkMode:
+        light: "#1c160f"
+        lightgray: "#34291c"
+        gray: "#b09a7e"
+        darkgray: "#e8dccb"
+        dark: "#fbf3e6"
+        secondary: "#f0a04b"
+        tertiary: "#7fa8d4"
+        highlight: rgba(240, 160, 75, 0.14)
+        textHighlight: "#ffd27a55"
+plugins:
+  # ── transformers ──
+  - source: github:quartz-community/created-modified-date
+    enabled: true
+    options:
+      priority:
+        - frontmatter
+        - git
+        - filesystem
+    order: 10
+  - source: github:quartz-community/syntax-highlighting
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: github:quartz-community/obsidian-flavored-markdown
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+    order: 30
+  - source: github:quartz-community/github-flavored-markdown
+    enabled: true
+    order: 40
+  - source: github:quartz-community/table-of-contents
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 20
+      display: desktop-only
+  - source: github:quartz-community/crawl-links
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
+  - source: github:quartz-community/description
+    enabled: true
+    order: 70
+  - source: github:quartz-community/latex
+    enabled: true
+    options:
+      renderEngine: katex
+      # custom macros used by the maturità-book solutions (\R \N \Z \de \wideparen)
+      katexOptions:
+        macros:
+          "\\R": "\\mathbb{R}"
+          "\\N": "\\mathbb{N}"
+          "\\Z": "\\mathbb{Z}"
+          "\\de": "\\,\\mathrm{d}"
+          "\\wideparen": "\\overset{\\frown}{#1}"
+    order: 80
+  - source: github:quartz-community/citations
+    enabled: false
+    order: 85
+  - source: github:quartz-community/hard-line-breaks
+    enabled: false
+    order: 90
+  - source: github:quartz-community/ox-hugo
+    enabled: false
+    order: 91
+  - source: github:quartz-community/roam
+    enabled: false
+    order: 92
+  # frontmatter PARSER (NOT just a view) — must stay enabled; hide the visible table
+  - source: github:quartz-community/note-properties
+    enabled: true
+    options:
+      includeAll: false
+      includedProperties:
+        - description
+        - tags
+        - aliases
+      excludedProperties: []
+      hidePropertiesView: true
+      delimiters: ---
+      language: yaml
+    order: 5
+    layout:
+      position: beforeBody
+      priority: 15
+      display: all
+  # ── filters ──
+  - source: github:quartz-community/remove-draft
+    enabled: true
+  - source: github:quartz-community/explicit-publish
+    enabled: false
+  # ── emitters ──
+  - source: github:quartz-community/alias-redirects
+    enabled: true
+  - source: github:quartz-community/content-index
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
+  - source: github:quartz-community/favicon
+    enabled: true
+  # OG images omitted (as in v4) to keep the large build fast — Head.tsx patched to tolerate
+  - source: github:quartz-community/og-image
+    enabled: false
+  # keep CNAME enabled to preserve the deploy address
+  - source: github:quartz-community/cname
+    enabled: true
+  - source: github:quartz-community/canvas-page
+    enabled: true
+  - source: github:quartz-community/content-page
+    enabled: true
+  - source: github:quartz-community/folder-page
+    enabled: true
+  - source: github:quartz-community/tag-page
+    enabled: true
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options: {}
+    order: 50
+  # ── layout components ──
+  - source: github:quartz-community/explorer
+    enabled: true
+    layout:
+      position: left
+      priority: 50
+  - source: github:quartz-community/graph
+    enabled: true
+    layout:
+      position: right
+      priority: 10
+  - source: github:quartz-community/search
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: github:quartz-community/backlinks
+    enabled: true
+    layout:
+      position: right
+      priority: 30
+  - source: github:quartz-community/article-title
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+  - source: github:quartz-community/content-meta
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: github:quartz-community/tag-list
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
+  # sidebar PageTitle removed — the body-level navbar carries the brand
+  - source: github:quartz-community/page-title
+    enabled: false
+  - source: github:quartz-community/darkmode
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+  - source: github:quartz-community/reader-mode
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+  - source: github:quartz-community/breadcrumbs
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+  - source: github:quartz-community/comments
+    enabled: false
+  - source: github:quartz-community/footer
+    enabled: true
+    options:
+      links:
+        GitHub: https://github.com/gborghi/raccolta-maturita
+        Generato con Quartz: https://quartz.jzhao.xyz/
+  - source: github:quartz-community/recent-notes
+    enabled: false
+  - source: github:quartz-community/spacer
+    enabled: true
+    options: {}
+    order: 25
+    layout:
+      position: left
+      priority: 25
+      display: mobile-only
+  # custom client-side SimZan gate is kept (post-build protect_simzan.mjs); disable native
+  - source: github:quartz-community/encrypted-pages
+    enabled: false
+  # disable stacked-pages to match v4 single-page navigation
+  - source: github:quartz-community/stacked-pages
+    enabled: false
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content: {}
+    folder:
+      exclude:
+        - reader-mode
+        - tag-list
+      positions:
+        right: []
+    tag:
+      exclude:
+        - reader-mode
+        - tag-list
+      positions:
+        right: []
+    canvas: {}
+    bases: {}

@@ -5,10 +5,18 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// ── maturità custom client scripts (each self-registers on the "nav" event) ──
+// @ts-ignore
+import cercaScript from "../../components/scripts/cerca.inline"
+// @ts-ignore
+import pagedListScript from "../../components/scripts/pagedList.inline"
+// @ts-ignore
+import simzanGateScript from "../../components/scripts/simzanGate.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
+import { componentRegistry } from "../../components/registry"
 import {
   googleFontHref,
   googleFontSubsetHref,
@@ -27,11 +35,16 @@ type ComponentResources = {
 
 function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
+
   for (const emitter of ctx.cfg.plugins.emitters) {
     const components = emitter.getQuartzComponents?.(ctx) ?? []
     for (const component of components) {
       allComponents.add(component)
     }
+  }
+
+  for (const component of componentRegistry.getAllComponents()) {
+    allComponents.add(component)
   }
 
   const componentResources = {
@@ -241,7 +254,32 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       vercelInsightsScript.defer = true
       document.head.appendChild(vercelInsightsScript)
     `)
+  } else if (cfg.analytics?.provider === "rybbit") {
+    componentResources.afterDOMLoaded.push(`
+      const rybbitScript = document.createElement("script");
+      rybbitScript.src = "${cfg.analytics.host ?? "https://app.rybbit.io"}/api/script.js";
+      rybbitScript.setAttribute("data-site-id", "${cfg.analytics.siteId}");
+      rybbitScript.async = true;
+      rybbitScript.defer = true;
+
+      document.head.appendChild(rybbitScript);
+    `)
   }
+
+  // ── maturità custom scripts: push BEFORE the SPA router so their "nav"
+  // listeners are registered before the first "nav" dispatch ──
+  componentResources.afterDOMLoaded.push(cercaScript, pagedListScript, simzanGateScript)
+  // Body-level masthead height varies with viewport width (links wrap); measure
+  // it and publish --navbar-h so the sticky side rails offset correctly.
+  componentResources.afterDOMLoaded.push(`
+    function __setNavH(){
+      var n = document.querySelector('.navbar');
+      if (n) document.documentElement.style.setProperty('--navbar-h', n.offsetHeight + 'px');
+    }
+    __setNavH();
+    window.addEventListener('resize', __setNavH);
+    document.addEventListener('nav', __setNavH);
+  `)
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)
