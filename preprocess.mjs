@@ -394,23 +394,78 @@ async function main() {
   // hidden keyword shadow-index (never displayed; powers the "Contenuto" search mode)
   await fs.writeFile(path.join(path.dirname(STATIC_JSON), "keywords.json"), JSON.stringify(fulltext))
 
+  // ── stats + tallies for the home hero (computed from the real indexed data) ──
+  const fmt = (n) => n.toLocaleString("it-IT")
+  const nProblemi = prove.filter((p) => p.tipo === "problema").length
+  const nQuesiti = prove.filter((p) => p.tipo === "quesito").length
+  const nProveIntere = files.filter((r) => r.endsWith(".md") && r.split(path.sep)[0] === "Prove").length
+  const nClusters = files.filter((r) => r.endsWith(".md") && r.split(path.sep)[0] === "Clusters" && path.basename(r) !== "_index.md").length
+  const nTopics = files.filter((r) => r.endsWith(".md") && r.split(path.sep)[0] === "Topics").length
+  const nMethods = files.filter((r) => r.endsWith(".md") && r.split(path.sep)[0] === "Methods").length
+  const nSkills = files.filter((r) => r.endsWith(".md") && r.split(path.sep)[0] === "Skills").length
+  const nFtypes = files.filter((r) => r.endsWith(".md") && r.split(path.sep)[0] === "Tipi-funzione").length
+  const years = new Set(prove.map((p) => p.anno).filter(Boolean))
+  const clusterTally = {}
+  for (const p of prove) if (p.cluster) clusterTally[p.cluster] = (clusterTally[p.cluster] || 0) + 1
+  // primary clusters shown as cards: [display, description, icon-svg-inner]
+  const CLUSTERS = [
+    ["Studio di Funzione", "Limiti, asintoti, grafici, esponenziali e logaritmi", `<path d="M3 20c4-14 14 6 18-8"/>`],
+    ["Geometria", "Euclidea, analitica e nello spazio", `<path d="M4 20 12 4l8 16z"/>`],
+    ["Derivate, Massimi e Minimi", "Ottimizzazione e teoremi del calcolo", `<path d="M3 12h4l3-7 4 14 3-7h4"/>`],
+    ["Calcolo Integrale e Aree", "Integrali, aree e volumi di rotazione", `<path d="M4 4c6 0 6 16 12 16"/><path d="M4 20h16"/>`],
+    ["Probabilità e Combinatoria", "Probabilità classica, condizionata, Bayes", `<circle cx="7" cy="7" r="3"/><circle cx="17" cy="17" r="3"/><path d="M14 7h6M4 17h6"/>`],
+    ["Successioni, Serie ed Eq. Differenziali", "Ricorrenze, serie ed equazioni differenziali", `<path d="M4 18c3 0 3-10 6-10s3 6 6 6 3-4 4-4"/>`],
+  ]
+  const cIcon = (inner) => `<span class="mh-cico"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="#FF6D00" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">${inner}</svg></span>`
+  const clusterCards = CLUSTERS.map(([name, desc, icon]) => {
+    const n = clusterTally[name]
+    return `<a class="mh-ccard" href="${sluggify("Clusters/" + name)}">${cIcon(icon)}<span class="mh-cname">${name}<span class="mh-cdesc">${desc}</span></span>${n ? `<span class="mh-cn">${fmt(n)}</span>` : ""}</a>`
+  }).join("\n")
+
   const home = `---
 title: Maturità Scientifica — Raccolta Prove
 ---
 
-Archivio delle prove scritte di **Matematica** della Maturità (Liceo Scientifico) — sessioni ordinarie, suppletive, straordinarie, PNI, estero e simulazioni — dal 1875 a oggi, con testo in LaTeX, **svolgimento** e classificazione per **argomento**, **metodo risolutivo**, **competenza** e **tipo di funzione**.
+<section class="mh-hero">
+  <div class="mh-badge">Liceo Scientifico · seconda prova di Matematica · dal 1875</div>
+  <h1 class="mh-title">Ogni prova di Maturità, con testo, <em>svolgimento</em> e classificazione</h1>
+  <p class="mh-lead">Archivio delle prove scritte di Matematica — sessioni ordinarie, suppletive, straordinarie, PNI, estero e simulazioni — con testo in LaTeX e classificazione per argomento, metodo risolutivo, competenza e tipo di funzione.</p>
+  <a class="mh-cta" href="cerca"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="#FF6D00" stroke-width="2.2" stroke-linecap="round"><circle cx="8.5" cy="8.5" r="6"/><path d="m18 18-4.5-4.5"/></svg><span>Prova «1982», «integrali», «geometria»…</span><b>Cerca</b></a>
+  <div class="mh-chips"><span>Popolari:</span><a class="mh-chip" href="${sluggify("Clusters/Studio di Funzione")}">Studio di funzione</a><a class="mh-chip" href="cerca">Integrali</a><a class="mh-chip" href="cerca">Ricerca per più tag →</a></div>
+</section>
 
-## Esplora
+<div class="mh-stats">
+  <div class="mh-stat"><b>${fmt(prove.length)}</b><span>Problemi &amp; quesiti</span></div>
+  <div class="mh-stat"><b>${fmt(nProveIntere)}</b><span>Prove intere</span></div>
+  <div class="mh-stat"><b>${years.size}</b><span>Anni · 1875–2025</span></div>
+  <div class="mh-stat"><b>${nClusters}</b><span>Cluster tematici</span></div>
+</div>
 
-- **Cluster** (aree tematiche): [[Clusters/Studio di Funzione|Studio di Funzione]] · [[Clusters/Geometria|Geometria]] · [[Clusters/Derivate, Massimi e Minimi|Derivate, Massimi e Minimi]] · [[Clusters/Calcolo Integrale e Aree|Calcolo Integrale e Aree]] · [[Clusters/Probabilità e Combinatoria|Probabilità e Combinatoria]] · [[Clusters/Successioni, Serie ed Eq. Differenziali|Successioni, Serie ed Eq. Differenziali]] — cartella *Clusters*
-- **Argomenti**: cartella *Topics* · **Metodi risolutivi**: cartella *Methods* · **Competenze**: cartella *Skills* · **Tipi di funzione**: cartella *Tipi-funzione*
-- **Prove intere**: cartella *Prove* · **Singoli problemi**: cartella *Problemi* · **Singoli quesiti**: cartella *Quesiti* · **Soluzioni**: cartella *Soluzioni* (svolgimenti in LaTeX)
+<h2 class="mh-h2">Esplora</h2>
+<p class="mh-sub">Naviga per aree tematiche, oppure per argomento, metodo risolutivo e competenza.</p>
 
-Usa la **[ricerca per più tag](cerca)** per filtrare i ${prove.length} singoli problemi e quesiti combinando tipo, anno, area, cluster, argomento, metodo, competenza e tipo di funzione. In alternativa: ricerca testuale (in alto) o il **grafo** della conoscenza. Ogni elenco nelle pagine-concetto è navigabile via wikilink.
+<div class="mh-cluster">
+${clusterCards}
+</div>
 
-## Fonti e crediti
+<div class="mh-quick">
+  <a class="mh-qcard" href="Topics"><span><b>Argomenti</b><span>${nTopics} argomenti</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="Methods"><span><b>Metodi</b><span>${nMethods} metodi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="Skills"><span><b>Competenze</b><span>${nSkills} competenze</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="Tipi-funzione"><span><b>Tipi di funzione</b><span>${nFtypes} tipi</span></span><span class="mh-arrow">→</span></a>
+</div>
 
-I testi delle tracce provengono dalle prove ufficiali della seconda prova scritta di Matematica dell'Esame di Stato. Per le sessioni **dal 1999 in poi** si è attinto ai fascicoli ministeriali; **tutte le tracce anteriori al 1999** — fino alle prime maturità di fine Ottocento — si trovano oggi raccolte **soltanto** nel volume *Matematica alla Maturità* di **[Luciano Battaia](https://www.batmath.it)** ed **Enrico Suppa**, che ricostruisce cronologicamente l'intero corpus dei temi assegnati dal 1871 in avanti. È un lavoro di ricerca storica e archivistica senza il quale questo archivio non sarebbe stato possibile: agli autori va un sentito ringraziamento.
+<div class="mh-quick">
+  <a class="mh-qcard" href="Prove"><span><b>Prove</b><span>${fmt(nProveIntere)} temi interi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="Problemi"><span><b>Problemi</b><span>${fmt(nProblemi)} singoli</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="Quesiti"><span><b>Quesiti</b><span>${fmt(nQuesiti)} singoli</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard accent" href="cerca"><span><b>Cerca per tag</b><span>Ricerca a faccette</span></span><span class="mh-arrow">→</span></a>
+</div>
+
+<div class="mh-fonti">
+  <h3>Fonti e crediti</h3>
+  <p>I testi delle tracce provengono dalle prove ufficiali della seconda prova scritta di Matematica dell'Esame di Stato. Per le sessioni <strong>dal 1999 in poi</strong> si è attinto ai fascicoli ministeriali; <strong>tutte le tracce anteriori al 1999</strong> — fino alle prime maturità di fine Ottocento — si trovano oggi raccolte <strong>soltanto</strong> nel volume <em>Matematica alla Maturità</em> di <a href="https://www.batmath.it">Luciano Battaia</a> ed Enrico Suppa, che ricostruisce cronologicamente l'intero corpus dei temi assegnati dal 1871 in avanti. Agli autori va un sentito ringraziamento.</p>
+</div>
 `
   await fs.writeFile(path.join(CONTENT, "index.md"), home)
 

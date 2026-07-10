@@ -269,16 +269,53 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   // ── maturità custom scripts: push BEFORE the SPA router so their "nav"
   // listeners are registered before the first "nav" dispatch ──
   componentResources.afterDOMLoaded.push(cercaScript, pagedListScript, simzanGateScript)
-  // Body-level masthead height varies with viewport width (links wrap); measure
-  // it and publish --navbar-h so the sticky side rails offset correctly.
+  // App-shell chrome driver: publish --navbar-h (topbar+subnav) so the sticky
+  // side rails offset correctly, drive the horizontal sub-nav scroll arrows/fades,
+  // and mark the active rail + sub-nav link for the current section.
   componentResources.afterDOMLoaded.push(`
     function __setNavH(){
-      var n = document.querySelector('.navbar');
-      if (n) document.documentElement.style.setProperty('--navbar-h', n.offsetHeight + 'px');
+      var t = document.querySelector('.m-topbar'), s = document.querySelector('.m-subnav');
+      var h = (t ? t.offsetHeight : 0) + (s ? s.offsetHeight : 0);
+      if (h) document.documentElement.style.setProperty('--navbar-h', h + 'px');
     }
-    __setNavH();
-    window.addEventListener('resize', __setNavH);
-    document.addEventListener('nav', __setNavH);
+    function __subnavUpd(){
+      var sc = document.querySelector('[data-subnav-scroll]');
+      if (!sc) return;
+      var can = sc.scrollWidth > sc.clientWidth + 2;
+      var l = can && sc.scrollLeft > 2;
+      var r = can && sc.scrollLeft < sc.scrollWidth - sc.clientWidth - 2;
+      var set = function(sel, on){ document.querySelectorAll(sel).forEach(function(e){
+        e.style.opacity = on ? '1' : '0'; e.style.pointerEvents = on ? 'auto' : 'none'; }); };
+      set('[data-arrow="l"],[data-fade="l"]', l);
+      set('[data-arrow="r"],[data-fade="r"]', r);
+    }
+    function __subnavInit(){
+      var sc = document.querySelector('[data-subnav-scroll]');
+      if (!sc || sc.__init) return; sc.__init = true;
+      sc.addEventListener('scroll', __subnavUpd);
+      document.querySelectorAll('[data-arrow]').forEach(function(b){
+        b.addEventListener('click', function(){
+          sc.scrollBy({ left: (b.getAttribute('data-arrow')==='l'?-1:1)*260, behavior:'smooth' });
+        });
+      });
+      setTimeout(__subnavUpd, 60);
+    }
+    function __markActive(){
+      // basepath-relative slug of the current page (drop the GH-Pages project prefix)
+      var bp = (document.body && document.body.dataset.basepath) || '';
+      var path = location.pathname;
+      if (bp && path.indexOf(bp) === 0) path = path.slice(bp.length);
+      var seg = path.replace(/^\\/+/, '').split('/')[0].replace(/\\.html$/, '');
+      document.querySelectorAll('[data-nav-slug]').forEach(function(a){
+        var slug = a.getAttribute('data-nav-slug');
+        var on = slug === '' ? (seg === '' || seg === 'index') : (seg.toLowerCase() === slug.toLowerCase());
+        a.classList.toggle('active', on);
+      });
+    }
+    function __chrome(){ __setNavH(); __subnavInit(); __subnavUpd(); __markActive(); }
+    __chrome();
+    window.addEventListener('resize', function(){ __setNavH(); __subnavUpd(); });
+    document.addEventListener('nav', __chrome);
   `)
   // i18n tweak without forking the shared graph plugin: rename the panel title
   // "Vista grafico" -> "Vista grafo" in the DOM on every SPA navigation.
