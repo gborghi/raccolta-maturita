@@ -1,179 +1,100 @@
----
-title: 1999 Sperimentale — Problema 3 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_1999_sperimentale_1999_problema3_32_1
-of_item: prob_1999_sperimentale_1999_problema3_32_1
-prova_id: prova_1999_sperimentale_1999_problema3_32
-anno: '1999'
-pdf: Prova_Maturita_1999.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/1999
----
+
 
 **Problema:** [[Problemi/prob_1999_sperimentale_1999_problema3_32_1|1999 Sperimentale — Problema 3 — Problema 1]] · **Prova:** [[Prove/1999_sperimentale_1999_problema3_32|1999 Sperimentale — Problema 3]]
 
-________________________________________________________________________________
+Nel piano cartesiano $Oxy$ i punti $P(x,y)$, $A(x',y')$, $B(x'',y'')$, $P'(X,Y)$ sono legati dalle relazioni
 
-Sperimentale 1999 - Problema $3$
+$$T_1:\begin{cases}x'=2x\\[2pt] y'=2y\end{cases}\qquad T_2:\begin{cases}x''=-y'\\[2pt] y''=x'\end{cases}\qquad T_3:\begin{cases}X=x''+2\\[2pt] Y=y''-1\end{cases}$$
 
-Sessione ordinaria - Indirizzo P.N.I. 1999
-Soluzione quesito $3$
-a)
-$T^{1}$ rappresenta un'omotetia di centro O e rapporto $2$
-$T^{2}$ rappresenta una rotazione di $90^\circ$ in senso antiorario intorno all'origine O
-$T^{3}$ rappresenta una traslazione di vettore $(2;-1)$
+Si chiede la natura di $T_1,T_2,T_3$, la trasformazione composta $T$ che porta $P$ in $P'$, il suo studio con gli elementi uniti e, considerati $C(3,0)$, $D(0,\sqrt{3})$, $E(0,-\sqrt{3})$, la circonferenza $\gamma$ per tali punti e la retta $a=CD$, l'area e il perimetro delle regioni finite delimitate dalle trasformate $\gamma'$ e $a'$.
 
-$b)$
-La trasformazione $T$ è la composizione delle tre trasformazioni date, ovvero
+## a) Natura di $T_1$, $T_2$, $T_3$
 
-le cui equazioni si ottengono come segue:
+- $T_1:\ x'=2x,\ y'=2y$ moltiplica ogni coordinata per $2$: è un'**omotetia di centro $O$ e rapporto $k=2$**.
+- $T_2:\ x''=-y',\ y''=x'$ è la matrice $\begin{pmatrix}0&-1\\ 1&0\end{pmatrix}$: è una **rotazione di $90^\circ$ in senso antiorario attorno a $O$**.
+- $T_3:\ X=x''+2,\ Y=y''-1$ somma il vettore costante $(2,-1)$: è una **traslazione di vettore $(2,\,-1)$**.
 
-La $T$ ha quindi equazioni
+## b) La trasformazione composta $T$
 
-$c)$
-$T$ rappresenta una similitudine diretta di rapporto $k=2;$ il rapporto tra le aree delle figure
-corrispondenti è $k^{2} = 4.$ Tale trasformazione è una particolare affinità che muta circonferenze in
+Componendo nell'ordine $T=T_3\circ T_2\circ T_1$:
 
-________________________________________________________________________________
+$$x'=2x,\ y'=2y\ \Rightarrow\ x''=-2y,\ y''=2x\ \Rightarrow\ X=-2y+2,\ Y=2x-1.$$
 
-Sperimentale 1999 - Problema $3$
+Dunque
 
-circonferenze; come tutte le affinità mantiene il parallelismo tra le rette; $k$ rappresenta il rapporto tra
-i segmenti corrispondenti, che è, appunto, costante.
-•
-Ricerca punti uniti:
-ponendo $X=x$ e $Y=y$ nelle equazioni della trasformazione si scopre, con semplici calcoli, il
-punto unito $(4/5;3/5)$
-•
-Ricerca rette unite:
-Data la retta generica di equazione
-$aX + bY + c = 0$ (a e $b$ non contemporaneamente nulli)
-La sua corrispondente in $T$ ha equazione
-$2b x -2a y +2a - b + c = 0$
-Le due rette coincidono se
-$a/2b = b/(-2a) = c/(2a - b +c)$
-La prima uguaglianza diventa
-$-2 a^{2} = 2 b^{2}$
-che è verificata solo per a e $b$ contemporaneamente nulli, situazione mai verificata.
-Non ci sono quindi rette unite.
+$$T:\begin{cases}X=-2y+2\\[2pt] Y=2x-1.\end{cases}$$
 
-$d)$
+## c) Studio di $T$ ed elementi uniti
 
-________________________________________________________________________________
+La parte lineare è $\begin{pmatrix}0&-2\\ 2&0\end{pmatrix}=2\begin{pmatrix}0&-1\\ 1&0\end{pmatrix}$, cioè $2$ per una rotazione di $90^\circ$. Il determinante vale $4>0$: $T$ è una **similitudine diretta di rapporto $k=2$** (composizione di omotetia di rapporto $2$, rotazione di $90^\circ$ e traslazione). Di conseguenza:
 
-Sperimentale 1999 - Problema $3$
+- il rapporto tra segmenti corrispondenti è costante e uguale a $2$;
+- il rapporto tra aree corrispondenti è $k^2=4$;
+- conserva il parallelismo tra rette e muta circonferenze in circonferenze.
 
-Risulta
-pertanto l'angolo DCO misura $30^\circ$ .
-Il triangolo CDE è pertanto equilatero. Essendo
-risulta $R=2.$
-N.B. Il centro della circonferenza circoscritta $ad$ un triangolo equilatero coincide con il baricentro,
-che nel nostro caso è il punto di coordinate $(1;0);$ ma, per rispondere al quesito, non serve
-l'equazione della circonferenza.
+**Punto unito.** Imponendo $X=x$ e $Y=y$:
 
-Per determinare le aree ed i perimetri richiesti è sufficiente trovarli nella figura di partenza e poi
-applicare le proprietà della similitudine (l'area si moltiplica per $4$ ed il perimetro per $2).$
-Detta $A^{1}$ l'area del segmento circolare più piccolo risulta:
-$3 A^{1} =$ area cerchio - area triangolo CDE =
+$$\begin{cases}x=-2y+2\\ y=2x-1\end{cases}\Rightarrow x=-2(2x-1)+2=-4x+4\Rightarrow 5x=4,$$
 
-quindi, indicata con $A'1$ la prima delle due aree richieste, si ha:
+da cui $x=\dfrac{4}{5}$, $y=2\cdot\dfrac{4}{5}-1=\dfrac{3}{5}$. L'unico punto unito è
 
-L'area del secondo segmento circolare si ottiene sottraendo all'area del cerchio l'area del primo
-segmento circolare:
+$$U\left(\tfrac{4}{5},\,\tfrac{3}{5}\right).$$
 
-e)
-Il perimetro della prima regione è uguale $ad$ un terzo della circonferenza più il lato del triangolo.
-Con notazioni analoghe a quelle del punto precedente si ha:
+Essendo una similitudine diretta con rapporto $\neq1$ e un solo punto fisso, $T$ è di fatto una **omotetia rotatoria** (similitudine spiraliforme) di centro $U$, angolo $90^\circ$ e rapporto $2$.
 
-Il perimetro della seconda regione è uguale a due terzi di circonferenza più il lato del triangolo:
+**Rette unite.** Sia $r:\ ax+by+c=0$ (con $a,b$ non entrambi nulli). Dalla $T$ si ricava l'inversa $x=\dfrac{Y+1}{2}$, $y=\dfrac{2-X}{2}$; sostituendo in $r$ si ottiene la retta immagine
 
-________________________________________________________________________________
+$$a\,\frac{Y+1}{2}+b\,\frac{2-X}{2}+c=0\ \Rightarrow\ -bX+aY+(a+2b+2c)=0.$$
 
-Sperimentale 1999 - Problema $3$
+La retta è unita se coincide con $r$, cioè se
 
-N.B.
-La circonferenza  ha centro $(1;0)$ e raggio $2;$ la sua equazione è:
-$x^{2} + y^{2} - 2x -3 = 0$
-La circonferenza trasformata si ottiene applicando alla precedente la trasformazione $T-1$ le cui
-equazioni sono:
+$$\frac{-b}{a}=\frac{a}{b}=\frac{a+2b+2c}{c}.$$
 
-Si ottiene:
-$X^{2} + Y^{2} - 4X - 2Y -11 = 0$
-La retta a ha equazione
+Dalla prima uguaglianza segue $-b^2=a^2$, ossia $a^2+b^2=0$, verificata solo per $a=b=0$: caso escluso. **Non esistono rette unite.**
 
-e la sua trasformata $a'$
+## d) Area delle regioni delimitate da $\gamma'$ e $a'$
 
-________________________________________________________________________________
-Sperimentale 1999
+**La configurazione di partenza.** I punti $D(0,\sqrt3)$ ed $E(0,-\sqrt3)$ sono simmetrici rispetto all'asse $x$, quindi il centro di $\gamma$ sta su tale asse: $(h,0)$ con $(3-h)^2=h^2+3\Rightarrow h=1$ e raggio $\sqrt{(3-1)^2}=2$. Dunque
 
-PROGETTO "BROCCA" - INDIRIZZO SCIENTIFICO
-CORSO SPERIMENTALE
-Tema di: MATEMATICA
-La prova consiste nello svolgimento di due soli quesiti, scelti tra quelli proposti.
-$1.$ In un piano riferito $ad$ un sistema di assi cartesiani ortogonali Oxy è data la parabola  di
-equazione:
+$$\gamma:\ x^2+y^2-2x-3=0,\qquad \text{centro }(1,0),\ R=2.$$
 
-Siano A un punto dell’asse $x$ di ascissa  , con  $>0, B$ il suo simmetrico rispetto $ad$ O, e A’ e B’ i
-punti della parabola le cui proiezioni ortogonali sull’asse $x$ sono rispettivamente A e $B.$
-Il candidato:
-a. verifichi che le tangenti a e $b$ alla parabola  , rispettivamente in A’ e B’, s’incontrano in un
-punto E dell’asse $y;$
-$b.$ detti $C$ e $D$ i rispettivi punti d'intersezione di a e $b$ con l’asse $x,$ esprima in funzione di 
-l’area $s$ del triangolo CED;
-$c.$ studi la funzione s( ) e tracci, in un piano riferito $ad$ un sistema di assi cartesiani ortogonali
-O’ $s,$ la curva $C$ di equazione $s =$ s( );
-$d.$ detto  $0$ il valore di  per cui $s$ assume valore minimo relativo, e detti $a^{0}$ e $b^{0}$ le posizioni di
-a e $b$ per detto valore, calcoli l’area della regione finita del semipiano di equazione
-compresa tra  , $a^{0}$ e $b^{0};$
-e. osservato che, nell'ipotesi posta di  $>1,$ esistono due valori  $1$ e  $2,$ con  $1< 2,$ per cui il
-triangolo CED è equivalente al quadrato di lato $OA,$ descriva una procedura che consenta di
-calcolare i valori approssimati di  $1$ con un’approssimazione di $10-n$ e la codifichi in un
-linguaggio di programmazione conosciuto.
-$2.$ In un piano  è assegnato il triangolo ABC, retto in $B,$ i cui cateti $AB$ e $BC$ misurano
-rispettivamente $4$ e $3.$
-Si conduca per il punto A la perpendicolare al piano  e sia $V$ un punto di questa per cui
-$VA=AB.$
-Il candidato:
-a. dimostri, geometricamente o algebricamente, che, come tutte le altre facce del tetraedro
-VABC, anche la faccia VBC è un triangolo rettangolo, il cui angolo retto è $V C;$
-$b.$ calcoli il volume e la superficie totale del tetraedro;
+I lati del triangolo $CDE$ misurano tutti $2\sqrt3$ (ad esempio $\overline{CD}=\sqrt{9+3}=2\sqrt3$): **$CDE$ è equilatero** inscritto in $\gamma$, quindi ogni lato sottende un arco di $120^\circ$.
 
-________________________________________________________________________________
-Sperimentale 1999
 
-$c.$ detto $M$ il punto medio di $VA$ e $P$ un punto dello stesso segmento a distanza $x$ da $V,$ esprima
-in funzione di $x$ il volume $v$ del tetraedro MPQR, essendo $Q$ ed $R$ le rispettive intersezioni
-degli spigoli $VB$ e $VC$ con il piano  parallelo $ad$  e passante per $P;$
-$d.$ studi come varia $v$ al variare di $P$ sul segmento $VA,$ determinando in particolare la posizione
-P̅ di $P$ in cui il volume $v$ assume valore massimo assoluto;
-e. detto $D$ il punto medio di $VB$ ed E il punto di $AC$ tale che $AE=AB,$ determini la posizione $P*$
-di $P$ che rende minima la somma $DP+PE$ (si consiglia di far ruotare il triangolo VAB attorno
-$ad AV$ fino a portarlo nel piano del triangolo VAE, simmetricamente a quest’ultimo, e
-considerare la somma $D’P+PE,$ essendo D’ il corrispondente di $D$ nella suddetta rotazione).
-$3.$ In un piano riferito $ad$ un sistema di assi cartesiani ortogonali Oxy sono dati i punti P(x,y),
-A(x’,y’), B(x",y"), P’(X,Y), legati dalle seguenti relazioni:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="225.695" height="215.027" viewBox="-72 -72 169.271 161.271"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 14.823H84.02"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M82.14 12.423c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-26.545" y="14.823" stroke="none" font-family="cmmi10" font-size="10" transform="translate(114.498 2.153)">x</text><path fill="none" d="M-26.545 88.8V-58.753"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-28.945-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-26.545" y="14.823" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -79.455)">y</text><path fill="none" stroke-width=".8" d="M58.813 14.823c0-31.428-25.477-56.905-56.906-56.905s-56.905 25.477-56.905 56.905S-29.521 71.73 1.907 71.73s56.906-25.477 56.906-56.906Zm-56.906 0"/><path fill="none" d="m58.813 14.823-85.358 49.28v-98.56"/><path fill="none" stroke-width="1.2" d="m58.813 14.823-85.358-49.28"/><path stroke="none" d="M60.813 14.823a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><text x="-26.545" y="14.823" stroke="none" font-family="cmmi10" font-size="10" transform="translate(88.891 -3.533)">C</text><path stroke="none" d="M-24.545-34.457a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><text x="-26.545" y="14.823" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-12.09 -52.813)">D</text><path stroke="none" d="M-24.545 64.103a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><text x="-26.545" y="14.823" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.491 59.646)">E</text><path stroke="none" d="M3.407 14.823a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><g stroke="none"><text x="-26.545" y="14.823" font-family="cmmi10" font-size="10" transform="translate(31.986 11.05)">O</text><text x="-18.64" y="11.194" font-family="cmsy7" font-size="7" transform="translate(31.986 11.05)">0</text></g><g stroke="none" font-size="10"><text x="-26.545" y="14.823" font-family="cmmi10" transform="translate(36.54 -27.882)">a</text><text x="-18.482" y="14.823" font-family="cmr10" transform="translate(36.54 -27.882)">=</text><text x="-7.926" y="14.823" font-family="cmmi10" transform="translate(36.54 -27.882)">C</text><text x="-.064" y="14.823" font-family="cmmi10" transform="translate(36.54 -27.882)">D</text></g></g></svg>
+</figure>
 
-Il candidato:
-a. dica la natura delle trasformazioni $Tl, T^{2}, T^{3},$ rappresentate rispettivamente dalle predette
-equazioni;
-$b.$ determini la trasformazione $T$ che $fa$ passare da $P$ a P’;
-$c.$ studi la trasformazione $T$ enunciandone le proprietà e determinandone, in particolare, gli
-eventuali elementi uniti;
-$d.$ considerati i punti $C(3,0), D(0,\sqrt{3}), E(0, -\sqrt{3}),$ e detti  la circonferenza per tali punti, a la
-retta $CD, \gamma$ ' ed a’ i trasformati di  ed a mediante $T,$ determini l'area delle regioni finite di
-piano delimitate da $\gamma$ ' ed a’;
-e. determini il perimetro delle stesse regioni.
+La corda $a=CD$ divide $\gamma$ in due segmenti circolari. Il triangolo equilatero suddivide il cerchio nel triangolo più tre segmenti congruenti (uno per lato); detta $A'$ l'area del segmento minore,
 
-_____________________________
-Durata massima della prova: $6$ ore.
-È consentito l’uso della calcolatrice scientifica non grafica.
-Non è consentito lasciare l'Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+$$3A'=\text{area cerchio}-\text{area }CDE=\pi\cdot2^2-\frac{\sqrt3}{4}(2\sqrt3)^2=4\pi-3\sqrt3,$$
+
+$$A'=\frac{4\pi-3\sqrt3}{3}\quad(\text{segmento minore}),\qquad 4\pi-A'=\frac{8\pi+3\sqrt3}{3}\quad(\text{segmento maggiore}).$$
+
+**Passaggio a $\gamma'$ e $a'$.** Poiché $T$ è una similitudine di rapporto $2$, le aree si moltiplicano per $k^2=4$:
+
+$$\boxed{\,\mathcal{A}_1=4\cdot\frac{4\pi-3\sqrt3}{3}=\frac{16\pi-12\sqrt3}{3}=\frac{16}{3}\pi-4\sqrt3\,}$$
+
+$$\boxed{\,\mathcal{A}_2=4\cdot\frac{8\pi+3\sqrt3}{3}=\frac{32\pi+12\sqrt3}{3}=\frac{32}{3}\pi+4\sqrt3\,}$$
+
+Verifica: $\mathcal{A}_1+\mathcal{A}_2=16\pi$, cioè l'area della circonferenza trasformata (di raggio $4$).
+
+*Nota.* Trasformando l'equazione di $\gamma$ con $x=\dfrac{Y+1}{2}$, $y=\dfrac{2-X}{2}$ si ottiene
+
+$$\gamma':\ X^2+Y^2-4X-2Y-11=0,\qquad \text{centro }(2,1),\ R'=4,$$
+
+coerente con il fattore di scala $2$.
+
+## e) Perimetro delle stesse regioni
+
+Nella figura di partenza il perimetro della regione minore è un terzo della circonferenza ($120^\circ$) più la corda, quello della regione maggiore due terzi di circonferenza più la corda:
+
+$$p'_{1}=\frac{1}{3}(2\pi\cdot2)+2\sqrt3=\frac{4\pi}{3}+2\sqrt3,\qquad p'_{2}=\frac{2}{3}(2\pi\cdot2)+2\sqrt3=\frac{8\pi}{3}+2\sqrt3.$$
+
+Le lunghezze si moltiplicano per $k=2$:
+
+$$\boxed{\,p_1=\frac{8}{3}\pi+4\sqrt3\,}\qquad\qquad \boxed{\,p_2=\frac{16}{3}\pi+4\sqrt3\,}$$
 
 *Fonte:* [📄 PDF p.32](https://drive.google.com/file/d/1H4y-UmLL3W2NEdsnB-vB95M7JHr2jVDs/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria
