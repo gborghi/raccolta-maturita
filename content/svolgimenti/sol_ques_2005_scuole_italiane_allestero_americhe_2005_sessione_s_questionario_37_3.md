@@ -1,84 +1,23 @@
----
-title: 2005 Americhe Suppletiva — Questionario — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_3
-of_item: ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_3
-prova_id: prova_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_3|2005 Americhe Suppletiva — Questionario — Quesito 3]] · **Prova:** [[Prove/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37|2005 Americhe Suppletiva — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2005
+Sia $S_n$ la somma di $n$ numeri in progressione aritmetica di primo termine $a_1=\dfrac{1}{2}$ e ragione $d=\dfrac{3}{2}$. Si calcoli
+$$\lim_{n\to\infty}\frac{S_n}{n^2}.$$
 
-QUESITO $3$
+La somma dei primi $n$ termini di una progressione aritmetica è
+$$S_n=\frac{(a_1+a_n)\,n}{2},$$
+dove $a_n$ è l'$n$-esimo termine. Detta $d$ la ragione, si ha
+$$a_n=a_1+(n-1)\,d=\frac{1}{2}+\frac{3}{2}(n-1).$$
 
-Sia $Sn$ la somma di $n$ numeri in progressione aritmetica di primo termine $1/2$ e ragione
-$3/2.$ Calcolare il seguente limite:
+Quindi
+$$a_1+a_n=\frac{1}{2}+\frac{1}{2}+\frac{3}{2}(n-1)=\frac{3}{2}\,n-\frac{1}{2},$$
+e di conseguenza
+$$S_n=\frac{(a_1+a_n)\,n}{2}=\frac{n}{2}\left(\frac{3}{2}\,n-\frac{1}{2}\right)=\frac{1}{4}\,n\,(3n-1)=\frac{3n^2-n}{4}.$$
 
-$$ lim $$
-$n\to \infty$
-$$ Sn $$
-$n^{2}$ .
-
-Ricordiamo che la somma dei primi $n$ termini di una progressione aritmetica è data da:
-
-$Sn=$
-$(a^{1} +$ an)n
-
-Inoltre, detta $d$ la ragione, si ha:
-
-$an= a^{1} + (n-1)d= 1$
-$$ 2 + 3 $$
-$2 (n-1)$
-
-Pertanto:
-
-$Sn=$
-$(a^{1} +$ an)n
-$$ 2 = 1 $$
-$2 n[1$
-$$ 2 + 1 2 + 3 $$
-$2 (n-1)] = 1$
-$2 n(3$
-$2 n-1$
-$$ 2) = 1 $$
-$4 n(3n-1)$
-
-Si quindi:
-$$ lim $$
-$n\to \infty$
-$$ Sn $$
-$n^{2} =$ lim
-$n\to \infty$
-$4 n(3n-1)$
-$$ n^{2 $$
-= lim
-$n\to \infty$
-$4 n^{2}$
-$n^{2} = 3$
-
-QUESITO $4$
-
-È vero o falso che il grafico della funzione ln(x $+ 2)^{2}$ coincide con quello della funzione
-$2ln(x + 2)$ ? Fornire una esauriente spiegazione della risposta.
-
-FALSO.
-
-Infatti risulta: ln(x $+ 2)^{2} = 2ln |x+ 2|,$ il cui grafico coincide con quello di $2ln(x + 2)$
-solo se $x> -2.$
-
-Indichiamo i grafici delle due funzioni (anche se non richiesti).
+Pertanto
+$$\lim_{n\to\infty}\frac{S_n}{n^2}=\lim_{n\to\infty}\frac{3n^2-n}{4n^2}=\lim_{n\to\infty}\frac{3-\dfrac{1}{n}}{4}=\frac{3}{4}.$$
 
 *Fonte:* [📄 PDF p.38](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

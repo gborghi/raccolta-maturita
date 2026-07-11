@@ -1,184 +1,82 @@
----
-title: 2000 Straordinaria — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2000_sessione_straordinaria_2000_problema2_26_1
-of_item: prob_2000_sessione_straordinaria_2000_problema2_26_1
-prova_id: prova_2000_sessione_straordinaria_2000_problema2_26
-anno: '2000'
-pdf: Prova_Maturita_2000.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2000
----
+
 
 **Problema:** [[Problemi/prob_2000_sessione_straordinaria_2000_problema2_26_1|2000 Straordinaria — Problema 2 — Problema 1]] · **Prova:** [[Prove/2000_sessione_straordinaria_2000_problema2_26|2000 Straordinaria — Problema 2]]
 
-Sessione straordinaria 2000 - Problema $2$
+È assegnato un tronco di cono il cui volume è doppio di quello di una sfera di raggio $r$. Si chiede di stabilire se il tronco può essere circoscritto alla sfera e, in caso affermativo, di esprimere i raggi delle basi in funzione di $r$; si generalizza poi ponendo uguale a $k$ il rapporto tra il volume del tronco e quello della sfera, discutendo il caso $k=\dfrac{3}{2}$.
 
-LICEO SCIENTIFICO STRAORDINARIA 2000 - PROBLEMA $2$
+## a)
 
-È assegnato un tronco di cono il cui volume è doppio di quello di una sfera di raggio $r.$
-Stabilire se tale tronco può essere circoscritto alla sfera e in caso affermativo esprimere i raggi
-delle basi del tronco in funzione del raggio $r$ della sfera.
-Generalizzare la questione ponendo uguale a $k$ il rapporto tra il volume del tronco di cono e
-quello della sfera; stabilire le condizioni di risolubilità del problema illustrando altresì il caso
-$k=$
-$$ 3 2. $$
+Se il tronco di cono è circoscritto alla sfera di raggio $r$, la sfera è tangente alle due basi, dunque l'altezza del tronco è
 
-a)
+$$h = 2r.$$
 
-Stabiliamo se il tronco di cono può essere circoscritto alla sfera e in caso affermativo
-esprimiamo i raggi delle basi del tronco in funzione del raggio $r$ della sfera.
+Consideriamo la sezione ottenuta con un piano contenente l'asse del cono: si ottiene il trapezio isoscele $ABCD$ circoscritto alla circonferenza (sezione della sfera), di centro $O$ e raggio $r$.
 
-Consideriamo la sezione ottenuta con un piano contenente l’altezza del cono ed i diametri
-delle due basi del cono $(AB$ e $CD).$
 
-Il tronco sarà circoscritto alla sfera se e solo se il quadrilatero ABCD è circoscritto alla
-circonferenza sezione della sfera col piano suddetto. Affinchè ciò avvenga la somma dei lati
-opposti $AB$ e $CD$ deve essere uguale alla somma dei lati opposti $BC$ e $AD$ e, per una nota
-proprietà, il triangolo BOC è rettangolo in O, quindi (per il secondo Teorema di Euclide) si
-ha: $r^{2} = BT∙CT= KB∙HC=$ AK∙DH.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="284.922" height="227.129" viewBox="-72 -72 213.692 170.347"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="#00f" stroke-width=".8" d="M91.188 13.246c0-31.429-25.477-56.906-56.905-56.906s-56.906 25.477-56.906 56.906S2.854 70.15 34.283 70.15s56.905-25.477 56.905-56.905Zm-56.905 0"/><path fill="none" stroke-width=".8" d="M-57.904 70.151h184.373L69.564-43.659H-1Z"/><path stroke="none" d="M35.283 13.246a1 1 0 1 0-2 0 1 1 0 0 0 2 0m-1 0"/><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 3.417)">O</text><path fill="none" stroke-dasharray="3.0,3.0" d="M34.283 70.151v-113.81"/><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-103.22 67.272)">A</text><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(95.72 67.272)">B</text><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(38.814 -60.438)">D</text><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-46.677 -60.438)">C</text><path stroke="none" d="M35.283 70.151a1 1 0 1 0-2 0 1 1 0 0 0 2 0m-1 0"/><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-4.604 67.272)">K</text><path stroke="none" d="M35.283-43.66a1 1 0 1 0-2 0 1 1 0 0 0 2 0m-1 0"/><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-4.562 -60.438)">H</text><text x="34.283" y="13.246" stroke="none" font-family="cmmi10" font-size="10" transform="translate(23.45 2.153)">r</text><path fill="none" d="M-57.504 84.377h183.573"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-55.624 86.777c-.38-1.44-1.227-2.12-2.08-2.4.853-.28 1.7-.96 2.08-2.4M124.19 81.977c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><g stroke="none" font-size="10"><text x="34.283" y="13.246" font-family="cmr10" transform="translate(-6.335 81.498)">2</text><text x="39.283" y="13.246" font-family="cmmi10" transform="translate(-6.335 81.498)">R</text></g><path fill="none" d="M-.599-57.886h69.763"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M1.281-55.486c-.38-1.44-1.226-2.12-2.08-2.4.854-.28 1.7-.96 2.08-2.4M67.284-60.286c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><g stroke="none"><text x="34.283" y="13.246" font-family="cmr10" font-size="10" transform="translate(-7.738 -74.665)">2</text><text x="39.283" y="13.246" font-family="cmmi10" font-size="10" transform="translate(-7.738 -74.665)">R</text><text x="46.953" y="9.617" font-family="cmsy7" font-size="7" transform="translate(-7.738 -74.665)">0</text></g></g></svg>
+</figure>
 
-Posto $AK= x,$ con $r\le x\le 2r$ abbiamo:
-$r^{2} = BT∙CT= KB∙HC= AK∙DH=$ x∙DH,
-$DH= r^{2}$
-$x$ (∗)
+Detti $R$ ed $R'$ i raggi delle due basi (rispettivamente maggiore e minore), il triangolo $BOC$ è rettangolo in $O$; per il secondo Teorema di Euclide applicato all'altezza $OK$ relativa all'ipotenusa si ha
 
-Il volume del tronco è il doppio del volume della sfera, quindi:
+$$r^2 = R\cdot R'.$$
 
-V(sfera) $= 4$
-$3 \pi r^{3};$ V(tronco) $= 1$
-$3 \pi (AK2 + DH2 +$ AK∙DH)HK
+Posto $R = x$, con $r \le x \le 2r$, risulta quindi
 
-Sessione straordinaria 2000 - Problema $2$
+$$R' = \frac{r^2}{x}.$$
 
-V(tronco)
-V(sfera) $= 2;$
-$3 \pi (AK2 + DH2 +$ AK∙DH)HK
-$3 \pi r^{3}$
-$(AK2 + DH2 +$ AK∙DH) $∙2r$
-$4r^{3}$
-$(AK2 + DH2 +$ AK∙DH)
-$2r^{2}$
-$x^{2} + r^{4}$
-$x^{2} + r^{2}$
-$2r^{2}$
-$= 2; x^{4} + r^{4} + r2x^{2} = 4 r2x^{2};$
+Il volume del tronco di cono, di altezza $h = 2r$, è
 
-$x^{4} -3r2x^{2} + r^{4} = 0 ; \Delta = 9r^{4} -4r^{4} = 5r^{4} ; x^{2} = 3r^{2} \pm r^{2}\sqrt{5}$
-$= r^{2}(3 \pm \sqrt{5})$
+$$V_{\text{tronco}} = \frac{\pi h}{3}\left(R^2 + R'^2 + R\,R'\right) = \frac{2\pi r}{3}\left(x^2 + \frac{r^4}{x^2} + r^2\right).$$
 
-Quindi: $x^{2} =$
-$r^{2}(3\pm \sqrt{5})$
-; $x= \pm \sqrt{r}^{2}(3\pm \sqrt{5})$
-, di cui è accettabile solo la soluzione positiva,
-essendo $x$ la misura di un segmento. Quindi la soluzione è:
+Il volume della sfera è $V_{\text{sfera}} = \dfrac{4}{3}\pi r^3$. La condizione $V_{\text{tronco}} = 2\,V_{\text{sfera}}$ diventa
 
-$x= \sqrt{r}^{2}(3 \pm \sqrt{5})$
-$= r$
-$$ \sqrt{2 $$
-$∙\sqrt{3 \pm \sqrt{5}}$
-Siccome $3 \pm \sqrt{5} > 0,$ abbiamo due soluzioni. Dobbiamo calcolare due radicali doppi,
-ricordando la formula:
+$$\frac{2\pi r}{3}\left(x^2 + \frac{r^4}{x^2} + r^2\right) = \frac{8}{3}\pi r^3,$$
 
-$\sqrt{a\pm \sqrt{b}} = \sqrt{a}+\sqrt{a}^{2}-b$
-$\pm \sqrt{a}-\sqrt{a}^{2}-b$
-. Notiamo che $a^{2} -b= 9 -5 = 4$ è un quadrato
-perfetto:
+da cui, dividendo e moltiplicando per $x^2$,
 
-$\sqrt{3 -\sqrt{5}} = \sqrt{3} + 2$
-$-\sqrt{3} -2$
-$$ 2 = \sqrt{5 $$
-$2 -\sqrt{1}$
-$$ 2 = \sqrt{5} \sqrt{2 $$
-$-1$
-$$ \sqrt{2} = \sqrt{10} 2 $$
-$-\sqrt{2}$
-$$ 2 = \sqrt{2 $$
-$2 (\sqrt{5} -1)$
+$$x^2 + \frac{r^4}{x^2} + r^2 = 4r^2 \quad\Rightarrow\quad x^4 - 3r^2 x^2 + r^4 = 0.$$
 
-$\sqrt{3 + \sqrt{5}} = \sqrt{3} + 2$
-$+ \sqrt{3} -2$
-$$ 2 = \sqrt{5} 2 + \sqrt{1} 2 = \sqrt{5} \sqrt{2} + 1 \sqrt{2} = \sqrt{10} 2 + \sqrt{2} 2 = \sqrt{2} 2 (\sqrt{5} + 1) $$
-Abbiamo quindi:
-$x= r$
-$$ \sqrt{2 $$
-$∙\sqrt{3 \pm \sqrt{5}} = r$
-$$ \sqrt{2 $$
-$∙\sqrt{2}$
-$2 (\sqrt{5} \pm 1) = r(\sqrt{5} \pm 1$
-Siccome $\sqrt{5}-1$
-$\cong 0.62$ e $\sqrt{5}-1$
-$\cong 1.62$ quindi:
-$x\cong 0.62 r$ oppure $x\cong 1.62 r$ ; tenendo conto della limitazione $r\le x\le 2r$ la soluzione
-accettabile è:
+Risolvendo rispetto a $x^2$:
 
-$x= r(\sqrt{5}+1$
+$$x^2 = \frac{3r^2 \pm r^2\sqrt{5}}{2} = r^2\cdot\frac{3\pm\sqrt{5}}{2}.$$
 
-Quindi: quando il tronco di cono è circoscrittibile alla sfera si ha:
+La soluzione con il segno meno dà $x = r\sqrt{\dfrac{3-\sqrt{5}}{2}} \approx 0{,}62\,r < r$, non accettabile perché deve essere $x \ge r$. Resta dunque
 
-Sessione straordinaria 2000 - Problema $2$
+$$x = r\sqrt{\frac{3+\sqrt{5}}{2}} = r\cdot\frac{\sqrt{5}+1}{2},$$
 
-raggio base maggiore $AK= x= r(\sqrt{5} + 1$
-raggio base minore $DH= r^{2}$
-$x=$
-$$ r^{2 $$
-$r \sqrt{5} + 1$
-$2r$
-$$ \sqrt{5} + 1 $$
-$= 2r(\sqrt{5} -1)$
-$5 -1$
-$= r(\sqrt{5} -1$
-) $= DH$
+che è la sezione aurea di $2r$. Il raggio della base minore è allora
 
-Ricordiamo che $(\sqrt{5}-1$
-$2 ) r$ è la sezione aurea di $r:$ quindi il tronco di cono avente volume
-doppio della sfera di raggio $r$ è circoscrittibile alla sfera se il raggio della base minore è
-uguale alla sezione aurea del raggio della sfera.
+$$R' = \frac{r^2}{x} = \frac{r^2}{\,r\cdot\frac{\sqrt{5}+1}{2}\,} = r\cdot\frac{2}{\sqrt{5}+1} = r\cdot\frac{\sqrt{5}-1}{2},$$
 
-$b)$
+cioè la sezione aurea di $r$. In sintesi, il tronco di volume doppio della sfera è circoscrittibile e ha
 
-Generalizziamo la questione ponendo uguale a $k$ il rapporto tra il volume del tronco di cono
-e quello della sfera; stabiliamo le condizioni di risolubilità del problema e illustriamo il
-caso $k=$
-$$ 3 2. $$
+$$R = r\cdot\frac{\sqrt{5}+1}{2} \approx 1{,}62\,r, \qquad R' = r\cdot\frac{\sqrt{5}-1}{2} \approx 0{,}62\,r, \qquad h = 2r.$$
 
-Ripetendo il ragionamento fatto precedente abbiamo:
-V(tronco)
-V(sfera) $= k;$
-$3 \pi (AK2 + DH2 +$ AK∙DH)HK
-$3 \pi r^{3}$
-$(AK2 + DH2 +$ AK∙DH) $∙2r$
-$4r^{3}$
-$(AK2+DH2+AK∙DH)$
-$2r^{2}$
-$x^{2}+r^{4}$
-$x^{2}+r^{2}$
-$2r^{2}$
-$= k ; x^{4} + r^{4} + r2x^{2} = 2kr2x^{2},$ da cui:
+## b)
 
-$x^{4} + r^{2}(1 -2k)x^{2} + r^{4} = 0; \Delta = r^{4}(1 -2k)2 -4r^{4} = r^{4}(4k^{2} -4k-3) \ge 0,$ da cui:
+Generalizziamo ponendo $V_{\text{tronco}} = k\,V_{\text{sfera}}$. Ripetendo il calcolo precedente si ottiene
 
-$4k^{2} -4k-3 \ge 0,$
-$k\le -1$
-$2$ vel $k\ge 3$
-Quindi il tronco di cono avente volume $k$ volte quello della sfera di raggio $r$ è circoscrittibile
-alla sfera se $k\ge$
-$$ 3 2 . $$
-Nel caso particolare in $k=$
-$2$ avremo: $x^{4} -2r2x^{2} + r^{4} = 0, (x^{2} -r^{2})^{2} = 0, x^{2} = r^{2},$
-$x= r:$
+$$x^2 + \frac{r^4}{x^2} + r^2 = 2k\,r^2 \quad\Rightarrow\quad x^4 + (1 - 2k)\,r^2 x^2 + r^4 = 0.$$
 
-quando $k=$
-$2$ il tronco circoscrittibile diventa il cilindro che ha il raggio di base uguale a
-quello della sfera.
+Il discriminante rispetto a $x^2$ è
 
-Con la collaborazione di Angela Santamaria
+$$\Delta = r^4(1-2k)^2 - 4r^4 = r^4\left(4k^2 - 4k - 3\right).$$
+
+La condizione di risolubilità $\Delta \ge 0$ equivale a $4k^2 - 4k - 3 \ge 0$, cioè
+
+$$k \le -\frac{1}{2} \quad\text{vel}\quad k \ge \frac{3}{2}.$$
+
+Poiché $k > 0$, il tronco di volume $k$ volte quello della sfera è circoscrittibile **se e solo se**
+
+$$k \ge \frac{3}{2}.$$
+
+Nel caso limite $k = \dfrac{3}{2}$ si ha $\Delta = 0$ e la soluzione è unica:
+
+$$x^4 - 2r^2 x^2 + r^4 = 0 \quad\Rightarrow\quad (x^2 - r^2)^2 = 0 \quad\Rightarrow\quad x = r.$$
+
+Allora $R = R' = r$: il tronco degenera nel **cilindro** di raggio di base $r$ e altezza $2r$ circoscritto alla sfera.
 
 *Fonte:* [📄 PDF p.26](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

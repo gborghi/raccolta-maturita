@@ -1,72 +1,41 @@
----
-title: 2006 Sessione Ordinaria — Prova (p.10) — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_sessione_ordinaria_2006_prova_10_7
-of_item: ques_2006_sessione_ordinaria_2006_prova_10_7
-prova_id: prova_2006_sessione_ordinaria_2006_prova_10
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_7|2006 Sessione Ordinaria — Prova (p.10) — Quesito 7]] · **Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_10|2006 Sessione Ordinaria — Prova (p.10)]]
 
-Scuole italiane all’estero (Americhe) 2006
+Si consideri il limite
 
-Tale funzione è definita nell’intervallo $J=[0; 3],$ è derivabile con derivata nulla in tutti i punti
-dell’intervallo escluso $a=2,$ ma non è chiaramente costante in $J.$
+$$\lim_{x\to 0^+}\left(1-\frac{x}{2}\right)^{\frac{1}{x}}.$$
 
-Se la funzione fosse stata continua in tutti i punti di $J,$ con derivata sempre nulla, allora
-(per un corollario del teorema di Lagrange) sarebbe stata costante su $J.$
+Esso è uguale a: [A] $e^{2}$; [B] $e^{-2}$; [C] $\sqrt{e}$; [D] $\dfrac{1}{\sqrt{e}}$, dove $e$ è il numero di Nepero. Individuare l'unica alternativa corretta e fornire una spiegazione esauriente.
 
-QUESITO $7$
+## Impostazione
 
-Si consideri il seguente limite:
-$$ lim $$
-$x\to 0+ (1 -x$
-$$ 2) 1 x $$
-Esso è uguale a:
-[A] $e^{2}$ ; [B]
-$e^{2}$ ; [C] $\sqrt{e}$ ; [D]
-$\sqrt{e}$ ,
+Ricordiamo il limite notevole
 
-dove “e” è il numero di Nepero. Una sola alternativa è corretta: individuarla e fornire una
-spiegazione esauriente della scelta operata.
+$$\lim_{t\to 0}\left(1+t\right)^{\frac{1}{t}}=e.$$
 
-Tenendo presente il limite notevole
+L'idea è ricondurre la base $1-\dfrac{x}{2}=1+\left(-\dfrac{x}{2}\right)$ alla forma $1+t$ con $t\to 0$, in modo da far comparire il fattore $\dfrac{1}{t}$ all'esponente.
 
-$$ lim $$
-$x\to 0(1 + x)$
-$x=$ e
+## Riscrittura dell'esponente
 
-abbiamo:
+Poniamo $t=-\dfrac{x}{2}$. Quando $x\to 0^+$ si ha $t\to 0^-$. Inoltre
 
-$$ lim $$
-$x\to 0+ (1 -x$
-$$ 2) 1 $$
-$x=$ lim
-$x\to 0+ (1 + -x$
-$-2$
-$x(-1$
-= lim
-$x\to 0+ [(1 + -x$
-$-2$
-x]
-$(-1$
-$= e-1$
-$$ 2 = 1 $$
-$\sqrt{e}$
+$$\frac{1}{x}=\frac{1}{x}\cdot\frac{-\dfrac{x}{2}}{-\dfrac{x}{2}}=\left(-\frac{1}{2}\right)\cdot\frac{1}{\left(-\dfrac{x}{2}\right)}=\left(-\frac{1}{2}\right)\cdot\frac{1}{t}.$$
 
-La risposta esatta è la [D ].
+Pertanto
 
-Con la collaborazione di Angela Santamaria
+$$\left(1-\frac{x}{2}\right)^{\frac{1}{x}}=\left(1+t\right)^{-\frac{1}{2}\cdot\frac{1}{t}}=\left[\left(1+t\right)^{\frac{1}{t}}\right]^{-\frac{1}{2}}.$$
+
+## Calcolo del limite
+
+Poiché la funzione $y\mapsto y^{-1/2}$ è continua per $y>0$, possiamo passare al limite nella base:
+
+$$\lim_{x\to 0^+}\left(1-\frac{x}{2}\right)^{\frac{1}{x}}=\left[\lim_{t\to 0^-}\left(1+t\right)^{\frac{1}{t}}\right]^{-\frac{1}{2}}=e^{-\frac{1}{2}}=\frac{1}{\sqrt{e}}.$$
+
+## Conclusione
+
+Il limite vale $\dfrac{1}{\sqrt{e}}=e^{-1/2}$: la risposta esatta è la **[D]**.
 
 *Fonte:* [📄 PDF p.24](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

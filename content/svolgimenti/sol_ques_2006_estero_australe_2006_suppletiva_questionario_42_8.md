@@ -1,173 +1,70 @@
----
-title: 2006 Australe Suppletiva — Questionario — Quesito 8 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_estero_australe_2006_suppletiva_questionario_42_8
-of_item: ques_2006_estero_australe_2006_suppletiva_questionario_42_8
-prova_id: prova_2006_estero_australe_2006_suppletiva_questionario_42
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_8|2006 Australe Suppletiva — Questionario — Quesito 8]] · **Prova:** [[Prove/2006_estero_australe_2006_suppletiva_questionario_42|2006 Australe Suppletiva — Questionario]]
 
-Estero (Australe) 2006
+La funzione $f(x)=a\sin x+bx$ è tale che $f\left(\dfrac{\pi}{6}\right)=1-\dfrac{\sqrt{3}}{6}\pi$ e presenta un massimo relativo nello stesso punto. Si trovino $a$ e $b$ e si dica se $f(x)$ è periodica.
 
-I valori positivi di $k$ per cui una o entrambe le radici sono reali sono: $k\ge 3.$
+## Impostazione delle condizioni
 
-QUESITO $8$
+Dalla condizione sul valore assunto in $x=\dfrac{\pi}{6}$:
 
-La funzione f(x) $= asenx+ bx$ è tale che $f($
-$\pi$
-$6) = 1 -\sqrt{3}$
-$\pi$
-$6$ e presenta un massimo
-relativo nello stesso punto. Si trovino a e $b$ e si dica se f(x) è periodica.
+$$f\left(\frac{\pi}{6}\right)=a\sin\frac{\pi}{6}+b\cdot\frac{\pi}{6}=\frac{a}{2}+\frac{b\pi}{6}=1-\frac{\sqrt{3}}{6}\pi.$$
 
-$f(\pi$
-$$ 6) = 1 $$
-$2 a+ b\pi$
-$6 = 1 -\sqrt{3} \pi$
-$6 , 3a+ b\pi = 6 -\sqrt{3}\pi$
+Moltiplicando per $6$ si ottiene la prima equazione:
 
-Si ha poi:
+$$3a+b\pi=6-\sqrt{3}\,\pi.$$
 
-f'(x) $= acosx+ b$ , f''(x) $= -asenx$
+La funzione è continua e derivabile su tutto $\mathbb{R}$; le sue derivate sono
 
-Essendo la funzione continua e derivabile quanto si vuole su tutto $R,$ affinché $x=$
-$\pi$
-$6$ sia
-punto di massimo relativo deve essere:
+$$f'(x)=a\cos x+b,\qquad f''(x)=-a\sin x.$$
 
-$f' (\pi$
-$6) = 0$ e f'' $(\pi$
-$6) < 0 : a\sqrt{3}$
-$2 + b= 0$ e $-1$
-$2 a< 0$
+Affinché $x=\dfrac{\pi}{6}$ sia punto di massimo relativo devono valere
 
-Deve quindi essere:
+$$f'\left(\frac{\pi}{6}\right)=0\quad\text{e}\quad f''\left(\frac{\pi}{6}\right)<0.$$
 
-$3a+ b\pi = 6 -\sqrt{3}\pi$
-$a\sqrt{3}$
-$2 + b= 0$
-$-1$
-$2 a< 0$
+La prima dà
 
-$3a-a\sqrt{3}$
-$2 \pi = 6 -\sqrt{3}\pi$
-$b= -a\sqrt{3}$
-$a> 0$
-$6a-a\sqrt{3}\pi = 12 -2\sqrt{3}\pi$
+$$a\cos\frac{\pi}{6}+b=\frac{\sqrt{3}}{2}\,a+b=0\ \Rightarrow\ b=-\frac{\sqrt{3}}{2}\,a,$$
 
-$a=$
-$12-2\sqrt{3}\pi$
-$6-\sqrt{3}\pi = 2$
-$b= -\sqrt{3}$
-$a> 0$
-: quindi i valori richiesti sono $a= 2$ e $b= -\sqrt{3}$
+mentre la seconda impone
 
-f(x) $= asenx+ bx$ non è mai periodica se $b$ è diverso da zero, quindi la nostra funzione
-non è periodica. Infatti, se $b$ non è nullo, non esisterà mai un numero reale positivo $T$ tale
-che f(x) $= f(x+ T)$ per ogni $x.$
+$$f''\left(\frac{\pi}{6}\right)=-a\sin\frac{\pi}{6}=-\frac{a}{2}<0\ \Rightarrow\ a>0.$$
 
-Con la collaborazione di Angela Santamaria
+## Determinazione di $a$ e $b$
 
-MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ E DELLA RICERCA
+Sostituendo $b=-\dfrac{\sqrt{3}}{2}\,a$ nella prima equazione:
 
-SCUOLE ITALIANE ALL’ESTERO
-ESAMI DI STATO DI LICEO SCIENTIFICO
-Sessione Ordinaria a.s. $2005/06$
+$$3a-\frac{\sqrt{3}}{2}\,a\,\pi=6-\sqrt{3}\,\pi.$$
 
-Tema di Matematica
+Moltiplicando per $2$:
 
-Il candidato risolva uno dei due problemi e $4$ quesiti del questionario.
+$$6a-\sqrt{3}\,a\,\pi=12-2\sqrt{3}\,\pi\ \Rightarrow\ a\left(6-\sqrt{3}\,\pi\right)=2\left(6-\sqrt{3}\,\pi\right).$$
 
-PROBLEMA $1$
-Siano  e  le curve d’equazioni rispettive
-$$ x e $$
-$y =$
-$$ e x e y $$
--
+Poiché $6-\sqrt{3}\,\pi\neq 0$, si ricava
 
-$1.$ Si disegnino  e ; si indichi con $P$ il loro punto comune e si indichino con A e
-$B$ le loro intersezioni rispettive con una retta di equazione $y=k (k>0).$
-$2.$ Se $k<1,$ si determini il rettangolo di area massima che ha i vertici in A, $B$ e
-nelle proiezioni di questi sull’asse $x.$
-$3.$ Se $k>1,$ si determini $k$ in modo che risulti uguale a $2$ l’area racchiusa tra la retta
-e i due archi $PA$ e $PB.$
-$4.$ si determini il volume del solido la cui base è la regione di area $2$ prima
-determinata e tale che le sue sezioni ottenute con piani perpendicolari all’asse $x$
-siano tutte rettangoli la cui altezza è $3$ volte la base.
+$$a=2,\qquad b=-\frac{\sqrt{3}}{2}\cdot 2=-\sqrt{3},$$
 
-PROBLEMA $2$
-Sia $T$ il tetraedro regolare di lato $1,20m.$
-$1.$ Si calcoli il volume, espresso come capacità in litri, di $T.$
-$1.$ Quanti piani paralleli alla base dividono $T$ in due parti i cui volumi sono nel
-rapporto $2:3?$ Quali sono le distanze di tali piani dal vertice di $T?$
-$2.$ Come deve condursi un piano  parallelo alla base affinchè il prisma le cui basi
-sono la sezione di $T$ con  e la sua proiezione ortogonale sulla base di $T,$ abbia
-volume massimo?
+valori compatibili con la condizione $a>0$. La funzione cercata è dunque
 
-QUESTIONARIO
-$1.$ Un foglio di carta deve contenere $80 cm2$ di stampa con margini superiore e
-inferiore di $3cm$ e margini laterali di $2cm.$ Quali sono le dimensioni del foglio
-di carta di area minima che si può utilizzare?
-$2.$ L’equazione risolvente un dato problema è:
-$$ 0 1 3 = + $$
-$-k$
-ksenx
-dove $k$ è un
-parametro reale e $x,$ per soddisfare le condizioni del problema, deve essere
-$^\circ$
-<
-<
-$^\circ$
-$$ 60 30 x $$
-. Si discuta per quali valori di $k$ le radici dell’equazione siano
-soluzioni del problema.
-$3.$ La funzione
-$$ 8 10 ) ( + = x x f $$
-è invertibile? Perchè? Quali sono le derivate di
-$f$ e di
--
-? In genere, come si calcola la derivata della funzione inversa ?
-$4.$ Si consideri la funzione
-$$ 1 5 4 ) ( 2 3 + + $$
--
-$$ = x x x x f $$
-e la tangente $t$ al suo grafico nel
-punto di ascissa $x=2.$ Quale è la pendenza di $t?$
-$5.$ In determinate condizioni, il numero di un certo tipo di batteri triplica ogni due
-giorni. Se la crescita è esponenziale, qual è l’aumento percentuale dopo $6$ ore?
-E dopo $18$ ore?
-$6.$ Disegnare il grafico di una funzione la cui pendenza sia sempre maggiore di $1.$
-$7.$ Scrivere l’equazione della retta passante per l’origine e tangente al grafico
-della funzione
-$$ x e $$
-$8.$ Il dominio della funzione
-$$ 2 3 3 1 3 3 ) ( x x x $$
-arctg
-arctgx
-$$ x f $$
--
--
--
-è l’unione di tre
-intervalli. Si dimostri, calcolandone la derivata, che la funzione è costante in
-ciascuno di essi; indi si calcoli il valore di tale costante.
+$$f(x)=2\sin x-\sqrt{3}\,x.$$
 
-___________________________
+Una verifica diretta conferma il valore imposto: $f\left(\dfrac{\pi}{6}\right)=2\cdot\dfrac{1}{2}-\sqrt{3}\cdot\dfrac{\pi}{6}=1-\dfrac{\sqrt{3}}{6}\pi$.
 
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è ammesso lasciare l’aula degli esami prima che siano trascorse tre ore dalla dettatura del tema.
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="221.523" height="318.217" viewBox="-72 -72 166.142 238.663"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><g fill="gray" stroke="gray"><path fill="none" d="M-72.07 3.442H80.89"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M79.01 1.042c.381 1.44 1.228 2.12 2.08 2.4-.852.28-1.699.96-2.08 2.4"/><text x="-18.863" y="3.442" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(103.687 2.153)">x</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-18.863 166.193V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-21.263-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-18.863" y="3.442" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -68.074)">y</text></g><path fill="none" stroke="#00f" stroke-width=".8" d="m-65.81-15.435 1.782 2.733 1.783 2.533 1.783 2.336 1.783 2.136 1.782 1.94 1.783 1.753 1.783 1.567 1.783 1.384 1.783 1.209 1.782 1.04 1.783.879 1.783.72 1.783.573 1.782.435 1.783.304 1.783.18 1.783.067 1.783-.036 1.782-.128 1.783-.21 1.783-.282 1.783-.344 1.782-.392 1.783-.43 1.783-.457 1.783-.474 1.783-.475 1.782-.47 1.783-.45 1.783-.42 1.783-.377 1.782-.324 1.783-.259 1.783-.185 1.783-.097L-1.63.542.152.645l1.783.22 1.783.346 1.783.48 1.782.621 1.783.773 1.783.93 1.783 1.096 1.783 1.267 1.782 1.445L17.98 9.45l1.783 1.815 1.783 2.006 1.782 2.202 1.783 2.4 1.783 2.599 1.783 2.801 1.783 3.005 1.782 3.209 1.783 3.408 1.783 3.612 1.783 3.813 1.782 4.011 1.783 4.201 1.783 4.395 1.783 4.584 1.783 4.762 1.782 4.939 1.783 5.11 1.783 5.276 1.783 5.43 1.782 5.578 1.783 5.722 1.783 5.855 1.783 5.976 1.783 6.09 1.782 6.198 1.783 6.29 1.783 6.374 1.783 6.447 1.782 6.51 1.783 6.562 1.783 6.602"/><path fill="red" stroke="none" d="M-.275.529a2.2 2.2 0 1 0-4.4 0 2.2 2.2 0 0 0 4.4 0m-2.2 0"/><text x="-18.863" y="3.442" stroke="none" font-family="cmmi10" font-size="10" transform="translate(19.92 -6.447)">M</text><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="M-2.475 3.442V.53"/><g stroke="none"><text x="-17.663" y="-.495" font-family="cmmi7" font-size="7" transform="translate(12.724 10.484)">¼</text><path d="M-4.939 11.226h4.927v.4h-4.927z"/><text x="-17.193" y="6.891" font-family="cmr7" font-size="7" transform="translate(12.724 10.484)">6</text></g></g></svg>
+</figure>
+
+## Periodicità
+
+La funzione $f(x)=a\sin x+bx$ non è periodica quando $b\neq 0$. Infatti, se esistesse un periodo $T>0$ tale che $f(x)=f(x+T)$ per ogni $x$, si avrebbe
+
+$$a\sin x+bx=a\sin(x+T)+b(x+T).$$
+
+Poiché $\sin$ è periodico di periodo $2\pi$, scegliendo $T$ multiplo di $2\pi$ il termine $a\sin x$ resterebbe invariato, ma resterebbe il termine aggiuntivo $bT\neq 0$: l'uguaglianza non può valere per ogni $x$. In generale, il termine lineare $-\sqrt{3}\,x$ è illimitato e strettamente monotòno a meno delle oscillazioni sinusoidali, quindi impedisce ogni ripetizione periodica dei valori.
+
+Nel nostro caso $b=-\sqrt{3}\neq 0$, perciò **$f(x)=2\sin x-\sqrt{3}\,x$ non è periodica**.
 
 *Fonte:* [📄 PDF p.45](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

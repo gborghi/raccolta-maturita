@@ -1,291 +1,65 @@
----
-title: 2006 Estero Europa — Questionario — Quesito 8 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55_8
-of_item: ques_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55_8
-prova_id: prova_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55_8|2006 Estero Europa — Questionario — Quesito 8]] · **Prova:** [[Prove/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55|2006 Estero Europa — Questionario]]
 
-Scuole italiane all’estero (Europa) 2006
+Consideriamo la funzione
+$$f(x) = 3\arctan x - \arctan\frac{3x - x^3}{1 - 3x^2}.$$
+Per comodità poniamo $u(x) = \dfrac{3x - x^3}{1 - 3x^2}$, così che $f(x) = 3\arctan x - \arctan u(x)$.
 
-$m=$
-$$ et $$
-$t= et,$ da cui: $t= 1.$ Pertanto risulta $m=$ e.
-La tangente richiesta ha equazione: $y= ex,$ ed il punto di tangenza è $T= (1;$ e).
+## Dominio
 
-Questa la situazione grafica:
+L'arcotangente è definita su tutto $\mathbb{R}$, quindi l'unica condizione riguarda l'argomento $u(x)$: occorre che il denominatore non si annulli,
+$$1 - 3x^2 \ne 0 \quad\Rightarrow\quad x \ne \pm\frac{1}{\sqrt{3}}.$$
+Il dominio è dunque l'unione dei tre intervalli
+$$\left(-\infty,\, -\tfrac{1}{\sqrt{3}}\right) \cup \left(-\tfrac{1}{\sqrt{3}},\, \tfrac{1}{\sqrt{3}}\right) \cup \left(\tfrac{1}{\sqrt{3}},\, +\infty\right).$$
 
-QUESITO $8$
+## La derivata è identicamente nulla
 
-Il dominio della funzione f(x) $= 3arctgx-arctg$
-$3x-x^{3}$
-$1-3x^{2}$ è l’unione di tre intervalli. Si
-dimostri, calcolandone la derivata, che la funzione è costante in ciascuno di essi; indi si
-calcoli il valore di tale costante.
+Deriviamo i due addendi. Il primo è immediato:
+$$\frac{d}{dx}\big(3\arctan x\big) = \frac{3}{1 + x^2}.$$
 
-Il dominio della funzione è dato da: $1 -3x^{2} \ne 0, x\ne \pm \sqrt{3}$
-$3$ cioè:
+Per il secondo serve la derivata di $u$. Al numeratore:
+$$(3 - 3x^2)(1 - 3x^2) - (3x - x^3)(-6x) = \big(3 - 12x^2 + 9x^4\big) + \big(18x^2 - 6x^4\big) = 3 + 6x^2 + 3x^4 = 3\,(1 + x^2)^2,$$
+quindi
+$$u'(x) = \frac{3\,(1 + x^2)^2}{(1 - 3x^2)^2}.$$
 
-$-\infty < x< -\sqrt{3}$
-$3 \cup -\sqrt{3}$
-$3 < x< \sqrt{3}$
-$3 \cup \sqrt{3}$
-$3 < x< +\infty$
+Calcoliamo poi $1 + u^2$, riducendo allo stesso denominatore:
+$$1 + u^2 = \frac{(1 - 3x^2)^2 + (3x - x^3)^2}{(1 - 3x^2)^2} = \frac{1 + 3x^2 + 3x^4 + x^6}{(1 - 3x^2)^2} = \frac{(1 + x^2)^3}{(1 - 3x^2)^2}.$$
 
-Calcoliamo la derivata della funzione:
+Dalla regola di derivazione $\dfrac{d}{dx}\arctan u = \dfrac{u'}{1 + u^2}$ otteniamo
+$$\frac{d}{dx}\Big(\arctan u\Big) = \frac{u'}{1 + u^2} = \frac{3\,(1 + x^2)^2}{(1 - 3x^2)^2}\cdot\frac{(1 - 3x^2)^2}{(1 + x^2)^3} = \frac{3}{1 + x^2}.$$
 
-f'(x) =
-$1 + x^{2} -$
-$(3 -3x^{2})(1 -3x^{2}) -(3x-x^{3})(-6x)$
-$(1 -3x^{2})^{2}$
-$1 + (3x-x^{3}$
-$1 -3x^{2})$
-$$ 2 = 0 $$
-Ciò dimostra che la funzione è costante a tratti.
+Pertanto, in ogni punto del dominio,
+$$f'(x) = \frac{3}{1 + x^2} - \frac{3}{1 + x^2} = 0.$$
 
-Il valore della costante nel primo intervallo è, per esempio, il valore che la funzione
-assume per $x= -\sqrt{3},$ quindi:
+Poiché la derivata è nulla su tutto il dominio, $f$ è **costante su ciascuno dei tre intervalli** (una funzione con derivata nulla su un intervallo è ivi costante). Si osservi che i tre valori possono comunque essere diversi tra loro, perché il dominio non è un unico intervallo.
 
-Scuole italiane all’estero (Europa) 2006
+*Osservazione.* L'argomento $\dfrac{3x - x^3}{1 - 3x^2}$ è esattamente la formula di triplicazione della tangente: posto $x = \tan\theta$, esso vale $\tan(3\theta)$. Ciò spiega perché $\arctan u$ coincide con $3\arctan x$ a meno di multipli di $\pi$, e quindi perché la differenza è costante a tratti.
 
-Se $-\infty < x< -\sqrt{3}$
-$3$ , f(x) $= f(-\sqrt{3}) = 3arctg(-\sqrt{3}) -arctg$
-$3(-\sqrt{3})-(-\sqrt{3})$
-$1-3(-\sqrt{3})$
+## Valore della costante su ciascun intervallo
 
-$= 3 (-\pi$
-$3) -0 = -\pi$
+Basta valutare $f$ in un punto comodo di ogni intervallo.
 
-Essendo la funzione dispari (si verifica facilmente che $f(-x) = -f(x),$ tenendo presente
-che $arctg(-x) = -arctg(x)),$ nel terzo intervallo avremo f(x) $= \pi$ (come si può anche
-verificare direttamente calcolando, per esempio, $f(\sqrt{3})).$
+**Primo intervallo** $\left(-\infty,\, -\tfrac{1}{\sqrt{3}}\right)$: scegliamo $x = -\sqrt{3}$. Qui $3x - x^3 = -3\sqrt{3} - (-3\sqrt{3}) = 0$, dunque $u(-\sqrt{3}) = 0$ e, poiché $\arctan(-\sqrt{3}) = -\dfrac{\pi}{3}$,
+$$f(-\sqrt{3}) = 3\left(-\frac{\pi}{3}\right) - \arctan 0 = -\pi.$$
 
-Nel secondo intervallo risulta f(x) $= f(0) = 0.$ Pertanto:
+**Secondo intervallo** $\left(-\tfrac{1}{\sqrt{3}},\, \tfrac{1}{\sqrt{3}}\right)$: scegliamo $x = 0$, ottenendo
+$$f(0) = 3\arctan 0 - \arctan 0 = 0.$$
 
-f(x) =
+**Terzo intervallo** $\left(\tfrac{1}{\sqrt{3}},\, +\infty\right)$: la funzione è dispari, poiché $\arctan(-x) = -\arctan x$ implica $f(-x) = -f(x)$; quindi il valore è l'opposto di quello del primo intervallo,
+$$f(x) = \pi \qquad \left(\text{si verifica anche direttamente con } x = \sqrt{3}:\ f(\sqrt{3}) = 3\cdot\frac{\pi}{3} - 0 = \pi\right).$$
 
-$-\pi$ se $-\infty < x< -\sqrt{3}$
-$0$ se $-\sqrt{3}$
-$3 < x< \sqrt{3}$
-$\pi$ se $\sqrt{3}$
-$3 < x< +\infty$
+## Conclusione
 
-Il grafico della funzione è il seguente:
+$$f(x) = \begin{cases} -\pi & \text{se } -\infty < x < -\dfrac{1}{\sqrt{3}}, \\[2mm] 0 & \text{se } -\dfrac{1}{\sqrt{3}} < x < \dfrac{1}{\sqrt{3}}, \\[2mm] \pi & \text{se } \dfrac{1}{\sqrt{3}} < x < +\infty. \end{cases}$$
 
-Con la collaborazione di Angela Santamaria
+Il grafico è quindi costituito da tre segmenti orizzontali, con salti in corrispondenza dei punti $x = \pm\dfrac{1}{\sqrt{3}}$ esclusi dal dominio.
 
-MINISTERO DELLA PUBBLICA ISTRUZIONE
 
-SCUOLE ITALIANE ALL’ESTERO
-ESAMI DI STATO DI LICEO SCIENTIFICO
-Sessione Ordinaria 2006
-Tema di Matematica
-
-Il candidato risolva uno dei due problemi e $4$ quesiti del questionario.
-
-PROBLEMA $1$
-
-Il triangolo ABC è rettangolo in $C$ ed è $CB= m.$
-$1.$ Posto
-$$ 2 x tg t e $$
-
-ˆ
-$= x$
-$$ C B A $$
-, si esprima il raggio $y$ del cerchio inscritto nel
-triangolo in funzione di $t.$
-$2.$ Si studi
-$(t$
-$y =$
-e se ne tracci il grafico senza tener conto dei limiti geometrici
-del problema; si denoti, poi, con , l’arco del grafico che corrisponde a tali
-limiti $1t$ e $2t$ .
-$3.$ Si determini il valore del parametro $m$ in modo che l’area della regione
-delimitata da  e dall’asse $t$ fra $1t$ e $2t$ sia uguale a
-$$ 16 log $$
-$4 -$
-
-PROBLEMA $2$
-
-La somma di due numeri $x$ e $y$ è uguale al loro prodotto.
-Riferito il piano $ad$ un sistema di coordinate cartesiane ortogonali e monometriche
-(x,y):
-$1.$ si trovi l’equazione cartesiana del luogo $\gamma$ dei punti P(x,y) che soddisfano al
-problema;
-$2.$ Quali proprietà di simmetria di $\gamma$ sono deducibili dalla commutatività della
-addizione e della moltiplicazione? Il luogo $\gamma$ ha altre simmetrie?
-$3.$ si determini l’area della regione finita di piano del primo quadrante delimitata
-da $\gamma$ , dagli assi coordinati e dalle rette $x=2$ e $y=5$ e se ne dia un valore
-approssimato.
-
-QUESTIONARIO
-
-$1.$ Si vogliono colorare, con colori diversi, le facce di un tetraedro e le facce di un
-cubo. In quanti modi ciò è possibile disponendo di dieci colori e prescindendo
-dal loro ordine?
-
-$2.$ La somma di due numeri è $s;$ determinate i due numeri in modo che la somma
-dei loro cubi sia minima.
-
-$3.$ Per quale o quali valori di $x,$ con
-$^\circ$
-$\le$
-<
-$^\circ$
-$$ 450 90 x $$
-, è vero che: a) $2cos5x=1; b)$
-$2cos5x>1.$
-
-$4.$ Fra tutti i coni circoscritti $ad$ una data sfera, trovare quello di volume di
-volume minimo
-
-$5.$ E’ assegnata l’equazione
-$$ 0 1 ) 5 ( )^{1} ( 2 = $$
--
--
--
--
-$$ m x m x m $$
-. Per quali valori del
-parametro $m$ le radici appartengono all’intervallo [
-$2 -$
--
-?
-
-$6.$ Si dia una definizione del numero e di Nepero [nome latinizzato dello scozzese
-John Napier $(1550-1617)]$ e si dimostri che la derivata di
-e è
-e ?
-
-$7.$ Scrivere l’equazione della retta passante per l’origine e tangente al grafico
-della funzione
-$$ x e $$
-
-$8.$ Calcolare il volume di in tetraedro regolare di spigolo $s.$ Se è $s=30cm,$ quale è
-la capacità in litri del tetraedro?
-
-_________________________
-Durata della prova: $6$ ore.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
-È consentito l’uso della calcolatrice non programmabile.
-
-MINISTERO DELLA PUBBLICA ISTRUZIONE
-
-SCUOLE ITALIANE ALL’ESTERO
-ESAMI DI STATO DI LICEO SCIENTIFICO
-Sessione Suppletiva 2006
-Tema di Matematica
-
-Il candidato risolva uno dei due problemi e $4$ quesiti del questionario.
-
-PROBLEMA $1$
-
-Il triangolo ABC, rettangolo in $C,$ ha l’altezza relativa all’ipotenusa uguale a $1.$
-$1.$ Posto
-
-ˆ
-$$ x tg t B A C x = = $$
-si esprima il perimetro $p$ del triangolo in funzione di $t.$
-$2.$ Si studi la funzione p(t) così ottenuta e se ne disegni il grafico.
-$3.$ Se $p= 6$ quale è il valore, approssimato, in gradi sessagesimali, di $x$ ?
-
-PROBLEMA $2$
-
-$$ Sia 3 ) ( x x x f $$
--
-sull’intervallo [
-$$ ] 2 ,2 $$
--
-
-$1.$ trovare $m$ e $n$ tali che la retta $r$ d’equazione $y=mx+n$ sia tangente al grafico
-di $f$ nel punto $(-1,0).$
-$2.$ una seconda retta $s$ passante per $(-1,0)$ è tangente al grafico di $f$ in un punto
-(a, $b).$ Determinare a e $b.$
-$3.$ Dare una valutazione dell’angolo compreso tra le due rette $r$ ed $s.$
-$4.$ Calcolare l’area della regione di piano delimitata dalla curva e dalla retta $s.$
-
-QUESTIONARIO
-
-$1.$ Si $sa$ che $G(0) - F(0)=3,$ essendo F(x) e G(x) due primitive di
-$$ 2 x $$
-$y =$
-$$ e x $$
-$y =$
-rispettivamente. Quanto vale $G(1) - F(1)?$
-
-$2.$ Quanti sono i numeri di tre cifre (distinte tra loro) che è possibile scrivere
-utilizzando le cifre pari, diverse da zero?
-
-$3.$ La somma di due numeri è $s;$ determinate i due numeri in modo che il loro
-prodotto sia massimo.
-
-$4.$ Fra tutti i coni inscritti in una data sfera, trovare quello di volume massimo.
-
-$5.$ Si dimostri che la somma dei coefficienti dello sviluppo di
-$$ n b a ) ( + $$
-è uguale a
-$$ N n n $$
-$\in$
-
-ogni
-$$ per $$
-
-$6.$ Si consideri la funzione
-$$ 1 5 4 ) ( 2 3 + + $$
--
-$$ = x x x x f $$
-e la tangente $t$ al suo grafico nel
-punto di ascissa $x=2.$ Quale è la pendenza di $t?$
-
-$7.$ E’ data l’equazione
-$$ 0 4 )^{1} ( 2 2 = + $$
--
--
-$$ x k x $$
-. Dire per quali valori positivi del
-parametro $k$ una o entrambe le radici sono reali.
-
-$8.$ La funzione
-
-$$ 6 3 1 6 $$
-
-$$ che $$
-
-tale
-è
-$\pi$
-$\pi$
--
-
-
-
-
-
-
-$$ + = f bx $$
-asenx
-$$ x f $$
-e presenta un
-massimo relativo nello stesso punto. Si trovino a e $b$ e si dica se f(x) è
-periodica.
-
-_________________________
-Durata della prova: $6$ ore.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
-È consentito l’uso della calcolatrice non programmabile.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="275.013" height="298.488" viewBox="-72 -72 206.26 223.866"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 46.121h193.078"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M119.128 43.721c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="24.669" y="46.121" stroke="none" font-family="cmmi10" font-size="10" transform="translate(100.272 2.153)">x</text><path fill="none" d="M24.67 151.396v-210.15"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M22.27-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="24.669" y="46.121" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -110.752)">y</text><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="M-60.69-43.22h170.717M-60.69 135.463h170.717"/><path fill="none" d="M8.252 43.276v5.69M41.086 43.276v5.69"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-60.69 135.463H8.253M8.252 46.121h32.834M41.086-43.22h68.941"/><path fill="#fff" stroke="#00f" stroke-width=".8" d="M10.252 135.463a2 2 0 1 0-4 0 2 2 0 0 0 4 0ZM10.252 46.121a2 2 0 1 0-4 0 2 2 0 0 0 4 0ZM43.086 46.121a2 2 0 1 0-4 0 2 2 0 0 0 4 0ZM43.086-43.22a2 2 0 1 0-4 0 2 2 0 0 0 4 0Zm-2 0"/><text x="24.669" y="46.121" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-9.592 -87.189)">¼</text><g stroke="none" font-size="10"><text x="24.669" y="46.121" font-family="cmsy10" transform="translate(-17.37 91.842)">¡</text><text x="32.447" y="46.121" font-family="cmmi10" transform="translate(-17.37 91.842)">¼</text></g><g stroke="none"><text x="24.669" y="46.121" font-family="cmsy10" font-size="10" transform="translate(-35.974 16.25)">¡</text><text x="36.932" y="42.184" font-family="cmr7" font-size="7" transform="translate(-35.974 16.25)">1</text><path d="M-2.327 59.67H8.229v.4H-2.327z"/><text x="33.647" y="44.901" font-family="cmsy7" font-size="7" transform="translate(-35.974 16.25)">p</text><path d="M4.242 60.81h3.986v.34H4.242z"/><text x="40.216" y="50.736" font-family="cmr7" font-size="7" transform="translate(-35.974 16.25)">3</text></g><g stroke="none"><text x="29.154" y="42.184" font-family="cmr7" font-size="7" transform="translate(20.552 16.25)">1</text><path d="M46.421 59.67h10.556v.4H46.421z"/><text x="25.869" y="44.901" font-family="cmsy7" font-size="7" transform="translate(20.552 16.25)">p</text><path d="M52.991 60.81h3.986v.34h-3.986z"/><text x="32.439" y="50.736" font-family="cmr7" font-size="7" transform="translate(20.552 16.25)">3</text></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.59](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

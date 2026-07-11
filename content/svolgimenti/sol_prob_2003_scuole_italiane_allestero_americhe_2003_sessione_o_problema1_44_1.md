@@ -1,162 +1,98 @@
----
-title: 2003 Americhe Ordinaria — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44_1
-of_item: prob_2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44_1
-prova_id: prova_2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2003
----
+
 
 **Problema:** [[Problemi/prob_2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44_1|2003 Americhe Ordinaria — Problema 1 — Problema 1]] · **Prova:** [[Prove/2003_scuole_italiane_allestero_americhe_2003_sessione_o_problema1_44|2003 Americhe Ordinaria — Problema 1]]
 
-Scuole italiane all’estero (Americhe) 2003
-Sessione $Ordinaria-$ Problema $1$
+Nel piano cartesiano $Oxy$ è assegnato il fascio di curve di equazione
 
-Scuole italiane all’estero (Americhe) 2003 - PROBLEMA $1$
-
-In un piano, riferito $ad$ un sistema di assi cartesiani ortogonali Oxy, sono assegnate le
-curve di equazione:
-
-$y= kx3 + 9x$
-$x^{2} + k$
+$$y=\frac{kx^3+9x}{x^2+k},$$
 
 dove $k$ è un parametro reale non nullo.
 
-a)
+## a)
 
-Determinare a quali valori di $k$ corrispondono curve continue su tutto l’asse reale.
+**Valori di $k$ per cui la curva è continua su tutto l'asse reale.**
 
-Trattandosi di una funzione razionale fratta, essa è continua su tutto l’asse reale se il
-denominatore non si annulla mai; deve quindi essere $x^{2} + k\ne 0$ per ogni $x \Rightarrow k> 0$
+Si tratta di una funzione razionale fratta: essa è continua su tutto $\mathbb{R}$ se e solo se il denominatore non si annulla mai. Deve quindi essere
 
-$b)$
+$$x^2+k\ne 0\quad\text{per ogni } x\in\mathbb{R}\ \Rightarrow\ k>0.$$
 
-Dimostrare che le curve assegnate hanno tre punti in comune.
+## b)
 
-Scriviamo la funzione in forma intera: $y(x^{2} + k) = kx3 + 9x , x2y-9x+ k(y-x^{3}) = 0$
-Si tratta di un fascio di curve con generatrici $x2y-9x= 0$ e $y-x^{3} = 0.$ I punti base di
-tale fascio sono i punti comuni a tutte le curve.
+**Le curve hanno tre punti in comune.**
 
-${x2y-9x= 0 = 0$
-$y-x^{3} = 0$
-; ${x^{5} -9x= 0$
-$y= x^{3}$
-; $x(x^{4} -9) = 0 : x= 0$ e $x= \pm \sqrt{3}$
+Scriviamo l'equazione in forma intera e raccogliamo il parametro $k$:
 
-Le curve assegnate hanno quindi in comune i tre punti:
+$$y(x^2+k)=kx^3+9x\ \Rightarrow\ \big(x^2y-9x\big)+k\big(y-x^3\big)=0.$$
 
-$A= (0; 0),$
-$B= (-\sqrt{3}; -3\sqrt{3}),$
-$C= (\sqrt{3}; 3\sqrt{3})$
+È un fascio di curve; i suoi **punti base** (comuni a tutte le curve, qualunque sia $k$) si ottengono annullando separatamente le due generatrici:
 
-$c)$
+$$\begin{cases} x^2y-9x=0\\[2pt] y-x^3=0\end{cases}$$
 
-Dimostrare che i tre punti sono allineati.
+Sostituendo $y=x^3$ nella prima equazione:
 
-Per dimostrare che i tre punti sono allineati è sufficiente verificare che le loro coordinate
-soddisfano la relazione:
-$x^{3} -x^{1}$
-$x^{2} -x^{1}$
-$= y^{3} -y^{1}$
-$y^{2} -y^{1}$
+$$x^2\cdot x^3-9x=0\ \Rightarrow\ x^5-9x=0\ \Rightarrow\ x\big(x^4-9\big)=0\ \Rightarrow\ x=0,\quad x=\pm\sqrt{3}.$$
 
-Scuole italiane all’estero (Americhe) 2003
-Sessione $Ordinaria-$ Problema $1$
+Ricordando che $y=x^3$, i tre punti comuni sono
 
-Sostituendo le coordinate di A, $B$ e $C$ otteniamo:
+$$A=(0;\,0),\qquad B=(-\sqrt{3};\,-3\sqrt{3}),\qquad C=(\sqrt{3};\,3\sqrt{3}).$$
 
-$\sqrt{3} -0$
-$-\sqrt{3} -0$
-$= 3\sqrt{3} -0$
-$-3\sqrt{3} -0$
-$-1 = -1$ : verificato.
+## c)
 
-Si può verificare facilmente che la retta su cui stanno A, $B$ e $C$ ha equazione: $y= 3x$ .
+**I tre punti sono allineati.**
 
-$d)$
+I punti $A$, $B$, $C$ soddisfano tutti l'equazione della retta $y=3x$:
 
-Tra le curve assegnate determinare la curva $\gamma$ avente per asintoto la retta di equazione
-$y= x$ e disegnarne l’andamento.
+$$0=3\cdot 0,\qquad -3\sqrt{3}=3\cdot(-\sqrt{3}),\qquad 3\sqrt{3}=3\cdot\sqrt{3}.$$
 
-$y= kx3 + 9x$
-$x^{2} + k$
+Poiché stanno tutti sulla retta di equazione $y=3x$, i tre punti sono allineati.
 
-Osserviamo che, con $k$ non nullo, tutte le curve ammettono un asintoto obliquo di
-coefficiente angolare $k$ (il grado del numeratore supera di $1$ il grado del denominare).
-Deve quindi essere $k=1.$ Verifichiamolo direttamente.
+## d)
 
-$m=$ lim
-$x\to \infty$
-f(x)
-= lim
-$x\to \infty$
-$kx3 + 9x$
-$x^{3} + kx= k= 1 , q=$ lim
-$x\to \infty$ [f(x) $-mx] = q=$ lim
-$x\to \infty [kx3 + 9x$
-$x^{2} + k$
-$-kx]$
+**Determinare la curva $\gamma$ avente per asintoto la retta $y=x$ e disegnarne l'andamento.**
 
-= lim
-$x\to \infty [kx3 + 9x-kx3 -k2x$
-$x^{2} + k$
-] = lim
-$x\to \infty [9x-k2x$
-$x^{2} +$ k] = lim
-$x\to \infty [9x-x$
-$x^{2} + 1] = 0$
+Per ogni $k\ne 0$ il grado del numeratore supera di $1$ quello del denominatore, quindi esiste un asintoto obliquo $y=mx+q$. Calcoliamo il coefficiente angolare:
 
-Quindi si ha l’asintoto $y=x$ per $k=1.$ La curva $\gamma$ richiesta ha equazione:
+$$m=\lim_{x\to\infty}\frac{f(x)}{x}=\lim_{x\to\infty}\frac{kx^3+9x}{x\,(x^2+k)}=\lim_{x\to\infty}\frac{kx^2+9}{x^2+k}=k.$$
 
-$y=$ f(x) $= x^{3} + 9x$
-$x^{2} + 1$
+Perché l'asintoto sia $y=x$ deve essere $m=1$, cioè $k=1$. Verifichiamo che con $k=1$ anche il termine noto è nullo:
 
-Studiamo questa funzione.
+$$q=\lim_{x\to\infty}\big[f(x)-x\big]=\lim_{x\to\infty}\left(\frac{x^3+9x}{x^2+1}-x\right)=\lim_{x\to\infty}\frac{8x}{x^2+1}=0.$$
 
-È una funzione definita e continua su tutto $R,$ dispari, $(f(-x) = -f(x)),$ interseca gli assi
-cartesiani solo nell’origine, è positiva quando $x^{3} + 9x> 0, x(x^{2} + 9) > 0 :x> 0.$
-Ha solo l’asintoto obliquo già trovato, $y=x.$ Per completare lo studio è sufficiente studiare
-la monotonia e la concavità.
+L'asintoto è dunque $y=x$ e la curva richiesta è
 
-f'(x) =
-$(x^{2}-3)$
-$(x^{2}+1)^{2} \ge 0$ sempre ed è f'(x) $= 0$ se $x= \pm \sqrt{3}$ : la funzione è quindi sempre
-crescente ed ha due flessi a tangente orizzontale per $x= \pm \sqrt{3}$ (i punti $B$ e $C).$
+$$\gamma:\quad y=f(x)=\frac{x^3+9x}{x^2+1}.$$
 
-Studiamo la concavità:
+**Studio di $\gamma$.** La funzione è definita e continua su tutto $\mathbb{R}$; è **dispari** poiché $f(-x)=-f(x)$; interseca gli assi solo nell'origine ed è positiva quando
 
-f''(x) $= 16x(x^{2} -3)$
-$(x^{2} + 1)^{3}$
-$\ge 0$ se $x(x^{2} -3) \ge 0 : -\sqrt{3} \le x\le 0$ ,
-$x\ge \sqrt{3}$
-La curva quindi volge la concavità verso l’alto se $-\sqrt{3} < x< 0$ e $x> \sqrt{3}$ e verso il
+$$x^3+9x>0\ \Rightarrow\ x\big(x^2+9\big)>0\ \Rightarrow\ x>0.$$
 
-Scuole italiane all’estero (Americhe) 2003
-Sessione $Ordinaria-$ Problema $1$
+L'unico asintoto è quello obliquo $y=x$ già trovato.
 
-basso nella parte rimanente: come previsto, si hanno tre flessi per $x= 0$ e $x= \pm \sqrt{3}$ (che
-corrispondono $ai$ già citati punti A, $B$ e $C).$
+*Monotonia.* Derivando:
 
-Il grafico della funzione è il seguente:
+$$f'(x)=\frac{(3x^2+9)(x^2+1)-(x^3+9x)\cdot 2x}{(x^2+1)^2}=\frac{x^4-6x^2+9}{(x^2+1)^2}=\frac{(x^2-3)^2}{(x^2+1)^2}\ge 0.$$
 
-e)
+La derivata è sempre non negativa e si annulla solo per $x=\pm\sqrt{3}$: la funzione è quindi **sempre crescente** e presenta due flessi a tangente orizzontale in $x=\pm\sqrt{3}$ (i punti $B$ e $C$).
 
-Verificare che i tre punti comuni a tutte le curve assegnate sono flessi per la curva $\gamma$ .
+*Concavità.* Derivando ancora:
 
-Abbiamo già verificato nel punto $d)$ che i punti A, $B$ e $C$ (comuni a tutte le curve
-assegnate), sono flessi per la curva $\gamma$ .
+$$f''(x)=\frac{16x\,(x^2-3)}{(x^2+1)^3}.$$
 
-Con la collaborazione di Angela Santamaria
+Si ha $f''(x)\ge 0$ quando $x(x^2-3)\ge 0$, cioè per $-\sqrt{3}\le x\le 0$ oppure $x\ge\sqrt{3}$. La curva volge dunque la concavità verso l'alto per $-\sqrt{3}<x<0$ e per $x>\sqrt{3}$, verso il basso nella parte rimanente. Si hanno pertanto **tre flessi**, in $x=0$ e $x=\pm\sqrt{3}$, corrispondenti ai punti $A$, $B$ e $C$.
+
+Il grafico di $\gamma$ è il seguente:
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="345.332" height="418.371" viewBox="-72 -72 258.999 313.778"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-62.965 91.077h209.013"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M144.168 88.677c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="41.741" y="91.077" stroke="none" font-family="cmmi10" font-size="10" transform="translate(108.24 2.153)">x</text><path fill="none" d="M41.741 241.308V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M39.341-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="41.741" y="91.077" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -155.709)">y</text><g stroke-dasharray="3.0,3.0"><path fill="none" d="M-72.07 204.889 155.553-22.734"/><g stroke="none" font-size="10"><text x="41.741" y="91.077" font-family="cmmi10" transform="translate(117.344 -119.289)">y</text><text x="49.781" y="91.077" font-family="cmr10" transform="translate(117.344 -119.289)">=</text><text x="60.336" y="91.077" font-family="cmmi10" transform="translate(117.344 -119.289)">x</text></g></g><path fill="none" stroke="#00f" stroke-width=".8" d="m-49.308 224.973 2.305-1.328 2.305-1.286 2.305-1.242 2.305-1.195 2.305-1.145 2.304-1.094 2.305-1.038 2.305-.98 2.305-.92 2.305-.854 2.305-.787 2.304-.716 2.305-.643 2.305-.566 2.305-.489 2.305-.408 2.305-.328 2.305-.25 2.304-.176 2.305-.108 2.305-.053 2.305-.013 2.305-.002 2.305-.026 2.304-.105 2.305-.252 2.305-.501 2.305-.877 2.305-1.43 2.305-2.199 2.305-3.246 2.304-4.627 2.305-6.38 2.305-8.52 2.305-10.99 2.305-13.671 2.305-16.31 2.304-18.585 2.305-20.142L42.886 80.8l2.305-20.15 2.305-18.596 2.305-16.33 2.305-13.687 2.304-11.01 2.305-8.534 2.305-6.391 2.305-4.637 2.305-3.255 2.305-2.205 2.304-1.434 2.305-.88 2.305-.503 2.305-.254 2.305-.105 2.305-.027 2.305-.002 2.304-.014 2.305-.051 2.305-.108 2.305-.175 2.305-.25 2.305-.327 2.304-.408 2.305-.488 2.305-.566 2.305-.642 2.305-.716 2.305-.786 2.305-.854 2.304-.92 2.305-.979 2.305-1.038 2.305-1.093 2.305-1.146 2.305-1.194 2.305-1.242 2.304-1.285 2.305-1.328"/><path stroke="none" d="M43.501 91.077a1.76 1.76 0 1 0-3.52 0 1.76 1.76 0 0 0 3.52 0m-1.76 0"/><text x="41.741" y="91.077" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 10.366)">A</text><path stroke="none" d="M82.926-27.196a1.76 1.76 0 1 0-3.52 0 1.76 1.76 0 0 0 3.52 0m-1.76 0"/><text x="41.741" y="91.077" stroke="none" font-family="cmmi10" font-size="10" transform="translate(42.957 -114.856)">C</text><path stroke="none" d="M4.077 209.35a1.76 1.76 0 1 0-3.52 0 1.76 1.76 0 0 0 3.52 0m-1.76 0"/><text x="41.741" y="91.077" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-51.044 121.69)">B</text></g></svg>
+</figure>
+
+## e)
+
+**I tre punti comuni sono flessi per $\gamma$.**
+
+Dallo studio del punto d) risulta che $f''(x)=\dfrac{16x(x^2-3)}{(x^2+1)^3}$ si annulla e cambia segno esattamente in $x=0$ e $x=\pm\sqrt{3}$. Questi sono proprio i punti $A=(0;0)$, $B=(-\sqrt{3};-3\sqrt{3})$ e $C=(\sqrt{3};3\sqrt{3})$, comuni a tutte le curve del fascio: essi sono quindi tre flessi per la curva $\gamma$.
 
 *Fonte:* [📄 PDF p.44](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

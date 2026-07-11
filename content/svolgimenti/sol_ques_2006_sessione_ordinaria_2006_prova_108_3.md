@@ -1,74 +1,35 @@
----
-title: 2006 Sessione Ordinaria PNI — Prova (p.108) — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_sessione_ordinaria_2006_prova_108_3
-of_item: ques_2006_sessione_ordinaria_2006_prova_108_3
-prova_id: prova_2006_sessione_ordinaria_2006_prova_108
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_108_3|2006 Sessione Ordinaria PNI — Prova (p.108) — Quesito 3]] · **Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_108|2006 Sessione Ordinaria PNI — Prova (p.108)]]
 
-Liceo Scientifico Ordinamento 2006
+Si consideri l'affermazione: se le funzioni $f(x)$ e $g(x)$, entrambe tendenti a $0$ per $x\to a$, non soddisfano le condizioni previste dal teorema di De L'Hôpital, allora non è possibile calcolare il limite di $\dfrac{g(x)}{f(x)}$ per $x\to a$. Stabilire se sia vera o falsa, motivando la risposta.
 
-QUESITO $3$
+L'affermazione è **falsa**. Il teorema di De L'Hôpital fornisce infatti una condizione *sufficiente*, ma non *necessaria*, per il calcolo del limite del rapporto: può accadere che le sue ipotesi non siano tutte verificate e che, ciò nonostante, il limite di $\dfrac{g(x)}{f(x)}$ esista e sia calcolabile con altri strumenti.
 
-Se le funzioni $f (x)$ e g(x), entrambe tendenti a $0,$ quando $x\to$ a, non soddisfano alle
-condizioni previste dal teorema di $De$ L’Hôpital, non è possibile calcolare il limite di
-g(x)
-f(x)
-quando $x\to$ a. È vero o è falso? Fornire un’esauriente spiegazione della risposta.
+## Controesempio
 
-E’ falso, poiché il Teorema di $De$ L’Hôpital fornisce una condizione sufficiente per
-l’esistenza del limite, ma non necessaria.
+Scegliamo
+$$g(x)=x^{2}\sin\frac{1}{x}, \qquad f(x)=x, \qquad a=0.$$
 
-Controesempio:
-g(x) $= x^{2}$ ∙sen $1$
-$x,$
-f(x) $= x , a= 0$
-Osserviamo che esiste il limite
-g(x)
-f(x) per $x$ che tende a zero, infatti:
-$limx\to 0$
-$x^{2}∙sen 1$
-$$ x x $$
-$= limx\to 0$ x∙sen
-$x= 0$ per il teorema del confronto.
+Entrambe le funzioni tendono a $0$ per $x\to 0$, quindi il rapporto si presenta nella forma indeterminata $\dfrac{0}{0}$.
 
-Le ipotesi del teorema di $De$ L’Hôpital non sono però tutte soddisfatte; infatti:
+Il limite del rapporto **esiste** e vale $0$. Infatti
+$$\lim_{x\to 0}\frac{g(x)}{f(x)}=\lim_{x\to 0}\frac{x^{2}\sin\frac{1}{x}}{x}=\lim_{x\to 0} x\,\sin\frac{1}{x}=0,$$
+per il teorema del confronto, dato che $\left|x\,\sin\frac{1}{x}\right|\le |x|\to 0$.
 
-$g' = 2xsin($
-$x) -cos($
-$x) , f' = 1$ ,
-$g'$
-$f' = 2xsin$ (
-$x) -cos$ (
-$x)$ che non ammette limite per $x$
-che tende a zero in quando $2xsin$ (
-$x)$ tende a zero ma cos (
-$x)$ non ammette limite (oscilla
-tra $-1$ ed $1).$
-QUESITO $4$
+## Perché non si applica De L'Hôpital
 
-Il limite della funzione f(x) $= x-ln x$ per $x\to +\infty$ è:
+Il teorema di De L'Hôpital richiede, tra le altre ipotesi, che esista il limite del rapporto delle derivate $\dfrac{g'(x)}{f'(x)}$. Calcoliamo le derivate:
+$$g'(x)=2x\,\sin\frac{1}{x}-\cos\frac{1}{x}, \qquad f'(x)=1,$$
+da cui
+$$\frac{g'(x)}{f'(x)}=2x\,\sin\frac{1}{x}-\cos\frac{1}{x}.$$
 
-[A] $0.$ [B] un valore finito diverso da $0.$ [C] $+\infty$ . [D] $-\infty$ .
+Per $x\to 0$ il termine $2x\,\sin\frac{1}{x}$ tende a $0$ (ancora per il teorema del confronto), ma $\cos\frac{1}{x}$ **non ammette limite**, poiché oscilla indefinitamente tra $-1$ e $1$. Di conseguenza $\dfrac{g'(x)}{f'(x)}$ non ammette limite per $x\to 0$: l'ipotesi del teorema non è soddisfatta.
 
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione della
-scelta operata.
+## Conclusione
 
-Il limite è $+\infty$ perché, pur presentandosi il limite nella forma $+\infty -\infty$ , l’infinito $x$ domina
-sull’infinito lnx. Questo può essere verificato graficamente, osservando le due funzioni
-$y=x$ e $y=lnx:$
+Il limite $\displaystyle\lim_{x\to 0}\frac{g(x)}{f(x)}=0$ esiste ed è calcolabile, benché le ipotesi del teorema di De L'Hôpital non siano tutte verificate. Questo mostra che l'affermazione proposta è falsa: la non applicabilità del teorema di De L'Hôpital non impedisce, di per sé, il calcolo del limite del rapporto.
 
 *Fonte:* [📄 PDF p.122](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

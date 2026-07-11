@@ -1,58 +1,51 @@
----
-title: >-
-  2004 Estero australe Ordinaria — Problema 2 e Quesiti — Quesito 8 —
-  Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_8
-of_item: ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_8
-prova_id: prova_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_8|2004 Estero australe Ordinaria — Problema 2 e Quesiti — Quesito 8]] · **Prova:** [[Prove/2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38|2004 Estero australe Ordinaria — Problema 2 e Quesiti]]
 
-Estero (Australe) 2004
-Questionario
+**Quesito 8.** Calcolare
 
-QUESITO $8$
+$$\int_0^\pi e^x\cos x\,dx.$$
 
-Calcolare: $\int$ excos $x$
-$\pi$
-$dx$ .
+## a) Calcolo dell'integrale indefinito
 
-Calcoliamo per parti l’integrale indefinito:
+Determiniamo dapprima una primitiva di $e^x\cos x$ integrando due volte per parti. Poniamo
 
-$I= \int$ excos(x) $dx= \int$ (ex)' cos(x) $dx=$ excos(x) $-\int ex(-sin(x))dx=$
+$$I=\int e^x\cos x\,dx.$$
 
-= excos(x) $+ \int$ exsin(x) $dx=$ excos(x) $+ \int$ (ex)'(sin(x)) $dx=$
+Integrando per parti (deriviamo il fattore trigonometrico e integriamo $e^x$) si ha
 
-= excos(x) + [exsin(x) $-\int$ excos(x) dx] = ex(cos(x) + sin(x)) $-I$ ;
+$$I=\int e^x\cos x\,dx=e^x\cos x-\int e^x(-\sin x)\,dx=e^x\cos x+\int e^x\sin x\,dx.$$
 
-$2I=$ ex(cos(x) + sin(x)) , $I= \int$ excos(x) $dx= 1$
-$2$ ex(cos(x) + sin(x)) $+ C$
+Integriamo ancora per parti il secondo integrale:
 
-Pertanto:
+$$\int e^x\sin x\,dx=e^x\sin x-\int e^x\cos x\,dx=e^x\sin x-I.$$
 
-$\int$ excos(x)
-$\pi$
-$dx= [1$
-$2$ ex(cos(x) + sin(x))]
-$\pi$
-$2 e\pi (-1) -1$
-$2 (1) = -1$
-$2 (e\pi + 1)$
+Sostituendo:
 
-Con la collaborazione di Angela Santamaria
+$$I=e^x\cos x+e^x\sin x-I=e^x(\cos x+\sin x)-I.$$
+
+Ricaviamo $I$ portando $I$ a primo membro:
+
+$$2I=e^x(\cos x+\sin x)\quad\Rightarrow\quad I=\frac{1}{2}\,e^x(\cos x+\sin x)+C.$$
+
+## b) Calcolo dell'integrale definito
+
+Applichiamo il teorema fondamentale del calcolo integrale usando la primitiva trovata:
+
+$$\int_0^\pi e^x\cos x\,dx=\left[\frac{1}{2}\,e^x(\cos x+\sin x)\right]_0^\pi.$$
+
+Valutiamo agli estremi. Per $x=\pi$, essendo $\cos\pi=-1$ e $\sin\pi=0$:
+
+$$\frac{1}{2}\,e^\pi(\cos\pi+\sin\pi)=\frac{1}{2}\,e^\pi(-1+0)=-\frac{1}{2}\,e^\pi.$$
+
+Per $x=0$, essendo $\cos 0=1$ e $\sin 0=0$:
+
+$$\frac{1}{2}\,e^0(\cos 0+\sin 0)=\frac{1}{2}(1+0)=\frac{1}{2}.$$
+
+Pertanto
+
+$$\int_0^\pi e^x\cos x\,dx=-\frac{1}{2}\,e^\pi-\frac{1}{2}=-\frac{1}{2}\left(e^\pi+1\right).$$
 
 *Fonte:* [📄 PDF p.46](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

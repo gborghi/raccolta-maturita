@@ -1,160 +1,57 @@
----
-title: 2003 Ordinaria — Prova (Ordinamento) — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_2
-of_item: ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_2
-prova_id: prova_2003_sessione_ordinaria_2003_211_n_03_prova_12
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2003
----
+
 
 **Quesito:** [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_2|2003 Ordinaria — Prova (Ordinamento) — Quesito 2]] · **Prova:** [[Prove/2003_sessione_ordinaria_2003_211_n_03_prova_12|2003 Ordinaria — Prova (Ordinamento)]]
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+Un piano interseca tutti gli spigoli laterali di una piramide quadrangolare regolare: si vogliono descrivere le caratteristiche dei possibili quadrilateri sezione al variare della posizione del piano.
 
-CORSO DI ORDINAMENTO
+Sia $V\text{-}ABCD$ la piramide, con base quadrata $ABCD$ di centro $O$, vertice $V$ e asse la retta $VO$ (perpendicolare alla base per il suo centro). Un piano $\pi$ che taglia i quattro spigoli laterali $VA,\ VB,\ VC,\ VD$ li interseca in quattro punti $A',B',C',D'$, che sono i vertici del quadrilatero sezione.
 
-Tema di: MATEMATICA
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="228.477" height="188.279" viewBox="-72 -72 171.358 141.209"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="gray" d="M-57.904 55.24h113.81L84.36 12.561H-29.451ZM13.228-58.57-57.904 55.24M13.228-58.57 55.907 55.24M13.228-58.57 84.36 12.56M13.228-58.57l-42.68 71.131"/><path fill="none" stroke="#00f" stroke-width=".8" d="m-22.338-1.665 63.307 17.072 14.938-31.299-61.885-10.67Z"/><path fill="none" stroke="red" stroke-dasharray="3.0,3.0" d="m-22.338-1.665 78.245-14.227M40.97 15.407-5.979-26.561"/><path stroke="none" d="M14.728-58.57a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><text x="-57.904" y="55.24" stroke="none" font-family="cmmi10" font-size="10" transform="translate(67.104 -117.344)">V</text><path stroke="none" d="M-56.704 55.24a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="-57.904" y="55.24" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.033 10.366)">A</text><path stroke="none" d="M57.107 55.24a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="-57.904" y="55.24" stroke="none" font-family="cmmi10" font-size="10" transform="translate(117.344 10.366)">B</text><path stroke="none" d="M85.56 12.561a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="-57.904" y="55.24" stroke="none" font-family="cmmi10" font-size="10" transform="translate(145.797 -39.262)">C</text><path stroke="none" d="M-28.251 12.561a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="-57.904" y="55.24" stroke="none" font-family="cmmi10" font-size="10" transform="translate(16.363 -39.262)">D</text><g fill="#00f" stroke="#00f"><path stroke="none" d="M-21.138-1.665a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><g fill="#00f" stroke="none"><text x="-57.904" y="55.24" font-family="cmmi10" font-size="10" transform="translate(21.727 -53.147)">A</text><text x="-50.404" y="51.611" font-family="cmsy7" font-size="7" transform="translate(21.727 -53.147)">0</text></g></g><g fill="#00f" stroke="#00f"><path stroke="none" d="M42.17 15.407a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><g fill="#00f" stroke="none"><text x="-57.904" y="55.24" font-family="cmmi10" font-size="10" transform="translate(102.406 -36.075)">B</text><text x="-49.817" y="51.611" font-family="cmsy7" font-size="7" transform="translate(102.406 -36.075)">0</text></g></g><g fill="#00f" stroke="#00f"><path stroke="none" d="M57.107-15.892a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><g fill="#00f" stroke="none"><text x="-57.904" y="55.24" font-family="cmmi10" font-size="10" transform="translate(117.344 -67.373)">C</text><text x="-50.042" y="51.611" font-family="cmsy7" font-size="7" transform="translate(117.344 -67.373)">0</text></g></g><g fill="#00f" stroke="#00f"><path stroke="none" d="M-4.778-26.561a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><g fill="#00f" stroke="none"><text x="-57.904" y="55.24" font-family="cmmi10" font-size="10" transform="translate(46.245 -85.335)">D</text><text x="-49.347" y="51.611" font-family="cmsy7" font-size="7" transform="translate(46.245 -85.335)">0</text></g></g></g></svg>
+</figure>
 
-PROBLEMA $1$
+## Una proprietà comune a tutte le sezioni
 
-Si consideri un tetraedro regolare $T$ di vertici A, $B, C, D.$
-a) Indicati rispettivamente con $V$ ed $S$ il volume e l’area totale di $T$ e con $r$ il raggio della sfera
-inscritta in $T,$ trovare una relazione che leghi $V, S$ ed $r.$
-$b)$ Considerato il tetraedro regolare T’ avente per vertici i centri delle facce di $T,$ calcolare il
-rapporto fra le lunghezze degli spigoli di $T$ e T’ e il rapporto fra i volumi di $T$ e T’.
-$c)$ Condotto il piano $\alpha$ , contenente la retta $AB$ e perpendicolare alla retta $CD$ nel punto E, e posto
-che uno spigolo di $T$ sia lungo $s,$ calcolare la distanza di E dalla retta $AB.$
-$d)$ Considerata nel piano $\alpha$ la parabola $p$ avente l’asse perpendicolare alla retta $AB$ e passante per i
-punti A, $B$ ed E, riferire questo piano $ad$ un conveniente sistema di assi cartesiani ortogonali e
-trovare l’equazione di $p.$
-e) Determinare per quale valore di $s$ la regione piana delimitata dalla parabola $p$ e dalla retta $EA$ ha
-area $3$
-$2 cm2.$
+I vertici $A'$ e $C'$ appartengono agli spigoli $VA$ e $VC$, che giacciono entrambi nel piano diagonale $VAC$; quindi la diagonale $A'C'$ della sezione è contenuta nel piano $VAC$. Analogamente $B'$ e $D'$ stanno sugli spigoli $VB$ e $VD$, contenuti nel piano diagonale $VBD$, e perciò la diagonale $B'D'$ è contenuta nel piano $VBD$.
 
-PROBLEMA $2$
+Le due diagonali $A'C'$ e $B'D'$ del quadrilatero, essendo complanari (stanno entrambe in $\pi$), si incontrano in un punto $P$. Ma $P\in A'C'\subset VAC$ e $P\in B'D'\subset VBD$, dunque $P$ appartiene alla retta di intersezione dei due piani diagonali:
+$$VAC \cap VBD = VO,$$
+cioè all'asse della piramide.
 
-È assegnata la funzione f(x) =
-$$ m m x x + + + 2 1 2 $$
-, dove $m$ è un parametro reale.
-a) Determinare il suo dominio di derivabilità.
-$b)$ Calcolare per quale valore di $m$ la funzione ammette una derivata che risulti nulla per $x = 1.$
-$c)$ Studiare la funzione f(x) corrispondente al valore di $m$ così trovato e disegnarne il grafico $\gamma$ in
-un piano riferito $ad$ un sistema di assi cartesiani ortogonali (Oxy), dopo aver stabilito quanti
-sono esattamente i flessi di $\gamma$ ed aver fornito una spiegazione esauriente di ciò.
-$d)$ Calcolare l’area della regione finita di piano delimitata dal grafico $\gamma$ , dall’asse $x$ e dalla retta di
-equazione $x = 1.$
+**Conclusione generale:** qualunque sia la posizione del piano secante, la sezione è un quadrilatero le cui diagonali si intersecano in un punto dell'asse della piramide. Questa è la proprietà caratteristica di tutte le sezioni.
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+## a) Piano parallelo alla base
 
-CORSO DI ORDINAMENTO
+Se $\pi$ è parallelo al piano di base, la sezione è il trasformato della base nell'omotetia di centro $V$ che porta la base sul piano $\pi$. Poiché la base è un quadrato, la sezione è un **quadrato**, simile alla base e con centro sull'asse; il suo lato è proporzionale alla distanza del piano dal vertice.
 
-Tema di: MATEMATICA
+## b) Piano parallelo a una coppia di spigoli opposti della base
 
-QUESTIONARIO
+Sia $\pi$ parallelo, ad esempio, agli spigoli $AB$ e $CD$ della base. Tale piano è invariante rispetto alla riflessione nel piano di simmetria della piramide che passa per $V$ e per i punti medi di $AB$ e $CD$: questa simmetria scambia $A\leftrightarrow B$ e $D\leftrightarrow C$, quindi scambia $A'\leftrightarrow B'$ e $D'\leftrightarrow C'$.
 
-$1.$ Dopo aver fornito la definizione di “rette sghembe”, si consideri la seguente proposizione:
-«Comunque si prendano nello spazio tre rette $x, y, z,$ due a due distinte, se $x$ ed $y$ sono sghembe
-e, così pure, se sono sghembe $y$ e $z$ allora anche $x$ e $z$ sono sghembe». Dire se è vera o falsa e
-fornire un’esauriente spiegazione della risposta.
-$2.$ Un piano interseca tutti gli spigoli laterali di una piramide quadrangolare regolare: descrivere le
-caratteristiche dei possibili quadrilateri sezione a seconda della posizione del piano rispetto alla
-piramide.
-$3.$ Dal punto A, al quale è possibile accedere, è visibile il punto $B,$ al quale però non si può
-accedere in alcun modo, così da impedire una misura diretta della distanza $AB.$ Dal punto A si
-può però accedere al punto $P,$ dal quale, oltre $ad$ A, è visibile $B$ in modo che, pur rimanendo
-impossibile misurare direttamente la distanza $PB,$ è tuttavia possibile misurare la distanza $AP.$
-Disponendo degli strumenti di misura necessari e sapendo che $P$ non è allineato con A e $B,$
-spiegare come si può utilizzare il teorema dei seni per calcolare la distanza $AB.$
-$4.$ Il dominio della funzione f(x) = {
-$(x$
-$$ 1 x $$
--
--
-$$ + } ln $$
-è l’insieme degli $x$ reali tali che:
-A) $-1<x\le 3;$
-$B) -1\le x<3;$
-$C) 0<x\le 3;$
-$D) 0\le x<3.$
-Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione della scelta
-effettuata.
-$5.$ La funzione $2x^{3}-3x^{2}+2$ ha un solo zero reale, vale a dire che il suo grafico interseca una sola
-volta l’asse delle ascisse. Fornire un’esauriente dimostrazione di questo fatto e stabilire se lo
-zero della funzione è positivo o negativo.
-$6.$ La derivata della funzione f(x) =
-è la funzione $f$ ’(x) $= 2$
-. Eseguire tutti i
-passaggi necessari a giustificare l’affermazione.
-$$ dt e x t \int $$
--
-$$ 2 2 0 4 x e x $$
--
-$7.$ Considerati i primi $n$ numeri naturali a partire da $1:$
-$1, 2, 3, ... , n-1, n$ ,
-moltiplicarli combinandoli due a due in tutti i modi possibili. La somma dei prodotti ottenuti
-risulta uguale a:
-A)
-$$ ( 2 2 1 4 1 + n n $$
-) ; $B)$
-$$ ( 1 3 1 $$
-$2 -$
-$$ n n $$
-); $C)$
-$$ ( )( )( 1 3 2 1 24 1 + + + n n n n $$
-); $D)$
-$$ ( )( ) 2 3 1 24 1 2 + $$
--
-$$ n n n . $$
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
+Ne segue che i lati $A'B'$ e $D'C'$ sono entrambi perpendicolari all'asse di simmetria della sezione, dunque **paralleli tra loro**, mentre i lati obliqui risultano uguali: $A'D'=B'C'$. La sezione è un **trapezio isoscele** (che degenera nel quadrato del caso a) solo se in più $\pi$ è parallelo alla base).
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+## c) Piano parallelo a una diagonale della base
 
-CORSO DI ORDINAMENTO
+Sia $\pi$ parallelo, ad esempio, alla diagonale $BD$ della base. Tale piano è invariante rispetto alla riflessione nel piano diagonale $VAC$, che fissa gli spigoli $VA$ e $VC$ e scambia $VB\leftrightarrow VD$; essa fissa quindi $A'$ e $C'$ e scambia $B'\leftrightarrow D'$.
 
-Tema di: MATEMATICA
+La retta $A'C'$ è allora asse di simmetria del quadrilatero, ed è una sua diagonale: la sezione è un **deltoide** (aquilone), con $A'B'=A'D'$ e $C'B'=C'D'$.
 
-$8. x$ ed $y$ sono due numeri naturali dispari tali che $x - y = 2.$ Il numero $x^{3} - y^{3}:$
-A) è divisibile per $2$ e per $3.$
-$B)$ è divisibile per $2$ ma non per $3.$
-$C)$ è divisibile per $3$ ma non per $2.$
-$D)$ non è divisibile né per $2$ né per $3.$
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
-$9.$ Si consideri una data estrazione in una determinata Ruota del Lotto. Calcolare quante sono le
-possibili cinquine che contengono i numeri $1$ e $90.$
-$10.$ Il valore dell’espressione log
-è $1.$ Dire se questa affermazione è vera o falsa e fornire
-una esauriente spiegazione della risposta.
-$$ 2 log 3 3 2 $$
-$\cdot$
+## d) Piano in posizione generica
 
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+Se il piano non ha alcuna delle posizioni particolari precedenti, la sezione è un **quadrilatero qualunque**, del quale resta però sempre vera l'unica proprietà generale: le due diagonali $A'C'$ e $B'D'$ si intersecano in un punto dell'asse $VO$ della piramide.
 
-SCUOLE ITALIANE ALL’ESTERO
-ESAMI DI STATO DI LICEO SCIENTIFICO
-Sessione ordinaria 2003
-Tema di Matematica
+## Riepilogo
+
+| Posizione del piano | Sezione |
+|---|---|
+| parallelo alla base | quadrato |
+| parallelo a due spigoli opposti di base | trapezio isoscele |
+| parallelo a una diagonale di base | deltoide (aquilone) |
+| generica | quadrilatero qualunque |
+
+In ogni caso le diagonali della sezione si incontrano su un punto dell'asse della piramide.
 
 *Fonte:* [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

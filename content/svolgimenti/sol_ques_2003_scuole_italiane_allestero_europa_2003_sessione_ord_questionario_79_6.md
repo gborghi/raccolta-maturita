@@ -1,55 +1,34 @@
----
-title: 2003 Europa Ordinaria — Questionario — Quesito 6 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_6
-of_item: ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_6
-prova_id: prova_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2003
----
+
 
 **Quesito:** [[Quesiti/ques_2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79_6|2003 Europa Ordinaria — Questionario — Quesito 6]] · **Prova:** [[Prove/2003_scuole_italiane_allestero_europa_2003_sessione_ord_questionario_79|2003 Europa Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Europa) 2003
+Tracciato il grafico della funzione $y=\log_4 x$, si vuole ricavare da esso il grafico di $y=\log_4(x-5)$ e quello di $y=\log_4 2x$.
 
-QUESITO $5$
+Ricordiamo che il grafico di $y=\log_4 x$ è definito per $x>0$, ha l'asse $y$ come asintoto verticale, passa per $(1;0)$ e per $(4;1)$ ed è strettamente crescente.
 
-Scrivete l’equazione della tangente a $\lambda$ , grafico di f(x) $= 2x-log(e$
-$\pi$
-$2 + 1)$ nel suo
-punto $P$ di ascissa $0.$
+## a) Il grafico di $\log_4(x-5)$
 
-Risulta: f'(x) $= 2$ , quindi, essendo $f(0) = -log(e$
-$\pi$
-$2 + 1)$ , la tangente richiesta ha
-equazione:
+Nella funzione $y=\log_4(x-5)$ la variabile $x$ è sostituita da $x-5$: si tratta quindi della composizione con la traslazione che sposta ogni punto di $5$ unità verso destra. Il grafico si ottiene perciò da quello di $y=\log_4 x$ con una **traslazione orizzontale** di vettore $(5;0)$.
 
-$y-f(0) = f'(0)(x-0), y+$ log(e
-$\pi$
-$2 + 1) = 2x$ ,
-$y= 2x-log(e$
-$\pi$
-$$ 2 + 1) $$
+In particolare il dominio diventa $x>5$, l'asintoto verticale si sposta nella retta $x=5$ e i punti notevoli diventano $(6;0)$ e $(9;1)$.
 
-QUESITO $6$
+## b) Il grafico di $\log_4 2x$
 
-Dopo aver tracciato il grafico della funzione $log4 x,$ come vi regolereste per tracciare il
-grafico della funzione $log4(x-5)$ ? e quello della funzione $log4 2x$ ?
+Usando le proprietà dei logaritmi si spezza il prodotto:
 
-Il grafico di $log4(x-5)$ si ottiene da quello di $log4 x$ con una traslazione di vettore $(5; 0)$
-Il grafico di $log4 2x= log4 2 + log4 x=$
-$2 + log4 x$ si ottiene da quello di $log4 x$ con una
-traslazione di vettore $(0;$
-$$ 1 2). $$
+$$\log_4 2x=\log_4 2+\log_4 x.$$
+
+Poiché $4^{1/2}=2$, si ha $\log_4 2=\dfrac{1}{2}$, quindi
+
+$$\log_4 2x=\frac{1}{2}+\log_4 x.$$
+
+La funzione differisce da $\log_4 x$ per la costante additiva $\dfrac{1}{2}$: il grafico si ottiene allora da quello di $y=\log_4 x$ con una **traslazione verticale** di vettore $\left(0;\dfrac{1}{2}\right)$, cioè verso l'alto di $\dfrac{1}{2}$.
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="426.763" height="178.608" viewBox="-72 -72 320.072 133.956"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 4.58h306.89"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M232.94 2.18c.38 1.44 1.228 2.12 2.08 2.4-.852.28-1.7.96-2.08 2.4"/><text x="-49.308" y="4.58" stroke="none" font-family="cmmi10" font-size="10" transform="translate(288.061 2.153)">x</text><path fill="none" d="M-49.308 61.486v-120.24"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-51.708-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-49.308" y="4.58" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -69.212)">y</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-46.576 39.393 2.731-11.381 2.731-6.656 2.732-4.723 2.731-3.667 2.731-2.991 2.732-2.531 2.731-2.194 2.732-1.93 2.73-1.73 2.732-1.567 2.732-1.427 2.731-1.313 2.731-1.218 2.732-1.134 2.731-1.058 2.731-.997 2.732-.938 2.731-.888 2.732-.842 2.73-.8 2.732-.766 2.732-.728 2.731-.699 2.731-.67 2.732-.645 2.731-.62 2.731-.596 2.732-.576 2.731-.558 2.731-.537 2.732-.521 2.731-.505 2.732-.492 2.731-.476 2.731-.462 2.732-.448 2.731-.44 2.731-.425 2.732-.417 2.731-.405 2.731-.396 2.732-.387 2.731-.378 2.732-.369 2.73-.36 2.732-.352 2.732-.346 2.731-.34 2.731-.33 2.732-.327 2.731-.317 2.731-.314 2.732-.307 2.731-.3 2.732-.296 2.73-.292 2.732-.284 2.732-.28 2.731-.278 2.731-.268 2.732-.269 2.731-.262 2.731-.26 2.732-.252 2.731-.25 2.732-.25 2.73-.244 2.732-.24 2.732-.236 2.731-.232 2.731-.23 2.732-.228 2.731-.223 2.731-.218 2.732-.219 2.731-.216 2.732-.212 2.73-.21 2.732-.204 2.732-.205 2.731-.2 2.731-.2 2.732-.196 2.731-.194 2.731-.193 2.732-.189 2.731-.189 2.732-.184 2.73-.185 2.732-.182 2.732-.177 2.731-.178 2.731-.175 2.732-.176 2.731-.17 2.731-.171 2.732-.168 2.731-.166 2.732-.164"/><path fill="none" stroke="red" stroke-width=".8" d="m67.235 39.393 1.582-7.537 1.581-5.094 1.582-3.901 1.582-3.153 1.582-2.64 1.581-2.279 1.582-1.998 1.582-1.78 1.581-1.607 1.582-1.464 1.582-1.343 1.582-1.24 1.581-1.155 1.582-1.076 1.582-1.013 1.581-.954 1.582-.901 1.582-.854 1.582-.81 1.581-.774 1.582-.74 1.582-.708 1.582-.676 1.581-.65 1.582-.627 1.582-.603 1.581-.583 1.582-.562 1.582-.544 1.582-.526 1.581-.51 1.582-.494 1.582-.48 1.581-.466 1.582-.453 1.582-.44 1.582-.43 1.581-.419 1.582-.407 1.582-.399 1.581-.389 1.582-.38 1.582-.37 1.582-.365 1.581-.353 1.582-.348 1.582-.34 1.581-.334 1.582-.328 1.582-.32 1.582-.315 1.581-.307 1.582-.303 1.582-.298 1.581-.291 1.582-.29 1.582-.282 1.582-.275 1.581-.273 1.582-.269 1.582-.264 1.582-.26 1.581-.254 1.582-.253 1.582-.248 1.581-.244 1.582-.241 1.582-.237 1.582-.234 1.581-.23 1.582-.228 1.582-.223 1.581-.22 1.582-.219 1.582-.216 1.582-.214 1.581-.21 1.582-.207 1.582-.205 1.581-.2 1.582-.2 1.582-.196 1.582-.196 1.581-.19 1.582-.192 1.582-.191 1.581-.185 1.582-.184 1.582-.182 1.582-.18 1.581-.177 1.582-.178 1.582-.173 1.581-.173 1.582-.17 1.582-.17 1.582-.166 1.581-.166 1.582-.164"/><path fill="none" stroke="#090" stroke-width=".8" d="m-46.576 28.012 2.731-11.381 2.731-6.656 2.732-4.723 2.731-3.667 2.731-2.991 2.732-2.531 2.731-2.194 2.732-1.93 2.73-1.73 2.732-1.567 2.732-1.427 2.731-1.313 2.731-1.218 2.732-1.134 2.731-1.058 2.731-.997 2.732-.938 2.731-.888 2.732-.842 2.73-.801 2.732-.765 2.732-.728 2.731-.699 2.731-.67 2.732-.646 2.731-.619 2.731-.596 2.732-.576 2.731-.558 2.731-.537 2.732-.521 2.731-.506 2.732-.491 2.731-.476 2.731-.462 2.732-.449 2.731-.439 2.731-.425 2.732-.417 2.731-.405 2.731-.396 2.732-.387 2.731-.378 2.732-.369 2.73-.36 2.732-.352 2.732-.346 2.731-.34 2.731-.33 2.732-.327 2.731-.317 2.731-.314 2.732-.307 2.731-.3 2.732-.296 2.73-.292 2.732-.284 2.732-.28 2.731-.278 2.731-.269 2.732-.268 2.731-.262 2.731-.26 2.732-.252 2.731-.25 2.732-.25 2.73-.245 2.732-.239 2.732-.236 2.731-.232 2.731-.23 2.732-.228 2.731-.223 2.731-.218 2.732-.22 2.731-.215 2.732-.212 2.73-.21 2.732-.204 2.732-.205 2.731-.2 2.731-.2 2.732-.196 2.731-.194 2.731-.193 2.732-.19 2.731-.188 2.732-.185 2.73-.184 2.732-.182 2.732-.177 2.731-.178 2.731-.175 2.732-.176 2.731-.17 2.731-.171 2.732-.169 2.731-.166 2.732-.164"/><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none"><text x="-49.308" y="4.58" font-family="cmr10" font-size="10" transform="translate(203.85 -45.55)">log</text><text x="-36.391" y="7.025" font-family="cmr7" font-size="7" transform="translate(203.85 -45.55)">4</text><text x="-30.238" y="4.58" font-family="cmmi10" font-size="10" transform="translate(203.85 -45.55)">x</text></g></g><g fill="#090" stroke="#090"><g fill="#090" stroke="none"><text x="-49.308" y="4.58" font-family="cmr10" font-size="10" transform="translate(44.29 -52.38)">log</text><text x="-36.391" y="7.025" font-family="cmr7" font-size="7" transform="translate(44.29 -52.38)">4</text><text x="-30.238" y="4.58" font-family="cmr10" font-size="10" transform="translate(44.29 -52.38)">2</text><text x="-25.238" y="4.58" font-family="cmmi10" font-size="10" transform="translate(44.29 -52.38)">x</text></g></g><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="-49.308" y="4.58" font-family="cmr10" font-size="10" transform="translate(226.326 -6.605)">log</text><text x="-36.391" y="7.025" font-family="cmr7" font-size="7" transform="translate(226.326 -6.605)">4</text><text x="-31.905" y="4.58" font-family="cmr10" font-size="10" transform="translate(226.326 -6.605)">(</text><text x="-28.016" y="4.58" font-family="cmmi10" font-size="10" transform="translate(226.326 -6.605)">x</text><text x="-20.079" y="4.58" font-family="cmsy10" font-size="10" transform="translate(226.326 -6.605)">¡</text><text x="-10.079" y="4.58" font-family="cmr10" font-size="10" transform="translate(226.326 -6.605)">5)</text></g></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.81](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

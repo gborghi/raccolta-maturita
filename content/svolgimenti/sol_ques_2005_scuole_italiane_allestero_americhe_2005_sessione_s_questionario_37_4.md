@@ -1,84 +1,31 @@
----
-title: 2005 Americhe Suppletiva — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_4
-of_item: ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_4
-prova_id: prova_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37_4|2005 Americhe Suppletiva — Questionario — Quesito 4]] · **Prova:** [[Prove/2005_scuole_italiane_allestero_americhe_2005_sessione_s_questionario_37|2005 Americhe Suppletiva — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2005
+È vero o falso che il grafico della funzione $\ln\big((x+2)^2\big)$ coincide con quello della funzione $2\ln(x+2)$? Fornire un'esauriente spiegazione della risposta.
 
-QUESITO $3$
+L'affermazione è **falsa**.
 
-Sia $Sn$ la somma di $n$ numeri in progressione aritmetica di primo termine $1/2$ e ragione
-$3/2.$ Calcolare il seguente limite:
+Consideriamo le due funzioni separatamente.
 
-$$ lim $$
-$n\to \infty$
-$$ Sn $$
-$n^{2}$ .
+**La funzione $f(x)=\ln\big((x+2)^2\big)$.** Poiché l'argomento del logaritmo è un quadrato, la condizione di esistenza è $(x+2)^2>0$, cioè $x\neq -2$. Il dominio è dunque $\mathbb{R}\setminus\{-2\}$. Usando la proprietà $\ln(t^2)=2\ln|t|$ (valida per $t\neq 0$) si ha
+$$f(x)=\ln\big((x+2)^2\big)=2\ln|x+2|.$$
 
-Ricordiamo che la somma dei primi $n$ termini di una progressione aritmetica è data da:
+**La funzione $g(x)=2\ln(x+2)$.** Qui l'argomento del logaritmo deve essere positivo: $x+2>0$, cioè $x>-2$. Il dominio è quindi $(-2,+\infty)$.
 
-$Sn=$
-$(a^{1} +$ an)n
+**Confronto.** I due grafici possono coincidere solo dove entrambe le funzioni sono definite, cioè per $x>-2$. In tale intervallo $|x+2|=x+2$, e quindi
+$$f(x)=2\ln|x+2|=2\ln(x+2)=g(x).$$
+Per $x>-2$ le due funzioni sono effettivamente identiche.
 
-Inoltre, detta $d$ la ragione, si ha:
+Tuttavia $f(x)=2\ln|x+2|$ è definita anche per $x<-2$, dove $|x+2|=-(x+2)$, mentre $g(x)$ in quella regione non esiste. Il grafico di $f$ possiede perciò un secondo ramo, simmetrico del primo rispetto alla retta $x=-2$, che il grafico di $g$ non ha.
 
-$an= a^{1} + (n-1)d= 1$
-$$ 2 + 3 $$
-$2 (n-1)$
+In conclusione i due grafici **coincidono soltanto per $x>-2$**; poiché quello di $\ln\big((x+2)^2\big)$ comprende in più il ramo relativo a $x<-2$, i due grafici non coincidono. L'errore da evitare è applicare la regola $\ln(a^2)=2\ln a$ senza il valore assoluto: la forma corretta è $\ln(a^2)=2\ln|a|$.
 
-Pertanto:
 
-$Sn=$
-$(a^{1} +$ an)n
-$$ 2 = 1 $$
-$2 n[1$
-$$ 2 + 1 2 + 3 $$
-$2 (n-1)] = 1$
-$2 n(3$
-$2 n-1$
-$$ 2) = 1 $$
-$4 n(3n-1)$
-
-Si quindi:
-$$ lim $$
-$n\to \infty$
-$$ Sn $$
-$n^{2} =$ lim
-$n\to \infty$
-$4 n(3n-1)$
-$$ n^{2 $$
-= lim
-$n\to \infty$
-$4 n^{2}$
-$n^{2} = 3$
-
-QUESITO $4$
-
-È vero o falso che il grafico della funzione ln(x $+ 2)^{2}$ coincide con quello della funzione
-$2ln(x + 2)$ ? Fornire una esauriente spiegazione della risposta.
-
-FALSO.
-
-Infatti risulta: ln(x $+ 2)^{2} = 2ln |x+ 2|,$ il cui grafico coincide con quello di $2ln(x + 2)$
-solo se $x> -2.$
-
-Indichiamo i grafici delle due funzioni (anche se non richiesti).
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="344.815" height="253.341" viewBox="-72 -72 258.611 190.006"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 22.79h245.43"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M171.48 20.39c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="89.256" y="22.789" stroke="none" font-family="cmmi10" font-size="10" transform="translate(88.037 2.153)">x</text><path fill="none" d="M89.256 117.536v-176.29"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M86.856-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="89.256" y="22.789" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -87.42)">y</text><path fill="none" stroke-dasharray="3.0,3.0" d="M38.041 117.536v-176.69"/><g stroke="none" font-size="10"><text x="89.256" y="22.789" font-family="cmsy10" transform="translate(-57.603 12.538)">¡</text><text x="97.034" y="22.789" font-family="cmr10" transform="translate(-57.603 12.538)">2</text></g><path fill="none" stroke="#00f" stroke-width=".8" d="m43.163 105.152 1.426-12.518 1.426-10.092 1.426-8.424 1.427-7.235 1.426-6.335 1.426-5.644 1.426-5.08 1.426-4.62L56 40.963l1.426-3.912 1.426-3.636 1.426-3.393 1.426-3.183 1.426-2.99 1.427-2.842 1.426-2.683 1.426-2.55 1.426-2.43 1.426-2.318 1.427-2.217 1.426-2.125 1.426-2.043 1.426-1.962L77.391.788l1.427-1.823 1.426-1.76 1.426-1.703 1.426-1.647 1.426-1.594 1.426-1.55 1.427-1.495L88.8-12.24l1.426-1.431 1.426-1.38 1.426-1.344 1.427-1.31 1.426-1.279 1.426-1.247 1.426-1.217 1.426-1.187 1.426-1.163 1.427-1.136 1.426-1.11 1.426-1.088 1.426-1.066 1.426-1.04 1.427-1.025 1.426-1 1.426-.984 1.426-.966 1.426-.943 1.427-.932L118.75-36l1.426-.9 1.426-.88 1.426-.869 1.426-.85 1.427-.838 1.426-.823 1.426-.813 1.426-.798 1.426-.79 1.427-.77 1.426-.768 1.426-.748 1.426-.744 1.426-.726 1.427-.717 1.426-.722 1.426-.7 1.426-.69 1.426-.683 1.426-.674 1.427-.664 1.426-.655 1.426-.647 1.426-.641 1.426-.632 1.427-.623"/><path fill="none" stroke="red" stroke-width=".8" d="m-64.388-48.21 1.232.626 1.231.627 1.232.637 1.232.644 1.231.648 1.232.66 1.231.667 1.232.678 1.232.682 1.231.695 1.232.707 1.231.715 1.232.72 1.232.737 1.231.747 1.232.758 1.231.769 1.232.777 1.232.792 1.231.806 1.232.817 1.231.83 1.232.842 1.232.86 1.231.873 1.232.886 1.231.904 1.232.92 1.232.939 1.231.953 1.232.972 1.231.991 1.232 1.011 1.232 1.032 1.231 1.05 1.232 1.076 1.231 1.097 1.232 1.123 1.232 1.146 1.231 1.172 1.232 1.201 1.231 1.235 1.232 1.257 1.232 1.293 1.231 1.326 1.232 1.355 1.232 1.402 1.231 1.432 1.232 1.478 1.231 1.519L-1.576.443l1.232 1.615L.887 3.73 2.12 5.454 3.35 7.242l1.232 1.85 1.232 1.921 1.231 1.994 1.232 2.078 1.231 2.165 1.232 2.26 1.231 2.363 1.232 2.483 1.232 2.606 1.231 2.74 1.232 2.9 1.232 3.073 1.231 3.268 1.232 3.492 1.231 3.75 1.232 4.045 1.232 4.392 1.231 4.806 1.232 5.301 1.231 5.917 1.232 6.69 1.232 7.692 1.231 9.06 1.232 10.953"/><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none" font-size="10"><text x="89.256" y="22.789" font-family="cmr10" transform="translate(33.478 -71.761)">2</text><text x="95.923" y="22.789" font-family="cmr10" transform="translate(33.478 -71.761)">ln</text><text x="104.256" y="22.789" font-family="cmr10" transform="translate(33.478 -71.761)">(</text><text x="108.145" y="22.789" font-family="cmmi10" transform="translate(33.478 -71.761)">x</text><text x="116.082" y="22.789" font-family="cmr10" transform="translate(33.478 -71.761)">+</text><text x="126.082" y="22.789" font-family="cmr10" transform="translate(33.478 -71.761)">2)</text></g></g><g fill="red" stroke="red"><g fill="red" stroke="none" font-size="10"><text x="89.256" y="22.789" font-family="cmr10" transform="translate(-155.738 -64.08)">2</text><text x="95.923" y="22.789" font-family="cmr10" transform="translate(-155.738 -64.08)">ln</text><text x="105.923" y="22.789" font-family="cmsy10" transform="translate(-155.738 -64.08)">j</text><text x="108.7" y="22.789" font-family="cmmi10" transform="translate(-155.738 -64.08)">x</text><text x="116.638" y="22.789" font-family="cmr10" transform="translate(-155.738 -64.08)">+</text><text x="126.638" y="22.789" font-family="cmr10" transform="translate(-155.738 -64.08)">2</text><text x="131.638" y="22.789" font-family="cmsy10" transform="translate(-155.738 -64.08)">j</text></g></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.38](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

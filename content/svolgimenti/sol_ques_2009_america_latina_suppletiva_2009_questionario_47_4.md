@@ -1,135 +1,58 @@
----
-title: 2009 America Latina Suppletiva — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_america_latina_suppletiva_2009_questionario_47_4
-of_item: ques_2009_america_latina_suppletiva_2009_questionario_47_4
-prova_id: prova_2009_america_latina_suppletiva_2009_questionario_47
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_4|2009 America Latina Suppletiva — Questionario — Quesito 4]] · **Prova:** [[Prove/2009_america_latina_suppletiva_2009_questionario_47|2009 America Latina Suppletiva — Questionario]]
 
-America Latina
-Suppletiva 2009 - Questionario
+Fra tutti i coni inscritti in una data sfera di raggio $R$, si vuole determinare quello di volume massimo.
 
-Legame con il teorema di Rolle.
+## Impostazione del problema
 
-Il teorema di Rolle può essere considerato un corollario del teorema di Lagrange. In esso
-si aggiunge l’ipotesi che $f(a)=f(b)$ e si ha come tesi: esiste almeno un punto $c$ in (a; $b)$ tale
-che: f'(c) $= 0.$ Dal teorema di Lagrange si ha infatti:
+Consideriamo la sezione assiale del cono e della sfera. Indichiamo con $y$ l'altezza del cono e con $x$ il raggio della sua base. Il vertice del cono e la circonferenza di base appartengono alla sfera, quindi il diametro $AA'$ passante per il vertice è un'altezza del triangolo rettangolo iscritto nel cerchio massimo: per il secondo teorema di Euclide, detto $R$ il raggio della sfera, vale
 
-f'(c) = f(b) $-f(a)$
-$b-a$
-$b-a= 0.$
+$$x^2 = y\,(2R - y).$$
 
-Il significato geometrico diventa ora: esiste almeno un punto $C$ del grafico della funzione
-tra $A=$ (a; f(a)) e $B= (b;$ f(b)) a tangente orizzontale.
 
-Implicazione del teorema di Lagrange nello studio di una funzione.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="207.741" height="185.723" viewBox="-72 -72 155.806 139.292"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M63.084 4.026c0-34.572-28.025-62.597-62.596-62.597-34.572 0-62.597 28.025-62.597 62.597 0 34.571 28.025 62.596 62.597 62.596 34.571 0 62.596-28.025 62.596-62.596Zm-62.596 0"/><path fill="none" stroke="#00f" stroke-width=".8" d="M.488-58.58-58.55 24.906H59.524Z"/><path fill="none" stroke-dasharray="3.0,3.0" d="M.488-58.58v83.482M.488 4.026l59.028 20.876"/><path stroke="none" d="M2.248 4.026a1.76 1.76 0 1 0-3.52 0 1.76 1.76 0 0 0 3.52 0m-1.76 0"/><text x=".488" y="4.026" stroke="none" font-family="cmmi10" font-size="10" transform="translate(5.098 -.339)">O</text><text x=".488" y="4.026" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.75 -66.13)">A</text><text x=".488" y="4.026" stroke="none" font-family="cmr10" font-size="10" transform="translate(-69.425 37.9)">base</text><text x=".488" y="4.026" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 -20.728)">y</text><text x=".488" y="4.026" stroke="none" font-family="cmmi10" font-size="10" transform="translate(28.44 13.107)">x</text><path fill="none" d="M70.909-58.17v82.672"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M68.509-56.29c1.44-.38 2.12-1.228 2.4-2.08.28.852.96 1.7 2.4 2.08M73.309 22.622c-1.44.38-2.12 1.227-2.4 2.08-.28-.853-.96-1.7-2.4-2.08"/><text x=".488" y="4.026" stroke="none" font-family="cmmi10" font-size="10" transform="translate(73.954 -18.436)">h</text><text x=".488" y="4.026" stroke="none" font-family="cmmi10" font-size="10" transform="translate(66.13 54.184)">R</text><path fill="none" d="M.488 4.026 44.743 48.28"/></g></svg>
+</figure>
 
-Come corollario del teorema di Lagrange si dimostra che se la derivata di una funzione è
-sempre positiva (negativa) nei punti interni di un intervallo chiuso e limitato [a; b], allora la
-funzione è crescente (decrescente) in tale intervallo.
+Il volume del cono è
 
-Dimostrazione
+$$V = \frac{1}{3}\pi x^2 y = \frac{1}{3}\pi\, y^2 (2R - y),$$
 
-Sia $x$ un generico punto interno all’intervallo [a; b]. Applicando il Teorema di Lagrange
-all’intervallo [a; x], in cui sono chiaramente soddisfatte le ipotesi del teorema stesso,
-esisterà almeno un punto $c$ interno all’intervallo [a; x] tale che:
+dove la variabile $y$ può assumere i valori $0 \le y \le 2R$. Poiché il fattore $\frac{1}{3}\pi$ è costante e positivo, il volume è massimo quando è massima la funzione
 
-f'(c) =
-$f(x)-f(a)$
-$x-a$
-. Essendo $x>a,$ si ha che:
+$$z(y) = y^2 (2R - y) = 2R\,y^2 - y^3.$$
 
-se f'(c) $> 0,$ allora f(x) > f(a), perciò la funzione è crescente in [a; x], e data la
-genericità di $x,$ ciò vuol dire che la funzione è crescente in [a; b].
-In modo del tutto analogo si ha che, se se f'(c) $< 0,$ allora f(x) < f(a), perciò la
-funzione è decrescente in [a; x], e data la genericità di $x,$ ciò vuol dire che la funzione è
-decrescente in [a; b].
+## Ricerca del massimo
 
-Quesito $3$
+Deriviamo rispetto a $y$:
 
-Si dimostri, nel modo che si preferisce, che la media geometrica di due numeri positivi a e $b$ non
-è mai superiore alla loro media aritmetica. Cioè che:
+$$z'(y) = 4R\,y - 3y^2 = y\,(4R - 3y).$$
 
-$\sqrt{ab}\le a+ b$
+Nell'intervallo $0 < y < 2R$ si ha $y > 0$, quindi il segno di $z'$ dipende dal fattore $4R - 3y$:
 
-$\sqrt{ab}\le$
-$a+b$
-$2 \iff ab\le$
-$(a+b)2$
-$\Rightarrow 4ab\le (a+ b)2 \Rightarrow 0 \le (a-b)2:$ vero per ogni a e $b$
+$$z'(y) \ge 0 \iff 4R - 3y \ge 0 \iff y \le \frac{4}{3}R.$$
 
-Quesito $4$
+La funzione $z$ è dunque crescente per $0 < y < \frac{4}{3}R$ e decrescente per $\frac{4}{3}R < y < 2R$: in
 
-Fra tutti i coni inscritti in una data sfera, trovare quello di volume massimo.
+$$y = \frac{4}{3}R$$
 
-America Latina
-Suppletiva 2009 - Questionario
+si ha un massimo.
 
-Indichiamo con $y$ l’altezza del cono e con $x$ il suo raggio di base. Per il secondo teorema
-di Euclide (detto $R$ il raggio della sfera) si ha: $x^{2} = y(2R-y).$ Il volume del cono è:
+## Dimensioni del cono e volume massimo
 
-$V= 1$
-$3 \pi r2h= 1$
-$3 \pi x2y$
+L'altezza del cono di volume massimo è quindi $h = y = \dfrac{4}{3}R$, cioè i $\dfrac{4}{3}$ del raggio della sfera.
 
-Tale volume è massimo se lo è $z= x2y= y^{2}(2R-y)$
+Il raggio di base si ricava da $x^2 = y\,(2R - y)$:
 
-Risoluzione elementare.
+$$x^2 = \frac{4}{3}R\left(2R - \frac{4}{3}R\right) = \frac{4}{3}R \cdot \frac{2}{3}R = \frac{8}{9}R^2 \quad\Rightarrow\quad x = \frac{2}{3}R\sqrt{2}.$$
 
-$y^{2}(2R-y) = (y)2(2R-y)1:$ si tratta del prodotto di due potenze con somma delle basi
-costante $(2R);$ tale prodotto è massimo se le basi sono proporzionali agli esponenti,
-quindi:
+Il volume massimo vale infine
 
-$$ y 2 = $$
-$2R-y$
-, $y=$
-$3 R$ (altezza del cono uguale $ai$
-$3$ del raggio della sfera).
-Il raggio $r=x$ della circonferenza di base del cono si calcola da $x^{2} = y(2R-y).$ Quindi:
-$x^{2} = 4$
-$3 R(2R-4$
-$3 R) = 4$
-$3 R(2$
-$3 R) = 8$
-$9 R^{2} = x^{2}; x= 2$
-$3 R\sqrt{2}$ .
+$$V = \frac{1}{3}\pi x^2 y = \frac{1}{3}\pi \cdot \frac{8}{9}R^2 \cdot \frac{4}{3}R = \frac{32}{81}\pi R^3.$$
 
-Il cono di volume massimo inscritto in una sfera di dato raggio è quello la cui altezza è i
-$4/3$ del raggio della sfera.
-
-Risoluzione analitica.
-
-Dobbiamo trovare il massimo della funzione $z= y^{2}(2R-y),$ con $0 \le y\le 2R$
-Risulta:
-$z' = 4Ry-3y^{2} \ge 0$ se $3y^{2} -4Ry\le 0: 0 \le y\le 4$
-$3 R$
-
-La funzione è quindi crescente se $0 < y<$
-$3 R$ e decrescente se
-$3 R< y< 2R$ .
-
-Per $y=$
-$3 R z$ (e quindi anche il volume del cono) assume il valore massimo.
-
-Il volume massimo è: $V=$
-$3 \pi r2h=$
-$3 \pi$ (
-$9 R^{2})$ (
-$3 R) =$
-$$ 32 $$
-$81 \pi R^{3} =$ Volume massimo
+**Conclusione.** Fra tutti i coni inscritti in una sfera di raggio $R$, quello di volume massimo ha altezza $h = \dfrac{4}{3}R$, raggio di base $r = \dfrac{2}{3}R\sqrt{2}$ e volume $V_{\max} = \dfrac{32}{81}\pi R^3$.
 
 *Fonte:* [📄 PDF p.48](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

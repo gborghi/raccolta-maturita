@@ -1,168 +1,64 @@
----
-title: 2009 Sessione Ordinaria PNI — Prova — Problema 2 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2009_sessione_ordinaria_2009_prova_146_2
-of_item: prob_2009_sessione_ordinaria_2009_prova_146_2
-prova_id: prova_2009_sessione_ordinaria_2009_prova_146
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Calcolo Integrale e Aree
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/calcolo_integrale_e_aree
-  - anno/2009
----
+
 
 **Problema:** [[Problemi/prob_2009_sessione_ordinaria_2009_prova_146_2|2009 Sessione Ordinaria PNI — Prova — Problema 2]] · **Prova:** [[Prove/2009_sessione_ordinaria_2009_prova_146|2009 Sessione Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2009
+In un riferimento cartesiano ortogonale $Oxy$ si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ definita da $f(x)=x^3+kx$, con $k$ parametro reale.
 
-CORSO SPERIMENTALE
+## a)
 
-Indirizzo: PIANO NAZIONALE INFORMATICA
+La funzione $f(x)=x^3+kx$ è dispari per ogni valore di $k$, dunque il suo grafico è sempre simmetrico rispetto all'origine, che è punto di flesso (infatti $f''(x)=6x$ si annulla e cambia segno in $x=0$). Il comportamento dipende dal segno della derivata prima
+$$f'(x)=3x^2+k.$$
 
-Tema di: MATEMATICA
+- **$k>0$:** si ha $f'(x)>0$ per ogni $x$, quindi $f$ è strettamente crescente e non presenta né massimi né minimi; nell'origine la tangente è obliqua, con coefficiente angolare $k$.
+- **$k=0$:** $f(x)=x^3$, ancora strettamente crescente, con flesso a tangente orizzontale nell'origine.
+- **$k<0$:** $f'(x)=0$ per $x=\pm\sqrt{-\dfrac{k}{3}}$. La derivata è positiva all'esterno e negativa all'interno di questi valori, quindi $f$ presenta un **massimo relativo** in $x=-\sqrt{-\dfrac{k}{3}}$ e un **minimo relativo** in $x=+\sqrt{-\dfrac{k}{3}}$. Non esistono estremi assoluti, poiché $\lim_{x\to\pm\infty}f(x)=\pm\infty$.
 
-Il candidato risolva uno dei due problemi e risponda a $5$ quesiti del questionario.
 
-PROBLEMA $1$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="155.011" height="261.926" viewBox="-72 -72 116.258 196.444"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 29.25h91.502"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M17.552 26.85c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-26.119" y="29.25" stroke="none" font-family="cmmi10" font-size="10" transform="translate(49.484 2.153)">x</text><path fill="none" d="M-26.12 91.42V-32.52"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-28.52-30.64c1.44-.38 2.12-1.226 2.4-2.08.28.854.96 1.7 2.4 2.08"/><text x="-26.119" y="29.25" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -67.647)">y</text><g fill="red" stroke="red" stroke-width=".8"><path fill="none" d="m-61.258 123.774 1.191-7.028 1.191-6.632 1.191-6.25 1.191-5.884 1.192-5.529 1.19-5.188 1.192-4.863 1.191-4.55 1.191-4.253 1.191-3.967 1.191-3.697 1.192-3.44 1.19-3.198 1.192-2.968 1.191-2.753 1.191-2.552 1.191-2.364 1.191-2.191 1.192-2.032 1.19-1.886 1.192-1.753 1.191-1.636 1.191-1.532 1.191-1.442 1.191-1.365 1.192-1.303 1.19-1.254 1.192-1.22 1.19-1.198 1.192-1.191 1.191-1.199 1.191-1.22 1.191-1.254 1.192-1.302 1.19-1.365 1.192-1.442 1.191-1.532 1.191-1.635 1.191-1.754 1.191-1.886 1.192-2.031 1.19-2.191 1.192-2.365 1.191-2.551 1.191-2.753 1.191-2.968 1.191-3.197 1.192-3.44 1.19-3.697 1.192-3.967 1.191-4.252 1.191-4.55 1.191-4.863 1.191-5.189 1.192-5.528 1.19-5.883 1.192-6.25 1.191-6.632 1.191-7.028"/><g fill="red" stroke="none" font-size="10"><text x="-26.119" y="29.25" font-family="cmmi10" transform="translate(38.871 -91.243)">k</text><text x="-17.821" y="29.25" font-family="cmmi10" transform="translate(38.871 -91.243)">&gt;</text><text x="-7.265" y="29.25" font-family="cmr10" transform="translate(38.871 -91.243)">0</text></g></g><g fill="#008c00" stroke="#008c00" stroke-width=".8"><path fill="none" d="m-61.258 88.635 1.191-5.837 1.191-5.441 1.191-5.06 1.191-4.691 1.192-4.338 1.19-3.997 1.192-3.672 1.191-3.36 1.191-3.06 1.191-2.777 1.191-2.506 1.192-2.249 1.19-2.006 1.192-1.777 1.191-1.562 1.191-1.36 1.191-1.174 1.191-1 1.192-.84 1.19-.695 1.192-.563 1.191-.444 1.191-.34 1.191-.251 1.191-.174 1.192-.112 1.19-.063 1.192-.029 1.19-.007h1.192l1.191-.007 1.191-.029 1.191-.063 1.192-.111 1.19-.174 1.192-.25 1.191-.341 1.191-.445 1.191-.563 1.191-.694 1.192-.84 1.19-1 1.192-1.174 1.191-1.36 1.191-1.562 1.191-1.777 1.191-2.006 1.192-2.249 1.19-2.505L-1.7 9.324-.51 6.263l1.191-3.36 1.191-3.67 1.191-3.998 1.192-4.337 1.19-4.692 1.192-5.06 1.191-5.44 1.191-5.837"/><g fill="#008c00" stroke="none" font-size="10"><text x="-26.119" y="29.25" font-family="cmmi10" transform="translate(38.871 -55.909)">k</text><text x="-17.821" y="29.25" font-family="cmr10" transform="translate(38.871 -55.909)">=</text><text x="-7.265" y="29.25" font-family="cmr10" transform="translate(38.871 -55.909)">0</text></g></g><g fill="#00f" stroke="#00f" stroke-width=".8"><path fill="none" d="m-65.312 72.46 1.328-6.77 1.328-6.221 1.329-5.693 1.328-5.18 1.329-4.691 1.328-4.219 1.329-3.766 1.328-3.333 1.329-2.919 1.328-2.524 1.329-2.148 1.328-1.792 1.329-1.456 1.328-1.138 1.329-.839 1.328-.56 1.329-.3 1.328-.058 1.329.162 1.328.364 1.329.548 1.328.711 1.329.856 1.328.98 1.329 1.088 1.328 1.173 1.329 1.24 1.328 1.29 1.329 1.318 1.328 1.328 1.329 1.318 1.328 1.29 1.329 1.24 1.328 1.174 1.328 1.088 1.329.98 1.328.857 1.329.712 1.328.549 1.329.365 1.328.163 1.329-.058 1.328-.298 1.329-.56 1.328-.837 1.329-1.136 1.328-1.454 1.329-1.791 1.328-2.147 1.329-2.522 1.328-2.917 1.329-3.33 1.328-3.765 1.329-4.216 1.328-4.688 1.329-5.18L10.41-.94 11.74-7.16l1.328-6.767"/><g fill="#00f" stroke="none" font-size="10"><text x="-26.119" y="29.25" font-family="cmmi10" transform="translate(42.92 -39.9)">k</text><text x="-17.821" y="29.25" font-family="cmmi10" transform="translate(42.92 -39.9)">&lt;</text><text x="-7.265" y="29.25" font-family="cmr10" transform="translate(42.92 -39.9)">0</text></g></g></g></svg>
+</figure>
 
-Sia $f$ la funzione definita da
-$$ ( ) x n e n x x x x f $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
+## b)
 
-!
-$!2$
-$$ 1 2 $$
+Sia $g(x)=x^3$ con grafico $\gamma$, e si consideri la retta di equazione $y=1-x$. Le intersezioni si ottengono da
+$$x^3=1-x \quad\Rightarrow\quad x^3+x-1=0.$$
 
-dove $n$ è un intero positivo e
-$x \in$
+Posto $h(x)=x^3+x-1$, si ha $h'(x)=3x^2+1>0$ per ogni $x$: dunque $h$ è strettamente crescente e possiede **una sola radice reale**, cioè $\gamma$ e la retta hanno un unico punto comune $P$.
 
-$1.$ Si verifichi che la derivata di ( )
-$$ x f $$
-è:
-$$ ( ) x e n n x x f $$
--
--
-!
+Poiché $h(0)=-1<0$ e $h(1)=1>0$, la radice è compresa in $(0,1)$. Applicando un metodo iterativo (bisezione):
+$$h(0{,}6)=-0{,}184<0,\qquad h(0{,}7)=0{,}043>0,$$
+quindi $x_P\in(0{,}6;\,0{,}7)$; l'ampiezza dell'intervallo è già inferiore a $0{,}1$. Un'ulteriore iterazione dà $h(0{,}68)\approx-0{,}006$ e $h(0{,}69)\approx0{,}018$, da cui
+$$x_P\approx 0{,}68.$$
 
-$2.$ Si dica se la funzione $f$ ammette massimi e minimi (assoluti e relativi) e si provi che, quando $n$ è
-dispari, ( )
-$$ x f $$
+## c)
 
-$\le$ per ogni $x$ reale.
-$3.$ Si studi la funzione $g$ ottenuta da $f$ quando
-$$ 2 = n $$
-e se ne disegni il grafico.
-$4.$ Si calcoli $\int$
-$$ 2 0 ) ( dx x g $$
-e se ne dia l’interpretazione geometrica.
+La funzione inversa di $g(x)=x^3$ è $g^{-1}(x)=\sqrt[3]{x}=x^{1/3}$, il cui grafico è il simmetrico di $\gamma$ rispetto alla bisettrice $y=x$. Nel primo quadrante le due curve si intersecano in $(0,0)$ e in $(1,1)$; nell'intervallo $[0,1]$ si ha $x^{1/3}\ge x^3$. La regione $D$ ha quindi area
+$$\text{Area}(D)=\int_0^1\big(x^{1/3}-x^3\big)\,dx=\left[\frac{3}{4}x^{4/3}-\frac{x^4}{4}\right]_0^1=\frac{3}{4}-\frac{1}{4}=\frac{1}{2}.$$
 
-PROBLEMA $2$
 
-In un sistema di riferimento cartesiano ortogonale Oxy , si consideri la funzione $f : R \to R$
-definita da ( )
-$$ kx x x f + = 3 $$
-, con $k$ parametro reale.
-$1.$ Si dica come varia il grafico di $f$ al variare di $k (k$ positivo, negativo o nullo).
-$2.$ Sia ( )
-$$ 3 x x g = $$
-e $\gamma$ il suo grafico. Si dimostri che $\gamma$ e la retta d’equazione
-$$ x y $$
--
-hanno un solo
-punto $P$ in comune. Si determini l’ascissa di $P$ approssimandola a meno di $0,1$ con un metodo
-iterativo di calcolo.
-$3.$ Sia $D$ la regione finita del primo quadrante delimitata da $\gamma$ e dal grafico della funzione inversa di $g$ .
-Si calcoli l’area di $D.$
-$4.$ La regione $D$ è la base di un solido $W$ le cui sezioni con piani perpendicolari alla bisettrice del
-primo quadrante sono tutte rettangoli di altezza $12.$ Si determini la sezione di area massima. Si
-calcoli il volume di $W.$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="231.52" height="228.159" viewBox="-72 -72 173.64 171.119"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 87.267H81.175"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M79.295 84.867c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-60.688" y="87.267" stroke="none" font-family="cmmi10" font-size="10" transform="translate(145.797 2.153)">x</text><path fill="none" d="M-60.688 98.65V-54.597"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-63.088-52.716c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-60.688" y="87.267" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -147.741)">y</text><g stroke-dasharray="3.0,3.0"><path fill="none" d="M-60.688 87.267 70.194-43.615"/><g stroke="none" font-size="10"><text x="-60.688" y="87.267" font-family="cmmi10" transform="translate(134.415 -129.701)">y</text><text x="-52.649" y="87.267" font-family="cmr10" transform="translate(134.415 -129.701)">=</text><text x="-42.093" y="87.267" font-family="cmmi10" transform="translate(134.415 -129.701)">x</text></g></g><path fill="gray" fill-opacity=".3" stroke="none" stroke-opacity=".3" d="m-60.688 87.267 1.927-29.414 1.928-7.65 1.928-5.111 1.927-4.52 1.928-3.382 1.928-3.061 1.927-2.79 1.928-2.903 1.928-2.185 1.927-2.072 1.928-1.981 1.927-1.89 1.928-1.786 1.928-1.72 1.927-1.639 1.928-1.56 1.928-1.502 1.927-1.446 1.928-1.4 1.928-1.344 1.927-1.297 1.928-1.265 1.928-1.217 1.927-1.195 1.928-1.15L-10.57.662l1.927-1.095 1.928-1.07 1.927-1.046 1.928-1.025 1.928-.99 1.927-.98L2.924-6.5l1.928-.945 1.927-.91 1.928-.912 1.928-.875 1.927-.877 1.928-.854 1.928-.843 1.927-.82 1.928-.819 1.927-.797 1.928-.785 1.928-.775 1.927-.762 1.928-.762 1.928-.74 1.927-.73 1.928-.727 1.928-.707 1.927-.705 1.928-.695 1.928-.682 1.927-.684 1.928-.67 1.928-.66 1.927-.65 1.928-.65.08-.007-1.928 5.688-1.928 5.493-1.927 5.303-1.928 5.118-1.928 4.934-1.927 4.758-1.928 4.578-1.927 4.407-1.928 4.24-1.928 4.07-1.927 3.91-1.928 3.749-1.928 3.595-1.927 3.44-1.928 3.29-1.928 3.147-1.927 3.001-1.928 2.864-1.928 2.726-1.927 2.595-1.928 2.464-1.927 2.338-1.928 2.216-1.928 2.094-1.927 1.98-1.928 1.867-1.928 1.757-1.927 1.65-1.928 1.547-1.928 1.448-1.927 1.352-1.928 1.259-1.928 1.168-1.927 1.082-1.928 1-1.928.92-1.927.843-1.928.77-1.927.7-1.928.633-1.928.572-1.927.51-1.928.453-1.928.402-1.927.35-1.928.304-1.928.263-1.927.22-1.928.184-1.928.151-1.927.122-1.928.094-1.927.07-1.928.053-1.928.033-1.927.022-1.928.01-1.928.004h-1.927Z"/><g fill="#00f" stroke="#00f" stroke-width=".8"><path fill="none" d="M-60.688 87.267h2.12l2.12-.005 2.121-.014 2.12-.028 2.12-.043 2.121-.068 2.12-.093 2.121-.124 2.12-.16 2.12-.2 2.121-.242 2.12-.294 2.121-.345 2.12-.402 2.12-.465 2.121-.53 2.12-.602 2.121-.676 2.12-.755 2.12-.84 2.121-.93 2.12-1.02 2.121-1.118 2.12-1.219 2.121-1.325 2.12-1.436 2.12-1.55 2.121-1.671 2.12-1.794 2.121-1.921 2.12-2.056 2.12-2.19 2.121-2.332 2.12-2.479 2.121-2.627 2.12-2.784 2.12-2.942 2.121-3.105 2.12-3.273 2.121-3.446 2.12-3.622 2.121-3.803 2.12-3.988 2.12-4.178 2.121-4.373 2.12-4.57 2.121-4.776 2.12-4.983 2.12-5.192 2.121-5.413 2.12-5.63 2.121-5.856 2.12-6.087 2.12-6.32 2.121-6.557 2.12-6.804 2.121-7.047 2.12-7.301 2.121-7.558"/><g fill="#00f" stroke="none"><text x="-60.688" y="87.267" font-family="cmmi10" font-size="10" transform="translate(128.837 -148.064)">y</text><text x="-52.649" y="87.267" font-family="cmr10" font-size="10" transform="translate(128.837 -148.064)">=</text><text x="-42.093" y="87.267" font-family="cmmi10" font-size="10" transform="translate(128.837 -148.064)">x</text><text x="-36.378" y="83.638" font-family="cmr7" font-size="7" transform="translate(128.837 -148.064)">3</text></g></g><g fill="red" stroke="red" stroke-width=".8"><path fill="none" d="m-60.688 87.267 2.12-30.291 2.12-7.878 2.121-5.362 2.12-4.554 2.12-3.562 2.121-3.199 2.12-3.313 2.121-2.424 2.12-2.312 2.12-2.174 2.121-2.072 2.12-1.959 2.121-1.867 2.12-1.764 2.12-1.695 2.121-1.617 2.12-1.56 2.121-1.49 2.12-1.435 2.12-1.39 2.121-1.342 2.12-1.297 2.121-1.265 2.12-1.23 2.121-1.183 2.12-1.16 2.12-1.14 2.121-1.104 2.12-1.082 2.121-1.047 2.12-1.035 2.12-1.002 2.121-.99 2.12-.97 2.121-.954 2.12-.923 2.12-.922 2.121-.887 2.12-.89 2.121-.864 2.12-.854 2.121-.843 2.12-.82 2.12-.82 2.121-.795 2.12-.786 2.121-.785 2.12-.763 2.12-.762 2.121-.741 2.12-.728 2.121-.73 2.12-.717 2.12-.69 2.121-.699 2.12-.691 2.121-.683 2.12-.673 2.121-.667"/><g fill="red" stroke="none"><text x="-60.688" y="87.267" font-family="cmmi10" font-size="10" transform="translate(106.664 -123.13)">y</text><text x="-52.649" y="87.267" font-family="cmr10" font-size="10" transform="translate(106.664 -123.13)">=</text><text x="-42.093" y="87.267" font-family="cmmi10" font-size="10" transform="translate(106.664 -123.13)">x</text><text x="-36.378" y="83.638" font-family="cmr7" font-size="7" transform="translate(106.664 -123.13)">1</text><text x="-32.392" y="83.638" font-family="cmmi7" font-size="7" transform="translate(106.664 -123.13)">=</text><text x="-28.295" y="83.638" font-family="cmr7" font-size="7" transform="translate(106.664 -123.13)">3</text></g></g><path stroke="none" d="M54.488-26.544a1.365 1.365 0 1 0-2.73 0 1.365 1.365 0 0 0 2.73 0m-1.365 0"/><text x="-60.688" y="87.267" stroke="none" font-family="cmmi10" font-size="10" transform="translate(58.318 -59.18)">D</text></g></svg>
+</figure>
 
-Sessione ordinaria 2009
+## d)
 
-CORSO SPERIMENTALE
+La regione $D$ è simmetrica rispetto alla bisettrice $y=x$ del primo quadrante. Una retta perpendicolare a tale bisettrice ha equazione $x+y=c$ (con $c\in[0,2]$) e interseca il bordo di $D$ in due punti simmetrici rispetto a $y=x$: uno sulla curva $y=x^3$, l'altro su $y=x^{1/3}$.
 
-Indirizzo: PIANO NAZIONALE INFORMATICA
+Detto $a$ l'ascissa del punto sulla curva $y=x^3$ (quindi con $x+y=a+a^3=c$), la distanza di $(a,a^3)$ dalla bisettrice $x-y=0$ vale $\dfrac{a-a^3}{\sqrt2}$, e la lunghezza della corda (base del rettangolo) è il doppio:
+$$\ell(a)=\sqrt2\,(a-a^3),\qquad a\in[0,1].$$
 
-Tema di: MATEMATICA
+Ogni sezione è un rettangolo di base $\ell(a)$ e altezza $12$, quindi di area
+$$A(a)=12\,\sqrt2\,(a-a^3).$$
+Derivando: $A'(a)=12\sqrt2\,(1-3a^2)$, che si annulla per $a=\dfrac{1}{\sqrt3}$. In tale punto
+$$a-a^3=\frac{1}{\sqrt3}\left(1-\frac{1}{3}\right)=\frac{2}{3\sqrt3},$$
+da cui la **sezione di area massima**
+$$A_{\max}=12\,\sqrt2\cdot\frac{2}{3\sqrt3}=\frac{8\sqrt2}{\sqrt3}=\frac{8\sqrt6}{3}\approx6{,}53.$$
 
-QUESTIONARIO
-$1.$ Siano:
-a <
-<
-$$ 0 e [ ] b b x , $$
--
-$\in$
-. Si provi che: $\int -$
--
-$$ b b a x 2 2 b a dx + = . $$
-$2.$ Sono dati gli insiemi A = { $,1 2, 3,$ }
-$4$ e $B =$ { ,a $b,$ }
-$c$ . Tra le possibili funzioni (o applicazioni) di A in
-$B, ce$ ne sono di suriettive? Di iniettive? Di biiettive?
-$3.$ Una moneta da $2$ euro (il suo diametro è $25,75 mm)$ viene lanciata su un pavimento ricoperto con
-mattonelle quadrate di lato $10 cm.$ Quale è la probabilità che la moneta vada a finire internamente $ad$
-una mattonella? (cioè non tagli i lati dei quadrati)
-$4.$ “Esiste solo un poliedro regolare le cui facce sono esagoni”. Si dica se questa affermazione è vera o
-falsa e si fornisca una esauriente spiegazione della risposta.
-$5.$ Si considerino le seguenti espressioni:
-$$ 0 0 ; 0 1 ; 0 0 ; 1 0 $$
-
-A quali di esse è possibile attribuire un valore numerico? Si motivi la risposta.
-$6.$ Con l’aiuto di una calcolatrice, si applichi il procedimento iterativo di Newton all’equazione senx $= 0,$
-con punto iniziale
-$0x = 3.$ Cosa si ottiene dopo due iterazioni?
-$7.$ Si dimostri l’identità
-$$ 1 1 + $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-$$ + k k n k n k n $$
-con $n$ e $k$ naturali e $n > k$
-$8.$ Alla festa di compleanno di Anna l’età media dei partecipanti è di $22$ anni. Se l’età media degli uomini è
-$26$ anni e quella delle donne è $19,$ qual è il rapporto tra il numero degli uomini e quello delle donne?
-$9.$ Nei “Discorsi e dimostrazioni matematiche intorno a due nuove scienze”, Galileo Galilei descrive la
-
-costruzione di un solido che chiama scodella considerando una
-semisfera di raggio $r$ e il cilindro $ad$ essa circoscritto. La
-scodella si ottiene togliendo la semisfera dal cilindro.
-Si dimostri, utilizzando il principio di Cavalieri, che la
-scodella ha volume pari al cono di vertice $V$ in figura.
-$10.$ “Se due punti $P$ e $Q$ del piano giacciono dalla stessa
-parte rispetto $ad$ una retta $AB$ e gli angoli
-$$ B A $$
-$P$ ˆ
-$$ e A B $$
-$Q$ ˆ hanno somma minore di $180^\circ$ , allora le semirette
-$AP$ e $BQ,$ prolungate adeguatamente al di là dei punti
-$P$ e $Q,$ si devono intersecare”. Questa proposizione è
-stata per secoli oggetto di studio da parte di schiere di
-matematici. Si dica perché e con quali risultati.
-
-___________________________
-Durata massima della prova: $6$ ore.
-È consentito l’uso della calcolatrice non programmabile.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+Per il volume, indicata con $s$ l'ascissa curvilinea lungo la bisettrice, si ha
+$$\text{Vol}(W)=\int 12\,\ell\,ds=12\int \ell\,ds=12\cdot\text{Area}(D),$$
+poiché l'integrale della lunghezza delle corde perpendicolari lungo la bisettrice restituisce proprio l'area di $D$. Pertanto
+$$\text{Vol}(W)=12\cdot\frac{1}{2}=6.$$
 
 *Fonte:* [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/analisi #cluster/calcolo_integrale_e_aree

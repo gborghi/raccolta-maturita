@@ -1,152 +1,71 @@
----
-title: 2006 Sessione Ordinaria PNI — Prova (p.108) — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2006_sessione_ordinaria_2006_prova_108_1
-of_item: prob_2006_sessione_ordinaria_2006_prova_108_1
-prova_id: prova_2006_sessione_ordinaria_2006_prova_108
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2006
----
+
 
 **Problema:** [[Problemi/prob_2006_sessione_ordinaria_2006_prova_108_1|2006 Sessione Ordinaria PNI — Prova (p.108) — Problema 1]] · **Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_108|2006 Sessione Ordinaria PNI — Prova (p.108)]]
 
-Sessione ordinaria 2006
+Un filo metallico di lunghezza $\lambda$ delimita il perimetro di un'aiuola rettangolare. Si vuole determinare l'aiuola di area massima; poi, tagliando il filo in due parti destinate a un'aiuola quadrata e a una circolare, come ripartirlo perché la somma delle due aree sia minima oppure massima. Infine si valuta di quanto aumenta il terreno necessario se ogni dimensione di un'aiuola a forma di parallelepipedo cresce del $10\%$.
 
-CORSO SPERIMENTALE
+## a) Aiuola rettangolare di area massima
 
-PIANO NAZIONALE INFORMATICA
+Siano $x$ e $y$ i lati del rettangolo. Il perimetro è fissato:
+$$2(x+y)=\lambda \quad\Rightarrow\quad y=\frac{\lambda}{2}-x, \qquad 0<x<\frac{\lambda}{2}.$$
 
-Tema di: MATEMATICA
+L'area è
+$$A(x)=x\,y=x\left(\frac{\lambda}{2}-x\right)=\frac{\lambda}{2}\,x-x^2.$$
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+Derivando e annullando:
+$$A'(x)=\frac{\lambda}{2}-2x=0 \quad\Rightarrow\quad x=\frac{\lambda}{4}.$$
 
-PROBLEMA $1$
+Poiché $A''(x)=-2<0$, si tratta di un massimo. Ne segue $y=\dfrac{\lambda}{2}-\dfrac{\lambda}{4}=\dfrac{\lambda}{4}=x$: l'aiuola di area massima è il **quadrato di lato $\dfrac{\lambda}{4}$**, con area
+$$A_{\max}=\left(\frac{\lambda}{4}\right)^2=\frac{\lambda^2}{16}.$$
 
-Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un’aiuola
-rettangolare.
-a) Quale è l’aiuola di area massima che è possibile delimitare?
+## b) Somma delle aree minima
 
-Si pensa di tagliare il filo in due parti e di utilizzarle per delimitare un’aiuola quadrata e un’altra
-circolare. Come si dovrebbe tagliare il filo affinché:
-$b)$ la somma delle due aree sia minima?
-$c)$ la somma delle due aree sia massima?
+Si taglia il filo in due parti. Indichiamo con $x$ la lunghezza del tratto usato per il **quadrato** (con $0\le x\le \lambda$): il lato è $\dfrac{x}{4}$ e l'area vale $\dfrac{x^2}{16}$.
 
-Una aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una scatola, cioè, colma
-di terreno. Si discute di aumentare del $10%$ ciascuna sua dimensione. Di quanto terreno in più, in
-termini percentuali, si ha bisogno?
+Il tratto rimanente $\lambda-x$ forma la **circonferenza**: $2\pi r=\lambda-x$, quindi $r=\dfrac{\lambda-x}{2\pi}$ e l'area del cerchio è
+$$\pi r^2=\pi\left(\frac{\lambda-x}{2\pi}\right)^2=\frac{(\lambda-x)^2}{4\pi}.$$
 
-PROBLEMA $2$
 
-Si considerino le funzioni $f$ e $g$ determinate da ( )
-$$ x x f log = $$
-e ( )
-$$ 2 ax x g = $$
-, essendo a un parametro
-reale e il logaritmo in base e.
-$1.$ Si discuta, al variare di ,a l’equazione
-$$ 2 log ax $$
-$x =$
-e si dica, in particolare, per quale valore di
-a i grafici di $f$ e $g$ sono tra loro tangenti.
-$2.$ Si calcoli, posto
-$2e$
--
-l’area che è compresa fra i grafici di $f$ e $g$ (con $x > 0)$ nella striscia
-di piano determinata dalle rette d’equazioni
--
-$$ = y e .2 $$
--
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="218.495" height="106.087" viewBox="-72 -72 163.871 79.566"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="#00f" stroke-width=".8" d="M-71.87-14.965V-71.87h56.905v56.905Zm56.905-56.905"/><text x="-71.87" y="-14.965" stroke="none" font-family="cmr10" font-size="10" transform="translate(8.855 -25.953)">quadrato</text><g stroke="none"><text x="-71.87" y="-14.965" font-family="cmr10" font-size="10" transform="translate(9.708 14.555)">lato</text><text x="-51.87" y="-14.965" font-family="cmr10" font-size="10" transform="translate(9.708 14.555)">=</text><text x="-40.114" y="-18.902" font-family="cmmi7" font-size="7" transform="translate(9.708 14.555)">x</text><path d="M-30.406-3.11h4.535v.4h-4.535z"/><text x="-39.84" y="-11.516" font-family="cmr7" font-size="7" transform="translate(9.708 14.555)">4</text></g><path fill="none" stroke="red" stroke-width=".8" d="M87.466-43.417c0-15.714-12.739-28.453-28.453-28.453S30.56-59.131 30.56-43.417s12.739 28.452 28.453 28.452 28.453-12.738 28.453-28.452Zm-28.453 0"/><g stroke="none" font-family="cmr10" font-size="10"><text x="-71.87" y="-14.965" transform="translate(115.73 -24.98)">cerc</text><text x="-54.898" y="-14.965" transform="translate(115.73 -24.98)">hio</text></g><g stroke="none"><text x="-71.87" y="-14.965" font-family="cmr10" font-size="10" transform="translate(101.627 15.479)">raggio</text><text x="-41.842" y="-14.965" font-family="cmr10" font-size="10" transform="translate(101.627 15.479)">=</text><text x="-30.087" y="-18.902" font-family="cmmi7" font-size="7" transform="translate(101.627 15.479)">¸</text><text x="-25.344" y="-18.902" font-family="cmsy7" font-size="7" transform="translate(101.627 15.479)">¡</text><text x="-19.094" y="-18.902" font-family="cmmi7" font-size="7" transform="translate(101.627 15.479)">x</text><path d="M71.54-2.186h15.528v.4H71.54z"/><text x="-26.78" y="-11.516" font-family="cmr7" font-size="7" transform="translate(101.627 15.479)">2</text><text x="-22.793" y="-11.516" font-family="cmmi7" font-size="7" transform="translate(101.627 15.479)">¼</text></g></g></svg>
+</figure>
 
-$3.$ Si studi la funzione
-$$ 2 log ) ( ax x x h $$
--
-scegliendo per a un valore numerico maggiore di e
-$1$ e
-se ne disegni il grafico.
+La somma delle due aree è
+$$S(x)=\frac{x^2}{16}+\frac{(\lambda-x)^2}{4\pi}, \qquad 0\le x\le \lambda.$$
 
-Sessione ordinaria 2006
+Derivando:
+$$S'(x)=\frac{x}{8}-\frac{\lambda-x}{2\pi}.$$
 
-CORSO SPERIMENTALE
+Ponendo $S'(x)=0$:
+$$\frac{x}{8}=\frac{\lambda-x}{2\pi} \;\Rightarrow\; 2\pi x=8(\lambda-x) \;\Rightarrow\; x(2\pi+8)=8\lambda \;\Rightarrow\; x=\frac{8\lambda}{2\pi+8}=\frac{4\lambda}{\pi+4}.$$
 
-PIANO NAZIONALE INFORMATICA
+Poiché $S''(x)=\dfrac{1}{8}+\dfrac{1}{2\pi}>0$, il punto è un **minimo**. Dunque la somma delle aree è minima destinando al quadrato il tratto
+$$x=\frac{4\lambda}{\pi+4}$$
+e alla circonferenza il tratto
+$$\lambda-x=\lambda-\frac{4\lambda}{\pi+4}=\frac{\pi\lambda}{\pi+4}.$$
 
-Tema di: MATEMATICA
+(Si noti che con questa ripartizione il lato del quadrato $\dfrac{x}{4}=\dfrac{\lambda}{\pi+4}$ eguaglia il diametro del cerchio $2r=\dfrac{\lambda-x}{\pi}=\dfrac{\lambda}{\pi+4}$.)
 
-QUESTIONARIO
+## c) Somma delle aree massima
 
-$1.$ Si narra che l’inventore del gioco degli scacchi chiedesse di essere compensato con chicchi di
-grano: un chicco sulla prima casella, due sulla seconda, quattro sulla terza e così via, sempre
-raddoppiando il numero dei chicchi, fino alla $64a$ casella. Assumendo che 1000 chicchi pesino
-circa $38g,$ calcola il peso in tonnellate della quantità di grano pretesa dall’inventore.
-$2.$ I poliedri regolari - noti anche come solidi platonici - sono, a meno di similitudini, solo
-cinque: il tetraedro, il cubo, l’ottaedro, il dodecaedro e l’icosaedro. Sai dimostrarlo?
-$3.$ In un piano sono dati una retta $r$ e due punti A e $B ad$ essa esterni ma situati nel medesimo
-semipiano di origine $r.$ Si trovi il più breve cammino che congiunga A con $B$ toccando $r.$
-$4.$ Si dimostri che l’equazione
-$$ 1 sen $$
--
-$= x$
-ha una e una sola radice $\alpha$ e, utilizzando una
-calcolatrice tascabile, se ne dia una stima. Si descriva altresì una procedura di calcolo che
-consenta di approssimare $\alpha$ con la precisione voluta.
-$5.$ Si dimostri che la somma dei coefficienti dello sviluppo di
-$$ n b a ) ( + $$
-è uguale a
-$2$ per ogni
-$n \in$
-$6.$ L’equazione risolvente un dato problema è:
-$$ 0 2 5 2 cos = + $$
-$-k$
-$$ x k $$
-dove $k$ è un parametro reale e
-$x$ ha le seguenti limitazioni:
-$^\circ$
-<
-<
-$^\circ$
-$$ 45 15 x $$
-. Si discuta per quali valori di $k$ le radici
-dell’equazione siano soluzioni del problema.
-$7.$ Bruno $de$ Finetti $(1906-1985),$ tra i più illustri matematici italiani del secolo scorso, del quale
-ricorre quest’anno il centenario della nascita, alla domanda: “che cos’è la probabilità?” era
-solito rispondere: “la probabilità non esiste!”. Quale significato puoi attribuire a tale risposta?
-E’ possibile collegarla $ad$ una delle diverse definizioni di probabilità che sono state
-storicamente proposte?
-$8.$ Un tiratore spara ripetutamente $ad$ un bersaglio; la probabilità di colpirlo è di $0,3$ per ciascun
-tiro. Quanti tiri deve fare per avere probabilità
-$$ 99 ,0 $$
-$\ge$
-di colpirlo almeno una volta?
-$9.$ Della funzione
-$$ ( ) x f $$
-si $sa$ che è derivabile e diversa da zero in ogni punto del suo dominio e,
-ancora, che:
-$$ ( ) ( ) x f x f = $$
-'
-e ( )
-$$ 1 0 = f $$
-. Puoi determinare ( )
-$$ x f $$
-?
-$$ 10. $$
-Tenuto conto che:
-$$ \int + = 1 0 2 1 4 x dx $$
-$\pi$
+La funzione $S(x)$ è continua sull'intervallo chiuso $[0,\lambda]$ e ha un solo punto stazionario, che è un minimo. Il massimo va quindi cercato agli **estremi**:
+$$S(0)=\frac{\lambda^2}{4\pi} \quad(\text{tutto il filo alla circonferenza}), \qquad S(\lambda)=\frac{\lambda^2}{16} \quad(\text{tutto il filo al quadrato}).$$
 
-calcola un’approssimazione di $\pi$ utilizzando uno dei metodi di integrazione numerica studiati.
+Poiché $4\pi\approx 12{,}57<16$, si ha $\dfrac{\lambda^2}{4\pi}>\dfrac{\lambda^2}{16}$. Il massimo è dunque in $x=0$: la somma delle aree è massima usando **tutto il filo per la circonferenza** (non ritagliando nulla per il quadrato), con area
+$$S_{\max}=\frac{\lambda^2}{4\pi}.$$
 
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+A parità di perimetro, infatti, il cerchio racchiude un'area maggiore del quadrato: conviene non tagliare il filo.
+
+## d) Aumento del volume del $10\%$ per dimensione
+
+L'aiuola-scatola è un parallelepipedo rettangolo di dimensioni $a$, $b$, $c$ e volume $V=a\,b\,c$. Aumentando ciascuna dimensione del $10\%$, ogni fattore diventa $1{,}1$ volte:
+$$V'=(1{,}1\,a)(1{,}1\,b)(1{,}1\,c)=1{,}1^3\,abc=1{,}331\,V.$$
+
+L'aumento è quindi
+$$\frac{V'-V}{V}=1{,}331-1=0{,}331=33{,}1\%.$$
+
+Serve dunque il **$33{,}1\%$ di terreno in più**.
 
 *Fonte:* [📄 PDF p.108](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -1,610 +1,100 @@
----
-title: 2002 Straordinaria Ordinamento — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2002_ordinamento_2002_sessione_straordinaria_problema2_66_1
-of_item: prob_2002_ordinamento_2002_sessione_straordinaria_problema2_66_1
-prova_id: prova_2002_ordinamento_2002_sessione_straordinaria_problema2_66
-anno: '2002'
-pdf: Prova_Maturita_2002.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2002
----
+
 
 **Problema:** [[Problemi/prob_2002_ordinamento_2002_sessione_straordinaria_problema2_66_1|2002 Straordinaria Ordinamento — Problema 2 — Problema 1]] · **Prova:** [[Prove/2002_ordinamento_2002_sessione_straordinaria_problema2_66|2002 Straordinaria Ordinamento — Problema 2]]
 
-ORDINAMENTO 2002 - SESSIONE STRAORDINARIA - PROBLEMA $2$
+Con riferimento a un sistema di assi cartesiani ortogonali $(Oxy)$, si studiano le funzioni
 
-Con riferimento a un sistema di assi cartesiani ortogonali (Oxy):
+$$f(x)=\frac{-2x^3+6x^2}{3}=\frac{2x^2(3-x)}{3}, \qquad g(x)=\frac{x^3-6x^2+12x}{3}=\frac{x(x^2-6x+12)}{3}.$$
 
-a)
+## a) Studio delle due funzioni
 
-studiare le funzioni:
+**Funzione $f$.** È una cubica, definita su tutto $\mathbb{R}$, non pari né dispari. Le intersezioni con gli assi si hanno per $x=0$ (zero doppio, quindi tangenza all'asse $x$) e per $x=3$. Poiché
 
-$y= -2x^{3} + 6x^{2}$
-, $y= x^{3} -6x^{2} + 12x$
+$$\lim_{x\to\pm\infty} f(x)=\lim_{x\to\pm\infty}\frac{-2x^3}{3}=\mp\infty,$$
 
-e disegnare i loro grafici.
+non vi sono asintoti (né orizzontali né obliqui).
 
-Studiamo la prima funzione:
+La derivata prima è
 
-$y=$ f(x) $= -2x^{3}+ 6x^{2}$
-$= -2$
-$3x^{3}+ 2x^{2}= x^{2}(-2$
-$3x+ 2)$
+$$f'(x)=-2x^2+4x=-2x(x-2)\ge 0 \iff 0\le x\le 2,$$
 
-Si tratta di una cubica, quindi è definita su tutto $R.$
+dunque $f$ è crescente in $(0,2)$ e decrescente altrove: $x=0$ è punto di minimo relativo con $f(0)=0$, mentre $x=2$ è punto di massimo relativo con
 
-La funzione non pari né dispari.
+$$f(2)=\frac{-2\cdot 8+6\cdot 4}{3}=\frac{8}{3}.$$
 
-Intersezioni con gli assi cartesiani:
+La derivata seconda è
 
-Se $x=0, y=0.$
-Se $y=0, x=0$ (doppia, quindi tangenza all’asse $x$ e -
-$3 x+ 2 = 0$ da cui $x= 3.$
+$$f''(x)=-4x+4\ge 0 \iff x\le 1,$$
 
-Limiti:
+quindi la concavità è rivolta verso l'alto per $x<1$ e verso il basso per $x>1$, con un flesso in $x=1$, dove $f(1)=\dfrac{4}{3}$.
 
-$limx\to \pm \infty (-$
-$3 x^{3} + 2x^{2}) = limx\to \pm \infty (-$
-$3 x^{3}) = \mp \infty$ (non ci sono asintoti obliqui).
+**Funzione $g$.** È una cubica, definita su tutto $\mathbb{R}$, non pari né dispari. Interseca gli assi solo in $x=0$: l'equazione $x^2-6x+12=0$ ha discriminante $\Delta=36-48<0$ e quindi nessuna radice reale. Inoltre
 
-Derivata prima:
+$$\lim_{x\to\pm\infty} g(x)=\lim_{x\to\pm\infty}\frac{x^3}{3}=\pm\infty,$$
 
-f'(x) $= -2x^{2} + 4x\ge 0$ se $x^{2} -2x\le 0 : 0 \le x\le 2.$ La funzione è quindi crescente se
+senza asintoti obliqui. La derivata prima è
 
-$0 < x< 2$ e decrescente se $x< 0$ vel $x> 2 : x=2$ è punto di massimo relativo con
-valore $f(2) = -$
-$3 ∙8 + 8 =$
-$3 ; x=0$ è punto di minimo relativo con valore $y=0.$
+$$g'(x)=x^2-4x+4=(x-2)^2\ge 0 \quad\text{per ogni } x,$$
 
-Derivata seconda:
-f''(x) $= -4x+ 4 \ge 0$ se $x\le 1$ : concavità verso l’alto se $x<1,$ verso il basso se $x>1,$
-flesso per $x=2$ con $y= f(1) = -$
-$$ 2 3 + 2 = 4 3 . $$
+perciò $g$ è sempre crescente; in $x=2$ si annulla $g'$, dando un flesso a tangente orizzontale. La derivata seconda $g''(x)=2x-4\ge 0 \iff x\ge 2$ conferma il flesso in $x=2$, dove
 
-Il grafico della funzione è il seguente:
+$$g(2)=\frac{8-24+24}{3}=\frac{8}{3}.$$
 
-Studiamo la seconda funzione:
 
-$y=$ g(x) $= x^{3}-6x^{2}+ 12x$
-$$ 3 = 1 $$
-$3x^{3}-2x^{2}+ 4x= x(1$
-$3x^{2}-2x+ 4)$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="232.145" height="367.241" viewBox="-72 -72 174.109 275.43"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 96.198H88.857"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M86.977 93.798c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-36.22" y="96.198" stroke="none" font-family="cmmi10" font-size="10" transform="translate(129.01 2.153)">x</text><path fill="none" d="M-36.22 132.049V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-38.62-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-36.22" y="96.198" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -160.83)">y</text><path fill="none" d="M-6.344 93.808v4.78"/><text x="-36.22" y="96.198" stroke="none" font-family="cmr9" font-size="9" transform="translate(27.563 11.723)">1</text><path fill="none" d="M23.531 93.808v4.78"/><text x="-36.22" y="96.198" stroke="none" font-family="cmr9" font-size="9" transform="translate(57.438 11.723)">2</text><path fill="none" d="M53.407 93.808v4.78"/><text x="-36.22" y="96.198" stroke="none" font-family="cmr9" font-size="9" transform="translate(87.314 11.723)">3</text><path fill="none" d="M-33.83 66.323h-4.78"/><text x="-36.22" y="96.198" stroke="none" font-family="cmr9" font-size="9" transform="translate(-10.548 -26.975)">1</text><path fill="none" d="M-33.83 36.447h-4.78"/><text x="-36.22" y="96.198" stroke="none" font-family="cmr9" font-size="9" transform="translate(-10.548 -56.85)">2</text><path fill="none" d="M-33.83 6.572h-4.78"/><text x="-36.22" y="96.198" stroke="none" font-family="cmr9" font-size="9" transform="translate(-10.548 -86.726)">3</text><path fill="none" d="M-33.83-23.304h-4.78"/><text x="-36.22" y="96.198" stroke="none" font-family="cmr9" font-size="9" transform="translate(-10.548 -116.602)">4</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-49.663 82.285 1.474 3.042 1.475 2.636 1.475 2.242 1.474 1.863 1.475 1.497 1.475 1.148 1.475.811 1.474.491 1.475.181 1.475-.11 1.474-.388 1.475-.653 1.475-.902 1.475-1.138 1.474-1.359 1.475-1.565 1.475-1.758 1.474-1.935 1.475-2.1 1.475-2.247 1.475-2.383 1.474-2.503 1.475-2.61 1.475-2.7 1.475-2.778 1.474-2.841 1.475-2.89 1.475-2.923 1.474-2.944 1.475-2.949 1.475-2.94 1.475-2.916 1.474-2.878 1.475-2.827 1.475-2.76 1.474-2.679 1.475-2.584 1.475-2.474 1.475-2.35 1.474-2.213 1.475-2.06 1.475-1.891 1.474-1.711 1.475-1.515 1.475-1.305 1.475-1.08 1.474-.84 1.475-.589 1.475-.32 1.474-.038 1.475.258 1.475.57 1.475.894 1.474 1.234 1.475 1.588 1.475 1.956 1.475 2.34 1.474 2.736 1.475 3.147 1.475 3.573 1.474 4.014 1.475 4.468 1.475 4.937 1.475 5.42 1.474 5.918 1.475 6.43 1.475 6.957 1.474 7.497 1.475 8.052 1.475 8.622 1.475 9.206 1.474 9.804 1.475 10.417 1.475 11.044 1.474 11.686 1.475 12.34 1.475 13.012 1.475 13.696 1.474 14.394"/><path fill="none" stroke="red" stroke-width=".8" d="m-51.157 172.131 1.342-8.238 1.342-7.942 1.342-7.651 1.342-7.367 1.342-7.086 1.342-6.812 1.342-6.543 1.342-6.28 1.342-6.021 1.342-5.77 1.342-5.52 1.342-5.28 1.343-5.043 1.342-4.812 1.342-4.587 1.342-4.367 1.342-4.152L-27 64.72l1.342-3.739 1.342-3.54 1.342-3.347 1.342-3.159 1.342-2.977 1.342-2.8 1.342-2.628 1.342-2.462 1.342-2.302 1.342-2.147 1.342-1.997 1.343-1.852 1.342-1.714 1.342-1.58 1.342-1.452 1.342-1.329 1.342-1.212 1.342-1.1 1.342-.994 1.342-.892 1.342-.797 1.342-.707 1.342-.622 1.342-.542 1.342-.469 1.342-.4 1.342-.337 1.343-.28 1.342-.227 1.342-.18 1.342-.139 1.342-.103 1.342-.072 1.342-.047 1.342-.026 1.342-.013 1.342-.004h1.342l1.342-.003 1.342-.01 1.342-.021 1.342-.04 1.342-.064 1.343-.093 1.342-.128 1.342-.167 1.342-.212 1.342-.263 1.342-.319 1.342-.38 1.342-.447 1.342-.52 1.342-.597 1.342-.68 1.342-.77 1.342-.862 1.342-.963 1.342-1.067 1.342-1.177 1.343-1.293 1.342-1.414"/><path stroke="none" d="M-34.12 96.198a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="-36.22" y="96.198" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 10.366)">O</text><path stroke="none" d="M25.631 16.52a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="-36.22" y="96.198" stroke="none" font-family="cmmi10" font-size="10" transform="translate(63.284 -83.211)">A</text><g fill="#00f" stroke="#00f"><text x="-36.22" y="96.198" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(97.097 23.413)">f</text></g><g fill="red" stroke="red"><text x="-36.22" y="96.198" fill="red" stroke="none" font-family="cmmi10" font-size="10" transform="translate(87.062 -100.396)">g</text></g></g></svg>
+</figure>
 
-Si tratta di una cubica, quindi è definita su tutto $R.$
+## b) Punto $A$ e massima lunghezza di $RS$
 
-La funzione non pari né dispari.
+Cerchiamo le intersezioni fra le due curve imponendo $f(x)=g(x)$:
 
-Intersezioni con gli assi cartesiani:
+$$\frac{x^3-6x^2+12x}{3}=\frac{-2x^3+6x^2}{3} \;\Rightarrow\; x^3-4x^2+4x=0 \;\Rightarrow\; x(x-2)^2=0.$$
 
-Se $x=0, y=0.$
-Se $y=0, x=0$ e
-$3 x^{2} -2x+ 4 = 0$ che non ha soluzioni (delta negativo)
+Le soluzioni sono $x=0$ e $x=2$ (doppia). Oltre all'origine $O=(0,0)$ le curve hanno in comune il punto
 
-Limiti:
+$$A=\left(2,\ \frac{8}{3}\right).$$
 
-$limx\to \pm \infty$ (
-$3 x^{3} -2x^{2} + 4x) = limx\to \pm \infty$ (
-$3 x^{3}) = \pm \infty$ (non ci sono asintoti obliqui).
+La retta $OA$ ha equazione $y=\dfrac{4}{3}x$. Preso su $OA$ un punto di ascissa $x$, con $0\le x\le 2$, la retta parallela all'asse $y$ per esso interseca le due curve in $R=(x,f(x))$ ed $S=(x,g(x))$; la lunghezza del segmento è
 
-Derivata prima:
+$$z(x)=g(x)-f(x)=x^3-4x^2+4x, \qquad 0\le x\le 2.$$
 
-g'(x) $= x^{2} -4x+ 4 \ge 0$ se $(x-2)^{2} \ge 0$ : per ogni $x;$ in particolare g'(x) $= 0$ se $x= 0$
+Cerchiamo il massimo:
 
-Quindi la funzione è sempre crescente ed ha in $x=2$ (ordinata $y= g(2) =$
-$3 -8 + 8 =$
-$$ 8 3 ) $$
-un flesso a tangente orizzontale.
+$$z'(x)=3x^2-8x+4=(3x-2)(x-2)\ge 0 \iff x\le \frac{2}{3}\ \text{ oppure }\ x\ge 2.$$
 
-Derivata seconda:
+Nell'intervallo $[0,2]$, $z$ è crescente per $0\le x<\dfrac{2}{3}$ e decrescente per $\dfrac{2}{3}<x<2$: il massimo si ha per $x=\dfrac{2}{3}$, con
 
-g''(x) $= 2x-4 \ge 0$ se $x\ge 2$ : concavità verso l’alto se $x>2,$ verso il basso se $x<2,$
-flesso per $x=2$ con $y= g(2) =$
-$$ 8 3 . $$
+$$z\!\left(\frac{2}{3}\right)=\frac{32}{27}.$$
 
-Il grafico della funzione è il seguente:
+Il punto cercato è dunque
 
-$b)$
+$$P=\left(\frac{2}{3},\ \frac{8}{9}\right),$$
 
-Dopo aver verificato che, oltre al punto O, tali grafici hanno in comune un altro punto A,
-determinare sul segmento $OA$ un punto $P$ tale che, condotta per esso la retta parallela
-all’asse $y,$ sia massima la lunghezza del segmento $RS,$ dove $R$ ed $S$ sono i punti in cui la
-retta interseca i due grafici suddetti.
+sulla retta $y=\dfrac{4}{3}x$, con $R=\left(\dfrac{2}{3},\dfrac{56}{81}\right)$ e $S=\left(\dfrac{2}{3},\dfrac{152}{81}\right)$.
 
-Cerchiamo le intersezioni fra le due curve:
-$y= 1$
-$3 x^{3} -2x^{2} + 4x$
-$y= -2$
-$3 x^{3} + 2x^{2}$
-$3 x^{3} -2x^{2} + 4x= -2$
-$3 x^{3} + 2x^{2}$
-$y= -2$
-$3 x^{3} + 2x^{2}$
-
-$3 x^{3} -2x^{2} + 4x= -2$
-$3 x^{3} + 2x^{2} \implies x^{3} -4x^{2} + 4x= 0 \implies x(x^{2} -4x+ 4) = 0$
-Quindi: $x=0$ e $x=2$ (doppia). Se $x=0: y=0,$ se $x=2: y=$
-$3$ . Quindi i due grafici, oltre al
-punto O hanno in comune il punto $A= (2;$
-$$ 8 3). $$
-
-$O= (0; 0), A= (2;$
-$3)$ , retta $OA: y=$
-$3 x , P= (t;$
-$3 t) , r: x= t$ , con $0 \le t\le 2$
-
-$R:$ {
-$y= t$
-$y= -2$
-$3 x^{3} + 2x^{2} \implies R= (t; -2$
-$3 t^{3} + 2t^{2})$
-
-$S:$ {
-$y= t$
-$y= 1$
-$3 x^{3} -2x^{2} + 4x \implies S= (t; 1$
-$3 t^{3} -2t^{2} + 4t)$
-
-La lunghezza $RS$ è quindi:
-
-$z= yS-yR=$
-$3 t^{3} -2t^{2} + 4t-(-$
-$3 t^{3} + 2t^{2}) = t^{3} -4t^{2} + 4t , 0 \le t\le 2$
-
-Dobbiamo determinare il massimo di $z.$
-
-$z' = 3t^{2} -8t+ 4 \ge 0$ se $t\le$
-$3$ vel $t\ge 2$ , quindi $z$ è crescente se $0 \le t<$
-$3$ e
-decrescente se
-$3 < t< 2 : z$ è massima se $t=$
-$$ 2 3 . $$
-
-Il punto $P$ richiesto è quindi il punto della retta di equazione $y=$
-$3 x$ con ascissa
-$3$ :
-$P=$ (
-$$ 2 3 ; 8 9). $$
-
-$c)$
-
-Determinare le coordinate dei punti di ascisse uguali in cui le due curve hanno tangenti
-parallele e verificare che, oltre al punto A, si ritrovano i punti $R$ ed $S.$
-
-Dobbiamo imporre che sia f'(x) = g'(x), quindi:
-
-$-2x^{2} + 4x= x^{2} -4x+ 4 , 3x^{2} -8x+ 4 = 0 , x= 2$
-$3$ e $x= 2$ .
-Per $x=$
-$3$ troviamo $R$ ed $S$ e per $x= 2$ troviamo A.
-
-$d)$
-
-Calcolare l’area della regione finita di piano delimitata dalle due curve.
-
-L’area richiesta si ottiene calcolando il seguente integrale:
-
-$Area= \int$ [g(x) $-f(x)]dx=$
-$$ 2 0 \int [1 $$
-$3 x^{3} -2x^{2} + 4x-(-2$
-$3 x^{3} + 2x^{2})] dx=$
-$$ 2 0 $$
-
-$= \int [x^{3} -4x^{2} + 4x]dx=$
-$$ 2 0 $$
-$[x^{4}$
-$4 -4$
-$3 x^{3} + 2x^{2}]$
-$$ 0 2 $$
-$= 4 -32$
-$$ 3 + 8 = 4 $$
-$4 u^{2} =$ Area
-
-Con la collaborazione di Angela Santamaria
-
-ORDINAMENTO 2002 - SESSIONE STRAORDINARIA - QUESITI
-
-QUESITO $1$
-
-Sia $D$ il dominio di una funzione reale di variabile reale $f (x)$ e sia $x^{0}$ un elemento di $D:$
-definire la continuità e la discontinuità di f(x) in $x^{0}$ e fornire un’interpretazione geometrica
-delle definizioni date.
-
-La funzione di equazione $y=f(x)$ si dice continua in un punto $x^{0}$ del dominio $D$ se esiste,
-finito ed uguale $ad f(x^{0})$ il limite per $x$ che tende $ad x^{0}$ della funzione $(fig.1)$
-
-La funzione si dice discontinua quando non è continua, quindi in uno dei seguenti casi:
-a) Esistono finiti il limite destro e quello sinistro della funzione per $x$ che tende $ad x^{0}$
-ma tali limiti sono diversi (DISCONTINUITA’ DI PRIMA SPECIE O CON SALTO); il
-valore assoluto della differenza fra i due limiti è detto “salto” (fig. $2).$
-$b)$ Almeno uno dei due limiti (destro e sinistro) non esiste o è infinito
-(DISCONTINUITA’ DI SECONDA SPECIE) (fig. $3).$
-$c)$ Il limite destro ed il limite sinistro esistono, finiti e sono uguali; tale limite è però
-diverso da $f(x^{0});$ tale tipo di discontinuità è detta ELIMINABILE O DI TERZA
-SPECIE (fig. $4).$ Il termine eliminabile deriva dal fatto che la funzione può essere
-“prolungata” ridefinendola nel punto $x^{0},$ ponendo $f(x^{0})$ uguale al limite $L:$
-
-f∗(x) = {f(x) se $x\ne x^{0}$
-$L$ se $x= x^{0}$
-
-Da notare che, con un abuso di linguaggio, si dice discontinua una funzione in un punto
-anche quando in quel punto non è definita.
-
-Fig. $1$ Fig. $2$
-
-Fig. $3$ Fig. $4$
-
-QUESITO $2$
-
-In un piano è assegnata una parabola $p.$ Tracciata la tangente $t$ a essa nel suo vertice,
-chiamati $M$ ed $N$ due punti di $p$ simmetrici rispetto al suo asse e indicate con $M'$ ed $N$ '
-rispettivamente le proiezioni ortogonali di $M$ ed $N$ sulla retta $t,$ determinare il rapporto fra
-l’area della regione piana delimitata dalla parabola e dalla retta $MN$ e quella del
-rettangolo MNN 'M', fornendo una esauriente dimostrazione.
-
-Fissiamo il sistema di riferimento con l’origine nel vertice della parabola e asse delle
-ordinate l’asse della parabola. La tangente $t$ sarà l’asse delle $x.$ Rispetto a tale sistema di
-riferimento la parabola $p$ ha equazione del tipo $y= ax2,$ con $a>0$ se fissiamo il verso
-positivo dell’asse $y$ come in figura:
-
-Posto $M= (k; ak2),$ con $k> 0,$ risulta: $N= (-k; ak2).$
-Il rettangolo MNN’M’ ha area: Area(MNN'M') $= 2k∙ak2 = 2ak3.$
-L’area della regione piana delimitata dalla parabola e dalla retta $MN$ è l’area del
-segmento parabolico di base $MN,$ quindi, per il teorema di Archimede, ha area $S$ data da:
-$S = 2$
-$3$ MN∙MM' $= 2$
-$3 (2k)(ak2) = 4$
-$3 ak3$
-
-Il rapporto richiesto è quindi:
-
-Area(MNN'M') =
-$3 ak3$
-$2ak3 = 2$
-
-come previsto, tra l’altro, dal già citato teorema di Archimede.
-
-QUESITO $3$
-
-Si consideri un cono circolare retto ottenuto dalla rotazione di un triangolo isoscele
-intorno all’altezza propriamente detta. Sapendo che il perimetro del triangolo è costante,
-stabilire quale rapporto deve sussistere fra il lato del triangolo e la sua base affinché il
-cono abbia volume massimo.
-
-Il perimetro $2p$ del triangolo è: $2p= 2a+ 2R=$ costante
-Quindi: $a+ R= p=$ costante , $a= p-R$
-Il volume del cono è:
-
-$V= 1$
-$3 \pi R2h , h^{2} = a^{2} -R^{2} , V= 1$
-$3 \pi R^{2}\sqrt{a}^{2} -R^{2}$
-
-Tale volume è massimo se lo è:
-
-$z= R^{2}\sqrt{a}^{2} -R^{2}$ e $z,$ essendo positiva, e massima se lo è
-
-$z^{2} = y= R^{4}(a^{2} -R^{2}) = R^{4}[(p-R)2 -R^{2}] = R^{4}(p^{2} -2Rp);$
-
-risulta (ricordiamo che $R$ e $p$ sono positivi)
-
-$y' = 4R^{3}(p^{2} -2Rp) + R^{4}(-2p) = -10R4p+ 4R3p^{2} \ge 0$ se $-5R+ 2p\ge 0$ ,
-$R\le 2$
-$5 p$
-Quindi $y$ è crescente se $0 < R<$
-$5 p$ e decrescente se:
-$5 p< R<$ a
-Pertanto il volume è massimo se $R=$
-$5 p$ . Per tale valore di $R$ risulta:
-$a= p-R= p-2$
-$5 p= 3$
-$5 p$
-
-Pertanto quando il volume del cono è massimo fra il lato del triangolo a e la base $2R$
-sussiste il seguente rapporto:
-
-$2R=$
-$5p$
-$2∙2$
-$5p=$
-$$ 3 4 . $$
-
-QUESITO $4$
-
-In un riferimento monometrico di assi cartesiani ortogonali (Oxy) è assegnata l’iperbole di
-equazione $y=$
-$x$ . Considerati su di essa i punti A e $B$ di ascisse rispettivamente a e
-$$ 1 a $$
-con $a\ne 0$ , si traccino le tangenti all’iperbole in A e $B.$ Calcolare l’area della regione
-piana delimitata dall’iperbole e dalle tangenti considerate.
-
-Rappresentiamo graficamente la situazione (per comodità grafica scegliamo A e $B$ nel
-primo quadrante e supponiamo $0<a<1;$ nel caso in cui A e $B$ fossero nel terzo quadrante
-la regione avrebbe la stessa area):
-
-L’area richiesta (regione AGB fra l’iperbole e le due tangenti) si ottiene come differenza
-tra l’area della regione ADEB compresa fra l’iperbole e l’asse $x$ e l’area della regione AIG
-compresa fra la tangente in A e quella in $B$ fra $D$ ed $H.$
-
-Determiniamo le equazioni delle due tangenti a (in A) e $b$ (in $B).$
-Essendo: $y' = -$
-$x^{2}$ i coefficienti angolari di a e $b$ sono: m(A) = -
-$a^{2}$ ed m(B) $= -a^{2}$
-Siccome $A=$ (a;
-a) e $B=$ (
-a; a) le equazioni delle tangenti sono:
-
-a: $y-1$
-$a= -1$
-$a^{2} (x-a) \implies y= -1$
-$a^{2} x+ 2$
-$b: y-a= -a^{2} (x-1$
-a) $\implies y= -a2x+ 2a$
-
-Cerchiamo l’intersezione $G$ fra le due rette, dopo aver notato che, essendo A e $B$
-simmetrici rispetto alla bisettrice del primo e terzo quadrante (avendo ascissa e ordinata
-scambiate), $G$ appartiene alla retta $y=x;$ quindi per trovare $G$ possiamo intersecare per
-esempio la retta $b$ con $y=x:$
-
-$y= x$
-$y= -a2x+ 2a \implies x= -a2x+ 2a \implies x=$
-$2a$
-$1+a^{2} = xG$
-
-L’area richiesta (se $0<a<1)$ è quindi:
-
-$Area= \int$
-$x-(-a2x+ 2a)]$
-$$ xE xD $$
-$dx-\int$
-$[-1$
-$a^{2} x+ 2$
-$a-(-a2x+ 2a)]$
-$$ xG xD = $$
-
-$= [ln|x| + a^{2} ∙x^{2}$
-$2 -2ax]$
-$$ a 1 a $$
-$-[(a^{2} -1$
-$a^{2}) ∙x^{2}$
-$$ 2 + (2 $$
-$a-2a)$ x]
-$2a$
-$1+a^{2}$
-
-$= ln(1$
-a) $+ 1$
-$2 -2 -(lna+ a^{4}$
-$2 -2a^{2}) -$
-
-$-[(a^{2} -1$
-$a^{2}) ∙1$
-$2$ ∙(
-$2a$
-$1 + a^{2})$
-$$ 2 + (2 $$
-$a-2a)$ ∙
-$2a$
-$1 + a^{2} -(a^{2} -1$
-$a^{2}) ∙a^{2}$
-$2 -(2$
-$a-2a)$ a] =
-
-$= -lna-3$
-$2 -lna-a^{4}$
-$2 + 2a^{2} -[-a^{4}$
-$2 + 2a^{2} + 2 -2a^{2}$
-$a^{2} + 1 -3$
-
-$= (-2lna+ 2 -2a^{2}$
-$a^{2} + 1 ) u^{2} =$ Area(se $0 < a< 1)$
-
-L’area richiesta quando $a>1$ è:
-
-Area(se $a> 1) = (2lna+ 2 -2a^{2}$
-$a^{2} + 1 ) u^{2}$
-
-Osserviamo che se $a= \pm 1$ i punti A e $B$ coincidono, quindi l’area richiesta è nulla.
-
-QUESITO $5$
-
-Dimostrare che la derivata della funzione logax è la funzione
-xlogae , dove e è la
-base dei logaritmi naturali.
-
-Se è noto che la derivata della funzione lnx è la funzione
-$x$ , applicando una proprietà
-dei logaritmi risulta:
-
-$logax=$
-$$ lnx $$
-$lna=$ (logae)lnx , quindi: D(logax) = D((logae)lnx ) = (logae) ∙
-$x$ , c.v.d.
-
-Allo stesso risultato si può arrivare applicando la definizione di derivata:
-
-D(logax) = lim
-$h\to$ o
-$f(x+ h) -f(x)$
-= lim
-$h\to$ o
-$loga(x+ h) -logax$
-= lim
-$h\to$ o
-$loga(x+ h$
-$$ x ) h = $$
-
-$$ lim $$
-$h\to$ o
-$loga(1 + h$
-$x)$
-= lim
-$h\to$ o
-$loga(1 + h$
-$x)$
-$$ h x $$
-$∙1$
-$x=$ (logae) $∙1$
-
-Si è applicato il limite notevole:
-
-$$ lim $$
-$f(h)\to$ o
-$loga(1 +$ f(h))
-f(h)
-= (logae)
-
-QUESITO $6$
-
-Considerata l’equazione $x^{2} + kx+ k= 0,$ calcolare il limite di ciascuna delle sue radici
-per $k\to +\infty$ .
-
-Le radici dell’equazione sono:
-
-$x^{1} =$
-$-k-\sqrt{k}^{2}-4k$
-, $x^{1} =$
-$-k+\sqrt{k}^{2}-4k$
-con $k^{2} -4k\ge 0$ , quindi: $k\le 0$ vel $k> 4$
-
-Siccome dobbiamo calcolare i limiti per $k\to +\infty$ possiamo considerare $k>4.$
-
-$$ lim $$
-$k\to +\infty x^{1} =$ lim
-$k\to +\infty (-k-\sqrt{k}^{2} -4k$
-) = lim
-$k\to +\infty (-k-\sqrt{k}^{2} -4k$
-) $= -\infty =$ lim
-$k\to +\infty x^{1}$
-
-$$ lim $$
-$k\to +\infty x^{2} =$ lim
-$k\to +\infty (-k+ \sqrt{k}^{2} -4k$
-) = [F. I. $-\infty + \infty$ ]
-
-$$ lim $$
-$k\to +\infty (-k+ \sqrt{k}^{2} -4k$
-$$ 2 ) = 1 $$
-$2$ lim
-$k\to +\infty$
-$(-k+ \sqrt{k}^{2} -4k) ∙(-k-\sqrt{k}^{2} -4k)$
-$(-k-\sqrt{k}^{2} -4k)$
-
-$2$ lim
-$k\to +\infty$
-$k^{2} -(k^{2} -4k)$
-$(-k-\sqrt{k}^{2} -4k)$
-$2$ lim
-$k\to +\infty$
-$4k$
-$(-k-k) = 1$
-$2 ∙(-2) = -1 =$ lim
-$k\to +\infty x^{2}$
-
-QUESITO $7$
-
-Dopo aver definito il limite destro e il limite sinistro di una funzione in un punto, ricorrere a
-tali definizioni per verificare che risulta:
-
-$$ lim $$
-$x\to 0-(x+ x$
-$|x|) = -1$ , lim
-$x\to 0+ (x+ x$
-$|x|) = 1.$
-
-Definizione di limite destro in un punto: $limx\to c+$ f(x) $= l$ se:
-
-$\forall \varepsilon > 0 \exists I+(c) / \forall x\in I+(c) \cap Df: |f(x) -l| < \varepsilon$
-
-Definizione di limite sinistro in un punto: $limx\to c-$ f(x) $= l$ se:
-
-$\forall \varepsilon > 0 \exists I-(c) / \forall x\in I-(c) \cap Df: |f(x) -l| < \varepsilon$
-
-(con $I+$ abbiamo indicato un intorno destro e con $I-$ un intorno sinistro; con $Df$ abbiamo
-indicato il dominio della funzione).
-
-Verifichiamo che: $limx\to 0-(x+$
-$|x|) = -1$ (possiamo considerare $x<0).$
-
-$\forall \varepsilon > 0 \exists I-(0) / \forall x\in I-(0) \cap Df: |f(x) + 1| < \varepsilon$
-
-$|f(x) + 1| < \varepsilon \implies |x+$
-$|x| + 1| < \varepsilon , |x+$
-$-x+ 1| < \varepsilon , |x| < \varepsilon$ da cui, tenendo conto
-che ci interessa $x<0: -x< \varepsilon , x> -\varepsilon$ , quindi: $-\varepsilon < x < 0,$ che è appunto un intorno
-sinistro di $0.$
-
-Verifichiamo che: $limx\to 0+ (x+$
-$|x|) = 1$ (possiamo considerare $x>0).$
-
-$\forall \varepsilon > 0 \exists I+(0) / \forall x\in I+(0) \cap Df: |f(x) -1| < \varepsilon$
-
-$|f(x) -1| < \varepsilon \implies |x+$
-$|x| -1| < \varepsilon , |x+$
-$x-1| < \varepsilon , |x| < \varepsilon$ da cui, tenendo conto che
-ci interessa $x>0: x< \varepsilon$ , quindi: $0 < x< \varepsilon$ , che è appunto un intorno destro di $0.$
-
-QUESITO $8$
-
-Dimostrare che le curve di equazione $y= x^{2} + kx+ k,$ assegnate in un riferimento
-cartesiano, passano tutte per uno stesso punto.
-
-Si tratta di un fascio di parabole con asse parallelo all’asse $y,$ che possiamo scrivere nella
-forma:
-
-$y-x^{2} -k(x+ 1) = 0$
-
-Intersecando le due generatrici $y-x^{2} = 0$ e $x+ 1 = 0$ troveremo gli eventuali punti base
-(punti comuni a tutte le curve del fascio):
-
-${y-x^{2} = 0$
-$x+ 1 = 0 \implies$ { $y= 1$
-$x= -1$
-
-Quindi tutte le curve passano per il punto $A= (-1; 1),$ che, come si può facilmente
-verificare, soddisfa l’equazione $y= x^{2} + kx+ k$ per ogni valore di $k.$
-
-QUESITO $9$
-
-Considerati i $90$ numeri del gioco del Lotto, calcolare quante sono le cinquine che, in una
-data estrazione, realizzano un determinato terno.
-
-Fissata una terna, possiamo completare una cinquina combinando in tutti i modi possibili
-gli $87$ numeri rimanenti a $2$ a $2.$ Le cinquine richieste equivalgono quindi alle
-combinazioni (semplici) di $87$ oggetti a $2$ a $2,$ quindi:
-
-$C87,2 = (87$
-$2 ) = 87 ∙86$
-$2!$
-$= 87 ∙43 =$ 3741.
-
-QUESITO $10$
-
-Dimostrare la formula che esprime il numero delle combinazioni semplici di $n$ oggetti
-presi a $k$ a $k$ in funzione del numero delle disposizioni semplici degli stessi oggetti presi a
-$k$ a $k$ e delle permutazioni semplici su $k$ oggetti.
-
-La formula richiesta è:
-
-$Cn,k=$ Dn,k
-$$ Pk $$
-$= n(n-1)(n-2) ... (n-k+ 1$
-$k!$
-
-Siccome una combinazione differisce da una disposizione per il fatto che non conta
-l’ordine degli oggetti, $ad$ una combinazione di $n$ oggetti a $k$ a $k$ corrispondo $k!$ disposizioni;
-pertanto:
-
-$Dn,k= k!$ ∙Cn,k $\implies Cn,k=$ Dn,k
-$k! =$ Dn,k
-$$ Pk $$
-
-Con la collaborazione di Angela Santamaria
+## c) Tangenti parallele
+
+Imponiamo $f'(x)=g'(x)$:
+
+$$-2x^2+4x=x^2-4x+4 \;\Rightarrow\; 3x^2-8x+4=0 \;\Rightarrow\; x=\frac{2}{3}\ \text{ oppure }\ x=2.$$
+
+Per $x=2$ si ritrova il punto $A$ (con pendenza comune nulla); per $x=\dfrac{2}{3}$ si ritrovano i punti $R$ ed $S$, in cui entrambe le curve hanno tangenti di pendenza comune
+
+$$f'\!\left(\frac{2}{3}\right)=g'\!\left(\frac{2}{3}\right)=\frac{16}{9}.$$
+
+## d) Area della regione delimitata dalle due curve
+
+La regione finita è compresa fra le due cubiche per $0\le x\le 2$; poiché in tale intervallo $g(x)\ge f(x)$, l'area è
+
+$$\mathcal{A}=\int_0^2\bigl[g(x)-f(x)\bigr]\,dx=\int_0^2\bigl(x^3-4x^2+4x\bigr)\,dx.$$
+
+Calcolando la primitiva:
+
+$$\mathcal{A}=\left[\frac{x^4}{4}-\frac{4x^3}{3}+2x^2\right]_0^2=4-\frac{32}{3}+8=\frac{4}{3}.$$
+
+L'area richiesta è quindi $\mathcal{A}=\dfrac{4}{3}$ (unità di superficie).
 
 *Fonte:* [📄 PDF p.66](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

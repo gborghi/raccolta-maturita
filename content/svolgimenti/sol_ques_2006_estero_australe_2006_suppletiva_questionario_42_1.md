@@ -1,69 +1,30 @@
----
-title: 2006 Australe Suppletiva — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_estero_australe_2006_suppletiva_questionario_42_1
-of_item: ques_2006_estero_australe_2006_suppletiva_questionario_42_1
-prova_id: prova_2006_estero_australe_2006_suppletiva_questionario_42
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_1|2006 Australe Suppletiva — Questionario — Quesito 1]] · **Prova:** [[Prove/2006_estero_australe_2006_suppletiva_questionario_42|2006 Australe Suppletiva — Questionario]]
 
-Estero (Australe) 2006
+Si sa che $G(0) - F(0) = 3$, essendo $F(x)$ e $G(x)$ due primitive rispettivamente di $y = x^2$ e $y = x$. Si vuole determinare quanto vale $G(1) - F(1)$.
 
-Scuole italiane all’estero (Calendario australe) 2006 - Suppletiva
+Le primitive di $y = x^2$ e di $y = x$ sono, a meno di una costante additiva,
 
-QUESITO $1$
+$$F(x) = \frac{x^3}{3} + a, \qquad G(x) = \frac{x^2}{2} + b,$$
 
-Si $sa$ che $G(0) -F(0) =3,$ essendo F(x) e G(x) due primitive di $y= x^{2}$ e $y= x$
-rispettivamente. Quanto vale $G(1) - F(1)?$
+con $a$ e $b$ costanti reali.
 
-Risulta: F(x) =
-$3 x^{3} +$ a e G(x) =
-$2 x^{2} + b$ . Essendo $G(0) -F(0) =3$ si ha: $b-a= 3.$
-Quindi: $G(1) - F(1) =$
-$2 + b-$
-$3 -a=$
-$2 -$
-$$ 1 3 + 3 = 19 $$
-$6 = G(1) - F(1).$
+Imponendo la condizione data si ottiene
 
-QUESITO $2$
+$$G(0) - F(0) = b - a = 3.$$
 
-Quanti sono i numeri di tre cifre (distinte tra loro) che è possibile scrivere utilizzando le
-cifre pari, diverse da zero?
+Calcoliamo allora la quantità richiesta:
 
-Si tratta delle disposizioni semplici $4$ oggetti $(2,4,6,8)$ a $3$ a $3:$
+$$G(1) - F(1) = \left(\frac{1}{2} + b\right) - \left(\frac{1}{3} + a\right) = \left(\frac{1}{2} - \frac{1}{3}\right) + (b - a) = \frac{1}{6} + 3 = \frac{19}{6}.$$
 
-$D4,3 = 4 ∙3 ∙2 = 24.$
+In alternativa si può osservare che la differenza fra i due valori dipende solo dalle funzioni integrande, non dalle costanti:
 
-QUESITO $3$
+$$\big[G(1) - F(1)\big] - \big[G(0) - F(0)\big] = \int_0^1 x \, dx - \int_0^1 x^2 \, dx = \frac{1}{2} - \frac{1}{3} = \frac{1}{6},$$
 
-La somma di due numeri è $s;$ determinate i due numeri in modo che il loro prodotto sia
-massimo.
+da cui, essendo $G(0) - F(0) = 3$,
 
-Questa proprietà può essere dimostrata in modo elementare a partire dalla seguente
-identità:
-
-$(x + y)2 -(x -y)2 = 4xy$
-
-da cui è facile capire che, se $x+y$ è costante, il massimo di $4xy$ (quindi di $xy),$ si ha
-quando $(x -y)2 = 0,$ cioè se $x=y.$
-
-ALTRO MODO
-
-$x+ y= s$ con $0 \le x\le s$
-
-$y= s-x$ con $0 \le y\le s$
-
-$p= x∙y= x(s-x) = -x^{2} + sx$
+$$G(1) - F(1) = 3 + \frac{1}{6} = \frac{19}{6}.$$
 
 *Fonte:* [📄 PDF p.42](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
 

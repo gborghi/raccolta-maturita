@@ -1,67 +1,29 @@
----
-title: 2005 Europa Ordinaria — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_1
-of_item: ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_1
-prova_id: prova_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_1|2005 Europa Ordinaria — Questionario — Quesito 1]] · **Prova:** [[Prove/2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78|2005 Europa Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Europa) 2005
+Indicata con $S_n$ la somma di $n$ termini in progressione geometrica di primo termine $\frac{1}{2}$ e ragione $\frac{1}{2}$, si calcoli
 
-Scuole italiane all’estero (Europa) 2005 - Quesiti
+$$\lim_{n\to\infty}\frac{S_n}{n}.$$
 
-QUESITO $1$
+## Somma dei primi $n$ termini
 
-Indicata con $Sn$ la somma di $n$ termini in progressione geometrica di primo termine $1/2$ e
-ragione $1/2$ si calcoli il
-$$ lim $$
-$n\to \infty$
-$$ Sn n $$
+Per una progressione geometrica di primo termine $a_1$ e ragione $q\neq 1$, la somma dei primi $n$ termini è
 
-Ricordiamo che la somma dei primi $n$ termini di una progressione geometrica con primo
-termine $a^{1}$ e ragione $q$ è data da:
-$Sn= a^{1} ∙1 -qn$
-$1 -q$
+$$S_n = a_1\cdot\frac{1-q^n}{1-q}.$$
 
-Nel nostro caso:
-$Sn= 1$
-$2$ ∙
-$1 -(1$
-$$ 2) n $$
-$1 -1$
-$= 1 -(1$
-$$ 2) n $$
+Nel nostro caso $a_1=\frac{1}{2}$ e $q=\frac{1}{2}$, quindi
 
-Quindi:
-$$ lim $$
-$n\to \infty$
-$$ Sn $$
-$n=$ lim
-$n\to \infty$
-$1 -(1$
-$$ 2) n n = 0 $$
+$$S_n = \frac{1}{2}\cdot\frac{1-\left(\frac{1}{2}\right)^n}{1-\frac{1}{2}} = \frac{1}{2}\cdot\frac{1-\left(\frac{1}{2}\right)^n}{\frac{1}{2}} = 1-\left(\frac{1}{2}\right)^n.$$
 
-QUESITO $2$
+## Calcolo del limite
 
-Una piramide ha la base quadrata e l’altezza uguale a $8 cm.$ Quanti piani paralleli alla
-base dividono la piramide in due parti i cui volumi sono nel rapporto $7:1?$ Quali sono le
-distanze di tali piani dal vertice della piramide?
+Poiché $\left(\frac{1}{2}\right)^n\to 0$ per $n\to\infty$, si ha $S_n\to 1$. Il termine $S_n$ è dunque limitato (tende a $1$), mentre il denominatore $n$ diverge a $+\infty$. Pertanto
 
-Indicata con $x$ la distanza dal vertice della piramide del piano parallelo alla base, per una
-nota proprietà delle piramidi si ha:
+$$\lim_{n\to\infty}\frac{S_n}{n} = \lim_{n\to\infty}\frac{1-\left(\frac{1}{2}\right)^n}{n} = \frac{1}{+\infty} = 0.$$
+
+Il limite richiesto vale quindi $0$.
 
 *Fonte:* [📄 PDF p.78](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

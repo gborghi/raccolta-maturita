@@ -1,435 +1,59 @@
----
-title: 2003 America Latina Ordinaria — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2003_america_latina_2003_sessione_ordinaria_problema2_35_1
-of_item: prob_2003_america_latina_2003_sessione_ordinaria_problema2_35_1
-prova_id: prova_2003_america_latina_2003_sessione_ordinaria_problema2_35
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2003
----
+
 
 **Problema:** [[Problemi/prob_2003_america_latina_2003_sessione_ordinaria_problema2_35_1|2003 America Latina Ordinaria — Problema 2 — Problema 1]] · **Prova:** [[Prove/2003_america_latina_2003_sessione_ordinaria_problema2_35|2003 America Latina Ordinaria — Problema 2]]
 
-America latina 2003
-Sessione $Ordinaria-$ Problema $2$
+Nel piano cartesiano $Oxy$ siano $S=(0,4)$, $P$ un punto della retta $r:\,2x-y-2=0$, $n$ la retta per $S$ perpendicolare a $SP$, e $Q$ l'intersezione di $n$ con la retta $s$ parallela all'asse $y$ passante per $P$.
 
-Scuole italiane all’estero (America latina) 2003 - PROBLEMA $2$
+## a) Equazione del luogo $\Gamma$
 
-Nel piano riferito a coordinate cartesiane ortogonali e monometriche Oxy, siano: $S$ il
-punto di coordinate $(0, 4); P$ un punto della retta $r$ di equazione $2x-y-2 = 0; n$ la retta
-per $S$ perpendicolare alla congiungente $S$ con $P; Q$ il punto di intersezione di $n$ con la
-retta $s$ parallela per $P$ all’asse $y.$
+Il generico punto di $r$ è $P=(t,\,2t-2)$. Il coefficiente angolare di $SP$ è
+$$m_{SP}=\frac{(2t-2)-4}{t-0}=\frac{2t-6}{t},$$
+quindi la retta $n$, perpendicolare a $SP$ per $S$, ha coefficiente angolare
+$$m_n=-\frac{1}{m_{SP}}=\frac{t}{6-2t}$$
+ed equazione
+$$n:\ y-4=\frac{t}{6-2t}\,x.$$
+La retta $s$ è $x=t$. Il punto $Q$ si ottiene ponendo $x=t$ nel sistema ed eliminando il parametro; sostituendo $t=x$:
+$$y=\frac{x}{6-2x}\cdot x+4=\frac{x^2+4(6-2x)}{6-2x}=\frac{x^2-8x+24}{6-2x}.$$
+Portando a denominatore comune si ottiene l'equazione cartesiana del luogo
+$$\boxed{\,\Gamma:\ x^2+2xy-8x-6y+24=0\,}$$
+che è una conica, precisamente un'iperbole, esprimibile come $\displaystyle y=\frac{x^2-8x+24}{6-2x}$.
 
-a)
+## b) Studio di $\Gamma$ e caso $x=3$
 
-Trovate l’equazione cartesiana del luogo $\Gamma$ descritto da $Q$ al variare di $P$ su $r.$
+**Dominio.** $6-2x\neq 0\Rightarrow x\neq 3$.
 
-Il punto generico $P$ della retta $r$ ha coordinate: $P= (t; 2t-2)$ . Il coefficiente angolare
-della retta $SP$ è: $mSP=$
-$2t-2-4$
-$t-0$
-$2t-6$
-$t$ . Il coefficiente angolare di $n$ sarà:
-$mn= -1$
-$$ mPS = t $$
-$6 -2t$
+**Asintoto verticale.** Poiché il denominatore si annulla in $x=3$ (dove il numeratore vale $9\neq0$), la retta $x=3$ è asintoto verticale.
 
-La retta $n$ ha quindi equazione:
-$n: y-yS= mn(x-xS), y-4 =$
-$6 -2t x , y=$
-$6 -2t x + 4$
+**Asintoto obliquo** $y=mx+q$:
+$$m=\lim_{x\to\infty}\frac{x^2-8x+24}{x(6-2x)}=\lim_{x\to\infty}\frac{x^2}{-2x^2}=-\frac{1}{2},$$
+$$q=\lim_{x\to\infty}\left(\frac{x^2-8x+24}{6-2x}+\frac{x}{2}\right)=\lim_{x\to\infty}\frac{-10x+48}{2(6-2x)}=\frac{5}{2}.$$
+Dunque l'asintoto obliquo è $\displaystyle y=-\frac{1}{2}x+\frac{5}{2}$. Il centro dell'iperbole è l'intersezione dei due asintoti: $C=(3,\,1)$.
 
-La retta $s$ ha equazione: $s: x= t$ . Il luogo descritto da $Q$ al variare di $P$ su $r$ si ottiene
-quindi dal seguente sistema, eliminando il parametro $t:$
+**Derivata prima.**
+$$f'(x)=\frac{(2x-8)(6-2x)-(x^2-8x+24)(-2)}{(6-2x)^2}=\frac{-2x^2+12x}{(6-2x)^2}=\frac{x(6-x)}{2(x-3)^2}.$$
+Poiché $(x-3)^2>0$, si ha $f'(x)\ge 0$ per $0\le x\le 6$ (con $x\neq3$). Quindi $f$ è crescente su $(0,3)$ e $(3,6)$, decrescente su $(-\infty,0)$ e $(6,+\infty)$. Ne segue un **minimo relativo** in $x=0$, con $f(0)=4$, cioè il punto $(0,4)$, e un **massimo relativo** in $x=6$, con $f(6)=-2$, cioè il punto $(6,-2)$.
 
-$x= t$
-$y=$
-$6 -2t x + 4 , y=$
-$6 -2x x + 4$ ,
-$y(6 -2x) = x^{2} + 4(6 -2x)$
 
-America latina 2003
-Sessione $Ordinaria-$ Problema $2$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="247.537" height="264.609" viewBox="-72 -72 185.653 198.457"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4" transform="matrix(1 0 0 -1 -21.055 36.561)"><clipPath id="pgfbcd37f4e91db868de19ea0b7a93ec0b3cp1"><path d="M-51.215-89.626v198.457h185.653V-89.626Zm185.653 198.457"/></clipPath><g clip-path="url(#pgfbcd37f4e91db868de19ea0b7a93ec0b3cp1)"><path fill="none" d="M-51.215 0h181.412"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M128.317 2.4c.38-1.44 1.227-2.12 2.08-2.4-.853-.28-1.7-.96-2.08-2.4"/><text x="-21.055" y="36.561" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 155.186 34.408)">x</text><path fill="none" d="M0-89.626V102.03"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-2.4 100.15c1.44.38 2.12 1.226 2.4 2.08.28-.854.96-1.7 2.4-2.08"/><text x="-21.055" y="36.561" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 18.425 144.468)">y</text><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="M38.41-89.626V102.43"/><g fill="gray" stroke="gray"><g fill="gray" stroke="none" font-size="10"><text x="-21.055" y="36.561" font-family="cmmi10" transform="matrix(1 0 0 -1 56.405 128.086)">x</text><text x="-12.562" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 56.405 128.086)">=</text><text x="-2.007" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 56.405 128.086)">3</text></g></g><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="m-51.215 57.616 181.812-90.905"/><g fill="gray" stroke="gray"><g fill="gray" stroke="none"><text x="-21.055" y="36.561" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 110.33 -9.471)">y</text><text x="-13.016" y="36.561" font-family="cmr10" font-size="10" transform="matrix(1 0 0 -1 110.33 -9.471)">=</text><text x="-2.461" y="36.561" font-family="cmsy10" font-size="10" transform="matrix(1 0 0 -1 110.33 -9.471)">¡</text><text x="6.517" y="32.624" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 110.33 -9.471)">x</text><path d="M116.847-43.332h4.535v-.4h-4.535z"/><text x="6.792" y="40.009" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 110.33 -9.471)">2</text><text x="14.474" y="36.561" font-family="cmr10" font-size="10" transform="matrix(1 0 0 -1 110.33 -9.471)">+</text><text x="25.674" y="32.624" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 110.33 -9.471)">5</text><path d="M136.004-43.332h3.986v-.4h-3.986z"/><text x="25.674" y="40.009" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 110.33 -9.471)">2</text></g></g><path fill="none" stroke="#00f" stroke-width=".8" d="m-38.41 60.817.805-.3.805-.3.806-.296.805-.294.806-.292.805-.29.806-.286.805-.285.806-.28.805-.28.806-.275.805-.273.806-.269.805-.266.806-.263.805-.26.806-.255.805-.251.806-.248.805-.244.806-.239.805-.235.806-.23.805-.226.806-.22.805-.215.806-.21.805-.204.806-.198.805-.191.806-.186.805-.178.806-.17.805-.165.806-.155.805-.147.806-.139.805-.129.806-.12.805-.109.806-.098.805-.087.806-.076.805-.062.806-.049.805-.034.806-.02.805-.003.806.015.805.032.806.052.805.073.806.096.805.12.806.146.805.172.806.204.805.236.806.271.805.31.806.35.805.395.806.445.805.5.806.558.805.624.806.696.805.777.806.866.805.966.806 1.078.805 1.205.806 1.35.805 1.512.806 1.7.805 1.919.806 2.17.805 2.467.806 2.817.805 3.236.806 3.744.805 4.364.806 5.133.805 6.107.806 7.362.805 9.02.806 11.271.805 14.43.806 19.1M44.173-118.114l.97 17.98.971 13.325.971 10.234.971 8.075.971 6.51.971 5.338.971 4.436.971 3.73.971 3.165.971 2.707.971 2.33.971 2.017.971 1.752.971 1.527.971 1.335.971 1.17.971 1.025.971.898.971.788.971.69.971.602.971.524.971.455.971.391.971.335.971.284.971.237.971.194.971.155.97.12.972.087.97.057.972.029.97.003.972-.02.97-.044.972-.063.97-.083.972-.1.97-.118.972-.133.97-.147.972-.162.97-.175.972-.186.97-.199.972-.209.97-.22.972-.228.97-.238.971-.247.971-.255.971-.264.971-.27.971-.277.971-.285.971-.29.971-.297.971-.303.971-.307.971-.314.971-.318.971-.323.971-.328.971-.333.971-.336.971-.34.971-.345.971-.349.971-.352.971-.355.971-.359.971-.362.971-.365.971-.368.971-.371.971-.374.971-.376.97-.38.972-.38.97-.384.972-.386.97-.389.972-.39.97-.393.972-.394.97-.397.972-.398.97-.4"/><path stroke="none" d="M1.35 51.215a1.35 1.35 0 1 1-2.7 0 1.35 1.35 0 0 1 2.7 0m-1.35 0"/><g stroke="none" font-size="10"><text x="-21.055" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 -4.7 93.809)">(0</text><text x="-12.166" y="36.561" font-family="cmmi10" transform="matrix(1 0 0 -1 -4.7 93.809)">;</text><text x="-7.722" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 -4.7 93.809)">4)</text></g><path stroke="none" d="M78.172-25.607a1.35 1.35 0 1 1-2.7 0 1.35 1.35 0 0 1 2.7 0m-1.35 0"/><g stroke="none" font-size="10"><text x="-21.055" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 101.41 -.08)">(6</text><text x="-12.166" y="36.561" font-family="cmmi10" transform="matrix(1 0 0 -1 101.41 -.08)">;</text><text x="-7.722" y="36.561" font-family="cmsy10" transform="matrix(1 0 0 -1 101.41 -.08)">¡</text><text x=".056" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 101.41 -.08)">2)</text></g><path stroke="none" d="M39.536 12.804a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 0 1 2.25 0m-1.125 0"/><g stroke="none" font-size="10"><text x="-21.055" y="36.561" font-family="cmmi10" transform="matrix(1 0 0 -1 63 55.398)">C</text><text x="-13.193" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 63 55.398)">(3</text><text x="-4.304" y="36.561" font-family="cmmi10" transform="matrix(1 0 0 -1 63 55.398)">;</text><text x=".14" y="36.561" font-family="cmr10" transform="matrix(1 0 0 -1 63 55.398)">1)</text></g></g></g></svg>
+</figure>
 
-Il luogo richiesto ha quindi equazione: $x^{2} + 2xy-8x-6y+ 24 = 0$ , che è una conica
-ed in particolare un’iperbole che può essere scritta nella forma:
+**Interpretazione geometrica per $x=3$.** La funzione non è definita in $x=3$. Se $x=3$, il punto $P$ su $r$ ha coordinate $(3,4)$, quindi la retta $SP$ è orizzontale ($y=4$). La perpendicolare $n$ per $S$ è allora verticale e coincide con l'asse $y$ ($x=0$), che è parallelo alla retta $s:\,x=3$: le due rette non si incontrano e il punto $Q$ non esiste. A ciò corrisponde analiticamente l'asintoto verticale $x=3$.
 
-$y= x^{2} -8x+ 24$
-$6 -2x$
+## c) Area della regione
 
-$b)$
+Si calcola l'area compresa tra $\Gamma$, il suo asintoto obliquo, l'asse $y$ e la retta $x=2$. La differenza tra la funzione e l'asintoto si semplifica:
+$$\frac{x^2-8x+24}{6-2x}-\left(-\frac{1}{2}x+\frac{5}{2}\right)=\frac{18}{2(6-2x)}=\frac{9}{6-2x}.$$
+Su $[0,2]$ tale differenza è positiva, quindi
+$$A=\int_0^2\frac{9}{6-2x}\,dx=\left[-\frac{9}{2}\ln|6-2x|\right]_0^2=-\frac{9}{2}\bigl(\ln 2-\ln 6\bigr)=\frac{9}{2}\ln 3\approx 4{,}94\ \text{u}^2.$$
 
-Studiate $\Gamma$ , disegnatene il grafico e spiegate con considerazioni geometriche quanto si
-riscontra, analiticamente, per $x = 3.$
+## d) Luogo $K$ simmetrico rispetto a $x=2$
 
-Come già detto $\Gamma$ è un’iperbole. Essa ha un asintoto verticale di equazione $x=3$ ed un
-asintoto obliquo; troviamo l’equazione di questo asintoto:
-
-$m=$ lim
-$x\to \infty$
-$x^{2} -8x+ 24$
-$6 -2x$
-$x=$ lim
-$x\to \infty x^{2}$
-$-2x^{2} = -1$
-$2 , q=$ lim
-$x\to \infty [x^{2} -8x+ 24$
-$6 -2x$
-$-mx] =$
-
-= lim
-$x\to \infty [x^{2} -8x+ 24$
-$6 -2x$
-$2$ x] = lim
-$x\to \infty [x^{2} -8x+ 24$
-$2(3 -x)$
-$2$ x] = lim
-$x\to \infty [x^{2} -8x+ 24 + 3x-x^{2}$
-$2(3 -x)$
-
-= lim
-$x\to \infty [-5x+ 24$
-$2(3 -x)$ ] $= 5$
-$2 = q:$ asintoto obliquo $y= -1$
-$2 x+ 5$
-
-L’iperbole ha centro in $(3; 1)$
-
-Per completare lo studio cerchiamo il massimo ed il minimo relativi:
-
-f'(x) =
-$x(6-x)$
-$2(x-3)^{2} \ge 0$ se $0 \le x\le 6 (on x\ne 3).$ Quindi la funzione è crescente se
-
-$0 < x< 3, 3 < x< 6$ e decrescente se $x< 0, x> 6.$ Quindi il minimo relativo si ha per
-$x=0$ ed il massimo relativo per $x=6.$ L’iperbole ha quindi il seguente grafico:
-
-America latina 2003
-Sessione $Ordinaria-$ Problema $2$
-
-La funzione può essere chiaramente studiata prescindendo dal fatto che è un’iperbole.
-
-Osserviamo che la funzione non è definita per $x=3.$ Geometricamente si ha la seguente
-situazione: se $x=3$ il punto $P$ (appartenente $ad r: 2x-y-2 = 0$ ) ha coordinate $(3; 4),$
-perciò la retta $PS$ è $y=4.$ La normale $n$ coincide con l’asse $y$ e quindi non incontra la retta
-$x=3: Q$ non esiste.
-
-$c)$
-
-Si calcoli l’area della regione di piano racchiusa tra $\Gamma$ , il suo asintoto obliquo, l’asse $y$ e la
-retta $x=2.$
-
-L’area richiesta si ottiene calcolando il seguente integrale:
-
-$Area= \int [x^{2} -8x+ 24$
-$6 -2x$
-$-(-1$
-$2 x+ 5$
-$$ 2)] 2 0 $$
-$dx= \int$ [
-$6 -2x]$
-$$ 2 0 $$
-$dx= -9$
-$$ 2 \int $$
-$-2$
-$6 -2x$
-$$ 2 0 $$
-$dx=$
-
-$= -9$
-$2 [ln|6 -2x|]0$
-$2 = -9$
-$2 (ln2 -ln6) = -9$
-$2 ln (1$
-$$ 3) = (9 $$
-$2 ln3) u^{2} \cong 4.94 u^{2} =$ Area
-
-$d)$
-
-Si trovi l’equazione del luogo $K$ simmetrico di $\Gamma$ rispetto alla retta $x = 2.$
-
-$\Gamma : x^{2} + 2xy-8x-6y+ 24 = 0, y= x^{2} -8x+ 24$
-$6 -2x$
-
-La simmetria rispetto alla retta $x=2$ ha equazioni: $x\to 4 -x, y\to y$ . Quindi si ha:
-
-America latina 2003
-Sessione $Ordinaria-$ Problema $2$
-
-$(4 -x)2 + 2(4 -x)y-8(4 -x) -6y+ 24 = 0, x^{2} -2xy+ 2y+ 8 = 0$
-
-$\Gamma$ ': $y= x^{2} + 8$
-$2(x-1)$
-
-Con la collaborazione di Angela Santamaria
-
-Estero (Australe) 2003
-Questionario
-
-Scuole italiane all’estero (Calendario australe) 2003
-
-QUESITO $1$
-
-Quale è il dominio della funzione f(x) $= x\pi -\pi \pi$ ? Quale ne è il segno della derivata
-prima e quale quello della derivata seconda nel punto $\pi$ ?
-
-Dominio: $x\ge 0$ .
-f'(x) $= \pi x\pi -1 > 0$ per $x> 0$
-
-f''(x) $= \pi (\pi -1)x\pi -2 > 0$ per $x> 0$
-
-Quindi: $f'(\pi ) > 0$ e $f''(\pi ) > 0$ .
-
-N.B.
-
-Probabilmente il testo della funzione è f(x) $= x\pi -\pi x.$ In tal caso:
-
-Dominio: $x\ge 0$ .
-
-f'(x) $= \pi x\pi -1 -\pi$ xln $\pi ; f'(\pi ) = \pi ∙\pi \pi -1 -\pi \pi ln \pi = \pi \pi (1 -ln \pi ) < 0$ perchè $\pi >$ e
-
-quindi $ln \pi > 1 , 1 -ln \pi < 0$ .
-
-f''(x) $= \pi (\pi -1)x\pi -2 -ln \pi (\pi$ xln $\pi$ ) ; f''(x) $= \pi (\pi -1)\pi \pi -2 -ln \pi (\pi \pi ln \pi ) =$
-
-$= (\pi -1)\pi \pi -1 -ln \pi (\pi \pi ln \pi ) = \pi \pi -\pi \pi -1 -\pi \pi ln2 \pi = \pi \pi (1 -ln2 \pi ) -\pi \pi -1 < 0$
-
-perchè $ln \pi > 1$ , quindi $ln2 \pi > 1,$
-quindi $1 -ln2 \pi < 0$
-
-QUESITO $2$
-
-Calcolate il rapporto tra la superficie totale di un cilindro equilatero e la superficie della
-sfera $ad$ esso circoscritta.
-
-Estero (Australe) 2003
-Questionario
-
-Detti $R$ ed $r$ i raggi della sfera e della base del cilindro, essendo il cilindro equilatero
-l’altezza è uguale al diametro di base, quindi: $h= 2r$ ;
-$2 = r ; R= r\sqrt{2}$ . Perciò:
-
-ST(cilindro) $= 2(\pi r^{2}) + Sl= 2\pi r^{2} + 2\pi rh= 2\pi r^{2} + 2\pi r(2r) = 6\pi r^{2}$
-
-S(sfera) $= 4\pi R^{2} = 4\pi (2r^{2}) = 8\pi r^{2}$
-
-ST(cilindro)
-S(sfera)
-$= 6\pi r^{2}$
-$8\pi r^{2} = 3$
-
-QUESITO $3$
-
-Dimostrate che
-$$ lim $$
-$x\to 0(1 + x)$
-$x=$ e .
-
-Posto $t=$
-$x$ il limite diventa:
-
-$$ lim $$
-$t\to \infty (1 + 1$
-$t)$
-= e in base $ad$ un noto limite notevole .
-
-QUESITO $4$
-
-Dimostrate che la somma di qualsiasi numero reale positivo e del suo reciproco è almeno
-
-Indicato con $x$ un numero reale positivo, dobbiamo dimostrare che:
-
-$x+ 1$
-$x\ge 2,$ cioè: $x^{2} + 1 -2x$
-$\ge 0$
-
-Siccome $x>0,$ basta che sia:
-
-$x^{2} + 1 -2x\ge 0 , (x-1)^{2} \ge 0$ : vero per ogni $x$ .
-
-QUESITO $5$
-
-I gradi sessagesimali, i radianti e i gradi centesimali sono le più comuni unità per la
-misura degli angoli. Date di ciascuna di esse una esauriente definizione.
-
-Il grado sessagesimale è la novantesima parte dell’angolo retto.
-Il grado centesimale è la centesima parte dell’angolo retto.
-Il radiante è definito nel seguente modo: si consideri una qualsiasi circonferenza con
-centro nel vertice dell’angolo e sia $l$ la lunghezza dell’arco interno all’angolo avente per
-
-Estero (Australe) 2003
-Questionario
-
-estremi le intersezioni dei lati dell’angolo con la circonferenza stessa. Detto $r$ il raggio
-della circonferenza, il rapporto fra $l$ ed $r$ è indipendente dalla circonferenza ma dipende
-solo dall’ampiezza dell’angolo: tale rapporto è definito come misura in radianti
-dell’angolo. Per avere $1$ radiante basta prendere $l= r$ .
-
-Il radiante è quindi l’angolo che intercetta un arco di circonferenza, con centro nel suo
-vertice, che, rettificato, ha lunghezza uguale al raggio della circonferenza stessa
-
-QUESITO $6$
-
-Sia AP̂B un angolo la cui misura in radianti è data dal numero e di Nepero, base dei
-logaritmi naturali. Quale è la misura in gradi sessagesimali di AP̂B e quale quella in
-gradi centesimali? Motivate la vostra risposta.
-
-Ricordiamo che, detti $\alpha ^\circ$ ed $\alpha$ le misure in gradi sessagesimali ed in radianti dell’angolo,
-si ha la seguente relazione:
-
-$\alpha ^\circ : \alpha = 180^\circ : \pi$ ,
-$\alpha ^\circ = \alpha ∙180^\circ$
-$\pi$
-$= e∙180^\circ$
-$\pi$
-$\cong 155.75^\circ = \alpha ^\circ$
-
-Indichiamo ora con $\alpha g$ la misura in gradi centesimali dell’angolo. Si ha:
-
-$\alpha g: \alpha = 200g: \pi$ ,
-$\alpha g= \alpha ∙200g$
-$\pi$
-$= e∙200g$
-$\pi$
-$\cong 173.05g= \alpha g$
-
-QUESITO $7$
-
-Calcolate la derivata della funzione
-f(x) = arctan $x-arctan x-1$
-$x+ 1$ .
-
-Quali conclusioni ne potete trarre per la f(x)? La funzione è una costante? Se sì, quale è
-la costante?
-
-La derivata della funzione è:
-$y' =$
-$1 + x^{2} -$
-$1 + (x-1$
-$x+ 1)$
-$2 ∙(x-1$
-$x+ 1)$
-'
-$1 + x^{2} -(x+ 1)^{2}$
-$2x^{2} + 2$ ∙
-$(x+ 1)^{2} = 0$
-
-Siccome la funzione è definita per $x<-1$ e $x>-1,$ possiamo dire che funzione è costante a
-tratti; posto $a=$ arctan $x$ e $b=$ arctan
-$x-1$
-$x+1$ abbiamo: $x=$ tan a ,
-$x-1$
-$x+1 =$ tan $b$ da cui:
-
-$x-1 = (x+ 1)$ tan $b$ ,
-$x=$ tan $b+ 1$
-$1 -tan b:$ tan $a=$ tan $b+ 1$
-$1 -tan b=$
-tan $\pi$
-$4 +$ tan $b$
-tan $\pi$
-$4 -tan$ btan $\pi$
-
-Estero (Australe) 2003
-Questionario
-
-= tan $(\pi$
-$4 + b)$ ,
-quindi: $a= \pi$
-$4 + b+ k\pi$ ,
-$a-b= \pi$
-$4 + k\pi$
-
-Studiamo il segno di $a-b=$ arctan $x-arctan$
-$x-1$
-$x+1$ :
-
-arctan $x-arctan$
-$x-1$
-$x+1 > 0;$ se $x>$
-$x-1$
-$x+1$ ,
-$x^{2}+1$
-$x+1 > 0: x> -1$
-
-Quindi $a-b=$
-$\pi$
-$4$ se $x> -1$ e $a-b=$
-$\pi$
-$4 -\pi = -$
-$4 \pi$ se $x< -1$ .
-
-Pertanto:
-f(x) = arctan $x-arctan x-1$
-$x+ 1 =$ {
-$-3$
-$4 \pi$ se $x< -1$
-$\pi$
-$4$ se $x> -1$
-
-Secondo metodo
-
-Se $x>-1,$ essendo $f$ derivabile in un intervallo con derivata nulla ovunque, la funzione è
-costante (conseguenza del teorema di Lagrange); posso calcolare il valore di tale
-costante prendendo per esempio $x=0:$
-$f(0) =$ arctan $0 -arctan(-1) = \pi$
-In modo analogo per $x<-1,$ il valore della costante lo posso calcolare per esempio
-prendendo $x= -\sqrt{3},$ quindi:
-
-$f(-\sqrt{3}) = arctan(-\sqrt{3}) -arctan (-\sqrt{3} -1$
-$-\sqrt{3} + 1$
-) $= -\pi$
-$3 -arctan(2 + \sqrt{3}) = -\pi$
-$3 -5$
-$12 \pi = -3$
-$4 \pi$
-
-Quindi, come trovato con il primo metodo:
-f(x) = arctan $x-arctan x-1$
-$x+ 1 =$ {
-$-3$
-$4 \pi$ se $x< -1$
-$\pi$
-$4$ se $x> -1$
-
-Estero (Australe) 2003
-Questionario
-
-QUESITO $8$
-
-Verificate che la funzione: $y=$ f(x) $= e-x+ x-1$ è invertibile e detta $g$ la funzione
-inversa, calcolate $g'(1 + e-1)$ .
-
-La funzione è definita per ogni $x$ non nullo. Analizziamo la derivata prima:
-
-f'(x) $= -e-x-1$
-$x^{2} < 0$ in tutto il dominio
-
-La funzione è quindi strettamente decrescente per $x<0$ e per $x>0$ (ma non è decrescente
-in tutto il dominio); da uno studio sommario della funzione (basta calcolare i limiti agli
-estremi del dominio) segue che: LA FUNZIONE NON E’ INVERTIBILE IN TUTTO IL
-DOMINIO; E’ INVERTIBILE PER $X<0$ OPPURE PER $X>0.$
-
-Un grafico qualitativo della funzione è il seguente:
-
-Osserviamo che se $y= 1 + e-1$ risulta: $1 + e-1 = e-x+ x-1,$ da cui: $x= 1$ e $x= a< 0$
-
-Se consideriamo la restrizione di $f$ con $x>0$ avremo:
-
-$g'(1 + e-1) =$
-$f'(1) =$
-$-e-1 -1 = -e$
-$1 +$ e
-
-Con la collaborazione di Angela Santamaria
+La simmetria rispetto alla retta $x=2$ ha equazioni $x\to 4-x$, $y\to y$. Sostituendo in $\Gamma$:
+$$(4-x)^2+2(4-x)y-8(4-x)-6y+24=0\ \Longrightarrow\ x^2-2xy+2y+8=0.$$
+Risolvendo rispetto a $y$ si ottiene
+$$\boxed{\,K:\ y=\frac{x^2+8}{2(x-1)}\,}.$$
 
 *Fonte:* [📄 PDF p.35](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

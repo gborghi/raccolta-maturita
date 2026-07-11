@@ -1,74 +1,60 @@
----
-title: 2007 LS Ordinamento Straordinaria — Questionario — Quesito 6 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_6
-of_item: >-
-  ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_6
-prova_id: prova_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_6|2007 LS Ordinamento Straordinaria — Questionario — Quesito 6]] · **Prova:** [[Prove/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129|2007 LS Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2007
+Si consideri la funzione
 
-QUESITO $6$
+$$
+f(x)=\begin{cases} \operatorname{sen}^2 x \cdot \operatorname{sen}\dfrac{1}{x} & x\ne 0 \\[2mm] 0 & x=0 \end{cases}
+$$
 
-Si consideri la funzione:
+e se ne studi la continuità nel punto $x=0$.
 
-f(x) $= {sen2x$ sen
-$x, x\ne 0$
-$0, x= 0$
+La funzione è definita per $x=0$ con $f(0)=0$; resta da verificare se
 
-Se ne studi la continuità nel punto $x =0.$
+$$
+\lim_{x\to 0} f(x) = f(0) = 0 .
+$$
 
-Calcoliamo il seguente limite:
+Calcoliamo dunque
 
-$$ lim $$
-$x\to 0 sen2x sen1$
-$x=$ lim
-$x\to 0 x^{2} sen1$
-$x= 0$
+$$
+\lim_{x\to 0} \operatorname{sen}^2 x \cdot \operatorname{sen}\frac{1}{x}.
+$$
 
-Abbiamo sfruttato il fatto che per $x\to 0 sen2x~x^{2}$ e poi applicato il teorema del
-confronto, secondo il quale, se f(x) è una funzione limitata e g(x) un infinitesimo per
-$x\to 0$ , risulta:
+Il fattore $\operatorname{sen}\dfrac{1}{x}$ non ammette limite per $x\to 0$, ma è **limitato**: per ogni $x\ne 0$ vale
 
-$limx\to 0$ f(x)g(x) $= 0.$
+$$
+-1 \le \operatorname{sen}\frac{1}{x} \le 1 .
+$$
 
-Infatti se $A\le$ f(x) $\le B$ e g(x) $\to 0,$ risulta: A∙g(x) $\le$ f(x)g(x) $\le$ B∙g(x)
-e siccome A∙g(x) $\to 0$ e B∙g(x) $\to 0$ anche f(x)g(x) $\to 0.$
+Il fattore $\operatorname{sen}^2 x$ è invece un **infinitesimo** non negativo per $x\to 0$; anzi $\operatorname{sen}^2 x \sim x^2$. Moltiplicando la disuguaglianza per $\operatorname{sen}^2 x \ge 0$ si ottiene
 
-Essendo $limx\to 0$ f(x) $= f(0) = 0$ la funzione è continua in $x=0.$
+$$
+-\operatorname{sen}^2 x \le \operatorname{sen}^2 x \cdot \operatorname{sen}\frac{1}{x} \le \operatorname{sen}^2 x .
+$$
 
-QUESITO $7$
+Poiché
 
-Si calcoli il volume del solido generato in una rotazione completa attorno all’asse delle $x$
-della regione finita di piano delimitata dalla curva di equazione $y= \sqrt{sen} x$ e dall’asse
-stesso nell’intervallo $0 \le x\le \pi$ .
+$$
+\lim_{x\to 0}\big(-\operatorname{sen}^2 x\big)=0 \qquad\text{e}\qquad \lim_{x\to 0}\operatorname{sen}^2 x = 0,
+$$
 
-Notiamo che la funzione nell’intervallo dato è non negativa ed in particolare vale $0$ agli
-estremi ed è positiva negli altri punti. Il volume richiesto quindi è dato da:
+per il **teorema del confronto** (o dei due carabinieri) anche la funzione compresa tende a $0$:
 
-$V= \pi \int f^{2}(x)dx$
-$$ b a $$
-$= \pi \int (\sqrt{sen} x)$
-$2dx$
-$\pi$
-$= \pi \int$ senx $dx$
-$\pi$
-$= \pi ∙[-cosx]0$
-$\pi = \pi ∙(1 -(-1)) =$
+$$
+\lim_{x\to 0} \operatorname{sen}^2 x \cdot \operatorname{sen}\frac{1}{x} = 0 .
+$$
 
-$= 2\pi u^{3} = V$
+In generale, se $g(x)$ è limitata, con $A\le g(x)\le B$, e $h(x)\to 0$ è un infinitesimo (di segno costante), allora $A\,h(x)\le h(x)\,g(x)\le B\,h(x)$; poiché $A\,h(x)\to 0$ e $B\,h(x)\to 0$, ne segue $h(x)\,g(x)\to 0$. È proprio la situazione presente, con $h(x)=\operatorname{sen}^2 x$ e $g(x)=\operatorname{sen}\frac{1}{x}$.
+
+Essendo
+
+$$
+\lim_{x\to 0} f(x) = 0 = f(0),
+$$
+
+la funzione è **continua** nel punto $x=0$.
 
 *Fonte:* [📄 PDF p.132](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 

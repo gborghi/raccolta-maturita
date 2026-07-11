@@ -1,158 +1,43 @@
----
-title: 2003 Ordinaria — Prova (Ordinamento) — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_3
-of_item: ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_3
-prova_id: prova_2003_sessione_ordinaria_2003_211_n_03_prova_12
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2003
----
+
 
 **Quesito:** [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_3|2003 Ordinaria — Prova (Ordinamento) — Quesito 3]] · **Prova:** [[Prove/2003_sessione_ordinaria_2003_211_n_03_prova_12|2003 Ordinaria — Prova (Ordinamento)]]
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+Dal punto $A$, accessibile, è visibile il punto $B$, inaccessibile; da $A$ si può raggiungere un punto $P$ dal quale sono visibili sia $A$ sia $B$. Si può misurare la distanza $AP$ e $P$ non è allineato con $A$ e $B$. Vogliamo determinare la distanza $AB$ usando il teorema dei seni.
 
-CORSO DI ORDINAMENTO
+## Impostazione
 
-Tema di: MATEMATICA
+Poiché $A$, $B$ e $P$ non sono allineati, essi individuano un triangolo $ABP$. Di questo triangolo conosciamo, o possiamo misurare direttamente, i seguenti elementi:
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+- il lato $AP$, misurabile perché entrambi gli estremi sono accessibili;
+- l'angolo $\alpha = \widehat{BAP}$, che si misura in $A$ traguardando le due direzioni $AB$ e $AP$;
+- l'angolo $\beta = \widehat{APB}$, che si misura in $P$ traguardando le due direzioni $PA$ e $PB$.
 
-PROBLEMA $1$
 
-Si consideri un tetraedro regolare $T$ di vertici A, $B, C, D.$
-a) Indicati rispettivamente con $V$ ed $S$ il volume e l’area totale di $T$ e con $r$ il raggio della sfera
-inscritta in $T,$ trovare una relazione che leghi $V, S$ ed $r.$
-$b)$ Considerato il tetraedro regolare T’ avente per vertici i centri delle facce di $T,$ calcolare il
-rapporto fra le lunghezze degli spigoli di $T$ e T’ e il rapporto fra i volumi di $T$ e T’.
-$c)$ Condotto il piano $\alpha$ , contenente la retta $AB$ e perpendicolare alla retta $CD$ nel punto E, e posto
-che uno spigolo di $T$ sia lungo $s,$ calcolare la distanza di E dalla retta $AB.$
-$d)$ Considerata nel piano $\alpha$ la parabola $p$ avente l’asse perpendicolare alla retta $AB$ e passante per i
-punti A, $B$ ed E, riferire questo piano $ad$ un conveniente sistema di assi cartesiani ortogonali e
-trovare l’equazione di $p.$
-e) Determinare per quale valore di $s$ la regione piana delimitata dalla parabola $p$ e dalla retta $EA$ ha
-area $3$
-$2 cm2.$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="175.32" height="150.033" viewBox="-72 -72 131.49 112.524"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M-57.904 23.389h102.45l-47.81-81.96Z"/><path stroke="none" d="M-56.104000000000006 23.389a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0M46.345 23.389a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0M-1.4639999999999997-58.57a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-57.904" y="23.389" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.033 10.366)">A</text><text x="-57.904" y="23.389" stroke="none" font-family="cmmi10" font-size="10" transform="translate(105.982 10.366)">P</text><text x="-57.904" y="23.389" stroke="none" font-family="cmmi10" font-size="10" transform="translate(50.596 -85.492)">B</text><g stroke="none" font-size="10"><text x="-57.904" y="23.389" font-family="cmmi10" transform="translate(15.463 11.033)">AP</text><text x="-39.262" y="23.389" font-family="cmr10" transform="translate(15.463 11.033)">(misurabile)</text></g><text x="-57.904" y="23.389" stroke="none" font-family="cmmi10" font-size="10" transform="translate(15.562 -8.773)">®</text><text x="-57.904" y="23.389" stroke="none" font-family="cmmi10" font-size="10" transform="translate(80.559 -7.743)">¯</text></g></svg>
+</figure>
 
-PROBLEMA $2$
+## Calcolo della distanza
 
-È assegnata la funzione f(x) =
-$$ m m x x + + + 2 1 2 $$
-, dove $m$ è un parametro reale.
-a) Determinare il suo dominio di derivabilità.
-$b)$ Calcolare per quale valore di $m$ la funzione ammette una derivata che risulti nulla per $x = 1.$
-$c)$ Studiare la funzione f(x) corrispondente al valore di $m$ così trovato e disegnarne il grafico $\gamma$ in
-un piano riferito $ad$ un sistema di assi cartesiani ortogonali (Oxy), dopo aver stabilito quanti
-sono esattamente i flessi di $\gamma$ ed aver fornito una spiegazione esauriente di ciò.
-$d)$ Calcolare l’area della regione finita di piano delimitata dal grafico $\gamma$ , dall’asse $x$ e dalla retta di
-equazione $x = 1.$
+In ogni triangolo la somma degli angoli interni è $180^\circ$, quindi il terzo angolo, quello in $B$, vale
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+$$\widehat{ABP} = 180^\circ - (\alpha + \beta).$$
 
-CORSO DI ORDINAMENTO
+Nel triangolo $ABP$ il lato $AB$ è opposto all'angolo $\beta = \widehat{APB}$, mentre il lato noto $AP$ è opposto all'angolo $\widehat{ABP}$. Per il **teorema dei seni** i lati sono proporzionali ai seni degli angoli opposti:
 
-Tema di: MATEMATICA
+$$\frac{AB}{\sin \widehat{APB}} = \frac{AP}{\sin \widehat{ABP}}.$$
 
-QUESTIONARIO
+Ricavando $AB$ si ottiene
 
-$1.$ Dopo aver fornito la definizione di “rette sghembe”, si consideri la seguente proposizione:
-«Comunque si prendano nello spazio tre rette $x, y, z,$ due a due distinte, se $x$ ed $y$ sono sghembe
-e, così pure, se sono sghembe $y$ e $z$ allora anche $x$ e $z$ sono sghembe». Dire se è vera o falsa e
-fornire un’esauriente spiegazione della risposta.
-$2.$ Un piano interseca tutti gli spigoli laterali di una piramide quadrangolare regolare: descrivere le
-caratteristiche dei possibili quadrilateri sezione a seconda della posizione del piano rispetto alla
-piramide.
-$3.$ Dal punto A, al quale è possibile accedere, è visibile il punto $B,$ al quale però non si può
-accedere in alcun modo, così da impedire una misura diretta della distanza $AB.$ Dal punto A si
-può però accedere al punto $P,$ dal quale, oltre $ad$ A, è visibile $B$ in modo che, pur rimanendo
-impossibile misurare direttamente la distanza $PB,$ è tuttavia possibile misurare la distanza $AP.$
-Disponendo degli strumenti di misura necessari e sapendo che $P$ non è allineato con A e $B,$
-spiegare come si può utilizzare il teorema dei seni per calcolare la distanza $AB.$
-$4.$ Il dominio della funzione f(x) = {
-$(x$
-$$ 1 x $$
--
--
-$$ + } ln $$
-è l’insieme degli $x$ reali tali che:
-A) $-1<x\le 3;$
-$B) -1\le x<3;$
-$C) 0<x\le 3;$
-$D) 0\le x<3.$
-Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione della scelta
-effettuata.
-$5.$ La funzione $2x^{3}-3x^{2}+2$ ha un solo zero reale, vale a dire che il suo grafico interseca una sola
-volta l’asse delle ascisse. Fornire un’esauriente dimostrazione di questo fatto e stabilire se lo
-zero della funzione è positivo o negativo.
-$6.$ La derivata della funzione f(x) =
-è la funzione $f$ ’(x) $= 2$
-. Eseguire tutti i
-passaggi necessari a giustificare l’affermazione.
-$$ dt e x t \int $$
--
-$$ 2 2 0 4 x e x $$
--
-$7.$ Considerati i primi $n$ numeri naturali a partire da $1:$
-$1, 2, 3, ... , n-1, n$ ,
-moltiplicarli combinandoli due a due in tutti i modi possibili. La somma dei prodotti ottenuti
-risulta uguale a:
-A)
-$$ ( 2 2 1 4 1 + n n $$
-) ; $B)$
-$$ ( 1 3 1 $$
-$2 -$
-$$ n n $$
-); $C)$
-$$ ( )( )( 1 3 2 1 24 1 + + + n n n n $$
-); $D)$
-$$ ( )( ) 2 3 1 24 1 2 + $$
--
-$$ n n n . $$
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
+$$AB = AP \cdot \frac{\sin \widehat{APB}}{\sin \widehat{ABP}} = AP \cdot \frac{\sin \beta}{\sin\big(180^\circ - (\alpha+\beta)\big)}.$$
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+Poiché $\sin\big(180^\circ - (\alpha+\beta)\big) = \sin(\alpha+\beta)$, la distanza cercata è
 
-CORSO DI ORDINAMENTO
+$$\boxed{\,AB = AP \cdot \frac{\sin \beta}{\sin(\alpha + \beta)}\,}$$
 
-Tema di: MATEMATICA
+## Osservazione
 
-$8. x$ ed $y$ sono due numeri naturali dispari tali che $x - y = 2.$ Il numero $x^{3} - y^{3}:$
-A) è divisibile per $2$ e per $3.$
-$B)$ è divisibile per $2$ ma non per $3.$
-$C)$ è divisibile per $3$ ma non per $2.$
-$D)$ non è divisibile né per $2$ né per $3.$
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
-$9.$ Si consideri una data estrazione in una determinata Ruota del Lotto. Calcolare quante sono le
-possibili cinquine che contengono i numeri $1$ e $90.$
-$10.$ Il valore dell’espressione log
-è $1.$ Dire se questa affermazione è vera o falsa e fornire
-una esauriente spiegazione della risposta.
-$$ 2 log 3 3 2 $$
-$\cdot$
-
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
-
-SCUOLE ITALIANE ALL’ESTERO
-ESAMI DI STATO DI LICEO SCIENTIFICO
-Sessione ordinaria 2003
-Tema di Matematica
+La formula ha senso perché, essendo $P$ non allineato con $A$ e $B$, il triangolo $ABP$ è effettivamente non degenere: gli angoli $\alpha$ e $\beta$ sono entrambi non nulli e la loro somma è minore di $180^\circ$, dunque $\sin(\alpha+\beta) \neq 0$ e il denominatore non si annulla. Misurate quindi la lunghezza $AP$ e i due angoli $\alpha$ e $\beta$, la distanza $AB$ resta completamente determinata pur non potendo raggiungere il punto $B$.
 
 *Fonte:* [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 

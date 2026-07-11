@@ -1,211 +1,122 @@
----
-title: 2005 Ordinamento Straordinaria — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131_1
-of_item: prob_2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131_1
-prova_id: prova_2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Problema:** [[Problemi/prob_2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131_1|2005 Ordinamento Straordinaria — Problema 2 — Problema 1]] · **Prova:** [[Prove/2005_liceo_scientifico_ordinamento_2005_sessione_straor_problema2_131|2005 Ordinamento Straordinaria — Problema 2]]
 
-Liceo Scientifico Ordinamento 2005
-Sessione $Straordinaria-$ Problema $2$
+Nel piano riferito a un sistema di assi cartesiani ortogonali $(Oxy)$ sono assegnate le curve di equazione
 
-ORDINAMENTO 2005 - SESSIONE STRAORDINARIA - PROBLEMA $2$
+$$[1]\qquad y = x^4 + ax^3 + bx^2 + c.$$
 
-Nel piano, riferito a un sistema di assi cartesiani ortogonali (Oxy), sono assegnate le
-curve di equazione:
+## a)
 
-$[1] y= x^{4} + ax3 + bx2 + c.$
+Dimostrare che, nel punto in cui secano l'asse $y$, hanno tangente parallela all'asse $x$.
 
-a)
+Il punto d'intersezione con l'asse $y$ si ottiene ponendo $x = 0$ in $[1]$: si trova $A = (0;\,c)$. Detta $y = f(x)$ l'equazione della generica curva, la derivata prima è
 
-Dimostrare che, nel punto in cui secano l’asse $y,$ hanno tangente parallela all’asse $x.$
+$$f'(x) = 4x^3 + 3ax^2 + 2bx \quad\Rightarrow\quad f'(0) = 0.$$
 
-Cerchiamo il punto d’intersezione con l’asse $y.$
-Ponendo $x= 0$ in $[1]$ otteniamo: $A= (0; c).$
-Indicata con $y=f(x)$ l’equazione della generica curva, abbiamo:
+La tangente in $A$ ha dunque equazione $y - c = f'(0)(x-0)$, cioè $y = c$: essa è parallela all'asse $x$ per ogni curva della famiglia.
 
-f'(x) $= 4x^{3} + 3ax2 + 2bx$ , da cui: $f'(0) = 0$
+## b)
 
-La tangente in A ha quindi equazione: $y-c= f'(0)(x-0) \Rightarrow y= c$ . Quindi la
-tangente in A è parallela all’asse $x$ per tutte le curve.
+Trovare quale relazione deve sussistere fra i coefficienti $a$, $b$ affinché la curva $[1]$ volga la concavità verso le $y$ positive in tutto il suo dominio.
 
-$b)$
+Consideriamo la derivata seconda:
 
-Trovare quale relazione deve sussistere fra i coefficienti a, $b$ affinché la curva $[1]$ volga la
-concavità verso le $y$ positive in tutto il suo dominio.
+$$f''(x) = 12x^2 + 6ax + 2b.$$
 
-Calcoliamo la derivata seconda della funzione:
+La curva volge la concavità verso l'alto in ogni punto se $f''(x) > 0$ per ogni $x$, cioè se il discriminante è negativo:
 
-f''(x) $= 12x^{2} + 6ax+ 2b> 0$ per ogni $x$ se il delta è negativo, quindi:
+$$\frac{\Delta}{4} = 9a^2 - 24b < 0 \quad\Rightarrow\quad 3a^2 - 8b < 0.$$
 
-$\Delta$
-$4 = 9a^{2} -24b< 0 , 3a^{2} -8b< 0$ .
+Resta da esaminare il caso limite $3a^2 - 8b = 0$, in cui $f''$ si annulla in un solo punto $x = -\dfrac{a}{4}$. Le derivate successive valgono
 
-La concavità potrebbe essere rivolta verso le $y$ positive anche se la derivata seconda si
-annulla in un punto, in tal caso bisogna analizzare la derivata prima o le derivate
-successive. La derivata seconda si annulla in un punto se $3a^{2} -8b= 0,$ ed il punto in
-questione è: $x= -$
-$3a$
-$12 = -$
-$$ a 4 . $$
-La derivata terza della funzione è:
-f'''(x) $= 24x+ 6a;$ valutiamola in $x= -$
-$4$ : f''' (-
-$4) = -6a+ 6a= 0.$ Quindi non
-possiamo dire niente. Analizziamo la derivata quarta:
-fiv(x) $= 24 > 0:$ quini la prima derivata che non si annulla in $x= -$
-$4$ è di ordine pari,
-pertanto in tale non abbiamo un flesso (in particolare abbiamo un minimo, poiché la
+$$f'''(x) = 24x + 6a \;\Rightarrow\; f'''\!\left(-\tfrac{a}{4}\right) = -6a + 6a = 0,\qquad f^{(4)}(x) = 24 > 0.$$
 
-Liceo Scientifico Ordinamento 2005
-Sessione $Straordinaria-$ Problema $2$
+La prima derivata non nulla in $x = -\dfrac{a}{4}$ è dunque di ordine pari: non si ha un flesso ma un minimo, e anche in questo caso la concavità è rivolta verso l'alto. In conclusione la curva volge la concavità verso le $y$ positive in tutto il dominio se
 
-derivata terza è positiva): quindi anche quando $3a^{2} -8b= 0$ il grafico della funzione
-volge la concavità verso le $y$ positive. Concludendo:
+$$3a^2 - 8b \le 0.$$
 
-la curva data volge la concavità verso le $y$ positive se $3a^{2} -8b\le 0$
+## c)
 
-$c)$
+Determinare i coefficienti $a$, $b$, $c$ in modo che la curva $[1]$ abbia, nel punto in cui seca l'asse $y$, un flesso e la relativa tangente inflessionale la sechi ulteriormente nel punto $(2;\,2)$.
 
-Determinare i coefficienti a, $b, c$ in modo che la corrispondente curva $[1]$ abbia, nel punto
-in cui seca l’asse $y,$ un flesso e la relativa tangente inflessionale la sechi ulteriormente nel
-punto di coordinate $(2; 2).$
+Il punto in cui la curva taglia l'asse $y$ è $A = (0;\,c)$. Perché in $A$ vi sia un flesso deve annullarsi la derivata seconda:
 
-Il punto in cui la curva taglia l’asse $y$ è il punto $A= (0; c).$ Affinché in tale punto ci sia un
-flesso è necessario che la derivata seconda si annulli:
-f''(x) $= 12x^{2} + 6ax+ 2b \Rightarrow f''(0) = 2b= 0 \Rightarrow b= 0.$
-La tangente inflessionale in A ha equazione:
+$$f''(0) = 2b = 0 \quad\Rightarrow\quad b = 0.$$
 
-$y-f(0) = f'(0)(x-0) \Rightarrow y-c= 0(x) = 0 \Rightarrow y= c$ . Tale retta passa per $(2;2)$
-se $c=2.$ Inoltre la curva deve passare per $(2;2),$ quindi:
+La tangente inflessionale in $A$ ha equazione $y - c = f'(0)(x-0)$, cioè $y = c$. Essa passa per $(2;\,2)$ se $c = 2$. Imponendo infine che la curva passi per $(2;\,2)$:
 
-$2 = 16 + 8a+ 4b+ c,$ da cui, essendo $b= 0$ e $c= 2: a= -2.$ Quindi:
+$$2 = 16 + 8a + 4b + c,\qquad\text{con } b=0,\ c=2 \;\Rightarrow\; 8a = -16 \;\Rightarrow\; a = -2.$$
 
-$a= -2, b= 0$ e $c= 2 \Rightarrow y= x^{4} -2x^{3} + 2$
+Quindi
 
-$d)$
+$$a = -2,\quad b = 0,\quad c = 2 \qquad\Rightarrow\qquad y = x^4 - 2x^3 + 2.$$
 
-Indicata con $K$ la curva trovata, stabilire com’è situata rispetto all’asse $x,$ fornendo una
-esauriente spiegazione della risposta.
+## d)
 
-In base a quanto visto nel punto precedente risulta:
+Indicata con $K$ la curva trovata, stabilire com'è situata rispetto all'asse $x$.
 
-$K: y= x^{4} -2x^{3} + 2$
+Studiamo $K:\; y = x^4 - 2x^3 + 2$. Cerchiamo gli estremi tramite la derivata prima:
 
-Cerchiamo le eventuali intersezioni con l’asse $x:$
+$$y' = 4x^3 - 6x^2 = 2x^2(2x - 3) \ge 0 \quad\Leftrightarrow\quad x \ge \frac{3}{2},$$
 
-$x^{4} -2x^{3} + 2 = 0$ : questa equazione può essere risolta solo graficamente. Analizziamo
-la derivata prima:
+con $y' = 0$ per $x = 0$ e $x = \dfrac{3}{2}$. La funzione è quindi decrescente per $x < \dfrac{3}{2}$ e crescente per $x > \dfrac{3}{2}$: in $x = 0$ vi è un flesso a tangente orizzontale e in $x = \dfrac{3}{2}$ un minimo assoluto. Le ordinate corrispondenti sono
 
-$y' = 4x^{3} -6x^{2} \ge 0$ se $2x^{2}(2x-3) \ge 0$ se $x\ge$
-$2$ e $y' = 0$ se $x= 0$ e $x=$
-$$ 3 2 $$
-Quindi la funzione è crescente se $x>$
-$2$ , decrescente se $x<$
-$2$ ; abbiamo un flesso a
-tangente orizzontale in $x= 0$ ed un minimo se $x=$
-$2$ . Le ordinate di tali punti sono:
-se $x= 0, y= 2;$ se $x=$
-$2 , y=$
-$$ 81 $$
-$16 -$
-$$ 27 4 + 2 = 5 16 . $$
-Analizziamo la derivata seconda:
+$$x = 0 \Rightarrow y = 2, \qquad x = \frac{3}{2} \Rightarrow y = \frac{81}{16} - \frac{27}{4} + 2 = \frac{5}{16}.$$
 
-y'' $= 12x^{2} -12x\ge 0$ se $x\le 0$ vel $x\ge 1$ : quindi in $x=0 (y=2)$ e $x=1 (y=1)$ abbiamo dei
-flessi. La concavità della curva è verso l’alto se $x<0$ e $x>1,$ verso il basso se $0<x<1.$
-Dalle considerazioni svolte segue che la curva $K$ è tutta al di sopra dell’asse $x.$
+Poiché il minimo assoluto vale $\dfrac{5}{16} > 0$, la curva $K$ è tutta al di sopra dell'asse $x$ (l'equazione $x^4 - 2x^3 + 2 = 0$ non ha radici reali).
 
-Liceo Scientifico Ordinamento 2005
-Sessione $Straordinaria-$ Problema $2$
+Dalla derivata seconda
 
-Il grafico di $K$ è il seguente:
+$$y'' = 12x^2 - 12x = 12x(x - 1) \ge 0 \quad\Leftrightarrow\quad x \le 0 \ \text{oppure}\ x \ge 1,$$
 
-e)
+si deducono due flessi: in $x = 0$ $(y = 2)$ e in $x = 1$ $(y = 1)$. La concavità è rivolta verso l'alto per $x < 0$ e $x > 1$, verso il basso per $0 < x < 1$.
 
-Dopo aver verificato che la curva $K$ presenta un secondo flesso, calcolare l’area della
-regione finita di piano delimitata da $K$ e dalle due tangenti inflessionali.
 
-Abbiamo già visto nel punto precedente che la curva presenta, oltre al flesso $(0;2)$ il
-flesso $(1;1).$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="168.41" height="255.619" viewBox="-72 -72 126.308 191.714"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><g fill="gray" stroke="gray"><path fill="none" d="M-72.07 103.026H41.056"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M39.176 100.626c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-28.822" y="103.026" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(73.811 2.153)">x</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-28.822 119.244V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-31.222-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-28.822" y="103.026" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -167.658)">y</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-55.852 105.188v-4.324"/><g fill="gray" stroke="none" font-size="8"><text x="-28.822" y="103.026" font-family="cmsy8" transform="translate(-32.46 9.526)">¡</text><text x="-22.211" y="103.026" font-family="cmr8" transform="translate(-32.46 9.526)">1</text></g></g><g fill="gray" stroke="gray"><path fill="none" d="M-1.792 105.188v-4.324"/><text x="-28.822" y="103.026" fill="gray" stroke="none" font-family="cmr8" font-size="8" transform="translate(24.905 9.526)">1</text></g><g fill="gray" stroke="gray"><path fill="none" d="M25.238 105.188v-4.324"/><text x="-28.822" y="103.026" fill="gray" stroke="none" font-family="cmr8" font-size="8" transform="translate(51.935 9.526)">2</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-30.984 75.996h4.325"/><text x="-28.822" y="103.026" fill="gray" stroke="none" font-family="cmr8" font-size="8" transform="translate(-5.62 -24.452)">1</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-30.984 48.966h4.325"/><text x="-28.822" y="103.026" fill="gray" stroke="none" font-family="cmr8" font-size="8" transform="translate(-5.62 -51.482)">2</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-30.984-32.124h4.325"/><text x="-28.822" y="103.026" fill="gray" stroke="none" font-family="cmr8" font-size="8" transform="translate(-5.62 -132.572)">5</text></g><path fill="none" stroke="#00f" stroke-width=".8" d="m-57.203-46.47.95 10.262.95 9.442.95 8.665.95 7.928.951 7.232.95 6.576.95 5.957.95 5.374.951 4.83.95 4.32.95 3.844.95 3.402.951 2.992.95 2.613.95 2.264.951 1.946.95 1.654.95 1.392.95 1.154.951.942.95.755.95.59.95.45.951.33.95.228.95.15.951.086.95.042.95.015.95.001.951.003.95.019.95.046.95.086.951.135.95.194.95.263.951.337.95.42.95.506.95.598.951.694.95.792.95.891.95.992.951 1.09.95 1.19.95 1.286.951 1.378.95 1.466.95 1.55.95 1.624.951 1.695.95 1.756.95 1.806.95 1.849.951 1.877.95 1.896.95 1.9.951 1.89.95 1.864.95 1.822.95 1.765.951 1.686.95 1.591.95 1.474.95 1.337.951 1.176.95.993.95.786.951.553.95.295.95.01.95-.306.951-.648.95-1.022.95-1.425.95-1.863.951-2.333.95-2.835.95-3.376.951-3.949.95-4.562.95-5.212.95-5.9.951-6.63.95-7.4.95-8.214.951-9.068"/><path fill="none" stroke="red" stroke-width=".8" d="M-66.664 48.966H36.05M-63.96-48.342l77.035 154.071"/><path stroke="none" d="M-26.922 48.966a1.9 1.9 0 1 0-3.8 0 1.9 1.9 0 0 0 3.8 0m-1.9 0"/><g stroke="none" font-size="8"><text x="-28.822" y="103.026" font-family="cmr8" transform="translate(3.533 -59.593)">(0</text><text x="-21.266" y="103.026" font-family="cmmi8" transform="translate(3.533 -59.593)">;</text><text x="-17.488" y="103.026" font-family="cmr8" transform="translate(3.533 -59.593)">2)</text></g><path stroke="none" d="M.108 75.996a1.9 1.9 0 1 0-3.8 0 1.9 1.9 0 0 0 3.8 0m-1.9 0"/><g stroke="none" font-size="8"><text x="-28.822" y="103.026" font-family="cmr8" transform="translate(4.608 -17.497)">(1</text><text x="-21.266" y="103.026" font-family="cmmi8" transform="translate(4.608 -17.497)">;</text><text x="-17.488" y="103.026" font-family="cmr8" transform="translate(4.608 -17.497)">1)</text></g><path stroke="none" d="M-53.952-32.124a1.9 1.9 0 1 0-3.8 0 1.9 1.9 0 0 0 3.8 0m-1.9 0"/><g stroke="none" font-size="8"><text x="-28.822" y="103.026" font-family="cmmi8" transform="translate(-23.497 -140.683)">A</text><text x="-22.455" y="103.026" font-family="cmr8" transform="translate(-23.497 -140.683)">(</text><text x="-19.149" y="103.026" font-family="cmsy8" transform="translate(-23.497 -140.683)">¡</text><text x="-12.538" y="103.026" font-family="cmr8" transform="translate(-23.497 -140.683)">1</text><text x="-8.288" y="103.026" font-family="cmmi8" transform="translate(-23.497 -140.683)">;</text><text x="-4.51" y="103.026" font-family="cmr8" transform="translate(-23.497 -140.683)">5)</text></g><path stroke="none" d="M-13.407 48.966a1.9 1.9 0 1 0-3.8 0 1.9 1.9 0 0 0 3.8 0m-1.9 0"/><text x="-28.822" y="103.026" stroke="none" font-family="cmmi8" font-size="8" transform="translate(17.048 -57.593)">B</text><g fill="#00f" stroke="#00f"><text x="-28.822" y="103.026" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(53.51 -88.485)">K</text></g><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="-28.822" y="103.026" font-family="cmmi10" font-size="10" transform="translate(-35.583 -112.123)">r</text><text x="-24.31" y="104.526" font-family="cmr7" font-size="7" transform="translate(-35.583 -112.123)">2</text></g></g><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="-28.822" y="103.026" font-family="cmmi10" font-size="10" transform="translate(53.616 -62.118)">r</text><text x="-24.31" y="104.526" font-family="cmr7" font-size="7" transform="translate(53.616 -62.118)">1</text></g></g></g></svg>
+</figure>
 
-La tangente in $(0;2)$ ha equazione $y=2,$ trattandosi, come già osservato, di un flesso a
-tangente orizzontale. La tangente in $(1;1)$ ha equazione:
+## e)
 
-$y-1 = f'(1)(x-1) \Rightarrow y-1 = -2(x-1) \Rightarrow y= -2x+ 3$
+Dopo aver verificato che $K$ presenta un secondo flesso, calcolare l'area della regione finita delimitata da $K$ e dalle due tangenti inflessionali.
 
-La regione delimitata dalle due tangenti inflessionali e dalla curva $K$ è indicata nella
-seguente figura:
+Come visto al punto d), oltre al flesso $(0;\,2)$ la curva presenta un secondo flesso in $(1;\,1)$. La tangente inflessionale in $(0;\,2)$ è orizzontale:
 
-Cerchiamo l’ascissa dell’intersezione A fra $K$ e la
-tangente in $(1;1):$
+$$r_1:\ y = 2.$$
 
-${y= x^{4} -2x^{3} + 2$
-$y= -2x+ 3$
-$\Rightarrow x^{4} -2x^{3} + 2x-1 = 0$
+La tangente inflessionale in $(1;\,1)$ ha coefficiente angolare $f'(1) = 4 - 6 = -2$, dunque
 
-$x^{4} -1 -2x(x^{2} -1) = 0,$
-$(x^{2} -1)(x^{2} + 1 -2x) = 0$
+$$r_2:\ y - 1 = -2(x - 1) \quad\Rightarrow\quad y = -2x + 3.$$
 
-$(x+ 1)(x-1)^{3} = 0,$
-quindi $xA= -1$
+**Intersezioni.** Fra $K$ e la tangente $r_2$:
 
-Cerchiamo l’ascissa di $B$ intersecando le due tangenti
-inflessionali: se $y=2$ si ha $x=1/2.$
+$$x^4 - 2x^3 + 2 = -2x + 3 \;\Rightarrow\; x^4 - 2x^3 + 2x - 1 = 0.$$
 
-Liceo Scientifico Ordinamento 2005
-Sessione $Straordinaria-$ Problema $2$
+Raccogliendo,
 
-L’area richiesta si ottiene quindi nel seguente modo:
+$$(x^4 - 1) - 2x(x^2 - 1) = (x^2 - 1)(x^2 - 2x + 1) = (x + 1)(x - 1)^3 = 0,$$
 
-$\int [-2x+ 3 -(x^{4} -2x^{3} + 2)]$
-$-1$
-$dx+ 1$
-$2 ∙1 ∙1$
-$2 + \int [2 -(x^{4} -2x^{3} + 2)]$
-$$ 2 1 $$
-$dx=$
+da cui l'ulteriore intersezione $x_A = -1$, cioè $A = (-1;\,5)$. Le due tangenti si incontrano ponendo $-2x + 3 = 2$, cioè in $B = \left(\dfrac{1}{2};\,2\right)$; inoltre $r_1$ interseca $K$ anche in $(2;\,2)$.
 
-$= \int (-x^{4} + 2x^{3} -2x+ 1)$
-$-1$
-$dx+ 1$
-$4 + \int (-x^{4} + 2x^{3})$
-$$ 2 1 $$
-$dx=$
+**Area.** Nella regione la frontiera superiore è la tangente $r_2$ per $-1 \le x \le \dfrac{1}{2}$ e la tangente $r_1$ per $\dfrac{1}{2} \le x \le 2$, mentre la frontiera inferiore è sempre la curva $K$. Perciò
 
-$= [-x^{5}$
-$5 + x^{4}$
-$2 -x^{2} +$ x]
-$-1$
-$$ 1 + 1 $$
-$4 + [-x^{5}$
-$5 + x^{4}$
-$$ 2 ] 1 2 $$
-$= (-1$
-$$ 5 + 1 $$
-$2 -1 + 1) -(1$
-$$ 5 + 1 $$
-$2 -1 -1) + 1$
+$$\mathcal{A} = \int_{-1}^{1/2}\!\big[(-2x + 3) - (x^4 - 2x^3 + 2)\big]\,dx + \int_{1/2}^{2}\!\big[2 - (x^4 - 2x^3 + 2)\big]\,dx.$$
 
-$+ (-32$
-$5 + 8) -(-1$
-$$ 5 + 1 2) = 63 $$
-$20 u^{2} = 3.15 u^{2}$
+Cioè
 
-Con la collaborazione di Angela Santamaria
+$$\mathcal{A} = \int_{-1}^{1/2}\!\big(-x^4 + 2x^3 - 2x + 1\big)\,dx + \int_{1/2}^{2}\!\big(-x^4 + 2x^3\big)\,dx.$$
+
+Calcolando le primitive,
+
+$$\int_{-1}^{1/2}\!\big(-x^4 + 2x^3 - 2x + 1\big)\,dx = \left[-\frac{x^5}{5} + \frac{x^4}{2} - x^2 + x\right]_{-1}^{1/2} = \frac{63}{40},$$
+
+$$\int_{1/2}^{2}\!\big(-x^4 + 2x^3\big)\,dx = \left[-\frac{x^5}{5} + \frac{x^4}{2}\right]_{1/2}^{2} = \frac{63}{40}.$$
+
+Sommando,
+
+$$\mathcal{A} = \frac{63}{40} + \frac{63}{40} = \frac{63}{20}\ u^2 = 3{,}15\ u^2.$$
 
 *Fonte:* [📄 PDF p.131](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -1,60 +1,33 @@
----
-title: 2005 Estero Australe Suppletiva — Questionario — Quesito 6 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_estero_australe_2005_suppletiva_questionario_66_6
-of_item: ques_2005_estero_australe_2005_suppletiva_questionario_66_6
-prova_id: prova_2005_estero_australe_2005_suppletiva_questionario_66
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_estero_australe_2005_suppletiva_questionario_66_6|2005 Estero Australe Suppletiva — Questionario — Quesito 6]] · **Prova:** [[Prove/2005_estero_australe_2005_suppletiva_questionario_66|2005 Estero Australe Suppletiva — Questionario]]
 
-Estero (Australe) 2005
+Fra tutte le primitive di $f(x)=3\cos^3(x)$ si deve trovare quella il cui grafico passa per il punto $(0;5)$.
 
-QUESITO $6$
+## Primitiva generale
 
-Fra tutte le primitive di f(x) $= 3 cos3(x)$ trovare quella il cui grafico passa per il punto
-$$ (0;5). $$
+Cerchiamo la più generale primitiva della funzione data, cioè $F(x)=\int 3\cos^3(x)\,dx$. Conviene isolare un fattore $\cos(x)$ e usare l'identità fondamentale $\cos^2(x)=1-\sin^2(x)$:
 
-Calcoliamo la più generale primitiva della funzione data:
+$$\int 3\cos^3(x)\,dx = 3\int \cos(x)\left(1-\sin^2(x)\right)dx = 3\int \cos(x)\,dx - 3\int \cos(x)\sin^2(x)\,dx.$$
 
-F(x) $= \int 3 cos3(x) dx= 3 \int$ cos(x) $(1 -sen2(x)) dx=$
-$= 3 \int$ cos(x) $dx-3 \int$ cos(x) $sen2(x)dx= 3sen(x) -3 [sen3(x)$
-] $+ k$
-Quindi: F(x) $= 3sen(x) -sen3(x) + k$ . Imponendo il passaggio per $(0; 5)$ si ha: $5 = k$ .
-La primitiva richiesta è quindi:
+Il primo integrale è immediato. Nel secondo poniamo $t=\sin(x)$, da cui $dt=\cos(x)\,dx$, ottenendo $\int \cos(x)\sin^2(x)\,dx=\int t^2\,dt=\dfrac{t^3}{3}=\dfrac{\sin^3(x)}{3}$. Quindi:
 
-F(x) $= 3sen(x) -sen3(x) + 5$
+$$F(x) = 3\sin(x) - 3\cdot\frac{\sin^3(x)}{3} + k = 3\sin(x) - \sin^3(x) + k,$$
 
-QUESITO $7$
+con $k\in\mathbb{R}$ costante arbitraria.
 
-Spiegare perché l’equazione $3x= -x^{2} + 5x-8$ non ammette soluzioni.
+## Condizione sul punto
 
-Rappresentiamo graficamente le funzioni $y= 3x$ e $y= -x^{2} + 5x-8.$
-La prima è un’esponenziale con base $3$ e la seconda una parabola con vertice di
-coordinate: $xV=$
-$2 , yV= -$
-$\Delta$
-$4a= -$
-$25-32$
-$-4$
-= -
-$4 : V=$ (
-$2 ; -$
-$4).$ La parabola ha la
-concavità verso il basso e non taglia l’asse $x:$ quindi, essendo il primo membro sempre
-positivo ed il secondo sempre negativo l’equazione non può ammettere soluzioni.
+Imponiamo che il grafico passi per $(0;5)$, cioè $F(0)=5$. Poiché $\sin(0)=0$:
 
-Graficamente:
+$$F(0) = 3\cdot 0 - 0 + k = k = 5.$$
+
+## Primitiva richiesta
+
+La primitiva cercata è dunque:
+
+$$F(x) = 3\sin(x) - \sin^3(x) + 5.$$
 
 *Fonte:* [📄 PDF p.69](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

@@ -1,168 +1,47 @@
----
-title: 2009 Sessione Ordinaria PNI — Prova — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_sessione_ordinaria_2009_prova_146_4
-of_item: ques_2009_sessione_ordinaria_2009_prova_146_4
-prova_id: prova_2009_sessione_ordinaria_2009_prova_146
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Calcolo Integrale e Aree
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/calcolo_integrale_e_aree
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_4|2009 Sessione Ordinaria PNI — Prova — Quesito 4]] · **Prova:** [[Prove/2009_sessione_ordinaria_2009_prova_146|2009 Sessione Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2009
+Si deve stabilire se sia vera o falsa l'affermazione: *"Esiste solo un poliedro regolare le cui facce sono esagoni"*.
 
-CORSO SPERIMENTALE
+## Risposta
 
-Indirizzo: PIANO NAZIONALE INFORMATICA
+L'affermazione è **falsa**. Non esiste **alcun** poliedro regolare le cui facce siano esagoni: non ce n'è uno solo, non ce n'è nessuno.
 
-Tema di: MATEMATICA
+## Perché nessun poliedro regolare può avere facce esagonali
 
-Il candidato risolva uno dei due problemi e risponda a $5$ quesiti del questionario.
+Un *poliedro regolare* (solido platonico) è un poliedro convesso le cui facce sono poligoni regolari fra loro congruenti e nel quale in ogni vertice concorre lo stesso numero di facce. Perché un vertice sia effettivamente lo spigolo di un angoloide (cioè "sporga" formando un vero vertice solido) devono valere due condizioni:
 
-PROBLEMA $1$
+- in ogni vertice devono concorrere **almeno $3$ facce**;
+- la somma degli angoli delle facce che concorrono nel vertice deve essere **strettamente minore di $360^\circ$**.
 
-Sia $f$ la funzione definita da
-$$ ( ) x n e n x x x x f $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
+Quest'ultima è la condizione di esistenza di un angoloide convesso: se la somma degli angoli fosse esattamente $360^\circ$ i poligoni giacerebbero appiattiti nel piano (una tassellazione), e se superasse $360^\circ$ non potrebbero nemmeno disporsi attorno al vertice.
 
-!
-$!2$
-$$ 1 2 $$
+L'angolo interno di un poligono regolare di $n$ lati vale
+$$\alpha_n = \frac{(n-2)\cdot 180^\circ}{n}.$$
+Per l'esagono regolare $(n=6)$:
+$$\alpha_6 = \frac{(6-2)\cdot 180^\circ}{6} = \frac{4\cdot 180^\circ}{6} = 120^\circ.$$
 
-dove $n$ è un intero positivo e
-$x \in$
+Facendo concorrere il numero minimo di facce, cioè $3$ esagoni, in un vertice si ottiene
+$$3\cdot 120^\circ = 360^\circ,$$
+che **non** è minore di $360^\circ$: i tre esagoni si dispongono esattamente attorno al punto ricoprendo il piano senza lasciare "difetto angolare", quindi non si chiudono a formare un angoloide. Con $4$ o più esagoni la somma supererebbe $360^\circ$, situazione ancora impossibile. Dunque gli esagoni regolari non possono in alcun modo essere le facce di un poliedro regolare.
 
-$1.$ Si verifichi che la derivata di ( )
-$$ x f $$
-è:
-$$ ( ) x e n n x x f $$
--
--
-!
 
-$2.$ Si dica se la funzione $f$ ammette massimi e minimi (assoluti e relativi) e si provi che, quando $n$ è
-dispari, ( )
-$$ x f $$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="248.333" height="200.588" viewBox="-72 -72 186.249 150.441"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="#ebebff" stroke-width=".8" d="m82.455-54.087-30.8-17.783-30.8 17.783v35.566l30.8 17.783 30.8-17.783Z"/><path fill="#ebffeb" stroke-width=".8" d="m20.855-54.087-30.8-17.783-30.8 17.783v35.566l30.8 17.783 30.8-17.783Z"/><path fill="#fff0e1" stroke-width=".8" d="m51.655-.738-30.8-17.783-30.8 17.783v35.566l30.8 17.783 30.8-17.783Z"/><path stroke="none" d="M22.855-18.521a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><text x="20.855" y="-18.521" stroke="none" font-family="cmmi10" font-size="10" transform="translate(5.311 -5.311)">O</text><g stroke="none"><text x="20.855" y="-18.521" font-family="cmr10" font-size="10" transform="translate(6.206 -6.515)">120</text><text x="35.855" y="-22.15" font-family="cmsy7" font-size="7" transform="translate(6.206 -6.515)">±</text></g><g stroke="none"><text x="20.855" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-25.803 -6.515)">120</text><text x="35.855" y="-22.15" font-family="cmsy7" font-size="7" transform="translate(-25.803 -6.515)">±</text></g><g stroke="none"><text x="20.855" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-9.799 21.226)">120</text><text x="35.855" y="-22.15" font-family="cmsy7" font-size="7" transform="translate(-9.799 21.226)">±</text></g><g stroke="none"><text x="20.855" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">3</text><text x="28.077" y="-18.521" font-family="cmsy10" font-size="10" transform="translate(-89.792 91.415)">£</text><text x="38.077" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">120</text><text x="53.077" y="-22.15" font-family="cmsy7" font-size="7" transform="translate(-89.792 91.415)">±</text><text x="60.452" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">=</text><text x="71.007" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">360</text><text x="86.007" y="-22.15" font-family="cmsy7" font-size="7" transform="translate(-89.792 91.415)">±</text><text x="90.605" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">:</text><text x="97.827" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">il</text><text x="106.716" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">piano</text><text x="133.938" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">viene</text><text x="159.771" y="-18.521" font-family="cmr10" font-size="10" transform="translate(-89.792 91.415)">tassellato</text></g></g></svg>
+</figure>
 
-$\le$ per ogni $x$ reale.
-$3.$ Si studi la funzione $g$ ottenuta da $f$ quando
-$$ 2 = n $$
-e se ne disegni il grafico.
-$4.$ Si calcoli $\int$
-$$ 2 0 ) ( dx x g $$
-e se ne dia l’interpretazione geometrica.
+## Perché esistono soltanto i cinque solidi platonici
 
-PROBLEMA $2$
+Lo stesso criterio spiega quali poligoni regolari possono fare da facce e conferma che i poliedri regolari sono in tutto cinque. Basta imporre che almeno $3$ facce diano somma degli angoli $< 360^\circ$:
 
-In un sistema di riferimento cartesiano ortogonale Oxy , si consideri la funzione $f : R \to R$
-definita da ( )
-$$ kx x x f + = 3 $$
-, con $k$ parametro reale.
-$1.$ Si dica come varia il grafico di $f$ al variare di $k (k$ positivo, negativo o nullo).
-$2.$ Sia ( )
-$$ 3 x x g = $$
-e $\gamma$ il suo grafico. Si dimostri che $\gamma$ e la retta d’equazione
-$$ x y $$
--
-hanno un solo
-punto $P$ in comune. Si determini l’ascissa di $P$ approssimandola a meno di $0,1$ con un metodo
-iterativo di calcolo.
-$3.$ Sia $D$ la regione finita del primo quadrante delimitata da $\gamma$ e dal grafico della funzione inversa di $g$ .
-Si calcoli l’area di $D.$
-$4.$ La regione $D$ è la base di un solido $W$ le cui sezioni con piani perpendicolari alla bisettrice del
-primo quadrante sono tutte rettangoli di altezza $12.$ Si determini la sezione di area massima. Si
-calcoli il volume di $W.$
+- **Triangoli equilateri** $(\alpha_3 = 60^\circ)$: si può avere $3$, $4$ o $5$ triangoli per vertice, poiché $3\cdot 60^\circ,\ 4\cdot 60^\circ,\ 5\cdot 60^\circ$ sono tutti $< 360^\circ$, mentre $6\cdot 60^\circ = 360^\circ$ no. Si ottengono **tetraedro, ottaedro, icosaedro**.
+- **Quadrati** $(\alpha_4 = 90^\circ)$: solo $3$ per vertice, perché $3\cdot 90^\circ = 270^\circ < 360^\circ$ ma $4\cdot 90^\circ = 360^\circ$. Si ottiene il **cubo**.
+- **Pentagoni regolari** $(\alpha_5 = 108^\circ)$: solo $3$ per vertice, perché $3\cdot 108^\circ = 324^\circ < 360^\circ$ ma $4\cdot 108^\circ = 432^\circ > 360^\circ$. Si ottiene il **dodecaedro**.
+- **Esagoni** $(\alpha_6 = 120^\circ)$ e ogni poligono con più lati: già $3$ facce danno $\ge 360^\circ$, quindi **nessun** poliedro regolare.
 
-Sessione ordinaria 2009
-
-CORSO SPERIMENTALE
-
-Indirizzo: PIANO NAZIONALE INFORMATICA
-
-Tema di: MATEMATICA
-
-QUESTIONARIO
-$1.$ Siano:
-a <
-<
-$$ 0 e [ ] b b x , $$
--
-$\in$
-. Si provi che: $\int -$
--
-$$ b b a x 2 2 b a dx + = . $$
-$2.$ Sono dati gli insiemi A = { $,1 2, 3,$ }
-$4$ e $B =$ { ,a $b,$ }
-$c$ . Tra le possibili funzioni (o applicazioni) di A in
-$B, ce$ ne sono di suriettive? Di iniettive? Di biiettive?
-$3.$ Una moneta da $2$ euro (il suo diametro è $25,75 mm)$ viene lanciata su un pavimento ricoperto con
-mattonelle quadrate di lato $10 cm.$ Quale è la probabilità che la moneta vada a finire internamente $ad$
-una mattonella? (cioè non tagli i lati dei quadrati)
-$4.$ “Esiste solo un poliedro regolare le cui facce sono esagoni”. Si dica se questa affermazione è vera o
-falsa e si fornisca una esauriente spiegazione della risposta.
-$5.$ Si considerino le seguenti espressioni:
-$$ 0 0 ; 0 1 ; 0 0 ; 1 0 $$
-
-A quali di esse è possibile attribuire un valore numerico? Si motivi la risposta.
-$6.$ Con l’aiuto di una calcolatrice, si applichi il procedimento iterativo di Newton all’equazione senx $= 0,$
-con punto iniziale
-$0x = 3.$ Cosa si ottiene dopo due iterazioni?
-$7.$ Si dimostri l’identità
-$$ 1 1 + $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-$$ + k k n k n k n $$
-con $n$ e $k$ naturali e $n > k$
-$8.$ Alla festa di compleanno di Anna l’età media dei partecipanti è di $22$ anni. Se l’età media degli uomini è
-$26$ anni e quella delle donne è $19,$ qual è il rapporto tra il numero degli uomini e quello delle donne?
-$9.$ Nei “Discorsi e dimostrazioni matematiche intorno a due nuove scienze”, Galileo Galilei descrive la
-
-costruzione di un solido che chiama scodella considerando una
-semisfera di raggio $r$ e il cilindro $ad$ essa circoscritto. La
-scodella si ottiene togliendo la semisfera dal cilindro.
-Si dimostri, utilizzando il principio di Cavalieri, che la
-scodella ha volume pari al cono di vertice $V$ in figura.
-$10.$ “Se due punti $P$ e $Q$ del piano giacciono dalla stessa
-parte rispetto $ad$ una retta $AB$ e gli angoli
-$$ B A $$
-$P$ ˆ
-$$ e A B $$
-$Q$ ˆ hanno somma minore di $180^\circ$ , allora le semirette
-$AP$ e $BQ,$ prolungate adeguatamente al di là dei punti
-$P$ e $Q,$ si devono intersecare”. Questa proposizione è
-stata per secoli oggetto di studio da parte di schiere di
-matematici. Si dica perché e con quali risultati.
-
-___________________________
-Durata massima della prova: $6$ ore.
-È consentito l’uso della calcolatrice non programmabile.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+Si esauriscono così i **cinque** solidi platonici, nessuno dei quali ha facce esagonali. L'affermazione del quesito è pertanto falsa.
 
 *Fonte:* [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/analisi #cluster/calcolo_integrale_e_aree

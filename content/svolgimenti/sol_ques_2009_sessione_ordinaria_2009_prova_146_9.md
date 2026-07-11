@@ -1,168 +1,46 @@
----
-title: 2009 Sessione Ordinaria PNI — Prova — Quesito 9 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_sessione_ordinaria_2009_prova_146_9
-of_item: ques_2009_sessione_ordinaria_2009_prova_146_9
-prova_id: prova_2009_sessione_ordinaria_2009_prova_146
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Calcolo Integrale e Aree
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/calcolo_integrale_e_aree
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_9|2009 Sessione Ordinaria PNI — Prova — Quesito 9]] · **Prova:** [[Prove/2009_sessione_ordinaria_2009_prova_146|2009 Sessione Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2009
+Nei *Discorsi e dimostrazioni matematiche intorno a due nuove scienze* Galileo considera una semisfera di raggio $r$ e il cilindro ad essa circoscritto (dunque di raggio $r$ e altezza $r$). La **scodella** è il solido che si ottiene togliendo la semisfera dal cilindro. Si vuole dimostrare, con il principio di Cavalieri, che la scodella ha lo stesso volume del cono di vertice $V$ in figura, cioè il cono avente per base il cerchio superiore del cilindro e per vertice il centro della faccia piana della semisfera.
 
-CORSO SPERIMENTALE
 
-Indirizzo: PIANO NAZIONALE INFORMATICA
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="243.071" height="127.108" viewBox="-72 -72 182.303 95.331"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M-52.438-56.19H78.444V9.25H-52.438Z"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-52.438-56.19c0 36.142 29.299 65.44 65.441 65.44s65.441-29.298 65.441-65.44"/><path fill="none" stroke="red" stroke-width=".8" d="m13.003-56.19-65.44 65.44M13.003-56.19 78.444 9.25"/><path fill="none" stroke-dasharray="3.0,3.0" d="M13.003-69.279v91.617M-72.07-23.47H98.077"/><text x="13.003" y="-56.191" stroke="none" font-family="cmmi10" font-size="10" transform="translate(88.606 34.873)">z</text><path stroke="none" d="M14.728-56.19a1.725 1.725 0 1 0-3.45 0 1.725 1.725 0 0 0 3.45 0m-1.725 0"/><g stroke="none" font-size="10"><text x="13.003" y="-56.191" font-family="cmmi10" transform="translate(-14.647 -3.533)">V</text><text x="23.837" y="-56.191" font-family="cmr10" transform="translate(-14.647 -3.533)">=</text><text x="34.392" y="-56.191" font-family="cmmi10" transform="translate(-14.647 -3.533)">O</text></g><g fill="#00f" stroke="#00f"><text x="13.003" y="-56.191" fill="#00f" stroke="none" font-family="cmr10" font-size="10" transform="translate(-19.93 75.918)">semisfera</text></g><g fill="red" stroke="red"><text x="13.003" y="-56.191" fill="red" stroke="none" font-family="cmr10" font-size="10" transform="translate(32.537 54.506)">cono</text></g><path fill="none" d="M-52.038-61.099h64.641"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-50.158-58.699c-.38-1.44-1.226-2.12-2.08-2.4.854-.28 1.7-.96 2.08-2.4M10.723-63.498c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="13.003" y="-56.191" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-35.115 -8.44)">r</text><path fill="none" d="M86.624-55.79V8.85"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M84.224-53.91c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08M89.024 6.97c-1.44.38-2.12 1.227-2.4 2.08-.28-.853-.96-1.7-2.4-2.08"/><text x="13.003" y="-56.191" stroke="none" font-family="cmmi10" font-size="10" transform="translate(77.154 34.873)">r</text></g></svg>
+</figure>
 
-Tema di: MATEMATICA
+## Impostazione
 
-Il candidato risolva uno dei due problemi e risponda a $5$ quesiti del questionario.
+Disponiamo la semisfera con la faccia piana in alto e scegliamo come piano di riferimento quello che contiene tale faccia. Indichiamo con $z$ la distanza (con $0 \le z \le r$) di un generico piano orizzontale da questo piano superiore. Tutti i solidi in gioco — cilindro, semisfera, scodella e cono — hanno la stessa estensione verticale, da $z=0$ a $z=r$: per applicare il principio di Cavalieri basta confrontare le aree delle sezioni ottenute con uno stesso piano orizzontale.
 
-PROBLEMA $1$
+## Sezione della scodella
 
-Sia $f$ la funzione definita da
-$$ ( ) x n e n x x x x f $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
+Il piano posto a distanza $z$ taglia il cilindro secondo un cerchio di raggio $r$, di area
+$$ \pi r^2 . $$
 
-!
-$!2$
-$$ 1 2 $$
+Lo stesso piano taglia la semisfera secondo un cerchio il cui raggio $\rho$ soddisfa, per il teorema di Pitagora applicato al triangolo formato da raggio della sfera, quota $z$ e raggio della sezione,
+$$ \rho^2 = r^2 - z^2 , $$
+sicché la sezione della semisfera ha area $\pi\,(r^2 - z^2)$.
 
-dove $n$ è un intero positivo e
-$x \in$
+La sezione della scodella è la parte di cilindro esterna alla semisfera, cioè la **corona circolare** compresa tra i due cerchi precedenti. La sua area è
+$$ \pi r^2 - \pi\,(r^2 - z^2) = \pi z^2 . $$
 
-$1.$ Si verifichi che la derivata di ( )
-$$ x f $$
-è:
-$$ ( ) x e n n x x f $$
--
--
-!
+## Sezione del cono
 
-$2.$ Si dica se la funzione $f$ ammette massimi e minimi (assoluti e relativi) e si provi che, quando $n$ è
-dispari, ( )
-$$ x f $$
+Il cono ha vertice $V$ nel centro della faccia piana (quota $z=0$) e base di raggio $r$ sul piano inferiore (quota $z=r$); il suo asse è verticale. Poiché il raggio della sezione cresce linearmente con la quota, passando da $0$ in $V$ a $r$ alla base, alla quota $z$ la sezione è un cerchio di raggio $z$, di area
+$$ \pi z^2 . $$
 
-$\le$ per ogni $x$ reale.
-$3.$ Si studi la funzione $g$ ottenuta da $f$ quando
-$$ 2 = n $$
-e se ne disegni il grafico.
-$4.$ Si calcoli $\int$
-$$ 2 0 ) ( dx x g $$
-e se ne dia l’interpretazione geometrica.
+## Conclusione (principio di Cavalieri)
 
-PROBLEMA $2$
+Per ogni valore di $z$ con $0 \le z \le r$ la sezione della scodella e quella del cono hanno la **stessa area** $\pi z^2$. Due solidi con uguale altezza le cui sezioni piane, tagliate da uno stesso piano, sono equivalenti hanno lo stesso volume: per il principio di Cavalieri la scodella e il cono hanno dunque volume uguale.
 
-In un sistema di riferimento cartesiano ortogonale Oxy , si consideri la funzione $f : R \to R$
-definita da ( )
-$$ kx x x f + = 3 $$
-, con $k$ parametro reale.
-$1.$ Si dica come varia il grafico di $f$ al variare di $k (k$ positivo, negativo o nullo).
-$2.$ Sia ( )
-$$ 3 x x g = $$
-e $\gamma$ il suo grafico. Si dimostri che $\gamma$ e la retta d’equazione
-$$ x y $$
--
-hanno un solo
-punto $P$ in comune. Si determini l’ascissa di $P$ approssimandola a meno di $0,1$ con un metodo
-iterativo di calcolo.
-$3.$ Sia $D$ la regione finita del primo quadrante delimitata da $\gamma$ e dal grafico della funzione inversa di $g$ .
-Si calcoli l’area di $D.$
-$4.$ La regione $D$ è la base di un solido $W$ le cui sezioni con piani perpendicolari alla bisettrice del
-primo quadrante sono tutte rettangoli di altezza $12.$ Si determini la sezione di area massima. Si
-calcoli il volume di $W.$
+Il valore comune si calcola subito dal cono:
+$$ V_{\text{scodella}} = V_{\text{cono}} = \frac{1}{3}\,\pi r^2 \cdot r = \frac{1}{3}\,\pi r^3 . $$
 
-Sessione ordinaria 2009
-
-CORSO SPERIMENTALE
-
-Indirizzo: PIANO NAZIONALE INFORMATICA
-
-Tema di: MATEMATICA
-
-QUESTIONARIO
-$1.$ Siano:
-a <
-<
-$$ 0 e [ ] b b x , $$
--
-$\in$
-. Si provi che: $\int -$
--
-$$ b b a x 2 2 b a dx + = . $$
-$2.$ Sono dati gli insiemi A = { $,1 2, 3,$ }
-$4$ e $B =$ { ,a $b,$ }
-$c$ . Tra le possibili funzioni (o applicazioni) di A in
-$B, ce$ ne sono di suriettive? Di iniettive? Di biiettive?
-$3.$ Una moneta da $2$ euro (il suo diametro è $25,75 mm)$ viene lanciata su un pavimento ricoperto con
-mattonelle quadrate di lato $10 cm.$ Quale è la probabilità che la moneta vada a finire internamente $ad$
-una mattonella? (cioè non tagli i lati dei quadrati)
-$4.$ “Esiste solo un poliedro regolare le cui facce sono esagoni”. Si dica se questa affermazione è vera o
-falsa e si fornisca una esauriente spiegazione della risposta.
-$5.$ Si considerino le seguenti espressioni:
-$$ 0 0 ; 0 1 ; 0 0 ; 1 0 $$
-
-A quali di esse è possibile attribuire un valore numerico? Si motivi la risposta.
-$6.$ Con l’aiuto di una calcolatrice, si applichi il procedimento iterativo di Newton all’equazione senx $= 0,$
-con punto iniziale
-$0x = 3.$ Cosa si ottiene dopo due iterazioni?
-$7.$ Si dimostri l’identità
-$$ 1 1 + $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-$$ + k k n k n k n $$
-con $n$ e $k$ naturali e $n > k$
-$8.$ Alla festa di compleanno di Anna l’età media dei partecipanti è di $22$ anni. Se l’età media degli uomini è
-$26$ anni e quella delle donne è $19,$ qual è il rapporto tra il numero degli uomini e quello delle donne?
-$9.$ Nei “Discorsi e dimostrazioni matematiche intorno a due nuove scienze”, Galileo Galilei descrive la
-
-costruzione di un solido che chiama scodella considerando una
-semisfera di raggio $r$ e il cilindro $ad$ essa circoscritto. La
-scodella si ottiene togliendo la semisfera dal cilindro.
-Si dimostri, utilizzando il principio di Cavalieri, che la
-scodella ha volume pari al cono di vertice $V$ in figura.
-$10.$ “Se due punti $P$ e $Q$ del piano giacciono dalla stessa
-parte rispetto $ad$ una retta $AB$ e gli angoli
-$$ B A $$
-$P$ ˆ
-$$ e A B $$
-$Q$ ˆ hanno somma minore di $180^\circ$ , allora le semirette
-$AP$ e $BQ,$ prolungate adeguatamente al di là dei punti
-$P$ e $Q,$ si devono intersecare”. Questa proposizione è
-stata per secoli oggetto di studio da parte di schiere di
-matematici. Si dica perché e con quali risultati.
-
-___________________________
-Durata massima della prova: $6$ ore.
-È consentito l’uso della calcolatrice non programmabile.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+Come verifica, il volume della scodella è anche
+$$ V_{\text{cilindro}} - V_{\text{semisfera}} = \pi r^2 \cdot r - \frac{2}{3}\,\pi r^3 = \frac{1}{3}\,\pi r^3 , $$
+in accordo con il risultato ottenuto.
 
 *Fonte:* [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/analisi #cluster/calcolo_integrale_e_aree

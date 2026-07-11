@@ -1,89 +1,42 @@
----
-title: 2009 America Latina Suppletiva — Questionario — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_america_latina_suppletiva_2009_questionario_47_7
-of_item: ques_2009_america_latina_suppletiva_2009_questionario_47_7
-prova_id: prova_2009_america_latina_suppletiva_2009_questionario_47
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_7|2009 America Latina Suppletiva — Questionario — Quesito 7]] · **Prova:** [[Prove/2009_america_latina_suppletiva_2009_questionario_47|2009 America Latina Suppletiva — Questionario]]
 
-America Latina
-Suppletiva 2009 - Questionario
+Quante sono le diagonali di un poligono di $2009$ lati?
 
-Quesito $5$
+## Conteggio diretto
 
-Si calcoli:
-$$ lim $$
-$x\to 0 1 -cos x$
-xsin $x$
+Consideriamo un poligono con $n$ vertici. Da ciascun vertice possiamo tracciare un segmento verso ogni altro vertice, ad eccezione dei due vertici adiacenti (i segmenti verso di essi sono lati, non diagonali) e del vertice stesso. Da ogni vertice escono quindi
 
-$$ lim $$
-$x\to 0 1 -cosx$
-xsin $x$
-= lim
-$x\to 0 1 -cos x$
-$x^{2}$ sin $x$
-= lim
-$x\to 0 1 -cos x$
-$$ x^{2 $$
-∙
-$sinx= 1$
-$2 ∙1 = 1$
-Quesito $6$
+$$n-3$$
 
-Sia $f$ la funzione definita da f(x) $= ex-xe$ .
-Si precisi il dominio di $f$ e si stabilisca il segno delle sue derivate, prima e seconda, nel punto
-$x=$ e.
+diagonali. Poiché i vertici sono $n$, moltiplicando otterremmo $n(n-3)$ segmenti; in questo modo, però, ogni diagonale viene contata due volte, dato che la diagonale che unisce i vertici $A$ e $C$ coincide con quella che unisce $C$ e $A$. Dividendo per $2$ si ottiene il numero delle diagonali:
 
-Dominio di $f: x\ge 0.$
+$$\frac{n(n-3)}{2}.$$
 
-f(x) $= ex-xe= ex-e xe-1.$ Quindi:
+Per $n=2009$:
 
-f'(e) $= ee-e ee-1 = ee-ee= 0$
+$$\frac{2009\cdot(2009-3)}{2}=\frac{2009\cdot 2006}{2}=\frac{4\,030\,054}{2}=2\,015\,027.$$
 
-f''(x) $= D(ex-e xe-1. ) = ex-e(e-1)ee-2 = ex-(e-1)ee-1 =$ f''(x).
+Il poligono ha dunque $2\,015\,027$ diagonali.
 
-f''(e) $= ee-(e-1)ee-1 = ee-ee+ ee-1 = ee-1 > 0.$
+## Verifica con il calcolo combinatorio
 
-Quesito $7$
+Allo stesso risultato si arriva contando le coppie di vertici. Il numero di tutte le coppie di vertici di un poligono di $n$ lati è il numero delle combinazioni di $n$ oggetti presi a due a due:
 
-Quante sono le diagonali di un poligono di 2009 lati?
+$$\binom{n}{2}=\frac{n(n-1)}{2}.$$
 
-Consideriamo gli $n$ vertici del poligono. Da ogni vertice escono $n-3$ diagonali (posso congiungere
-tale vertice con tutti gli altri tranne che con i vertici adiacenti e con se stesso. Siccome i vertici
-sono $n$ e che, per esempio, la diagonale $AC$ coincide con la diagonale $CA,$ avremo:
+Ogni coppia individua un segmento, ma tra questi segmenti sono compresi anche gli $n$ lati del poligono, cioè le coppie di vertici consecutivi (ad esempio, per $n=4$, le coppie $1\text{-}2,\ 2\text{-}3,\ 3\text{-}4,\ 4\text{-}1$). Sottraendo gli $n$ lati:
 
-$n(n-3)$
-diagonali.
-Per $n=2009$ il numero delle diagonali è
-$2009(2009-3)$
-$$ 2 = 2015027. $$
+$$\frac{n(n-1)}{2}-n=\frac{n(n-1)-2n}{2}=\frac{n(n-3)}{2},$$
 
-Notiamo che il numero delle diagonali si può ottenere anche col calcolo combinatorio.
+che è la stessa formula ottenuta in precedenza. La figura seguente illustra le $9$ diagonali di un esagono ($n=6$), per cui $\dfrac{6\cdot 3}{2}=9$.
 
-Il numero DI TUTTE le coppie di vertici di un poligono di $n$ lati non sono altro che le combinazioni
-di $n$ oggetti (i vertici) a due a due, quindi: $Cn,2 = (n$
-$n(n-1)$
-. Per ottenere il numero delle
-diagonali a tale numero bisogna sottrarre il numero delle coppie formate da vertici consecutivi,
-che sono $n:$ per esempio per $n= 4$ abbiamo le seguenti coppie di vertici consecutivi:
-$1-2, 2-3, 3-4, 4-1.$
 
-Quindi:
-numero $diagonali= n(n-1)$
-$-n= n(n-1) -2n$
-$= n(n-3)$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="191.466" height="167.945" viewBox="-72 -72 143.6 125.959"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="#00f" d="m56.964-9.29-85.358-49.28M56.964-9.29H-56.847M56.964-9.29l-85.358 49.28M28.511-58.57-56.847-9.29M28.511-58.57l-56.905 98.56M28.511-58.57v98.56M-28.394-58.57v98.56M-28.394-58.57 28.51 39.99M-56.847-9.29 28.51 39.99"/><path fill="none" stroke-width=".8" d="M56.964-9.29 28.51-58.57h-56.905L-56.847-9.29l28.453 49.28H28.51Z"/><path stroke="none" d="M58.964-9.29a2 2 0 1 0-4 0 2 2 0 0 0 4 0M30.511-58.57a2 2 0 1 0-4 0 2 2 0 0 0 4 0M-26.394-58.57a2 2 0 1 0-4 0 2 2 0 0 0 4 0M-54.847-9.29a2 2 0 1 0-4 0 2 2 0 0 0 4 0M-26.394 39.99a2 2 0 1 0-4 0 2 2 0 0 0 4 0M30.511 39.99a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><text x=".058" y="-9.291" stroke="none" font-family="cmmi10" font-size="10" transform="translate(60.438 -3.533)">A</text><text x=".058" y="-9.291" stroke="none" font-family="cmmi10" font-size="10" transform="translate(24.41 -52.813)">B</text><text x=".058" y="-9.291" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-32.384 -52.813)">C</text><text x=".058" y="-9.291" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-68.995 -3.533)">D</text><text x=".058" y="-9.291" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-32.432 59.646)">E</text><text x=".058" y="-9.291" stroke="none" font-family="cmmi10" font-size="10" transform="translate(24.543 59.646)">F</text></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.50](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

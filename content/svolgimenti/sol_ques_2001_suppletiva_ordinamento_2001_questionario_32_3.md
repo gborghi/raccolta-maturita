@@ -1,90 +1,45 @@
----
-title: 2001 Suppletiva Ordinamento — Questionario — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2001_suppletiva_ordinamento_2001_questionario_32_3
-of_item: ques_2001_suppletiva_ordinamento_2001_questionario_32_3
-prova_id: prova_2001_suppletiva_ordinamento_2001_questionario_32
-anno: '2001'
-pdf: Prova_Maturita_2001.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2001
----
+
 
 **Quesito:** [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_3|2001 Suppletiva Ordinamento — Questionario — Quesito 3]] · **Prova:** [[Prove/2001_suppletiva_ordinamento_2001_questionario_32|2001 Suppletiva Ordinamento — Questionario]]
 
-Suppletiva Ordinamento 2001 -
-Questionario
+Si deve stabilire se esiste un numero naturale $n$ per il quale risulti
 
-Area(CDF) = Area(AEFJ) perché differenza fra le aree uguali di ADE e CDJ con FDJ.
+$$\sum_{k=0}^{n}\binom{n}{k}=1048576.$$
 
-Le quattro parti in cui il cubo è diviso dai due piani D’DE e C’CF sono dei prismi retti di
-altezza uguale allo spigolo del cubo e basi rispettivamente DFJ, AEFJ, CDF e BCFE.
+## Calcolo della somma dei coefficienti binomiali
 
-V(prisma con base DJF) = Area(DJF) $∙2s= 2$
-$5 s^{3}$
-V(prisma con base AEFJ) = Area(AEFJ) $∙2s= 8$
-$5 s^{3}$
+La somma di tutti i coefficienti binomiali di ordine $n$ si ottiene dallo sviluppo della potenza del binomio
 
-Essendo Area(CDF) = Area(AEFJ) il prisma di base CDF ha lo stesso volume del
-prisma di base AEFJ.
+$$(a+b)^{n}=\sum_{k=0}^{n}\binom{n}{k}\,a^{\,n-k}\,b^{\,k},$$
 
-V(pr. con base BCFE) = V(cubo) - V(pr. con base DJF) $-2V(pr.$ con base AEFJ) =
+ponendo $a=1$ e $b=1$. In tal modo ogni potenza vale $1$ e resta
 
-$= (2s)3 -2$
-$5 s^{3} -16$
-$5 s^{3} = 22$
-$5 s^{3}$
+$$\sum_{k=0}^{n}\binom{n}{k}=\binom{n}{0}+\binom{n}{1}+\cdots+\binom{n}{n}=(1+1)^{n}=2^{n}.$$
 
-Il rapporto del volume dei quattro prismi rispetto al volume del cubo è:
+## Risoluzione dell'equazione
 
-V(prisma con base DJF)
-V(cubo)
-$5 s^{3}$
-$8s^{3} = 1$
-$$ 20 $$
+L'equazione da soddisfare diventa quindi
 
-V(prisma con base AEFJ)
-V(cubo)
-$5 s^{2}$
-$8s^{3} = 1$
-$5 =$ V(prisma con base CDF)
-V(cubo)
+$$2^{n}=1048576.$$
 
-V(prisma con base BCFE)
-V(cubo)
-$$ = 22 $$
-$5 s^{3}$
-$8s^{3} = 11$
-$$ 20 $$
+Scomponendo il secondo membro in potenza di $2$:
 
-QUESITO $3$
+$$1048576=2^{20},$$
 
-Calcolare se esiste un numero naturale $n$ per il quale risulti:
+come si verifica poiché $2^{10}=1024$ e dunque $2^{20}=1024^{2}=1048576$.
 
-$\sum (n$
-$k) = 1048576$
-$k=0$
+Ne segue
 
-Risulta: $\sum$
-$(n$
-$k) = (n$
-$0) + (n$
-$1) + ⋯+ (n$
-$n) = 2n$
-$k=0$
-. Infatti $\sum$
-$(n$
-$k)$
-$k=0$
-può essere visto come lo
+$$2^{n}=2^{20}\ \Rightarrow\ n=20.$$
 
-sviluppo della potenza del binomio $(a+$ b)n con $a= 1$ e $b= 1:$
+Poiché la funzione $n\mapsto 2^{n}$ è strettamente crescente, la soluzione è unica.
+
+## Conclusione
+
+Il numero naturale richiesto esiste ed è
+
+$$n=20.$$
 
 *Fonte:* [📄 PDF p.34](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

@@ -1,736 +1,91 @@
----
-title: 2006 PNI Suppletiva — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2006_pni_2006_sessione_suppletiva_problema2_91_1
-of_item: prob_2006_pni_2006_sessione_suppletiva_problema2_91_1
-prova_id: prova_2006_pni_2006_sessione_suppletiva_problema2_91
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2006
----
+
 
 **Problema:** [[Problemi/prob_2006_pni_2006_sessione_suppletiva_problema2_91_1|2006 PNI Suppletiva — Problema 2 — Problema 1]] · **Prova:** [[Prove/2006_pni_2006_sessione_suppletiva_problema2_91|2006 PNI Suppletiva — Problema 2]]
 
-PNI 2006 SESSIONE SUPPLETIVA - PROBLEMA $2$
-
-Nel piano, riferito $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy), sono
-assegnate le curve di equazione:
-$y= x+ k$
-$x^{2}$ ,
-
+Nel piano cartesiano $Oxy$ sono assegnate le curve di equazione
+$$y = \frac{x+k}{x^2},$$
 dove $k$ è un parametro reale non nullo.
 
-a)
+## a)
 
-Dimostrare che non hanno punti in comune e ognuna di esse presenta uno ed un solo
-flesso.
+**Assenza di punti comuni.** Consideriamo due curve della famiglia, $y_1 = \dfrac{x+k_1}{x^2}$ e $y_2 = \dfrac{x+k_2}{x^2}$, con $k_1 \ne k_2$ (entrambi non nulli). Un punto $(x_0, y_0)$ appartiene a entrambe se
+$$\frac{x_0+k_1}{x_0^{2}} = \frac{x_0+k_2}{x_0^{2}}.$$
+Moltiplicando per $x_0^{2}$ si ottiene $x_0+k_1 = x_0+k_2$, cioè $k_1 = k_2$, contro l'ipotesi. Dunque **le curve non hanno punti in comune**.
 
-La curva può essere scritta nella forma: $x2y-x+ k= 0$ che rappresenta un fascio di
-curve algebriche del terzo ordine. Consideriamo due generatrici di tale fascio, ponendo,
-per esempio, $k=1$ e $k=-1:$
+**Unico flesso.** Posto $f(x) = \dfrac{x+k}{x^2}$, definita per ogni $x \ne 0$, calcoliamo le derivate:
+$$f'(x) = \frac{1\cdot x^{2} - (x+k)\cdot 2x}{x^{4}} = \frac{-x^{2} - 2kx}{x^{4}} = \frac{-x - 2k}{x^{3}},$$
+$$f''(x) = \frac{-1\cdot x^{3} - (-x-2k)\cdot 3x^{2}}{x^{6}} = \frac{2x^{3} + 6kx^{2}}{x^{6}} = \frac{2x + 6k}{x^{4}}.$$
+Poiché $x^{4} > 0$, il segno di $f''$ dipende dal numeratore: $f''(x) = 0 \Rightarrow x = -3k$, e $f''$ cambia segno attraversando tale valore. Essendo $k \ne 0$, ogni curva presenta **uno ed un solo flesso**, nel punto di ascissa $x = -3k$. La sua ordinata è
+$$f(-3k) = \frac{-3k + k}{(-3k)^{2}} = \frac{-2k}{9k^{2}} = -\frac{2}{9k}.$$
 
-$g^{1}: x2y-x+ 1 = 0 , g^{2}: x2y-x-1 = 0$ .
+## b)
 
-Queste due curve non hanno punti in comune, infatti il sistema:
+La retta $r\colon x + 27y - 9 = 0$ si scrive $y = -\dfrac{x}{27} + \dfrac{1}{3}$, quindi ha coefficiente angolare $m = -\dfrac{1}{27}$. La tangente inflessionale ha pendenza $f'(-3k)$:
+$$f'(-3k) = \frac{-(-3k) - 2k}{(-3k)^{3}} = \frac{3k - 2k}{-27k^{3}} = \frac{k}{-27k^{3}} = -\frac{1}{27k^{2}}.$$
+Imponendo $f'(-3k) = -\dfrac{1}{27}$:
+$$-\frac{1}{27k^{2}} = -\frac{1}{27} \Rightarrow k^{2} = 1 \Rightarrow k = \pm 1.$$
 
-${x2y-x+ 1 = 0$
-$x2y-x-1 = 0$ equivalente a ${x2y-x= -1$
-$x2y-x= 1$ è impossibile.
+Occorre verificare quale valore dà proprio la retta $r$.
 
-Le curve del fascio non hanno quindi punti in comune.
+- Per $k = 1$ il flesso è $\left(-3, -\dfrac{2}{9}\right)$ e la tangente inflessionale è $y + \dfrac{2}{9} = -\dfrac{1}{27}(x + 3)$, cioè $x + 27y - 3 = 0$: **non** coincide con $r$.
+- Per $k = -1$ il flesso è $\left(3, \dfrac{2}{9}\right)$ e la tangente è $y - \dfrac{2}{9} = -\dfrac{1}{27}(x - 3)$, cioè $x + 27y - 9 = 0$: **coincide** con $r$.
 
-Notiamo che avremmo potuto ragionare anche senza ricorrere al concetto di fascio,
-considerando due curve generiche (una con $k= k^{1}$ l’altra con $k= k^{2}$ ) saremmo
-arrivati al sistema ancora impossibile:
+La curva richiesta è dunque
+$$\gamma\colon\ y = \frac{x-1}{x^{2}}, \qquad k = -1.$$
 
-${x2y-x= -k^{1}$
-$x2y-x= -k^{2}$
-da cui $k^{1} = k^{2}$ mentre, essendo le due curve diverse, è $k^{1} \ne k^{2}$
+## c)
 
-Dimostriamo ora che ogni curva di equazione $y=$
-$x+k$
-$x^{2}$ , con $k\ne 0$ presenta uno ed
-un solo flesso.
+Studiamo $f(x) = \dfrac{x-1}{x^{2}}$.
 
-La funzione di equazione $y=$
-$x+k$
-$x^{2}$ è definita e derivabile per ogni $x\ne 0.$
-La calcoliamo la derivata prima e la derivata seconda:
+**Dominio:** $\mathbb{R} \setminus \{0\}$.
 
-$y' = x^{2} -2x(x+ k)$
-$$ x^{4 $$
-$= -x-2k$
-$$ x^{3 $$
+**Intersezioni con gli assi:** $f(x) = 0 \Rightarrow x = 1$; l'asse $y$ non è intersecato ($x = 0$ escluso).
 
-y'' $= -x^{3} + (x+ 2k)(3x^{2})$
-$$ x^{6 $$
-$= 6k+ 2x$
-$$ x^{4 $$
-$\ge 0$ se $x\ge -3k$
+**Segno:** $f(x) > 0$ per $x > 1$; $f(x) < 0$ per $x < 0$ oppure $0 < x < 1$.
 
-Con $k\ne 0$ la derivata seconda cambia segno a sinistra e a destra di $x= -3k$ , quindi
-in tale punto abbiamo un (unico) flesso.
+**Asintoti:** la retta $x = 0$ è asintoto verticale. Per $x \to \pm\infty$,
+$$f(x) = \frac{1}{x} - \frac{1}{x^{2}} \to 0,$$
+quindi $y = 0$ è asintoto orizzontale (a entrambi gli estremi).
 
-$b)$
+**Monotonia:** con $k = -1$,
+$$f'(x) = \frac{-x + 2}{x^{3}}, \qquad f'(x) = 0 \Rightarrow x = 2.$$
+Per $x < 0$ e per $0 < x < 2$ si ha $f'(x) > 0$ (funzione crescente); per $x > 2$ si ha $f'(x) < 0$ (funzione decrescente). In $x = 2$ c'è un massimo relativo (e assoluto sul ramo positivo) di ordinata $f(2) = \dfrac{1}{4}$.
 
-Tra le curve assegnate, indicare con $\gamma$ quella che ha come tangente inflessionale la retta
-$r$ di equazione $x+27y-9 =0.$
+**Concavità:** $f''(x) = \dfrac{2x - 6}{x^{4}} \ge 0$ per $x \ge 3$, quindi flesso in $x = 3$ con $f(3) = \dfrac{2}{9}$.
 
-Il coefficiente della tangente inflessionale è $m= -$
-$27$ , quindi deve essere:
+**Tangente in $A(1, 0)$:** $f'(1) = \dfrac{-1 + 2}{1} = 1$, dunque
+$$t\colon\ y - 0 = 1\cdot(x - 1) \Rightarrow y = x - 1.$$
 
-$f'(-3k) = -1$
-$27$ da cui $(-x-2k$
-$$ x^{3} ) $$
-$x=-3k$
-$-27k^{3} = -1$
-$27 \implies 1$
-$k^{2} = 1 \implies k= \pm 1$
+**Ulteriore intersezione di $t$ con $\gamma$:** da $\dfrac{x-1}{x^{2}} = x - 1$, per $x \ne 1$ si ha $\dfrac{1}{x^{2}} = 1 \Rightarrow x = \pm 1$. L'altra intersezione è $B = (-1, -2)$.
 
-Il flesso ha ordinata $f(-3k) =$ (
-$x+k$
-$x^{2}$ )
-$x=-3k = -$
-$2k$
-$9k^{2} = -$
-$9k$ ; poiché il flesso appartiene alla
-tangente inflessionale, sostituendo nell’equazione di tale retta le coordinate del flesso si
-ha:
 
-$-3k+ 27 (-2$
-$9k) -9 = 0 \implies -k-2$
-$k-3 = 0 \implies k^{2} + 3k+ 2 = 0$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="409.717" height="219.466" viewBox="-72 -72 307.288 164.599"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4" transform="matrix(1 0 0 -1 -13.373 -26.034)"><clipPath id="pgf28f379b8d1097c4bb025d8fddece92a3cp1"><path d="M-58.897-118.364v164.6h307.288v-164.6Zm307.288 164.6"/></clipPath><g clip-path="url(#pgf28f379b8d1097c4bb025d8fddece92a3cp1)"><path fill="none" d="M-58.897 0h306.888"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M246.11 2.4c.38-1.44 1.227-2.12 2.08-2.4-.853-.28-1.7-.96-2.08-2.4"/><text x="-13.373" y="-26.034" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 265.297 -28.187)">x</text><path fill="none" d="M0-118.364v162.35"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-2.4 42.106c1.44.38 2.12 1.227 2.4 2.08.28-.853.96-1.7 2.4-2.08"/><text x="-13.373" y="-26.034" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 10.742 23.83)">y</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-51.215-27.741.72-.531.72-.547.72-.57.72-.59.721-.612.72-.637.72-.662.72-.688.72-.717.72-.746.72-.778.72-.812.721-.845.72-.887.72-.926.72-.968.72-1.015.72-1.065.72-1.115.721-1.176.72-1.236.72-1.298.72-1.372.72-1.446.72-1.528.72-1.616.72-1.717.721-1.816.72-1.938.72-2.053.72-2.197.72-2.342.72-2.507.72-2.686.72-2.888.721-3.103.72-3.356.72-3.63.72-3.934.72-4.275.72-4.668.72-5.104.72-5.598.721-6.168.72-6.824.72-7.558.72-8.452.72-9.467.72-10.67.72-12.088.72-13.768.721-15.831.72-18.323.72-21.356.72-25.203.72-29.988.72-36.172.72-44.239.72-55.023M8.706-211.202l2.807 110.49 2.807 48.58 2.808 24.752 2.807 13.858 2.807 8.274 2.807 5.163 2.807 3.321 2.807 2.179 2.807 1.45 2.807.954 2.807.628 2.807.398 2.807.238 2.807.124 2.807.039 2.807-.017 2.807-.06 2.807-.092 2.807-.111 2.807-.127 2.807-.138 2.807-.144 2.808-.147 2.807-.15 2.807-.15 2.807-.15 2.807-.148 2.807-.145 2.807-.143 2.807-.14 2.807-.137 2.807-.133 2.807-.13 2.807-.125 2.807-.123 2.807-.12 2.807-.116 2.807-.113 2.807-.11 2.807-.105 2.807-.104 2.807-.1 2.808-.097 2.807-.094 2.807-.092 2.807-.09 2.807-.086 2.807-.085 2.807-.081 2.807-.08 2.807-.078 2.807-.075 2.807-.073 2.807-.072 2.807-.07 2.807-.067 2.807-.066 2.807-.064 2.807-.063 2.807-.06 2.807-.06 2.807-.058 2.808-.057 2.807-.055 2.807-.054 2.807-.052 2.807-.052 2.807-.05 2.807-.049 2.807-.048 2.807-.047 2.807-.046 2.807-.045 2.807-.043 2.807-.043 2.807-.042 2.807-.041 2.807-.04 2.807-.04"/><path fill="none" stroke="#ff8000" stroke-width=".8" d="M-51.215-110.966 56.336 44.386"/><path fill="none" stroke="red" stroke-dasharray="3.0,3.0" d="M-25.607 13.7 243.269-.686"/><path stroke="none" d="M27.407 0c0 1.436-.806 2.6-1.8 2.6s-1.8-1.164-1.8-2.6.806-2.6 1.8-2.6 1.8 1.164 1.8 2.6m-1.8 0"/><text x="-13.373" y="-26.034" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 42.513 -22.501)">A</text><path stroke="none" d="M-23.807-73.977c0 1.436-.806 2.6-1.8 2.6s-1.8-1.164-1.8-2.6.806-2.6 1.8-2.6 1.8 1.164 1.8 2.6m-1.8 0"/><text x="-13.373" y="-26.034" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 -23.854 -110.378)">B</text><path stroke="none" d="M78.172 8.211c0 1.077-.605 1.95-1.35 1.95s-1.35-.873-1.35-1.95.604-1.95 1.35-1.95c.745 0 1.35.873 1.35 1.95m-1.35 0"/><text x="-13.373" y="-26.034" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 93.728 -14.29)">F</text><path stroke="none" d="M52.565 9.247c0 1.077-.605 1.95-1.35 1.95s-1.35-.873-1.35-1.95.604-1.95 1.35-1.95c.745 0 1.35.873 1.35 1.95m-1.35 0"/><text x="-13.373" y="-26.034" stroke="none" font-family="cmr10" font-size="10" transform="matrix(1 0 0 -1 55.282 -13.254)">max</text><g fill="#00f" stroke="#00f"><text x="-13.373" y="-26.034" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 189.758 -47.559)">°</text></g><g fill="#ff8000" stroke="#ff8000"><text x="-13.373" y="-26.034" fill="#ff8000" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 64.063 7.879)">t</text></g><g fill="red" stroke="red"><text x="-13.373" y="-26.034" fill="red" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 223.52 -15.24)">r</text></g></g></g></svg>
+</figure>
 
-che è soddisfatta da $k= -1$ ma non da $k= +1$ : la curva richiesta è ha quindi
-equazione:
+## d)
 
-$\gamma : y= x-1$
-$$ x^{2 $$
+La circonferenza di diametro $AB$ ha centro nel punto medio di $A(1, 0)$ e $B(-1, -2)$, cioè $C = (0, -1)$, e raggio
+$$r = \frac{\overline{AB}}{2} = \frac{\sqrt{(1-(-1))^{2} + (0-(-2))^{2}}}{2} = \frac{\sqrt{4 + 4}}{2} = \frac{2\sqrt{2}}{2} = \sqrt{2}.$$
+La sua equazione è
+$$x^{2} + (y+1)^{2} = 2.$$
 
-$c)$
+## e)
 
-Disegnare l’andamento di $\gamma$ , dopo averne trovato le caratteristiche salienti e, in
-particolare, l’equazione della retta $t$ tangente alla curva $\gamma$ nel punto A di ascissa $1$ e le
-coordinate dell’ulteriore punto $B$ che $t$ ha in comune con $\gamma$ .
+La retta $r\colon x + 27y - 9 = 0$, cioè $y = \dfrac{9 - x}{27}$, incontra l'asse $x$ in $(9, 0)$ e la curva $\gamma$ nel flesso $\left(3, \dfrac{2}{9}\right)$. La regione finita delimitata da $\gamma$, da $r$ e dall'asse $x$ ha area
+$$A = \int_{1}^{3} (x-1)\,dx - \int_{1}^{3} \frac{x-1}{x^{2}}\,dx + \int_{3}^{9} \frac{9-x}{27}\,dx.$$
 
-$y=$ f(x) $= x-1$
-$$ x^{2 $$
+Calcoliamo i tre integrali.
 
-Dominio: $-\infty < x< 0 , 0 < x< +\infty$
+$$\int_{1}^{3} (x-1)\,dx = \left[\frac{x^{2}}{2} - x\right]_{1}^{3} = \left(\frac{9}{2} - 3\right) - \left(\frac{1}{2} - 1\right) = \frac{3}{2} + \frac{1}{2} = 2.$$
 
-Simmetrie notevoli:
+$$\int_{1}^{3} \frac{x-1}{x^{2}}\,dx = \int_{1}^{3} \left(\frac{1}{x} - \frac{1}{x^{2}}\right)dx = \left[\ln|x| + \frac{1}{x}\right]_{1}^{3} = \left(\ln 3 + \frac{1}{3}\right) - (0 + 1) = \ln 3 - \frac{2}{3}.$$
 
-Essendo $f(-x) =$
-$-x-1$
-$x^{2}$ diverso sia da f(x) sia da - f(x) la funzione non né pari né
+$$\int_{3}^{9} \frac{9-x}{27}\,dx = \frac{1}{27}\left[9x - \frac{x^{2}}{2}\right]_{3}^{9} = \frac{1}{27}\left[\left(81 - \frac{81}{2}\right) - \left(27 - \frac{9}{2}\right)\right] = \frac{1}{27}\cdot\frac{36}{2} = \frac{2}{3}.$$
 
-dispari.
-
-Intersezioni con gli assi cartesiani:
-
-Se $x= 0$ , la funzione non esiste
-Se $y= 0, x= 1$
-
-Segno della funzione:
-
-$y> 0$ se $x-1$
-$$ x^{2 $$
-$> 0$ da cui $x> 1$
-
-Limiti:
-
-$$ lim $$
-$x\to \mp \infty (x-1$
-$x^{2} ) =$ lim
-$x\to \mp \infty ( x$
-$x^{2}) =$ lim
-$x\to \mp \infty (1$
-$x) = 0\mp : y= 0$ asintoto orizzontale
-
-$$ lim $$
-$x\to 0 (x-1$
-$x^{2} ) =$ lim
-$x\to 0 (-1$
-$x^{2} ) = -\infty : x= 0$ asintoto verticale
-
-Non ci sono asintoti obliqui (essendoci quelli orizzontali sia al $-\infty$ che al $+\infty$ .
-
-Derivata prima:
-
-f'(x) $= 2 -x$
-$$ x^{3 $$
-$\ge 0$ se $0 < x\le 2$
-La funzione è crescente se $0 < x< 2$ e decrescente se $x< 0$ e $x> 2$
-
-In $x= 2$ abbiamo un massimo relativo (e assoluto) di ordinata: $1⁄4$ .
-
-Derivata seconda:
-
-f''(x) =
-$2(x -3)$
-$$ x^{4 $$
-$\ge 0$ se $x\ge 3$ .
-
-Pertanto il grafico volge la concavità verso l’alto se $x> 3$ e verso il basso se $x< 3$ .
-
-$x= 3$ è punto di flesso con ordinata: $y=$
-$9 : F= (3;$
-$9)$ . Grafico:
-
-Consideriamo il punto A di ascissa $1: A= (1; 0)$ . Cerchiamo l’equazione della
-tangente $t$ in A:
-
-$m= f'(1) = 1$ , quindi: $t: y-0 = 1(x-1)$ da cui $y= x-1.$
-
-Cerchiamo ora l’ulteriore intersezione di $t$ con la curva:
-
-$y= x-1$
-$y= x-1$
-$$ x^{2 $$
-$\implies x-1 = x-1$
-$$ x^{2 $$
-$\implies x^{3} -x^{2} -x+ 1 = 0 \implies x^{2} (x-1) -(x-1) = 0$
-
-$(x-1)(x^{2} -1) = 0 \implies (x-1)^{2}(x+ 1) = 0 \implies x= -1$ (oltre a $x= 1)$
-
-Quindi l’ulteriore intersezione della tangente in A con la curva è il punto $B= (-1; -2)$
-
-Il grafico della funzione è il seguente:
-
-$d)$
-
-Trovare l’equazione della circonferenza di diametro $AB.$
-
-La circonferenza di diametro $AB$ ha centro nel punto medio $M$ di $AB$ e raggio $AM.$
-$A= (1; 0), B= (-1; -2): M= (0; -1); R^{2} = AM2 = 1 + 1 = 2$
-La circonferenza di diametro $AB$ ha quindi equazione:
-
-$(x-0)^{2} + (y+ 1)^{2} = 2 \implies x^{2} + y^{2} + 2y-1 = 0$
-
-e)
-
-Calcolare l’area della regione finita di piano delimitata dalla curva $\gamma$ , dalla retta $r$ e
-dall’asse $x.$
-
-La regione compresa è indicata nella seguente figura:
-
-L’area richiesta è data da:
-
-$Area= A^{1} + A^{2}$
-
-$A^{1} = \int x-1$
-$$ x^{2} 3 1 $$
-$dx= \int (1$
-$x-1$
-$x^{2}) dx= [ln|x| + 1$
-x]
-$$ 1 3 3 1 $$
-$= ln3 + 1$
-$3 -1 = ln3 -2$
-
-$A^{2} = 6$ ∙yF
-$= 3 ∙2$
-$$ 9 = 2 3 $$
-$Area= A^{1} + A^{2} = ln3 -2$
-$$ 3 + 2 $$
-$3 = (ln3) u^{2} \cong 1.10 u^{2}$
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
-
-PNI 2006 - SESSIONE SUPPLETIVA
-
-QUESITO $1$
-
-Si considerino il rettangolo ABCD e la parabola avente l’asse di simmetria parallelo alla
-retta $AD,$ il vertice nel punto medio del lato $AB$ e passante per i punti $C$ e $D.$ In una
-rotazione di mezzo giro intorno all’asse della parabola il rettangolo genera un solido di
-volume V’ e la regione piana delimitata dalla parabola e dalla retta $CD$ genera un solido di
-volume V”. Determinare il rapporto $V’/V”.$
-
-Indicata con $x= ay2$ l’equazione della parabola, risulta:
-
-$V' = \pi ∙OB2 ∙BC= \pi ∙yc2 ∙xc= \pi$ ∙xc
-$a∙xc= \pi$
-$a∙xc2$
-
-V'' $= \pi \int y2dx=$
-$$ xc 0 $$
-$\pi \int y2dx=$
-$$ xc 0 $$
-$\pi \int$
-$adx= \pi$
-$a[x^{2}$
-$$ 2 ] 0 xc $$
-$= \pi$
-$2a[xc2] = \pi$
-$2a∙xc2$
-$$ xc 0 $$
-
-Quindi:
-
-$V'$
-V'' =
-$\pi$
-$a∙xc2$
-$\pi$
-$2a∙xc2 = 2$
-
-QUESITO $2$
-
-Il numero delle soluzioni dell’equazione $sen2x$ cos $x= 2$ nell’intervallo reale $[0, 2\pi$ ] è:
-[A] $0;$ [B] $2;$ [C] $3;$ [D] $5.$
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione della scelta
-operata.
-
-Primo modo: il prodotto di due numeri minori o uguali $ad 1 (sen(2x)$ e cos(x)) non può
-essere uguale a $2.$ Quindi la risposta esatta è la [A].
-
-Secondo modo:
-
-L’equazione può essere vista nella forma:
-
-$cosx=$
-$sen(2x) = 2cosec(2x)$
-
-Rappresentiamo nello stesso sistema di riferimento le due funzioni:
-
-$y=$ cos(x) e $y= 2 cosec(2x)$
-
-Notiamo che il grafico di $y= 2 cosec(2x)$ si ottiene facilmente dal grafico di
-$y=$ cosec(x) con una contrazione orizzontale di fattore $2$ ed una dilatazione verticale di
-fattore $2.$
-
-Analizzando i grafici si deduce che l’equazione non ammette alcuna soluzione.
-
-La risposta corretta è la [A].
-
-QUESITO $3$
-
-Il limite della funzione f(x) $= x$ sen
-$x$ , per $x\to 0$ :
-[A] non esiste; [B] è $+\infty$ ; [C] è $0;$ [D] è un valore finito diverso da $0$
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione della scelta
-operata.
-
-La funzione $y=$ sen
-$x$ non ammette limite per $x\to 0$ , ma è limitata tra $-1$ e $1.$ Il limite si
-può calcolare utilizzando il teorema del confronto; infatti:
-
-$-x\le x sen1$
-$x\le x$
-
-e siccome le funzioni estreme tendono a $0,$ anche la nostra funzione tende a $0:$
-la risposta esatta è quindi la [C].
-
-QUESITO $4$
-
-Dimostrare che la funzione f(x) $= xa,$ dove a è un qualsiasi numero reale non nullo, è
-derivabile in ogni punto del suo dominio.
-
-Il dominio della funzione è $x>0.$
-Risulta:
-f'(x) $= a∙xa-1$
-
-Questa funzione, se $x>0,$ è sempre definita, quindi è dimostrato che la funzione data è
-derivabile per ogni $x$ del suo dominio.
-
-QUESITO $5$
-
-Il seguente teorema esprime la condizione d’integrabilità di $Mengoli-Cauchy:$
-“Se una funzione reale di variabile reale, definita in un intervallo chiuso e limitato [a,b], è
-ivi continua, allora ivi è anche integrabile”.
-Enunciare la proposizione inversa e spiegare in maniera esauriente perché tale
-proposizione non è un teorema.
-
-La proposizione inversa è la seguente:
-
-“Se una funzione reale di variabile reale, definita in un intervallo chiuso e limitato [a,b], è
-ivi integrabile, allora ivi è anche continua”.
-
-Tale proposizione non è un teorema. Forniamo a tal proposito un controesempio, cioè una
-funzione integrabile secondo $Mengoli-Cauchy,$ ma non continua.
-
-f(x) $= {|x|$ se $-1 \le x\le 1$ e $x\ne 0$
-$1$ se $x= 0$
-
-La funzione, definita in un intervallo chiuso e limitato non è continua in $x=0,$ eppure è
-integrabile.
-Rappresentiamo graficamente la funzione:
-
-Risulta:
-
-$\int f(x)dx= \int (-x)dx+ \int (x)dx=$ lim
-$b\to 0-\int (-x)dx+$ lim
-$a\to 0+ \int (+x)dx=$
-$$ 1 a b $$
-$-1$
-$$ 1 0 0 $$
-$-1$
-$-1$
-
-= lim
-$b\to 0-[-1$
-$2 x^{2}]$
-$-1$
-+ lim
-$a\to 0+ [1$
-$2 x^{2}]$
-$$ a 1 $$
-= lim
-$b\to 0-[-1$
-$2 b^{2} + 1$
-$2] +$ lim
-$a\to 0+ [1$
-$2 -1$
-$2 a^{2}] = 1$
-$$ 2 + 1 2 = 1 $$
-
-Quindi la funzione è integrabile senza essere continua.
-
-QUESITO $6$
-
-Dire se è corretto o no, affermare che si ha:
-
-$$ \int 1 $$
-$x dx=$ ln(x) $+ c$
-
-dove $c$ è una costante arbitraria e fornire una esauriente spiegazione della risposta.
-
-L’affermazione è falsa.
-
-Infatti risulta: $\int$
-$x dx= ln|x| + c$ , poiché la funzione f(x) =
-$x$ è definita per ogni $x\ne 0$ .
-
-QUESITO $7$
-
-Calcolare l’ampiezza dell’angolo formato da due facce consecutive di un ottaedro
-regolare, espressa in gradi sessagesimali ed approssimata al “primo”.
-
-L’angolo richiesto è AMB, che è il doppio dell’angolo HMB. Detto $l$ lo spigolo del tetraedro
-risulta:
-
-$HM= l$
-$2$ e $BM= l$
-$$ 2 \sqrt{3 $$
-
-Quindi, posto $\alpha =$ BMH
-
-$cos(\alpha ) = HM$
-$BM=$
-$$ l 2 l 2 \sqrt{3} = \sqrt{3 $$
-$3 \implies \alpha = arccos(\sqrt{3}$
-$3 ) \cong 54.736^\circ$ quindi: $2\alpha \cong 109.472^\circ$
-
-$109.472^\circ = 109^\circ + (0.472 ∙60)' = 109^\circ + (28.32)' = 109^\circ 28'$
-
-L’angolo diedro dell’ottaedro regolare ha quindi ampiezza uguale a $2 arccos(\sqrt{3}$
-$3$ ) , che è
-pari a circa $109^\circ 28'.$
-
-QUESITO $8$
-
-Dimostrare che ogni similitudine trasforma una parabola in una parabola.
-
-Una similitudine può essere vista come la composizione di una isometria con una
-omotetia; l’isometria trasforma ovviamente una parabola in una parabola congruente. E’
-quindi sufficiente dimostrare che un’omotetia trasforma una parabola in una parabola.
-
-Le equazioni generali dell’omotetia possono essere scritte nella forma:
-
-${X= kx+ p$
-$Y= ky+ q$ con $k$ numero reale non nullo e a e $b$ numeri reali qualsiasi
-
-L’omotetia inversa ha equazioni:
-
-$x= 1$
-$kX-p$
-$y= 1$
-$kY-q$
-
-Possiamo limitarci a considerare una parabola del tipo $y= ax2,$ senza ledere la generalità
-della questione, poiché a questa forma può essere ricondotta mediante isometrie una
-qualsiasi altra parabola.
-
-Cerchiamo quindi la trasformata di $y= ax2$ :
-
-$kY-q$
-$k= a(1$
-$kX-p$
-$k)$
-$\implies 1$
-$kY= q$
-$k+$ a
-$k^{2} X^{2} -2ap$
-$k^{2} X+ ap2$
-$$ k^{2 $$
-
-Ed infine, moltiplicando tutto per $k$ e ordinando:
-
-$Y=$ a
-$kX2 -2ap$
-$kX+ q+ ap2$
-
-che rappresenta ancora una parabola.
-
-QUESITO $9$
-
-Un’urna contiene $150$ palline, che possono essere di vetro o di plastica, bianche o nere.
-Per la precisione: $62$ palline sono bianche, $38$ sono di vetro nero e $40$ sono di plastica
-bianca.
-Calcolare la probabilità che, estratta a caso una pallina, NON sia di plastica nera.
-
-$150$ palline
-$62$ bianche: quindi $150-62=88$ nere
-$38$ nere sono di vetro, quindi $88-38=50$ sono di vetro bianco
-Siccome le bianche sono $62$ e le bianche di plastica $40,$ avremo $62-40=22$ di vetro bianco
-
-In conclusione l’urna ha questa composizione:
-
-bianche di $plastica=40$ ; bianche di $vetro=22$ ; nere di $plastica=50$ ; nere di $vetro=38$
-
-Siccome le palline NON di plastica nera $150-nere$ di $plastica(50)=100,$ la probabilità che la
-pallina estratta NON sia di plastica nera è:
-
-p(NON plastica nera) = paline NON di plastica nera
-totale paline
-$$ = 100 150 = 2 $$
-$3 \cong 67%$
-
-QUESITO $10$
-
-In ciascuna di tre buste uguali vi sono due cartoncini: in una busta essi sono bianchi, in
-un’altra sono neri, nella terza sono uno bianco e l’altro nero. Si estrae a caso una busta e,
-da essa, un cartoncino. Qual è la probabilità che il cartoncino rimasto in questa busta sia
-dello stesso colore di quello estratto?
-
-Dopo aver estratto il cartoncino, i casi favorevoli sono $2$ (la busta $1$ e la busta $2)$ su $3$ casi
-possibili; quindi la probabilità è:
-
-$p= 2$
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
-
-$SCI-PNI$ SessStraord.doc
-Corso sperimentale
-
-Sessione straordinaria 2006 - Tema di Matematica
-
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
-
-PROBLEMA $1.$
-È dato il triangolo ABC in cui:
-$$ 2 25 $$
-$AB =$
-$$ , 5 5 $$
-$AC =$
-Aˆ
-$$ tg = . $$
-Determinare l’altezza del triangolo relativa al lato $AB$ e tracciare la circonferenza $k$ avente centro in
-$C$ e tangente al lato $AB.$
-Dopo aver riferito il piano della figura $ad$ un conveniente sistema di assi cartesiani ortogonali, in
-modo, però, che uno degli assi di riferimento sia parallelo alla retta $AB:$
-a) scrivere l’equazione della circonferenza $k;$
-$b)$ trovare le coordinate dei vertici del triangolo e del punto $D$ in cui la circonferenza $k$
-interseca il segmento $BC;$
-$c)$ determinare l’equazione della parabola $p,$ avente l’asse perpendicolare alla retta $AB,$
-tangente in $D$ alla circonferenza $k$ e passante per A;
-$d)$ calcolare le aree delle due regioni in cui la parabola $p$ divide il triangolo ABC;
-e) trovare, infine, le coordinate dei punti comuni alla circonferenza $k$ ed alla parabola $p.$
-
-PROBLEMA $2.$
-Si considerino i polinomi di $5^\circ$ grado, nella variabile $x,$ con coefficienti reali, i cui grafici,
-rappresentati in un piano riferito $ad$ un sistema di assi cartesiani ortogonali (Oxy), sono simmetrici
-rispetto all’origine O ed hanno un massimo relativo nel punto
-
-
-
-
-
--
-$$ 15 64 ,2 . $$
-a) Trovare l’equazione $y=f(x)$ dei grafici suddetti.
-$b)$ Dimostrare che tali grafici hanno tre punti in comune, in due dei quali hanno anche la stessa
-tangente.
-$c)$ Indicare con  il grafico avente come tangente inflessionale l’asse $x$ e disegnarne
-l’andamento.
-$d)$ Indicato con P(x) il polinomio rappresentato da  e chiamati $u$ e $v (u<v)$ le ascisse dei punti,
-distinti da O, in cui  interseca l’asse $x,$ calcolare:
-
-$$ v u dx ) x ( P . $$
-e) Dopo aver controllato che $\gamma$ ha tre flessi allineati, determinare le ascisse dei punti in cui la
-retta dei flessi interseca .
-
-QUESTIONARIO
-
-$1.$ È assegnato un pentagono regolare di lato lungo $L.$ Recidendo opportunamente, in esso, cinque
-triangoli congruenti, si ottiene un decagono regolare: calcolarne la lunghezza del lato. (Si
-lascino indicate le funzioni goniometriche degli angoli coinvolti).
-
-$SCI-PNI$ SessStraord.doc
-$2.$ Una piramide quadrangolare regolare è tale che la sua altezza è il doppio dello spigolo di base.
-Calcolare il rapporto fra il volume del cubo inscritto nella piramide e il volume della piramide
-stessa.
-$3.$ Se le funzioni f(x) e g(x), entrambe tendenti a $0,$ quando $x\to$ a, non soddisfano alle condizioni
-previste dal teorema di $De$ L’Hôpital, non è possibile calcolare il limite di g(x)
-f(x) quando $x\to$ a. È
-vero o è falso? Fornire un’esauriente spiegazione della risposta.
-$4.$ Il limite della funzione
-$$ x ln x ) x ( f $$
--
-, per $x\to +\infty$ :
-[A] è $0;$ [B] è un valore finito diverso da $0;$ [C] è $+\infty$ ; [D] è $-\infty$ .
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione della scelta
-operata.
-$5.$ Il limite della funzione
-$$ x 1 e ) x ( f $$
-$x -$
-, per $x\to 0,$ è uguale $ad 1.$ Si chiede di calcolarlo senza
-ricorrere alla regola di $De$ L’Hôpital.
-$6.$ Si ricorda la seguente definizione: «Considerata una funzione reale di variabile reale f(x),
-definita in un intervallo I, ogni funzione F(x), derivabile in I e tale che $F’(x)=f(x),$ si dice
-primitiva di f(x) in I». Stabilire se la funzione:
-
-
-$\le$
-<
-$\le$
-$\le$
-$$ = 3 x 2 se 2 2 x 1 se 1 ) x ( f $$
-
-ammette primitiva nell’intervallo $[1,3].$
-$7.$ Giustificare, con considerazioni analitiche o mediante un’interpretazione grafica, che la
-seguente equazione:
-$$ 0 1 x x 3 5 = + + $$
-
-ammette una ed una sola soluzione reale. Trovare, quindi, l’intervallo [
-$$ ]1 z $$
-$,z$
-al quale
-appartiene tale soluzione, essendo $z$ un numero intero.
-$8.$ Descrivere un algoritmo idoneo a calcolare un valore approssimato, a meno di
-$10-,$ della
-soluzione reale della precedente equazione.
-$9.$ Si considerino le seguenti equazioni:
-x’ = a $x -$ (a $- 1) y + 1,$ y’ $= 2$ a $x +$ (a $- 1) y +2,$
-dove a è un parametro reale.
-Determinare i valori di a per cui le equazioni rappresentano: $1)$ un’affinità, $2)$ un’affinità
-equivalente (si ricorda che un’affinità si dice equivalente se conserva le aree).
-$10.$ Una classe è formata da $28$ alunni, di cui $16$ femmine e $12$ maschi. Fra le femmine ci sono due
-“Maria” e fra i maschi un solo “Antonio”. Si deve formare una delegazione formata da due
-femmine e due maschi. Quanto vale la probabilità che la delegazione comprenda “Antonio” e
-almeno una “Maria”?
-
-___________________________
-
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è ammesso lasciare l’aula degli esami prima che siano trascorse tre ore dalla dettatura del tema.
-
-Riguarda:
-- indirizzo Scientifico, Corso sperimentale PNI, materia Matematica
-- indirizzo Opzione scientifica tecnologica, Internazionale europeo, materia Matematica Informatica
-
-$SCI-PNI$ SessSuppletiv.doc
-Indirizzo: ________________
-
-CORSO SPERIMENTALE
-Sessione suppletiva 2006
-
-Tema di ______________________
-
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
-
-PROBLEMA $1.$
-Nel piano, riferito $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy), sono assegnate le
-due parabole p’ e p” di equazioni rispettivamente:
-$y = x^{2}, x = y^{2} - 2 y.$
-a) Fornirne la rappresentazione grafica, dopo aver determinato, fra l’altro, i loro punti comuni.
-$b)$ Indicato con V’ il vertice della parabola p’, con V” il vertice della parabola p” e con $P$ il punto
-in cui p” interseca il semiasse positivo delle $y,$ calcolare l’area della regione finita di piano
-delimitata dall’arco V’V” della parabola p’, dall’arco V”P della parabola p” e dal segmento
-V’P.
-$c)$ Calcolare l’ampiezza dell’angolo secondo cui le due parabole si secano in O e con l’uso di
-una calcolatrice esprimerla in gradi sessagesimali, primi e secondi.
-$d)$ Le due parabole p’ e p” sono congruenti: farlo vedere, dimostrando che esiste almeno
-un’isometria che trasforma una di esse nell’altra e trovando le equazioni di tale isometria.
-e) Stabilire se l’isometria trovata ammette elementi uniti.
-
-PROBLEMA $2.$
-Nel piano, riferito $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy), sono assegnate le
-curve di equazione:
-$$ 2 x k x y + = , $$
-dove $k$ è un parametro reale non nullo.
-a) Dimostrare che non hanno punti in comune e ognuna di esse presenta uno ed un solo flesso.
-$b)$ Tra le curve assegnate, indicare con  quella che ha come tangente inflessionale la retta $r$ di
-equazione $x+27y-9=0.$
-$c)$ Disegnare l’andamento di , dopo averne trovato le caratteristiche salienti e, in particolare,
-l’equazione della retta $t$ tangente alla curva  nel punto A di ascissa $1$ e le coordinate
-dell’ulteriore punto $B$ che $t$ ha in comune con .
-$d)$ Trovare l’equazione della circonferenza di diametro $AB.$
-e) Calcolare l’area della regione finita di piano delimitata dalla curva , dalla retta $r$ e dall’asse $x.$
-
-$SCI-PNI$ SessSuppletiv.doc
-QUESTIONARIO
-
-$1.$ Si considerino il rettangolo ABCD e la parabola avente l’asse di simmetria parallelo alla retta
-$AD,$ il vertice nel punto medio del lato $AB$ e passante per i punti $C$ e $D.$ In una rotazione di
-mezzo giro intorno all’asse della parabola il rettangolo genera un solido di volume V’ e la
-regione piana delimitata dalla parabola e dalla retta $CD$ genera un solido di volume V”.
-Determinare il rapporto $V’/V”.$
-$2.$ Il numero delle soluzioni dell’equazione $sen2x$ cos $x =2$ nell’intervallo reale $[0, 2]$ è:
-[A] $0;$ [B] $2;$ [C] $3;$ [D] $5.$
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione della scelta
-operata.
-$3.$ Il limite della funzione
-$$ x 1 sen x ) x ( f = $$
-, per $x\to 0:$
-[A] non esiste; [B] è $+\infty$ ; [C] è $0;$ [D] è un valore finito diverso da $0.$
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione della scelta
-operata.
-$4.$ Dimostrare che la funzione $f(x)=xa,$ dove a è un qualsiasi numero reale non nullo, è derivabile
-in ogni punto del suo dominio.
-$5.$ Il seguente teorema esprime la condizione d’integrabilità di $Mengoli-Cauchy:$
-Se una funzione reale di variabile reale, definita in un intervallo chiuso e limitato [a,b], è ivi
-continua, allora ivi è anche integrabile.
-Enunciare la proposizione inversa e spiegare in maniera esauriente perché tale proposizione
-non è un teorema.
-$6.$ Dire se è corretto o no, affermare che si ha:
-
-$$ + = c ) x $$
-$ln($
-$$ dx x 1 $$
-
-dove $c$ è una costante arbitraria e fornire una esauriente spiegazione della risposta.
-$7.$ Calcolare l’ampiezza dell’angolo formato da due facce consecutive di un ottaedro regolare,
-espressa in gradi sessagesimali ed approssimata al “primo”.
-$8.$ Dimostrare che ogni similitudine trasforma una parabola in una parabola.
-$9.$ Un’urna contiene $150$ palline, che possono essere di vetro o di plastica, bianche o nere. Per la
-precisione: $62$ palline sono bianche, $38$ sono di vetro nero e $40$ sono di plastica bianca.
-Calcolare la probabilità che, estratta a caso una pallina, NON sia di plastica nera.
-$10.$ In ciascuna di tre buste uguali vi sono due cartoncini: in una busta essi sono bianchi, in un’altra
-sono neri, nella terza sono uno bianco e l’altro nero. Si estrae a caso una busta e, da essa, un
-cartoncino. Qual è la probabilità che il cartoncino rimasto in questa busta sia dello stesso colore
-di quello estratto?
-
-___________________________
-
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è ammesso lasciare l’aula degli esami prima che siano trascorse tre ore dalla dettatura del tema.
-
-$SCI-PNI$ SessSuppletiv.doc
-
-Riguarda:
-- indirizzo Scientifico, Corso sperimentale PNI, materia Matematica
-- indirizzo Opzione scientifica tecnologica, Internazionale europeo, materia Matematica Informatica
+In definitiva
+$$A = 2 - \left(\ln 3 - \frac{2}{3}\right) + \frac{2}{3} = \frac{10}{3} - \ln 3 \ \text{u}^2.$$
 
 *Fonte:* [📄 PDF p.91](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

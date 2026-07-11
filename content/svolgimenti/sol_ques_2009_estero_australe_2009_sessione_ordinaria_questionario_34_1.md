@@ -1,73 +1,19 @@
----
-title: 2009 Estero Australe Ordinaria — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_estero_australe_2009_sessione_ordinaria_questionario_34_1
-of_item: ques_2009_estero_australe_2009_sessione_ordinaria_questionario_34_1
-prova_id: prova_2009_estero_australe_2009_sessione_ordinaria_questionario_34
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_estero_australe_2009_sessione_ordinaria_questionario_34_1|2009 Estero Australe Ordinaria — Questionario — Quesito 1]] · **Prova:** [[Prove/2009_estero_australe_2009_sessione_ordinaria_questionario_34|2009 Estero Australe Ordinaria — Questionario]]
 
-Estero (Australe) 2009
+Si risolva l'equazione
+$$\sin^4 x + \cos^4 x + 2\sin^2 x\,\cos^2 x = 3^x.$$
 
-Scuole italiane all’estero (Calendario australe) 2009 - Quesiti
+Il primo membro è lo sviluppo del quadrato di un binomio. Infatti
+$$\sin^4 x + \cos^4 x + 2\sin^2 x\,\cos^2 x = \left(\sin^2 x + \cos^2 x\right)^2.$$
 
-QUESITO $1$
+Per l'identità fondamentale della goniometria $\sin^2 x + \cos^2 x = 1$, quindi il primo membro vale $1$ per ogni valore di $x$. L'equazione si riduce allora a
+$$3^x = 1.$$
 
-Si risolva la seguente l’equazione: $sen4x+ cos4 x+ 2sen2xcos2x= 3x$ .
-
-L’equazione è equivalente a:
-
-$(sen2x+ cos2 x)2 = 1 = 3x,$ da cui $x= 0.$
-
-QUESITO $2$
-
-Dopo aver illustrato il significato di funzione inversa si dica, motivando la risposta, se è
-vero che: arcsen(sen(
-$2\pi$
-$2\pi$
-
-Data una funzione $f: A\to B,$ essa si dice invertibile se esiste una corrispondenza
-biunivoca fra dominio e codominio; la funzione $f-1: B\to$ A, che ha come dominio il
-codominio di e $f$ e come codominio il dominio di $f,$ si dice funzione inversa di $f.$
-Una funzione strettamente monotona in un intervallo è invertibile (non è detto il
-viceversa). Posto $y=$ f(x) = senx, essa è invertibile nell’intervallo [
-$\pi$
-$$ 2 ; 3 $$
-$2 \pi$ ], dove è
-strettamente decrescente e la sua funzione inversa è $x= f-1(y) =$ arcseny. In base alla
-definizione di funzione inversa si ha:
-
-$x= f-1(y) = f-1(f(x))$
-Nel nostro caso è $x=$
-$2\pi$
-$3$ , quindi:
-
-$2\pi$
-$3 = arcsen(sen(2\pi$
-N.B.
-
-Se si considera come intervallo di invertibilità del seno l’intervallo “classico” [-
-$\pi$
-$\pi$
-l’uguaglianza non è vera, poiché
-$2\pi$
-$3$ non appartiene a tale intervallo; in tal caso si
-avrebbe:
-
-$arcsen(sen(2\pi$
-$3 )) = arcsen(\sqrt{3}$
-$2 ) = \pi$
+Poiché la funzione esponenziale $y = 3^x$ assume il valore $1$ soltanto per esponente nullo, si ottiene l'unica soluzione
+$$x = 0.$$
 
 *Fonte:* [📄 PDF p.34](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

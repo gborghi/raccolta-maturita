@@ -1,78 +1,45 @@
----
-title: 2007 LS Ordinamento Straordinaria — Questionario — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_2
-of_item: >-
-  ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_2
-prova_id: prova_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129_2|2007 LS Ordinamento Straordinaria — Questionario — Quesito 2]] · **Prova:** [[Prove/2007_liceo_scientifico_ordinamento_2007_sessione_straor_questionario_129|2007 LS Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2007
+Si calcoli il limite della funzione
 
-ORDINAMENTO 2007 - SESSIONE STRAORDINARIA - QUESITI
+$$f(x)=\frac{\sqrt{x}+\sqrt{x+3}-3}{\sqrt{x}-\sqrt{x+3}+1}$$
 
-QUESITO $1$
+quando $x$ tende a $1$.
 
-Si determini il campo di esistenza della funzione $y= (x^{2} -3x)$
-$|x-4|$ .
+Sostituendo $x=1$ si ottiene, sia al numeratore sia al denominatore,
 
-Ricordiamo che il campo di esistenza di una funzione del tipo $y=$ f(x)g(x) è dato da:
+$$\sqrt{1}+\sqrt{4}-3=1+2-3=0,\qquad \sqrt{1}-\sqrt{4}+1=1-2+1=0,$$
 
-f(x) $> 0 \cup$ {f(x) $= 0$
-g(x) $> 0$
+quindi il limite si presenta nella forma indeterminata $\frac{0}{0}$.
 
-Nel nostro caso:
+Per rimuovere l'indeterminazione razionalizziamo, moltiplicando numeratore e denominatore per i due fattori $\left(\sqrt{x}-\sqrt{x+3}+3\right)$ e $\left(\sqrt{x}+\sqrt{x+3}-1\right)$:
 
-${x^{2} -3x> 0$
-$x\ne 4$
-$\cup$ {
-$x^{2} -3x= 0$
-$|x-4| > 0$
-$\Rightarrow {x< 0$ vel $x> 3$
-$x\ne 4$
-$\cup$ {
-$x= 0, x= 3$
-$|x-4| > 0$
-accettabile
+$$f(x)=\frac{\left(\sqrt{x}+\sqrt{x+3}-3\right)\left(\sqrt{x}-\sqrt{x+3}+3\right)\left(\sqrt{x}+\sqrt{x+3}-1\right)}{\left(\sqrt{x}-\sqrt{x+3}+1\right)\left(\sqrt{x}+\sqrt{x+3}-1\right)\left(\sqrt{x}-\sqrt{x+3}+3\right)}.$$
 
-Quindi il campo di esistenza è dato da: $(x\le 0$ vel $x\ge 3)$ con $x\ne 4$ .
+Nel numeratore i primi due fattori danno una differenza di quadrati; posto $\sqrt{x+3}-3$ come termine da isolare,
 
-QUESITO $2$
+$$\left(\sqrt{x}+\sqrt{x+3}-3\right)\left(\sqrt{x}-\sqrt{x+3}+3\right)=x-\left(\sqrt{x+3}-3\right)^{2}=x-\left(x+3-6\sqrt{x+3}+9\right)=-12+6\sqrt{x+3}=6\left(\sqrt{x+3}-2\right).$$
 
-Si calcoli il limite della funzione $\sqrt{x}+\sqrt{x}+3-3$
-$\sqrt{x}-\sqrt{x}+3+1$ quando $x$ tende a $1.$
+Analogamente, nel denominatore i primi due fattori danno
 
-Il limite si presenta nella forma indeterminata $0/0;$ moltiplichiamo numeratore e
-denominatore per $\sqrt{x}-\sqrt{x}+ 3 + 3$ e per $\sqrt{x}+ \sqrt{x}+ 3 -1:$
+$$\left(\sqrt{x}-\sqrt{x+3}+1\right)\left(\sqrt{x}+\sqrt{x+3}-1\right)=x-\left(\sqrt{x+3}-1\right)^{2}=x-\left(x+3-2\sqrt{x+3}+1\right)=-4+2\sqrt{x+3}=2\left(\sqrt{x+3}-2\right).$$
 
-$(\sqrt{x}+ \sqrt{x}+ 3 -3)(\sqrt{x}-\sqrt{x}+ 3 + 3)(\sqrt{x}+ \sqrt{x}+ 3 -1)$
-$(\sqrt{x}-\sqrt{x}+ 3 + 1)(\sqrt{x}-\sqrt{x}+ 3 + 3)(\sqrt{x}+ \sqrt{x}+ 3 -1)$
+Sostituendo, la funzione diventa
 
-$(x-(\sqrt{x}+ 3 -3)$
-$2) (\sqrt{x}+ \sqrt{x}+ 3 -1)$
-$(x-(\sqrt{x}+ 3 -1)$
-$2) (\sqrt{x}-\sqrt{x}+ 3 + 3)$
-$= (-12 + 6\sqrt{x}+ 3)(\sqrt{x}+ \sqrt{x}+ 3 -1)$
-$(-4 + 2\sqrt{x}+ 3)(\sqrt{x}+ \sqrt{x}+ 3 -1)$
+$$f(x)=\frac{6\left(\sqrt{x+3}-2\right)\left(\sqrt{x}+\sqrt{x+3}-1\right)}{2\left(\sqrt{x+3}-2\right)\left(\sqrt{x}-\sqrt{x+3}+3\right)}.$$
 
-$= 3(-4 + 2\sqrt{x}+ 3)(\sqrt{x}+ \sqrt{x}+ 3 -1)$
-$(-4 + 2\sqrt{x}+ 3)(\sqrt{x}+ \sqrt{x}+ 3 -1)$
-$= 3(\sqrt{x}+ \sqrt{x}+ 3 -1)$
-$(\sqrt{x}+ \sqrt{x}+ 3 -1)$
-$\to 3$ se $x\to 1$
+Per $x\neq 1$ il fattore comune $\sqrt{x+3}-2$ è diverso da zero e si può semplificare:
+
+$$f(x)=\frac{3\left(\sqrt{x}+\sqrt{x+3}-1\right)}{\sqrt{x}-\sqrt{x+3}+3}.$$
+
+Quest'ultima espressione è continua in $x=1$; passando al limite,
+
+$$\lim_{x\to 1}f(x)=\frac{3\left(\sqrt{1}+\sqrt{4}-1\right)}{\sqrt{1}-\sqrt{4}+3}=\frac{3\,(1+2-1)}{1-2+3}=\frac{3\cdot 2}{2}=3.$$
+
+Il limite richiesto vale quindi $3$.
 
 *Fonte:* [📄 PDF p.129](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

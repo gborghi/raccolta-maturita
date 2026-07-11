@@ -1,99 +1,39 @@
----
-title: 2001 Suppletiva Ordinamento — Questionario — Quesito 9 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2001_suppletiva_ordinamento_2001_questionario_32_9
-of_item: ques_2001_suppletiva_ordinamento_2001_questionario_32_9
-prova_id: prova_2001_suppletiva_ordinamento_2001_questionario_32
-anno: '2001'
-pdf: Prova_Maturita_2001.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2001
----
+
 
 **Quesito:** [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_9|2001 Suppletiva Ordinamento — Questionario — Quesito 9]] · **Prova:** [[Prove/2001_suppletiva_ordinamento_2001_questionario_32|2001 Suppletiva Ordinamento — Questionario]]
 
-Suppletiva Ordinamento 2001 -
-Questionario
+Calcolare la derivata della funzione $\sin 2x$ rispetto alla variabile $x$, ricorrendo alla definizione di derivata.
 
-QUESITO $9$
+Ricordiamo la definizione di derivata come limite del rapporto incrementale:
 
-Calcolare la derivata della funzione sen $2x$ rispetto alla variabile $x,$ ricorrendo alla
-definizione di derivata di una funzione.
+$$f'(x) = \lim_{h\to 0} \frac{f(x+h) - f(x)}{h}.$$
 
-Ricordiamo la definizione di derivata:
+Nel nostro caso $f(x) = \sin 2x$, quindi $f(x+h) = \sin\big(2(x+h)\big) = \sin(2x + 2h)$ e il rapporto incrementale diventa
 
-$$ lim $$
-$h\to 0$
-$f(x+ h) -f(x)$
-= f'(x)
+$$\frac{\sin(2x + 2h) - \sin 2x}{h}.$$
 
-Nel nostro caso (utilizzando le formule di prostaferesi):
+Trasformiamo la differenza di seni con le formule di **prostaferesi**:
 
-$$ lim $$
-$h\to 0$
-$sen2(x+ h) -sen2x$
-= lim
-$h\to 0$
-$sen(2x+ 2h) -sen2x$
+$$\sin p - \sin q = 2 \cos\frac{p+q}{2} \, \sin\frac{p-q}{2}.$$
 
-= lim
-$h\to 0$
-$2sen2x+ 2h-2x$
-$cos2x+ 2h+ 2x$
-$$ 2 h = $$
+Ponendo $p = 2x + 2h$ e $q = 2x$ si ha $\dfrac{p+q}{2} = 2x + h$ e $\dfrac{p-q}{2} = h$, da cui
 
-= lim
-$h\to 0$
-$2sen(h)cos(2x+ h)$
-= lim
-$h\to 0 [2$ ∙sen $h$
-$∙cos(2x+$ h)] $= 2 ∙1 ∙cos(2x) = 2cos(2x)$
+$$\sin(2x + 2h) - \sin 2x = 2 \cos(2x + h)\,\sin h.$$
+
+Il rapporto incrementale si riscrive allora come
+
+$$\frac{2 \cos(2x + h)\,\sin h}{h} = 2 \cos(2x + h) \cdot \frac{\sin h}{h}.$$
+
+Passiamo al limite per $h \to 0$. Sfruttando il limite notevole $\displaystyle \lim_{h\to 0} \frac{\sin h}{h} = 1$ e la continuità del coseno, per cui $\cos(2x + h) \to \cos 2x$, otteniamo
+
+$$f'(x) = \lim_{h\to 0} 2 \cos(2x + h) \cdot \frac{\sin h}{h} = 2 \cdot \cos 2x \cdot 1 = 2\cos 2x.$$
 
 Quindi:
 
-$D[sen(2x)] = 2cos (2x)$
+$$D[\sin(2x)] = 2\cos(2x).$$
 
-QUESITO $10$
-
-Considerata una funzione reale di variabile reale $f (x),$ derivabile almeno due volte in un
-dato punto a, affinché la funzione $f (x)$ abbia in a un punto di flesso la condizione
-f''(a) $= 0$ è:
-
-A) necessaria e sufficiente. $B)$ necessaria ma non sufficiente. $C)$ sufficiente ma non
-necessaria.
-
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione della
-risposta.
-
-La condizione è SOLO necessaria (ma non sufficiente): risposta A).
-
-Infatti, secondo un noto teorema, se f''(a) $= 0$ e la prima derivata che non si annulla è di
-ordine dispari, allora abbiamo in $x=a$ un flesso. Esempi:
-
-f(x) $= x^{3}$ ; f''(x) $= 6x= 0$ se $x= 0$ ed in $x= 0$ abbiamo un flesso , infatti risulta:
-
-Suppletiva Ordinamento 2001 -
-Questionario
-
-f''(x) $< 0$ se $x< 0$ (concavità verso il basso)
-
-f''(x) $> 0$ se $x> 0$ (concavità verso l'alto).
-
-f(x) $= x^{4}$ ; f''(x) $= 12x^{2} = 0$ se $x= 0$ ed in $x= 0$ NON abbiamo un flesso , infatti
-
-risulta:
-
-f''(x) $> 0$ se $x\ne 0$ (concavità verso l'alto sia destra di $x=$ a che a sinistra)
-
-In particolare in questo caso in $x=0$ c’è un minimo.
-
-Con la collaborazione di Angela Santamaria
+Il risultato coincide, come deve essere, con quello che si otterrebbe applicando la regola di derivazione della funzione composta: $D[\sin(2x)] = \cos(2x) \cdot D(2x) = 2\cos 2x$.
 
 *Fonte:* [📄 PDF p.38](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

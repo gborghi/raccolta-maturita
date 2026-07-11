@@ -1,46 +1,57 @@
----
-title: 2007 Estero Americhe Ordinaria — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_4
-of_item: ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_4
-prova_id: prova_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_4|2007 Estero Americhe Ordinaria — Questionario — Quesito 4]] · **Prova:** [[Prove/2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25|2007 Estero Americhe Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2007
+Tracciare i grafici, da $\mathbb{R}$ in $\mathbb{R}$, delle quattro funzioni
 
-$9t^{2} + 27t-10 = 0$ che come soluzioni $t= -$
-$$ 10 $$
-$3$ e $t=$
-$3.$ Quindi:
-$3x= -10$
-$3$ : impossibile
-$3x= 1$
-$3 : x= -1$
+$$f(x)=3^{x+1},\qquad g(x)=3^{x}+1,\qquad h(x)=3^{|x|},\qquad k(x)=3^{-x}.$$
 
-QUESITO $4$
+Tutti i grafici richiesti si deducono da quello della funzione base
 
-Si traccino i grafici delle seguenti funzioni di $R$ in $R:$
+$$a(x)=3^{x},$$
 
-$f: x\to 3x+1 ; g: x\to 3x+ 1 ; h: x\to 3|x| ; k: x\to 3-x$
+esponenziale crescente con $a(0)=1$, asintoto orizzontale $y=0$ per $x\to-\infty$ e $a(x)\to+\infty$ per $x\to+\infty$.
 
-Tutti i grafici richiesti sono deducibili dal grafico della funzione $y=$ a(x) $= 3x.$
 
-f(x) $= 3x+1 = a(x+ 1):$ si trasla verso sinistra di $1$ il grafico di a(x)
-g(x) $= 3x+ 1 =$ a(x) $+ 1:$ si trasla verso l’alto di $1$ il grafico di a(x)
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="217.35" height="215.028" viewBox="-72 -72 163.012 161.271"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 77.42H77.761"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M75.881 75.02c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(78.649 2.153)">x</text><path fill="none" d="M3.046 88.8V-58.753"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M.646-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -142.051)">y</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-65.241 76.577 1.736-.073 1.736-.08 1.736-.088 1.735-.093 1.736-.105 1.736-.111 1.736-.121 1.736-.134 1.736-.144 1.736-.157 1.736-.169 1.736-.186 1.736-.2 1.736-.221 1.736-.237 1.736-.26 1.736-.282 1.735-.305 1.736-.333 1.736-.362 1.736-.394 1.736-.428 1.736-.466 1.736-.506 1.736-.55 1.736-.6 1.736-.65 1.736-.709 1.736-.77 1.736-.835 1.736-.91 1.735-.991 1.736-1.075 1.736-1.17 1.736-1.273 1.736-1.384 1.736-1.503 1.736-1.637 1.736-1.778 1.736-1.928 1.736-2.103 1.736-2.286 1.736-2.487 1.736-2.703 1.736-2.94 1.735-3.196 1.736-3.476 1.736-3.78 1.736-4.111 1.736-4.469 1.736-4.86 1.736-5.285 1.736-5.747 1.736-6.248 1.736-6.796 1.736-7.39 1.736-8.033 1.736-8.735 1.736-9.5"/><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none"><text x="3.046" y="77.42" font-family="cmmi10" font-size="10" transform="translate(33.486 -116.015)">y</text><text x="11.085" y="77.42" font-family="cmr10" font-size="10" transform="translate(33.486 -116.015)">=</text><text x="21.64" y="77.42" font-family="cmr10" font-size="10" transform="translate(33.486 -116.015)">3</text><text x="26.64" y="73.791" font-family="cmmi7" font-size="7" transform="translate(33.486 -116.015)">x</text></g></g><path stroke="none" d="M4.246 54.657a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="3.046" y="77.42" stroke="none" font-family="cmr10" font-size="10" transform="translate(3.533 -12.785)">1</text></g></svg>
+</figure>
 
-h(x) $= 3|x| = a(|x|):$ si conferma il grafico di a(x) che si trova a destra dell’asse $y$ e lo si
-ribalta rispetto all’asse $y.$
+## $f(x)=3^{x+1}$
+
+Poiché $f(x)=3^{\,x+1}=a(x+1)$, il grafico di $a$ viene **traslato verso sinistra di $1$** (traslazione orizzontale). Equivalentemente $3^{x+1}=3\cdot 3^{x}$, cioè una dilatazione verticale di fattore $3$: le due letture danno la stessa curva. In particolare $f(0)=3$ e $f(-1)=1$; l'asintoto orizzontale resta $y=0$.
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="217.35" height="215.028" viewBox="-72 -72 163.012 161.271"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 77.42H77.761"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M75.881 75.02c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(78.649 2.153)">x</text><path fill="none" d="M3.046 88.8V-58.753"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M.646-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -142.051)">y</text><path fill="none" stroke="#00f" stroke-dasharray="3.0,3.0" d="m-65.241 76.577 1.736-.073 1.736-.08 1.736-.088 1.735-.093 1.736-.105 1.736-.111 1.736-.121 1.736-.134 1.736-.144 1.736-.157 1.736-.169 1.736-.186 1.736-.2 1.736-.221 1.736-.237 1.736-.26 1.736-.282 1.735-.305 1.736-.333 1.736-.362 1.736-.394 1.736-.428 1.736-.466 1.736-.506 1.736-.55 1.736-.6 1.736-.65 1.736-.709 1.736-.77 1.736-.835 1.736-.91 1.735-.991 1.736-1.075 1.736-1.17 1.736-1.273 1.736-1.384 1.736-1.503 1.736-1.637 1.736-1.778 1.736-1.928 1.736-2.103 1.736-2.286 1.736-2.487 1.736-2.703 1.736-2.94 1.735-3.196 1.736-3.476 1.736-3.78 1.736-4.111 1.736-4.469 1.736-4.86 1.736-5.285 1.736-5.747 1.736-6.248 1.736-6.796 1.736-7.39 1.736-8.033 1.736-8.735 1.736-9.5"/><path fill="none" stroke="red" stroke-width=".8" d="m-65.241 74.89 1.35-.17 1.35-.18 1.35-.196 1.35-.207 1.35-.221 1.35-.235 1.35-.252 1.35-.269 1.35-.287 1.35-.305 1.35-.328 1.35-.348 1.35-.374 1.35-.396 1.35-.426 1.35-.45 1.35-.485 1.35-.515 1.35-.55 1.35-.588 1.35-.626 1.35-.67 1.35-.714 1.351-.763 1.35-.813 1.35-.868 1.35-.929 1.35-.988 1.35-1.056 1.35-1.127 1.35-1.202 1.35-1.284 1.35-1.371 1.35-1.457 1.35-1.561 1.35-1.665 1.35-1.778 1.35-1.897 1.35-2.026 1.35-2.162 1.35-2.307 1.35-2.462 1.351-2.628 1.35-2.806 1.35-2.993 1.35-3.197 1.35-3.41 1.35-3.64 1.35-3.887 1.35-4.147 1.35-4.426 1.35-4.723 1.35-5.044 1.35-5.383 1.35-5.744 1.35-6.13 1.35-6.544 1.35-6.988 1.35-7.453"/><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="3.046" y="77.42" font-family="cmmi10" font-size="10" transform="translate(3.385 -119.818)">y</text><text x="11.085" y="77.42" font-family="cmr10" font-size="10" transform="translate(3.385 -119.818)">=</text><text x="21.64" y="77.42" font-family="cmr10" font-size="10" transform="translate(3.385 -119.818)">3</text><text x="26.64" y="73.791" font-family="cmmi7" font-size="7" transform="translate(3.385 -119.818)">x</text><text x="31.175" y="73.791" font-family="cmr7" font-size="7" transform="translate(3.385 -119.818)">+1</text></g></g><path stroke="none" d="M4.246 9.133a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="3.046" y="77.42" stroke="none" font-family="cmr10" font-size="10" transform="translate(3.533 -65.065)">3</text><path stroke="none" d="M-18.517 54.657a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/></g></svg>
+</figure>
+
+## $g(x)=3^{x}+1$
+
+Qui $g(x)=a(x)+1$: il grafico di $a$ viene **traslato verso l'alto di $1$** (traslazione verticale). L'asintoto orizzontale sale da $y=0$ a $y=1$; inoltre $g(0)=2$ e $g(x)>1$ per ogni $x$.
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="241.189" height="215.028" viewBox="-72 -72 180.892 161.271"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 77.42H77.761"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M75.881 75.02c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(78.649 2.153)">x</text><path fill="none" d="M3.046 88.8V-58.753"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M.646-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -142.051)">y</text><g fill="gray" stroke="gray" stroke-dasharray="3.0,3.0"><path fill="none" d="M-72.07 54.657H78.161"/><g fill="gray" stroke="none" font-size="10"><text x="3.046" y="77.42" font-family="cmmi10" transform="translate(78.649 -20.512)">y</text><text x="11.085" y="77.42" font-family="cmr10" transform="translate(78.649 -20.512)">=</text><text x="21.64" y="77.42" font-family="cmr10" transform="translate(78.649 -20.512)">1</text></g></g><path fill="none" stroke="#00f" stroke-dasharray="3.0,3.0" d="m-65.241 76.577 1.736-.073 1.736-.08 1.736-.088 1.735-.093 1.736-.105 1.736-.111 1.736-.121 1.736-.134 1.736-.144 1.736-.157 1.736-.169 1.736-.186 1.736-.2 1.736-.221 1.736-.237 1.736-.26 1.736-.282 1.735-.305 1.736-.333 1.736-.362 1.736-.394 1.736-.428 1.736-.466 1.736-.506 1.736-.55 1.736-.6 1.736-.65 1.736-.709 1.736-.77 1.736-.835 1.736-.91 1.735-.991 1.736-1.075 1.736-1.17 1.736-1.273 1.736-1.384 1.736-1.503 1.736-1.637 1.736-1.778 1.736-1.928 1.736-2.103 1.736-2.286 1.736-2.487 1.736-2.703 1.736-2.94 1.735-3.196 1.736-3.476 1.736-3.78 1.736-4.111 1.736-4.469 1.736-4.86 1.736-5.285 1.736-5.747 1.736-6.248 1.736-6.796 1.736-7.39 1.736-8.033 1.736-8.735 1.736-9.5"/><path fill="none" stroke="red" stroke-width=".8" d="m-65.241 53.815 1.659-.07 1.658-.075 1.66-.082 1.658-.092 1.659-.095 1.659-.105 1.659-.114 1.658-.123 1.66-.134 1.658-.144 1.659-.157 1.659-.17 1.658-.182 1.66-.2 1.658-.215 1.659-.235 1.659-.252 1.659-.276 1.658-.295 1.66-.322 1.658-.348 1.659-.378 1.659-.41 1.659-.444 1.658-.48 1.66-.52 1.658-.564 1.659-.61 1.659-.66 1.658-.717 1.66-.777 1.658-.84 1.659-.913 1.659-.986 1.659-1.07 1.658-1.159 1.66-1.254 1.658-1.36 1.659-1.473 1.659-1.596L2.77 32.19l1.658-1.867 1.66-2.028 1.658-2.197 1.659-2.38 1.659-2.58 1.658-2.792 1.66-3.027 1.658-3.28L17.7 8.489l1.659-3.85L21.018.47l1.658-4.516 1.66-4.894 1.658-5.3 1.659-5.743 1.659-6.222 1.658-6.74 1.66-7.302"/><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="3.046" y="77.42" font-family="cmmi10" font-size="10" transform="translate(22.599 -120.567)">y</text><text x="11.085" y="77.42" font-family="cmr10" font-size="10" transform="translate(22.599 -120.567)">=</text><text x="21.64" y="77.42" font-family="cmr10" font-size="10" transform="translate(22.599 -120.567)">3</text><text x="26.64" y="73.791" font-family="cmmi7" font-size="7" transform="translate(22.599 -120.567)">x</text><text x="33.897" y="77.42" font-family="cmr10" font-size="10" transform="translate(22.599 -120.567)">+</text><text x="43.897" y="77.42" font-family="cmr10" font-size="10" transform="translate(22.599 -120.567)">1</text></g></g><path stroke="none" d="M4.246 31.895a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="3.046" y="77.42" stroke="none" font-family="cmr10" font-size="10" transform="translate(3.533 -42.302)">2</text></g></svg>
+</figure>
+
+## $h(x)=3^{|x|}$
+
+Si ha $h(x)=a(|x|)$: la funzione è **pari**, quindi il suo grafico è simmetrico rispetto all'asse $y$. Per $x\ge 0$ coincide con $3^{x}$; per $x<0$ si ottiene **ribaltando rispetto all'asse $y$** il ramo destro di $a$. Il punto di minimo è $(0,1)$ e $h(x)\to+\infty$ sia per $x\to+\infty$ sia per $x\to-\infty$.
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="217.35" height="215.028" viewBox="-72 -72 163.012 161.271"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 77.42H77.761"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M75.881 75.02c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(78.649 2.153)">x</text><path fill="none" d="M3.046 88.8V-58.753"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M.646-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -142.051)">y</text><path fill="none" stroke="red" stroke-width=".8" d="m-31.098-40.846.864 4.83.864 4.635.865 4.444.864 4.263.864 4.088.864 3.923.864 3.761.864 3.608.864 3.46.865 3.318.864 3.184.864 3.054.864 2.928.864 2.81.864 2.694.864 2.585.865 2.479.864 2.377.864 2.28.864 2.187.864 2.099.864 2.011.864 1.93.865 1.851.864 1.776.864 1.703.864 1.634.864 1.566.864 1.503.864 1.441.865 1.383.864 1.325.864 1.272.864 1.22.864 1.17.864 1.122.865 1.077.864 1.032.864.99.864.022.864-.99.864-1.03.864-1.076.864-1.121.865-1.17.864-1.218.864-1.27.864-1.325.864-1.381.864-1.44.864-1.502.865-1.565.864-1.632.864-1.7.864-1.774.864-1.85.864-1.928.865-2.01.864-2.097.864-2.185.864-2.277.864-2.376.864-2.476.864-2.583.865-2.69.864-2.808.864-2.926.864-3.05.864-3.18.864-3.317.864-3.457.865-3.604.864-3.759.864-3.918.864-4.084.864-4.26.864-4.438.864-4.63.865-4.826"/><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="3.046" y="77.42" font-family="cmmi10" font-size="10" transform="translate(28.835 -114.897)">y</text><text x="11.085" y="77.42" font-family="cmr10" font-size="10" transform="translate(28.835 -114.897)">=</text><text x="21.64" y="77.42" font-family="cmr10" font-size="10" transform="translate(28.835 -114.897)">3</text><text x="26.64" y="73.791" font-family="cmsy7" font-size="7" transform="translate(28.835 -114.897)">j</text><text x="29.015" y="73.791" font-family="cmmi7" font-size="7" transform="translate(28.835 -114.897)">x</text><text x="33.55" y="73.791" font-family="cmsy7" font-size="7" transform="translate(28.835 -114.897)">j</text></g></g><path stroke="none" d="M4.246 54.657a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="3.046" y="77.42" stroke="none" font-family="cmr10" font-size="10" transform="translate(3.533 -12.785)">1</text></g></svg>
+</figure>
+
+## $k(x)=3^{-x}$
+
+Infine $k(x)=a(-x)$: il grafico di $a$ viene **riflesso rispetto all'asse $y$**. Si ottiene l'esponenziale **decrescente** $k(x)=\left(\tfrac{1}{3}\right)^{x}$, con $k(0)=1$, asintoto orizzontale $y=0$ per $x\to+\infty$ e $k(x)\to+\infty$ per $x\to-\infty$.
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="217.35" height="215.028" viewBox="-72 -72 163.012 161.271"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 77.42H77.761"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M75.881 75.02c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(78.649 2.153)">x</text><path fill="none" d="M3.046 88.8V-58.753"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M.646-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="3.046" y="77.42" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -142.051)">y</text><path fill="none" stroke="#00f" stroke-dasharray="3.0,3.0" d="m-65.241 76.577 1.736-.073 1.736-.08 1.736-.088 1.735-.093 1.736-.105 1.736-.111 1.736-.121 1.736-.134 1.736-.144 1.736-.157 1.736-.169 1.736-.186 1.736-.2 1.736-.221 1.736-.237 1.736-.26 1.736-.282 1.735-.305 1.736-.333 1.736-.362 1.736-.394 1.736-.428 1.736-.466 1.736-.506 1.736-.55 1.736-.6 1.736-.65 1.736-.709 1.736-.77 1.736-.835 1.736-.91 1.735-.991 1.736-1.075 1.736-1.17 1.736-1.273 1.736-1.384 1.736-1.503 1.736-1.637 1.736-1.778 1.736-1.928 1.736-2.103 1.736-2.286 1.736-2.487 1.736-2.703 1.736-2.94 1.735-3.196 1.736-3.476 1.736-3.78 1.736-4.111 1.736-4.469 1.736-4.86 1.736-5.285 1.736-5.747 1.736-6.248 1.736-6.796 1.736-7.39 1.736-8.033 1.736-8.735 1.736-9.5"/><path fill="none" stroke="red" stroke-width=".8" d="m-31.098-40.846 1.736 9.504 1.736 8.74 1.736 8.04 1.736 7.392 1.736 6.799 1.736 6.25 1.736 5.75 1.736 5.29 1.736 4.86 1.735 4.472 1.736 4.113 1.736 3.781 1.736 3.478 1.736 3.199 1.736 2.94 1.736 2.706 1.736 2.488 1.736 2.287 1.736 2.104 1.736 1.929 1.736 1.78 1.736 1.637 1.736 1.505 1.735 1.385 1.736 1.272 1.736 1.17 1.736 1.077 1.736.99 1.736.91 1.736.837 1.736.77 1.736.708 1.736.65 1.736.602 1.736.549 1.736.508 1.736.464 1.735.43 1.736.394 1.736.362 1.736.332 1.736.308 1.736.28 1.736.26 1.736.239 1.736.218 1.736.203 1.736.184 1.736.17 1.736.158 1.736.144 1.735.132 1.736.123 1.736.111 1.736.102 1.736.096 1.736.086 1.736.082 1.736.073"/><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="3.046" y="77.42" font-family="cmmi10" font-size="10" transform="translate(-62.964 -115.355)">y</text><text x="11.085" y="77.42" font-family="cmr10" font-size="10" transform="translate(-62.964 -115.355)">=</text><text x="21.64" y="77.42" font-family="cmr10" font-size="10" transform="translate(-62.964 -115.355)">3</text><text x="26.64" y="73.791" font-family="cmsy7" font-size="7" transform="translate(-62.964 -115.355)">¡</text><text x="32.89" y="73.791" font-family="cmmi7" font-size="7" transform="translate(-62.964 -115.355)">x</text></g></g><path stroke="none" d="M4.246 54.657a1.2 1.2 0 1 0-2.4 0 1.2 1.2 0 0 0 2.4 0m-1.2 0"/><text x="3.046" y="77.42" stroke="none" font-family="cmr10" font-size="10" transform="translate(3.533 -26.295)">1</text></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.26](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 

@@ -1,93 +1,42 @@
----
-title: 2001 Suppletiva Ordinamento — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2001_suppletiva_ordinamento_2001_questionario_32_4
-of_item: ques_2001_suppletiva_ordinamento_2001_questionario_32_4
-prova_id: prova_2001_suppletiva_ordinamento_2001_questionario_32
-anno: '2001'
-pdf: Prova_Maturita_2001.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2001
----
+
 
 **Quesito:** [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_4|2001 Suppletiva Ordinamento — Questionario — Quesito 4]] · **Prova:** [[Prove/2001_suppletiva_ordinamento_2001_questionario_32|2001 Suppletiva Ordinamento — Questionario]]
 
-Suppletiva Ordinamento 2001 -
-Questionario
+Sia $f(x)$ una funzione reale di variabile reale, derivabile con derivata continua su tutto $\mathbb{R}$, tale che $f(0)=1$ e $f'(0)=2$. Calcolare
 
-$(a+ b)n= (1 + 1)n= \sum (n$
-$k) akbn-k= (n$
-$0) + (n$
-$1) + ⋯+ (n$
-$n) = 2n$
-$k=0$
+$$\lim_{x\to 0}\frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1}.$$
 
-Dobbiamo quindi quindi vedere se esiste un numero naturale $n$ per cui :
+## Impostazione
 
-$2n= 1048576 = 220,$ quindi $n=20.$
+Per $x\to 0$ il numeratore tende a $\int_0^0 f(t)\,dt - 0 = 0$ e il denominatore a $\cos 0 - 1 = 0$: il limite si presenta nella forma indeterminata $\frac{0}{0}$.
 
-QUESITO $4$
+Numeratore e denominatore sono continui e derivabili in un intorno di $x=0$; inoltre, in un intorno di $x=0$ privato del punto stesso, la derivata del denominatore
 
-Sia $f (x)$ una funzione reale di variabile reale, derivabile con derivata continua in tutto il
-campo reale, tale che: $f(0) = 1$ ed $f'(0) = 2.$ Calcolare:
+$$\frac{d}{dx}\left(\cos 2x - 1\right) = -2\sin 2x$$
 
-$$ lim $$
-$x\to 0$
-$\int f(t)dt-x$
-$$ x 0 $$
-cos $2x-1$
+non si annulla. Sono quindi soddisfatte le ipotesi del teorema di de l'Hôpital.
 
-Osserviamo che il limite si presenta nella forma indeterminata
-$0$ . Inoltre il numeratore ed
-il denominatore sono funzioni continue e derivabili in un intorno di $x=0$ ed inoltre esiste un
-intorno di $x=0$ (privato del punto stesso) in cui la derivata del denominatore, che è
-$-2sen(2x),$ non si annulla mai. Possiamo quindi applicare la regola di $de$ L’Hȏpital.
+## Prima applicazione di de l'Hôpital
 
-$$ lim $$
-$x\to 0$
-$D(\int f(t)dt-x$
-$$ x 0 ) $$
-D(cos $2x-1)$
-= lim
-$x\to 0$
-f(x) $-1$
-$-2sen(2x)$
+Per il teorema fondamentale del calcolo integrale, $\dfrac{d}{dx}\displaystyle\int_0^x f(t)\,dt = f(x)$, dunque la derivata del numeratore è $f(x)-1$. Quindi
 
-Il limite si presenta ancora nella forma indeterminata
-$0$ e sono ancora soddisfatte le
-ipotesi del teorema di $de$ L’Hȏpital:
+$$\lim_{x\to 0}\frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1} = \lim_{x\to 0}\frac{f(x)-1}{-2\sin 2x}.$$
 
-$$ lim $$
-$x\to 0$
-D(f(x) $-1)$
-$D(-2sen(2x)) =$ lim
-$x\to 0$
-f'(x)
-$-4cos (2x) = 2$
-$-4 = -1$
-$2 =$ lim
-$x\to 0$
-$\int f(t)dt-x$
-$$ x 0 $$
-cos $2x-1$
+Per $x\to 0$ il numeratore tende a $f(0)-1 = 0$ e il denominatore a $-2\sin 0 = 0$: si ha ancora la forma $\frac{0}{0}$ e restano soddisfatte le ipotesi di de l'Hôpital.
 
-QUESITO $5$
+## Seconda applicazione di de l'Hôpital
 
-Dimostrare che la derivata, rispetto a $x,$ della funzione $ax,$ dove a è un numero reale
-positivo diverso da $1,$ è axln a .
+Derivando ancora numeratore e denominatore:
 
-Si può applicare la definizione di derivata (come indicato in tutti i libri di testo) oppure, se
-è noto che
+$$\lim_{x\to 0}\frac{f(x)-1}{-2\sin 2x} = \lim_{x\to 0}\frac{f'(x)}{-4\cos 2x}.$$
 
-D(ef(x)) = f'(x) ∙ef(x)
+Ora il limite non è più indeterminato: sfruttando la continuità di $f'$ e i dati $f'(0)=2$, $\cos 0 = 1$,
 
-Più velocemente ne seguente modo:
+$$\lim_{x\to 0}\frac{f'(x)}{-4\cos 2x} = \frac{f'(0)}{-4\cos 0} = \frac{2}{-4} = -\frac{1}{2}.$$
 
-D(ax) = D(eln(ax)) = D(ex∙ln(a)) = ln(a) ∙(ex∙ln(a)) = ax∙ln (a)
+## Conclusione
+
+$$\lim_{x\to 0}\frac{\displaystyle\int_0^x f(t)\,dt - x}{\cos 2x - 1} = -\frac{1}{2}.$$
 
 *Fonte:* [📄 PDF p.35](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
 

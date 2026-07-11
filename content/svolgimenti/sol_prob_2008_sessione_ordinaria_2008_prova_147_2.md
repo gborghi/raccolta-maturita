@@ -1,74 +1,76 @@
----
-title: 2008 Ordinaria — Prova (PNI Informatica) — Problema 2 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2008_sessione_ordinaria_2008_prova_147_2
-of_item: prob_2008_sessione_ordinaria_2008_prova_147_2
-prova_id: prova_2008_sessione_ordinaria_2008_prova_147
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2008
----
+
 
 **Problema:** [[Problemi/prob_2008_sessione_ordinaria_2008_prova_147_2|2008 Ordinaria — Prova (PNI Informatica) — Problema 2]] · **Prova:** [[Prove/2008_sessione_ordinaria_2008_prova_147|2008 Ordinaria — Prova (PNI Informatica)]]
 
-Sessione ordinaria 2008
-
-CORSO SPERIMENTALE
-
-Indirizzo: PIANO INTERNAZIONALE INFORMATICA
-
-Tema di: MATEMATICA
-
-Il candidato risolva uno dei due problemi e risponda a $5$ dei $10$ quesiti del questionario.
-
-PROBLEMA $1$
-Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si considerino i triangoli
-ABC con $A(1, 0), B(3, 0)$ e $C$ variabile sulla retta d’equazione $y=2x.$
-$1.$ Si provi che i punti $(1, 2)$ e
-⎟
-⎠
-⎞
-⎜
-⎝
-⎛
-$$ 5 6 , 5 3 $$
-corrispondono alle due sole posizioni di $C$ per cui è
-ˆ
-$\pi$
-$$ = B C A $$
-
-$2.$ Si determini l’equazione del luogo geometrico $\gamma$ descritto, al variare di $C,$ dall’ortocentro
-del triangolo ABC. Si tracci $\gamma$ .
-$3.$ Si calcoli l’area $\Omega$ della parte di piano delimitata da $\gamma$ e dalle tangenti a $\gamma$ nei punti A e $B.$
-$4.$ Verificato che è
-$$ )^{1} 3 $$
-$(ln$
-$$ 2 3 $$
--
-$\Omega$
-si illustri una procedura numerica per il calcolo
-approssimato di $ln 3.$
-
-PROBLEMA $2$
 Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da
+$$f(x)=2^{x}, \qquad g(x)=x^{2}.$$
 
-$$ 2 ) ( x x g x f x = = $$
-$1.$ Si traccino i grafici di $f$ e di $g$ e si indichi con A la loro intersezione di ascissa negativa.
-$2.$ Si calcoli, con uno dei metodi di approssimazione numerica studiati, l’ascissa di A con due
-cifre decimali esatte.
-$3.$ Quanti e quali sono gli zeri della funzione
-$$ 2 2 $$
-? Si tracci il grafico di $h.$
-$$ ) ( x x h $$
-$x -$
-$4.$ Si calcoli l’area racchiusa tra il grafico di $h$ e l’asse $x$ sull’intervallo $[2, 4].$
+## a) Grafici e intersezione $A$
+
+$f(x)=2^{x}$ è la funzione esponenziale di base $2$: è positiva, crescente su tutto $\mathbb{R}$, con $\lim_{x\to-\infty}2^{x}=0^{+}$ (asintoto orizzontale $y=0$ a sinistra) e $\lim_{x\to+\infty}2^{x}=+\infty$. La funzione $g(x)=x^{2}$ è la parabola con vertice nell'origine e concavità verso l'alto.
+
+Le intersezioni fra i due grafici si trovano risolvendo
+$$2^{x}=x^{2}.$$
+Per $x>0$ si osservano subito due soluzioni intere:
+$$x=2:\quad 2^{2}=4=2^{2}, \qquad x=4:\quad 2^{4}=16=4^{2}.$$
+Per $x<0$ il primo membro è compreso fra $0$ e $1$, mentre $x^{2}$ cresce da $0$: le due curve si incontrano una sola volta. Detta $A$ tale intersezione, essa ha ascissa negativa (esistenza e unicità: la funzione $\varphi(x)=2^{x}-x^{2}$ vale $\varphi(-1)=-\tfrac12<0$ e $\varphi(0)=1>0$, ed è strettamente monotòna su $(-1,0)$).
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="250.735" height="257.166" viewBox="-72 -72 188.051 192.875"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 104.45H102.8"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M100.92 102.05c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-15.733" y="104.449" stroke="none" font-family="cmmi10" font-size="10" transform="translate(122.466 2.153)">x</text><path fill="none" d="M-15.733 118.676v-177.43"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-18.133-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-15.733" y="104.449" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -169.08)">y</text><path fill="none" d="M46.863 101.604v5.69"/><text x="-15.733" y="104.449" stroke="none" font-family="cmr10" font-size="10" transform="translate(60.096 12.823)">2</text><path fill="none" stroke="red" stroke-width=".8" d="M-62.68 72.44s1.359 1.831 1.881 2.514c.522.684 1.36 1.757 1.882 2.412s1.36 1.682 1.881 2.309c.523.626 1.36 1.608 1.882 2.206s1.36 1.534 1.882 2.103 1.36 1.46 1.881 2c.523.54 1.36 1.385 1.882 1.897.522.513 1.36 1.311 1.882 1.795s1.36 1.237 1.881 1.692c.522.455 1.36 1.162 1.882 1.588s1.36 1.088 1.882 1.487a79 79 0 0 0 1.881 1.383c.522.37 1.36.94 1.882 1.28s1.36.865 1.881 1.178c.523.312 1.36.79 1.882 1.074s1.36.717 1.882.972c.522.256 1.36.642 1.881.87.522.226 1.36.567 1.882.765a49 49 0 0 0 1.882.664c.522.17 1.36.419 1.881.56.522.142 1.36.345 1.882.458s1.36.27 1.882.355 1.359.196 1.881.252 1.36.122 1.882.149 1.36.048 1.881.046c.523-.001 1.36-.027 1.882-.056s1.36-.101 1.882-.16a43 43 0 0 0 1.881-.262c.522-.087 1.36-.25 1.882-.365s1.36-.324 1.882-.468 1.36-.398 1.881-.57c.522-.173 1.36-.473 1.882-.674s1.36-.547 1.881-.777a56 56 0 0 0 1.882-.879c.522-.258 1.36-.695 1.882-.982s1.36-.77 1.881-1.085a68 68 0 0 0 1.882-1.188 74 74 0 0 0 1.882-1.29c.522-.373 1.36-.993 1.881-1.394.522-.4 1.36-1.067 1.882-1.496s1.36-1.141 1.882-1.599 1.36-1.216 1.881-1.702c.522-.487 1.36-1.29 1.882-1.805s1.36-1.364 1.881-1.907c.523-.544 1.36-1.439 1.882-2.01.522-.573 1.36-1.513 1.882-2.114.522-.6 1.36-1.587 1.881-2.216.523-.63 1.36-1.662 1.882-2.32a179 179 0 0 0 1.882-2.421c.522-.687 1.36-1.81 1.881-2.525.522-.715 1.36-1.884 1.882-2.627.522-.744 1.36-1.959 1.882-2.73.522-.773 1.36-2.033 1.881-2.834.522-.8 1.36-2.107 1.882-2.936s1.36-2.181 1.881-3.039a305 305 0 0 0 1.882-3.141c.522-.886 1.36-2.33 1.882-3.245a351 351 0 0 0 1.881-3.347c.523-.944 1.36-2.479 1.882-3.45s1.36-2.553 1.882-3.554 1.36-2.627 1.881-3.656c.522-1.028 1.36-2.7 1.882-3.758s1.36-2.776 1.882-3.862 1.36-2.85 1.881-3.964c.522-1.115 1.36-2.925 1.882-4.067s1.36-3 1.881-4.17c.523-1.172 1.36-3.073 1.882-4.273s1.36-3.148 1.882-4.376 1.36-3.222 1.881-4.479c.523-1.257 1.36-3.296 1.882-4.581a799 799 0 0 0 1.882-4.685c.522-1.314 1.36-3.444 1.881-4.787.522-1.342 1.36-3.518 1.882-4.89.522-1.37 1.36-3.593 1.882-4.992s1.359-3.668 1.881-5.096 1.36-3.742 1.882-5.198 1.36-3.817 1.881-5.302c.523-1.485 1.36-3.89 1.882-5.404s1.882-5.507 1.882-5.507"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-68.94 100.07s1.44-.142 1.992-.198a565 565 0 0 0 3.985-.422 457 457 0 0 0 3.985-.462A426.777 426.777 0 0 0-53 98.215c.553-.076 1.44-.2 1.993-.28a361 361 0 0 0 3.985-.602c.553-.087 1.44-.23 1.992-.32.553-.091 1.44-.24 1.993-.336a334 334 0 0 0 3.985-.717c.552-.104 1.439-.274 1.992-.383a284 284 0 0 0 3.985-.82c.553-.118 1.44-.312 1.992-.436.553-.124 1.44-.328 1.993-.457a236.117 236.117 0 0 0 3.985-.976 226.603 226.603 0 0 0 3.985-1.067c.552-.155 1.439-.408 1.992-.57a220 220 0 0 0 3.985-1.215c.553-.176 1.44-.466 1.992-.65.553-.184 1.44-.486 1.992-.68.553-.192 1.44-.508 1.993-.71.553-.2 1.44-.53 1.992-.741.553-.211 1.44-.556 1.993-.776s1.44-.58 1.992-.81c.553-.23 1.44-.607 1.993-.848.553-.24 1.44-.634 1.992-.885.553-.251 1.44-.663 1.993-.926.552-.262 1.44-.692 1.992-.966.553-.275 1.44-.725 1.992-1.012.553-.286 1.44-.756 1.993-1.055.553-.3 1.44-.791 1.992-1.105.553-.313 1.44-.826 1.993-1.154s1.44-.863 1.992-1.205c.553-.342 1.44-.903 1.993-1.26.552-.358 1.44-.944 1.992-1.318.553-.373 1.44-.986 1.992-1.376.553-.39 1.44-1.03 1.993-1.438s1.44-1.077 1.992-1.504c.553-.426 1.44-1.126 1.993-1.571s1.44-1.176 1.992-1.642c.553-.466 1.44-1.23 1.993-1.716.552-.487 1.44-1.286 1.992-1.795a149 149 0 0 0 1.992-1.874 152 152 0 0 0 1.993-1.96 156 156 0 0 0 1.992-2.046c.553-.581 1.44-1.533 1.993-2.14s1.44-1.602 1.992-2.237c.553-.634 1.44-1.674 1.993-2.337s1.44-1.75 1.992-2.443c.553-.693 1.44-1.829 1.992-2.553.553-.724 1.44-1.91 1.993-2.667s1.44-1.999 1.992-2.79c.553-.792 1.44-2.088 1.993-2.915s1.44-2.18 1.992-3.044c.553-.864 1.44-2.28 1.993-3.184.553-.903 1.44-2.382 1.992-3.325.553-.944 1.44-2.49 1.993-3.477.552-.986 1.44-2.603 1.992-3.635.553-1.03 1.44-2.719 1.992-3.796.553-1.078 1.44-2.843 1.993-3.97.553-1.125 1.44-2.97 1.992-4.146.553-1.177 1.44-3.106 1.993-4.337s1.44-3.244 1.992-4.53c.553-1.286 1.44-3.392 1.993-4.736.552-1.344 1.44-3.544 1.992-4.948a451 451 0 0 0 1.992-5.173c.553-1.468 1.44-3.87 1.993-5.404a518 518 0 0 0 1.992-5.65c.553-1.602 1.44-4.227 1.993-5.903s1.992-6.17 1.992-6.17"/><path stroke="none" d="M49.613 47.544c0-.69-1.231-1.25-2.75-1.25s-2.75.56-2.75 1.25 1.231 1.25 2.75 1.25 2.75-.56 2.75-1.25m-2.75 0"/><g stroke="none" font-size="10"><text x="-15.733" y="104.449" font-family="cmr10" transform="translate(66.13 -45.873)">(2</text><text x="-6.844" y="104.449" font-family="cmmi10" transform="translate(66.13 -45.873)">;</text><text x="-2.4" y="104.449" font-family="cmr10" transform="translate(66.13 -45.873)">4)</text></g><path stroke="none" d="M-37.083 96.056c0-.69-1.231-1.25-2.75-1.25s-2.75.56-2.75 1.25 1.231 1.25 2.75 1.25 2.75-.56 2.75-1.25m-2.75 0"/><text x="-15.733" y="104.449" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-20.567 -11.926)">A</text><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="-15.733" y="104.449" font-family="cmmi10" font-size="10" transform="translate(58.732 -147.98)">g</text><text x="-10.605" y="104.449" font-family="cmr10" font-size="10" transform="translate(58.732 -147.98)">(</text><text x="-6.716" y="104.449" font-family="cmmi10" font-size="10" transform="translate(58.732 -147.98)">x</text><text x="-1.001" y="104.449" font-family="cmr10" font-size="10" transform="translate(58.732 -147.98)">)</text><text x="5.666" y="104.449" font-family="cmr10" font-size="10" transform="translate(58.732 -147.98)">=</text><text x="16.222" y="104.449" font-family="cmmi10" font-size="10" transform="translate(58.732 -147.98)">x</text><text x="21.937" y="100.82" font-family="cmr7" font-size="7" transform="translate(58.732 -147.98)">2</text></g></g><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none"><text x="-15.733" y="104.449" font-family="cmmi10" font-size="10" transform="translate(83.432 -111.311)">f</text><text x="-9.761" y="104.449" font-family="cmr10" font-size="10" transform="translate(83.432 -111.311)">(</text><text x="-5.872" y="104.449" font-family="cmmi10" font-size="10" transform="translate(83.432 -111.311)">x</text><text x="-.157" y="104.449" font-family="cmr10" font-size="10" transform="translate(83.432 -111.311)">)</text><text x="6.51" y="104.449" font-family="cmr10" font-size="10" transform="translate(83.432 -111.311)">=</text><text x="17.065" y="104.449" font-family="cmr10" font-size="10" transform="translate(83.432 -111.311)">2</text><text x="22.065" y="100.82" font-family="cmmi7" font-size="7" transform="translate(83.432 -111.311)">x</text></g></g></g></svg>
+</figure>
+
+## b) Ascissa di $A$ con due cifre decimali esatte
+
+Applichiamo il metodo di bisezione alla funzione continua
+$$\varphi(x)=2^{x}-x^{2},$$
+cercando lo zero nell'intervallo $[-1,0]$, dove $\varphi(-1)<0$ e $\varphi(0)>0$:
+
+$$
+\begin{aligned}
+\varphi(-0.5)&=2^{-0.5}-0.25\approx +0.457 &&\Rightarrow\ \text{zero in }(-1,\,-0.5)\\
+\varphi(-0.75)&=2^{-0.75}-0.5625\approx +0.032 &&\Rightarrow\ \text{zero in }(-1,\,-0.75)\\
+\varphi(-0.8)&=2^{-0.8}-0.64\approx -0.066 &&\Rightarrow\ \text{zero in }(-0.8,\,-0.75)\\
+\varphi(-0.77)&=2^{-0.77}-0.5929\approx -0.007 &&\Rightarrow\ \text{zero in }(-0.77,\,-0.75)\\
+\varphi(-0.76)&=2^{-0.76}-0.5776\approx +0.013 &&\Rightarrow\ \text{zero in }(-0.77,\,-0.76)
+\end{aligned}
+$$
+
+Lo zero è dunque compreso fra $-0.77$ e $-0.76$; iterando ancora si stabilizza attorno a $x\approx-0.767$. Con due cifre decimali esatte l'ascissa di $A$ è
+$$x_{A}\approx-0.77,$$
+cui corrisponde $y_{A}=x_{A}^{2}\approx 0.59$, cioè $A\approx(-0.77,\ 0.59)$.
+
+## c) Zeri di $h$ e suo grafico
+
+Consideriamo
+$$h(x)=2^{x}-x^{2}.$$
+Gli zeri di $h$ sono le soluzioni di $2^{x}=x^{2}$, cioè esattamente le tre intersezioni trovate al punto a):
+$$x_{1}=x_{A}\approx-0.77, \qquad x_{2}=2, \qquad x_{3}=4.$$
+La funzione $h$ ha quindi **tre zeri**. Studiandone il segno:
+$$
+h(x)>0 \ \text{ per } x_{A}<x<2, \qquad
+h(x)<0 \ \text{ per } x<x_{A} \ \text{ e per } 2<x<4, \qquad
+h(x)>0 \ \text{ per } x>4,
+$$
+con $\lim_{x\to-\infty}h(x)=-\infty$ (domina $-x^{2}$) e $\lim_{x\to+\infty}h(x)=+\infty$ (domina $2^{x}$).
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="291.894" height="157.362" viewBox="-72 -72 218.92 118.021"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07-.257h205.74"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M131.79-2.657c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><text x="-22.989" y="-.257" stroke="none" font-family="cmmi10" font-size="10" transform="translate(160.591 2.153)">x</text><path fill="none" d="M-22.99 45.551V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-25.39-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-22.989" y="-.257" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -64.374)">y</text><path fill="#d9d9ff" stroke="none" d="m42.452-.24 1.109 1.365 1.108 1.364 1.11 1.362 1.108 1.362 1.11 1.356 1.108 1.351 1.109 1.346 1.109 1.332 1.109 1.319 1.109 1.31 1.108 1.29 1.11 1.274 1.108 1.25 1.11 1.23 1.108 1.206 1.109 1.176 1.109 1.145 1.109 1.116 1.109 1.075 1.108 1.044 1.11 1.002 1.108.957 1.11.912 1.108.861 1.109.814 1.109.759 1.109.694 1.109.638 1.108.58 1.11.503 1.108.435 1.11.358 1.108.287 1.109.204 1.109.113 1.109.028 1.109-.068 1.108-.166 1.11-.258 1.108-.375 1.11-.479 1.108-.588 1.109-.718 1.109-.835 1.109-.96 1.109-1.094 1.108-1.233 1.11-1.38 1.108-1.515 1.11-1.681 1.108-1.835 1.109-1.995 1.109-2.17 1.109-2.35 1.109-2.518 1.108-2.721 1.11-2.906 1.108-3.104 1.11-3.318.016-.168H42.452Z"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-55.71 16.1s1.408-3.26 1.948-4.472c.541-1.212 1.408-3.109 1.949-4.265a281 281 0 0 1 1.948-4.066c.54-1.1 1.407-2.818 1.948-3.863s1.407-2.677 1.948-3.667 1.408-2.533 1.948-3.468 1.408-2.392 1.948-3.273c.541-.88 1.408-2.249 1.949-3.076.54-.826 1.407-2.11 1.948-2.883s1.407-1.97 1.948-2.69c.54-.721 1.408-1.837 1.948-2.505a91 91 0 0 1 1.948-2.312 80 80 0 0 1 1.948-2.129 70 70 0 0 1 1.949-1.943c.54-.514 1.407-1.3 1.948-1.763a53 53 0 0 1 1.948-1.58 48 48 0 0 1 1.948-1.395c.54-.364 1.408-.91 1.948-1.226s1.408-.785 1.948-1.054c.541-.268 1.408-.66 1.949-.882.54-.22 1.407-.538 1.948-.713s1.407-.42 1.948-.55c.54-.129 1.408-.299 1.948-.384.54-.084 1.408-.185 1.948-.226.54-.04 1.408-.07 1.948-.068.541.003 1.408.041 1.949.086.54.044 1.407.15 1.948.236s1.407.257 1.948.383 1.408.36 1.948.526c.54.165 1.408.462 1.948.665s1.408.563 1.948.804c.541.241 1.408.657 1.949.934.54.277 1.407.75 1.948 1.062s1.407.84 1.948 1.185 1.408.926 1.948 1.304c.54.377 1.408 1.007 1.948 1.415s1.408 1.09 1.949 1.527c.54.438 1.407 1.163 1.948 1.63s1.407 1.237 1.948 1.73 1.407 1.302 1.948 1.82c.54.517 1.408 1.368 1.948 1.908s1.408 1.426 1.948 1.988c.541.562 1.408 1.482 1.949 2.064.54.582 1.407 1.53 1.948 2.13s1.407 1.574 1.948 2.19A318 318 0 0 1 37.802-5.9 642 642 0 0 1 41.7-1.16l1.948 2.393 1.948 2.394 1.948 2.39a567.257 567.257 0 0 0 3.896 4.722 290.143 290.143 0 0 0 3.896 4.57c.542.618 1.408 1.598 1.95 2.198.54.6 1.407 1.546 1.947 2.124s1.408 1.49 1.948 2.042c.541.553 1.408 1.42 1.949 1.943.54.523 1.407 1.337 1.948 1.826s1.407 1.25 1.948 1.701 1.408 1.144 1.948 1.554 1.408 1.037 1.948 1.4 1.408.906 1.948 1.218c.541.312 1.408.774 1.949 1.031.54.257 1.407.623 1.948.82.54.195 1.407.464 1.948.593.54.13 1.408.28 1.948.336.54.057 1.408.093 1.948.073s1.408-.112 1.948-.216c.541-.103 1.408-.336 1.949-.53a17 17 0 0 0 1.948-.863c.54-.29 1.407-.83 1.948-1.223a25 25 0 0 0 1.948-1.608 32 32 0 0 0 1.948-2.006c.54-.62 1.408-1.712 1.949-2.458a56 56 0 0 0 1.948-2.921 74 74 0 0 0 1.948-3.404 95 95 0 0 0 1.948-3.932c.54-1.17 1.408-3.172 1.948-4.5.54-1.33 1.408-3.583 1.948-5.077.541-1.495 1.408-4.021 1.949-5.697.54-1.675 1.407-4.515 1.948-6.377s1.407-4.985 1.948-7.047a423 423 0 0 0 1.948-7.815 526 526 0 0 0 1.948-8.572c.54-2.494 1.948-9.407 1.948-9.407"/><path stroke="none" d="M-46.344-.257a1.84 1.84 0 1 0-3.68 0 1.84 1.84 0 0 0 3.68 0m-1.84 0"/><text x="-22.989" y="-.257" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-36.228 -3.533)">A</text><path stroke="none" d="M44.292-.257a1.84 1.84 0 1 0-3.68 0 1.84 1.84 0 0 0 3.68 0m-1.84 0"/><text x="-22.989" y="-.257" stroke="none" font-family="cmr10" font-size="10" transform="translate(68.974 9.977)">2</text><path stroke="none" d="M109.733-.257a1.84 1.84 0 1 0-3.68 0 1.84 1.84 0 0 0 3.68 0m-1.84 0"/><text x="-22.989" y="-.257" stroke="none" font-family="cmr10" font-size="10" transform="translate(134.415 -3.533)">4</text><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none"><text x="-22.989" y="-.257" font-family="cmmi10" font-size="10" transform="translate(-1.439 -41.353)">h</text><text x="-17.228" y="-.257" font-family="cmr10" font-size="10" transform="translate(-1.439 -41.353)">(</text><text x="-13.339" y="-.257" font-family="cmmi10" font-size="10" transform="translate(-1.439 -41.353)">x</text><text x="-7.624" y="-.257" font-family="cmr10" font-size="10" transform="translate(-1.439 -41.353)">)</text><text x="-.957" y="-.257" font-family="cmr10" font-size="10" transform="translate(-1.439 -41.353)">=</text><text x="9.599" y="-.257" font-family="cmr10" font-size="10" transform="translate(-1.439 -41.353)">2</text><text x="14.599" y="-3.886" font-family="cmmi7" font-size="7" transform="translate(-1.439 -41.353)">x</text><text x="21.856" y="-.257" font-family="cmsy10" font-size="10" transform="translate(-1.439 -41.353)">¡</text><text x="31.855" y="-.257" font-family="cmmi10" font-size="10" transform="translate(-1.439 -41.353)">x</text><text x="37.571" y="-3.886" font-family="cmr7" font-size="7" transform="translate(-1.439 -41.353)">2</text></g></g></g></svg>
+</figure>
+
+## d) Area tra il grafico di $h$ e l'asse $x$ su $[2,4]$
+
+Nell'intervallo $[2,4]$ si ha $h(x)\le 0$ (ad esempio $h(3)=2^{3}-3^{2}=8-9=-1<0$), quindi il grafico di $h$ sta sotto l'asse $x$. L'area richiesta è
+$$\mathcal{A}=\int_{2}^{4}\bigl|h(x)\bigr|\,dx=\int_{2}^{4}\bigl(x^{2}-2^{x}\bigr)\,dx.$$
+Calcolando la primitiva (ricordando che $\int 2^{x}\,dx=\dfrac{2^{x}}{\ln 2}$):
+$$\mathcal{A}=\left[\frac{x^{3}}{3}-\frac{2^{x}}{\ln 2}\right]_{2}^{4}
+=\left(\frac{64}{3}-\frac{16}{\ln 2}\right)-\left(\frac{8}{3}-\frac{4}{\ln 2}\right)
+=\frac{56}{3}-\frac{12}{\ln 2}.$$
+Numericamente
+$$\mathcal{A}=\frac{56}{3}-\frac{12}{\ln 2}\approx 18.67-17.31\approx 1.35.$$
+L'area racchiusa tra il grafico di $h$ e l'asse $x$ sull'intervallo $[2,4]$ vale dunque circa $1.35$ unità di superficie.
 
 *Fonte:* [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

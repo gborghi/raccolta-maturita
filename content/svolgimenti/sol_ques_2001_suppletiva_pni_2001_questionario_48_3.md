@@ -1,87 +1,57 @@
----
-title: 2001 Suppletiva PNI — Questionario — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2001_suppletiva_pni_2001_questionario_48_3
-of_item: ques_2001_suppletiva_pni_2001_questionario_48_3
-prova_id: prova_2001_suppletiva_pni_2001_questionario_48
-anno: '2001'
-pdf: Prova_Maturita_2001.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2001
----
+
 
 **Quesito:** [[Quesiti/ques_2001_suppletiva_pni_2001_questionario_48_3|2001 Suppletiva PNI — Questionario — Quesito 3]] · **Prova:** [[Prove/2001_suppletiva_pni_2001_questionario_48|2001 Suppletiva PNI — Questionario]]
 
-denominatore positivo, deve esserlo anche il numeratore, pertanto:
+Data la funzione
+$$f(x) = x^{\pi} - \pi^{x},$$
+si chiede di determinarne il dominio e di stabilire il segno della derivata prima e della derivata seconda nel punto $x = \pi$.
 
-$f(x^{2}) -f(x^{1}) > 0$ da cui $f(x^{2}) > f(x^{1})$ , come si voleva dimostrare.
+## a) Dominio
 
-In modo del tutto analogo si dimostra il caso derivata $negativa-$ funzione decrescente.
+La funzione è differenza di due termini:
 
-QUESITO $2$
+- $\pi^{x}$ è una funzione esponenziale di base $\pi > 0$, definita per ogni $x \in \mathbb{R}$;
+- $x^{\pi}$ è una potenza a esponente reale (irrazionale) $\pi$; una potenza $x^{\alpha}$ con $\alpha$ irrazionale è definita, nel campo reale, solo per base non negativa, ponendo $x^{\pi} = e^{\pi \ln x}$ per $x > 0$ e $0^{\pi} = 0$.
 
-Calcolare la derivata della funzione: f(x) = arctg $x-arctg$
-$x-1$
-$x+1$ .
-Quali conclusioni se ne possono trarre per la f(x)?
+Il termine più restrittivo è dunque $x^{\pi}$, che impone $x \ge 0$. Il dominio è quindi
+$$D = [0,\, +\infty), \qquad \text{cioè } x \ge 0.$$
 
-f'(x) =
-$1 + x^{2} -$
-$D(x-1$
-$x+ 1)$
-$1 + (x-1$
-$x+ 1)$
-$$ 2 = 1 $$
-$1 + x^{2} -$
-$x+ 1 -(x-1)$
-$(x+ 1)^{2}$
-$(x+ 1)^{2} + (x-1)^{2}$
-$(x+ 1)^{2}$
-$1 + x^{2} -$
-$2x^{2} + 2 = 0$
+## b) Segno della derivata prima in $x = \pi$
 
-Possiamo concludere che la funzione, per $x <-1$ e per $x>-1$ è costante; in particolare:
+Derivando (per $x > 0$), con $D\big(x^{\pi}\big) = \pi\, x^{\pi-1}$ e $D\big(\pi^{x}\big) = \pi^{x}\ln \pi$:
+$$f'(x) = \pi\, x^{\pi-1} - \pi^{x}\ln \pi.$$
 
-se $x<-1$ (per esempio $x= -\sqrt{3})$ abbiamo:
+Calcoliamo nel punto $x = \pi$:
+$$f'(\pi) = \pi \cdot \pi^{\pi-1} - \pi^{\pi}\ln \pi = \pi^{\pi} - \pi^{\pi}\ln \pi = \pi^{\pi}\big(1 - \ln \pi\big).$$
 
-$f(-\sqrt{3}) = arctg(-\sqrt{3}) -arctg -\sqrt{3} -1$
-$-\sqrt{3} + 1$
-$= -\pi$
-$3 -arctg(\sqrt{3} + 1$
-$\sqrt{3} -1$
-$= -\pi$
-$3 -arctg(4 + 2\sqrt{3}$
-) $= -\pi$
-$3 -arctg(2 + \sqrt{3}) = -\pi$
-$3 -5$
-$12 \pi = -3$
-$4 \pi$
+Poiché $\pi^{\pi} > 0$ e, essendo $\pi \approx 3{,}14 > e$, risulta $\ln \pi \approx 1{,}145 > 1$, si ha $1 - \ln \pi < 0$. Dunque
+$$f'(\pi) = \pi^{\pi}\big(1 - \ln \pi\big) < 0.$$
 
-se $x>-1$ (per esempio $x= 0)$ abbiamo:
+La derivata prima in $x = \pi$ è **negativa**: nel punto $x = \pi$ la funzione è decrescente.
 
-$f(0) = arctg(0) -arctg(-1) = \pi$
+## c) Segno della derivata seconda in $x = \pi$
 
-Quindi:
+Derivando ancora:
+$$f''(x) = \pi(\pi-1)\, x^{\pi-2} - \pi^{x}(\ln \pi)^{2}.$$
 
-f(x) = arctg $x-arctg x-1$
-$x+ 1 =$ {
-$-3$
-$4 \pi$ , se $x< -1$
-$\pi$
-$4$ , se $x> -1$
+Nel punto $x = \pi$:
+$$f''(\pi) = \pi(\pi-1)\, \pi^{\pi-2} - \pi^{\pi}(\ln \pi)^{2} = (\pi-1)\, \pi^{\pi-1} - \pi^{\pi}(\ln \pi)^{2}.$$
 
-QUESITO $3$
+Raccogliendo il fattore positivo $\pi^{\pi-1}$:
+$$f''(\pi) = \pi^{\pi-1}\Big[(\pi-1) - \pi\,(\ln \pi)^{2}\Big].$$
 
-Dire qual è il dominio della funzione f(x) $= x\pi -\pi x$ e stabilire il segno della derivata
-prima e quello della derivata seconda di f(x) nel punto $x= \pi$ .
+Valutiamo la parentesi quadra: $\pi - 1 \approx 2{,}14$, mentre $\pi\,(\ln \pi)^{2} \approx 3{,}14 \cdot (1{,}145)^{2} \approx 4{,}12$. Quindi
+$$(\pi-1) - \pi\,(\ln \pi)^{2} \approx 2{,}14 - 4{,}12 = -1{,}98 < 0.$$
 
-La funzione è definita per $x\ge 0$
+Essendo $\pi^{\pi-1} > 0$, si conclude
+$$f''(\pi) < 0.$$
+
+La derivata seconda in $x = \pi$ è **negativa**: nel punto $x = \pi$ la funzione volge la concavità verso il basso.
+
+## Conclusione
+
+Il dominio di $f(x) = x^{\pi} - \pi^{x}$ è $x \ge 0$. Nel punto $x = \pi$ si ha $f'(\pi) < 0$ e $f''(\pi) < 0$: la funzione è ivi decrescente e concava.
 
 *Fonte:* [📄 PDF p.49](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

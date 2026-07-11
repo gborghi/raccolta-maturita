@@ -1,65 +1,30 @@
----
-title: 2001 Suppletiva Ordinamento — Questionario — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2001_suppletiva_ordinamento_2001_questionario_32_7
-of_item: ques_2001_suppletiva_ordinamento_2001_questionario_32_7
-prova_id: prova_2001_suppletiva_ordinamento_2001_questionario_32
-anno: '2001'
-pdf: Prova_Maturita_2001.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2001
----
+
 
 **Quesito:** [[Quesiti/ques_2001_suppletiva_ordinamento_2001_questionario_32_7|2001 Suppletiva Ordinamento — Questionario — Quesito 7]] · **Prova:** [[Prove/2001_suppletiva_ordinamento_2001_questionario_32|2001 Suppletiva Ordinamento — Questionario]]
 
-Suppletiva Ordinamento 2001 -
-Questionario
+Una primitiva della funzione $f(x)$ è $F(x)=x^{2}+2x$. Se è possibile, calcolare
 
-QUESITO $7$
+$$\int_{0}^{1} f\!\left(\frac{x}{2}\right)\,dx$$
 
-Una primitiva della funzione f(x) è $x^{2} + 2x.$ Se è possibile calcolare $\int f($
-$2) dx$
-$$ 1 0 , $$
-determinare il valore dell’integrale. In caso contrario spiegare perché il calcolo non è
-possibile.
+determinandone il valore; in caso contrario spiegare perché il calcolo non è possibile.
+
+Il calcolo è possibile: conoscere una primitiva $F$ di $f$ è sufficiente per integrare $f$, e il fattore $\tfrac{x}{2}$ nell'argomento si gestisce con un cambiamento di variabile.
 
 Operiamo la sostituzione
-$2 = t$ , da cui $x= 2t , dx= 2dt$ e notiamo che quando $x=0$
-risulta $t=0$ e quando $x=1, t=1/2.$ Si ha pertanto:
+$$t=\frac{x}{2}\quad\Rightarrow\quad x=2t,\qquad dx=2\,dt.$$
 
-$\int$ f(x
-$2) dx$
-$$ 1 0 $$
-$= \int f(t)2dt= 2$
-$$ 1 2 0 $$
-$\int f(t)dt= 2 ∙[t^{2} + 2t]0$
-$$ 1 2 1 2 0 $$
-$= 2 ∙(1$
-$4 + 1 -0) = 5$
+Aggiorniamo gli estremi di integrazione: quando $x=0$ risulta $t=0$, e quando $x=1$ risulta $t=\dfrac{1}{2}$. Si ha pertanto
 
-QUESITO $8$
+$$\int_{0}^{1} f\!\left(\frac{x}{2}\right)dx=\int_{0}^{\frac{1}{2}} f(t)\,\cdot 2\,dt=2\int_{0}^{\frac{1}{2}} f(t)\,dt.$$
 
-In un piano, riferito a un sistema di assi cartesiani ortogonali (Oxy), sia $T$ un trapezoide di
-base [a; b] relativo alla funzione $f (x),$ continua in tale intervallo. Dimostrare la formula che
-esprime il volume del solido generato dal trapezoide quando ruota di un giro completo
-attorno all’asse $x.$
+Poiché $F(t)=t^{2}+2t$ è una primitiva di $f$, per il teorema fondamentale del calcolo integrale
 
-Consideriamo il volume infinitesimo $dV$ come cilindro con raggio di base f(x) e altezza $dx:$
+$$2\int_{0}^{\frac{1}{2}} f(t)\,dt=2\Big[t^{2}+2t\Big]_{0}^{\frac{1}{2}}=2\left[\left(\frac{1}{4}+1\right)-0\right]=2\cdot\frac{5}{4}=\frac{5}{2}.$$
 
-$dV= \pi r2h= \pi f^{2}(x)dx$
+Dunque
 
-Il volume richiesto può essere visto come somma di questi infiniti volumetti, quindi:
-
-$V= \int \pi f^{2}(x)dx=$
-$$ b a $$
-$\pi \int f^{2}(x)dx= V$
-$$ b a $$
+$$\int_{0}^{1} f\!\left(\frac{x}{2}\right)dx=\frac{5}{2}.$$
 
 *Fonte:* [📄 PDF p.37](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

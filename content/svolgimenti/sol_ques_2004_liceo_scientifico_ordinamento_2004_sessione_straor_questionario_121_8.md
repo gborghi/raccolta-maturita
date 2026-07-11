@@ -1,70 +1,24 @@
----
-title: 2004 Ordinamento Straordinaria — Questionario — Quesito 8 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_8
-of_item: >-
-  ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_8
-prova_id: prova_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_8|2004 Ordinamento Straordinaria — Questionario — Quesito 8]] · **Prova:** [[Prove/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121|2004 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2004
+Calcolare il valore della somma dei quadrati dei primi $100$ numeri naturali:
+$$1^2 + 2^2 + 3^2 + \cdots + 100^2.$$
 
-QUESITO $8$
+## Soluzione
 
-Calcolare il valore della seguente somma: $12 + 22 + 32 + ⋯+$ 1002.
+È nota la formula per la somma dei quadrati dei primi $n$ numeri naturali (dimostrabile, per esempio, per induzione):
+$$S_n = \sum_{k=1}^{n} k^2 = 1^2 + 2^2 + \cdots + n^2 = \frac{n(n+1)(2n+1)}{6}.$$
 
-E’ nota la seguente relazione (che si può dimostrare, per esempio, per induzione):
+Ponendo $n = 100$ si ottiene:
+$$1^2 + 2^2 + 3^2 + \cdots + 100^2 = \frac{100 \cdot (100+1) \cdot (2\cdot 100 + 1)}{6} = \frac{100 \cdot 101 \cdot 201}{6}.$$
 
-$Sn = 12 + 22 + ⋯+ n^{2} = 1$
-$6 n(n+ 1)(2n+ 1)$
-Quindi, per $n=100$ abbiamo:
+Svolgendo i calcoli:
+$$\frac{100 \cdot 101 \cdot 201}{6} = \frac{2030100}{6} = 338350.$$
 
-$12 + 22 + 32 + ⋯+$ 1002 $= 1$
-$6 ∙100 ∙(100 + 1) ∙(200 + 1) = 50$
-$3 ∙101 ∙201 = 338350$
-
-QUESITO $9$
-
-In una classe di $25$ alunni bisogna estrarre a sorte una rappresentanza di $3$ elementi.
-Calcolare quante sono le possibili terne di rappresentanti.
-
-Le possibili terne di rappresentanti si ottengono calcolando le combinazioni di $25$ oggetti
-a $3$ a $3:$
-
-$C25,3 = (25$
-$3 ) = 25 ∙24 ∙23$
-$3!$
-$= 25 ∙4 ∙23 =$ 2300
-
-QUESITO $10$
-
-Alla finale dei $200 m$ piani partecipano $8$ atleti, fra i quali figurano i nostri amici Antonio e
-Pietro. Calcolare il numero dei possibili ordini di arrivo che registrino i nostri due amici fra
-i primi tre classificati.
-
-Le possibilità che Antonio e Pietro siano tra i primi $3$ sono le seguenti:
-
-$A-P-(6$ possibilità),
-$P-A- (6$ possibilità), $A-(6$ possibilità) $-P$
-
-$P-(6$ possibilità) $-A, (6$ possibilità) $-A-P, (6$ possibilità) $-P-A$
-
-In totale si hanno quindi $6x^{6}=36$ possibili ordini di arrivo.
-
-Con la collaborazione di Angela Santamaria
+Pertanto
+$$\sum_{k=1}^{100} k^2 = 338350.$$
 
 *Fonte:* [📄 PDF p.126](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

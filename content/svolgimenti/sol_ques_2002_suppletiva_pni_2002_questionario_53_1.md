@@ -1,69 +1,23 @@
----
-title: 2002 Suppletiva PNI — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2002_suppletiva_pni_2002_questionario_53_1
-of_item: ques_2002_suppletiva_pni_2002_questionario_53_1
-prova_id: prova_2002_suppletiva_pni_2002_questionario_53
-anno: '2002'
-pdf: Prova_Maturita_2002.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2002
----
+
 
 **Quesito:** [[Quesiti/ques_2002_suppletiva_pni_2002_questionario_53_1|2002 Suppletiva PNI — Questionario — Quesito 1]] · **Prova:** [[Prove/2002_suppletiva_pni_2002_questionario_53|2002 Suppletiva PNI — Questionario]]
 
-QUESITO $1$
+Da un'urna contenente $90$ palline numerate se ne estraggono quattro senza reimbussolamento. Poiché l'ordine di estrazione è irrilevante (come nel gioco dell'Enalotto), si vuole la probabilità che esca la quaterna $(7, 47, 67, 87)$.
 
-Da un’urna contenente $90$ palline numerate se ne estraggono quattro senza
-reimbussolamento. Supponendo che l’ordine in cui i numeri vengono estratti sia
-irrilevante, come è nel gioco dell’Enalotto, si calcoli la probabilità che esca la quaterna
-$(7, 47, 67, 87).$
+**Metodo delle estrazioni successive.** Alla prima estrazione la probabilità di pescare uno qualsiasi dei quattro numeri della quaterna è $\dfrac{4}{90}$. Alla seconda estrazione restano $89$ palline e $3$ numeri utili, quindi la probabilità è $\dfrac{3}{89}$; alla terza estrazione $\dfrac{2}{88}$ e alla quarta $\dfrac{1}{87}$. Le estrazioni sono in cascata, dunque:
 
-La probabilità di avere uno dei quattro numeri alla prima estrazione è $4/90,$ quella di
-estrarre uno dei tre numeri rimanenti alla seconda estrazione è $3/89,$ quella di estrarre
-uno dei due numeri rimanenti alla terza estrazione è $2/88,$ ed infine la probabilità di
-estrarre l’ultimo dei quattro numeri alla quarta estrazione è $1/87.$ Quindi:
+$$p(7,47,67,87) = \frac{4}{90}\cdot\frac{3}{89}\cdot\frac{2}{88}\cdot\frac{1}{87} = \frac{24}{61\,324\,560} = \frac{1}{2\,555\,190}.$$
 
-$p(7,47,67,87) = 4$
-$90 ∙3$
-$89 ∙2$
-$88 ∙1$
-$$ 87 = 1 $$
-$2555190 \cong 3.91 ∙10-7$
+**Verifica con il calcolo combinatorio.** Dato che l'ordine non conta, i casi possibili sono le combinazioni di $90$ oggetti presi $4$ alla volta:
 
-QUESITO $2$
+$$\binom{90}{4} = \frac{90\cdot 89\cdot 88\cdot 87}{4!} = \frac{61\,324\,560}{24} = 2\,555\,190,$$
 
-Calcolare la probabilità che in dieci lanci di una moneta non truccata dal quinto lancio in
-poi esca sempre testa.
+e il caso favorevole è uno solo (la quaterna assegnata). Quindi:
 
-Nei primi quattro lanci può uscire sia testa che croce, quindi la probabilità per ognuno dei
-primi quattro lanci è $1;$ dal quinto lancio al decimo la probabilità è $1⁄2,$ quindi la probabilità
-che dal quinto al decimo lancio esca sempre testa è data da:
+$$p(7,47,67,87) = \frac{1}{\binom{90}{4}} = \frac{1}{2\,555\,190} \approx 3{,}91\cdot 10^{-7}.$$
 
-$p= 1 ∙1 ∙1 ∙1 ∙(1$
-$$ 2) 6 = 1 64 $$
-
-QUESITO $3$
-
-Calcolare la derivata rispetto $ad x$ della funzione $\int$ f(t)dt
-$$ b x $$
-, ove $f (x)$ è una funzione
-continua.
-
-Per il teorema fondamentale del calcolo integrale risulta:
-
-$\int$ f(t)dt
-$$ x b $$
-= f(x) , ma $\int$ f(t)dt
-$$ b x $$
-$= -\int$ f(t)dt
-$$ x b $$
+I due procedimenti coincidono, come deve essere.
 
 *Fonte:* [📄 PDF p.53](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

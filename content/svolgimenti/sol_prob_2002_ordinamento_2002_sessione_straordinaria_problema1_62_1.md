@@ -1,171 +1,80 @@
----
-title: 2002 Straordinaria Ordinamento — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2002_ordinamento_2002_sessione_straordinaria_problema1_62_1
-of_item: prob_2002_ordinamento_2002_sessione_straordinaria_problema1_62_1
-prova_id: prova_2002_ordinamento_2002_sessione_straordinaria_problema1_62
-anno: '2002'
-pdf: Prova_Maturita_2002.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2002
----
+
 
 **Problema:** [[Problemi/prob_2002_ordinamento_2002_sessione_straordinaria_problema1_62_1|2002 Straordinaria Ordinamento — Problema 1 — Problema 1]] · **Prova:** [[Prove/2002_ordinamento_2002_sessione_straordinaria_problema1_62|2002 Straordinaria Ordinamento — Problema 1]]
 
-ORDINAMENTO 2002 - SESSIONE STRAORDINARIA - PROBLEMA $1$
+In un sistema cartesiano ortogonale $(Oxy)$ si considerano: la circonferenza $k$ di centro $(8,2)$ e raggio $6$; la bisettrice $b$ del I e III quadrante; una parabola $p$ con asse parallelo all'asse $y$, tangente all'asse $x$ nel semipiano $x>0$ e passante per i punti $M,N$ in cui $b$ interseca $k$. Si chiede l'area tra $p$ e $b$ e le aree delle due regioni in cui $p$ divide il cerchio.
 
-Con riferimento a un sistema monometrico di assi cartesiani ortogonali (Oxy):
+## a) Circonferenza e punti $M$, $N$
 
-a)
+La circonferenza di centro $(8,2)$ e raggio $6$ ha equazione
 
-scrivere l’equazione della circonferenza $k$ con centro nel punto $(8;2)$ e raggio $6$ e
-calcolare le coordinate dei punti $M$ ed $N$ in cui la bisettrice $b$ del $1^\circ$ e $3^\circ$ quadrante
-interseca la curva.
+$$k:\ (x-8)^2+(y-2)^2=36 \quad\Rightarrow\quad x^2+y^2-16x-4y+32=0.$$
 
-La circonferenza ha equazione: $(x-8)^{2} + (y-2)^{2} = 36$ che diventa:
+Intersecandola con la bisettrice $b:\ y=x$ si ottiene
 
-$x^{2} + y^{2} -16x-4y+ 32 = 0$
+$$x^2+x^2-16x-4x+32=0,\qquad 2x^2-20x+32=0,\qquad x^2-10x+16=0,$$
 
-Cerchiamo le intersezioni con la bisettrice del primo e terzo quadrante:
+le cui radici sono $x=2$ e $x=8$. I punti di intersezione sono quindi
 
-${x^{2} + y^{2} -16x-4y+ 32 = 0$
-$y= x$
-$\implies x^{2} + x^{2} -16x-4x+ 32 = 0 , 2x^{2} -20x+ 32 = 0$
+$$M=(2,2),\qquad N=(8,8).$$
 
-$x^{2} -10x+ 16 = 0$ che ha come radici $x=2$ e $x=8$ . Quindi le intersezioni sono:
+## b) Parabola $p$
 
-$M= (2; 2)$ ed $N= (8; 8).$
+Cerchiamo la parabola nella forma $y=ax^2+bx+c$. Imponendo il passaggio per $M$ e $N$:
 
-$b)$
+$$\begin{cases} 4a+2b+c=2 \\ 64a+8b+c=8 \end{cases}$$
 
-Scrivere l’equazione della parabola $p$ avente l’asse parallelo all’asse delle ordinate,
-tangente all’asse delle ascisse in un punto del semipiano $x>0$ e passante per i punti $M$ ed
-$N.$
+Sottraendo la prima dalla seconda si ha $60a+6b=6$, cioè $b=1-10a$; sostituendo si ricava $c=16a$. La parabola diventa allora
 
-La parabola $p$ è del tipo: $y= ax2 + bx+ c$ , che, dovendo passare per $M$ ed $N$ deve
-essere:
+$$y=ax^2+(1-10a)x+16a.$$
 
-{ $2 = 4a+ 2b+ c= 0$
-$8 = 64a+ 8b+ c= 0 \implies {2 = 4a+ 2b+ c= 0$
-$6 = 60a+ 6b$
-$\implies {2 = 4a+ 2(1 -10a) + c$
-$b= 1 -10a$
+Imponiamo la tangenza all'asse $x$, cioè $\Delta=0$ nell'equazione $ax^2+(1-10a)x+16a=0$:
 
-$c= 16a$
-$b= 1 -10a$
+$$(1-10a)^2-4a(16a)=0,\qquad 36a^2-20a+1=0,\qquad a=\tfrac12 \ \ \text{oppure}\ \ a=\tfrac{1}{18}.$$
 
-Quindi la parabola può essere scritta nella forma:
+Per $a=\tfrac{1}{18}$ la tangenza avverrebbe in $x=-4$ (semipiano $x<0$), da scartare. Per $a=\tfrac12$ si ha tangenza in $x=4>0$. Dunque
 
-$y= ax2 +(1 -10a)x+ 16a$ ; imponiamo la tangenza all’asse delle $x:$
+$$p:\ y=\tfrac12 x^2-4x+8=\tfrac12(x-4)^2,$$
 
-${y= ax2 + (1 -10a)x+ 16a$
-$y= 0$
-$\implies ax2 + (1 -10a)x+ 16a= 0 , \Delta = 0$ :
+tangente all'asse $x$ nel punto $(4,0)$.
 
-$(1 -10a)2 -4a(16a) = 0 , 36a^{2} -20a+ 1 = 0 , a= 1$
-$2$ e $a= 1$
-$$ 18 . $$
+## c) Area fra $p$ e $b$
 
-Per $a=$
-$2 ax2 + (1 -10a)x+ 16a= 0$ diventa:
-$2 x^{2} -4x+ 8 = 0, x^{2} -8x+ 16 = 0$
-da cui $x= 4.$
+Le due curve si intersecano in $M$ e $N$, cioè per $x=2$ e $x=8$; nell'intervallo $[2,8]$ la bisettrice sta sopra la parabola. L'area richiesta è
 
-Per $a=$
-$18 ax2 + (1 -10a)x+ 16a= 0$ diventa:
-$18 x^{2} +$
-$9 x+$
-$9 = 0, x^{2} + 8x+ 16 = 0$
-da cui $x= -4.$
+$$A=\int_{2}^{8}\Bigl[x-\bigl(\tfrac12 x^2-4x+8\bigr)\Bigr]\,dx=\int_{2}^{8}\Bigl(-\tfrac12 x^2+5x-8\Bigr)\,dx.$$
 
-La parabola richiesta è quella tangente all’asse $x$ in $x=4,$ che si ottiene per $a=$
-$2$ , quindi
-la sua equazione è:
+Una primitiva è $-\tfrac16 x^3+\tfrac52 x^2-8x$; valutandola agli estremi si ottiene
 
-$p: y=$
-$2 x^{2} -4x+ 8.$
+$$A=18\ \text{u}^2.$$
 
-$c)$
+## d) Intersezioni $k\cap p$ e aree delle due regioni
 
-Calcolare l’area della regione finita di piano delimitata dalla parabola $p$ e dalla bisettrice
-$b.$
+Sostituendo $y=\tfrac12(x-4)^2$ nell'equazione di $k$ e semplificando si perviene alla fattorizzazione
 
-Rappresentiamo graficamente la parabola e la retta.
-$b: y= x , p: y=$
-$2 x^{2} -4x+ 8.$
+$$\Bigl(\tfrac12 x^2-5x+8\Bigr)\Bigl(\tfrac12 x^2-3x+8\Bigr)=0.$$
 
-Le due curve si intersecano per $x=2$ e $x=8,$ quindi l’area è data da:
+Il primo fattore dà $x^2-10x+16=0$, cioè $x=2,8$ (i punti $M$ e $N$). Il secondo fattore, $x^2-6x+16=0$, ha $\Delta=36-64<0$: nessuna radice reale. Dunque $k$ e $p$ non hanno altri punti in comune oltre a $M$ ed $N$.
 
-$Area= \int [x-(1$
-$2 x^{2} -4x+ 8)] dx=$
-$$ 8 2 $$
-$\int (-1$
-$2 x^{2} + 5x-8) dx=$
-$$ 8 2 $$
-$[-1$
-$6 x^{3} + 5$
-$2 x^{2} -8x]$
-$$ 2 8 = $$
 
-$= 18 u^{2}$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="229.492" height="270.307" viewBox="-72 -72 172.119 202.73"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><g fill="gray" stroke="gray"><path fill="none" d="M-72.07 90.225H86.868"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M84.988 87.825c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-62.111" y="90.225" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(152.912 2.153)">x</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-62.111 100.184V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-64.511-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-62.111" y="90.225" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -154.857)">y</text></g><path fill="none" stroke="red" stroke-width=".8" d="M77.309 70.308c0-33-26.75-59.752-59.751-59.752s-59.752 26.752-59.752 59.752 26.751 59.752 59.752 59.752c33 0 59.751-26.751 59.751-59.752Zm-59.751 0"/><g fill="red" stroke="red"><text x="-62.111" y="90.225" fill="red" stroke="none" font-family="cmmi10" font-size="10" transform="translate(131.681 -56.28)">k</text></g><path fill="none" stroke="#00f" stroke-width=".8" d="m-66.095-6.174 1.587 6.855 1.586 6.602 1.587 6.349 1.587 6.096 1.586 5.843 1.587 5.591 1.586 5.338 1.587 5.085 1.586 4.833 1.587 4.58 1.587 4.326 1.586 4.074 1.587 3.822 1.586 3.568 1.587 3.316 1.586 3.063 1.587 2.81 1.587 2.557 1.586 2.305 1.587 2.052 1.586 1.8 1.587 1.546 1.587 1.293 1.586 1.041 1.587.788 1.586.536 1.587.282 1.586.03 1.587-.223 1.587-.476 1.586-.728 1.587-.981 1.586-1.235 1.587-1.486 1.587-1.74 1.586-1.992L-7.39 79.1l1.586-2.498 1.587-2.75 1.586-3.004 1.587-3.256 1.587-3.51 1.586-3.761 1.587-4.015L5.3 52.04l1.587-4.52 1.586-4.773 1.587-5.026 1.587-5.278 1.586-5.531 1.587-5.784 1.586-6.037 1.587-6.289 1.587-6.542 1.586-6.795 1.587-7.048 1.586-7.3 1.587-7.554 1.586-7.806"/><g fill="#00f" stroke="#00f"><text x="-62.111" y="90.225" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(99.062 -103.385)">p</text></g><path fill="none" stroke="#090" stroke-width=".8" d="M-67.09 95.205 47.433-19.32"/><g fill="#090" stroke="#090"><text x="-62.111" y="90.225" fill="#090" stroke="none" font-family="cmmi10" font-size="10" transform="translate(110.387 -96.114)">b</text></g><path stroke="none" d="M-40.444 70.308a1.75 1.75 0 1 0-3.5 0 1.75 1.75 0 0 0 3.5 0m-1.75 0"/><text x="-62.111" y="90.225" stroke="none" font-family="cmmi10" font-size="10" transform="translate(5.593 -23.45)">M</text><path stroke="none" d="M19.308 10.556a1.75 1.75 0 1 0-3.5 0 1.75 1.75 0 0 0 3.5 0m-1.75 0"/><text x="-62.111" y="90.225" stroke="none" font-family="cmmi10" font-size="10" transform="translate(67.011 -83.202)">N</text><path stroke="none" d="M18.958 70.308a1.4 1.4 0 1 0-2.8 0 1.4 1.4 0 0 0 2.8 0m-1.4 0"/><text x="-62.111" y="90.225" stroke="none" font-family="cmmi10" font-size="10" transform="translate(83.202 -9.551)">C</text><path stroke="none" d="M-20.877 90.225a1.4 1.4 0 1 0-2.8 0 1.4 1.4 0 0 0 2.8 0m-1.4 0"/><g stroke="none" font-size="10"><text x="-62.111" y="90.225" font-family="cmr10" transform="translate(28.723 11.033)">(4</text><text x="-53.222" y="90.225" font-family="cmmi10" transform="translate(28.723 11.033)">;</text><text x="-48.778" y="90.225" font-family="cmr10" transform="translate(28.723 11.033)">0)</text></g></g></svg>
+</figure>
 
-$d)$
+Detto $C=(8,2)$ il centro, i vettori $\overline{CM}=(-6,0)$ e $\overline{CN}=(0,6)$ sono ortogonali: l'arco $MN$ sottende un angolo retto al centro, quindi il settore circolare $MCN$ è un quarto del cerchio. Il segmento circolare compreso tra la corda $MN$ e l'arco ha area
 
-Dopo aver stabilito che la circonferenza $k$ e la parabola $p$ non hanno altri punti in comune
-oltre $ad M$ ed $N,$ calcolare le aree delle regioni in cui il cerchio delimitato da $k$ è diviso
-dalla parabola.
+$$\text{segmento}=\frac14\bigl(\pi\cdot 6^2\bigr)-\frac12\cdot 6\cdot 6=9\pi-18.$$
 
-Cerchiamo le intersezioni tra la circonferenza $k$ e la parabola $p:$
+La regione minore, racchiusa tra la parabola e l'arco $MN$, si ottiene aggiungendo al segmento circolare i $18\ \text{u}^2$ compresi tra corda e parabola:
 
-$x^{2} + y^{2} -16x-4y+ 32 = 0$
-$y= 1$
-$2 x^{2} -4x+ 8$
-$\implies$
+$$A_1=(9\pi-18)+18=9\pi\ \text{u}^2.$$
 
-$x^{2} + (1$
-$2 x^{2} -4x+ 8)$
-$-16x-4 (1$
-$2 x^{2} -4x+ 8) + 32 = 0$
+L'altra regione ha come area la differenza tra l'area del cerchio e $A_1$:
 
-$(x^{2}$
-$- 4 x + 8)$
-$-x^{2} = 0 , [(x^{2}$
-$- 4 x + 8) -x] ∙[(x^{2}$
-$- 4 x + 8) +$ x] =
+$$A_2=\pi\cdot 6^2-9\pi=27\pi\ \text{u}^2.$$
 
-$2 x^{2} -5x+ 8)$ ∙(
-$2 x^{2} -3x+ 8) = 0$ , che ha come soluzioni solo $x=2, x=8$ (il secondo
-
-fattore non si annulla mai).
-
-Quindi la circonferenza e la parabola non hanno altri punti in comune oltre $ad M$ ed $N.$
-
-Rappresentiamo nello stesso piano cartesiano la circonferenza e la parabola:
-
-Calcoliamo l’area del segmento circolare MND come differenza tra il settore circolare
-MCND (pari $ad$ un quarto del cerchio) ed il triangolo (rettangolo) MCN.
-
-Si ha:
-
-Area(settore MND) $= 1$
-$4$ Area(cerchio) $-Area(triangolo$ MCN) $= 1$
-$4 (\pi ∙62) -6 ∙6$
-
-$= (9\pi -18) u^{2}$
-
-Quindi le due parti richieste hanno le seguenti aree:
-
-Area(MVND) $= 18 u^{2} + (9\pi -18) u^{2} = 9\pi u^{2} = A^{1}$
-
-$A^{2} =$ Area(cerchio) $-A^{1} = 36 \pi 2 -9 \pi 2 = 27 \pi 2 u^{2} = A^{2}$
-
-Con la collaborazione di Angela Santamaria
+Le due regioni in cui la parabola divide il cerchio hanno quindi aree $A_1=9\pi\ \text{u}^2$ e $A_2=27\pi\ \text{u}^2$.
 
 *Fonte:* [📄 PDF p.62](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

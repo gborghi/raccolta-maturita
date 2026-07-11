@@ -1,217 +1,46 @@
----
-title: 2009 Sessione Ordinaria Estero Europa — Prova — Quesito 8 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_sessione_ordinaria_2009_prova_63_8
-of_item: ques_2009_sessione_ordinaria_2009_prova_63_8
-prova_id: prova_2009_sessione_ordinaria_2009_prova_63
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_8|2009 Sessione Ordinaria Estero Europa — Prova — Quesito 8]] · **Prova:** [[Prove/2009_sessione_ordinaria_2009_prova_63|2009 Sessione Ordinaria Estero Europa — Prova]]
 
-QUESITO $7$
+Data la parabola $x=-ay^2+3y$ (con $a>0$), si determini per quale valore di $a$ l'area della parte finita di piano compresa tra il suo grafico e l'asse $y$ è uguale a $72$.
 
-Il comandante di una nave decide di raggiungere il porto $B$ partendo dal punto A e
-seguendo un percorso rettilineo. A causa di un errore, però, la nave inizia la sua
-navigazione lungo una rotta leggermente diversa da quella prevista. Dopo $5$ ore ci si
-accorge dello sbaglio e il comandante ordina di virare di un angolo di $23^\circ$ in modo da
-dirigere ora esattamente verso il porto $B,$ che viene raggiunto dopo $3$ ore. Se
-l’imbarcazione ha mantenuto sempre una velocità costante, quanto tempo si è perso a
-causa dell’errore?
+La parabola ha asse orizzontale, con la concavità rivolta verso le $x$ negative (il coefficiente di $y^2$ è $-a<0$). Le intersezioni con l'asse $y$ si ottengono ponendo $x=0$:
 
-Detta $v$ la velocità costante, risulta:
+$$-ay^2+3y=0 \;\Rightarrow\; y(-ay+3)=0 \;\Rightarrow\; y=0 \;\lor\; y=\frac{3}{a}.$$
 
-$AC= 5v , CB= 3v , AB=$ tAB∙v
+Il grafico incontra dunque l'asse delle ordinate nei punti $O=(0,\,0)$ e $A=\left(0,\,\dfrac{3}{a}\right)$.
 
-$AB2 = AC2 + BC2 -2 ∙AC∙BC∙cos(157^\circ ) = 25v^{2} + 9v^{2} -30v2cos(157^\circ ) \cong 61.62 v^{2}$
+Il vertice ha l'ascissa massima, che si trova annullando $\dfrac{dx}{dy}=-2ay+3$:
 
-Quindi:
+$$y_V=\frac{3}{2a},\qquad x_V=-a\left(\frac{3}{2a}\right)^2+3\cdot\frac{3}{2a}=-\frac{9}{4a}+\frac{9}{2a}=\frac{9}{4a}.$$
 
-$AB= \sqrt{61}.62 v^{2} \cong 7.85 v$ quindi $tAB= 7.85$ ore
+Quindi $V=\left(\dfrac{9}{4a},\,\dfrac{3}{2a}\right)$.
 
-Il tempo perso è quindi pari a : $8$ ore $- 7.85$ ore $= 0.15 ore= 9$ minuti
 
-QUESITO $8$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="230.658" height="248.79" viewBox="-72 -72 172.993 186.592"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-61.234 102.172H87.742"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M85.862 99.772c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-49.284" y="102.172" stroke="none" font-family="cmmi10" font-size="10" transform="translate(140.96 2.153)">x</text><path fill="none" d="M-49.284 114.122V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-51.684-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-49.284" y="102.172" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -166.804)">y</text><path fill="#e1e1ff" stroke="none" d="m-49.284 102.172 5.376-1.815 5.239-1.815 5.1-1.815 4.963-1.815 4.825-1.815 4.687-1.815 4.55-1.815 4.41-1.815 4.274-1.815 4.136-1.815 3.997-1.815 3.86-1.815 3.723-1.815 3.584-1.815 3.446-1.816 3.309-1.815 3.17-1.815 3.034-1.815 2.895-1.815 2.757-1.815 2.62-1.815 2.481-1.815 2.344-1.815 2.206-1.815 2.068-1.815 1.93-1.815 1.793-1.815 1.654-1.815 1.517-1.815 1.378-1.815 1.242-1.815 1.103-1.815.966-1.815.826-1.816.69-1.815.552-1.815.414-1.815.276-1.815.139-1.815V29.57l-.137-1.815-.276-1.815-.412-1.815-.552-1.815-.688-1.815-.827-1.815-.964-1.815-1.103-1.815-1.24-1.815-1.378-1.815-1.515-1.815-1.654-1.815-1.79-1.816-1.931-1.815-2.066-1.815L39.51.53l-2.342-1.815L34.687-3.1 32.07-4.916 29.312-6.73 26.42-8.546l-3.033-1.815-3.169-1.815-3.308-1.815-3.445-1.815-3.584-1.815-3.72-1.815-3.86-1.815-3.997-1.815-4.135-1.815-4.272-1.815-4.411-1.816-4.548-1.815-4.687-1.815-4.823-1.815-4.962-1.815-5.1-1.815-5.238-1.815-5.374-1.815z"/><path fill="none" stroke="#00f" stroke-width=".8" d="m-71.87 109.342 5.783-1.772 5.65-1.772 5.52-1.772 5.389-1.772 5.257-1.773 5.125-1.772 4.994-1.772 4.863-1.772 4.731-1.772 4.6-1.773 4.469-1.772 4.337-1.772 4.206-1.772 4.074-1.772 3.943-1.773 3.811-1.772 3.68-1.772 3.549-1.772 3.417-1.772 3.286-1.773 3.154-1.772 3.023-1.772 2.892-1.772 2.76-1.772 2.629-1.773 2.497-1.772 2.366-1.772 2.235-1.772 2.103-1.772 1.971-1.773 1.84-1.772 1.71-1.772 1.577-1.772 1.446-1.772 1.315-1.773 1.183-1.772 1.052-1.772.92-1.772.79-1.772.657-1.773.526-1.772.395-1.772.264-1.772.132-1.772v-1.773l-.131-1.772-.262-1.772-.393-1.772-.526-1.773-.657-1.772-.787-1.772-.92-1.772-1.05-1.772-1.183-1.773-1.312-1.772-1.445-1.772-1.577-1.772L46.3 6.555l-1.838-1.773L42.49 3.01l-2.102-1.772-2.234-1.772-2.364-1.772-2.496-1.773-2.628-1.772-2.76-1.772-2.889-1.772-3.022-1.772-3.154-1.773-3.285-1.772-3.415-1.772-3.547-1.772-3.68-1.772-3.81-1.773-3.94-1.772-4.074-1.772-4.205-1.772-4.337-1.772-4.466-1.773-4.599-1.772-4.73-1.772-4.863-1.772-4.99-1.772-5.126-1.773-5.256-1.772-5.388-1.772-5.517-1.772-5.65-1.772-5.782-1.773"/><path stroke="none" d="M-47.604 102.172a1.68 1.68 0 1 0-3.36 0 1.68 1.68 0 0 0 3.36 0m-1.68 0"/><text x="-49.284" y="102.172" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 3.417)">O</text><path stroke="none" d="M-47.604-41.229a1.68 1.68 0 1 0-3.36 0 1.68 1.68 0 0 0 3.36 0m-1.68 0"/><text x="-49.284" y="102.172" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.033 -139.985)">A</text><path stroke="none" d="M59.947 30.472a1.68 1.68 0 1 0-3.36 0 1.68 1.68 0 0 0 3.36 0m-1.68 0"/><text x="-49.284" y="102.172" stroke="none" font-family="cmmi10" font-size="10" transform="translate(111.084 -68.284)">V</text></g></svg>
+</figure>
 
-Data la parabola $x= -ay2 + 3y$ (con $a> 0),$ si determini per quale valore di a l’area
-della parte finita di piano compresa tra il suo grafico e l’asse $y$ è uguale a $72.$
+La regione richiesta è il **segmento parabolico** delimitato dalla corda $OA$ (che giace sull'asse $y$) e dall'arco di parabola. Per il teorema di Archimede la sua area vale $\dfrac{2}{3}$ del prodotto tra la corda (la base) e la freccia (la massima distanza dell'arco dalla corda):
 
-La parabola ha vertice in $V=$ (
-$4a;$
-$2a)$ , passa per $O= (0; 0) , A= (0;$
-a)
+$$\text{base}=\overline{OA}=\frac{3}{a},\qquad \text{freccia}=x_V=\frac{9}{4a}.$$
 
-L’area richiesta è quella di un segmento parabolico, che, per
-il teorema di Archimede è uguale a:
+$$\text{Area}(S)=\frac{2}{3}\cdot\frac{3}{a}\cdot\frac{9}{4a}=\frac{9}{2a^2}.$$
 
-Area(S) =
-$3$ ∙
-a∙
-$4a=$
-$2a^{2} = 72$ da cui:
+Lo stesso risultato si ottiene per integrazione, poiché su $[0,\,3/a]$ è $x=-ay^2+3y\ge 0$:
 
-$a^{2} = 1$
-$16 \implies a= 1$
+$$\text{Area}(S)=\int_{0}^{3/a}\left(-ay^2+3y\right)\,dy=\left[-\frac{a\,y^3}{3}+\frac{3y^2}{2}\right]_{0}^{3/a}=-\frac{9}{a^2}+\frac{27}{2a^2}=\frac{9}{2a^2}.$$
 
-QUESITO $9$
+Imponendo che l'area sia uguale a $72$:
 
-Si dimostri che un numero di quattro cifre tutte uguali è divisibile per $101.$
+$$\frac{9}{2a^2}=72 \;\Rightarrow\; a^2=\frac{9}{144}=\frac{1}{16}\;\Rightarrow\; a=\frac{1}{4}$$
 
-$N= aaaa= a∙103 + a∙102 + a∙101 + a∙100 = a∙(103 + 102 + 101 + 100) = a∙1111 =$
+(si scarta la soluzione negativa perché $a>0$).
 
-$= a∙(101 ∙11) = (11a) ∙101$ : divisibile per $101$ per ogni $a= 0,1,2,3, ... ,9$
+Il valore cercato è dunque
 
-N.B.
-
-0000 $= 101 ∙00$ , 1111 $= 101 ∙11$ , 2222 $= 101 ∙22$ , 3333 $= 101 ∙33$ , ecc.
-
-QUESITO $10$
-
-Si enunci il teorema di Rolle e si mostri, con opportuni esempi, che se una qualsiasi delle
-tre condizioni previste non è soddisfatta, il teorema non è valido.
-
-Una funzione di equazione $y=$ f(x) è definita in un intervallo chiuso e limitato [a; b] e soddisfa le seguenti
-ipotesi:
-$1)$ è continua in tutto l’intervallo;
-$2)$ è derivabile nell’intervallo aperto (a: $b);$
-$3)$ risulta f(a) = f(b).
-Esiste allora almeno un punto $c$ interno all’intervallo [a; b] in cui si annulla la derivata.
-
-Facciamo cadere una (sola) delle ipotesi e dimostriamo, con un controesempio, che il
-teorema non vale.
-
-$1)$ La funzione non è continua in tutto l’intervallo chiuso, in particolare supponiamo che non sia
-continua in un estremo, per esempio a (se non fosse continua in un punto interno cadrebbe anche
-l’ipotesi $2,$ poiché se non fossi continua non sarebbe neanche derivabile).
-
-Un semplice controesempio è fornito dalla seguente funzione:
-
-f(x) = {x,
-se $1 < x\le 2$
-$2,$ se $x= 1$
-
-La funzione soddisfa tutte le ipotesi, tranne la continuità in $x= 1.$ Il teorema di Rolle non è
-valido per questa funzione, poiché in ogni punto interno all’intervallo $(1; 2)$ la derivata vale
-$1,$ quindi non si annulla mai.
-
-$2)$ La funzione non è derivabile in tutto l’intervallo aperto.
-
-Si consideri il seguente controesempio:
-
-f(x) $= |x| , -1 \le x\le 1$
-
-La funzione soddisfa tutte le ipotesi tranne la derivabilità in $x= 0$ (dove c’è un punto
-angoloso). Il teorema non vale: infatti non esiste alcun punto interno all’intervallo in cui la
-derivata prima si annulla: in $(-1; 0)$ la derivata vale $-1$ , in $(0; 1)$ la derivata vale $+1$ .
-
-$3)$ La funzione non soddisfa la condizione f(a) = f(b).
-
-Si consideri il seguente controesempio:
-
-f(x) $= x^{2} , 1 \le x\le 2$
-
-La funzione soddisfa tutte le ipotesi tranne f(a) = f(b): infatti $f(1)=1$ ed $f(2) = 4$
-Il teorema non vale: infatti non esiste alcun punto interno all’intervallo in cui la derivata
-prima si annulla: f’(x) $= 2x$ si annulla solo in $x= 0,$ che non è interno all’intervallo dato.
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
-
-$M$ suppletiva 2009
-Indirizzo $M:$ ordinamento + liceo della comunicazione
-CORSO DI ORDINAMENTO
-Sessione suppletiva 2009
-Tema di MATEMATICA
-Il candidato risolva uno dei due problemi e risponda a $5$ dei $10$ quesiti del
-questionario.
-PROBLEMA $1$
-I due segmenti adiacenti $OA, AB$ sono uguali ed hanno una lunghezza data a. Nel
-medesimo semipiano rispetto alla retta $OB$ si descrivano due semicirconferenze di
-diametri rispettivi $OA$ ed $OB,$ e per il punto O si conduca la semiretta tangente
-comune, sulla quale si prenda il segmento $OC =$ a. Con origine O, si conduca una
-semiretta, che forma con $OB$ un angolo $\alpha$ e interseca in $P$ e $Q$ le semicirconferenze.
-$1.$ Si calcoli il rapporto:
-
-e lo si esprima in funzione di $x=tg \alpha$ , controllando che risulta:
-
-$2.$ Prescindendo dalla questione geometrica, si studi la funzione f(x) e se ne
-tracci il grafico $\gamma$ .
-$3.$ Si dica per quale valore di $\alpha$ si hanno rispettivamente il massimo e il minimo
-del rapporto $(1).$
-$4.$ Si determini l’area della superficie piana, finita, delimitata dall’asse delle
-ordinate, dalla curva $\gamma$ e dal suo asintoto.
-
-$M$ suppletiva 2009
-PROBLEMA $2$
-Sia data la funzione:
-
-f(x) =
-
-$1.$ Questa funzione è continua nel punto di ascissa $0$ ?
-E’ derivabile in tale punto ?
-$2.$ Si studi la funzione f(x) e se ne tracci il grafico $\gamma$ , su un piano riferito $ad$ un
-sistema di assi cartesiani ortogonali (Oxy).
-$3.$ Si calcoli l’espressione, in funzione di (
-), dell’integrale
-
-$4.$ Si faccia vedere che I(t) tende verso un limite finito quando $t$ tende a $0.$
-Cosa rappresenta questo limite nel grafico precedente ?
-QUESTIONARIO
-$1.$ Una piramide, avente area di base $B$ e altezza $h,$ viene secata con un piano
-parallelo alla base. Si calcoli a quale distanza dal vertice si deve condurre tale
-piano, affinchè il prisma che ha per basi la sezione di cui sopra e la sua
-proiezione ortogonale sul piano di base della piramide abbia volume massimo.
-$2.$ Si calcoli il limite della funzione
-quando $x$ tende a $1.$
-$3.$ Si calcoli il volume del solido generato dalla rotazione attorno all’asse $x$ della
-porzione di piano limitata dalla curva $y =$
-, dall’asse $x$ e dalle rette
-$x = 1, x =$
-$4.$ Dato un triangolo rettangolo inscritto in un semicerchio, se sui suoi cateti
-presi come diametri ed esternamente si costruiscono due semicerchi, da
-questi e dal dato semicerchio sono determinati due menischi, detti lunule
-d’Ippocrate. Si dimostri che la loro somma ha la stessa area del triangolo.
-$5.$ Si determini il luogo $\gamma$ dei punti di intersezione delle due rette di equazioni:
-$\lambda x - y - (\lambda + 2) = 0$ ,
-$(1 - \lambda ) x + y + 2 = 0,$
-descritto al variare di $\lambda$ , parametro reale qualunque. Si disegni la curva $\gamma$ .
-
-$M$ suppletiva 2009
-$6.$ Sono dati un angolo $\alpha$ di
-radianti e un angolo $\beta$ di $539$ gradi. Si verifichi che
-sono entrambi maggiori di un angolo giro e minori di due angoli giro. Si dica
-quale dei due è il maggiore. Si dica inoltre se è più grande il seno di $\alpha$ o il seno
-di $\beta$ .
-$7.$ Il comandante di una nave decide di raggiungere il porto $B$ partendo dal punto
-A e seguendo un percorso rettilineo. A causa di un errore, però, la nave inizia
-la sua navigazione lungo una rotta leggermente diversa da quella prevista.
-Dopo $5$ ore ci si accorge dello sbaglio e il comandante ordina di virare di un
-angolo di $23^\circ$ in modo da dirigere ora esattamente verso il porto $B,$ che viene
-raggiunto dopo $3$ ore. Se l’imbarcazione ha mantenuto sempre una velocità
-costante, quanto tempo si è perso a causa dell’errore?
-$8.$ Data la parabola $x = -a$
-(con a $> 0),$ si determini per quale valore di a
-l’area della parte finita di piano compresa tra il suo grafico e l’asse $y$ è uguale
-a $72.$
-$9.$ Si dimostri che un numero di quattro cifre tutte uguali è divisibile per $101.$
-$10.$ Si enunci il teorema di Rolle e si mostri, con opportuni esempi, che se una
-qualsiasi delle tre condizioni previste non è soddisfatta, il teorema non è
-valido.
-
-____________ _
-Durata massima della prova: $6$ ore.
-E’ consentito soltanto l’uso di calcolatrici non programmabili.
-Non è ammesso lasciare l’aula degli esami prima che siano trascorse tre ore dalla dettatura del tema.
-
-Sessione ordinaria - Calendario australe - 2009 - Liceo di ordinamento
+$$\boxed{\,a=\dfrac{1}{4}\,}.$$
 
 *Fonte:* [📄 PDF p.79](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

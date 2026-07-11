@@ -1,240 +1,102 @@
----
-title: 2007 LS Ordinamento Straordinaria — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema1_121_1
-of_item: prob_2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema1_121_1
-prova_id: prova_2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema1_121
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Problema:** [[Problemi/prob_2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema1_121_1|2007 LS Ordinamento Straordinaria — Problema 1 — Problema 1]] · **Prova:** [[Prove/2007_liceo_scientifico_ordinamento_2007_sessione_straor_problema1_121|2007 LS Ordinamento Straordinaria — Problema 1]]
 
-Liceo Scientifico Ordinamento 2007
-Sessione $Straordinaria-$ Problema $1$
+Data una semicirconferenza di diametro $AB=2R$, si prende sul prolungamento di $AB$, dalla parte di $B$, un punto $C$ con $BC=AB=2R$ (dunque $AC=4R$). Detto $P$ un punto della semicirconferenza e posto $x=A\hat{B}P$, si studia il rapporto $y=\dfrac{CP^2}{AP\cdot PB}$.
 
-ORDINAMENTO 2007 - SESSIONE STRAORDINARIA - PROBLEMA $1$
+## a) Espressione del rapporto
 
-Data una semicirconferenza di diametro $AB=2R$ , si prenda sul prolungamento di $AB,$
-dalla parte di $B,$ un punto $C$ tale che sia $BC = AB.$
-Essendo $P$ un punto della semicirconferenza:
+Poiché $P$ appartiene alla semicirconferenza di diametro $AB$, l'angolo $A\hat{P}B$ è retto. Nel triangolo rettangolo $APB$, di ipotenusa $AB=2R$ e angolo $x$ in $B$, si ha
 
-Si esprima per mezzo di $R$ e dell’ampiezza dell’angolo $x=$ AB̂P il rapporto
-$y=$
-$$ CP2 $$
-AP∙PB .
+$$AP=2R\sin x,\qquad PB=2R\cos x.$$
 
-Calcoliamo la lunghezza dei segmenti richiesti:
+Inoltre $AC=AB+BC=4R$ e l'angolo $P\hat{A}C=P\hat{A}B=\dfrac{\pi}{2}-x$. Applicando il teorema del coseno al triangolo $APC$:
 
-$AP= 2Rsenx , PB= 2Rcosx$
+$$CP^2=AP^2+AC^2-2\,AP\cdot AC\cdot\cos\!\left(\frac{\pi}{2}-x\right)=4R^2\sin^2 x+16R^2-16R^2\sin^2 x=16R^2-12R^2\sin^2 x.$$
 
-Applicando il teorema del coseno al triangolo APC risulta:
+Quindi
 
-$PC2 = AP2 + AC2 -2AP∙AC∙cos (\pi$
-$2 -x) = 4R2sen2x+ 16R^{2} -16R2senx senx=$
-$= 16R^{2} -12R2sen2x$
+$$y=\frac{CP^2}{AP\cdot PB}=\frac{16R^2-12R^2\sin^2 x}{4R^2\sin x\cos x}=\frac{4-3\sin^2 x}{\sin x\cos x}.$$
 
-Risulta quindi:
+## b) Studio della funzione
 
-$y=$
-$$ CP2 $$
-$AP∙PB= 16R^{2} -12R2sen2x$
-$4R2senx$ cosx
-$= 4 -3sen2x$
-senx $cosx= y$ , con $0 < x< \pi$
+Per esprimere $y$ mediante $\tan x$ osserviamo che $4-3\sin^2 x=4\sin^2 x+4\cos^2 x-3\sin^2 x=\sin^2 x+4\cos^2 x$. Dividendo numeratore e denominatore per $\cos^2 x$:
 
-Si studi nell’intervallo $[0; 2\pi$ ] la funzione $y =$ f(x) espressa per mezzo della tangente di $x.$
+$$y=f(x)=\frac{\tan^2 x+4}{\tan x}=\tan x+\frac{4}{\tan x}.$$
 
-Esprimiamo la funzione $y=f(x)$ in funzione di $tg x,$ dividendo numeratore e denominatore
-per $cos2 x:$
+La funzione ha periodo $T=\pi$, quindi basta studiarla nell'intervallo $[0;\pi]$.
 
-Liceo Scientifico Ordinamento 2007
-Sessione $Straordinaria-$ Problema $1$
+**Dominio.** Deve essere $\tan x$ definita e non nulla: $x\neq 0,\ \dfrac{\pi}{2},\ \pi$.
 
-$y=$ f(x) $= 4 -3sen2x$
-senx $cosx= 4sen2x+ 4 cos2 x-3sen2x$
-senx cosx
-$= sen2x+ 4 cos2 x$
-senx cosx
-$= tg2x+ 4$
-$$ tgx $$
+**Intersezioni con gli assi.** Il numeratore $\tan^2 x+4$ è sempre positivo, quindi $f(x)$ non si annulla mai; $x=0$ è escluso: nessuna intersezione con gli assi.
 
-$y=$ f(x) $= tg2x+ 4$
-$$ tgx $$
+**Segno.** Essendo il numeratore positivo, il segno di $f$ coincide con quello di $\tan x$:
 
-Dobbiamo studiare la funzione nell’intervallo $[0; 2\pi$ ], ma osserviamo che la funzione ha
-periodo $T= \pi$ , quindi possiamo limitare lo studio all’intervallo $[0; \pi$ ].
+$$f(x)>0\ \text{per}\ 0<x<\frac{\pi}{2},\qquad f(x)<0\ \text{per}\ \frac{\pi}{2}<x<\pi.$$
 
-Dominio:
+**Limiti (asintoti verticali).**
 
-$0 < x< \pi$
-$2 , \pi$
-$2 < x< \pi$
+$$\lim_{x\to 0^+}\frac{\tan^2 x+4}{\tan x}=+\infty\quad\Rightarrow\quad x=0\ \text{asintoto verticale};$$
 
-Intersezioni con gli assi:
+$$\lim_{x\to (\pi/2)^-}f(x)=+\infty,\qquad \lim_{x\to (\pi/2)^+}f(x)=-\infty\quad\Rightarrow\quad x=\frac{\pi}{2}\ \text{asintoto verticale};$$
 
-$x=0$ non ha senso
-$y=0: tg2x+ 4 = 0$ , mai.
+$$\lim_{x\to \pi^-}\frac{\tan^2 x+4}{\tan x}=-\infty\quad\Rightarrow\quad x=\pi\ \text{asintoto verticale}.$$
 
-Segno ella funzione:
+**Derivata prima.**
 
-Essendo il numeratore sempre positivo, la funzione è positiva dove è positiva tgx, quindi:
+$$f'(x)=\frac{\tan^4 x-3\tan^2 x-4}{\tan^2 x}=\frac{(\tan^2 x-4)(\tan^2 x+1)}{\tan^2 x}.$$
 
-f(x) $> 0$ se $0 < x< \pi$
+Poiché $\tan^2 x+1>0$ e $\tan^2 x>0$, si ha $f'(x)\ge 0\iff \tan^2 x\ge 4\iff |\tan x|\ge 2$. Posto
 
-Limiti:
+$$\alpha=\arctan 2\approx 1{,}107\ \text{rad},\qquad \beta=\pi-\arctan 2\approx 2{,}034\ \text{rad},$$
 
-$$ lim $$
-$x\to 0+$
-$tg2x+ 4$
-$$ tgx $$
-$= +\infty :x= 0$ asintoto verticale
+nell'intervallo $\left(0;\dfrac{\pi}{2}\right)$ è $\tan x\ge 2$ per $x\ge\alpha$; nell'intervallo $\left(\dfrac{\pi}{2};\pi\right)$ è $\tan x\le -2$ per $x\le\beta$. Dunque:
 
-$$ lim $$
-$x\to (\pi$
--
-$tg2x+ 4$
-$$ tgx = lim $$
-$x\to (\pi$
--
-$tg2x$
-$tgx=$
-$$ lim $$
-$x\to (\pi$
-$-tgx= +\infty$
+$$f\ \text{decrescente su}\ (0,\alpha)\ \text{e su}\ (\beta,\pi);\qquad f\ \text{crescente su}\ \left(\alpha,\tfrac{\pi}{2}\right)\ \text{e su}\ \left(\tfrac{\pi}{2},\beta\right).$$
 
-$$ lim $$
-$x\to (\pi$
-$tg2x+ 4$
-$$ tgx = lim $$
-$x\to (\pi$
-$tg2x$
-$tgx=$
-$$ lim $$
-$x\to (\pi$
-$+ tgx= -\infty$
+In $x=\alpha$ si ha un **minimo relativo** e in $x=\beta$ un **massimo relativo**, di ordinate (ricordando $\tan\alpha=2$, $\tan\beta=-2$):
 
-Quindi $x=$
-$\pi$
-$2$ è asintoto verticale
+$$f(\alpha)=\frac{4+4}{2}=4,\qquad f(\beta)=\frac{4+4}{-2}=-4.$$
 
-$$ lim $$
-$x\to \pi -$
-$tg2x+ 4$
-$$ tgx $$
-$= -\infty :x= \pi$ asintoto verticale
+**Derivata seconda (concavità).**
 
-Derivata prima:
+$$f''(x)=\frac{(2\tan^4 x+8)(\tan^2 x+1)}{\tan^3 x}\ge 0\iff \tan x>0\iff 0<x<\frac{\pi}{2}.$$
 
-f'(x) $= tg4 -3tg2x-4$
-$tg2x$
-$\ge 0$ se $tg4 -3tg2x-4 \ge 0 , (tg2x-4)(tg2x+ 1) \ge 0$
+Quindi il grafico volge la concavità verso l'alto su $\left(0;\dfrac{\pi}{2}\right)$ e verso il basso su $\left(\dfrac{\pi}{2};\pi\right)$; non vi sono flessi.
 
-Liceo Scientifico Ordinamento 2007
-Sessione $Straordinaria-$ Problema $1$
+Il grafico nell'intervallo $[0;\pi]$ (poi periodico) è il seguente:
 
-$tg2x-4 \ge 0 , tgx\le -2$ vel $tgx\ge 2$
 
-Posto $\alpha =$ arctg $2 \cong 1.11$ e $\beta = arctg(-2) = -arctg(2) = \pi -\alpha \cong 2.03$ risulta
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="257.971" height="286.802" viewBox="-72 -72 193.478 215.102"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4" transform="matrix(1 0 0 -1 -52.922 35.28)"><clipPath id="pgf60430db74fc2b4dbd18bd52ad79f6f7dcp1"><path d="M-19.348-107.55v215.1h193.479v-215.1Zm193.479 215.1"/></clipPath><g clip-path="url(#pgf60430db74fc2b4dbd18bd52ad79f6f7dcp1)"><path fill="none" d="M-19.348 0h193.079"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M171.85 2.4c.38-1.44 1.228-2.12 2.08-2.4-.852-.28-1.7-.96-2.08-2.4"/><text x="-52.922" y="35.281" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 230.586 33.128)">x</text><path fill="none" d="M0-103.568v206.736"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-2.4 101.288c1.44.38 2.12 1.226 2.4 2.08.28-.854.96-1.7 2.4-2.08"/><text x="-52.922" y="35.281" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 50.292 144.326)">y</text><path fill="none" stroke-dasharray="3.0,3.0" d="M75.979-103.568v207.136M151.958-103.568v207.136"/><path fill="none" stroke="#00f" stroke-width=".8" d="m15.962 95.761.834-4.821.834-4.372.834-3.979.834-3.641.834-3.333.834-3.073.834-2.833.834-2.628.834-2.436.834-2.273.834-2.115.834-1.975.834-1.851.834-1.74.834-1.634.834-1.537.834-1.446.834-1.367.834-1.288.834-1.218.834-1.148.834-1.09.834-1.027.834-.971.834-.917.834-.87.834-.821.834-.774.834-.73.834-.685.834-.642.834-.604.834-.563.834-.521.834-.485.834-.44.834-.404.834-.363.834-.32.834-.278.834-.233.834-.189.834-.14.834-.086.834-.034.834.026.834.092.834.16.834.237.834.32.834.42.834.529.835.65.834.794.834.96.834 1.158.834 1.392.834 1.672.834 2.021.834 2.45.834 2.997.834 3.713.834 4.66.834 5.955.834 7.825.834 10.627.834 15.12.834 22.99.834 38.906M78.358-163.423l1.037 48.562 1.037 25.628 1.037 15.71 1.037 10.514 1.037 7.454 1.037 5.5 1.037 4.17 1.037 3.226 1.037 2.531 1.037 2.006 1.037 1.595 1.037 1.267 1.037 1 1.037.78 1.037.598 1.037.44 1.037.305 1.037.186 1.037.08 1.037-.015 1.037-.101 1.037-.181 1.037-.256 1.037-.323 1.037-.392 1.037-.454 1.037-.519 1.037-.578 1.037-.642 1.037-.704 1.037-.763 1.037-.83 1.037-.896 1.037-.964 1.037-1.039 1.037-1.113 1.037-1.192 1.037-1.278 1.037-1.374 1.037-1.47 1.036-1.578 1.037-1.698 1.037-1.826 1.037-1.968 1.037-2.125 1.037-2.297 1.037-2.49 1.037-2.718 1.037-2.967 1.037-3.252 1.037-3.574 1.037-3.958 1.037-4.39 1.037-4.91 1.037-5.522 1.037-6.248 1.037-7.15 1.037-8.25 1.037-9.617 1.037-11.354 1.037-13.641 1.037-16.643 1.037-20.835 1.037-26.797 1.037-35.718 1.037-50.081 1.037-75.214 1.037-125.799 1.037-253.408"/><path stroke="none" d="M56.945 31.867c0 .31-1.522.56-3.4.56s-3.4-.25-3.4-.56 1.522-.56 3.4-.56 3.4.25 3.4.56M101.784-31.867c0 .31-1.523.56-3.4.56s-3.4-.25-3.4-.56 1.522-.56 3.4-.56 3.4.25 3.4.56m-3.4 0"/><g stroke="none" font-size="7"><text x="-52.922" y="35.281" font-family="cmr7" transform="matrix(1 0 0 -1 110 72.43)">(</text><text x="-49.797" y="35.281" font-family="cmmi7" transform="matrix(1 0 0 -1 110 72.43)">®;</text><text x="-40.858" y="35.281" font-family="cmr7" transform="matrix(1 0 0 -1 110 72.43)">4)</text></g><g stroke="none" font-size="7"><text x="-52.922" y="35.281" font-family="cmr7" transform="matrix(1 0 0 -1 154.839 -5.369)">(</text><text x="-49.797" y="35.281" font-family="cmmi7" transform="matrix(1 0 0 -1 154.839 -5.369)">¯</text><text x="-44.903" y="35.281" font-family="cmmi7" transform="matrix(1 0 0 -1 154.839 -5.369)">;</text><text x="-41.163" y="35.281" font-family="cmsy7" transform="matrix(1 0 0 -1 154.839 -5.369)">¡</text><text x="-34.913" y="35.281" font-family="cmr7" transform="matrix(1 0 0 -1 154.839 -5.369)">4)</text></g><g stroke="none"><text x="-51.722" y="32.594" font-family="cmmi5" font-size="5" transform="matrix(1 0 0 -1 125.534 23.721)">¼</text><path d="M73.812-9.61h4.335v-.4h-4.335z"/><text x="-51.256" y="37.69" font-family="cmr5" font-size="5" transform="matrix(1 0 0 -1 125.534 23.721)">2</text></g><text x="-52.922" y="35.281" stroke="none" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 202.417 25.547)">¼</text></g></g></svg>
+</figure>
 
-$\alpha \le x< \pi$
-$2$ vel $\pi$
-$2 < x\le \beta$
+## c) Valore di $x$ per cui $y$ è minimo
 
-Quindi la funzione è crescente se $\alpha < x<$
-$\pi$
-$2$ e per
+Nell'intervallo $0<x<\dfrac{\pi}{2}$ il rapporto $y$ assume il valore minimo per $x=\alpha=\arctan 2$. In gradi e primi sessagesimali:
 
-$\pi$
-$2 < x< \beta$ , decrescente per $0 < x< \alpha$ e $\beta < x< \pi$
+$$\alpha=\arctan 2\approx 1{,}107\ \text{rad}=63{,}435^\circ=63^\circ+0{,}435\cdot 60'\approx 63^\circ\,26'.$$
 
-Per $x= \alpha$ abbiamo un minimo relativo, di ordinata
+## d) Area della regione
 
-$f(\alpha ) =$
-$$ 4+4 $$
-$2 = 4$ ; per $x= \beta$ abbiamo un massimo
-relativo, di ordinata $f(\beta ) =$
-$$ 4+4 $$
-$-2 = -4$
+La curva è positiva su $\left(\dfrac{\pi}{4};\dfrac{\pi}{3}\right)$, quindi l'area vale
 
-Derivata seconda:
+$$\text{Area}=\int_{\pi/4}^{\pi/3}\left(\tan x+\frac{4}{\tan x}\right)dx=\Big[-\ln|\cos x|+4\ln|\sin x|\Big]_{\pi/4}^{\pi/3}.$$
 
-f''(x) $= 2tg6x+ 2tg4x+ 8tg2x+ 8$
-$tg3x$
-$(2tg4x+ 8)(tg2x+ 1)$
-$tg3x$
-$\ge 0$ se $tgx> 0, 0 \le x< \pi$
+Nell'estremo superiore $x=\dfrac{\pi}{3}$ (con $\cos\dfrac{\pi}{3}=\dfrac{1}{2}$, $\sin\dfrac{\pi}{3}=\dfrac{\sqrt3}{2}$):
 
-Quindi il grafico volge la concavità verso l’alto se $0 < x<$
-$\pi$
-$2$ e verso il basso se
-$\pi$
-$2 < x< \pi$
-Non si hanno flessi.
+$$-\ln\frac{1}{2}+4\ln\frac{\sqrt3}{2}=\ln 2+2\ln 3-4\ln 2=2\ln 3-3\ln 2.$$
 
-Il grafico della funzione nell’intervallo richiesto è il seguente:
+Nell'estremo inferiore $x=\dfrac{\pi}{4}$ (con $\cos\dfrac{\pi}{4}=\sin\dfrac{\pi}{4}=\dfrac{\sqrt2}{2}$):
 
-Liceo Scientifico Ordinamento 2007
-Sessione $Straordinaria-$ Problema $1$
+$$-\ln\frac{\sqrt2}{2}+4\ln\frac{\sqrt2}{2}=3\ln\frac{\sqrt2}{2}=3\left(-\frac{1}{2}\ln 2\right)=-\frac{3}{2}\ln 2.$$
 
-Si calcoli in gradi e primi (sessagesimali) il valore di $x,$ nell’intervallo $0 < x<$
-$\pi$
-$2$ , per cui il
-rapporto $y$ assume il valore minimo.
+Pertanto
 
-Abbiamo visto nel punto precedente che la funzione assume nell’intervallo $0 < x<$
-$\pi$
-$2$ il
-valore minimo per $\alpha =$ arctg $2 \cong 1.107 radianti= 63.435^\circ = 63^\circ + 0.435 ∙60' = 63^\circ 26'$
+$$\text{Area}=\left(2\ln 3-3\ln 2\right)-\left(-\frac{3}{2}\ln 2\right)=2\ln 3-\frac{3}{2}\ln 2\approx 1{,}16\ u^2.$$
 
-Si calcoli l’area della regione finita di piano delimitata dalla curva rappresentativa della
-funzione $y =$ f(x), dall’asse delle ascisse e dalle rette di equazione $x=$
-$\pi$
-$4$ e $x=$
-$\pi$
-
-L’area richiesta si ottiene calcolando il seguente integrale:
-
-$Area= \int tg2x+ 4$
-$$ tgx dx $$
-$\pi$
-$\pi$
-$= \int (tgx+ 4$
-tgx) $dx= \int$ (senx
-$cosx+ 4$ ∙cosx
-senx) $dx=$
-$\pi$
-$\pi$
-$\pi$
-$\pi$
-
-$= \int (--senx$
-$cosx+ 4$ ∙cosx
-senx) $dx= [-ln|cosx| + 4 ln|senx|]\pi$
-$\pi$
-$\pi$
-$\pi$
-$= -ln(1$
-$2) + 4ln(\sqrt{3}$
-$2 ) -$
-$-(-ln(\sqrt{2}$
-$2 ) + 4ln(\sqrt{2}$
-$2 )) = ln2 + 4ln\sqrt{3} -4ln2 -3ln(\sqrt{2}$
-$2 ) = -3ln2 + 2ln3 -3ln2-1$
-$= -3ln2 + 2ln3 + 3$
-$2 ln2 = 2ln3 -3$
-$2 ln2 \cong 1.16 u^{2}$
-
-Con la collaborazione di Angela Santamaria
+*Con la collaborazione di Angela Santamaria.*
 
 *Fonte:* [📄 PDF p.121](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

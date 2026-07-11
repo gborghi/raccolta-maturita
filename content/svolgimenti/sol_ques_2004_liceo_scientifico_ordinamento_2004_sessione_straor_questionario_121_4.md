@@ -1,74 +1,29 @@
----
-title: 2004 Ordinamento Straordinaria — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_4
-of_item: >-
-  ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_4
-prova_id: prova_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_4|2004 Ordinamento Straordinaria — Questionario — Quesito 4]] · **Prova:** [[Prove/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121|2004 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2004
+Si deve stabilire il comportamento di $\tan x$ per $x \to +\infty$ e individuare, tra le quattro alternative proposte, l'unica corretta.
 
-QUESITO $3$
+La risposta esatta è la **C)**: il limite **non esiste**.
 
-Determinare il dominio della funzione f(x) $= ln(1 -2x+ \sqrt{x}).$
+## Spiegazione
 
-Affinché la funzione sia definita deve essere: $x\ge 0$ e $1 -2x+ \sqrt{x}> 0$ .
+La funzione $y = \tan x$ è periodica di periodo $\pi$ ed è definita per ogni $x \neq \dfrac{\pi}{2} + k\pi$, con $k \in \mathbb{Z}$. In corrispondenza dei valori esclusi essa presenta asintoti verticali.
 
-La seconda disequazione è equivalente a: $\sqrt{x}> 2x-1.$
-Le soluzioni di questa disequazione equivalgono alle soluzioni dei due seguenti sistemi:
+In ciascun intervallo del tipo
+$$\left(-\frac{\pi}{2} + k\pi,\; \frac{\pi}{2} + k\pi\right)$$
+la tangente è strettamente crescente e assume **tutti** i valori reali: partendo da $-\infty$ (subito a destra dell'asintoto) cresce fino a $+\infty$ (a sinistra dell'asintoto successivo). Questo comportamento si ripete identico in ogni periodo.
 
-a) {
-$x\ge 0$
-$2x-1 < 0 \implies 0 \le x< 1$
-$2 b)$ {
-$x\ge 1$
-$x> (2x-1)^{2}$
 
-Risolviamo la seconda disequazione $dl$ sistema $b):$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="356.958" height="287.836" viewBox="-72 -72 267.719 215.877"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4" transform="matrix(1 0 0 -1 -49.308 36.447)"><path fill="none" d="M-22.762 0h254.537"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M229.895 2.4c.38-1.44 1.227-2.12 2.08-2.4-.853-.28-1.7-.96-2.08-2.4"/><text x="-49.308" y="36.447" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 285.016 34.295)">x</text><path fill="none" d="M0-91.05V95.203"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-2.4 93.322c1.44.38 2.12 1.226 2.4 2.08.28-.854.96-1.7 2.4-2.08"/><text x="-49.308" y="36.447" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 46.677 137.526)">y</text><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="M35.755-91.05v182.1M107.265-91.05v182.1M178.775-91.05v182.1"/><g fill="gray" stroke="gray"><g fill="gray" stroke="none"><text x="-48.108" y="32.51" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 81.399 -63.182)">¼</text><path d="M33.291-96.929h4.927v-.4h-4.927z"/><text x="-47.637" y="39.896" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 81.399 -63.182)">2</text></g></g><g fill="gray" stroke="gray"><g fill="gray" stroke="none"><text x="-48.108" y="32.51" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 150.916 -63.93)">3</text><text x="-44.122" y="32.51" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 150.916 -63.93)">¼</text><path d="M102.808-97.677h8.914v-.4h-8.914z"/><text x="-45.644" y="39.896" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 150.916 -63.93)">2</text></g></g><g fill="gray" stroke="gray"><g fill="gray" stroke="none"><text x="-48.108" y="32.51" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 222.426 -63.93)">5</text><text x="-44.122" y="32.51" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 222.426 -63.93)">¼</text><path d="M174.318-97.677h8.914v-.4h-8.914z"/><text x="-45.644" y="39.896" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 222.426 -63.93)">2</text></g></g><clipPath id="pgfa6b0289b509c10916ab704265bb0f8cccp1"><path d="M-22.762-91.05v182.1h254.937v-182.1Zm254.937 182.1"/></clipPath><g fill="#00f" stroke="#00f" clip-path="url(#pgfa6b0289b509c10916ab704265bb0f8cccp1)"><path fill="none" stroke-width=".8" d="m-22.762-35.452.44 1.462.44 1.381.439 1.305.44 1.239.44 1.177.439 1.123.44 1.068.44 1.022.44.977.439.939.44.9.44.866.439.834.44.806.44.78.44.751.439.73.44.706.44.686.439.669.44.647.44.633.44.617.439.602.44.588.44.576.439.564.44.553.44.54.44.534.439.523.44.515.44.506.439.5.44.492.44.486.44.48.439.476.44.47.44.465.439.461.44.457.44.455.44.45.439.45.44.445.44.445.439.443.44.441.44.44.44.44.439.44.44.44.44.44.439.44.44.442.44.444.44.445.439.447.44.45.44.452.439.456.44.459.44.463.44.467.439.472.44.478.44.483.439.49.44.495.44.502.44.511.439.52.44.526.44.537.439.546.44.558.44.57.439.581.44.595.44.609.44.623.439.641.44.656.44.677.439.696.44.717.44.74.44.764.439.79.44.819.44.85.439.883.44.916.44.956.44 1 .439 1.041.44 1.095.44 1.146.439 1.205.44 1.27.44 1.338.44 1.42.439 1.505.44 1.597.44 1.7.439 1.824.44 1.956.44 2.106.44 2.271.439 2.467.44 2.683.44 2.938.439 3.226.44 3.567.44 3.96.44 4.446.439 5.002.44 5.704M42.11-79.403l.497 6.09.497 5.282.497 4.632.497 4.102.497 3.663.497 3.29.498 2.978.497 2.708.497 2.477.497 2.272.497 2.1.497 1.939.497 1.806.497 1.689.497 1.578.497 1.482.497 1.397.497 1.317.497 1.249.497 1.185.497 1.126.497 1.072.497 1.024.497.981.497.94.497.903.497.87.497.837.497.807.497.783.497.757.497.733.497.711.497.693.497.675.497.657.497.641.497.627.497.614.497.602.497.59.497.578.497.569.497.56.497.552.497.544.497.536.497.53.497.526.497.52.497.515.497.511.498.508.497.504.497.503.497.5.497.499.497.497.497.497.497.497.497.497.497.498.497.5.497.501.497.504.497.507.497.51.497.514.497.518.497.523.497.53.497.535.497.54.497.55.497.558.497.566.497.576.497.586.497.598.497.61.497.622.497.637.497.653.497.669.497.687.497.706.497.727.497.75.497.773.497.8.497.829.497.857.497.894.497.928.497.968.497 1.012.497 1.058.498 1.11.497 1.164.497 1.228.497 1.296.497 1.373.497 1.454.497 1.55.497 1.653.497 1.768.497 1.901.497 2.046.497 2.22.497 2.409.497 2.636.497 2.889.497 3.19.497 3.545.497 3.96.497 4.462.497 5.074.497 5.822.497 6.756M113.811-76.954l.497 5.754.497 5.02.497 4.416.497 3.925.498 3.514.497 3.164.497 2.866.497 2.614.497 2.396.497 2.204.497 2.031.497 1.89.497 1.758.497 1.644.497 1.542.497 1.447.497 1.367.497 1.29.497 1.223.497 1.16.497 1.106.497 1.053.497 1.008.497.965.497.924.497.89.497.858.497.825.497.798.497.772.497.747.497.725.497.705.497.685.497.668.497.65.497.637.497.621.497.608.497.598.497.585.497.576.497.565.497.556.497.549.497.54.497.535.497.528.497.523.497.519.498.513.497.51.497.506.497.504.497.501.497.5.497.498.497.497.497.497.497.497.497.497.497.5.497.5.497.502.497.505.497.508.497.511.497.516.497.52.497.525.497.532.497.537.497.544.497.553.497.56.497.57.497.58.497.59.497.603.497.614.497.628.497.644.497.657.497.677.497.694.497.714.497.735.497.76.497.783.497.81.497.84.497.871.497.906.497.943.497.986.498 1.027.496 1.078.498 1.132.497 1.188.497 1.253.497 1.324.497 1.403.497 1.49.497 1.588.497 1.697.497 1.816.497 1.952.497 2.112.497 2.29.497 2.494.497 2.727.497 3.001.497 3.322.497 3.696.497 4.144.497 4.679.497 5.343.497 6.157.497 7.182M185.512-74.639l.316 3.548.315 3.25.316 2.993.315 2.76.315 2.568.316 2.383.315 2.225.315 2.084.316 1.952.315 1.834.316 1.73.315 1.628.315 1.545.316 1.463.315 1.388.315 1.322.316 1.25.315 1.201.316 1.144.315 1.098.315 1.049.316 1.008.315.969.315.93.316.896.315.862.315.832.316.805.315.776.316.751.315.728.315.706.316.684.315.665.315.645.316.629.315.61.316.595.315.579.315.567.316.55.315.54.315.527.316.515.315.504.315.494.316.483.315.474.316.466.315.455.315.448.316.44.315.432.315.427.316.417.315.413.316.406.315.4.315.395.316.388.315.384.315.38.316.374.315.371.316.365.315.363.315.358.316.354.315.352.315.348.316.346.315.341.316.34.315.338.315.335.316.332.315.33.315.328.316.327.315.325.315.324.316.322.315.32.316.32.315.32.315.317.316.317.315.317.315.316.316.316.315.315.316.315.315.315.315.316.316.315.315.316.315.317.316.317.315.318.316.319.315.32.315.32.316.323.315.323.315.325.316.327.315.329.316.33.315.332.315.334.316.337.315.34.315.342.316.346.315.348.315.351.316.355.315.358.316.361"/></g></g></svg>
+</figure>
 
-$4x^{2} -5x+ 1 < 0 , 1$
-$4 < x< 1$
-Quindi, tornando al sistema $b):$
+Di conseguenza, quando $x \to +\infty$, i valori di $\tan x$ continuano a oscillare tra $-\infty$ e $+\infty$ senza mai stabilizzarsi: non si avvicinano ad alcun numero finito e non divergono in modo definito verso $+\infty$ o $-\infty$.
 
-$b)$ {
-$x\ge 1$
-$$ 2 1 $$
-$4 < x< 1$
-$\implies 1$
-$2 \le x< 1$
+Un modo rigoroso di escludere l'esistenza di un limite finito $L$ è il seguente: se fosse $\displaystyle \lim_{x\to +\infty} \tan x = L$, allora, comunque scelta una striscia orizzontale di mediana $L$ e ampiezza arbitrariamente piccola, da un certo $x = k$ in poi tutti i valori della funzione dovrebbero cadere in quella striscia. Ma in ogni periodo la tangente assume qualsiasi valore reale, quindi esce inevitabilmente da qualunque striscia limitata: la condizione non può essere soddisfatta. Analogamente si escludono i limiti $+\infty$ e $-\infty$, perché la funzione, dopo ogni asintoto, torna a percorrere l'intera retta reale.
 
-L’unione delle soluzioni dei due sistemi è: $0 \le x< 1$
-
-Tenendo presente la condizione $x\ge 0$ il dominio è: $0 \le x< 1$ .
-
-QUESITO $4$
-
-Il limite di tgx per $x$ tendente a $+\infty$ :
-
-A) è $+\infty ; B)$ è
-$\pi$
-$2 ; C)$ non esiste; $D)$ esiste ma non si riesce a calcolare.
-
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
-
-La funzione $y=$ tgx, per $x\to +\infty$ oscilla tra $-\infty$ e $+\infty$ , quindi non può ammettere
-limite.
-Se esistesse un limite finito $L,$ in un intorno di $+\infty$ (cioè per $x>k)$ la funzione dovrebbe
-essere contenuta in una striscia orizzontale di mediana $L$ e ampiezza piccola a piacere, e
-ciò, per quanto detto sull’oscillazione della funzione, non è possibile. In modo analogo
+Pertanto il limite di $\tan x$ per $x \to +\infty$ **non esiste** (né finito né infinito): la risposta corretta è la **C)**.
 
 *Fonte:* [📄 PDF p.123](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 

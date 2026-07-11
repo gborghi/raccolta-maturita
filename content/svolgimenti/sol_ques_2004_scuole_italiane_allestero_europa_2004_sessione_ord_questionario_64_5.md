@@ -1,62 +1,40 @@
----
-title: 2004 SE Europa Ord — Questionario — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_5
-of_item: ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_5
-prova_id: prova_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64_5|2004 SE Europa Ord — Questionario — Quesito 5]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_europa_2004_sessione_ord_questionario_64|2004 SE Europa Ord — Questionario]]
 
-Scuole italiane all’estero (Europa) 2004
+La retta $r$ è perpendicolare nel vertice $A$ al piano del quadrato $ABCD$. Detto $E$ un qualsiasi punto di $r$, distinto da $A$, si vuole dimostrare che le facce laterali della piramide di vertice $E$ e base $ABCD$ sono triangoli rettangoli, congruenti a due a due.
 
-L’altezza $DH$ del tetraedro cade nel centro $H$ della base ABC, che è anche il baricentro
-del triangolo ABC, quindi (per una nota proprietà del baricentro):
-$FH=$
-$2 BH=$
-$3 BF=$
-$3 DF=$
-$6 ∙\sqrt{3}.$
 
-Ma allora, considerando il triangolo DFH, rettangolo in $H,$ risulta:
-$FH= DF∙cos\alpha \implies cos\alpha = FH$
-$DF=$
-$6 ∙\sqrt{3}$
-$2 ∙\sqrt{3}$
-$3 \implies \alpha = arccos(1$
-$3) \cong 70.5288^\circ$
-Quindi:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="214.086" height="170.088" viewBox="-72 -72 160.565 127.566"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M-57.904 41.597h93.907L73.566.904H-20.34ZM-57.904 41.597V-58.57M-57.904-58.57 36.003 41.596M-57.904-58.57 73.566.903M-57.904-58.57-20.341.903"/><path fill="none" d="M-57.904 32.208h9.39v9.39"/><text x="-57.904" y="41.597" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.033 10.366)">A</text><text x="-57.904" y="41.597" stroke="none" font-family="cmmi10" font-size="10" transform="translate(97.44 10.366)">B</text><text x="-57.904" y="41.597" stroke="none" font-family="cmmi10" font-size="10" transform="translate(135.003 -37.277)">C</text><text x="-57.904" y="41.597" stroke="none" font-family="cmmi10" font-size="10" transform="translate(25.473 -44.226)">D</text><text x="-57.904" y="41.597" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.98 -103.7)">E</text></g></svg>
+</figure>
 
-$\alpha \cong 70.5288^\circ = 70^\circ 31'44"$ .
+Le quattro facce laterali della piramide sono i triangoli $EAB$, $EAD$, $ECD$ ed $EBC$.
 
-QUESITO $5$
+## Le facce $EAB$ ed $EAD$
 
-La retta $r$ è perpendicolare nel vertice A al piano del quadrato ABCD. Indicato con E un
-qualsiasi punto di $r,$ distinto da A, dimostrare che le facce laterali della piramide di vertice
-E e base ABCD sono triangoli rettangoli, a due a due congruenti.
+Poiché $\overline{AE}$ giace sulla retta $r$, che è perpendicolare all'intero piano $ABCD$, essa è perpendicolare a ogni retta di quel piano passante per $A$; in particolare
+$$\overline{AE}\perp\overline{AB}\qquad\text{e}\qquad\overline{AE}\perp\overline{AD}.$$
+Di conseguenza i triangoli $EAB$ ed $EAD$ sono **rettangoli in $A$**.
 
-Essendo $AE$ perpendicolare al piano ABCD risulta perpendicolare $ad AD$ e $ad AB,$ quindi i
-triangoli ADE ed ABE sono rettangoli in A; inoltre sono congruenti poiche hanno $AE$ in
-comune ed $AD$ congruente $ad AB$ perché lati di un quadrato.
+Questi due triangoli sono inoltre congruenti: hanno il cateto $\overline{AE}$ in comune e i cateti $\overline{AB}$ e $\overline{AD}$ congruenti, in quanto lati dello stesso quadrato. Si tratta della **prima coppia** di facce congruenti.
 
-Risulta poi $CD$ perpendicolare $ad AD$ ed $AB$ perpendicolare $ad AD.$ Il piano ABCD è
-perpendicolare al piano ADE, pertanto $CD$ è perpendicolare $ad$ ED $(CD$ è perpendicolare
-$ad$ un piano che contiene $DE$ in $D,$ quindi è perpendicolare $ad$ ogni retta di tale piano
-passante per $D):$ il triangolo CDE è rettangolo in $D.$ In modo analogo si ha che ABCD è
-perpendicolare al piano ABE, quindi $CB$ è perpendicolare $ad EB:$ il triangolo BCE è
-rettangolo in $B.$ I due triangoli CDE e BCE sono congruenti poiché hanno in comune
-l’ipotenusa $CE$ e congruenti i cateti $CD$ e $BC$ (lati di quadrato).
+## Le facce $ECD$ ed $EBC$
+
+Consideriamo il lato $\overline{CD}$. Esso è perpendicolare ad $\overline{AD}$ (lati consecutivi del quadrato) ed è perpendicolare ad $\overline{AE}$ (perché $\overline{AE}$ è perpendicolare a tutto il piano $ABCD$). Essendo perpendicolare a due rette distinte del piano $ADE$, il segmento $\overline{CD}$ è perpendicolare all'intero piano $ADE$ e quindi a ogni sua retta passante per $D$; in particolare
+$$\overline{CD}\perp\overline{ED}.$$
+Il triangolo $ECD$ è dunque **rettangolo in $D$**.
+
+In modo del tutto analogo, $\overline{CB}$ è perpendicolare ad $\overline{AB}$ e ad $\overline{AE}$, quindi è perpendicolare al piano $ABE$ e in particolare a $\overline{EB}$:
+$$\overline{CB}\perp\overline{EB},$$
+cosicché il triangolo $EBC$ è **rettangolo in $B$**.
+
+I triangoli $ECD$ ed $EBC$ sono congruenti: hanno l'ipotenusa $\overline{CE}$ in comune e i cateti $\overline{CD}$ e $\overline{BC}$ congruenti, essendo lati del quadrato. È la **seconda coppia** di facce congruenti.
+
+## Conclusione
+
+Tutte e quattro le facce laterali sono triangoli rettangoli: $EAB$ ed $EAD$ retti in $A$, $ECD$ retto in $D$, $EBC$ retto in $B$. Esse risultano congruenti a due a due, come si voleva dimostrare $\Rightarrow$ la tesi è provata.
 
 *Fonte:* [📄 PDF p.67](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

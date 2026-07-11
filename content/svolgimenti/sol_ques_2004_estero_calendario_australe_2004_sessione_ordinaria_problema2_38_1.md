@@ -1,77 +1,43 @@
----
-title: >-
-  2004 Estero australe Ordinaria — Problema 2 e Quesiti — Quesito 1 —
-  Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_1
-of_item: ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_1
-prova_id: prova_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38_1|2004 Estero australe Ordinaria — Problema 2 e Quesiti — Quesito 1]] · **Prova:** [[Prove/2004_estero_calendario_australe_2004_sessione_ordinaria_problema2_38|2004 Estero australe Ordinaria — Problema 2 e Quesiti]]
 
-Estero (Australe) 2004
-Questionario
+Si chiede di esibire un sistema lineare di due equazioni in due incognite, compatibile e determinato, la cui unica soluzione sia la coppia $(-1,\,2)$, illustrando il ragionamento seguito.
 
-Scuole italiane all’estero (Calendario australe) 2004
+## Impostazione
 
-QUESITO $1$
+Un sistema lineare di due equazioni in due incognite
 
-Si dia un esempio di sistema lineare di due equazioni in due incognite compatibile, la cui
-soluzione è la coppia $(-1, 2)$ e si esponga il ragionamento seguito.
+$$\begin{cases} a_1 x + b_1 y = c_1 \\ a_2 x + b_2 y = c_2 \end{cases}$$
 
-Posto $x=-1$ e $y=2,$ due relazioni indipendenti fra $x$ e $y$ sono per esempio:
-$x+y=1$ e $x-y=-3.$ Un sistema che ha la (sola) soluzione richiesta è quindi:
+ammette una e una sola soluzione quando le due equazioni sono **linearmente indipendenti**, cioè quando il determinante dei coefficienti è diverso da zero:
 
-{ $x+ y= 1$
-$x-y= -3$
+$$\begin{vmatrix} a_1 & b_1 \\ a_2 & b_2 \end{vmatrix} = a_1 b_2 - a_2 b_1 \neq 0.$$
 
-QUESITO $2$
+In tal caso l'unica soluzione è il punto di intersezione delle due rette rappresentate dalle equazioni. Per costruire un sistema con soluzione assegnata basta quindi scegliere **due relazioni indipendenti** che siano entrambe soddisfatte dai valori voluti.
 
-Quale è la capacità massima di un cono circolare retto di apotema $12 cm?$ Quale ne è il
-valore in litri?
+## Costruzione dell'esempio
 
-Il volume del cono è:
-$V= 1$
-$3 \pi R2h$
-Risulta: $R^{2} = a^{2} -h^{2},$ quindi:
+Poniamo $x=-1$ e $y=2$ e ricaviamo i valori assunti da alcune semplici combinazioni:
 
-$V= 1$
-$3 \pi (a^{2} -h^{2})h$
+$$x+y = -1+2 = 1, \qquad x-y = -1-2 = -3.$$
 
-Il volume è massimo se lo è $y= h(a^{2} -h^{2}) =$ f(h)
-con $0 \le h\le$ a.
+Scegliamo allora le due equazioni
 
-Metodo elementare.
+$$x+y = 1 \qquad \text{e} \qquad x-y = -3,$$
 
-$h(a^{2} -h^{2}) = (h^{2})$
-$2 ∙(a^{2} -h^{2})$ è il prodotto di due
-potenze la cui somma delle basi è costante $(a^{2}),$ quindi è
-massimo quando le basi sono proporzionali agli
-esponenti:
+che per costruzione sono verificate dalla coppia $(-1,\,2)$. Il sistema richiesto è dunque
 
-$$ h^{2} 1 2 $$
-$= a^{2} -h^{2}$
-, $2h^{2} = a^{2} -h^{2},$
-$h^{2} = 1$
-$3 a^{2},$
-$h= a\sqrt{3}$
-$3 = 12 ∙\sqrt{3}$
-$3 = 4\sqrt{3} cm$
-Per tale valore di $h$ si ha: $R^{2} = a^{2} -h^{2} = 122 -48 = 96 cm2.$
+$$\begin{cases} x+y = 1 \\ x-y = -3. \end{cases}$$
 
-Il volume massimo è quindi:
+## Verifica
+
+Il determinante dei coefficienti vale
+
+$$\begin{vmatrix} 1 & 1 \\ 1 & -1 \end{vmatrix} = (1)(-1)-(1)(1) = -2 \neq 0,$$
+
+quindi il sistema è **determinato** e possiede un'unica soluzione. Risolvendolo, per esempio sommando membro a membro le due equazioni si ha $2x=-2$, da cui $x=-1$; sostituendo nella prima si ottiene $y=2$. La soluzione è pertanto la coppia $(-1,\,2)$, come richiesto.
 
 *Fonte:* [📄 PDF p.42](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

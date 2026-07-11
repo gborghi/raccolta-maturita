@@ -1,98 +1,55 @@
----
-title: 2009 Sessione Ordinaria Estero Europa — Prova — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_sessione_ordinaria_2009_prova_63_2
-of_item: ques_2009_sessione_ordinaria_2009_prova_63_2
-prova_id: prova_2009_sessione_ordinaria_2009_prova_63
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_63_2|2009 Sessione Ordinaria Estero Europa — Prova — Quesito 2]] · **Prova:** [[Prove/2009_sessione_ordinaria_2009_prova_63|2009 Sessione Ordinaria Estero Europa — Prova]]
 
-Il prisma ha volume massimo se la piramide viene tagliata con un piano parallelo alla base
-$ad$ una distanza dal vertice uguale $ai 2/3$ dell’altezza.
+Si calcoli il limite
 
-Soluzione per con l’uso delle derivate:
+$$\lim_{x\to 1}\frac{\ln^2 x + x - 1}{x^2 - x + \sin^2(x-1)}.$$
 
-$y= x^{2}$ ∙ $(h-x) =$ f(x) , $h> 0, 0 \le x\le h$
+Numeratore e denominatore tendono entrambi a $0$ per $x\to 1$, quindi si presenta la forma indeterminata $\frac{0}{0}$.
 
-Siccome la funzione è continua (e derivabile) in un intervallo chiuso e limitato, ammette
-massimo e minimo assoluto, agli estremi oppure in un punto che annulla la derivata prima.
+## Sostituzione e limiti notevoli
 
-f'(x) $= 2x(h-x) -x^{2} = -3x^{2} + 2hx= 0$ se $x= 0,$ oppure $x= 2$
-$3 h$
+Poniamo $t = x-1$, così $t\to 0$ quando $x\to 1$. Osserviamo che $x = 1+t$ e che il denominatore si può scrivere
 
-Risulta: $f(0) =$ f(h) $= 0 , f($
-$3 h) =$
-$27 h^{3}$ : il massimo si ha per $x=$
-$3 h$ .
-Allo stesso risultato si arriva se si studia il segno della derivata prima.
+$$x^2 - x = x(x-1) = (1+t)\,t.$$
 
-QUESITO $2$
+Il limite diventa
 
-Si calcoli il limite della funzione
-$ln2 x+x-1$
-$x^{2}-x+sen2(x-1)$ , quando $x$ tende a $1.$
+$$\lim_{t\to 0}\frac{\ln^2(1+t) + t}{(1+t)\,t + \sin^2 t}.$$
 
-$$ lim $$
-$x\to 1$
-$ln2 x+ x-1$
-$x^{2} -x+ sen2(x-1) =$ lim
-$x\to 1$
-$ln2(1 + (x-1)) + x-1$
-$x(x-1) + sen2(x-1) =$
+Raccogliamo $t$ a numeratore e a denominatore:
 
-Per $x$ che tende a $1$ si hanno i seguenti “asintotici”:
+$$\frac{\ln^2(1+t) + t}{(1+t)\,t + \sin^2 t}
+= \frac{t\left(\dfrac{\ln^2(1+t)}{t} + 1\right)}{t\left(1+t + \dfrac{\sin^2 t}{t}\right)}
+= \frac{\dfrac{\ln^2(1+t)}{t} + 1}{\,1+t + \dfrac{\sin^2 t}{t}\,}.$$
 
-$ln2(1 + (x-1)) + x-1 ~(x-1)^{2} + (x-1)~(x-1)$
+Usiamo ora i limiti notevoli $\dfrac{\ln(1+t)}{t}\to 1$ e $\dfrac{\sin t}{t}\to 1$ per $t\to 0$:
 
-$x(x-1) + sen2(x-1)~(x-1) + (x-1)^{2}~(x-1)$
+$$\frac{\ln^2(1+t)}{t} = \left(\frac{\ln(1+t)}{t}\right)^2\cdot t \;\to\; 1^2\cdot 0 = 0,$$
 
-il limite equivale a:
+$$\frac{\sin^2 t}{t} = \left(\frac{\sin t}{t}\right)^2\cdot t \;\to\; 1^2\cdot 0 = 0.$$
 
-$$ lim $$
-$x\to 1$
-$x-1$
-$x-1 = 1$
+Pertanto
 
-OPPURE
+$$\lim_{t\to 0}\frac{\dfrac{\ln^2(1+t)}{t} + 1}{\,1+t + \dfrac{\sin^2 t}{t}\,}
+= \frac{0 + 1}{\,1 + 0 + 0\,} = 1.$$
 
-Posto $x-1 = t$ il limite si trasforma in:
-$$ lim $$
-$x\to 1$
-$ln2(1 + (x-1)) + x-1$
-$x(x-1) + sen2(x-1) =$ lim
-$t\to 0$
-$ln2(1 + t) + t$
-$(1 + t)t+ sen2t=$ lim
-$t\to 0$
-$t[ln2(1 + t)$
-$$ t + 1] $$
-$t[1 + t+ sen2t$
-= lim
-$t\to 0$
-$ln2(1 + t)$
-$$ t + 1 $$
-$1 + t+ sen2t$
-= lim
-$t\to 0$
-$ln2(1 + t)$
-$$ t^{2 $$
-$∙t+ 1$
-$1 + t+ sen2t$
-$$ t^{2 $$
-∙t
-$1 ∙0 + 1$
-$1 + 0 + 1 ∙0 = 1$
+## Metodo degli sviluppi asintotici
+
+Allo stesso risultato si arriva confrontando gli ordini di infinitesimo. Con $t = x-1\to 0$:
+
+- $\ln^2(1+t)\sim t^2$, che è trascurabile rispetto a $t$; quindi il numeratore è
+$$\ln^2(1+t) + t \sim t;$$
+- $\sin^2 t\sim t^2$, anch'esso trascurabile rispetto a $t$; quindi il denominatore è
+$$(1+t)\,t + \sin^2 t \sim t.$$
+
+Il limite equivale allora a
+
+$$\lim_{t\to 0}\frac{t}{t} = 1.$$
+
+Il limite cercato vale dunque $1$.
 
 *Fonte:* [📄 PDF p.75](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

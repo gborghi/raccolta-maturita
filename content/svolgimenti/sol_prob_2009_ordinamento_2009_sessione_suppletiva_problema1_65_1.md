@@ -1,236 +1,94 @@
----
-title: 2009 Ordinamento Suppletiva — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2009_ordinamento_2009_sessione_suppletiva_problema1_65_1
-of_item: prob_2009_ordinamento_2009_sessione_suppletiva_problema1_65_1
-prova_id: prova_2009_ordinamento_2009_sessione_suppletiva_problema1_65
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2009
----
+
 
 **Problema:** [[Problemi/prob_2009_ordinamento_2009_sessione_suppletiva_problema1_65_1|2009 Ordinamento Suppletiva — Problema 1 — Problema 1]] · **Prova:** [[Prove/2009_ordinamento_2009_sessione_suppletiva_problema1_65|2009 Ordinamento Suppletiva — Problema 1]]
 
-ORDINAMENTO 2009 SESSIONE SUPPLETIVA - PROBLEMA $1$
+I due segmenti adiacenti $OA$ e $AB$ sono uguali, di lunghezza $a$. Nello stesso semipiano rispetto alla retta $OB$ si tracciano le due semicirconferenze di diametri $OA$ e $OB$; per $O$ passa la tangente comune, sulla quale si prende $OC=a$. Da $O$ si conduce una semiretta che forma con $OB$ un angolo $\alpha$ e incontra le due semicirconferenze rispettivamente in $P$ e $Q$. Si chiede il rapporto
+$$\frac{CP^2+PQ^2+QC^2}{2a^2},$$
+espresso in funzione di $x=\arctan\alpha$ (cioè $x=\tan\alpha$), quindi lo studio della funzione ottenuta, i valori di $\alpha$ che rendono massimo e minimo il rapporto, e l'area della regione racchiusa fra l'asse delle ordinate, la curva e il suo asintoto.
 
-I due segmenti adiacenti $OA, AB$ sono uguali ed hanno una lunghezza data a. Nel
-medesimo semipiano rispetto alla retta $OB$ si descrivano due semicirconferenze di
-diametri rispettivi $OA$ ed $OB,$ e per il punto O si conduca la semiretta tangente comune,
-sulla quale si prenda il segmento $OC =$ a. Con origine O, si conduca una semiretta, che
-forma con $OB$ un angolo $\alpha$ e interseca in $P$ e $Q$ le semicirconferenze.
+## a) Calcolo del rapporto
 
-Si calcoli il rapporto:
-$(1) CP2 + PQ2 + QC2$
-$2a^{2}$
+Fissiamo il riferimento con origine in $O$, asse delle ascisse lungo $OB$ e asse delle ordinate lungo $OC$. La tangente comune in $O$ è perpendicolare a $OB$, quindi $C=(0;\,a)$.
 
-e lo si esprima in funzione di $x= tg\alpha$ , controllando che risulta
-f(x) $= x^{2} -3x+ 4$
-$x^{2} + 1$
+La prima semicirconferenza ha diametro $OA=a$: un punto $P$ su di essa visto da $O$ soddisfa $OP=a\cos\alpha$, dunque
+$$P=(a\cos^2\alpha;\ a\cos\alpha\sin\alpha).$$
+La seconda ha diametro $OB=2a$, quindi $OQ=2a\cos\alpha$ e
+$$Q=(2a\cos^2\alpha;\ 2a\cos\alpha\sin\alpha).$$
 
-L’angolo $\alpha$ ha le seguenti limitazioni: $0 \le \alpha \le$
-$\pi$
+Calcoliamo i tre quadrati:
+$$CP^2=a^2\cos^4\alpha+a^2\cos^2\alpha\sin^2\alpha-2a^2\cos\alpha\sin\alpha+a^2,$$
+$$PQ^2=a^2\cos^4\alpha+a^2\cos^2\alpha\sin^2\alpha=a^2\cos^2\alpha,$$
+$$QC^2=4a^2\cos^4\alpha+4a^2\cos^2\alpha\sin^2\alpha-4a^2\cos\alpha\sin\alpha+a^2.$$
 
-Fissato un sistema di riferimento con origine in O, asse delle ascisse coincidente con la
-retta $OB$ e asse delle orinate con $OC,$ abbiamo:
+Sommando e usando $\cos^2\alpha+\sin^2\alpha=1$:
+$$CP^2+PQ^2+QC^2=6a^2\cos^2\alpha-6a^2\cos\alpha\sin\alpha+2a^2.$$
 
-$OP=$ a $cos\alpha , PE= OP sen\alpha =$ a $cos\alpha sen\alpha , OE= OP cos\alpha =$ a $cos2 \alpha$
+Quindi
+$$\frac{CP^2+PQ^2+QC^2}{2a^2}=3\cos^2\alpha-3\cos\alpha\sin\alpha+1.$$
 
-$OQ= 2a cos\alpha , QF= OQ sen\alpha = 2a cos\alpha sen\alpha , OF= OQ cos\alpha = 2a cos2 \alpha$
+Scrivendo $1=\sin^2\alpha+\cos^2\alpha$ al numeratore e dividendo numeratore e denominatore per $\cos^2\alpha$:
+$$\frac{4\cos^2\alpha-3\cos\alpha\sin\alpha+\sin^2\alpha}{\sin^2\alpha+\cos^2\alpha}=\frac{\tan^2\alpha-3\tan\alpha+4}{\tan^2\alpha+1}.$$
 
-Pertanto:
+Posto $x=\tan\alpha$ si ottiene, come richiesto,
+$$f(x)=\frac{x^2-3x+4}{x^2+1}.$$
 
-$C= (0;$ a) , $P=$ (a $cos2 \alpha$ ; a $cos\alpha sen\alpha ) , Q= (2a cos2 \alpha ; 2a cos\alpha sen\alpha$ )
+Geometricamente $0\le\alpha<\dfrac{\pi}{2}$ (per $\alpha=\dfrac{\pi}{2}$ la tangente non esiste, ma il rapporto ha senso e vale $1$).
 
-Risulta:
+## b) Studio della funzione $f(x)$
 
-$CP2 = a^{2} cos4 \alpha +$ (a $cos\alpha sen\alpha -a)2 = a^{2} cos4 \alpha + a^{2} cos2 \alpha sen2\alpha -2a^{2} cos\alpha sen\alpha +$
-$+a^{2}$
+**Dominio:** tutto $\mathbb{R}$, poiché $x^2+1>0$ per ogni $x$.
 
-$PQ2 = a^{2} cos4 \alpha + a^{2} cos2 \alpha sen2\alpha = a^{2} cos2 \alpha (cos2 \alpha + sen2\alpha ) = a^{2} cos2 \alpha$
+**Simmetrie:** $f(-x)=\dfrac{x^2+3x+4}{x^2+1}$ non coincide né con $f(x)$ né con $-f(x)$: la funzione non è né pari né dispari.
 
-$QC2 = 4a^{2} cos4 \alpha + (2a cos\alpha sen\alpha -a)2 =$
-$= 4a^{2} cos4 \alpha + 4a^{2} cos2 \alpha sen2\alpha -4a^{2} cos\alpha sen\alpha + a^{2}$
+**Intersezioni con gli assi:** per $x=0$ si ha $y=4$; l'equazione $x^2-3x+4=0$ ha $\Delta=9-16<0$, quindi non vi sono intersezioni con l'asse $x$.
 
-Quindi:
+**Segno:** numeratore e denominatore sono sempre positivi, dunque $f(x)>0$ per ogni $x$.
 
-$CP2 + PQ2 + QC2 = a^{2} cos4 \alpha + a^{2} cos2 \alpha sen2\alpha -2a^{2} cos\alpha sen\alpha + a^{2} + a^{2} cos2 \alpha +$
-$+4a^{2} cos4 \alpha + 4a^{2} cos2 \alpha sen2\alpha -4a^{2} cos\alpha sen\alpha + a^{2} =$
-$= 5 a^{2} cos4 \alpha + 5a^{2} cos2 \alpha sen2\alpha -6a^{2} cos\alpha sen\alpha + a^{2} cos2 \alpha + 2a^{2} =$
+**Limiti e asintoti:**
+$$\lim_{x\to\pm\infty}\frac{x^2-3x+4}{x^2+1}=1,$$
+quindi $y=1$ è asintoto orizzontale; non vi sono asintoti verticali (denominatore mai nullo) né obliqui. L'intersezione con l'asintoto si ottiene da $x^2-3x+4=x^2+1$, cioè $x=1$: $A=(1;1)$.
 
-$= 5a^{2} cos2 \alpha (cos2 \alpha + sen2\alpha ) -6a^{2} cos\alpha sen\alpha + a^{2} cos2 \alpha + 2a^{2} =$
+**Derivata prima:**
+$$f'(x)=\frac{3x^2-6x-3}{(x^2+1)^2}=\frac{3\,(x^2-2x-1)}{(x^2+1)^2}.$$
+Si ha $f'(x)\ge 0$ per $x\le 1-\sqrt{2}$ oppure $x\ge 1+\sqrt{2}$. Perciò $f$ è crescente per $x<1-\sqrt{2}$ e per $x>1+\sqrt{2}$, decrescente per $1-\sqrt{2}<x<1+\sqrt{2}$; quindi
+$$x=1-\sqrt{2}\ \text{massimo assoluto},\qquad f(1-\sqrt{2})=\frac{5+3\sqrt{2}}{2}\cong 4{,}6,$$
+$$x=1+\sqrt{2}\ \text{minimo assoluto},\qquad f(1+\sqrt{2})=\frac{5-3\sqrt{2}}{2}\cong 0{,}4.$$
 
-$= 6a^{2} cos2 \alpha -6a^{2} cos\alpha sen\alpha + 2a^{2}$
+**Derivata seconda:**
+$$f''(x)=\frac{-6\,(x+1)(x^2-4x+1)}{(x^2+1)^3}.$$
+Si ha $f''(x)\ge 0$ (concavità verso l'alto) quando $(x+1)(x^2-4x+1)\le 0$, cioè per $x\le -1$ e per $2-\sqrt{3}\le x\le 2+\sqrt{3}$. Vi sono quindi tre flessi:
+$$x=-1,\ f(-1)=4\ (B);\quad x=2-\sqrt{3},\ f\cong 3\ (C);\quad x=2+\sqrt{3},\ f\cong 0{,}5\ (D).$$
 
-$CP2 + PQ2 + QC2$
-$2a^{2}$
-$= 3 cos2 \alpha -3cos\alpha sen\alpha + 1 =$
+Il grafico $\gamma$ è il seguente.
 
-$= 3 cos2 \alpha -3cos\alpha sen\alpha + sen2\alpha + cos2 \alpha = 4 cos2 \alpha -3cos\alpha sen\alpha + sen2\alpha =$
 
-$= 4$ ∙
-$1+cos2\alpha$
--
-$2 ∙sen2\alpha +$
-$1-cos2\alpha$
-$= 2 + 2cos2\alpha -$
-$2 ∙sen2\alpha +$
-$2 -$
-$2 cos2\alpha =$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="461.982" height="240.447" viewBox="-72 -72 346.486 180.336"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 91.646h315.426"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M241.476 89.246c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><text x="55.967" y="91.646" stroke="none" font-family="cmmi10" font-size="10" transform="translate(191.321 2.153)">x</text><path fill="none" d="M55.967 103.026v-161.78"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M53.567-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="55.967" y="91.646" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -156.277)">y</text><path fill="none" d="M-57.844 89.37v4.552"/><g stroke="none" font-size="10"><text x="55.967" y="91.646" font-family="cmsy10" transform="translate(-120.2 12.254)">¡</text><text x="63.745" y="91.646" font-family="cmr10" transform="translate(-120.2 12.254)">4</text></g><path fill="none" d="M-.938 89.37v4.552"/><g stroke="none" font-size="10"><text x="55.967" y="91.646" font-family="cmsy10" transform="translate(-63.294 12.254)">¡</text><text x="63.745" y="91.646" font-family="cmr10" transform="translate(-63.294 12.254)">2</text></g><path fill="none" d="M112.873 89.37v4.552"/><text x="55.967" y="91.646" stroke="none" font-family="cmr10" font-size="10" transform="translate(54.405 12.254)">2</text><path fill="none" d="M169.778 89.37v4.552"/><text x="55.967" y="91.646" stroke="none" font-family="cmr10" font-size="10" transform="translate(111.311 12.254)">4</text><path fill="none" d="M226.684 89.37v4.552"/><text x="55.967" y="91.646" stroke="none" font-family="cmr10" font-size="10" transform="translate(168.216 12.254)">6</text><path fill="none" d="M58.244 63.193H53.69"/><text x="55.967" y="91.646" stroke="none" font-family="cmr10" font-size="10" transform="translate(-10.81 -25.23)">1</text><path fill="none" d="M58.244 34.74H53.69"/><text x="55.967" y="91.646" stroke="none" font-family="cmr10" font-size="10" transform="translate(-10.81 -53.683)">2</text><path fill="none" d="M58.244 6.287H53.69"/><text x="55.967" y="91.646" stroke="none" font-family="cmr10" font-size="10" transform="translate(-10.81 -82.136)">3</text><path fill="none" d="M58.244-22.165H53.69"/><text x="55.967" y="91.646" stroke="none" font-family="cmr10" font-size="10" transform="translate(-10.81 -110.589)">4</text><g fill="gray" stroke="gray" stroke-dasharray="3.0,3.0"><path fill="none" d="M-72.07 63.193h315.826"/><g fill="gray" stroke="none" font-size="10"><text x="55.967" y="91.646" font-family="cmmi10" transform="translate(191.321 -26.203)">y</text><text x="64.007" y="91.646" font-family="cmr10" transform="translate(191.321 -26.203)">=</text><text x="74.562" y="91.646" font-family="cmr10" transform="translate(191.321 -26.203)">1</text></g></g><path fill="none" stroke="#00f" stroke-width=".8" d="m-57.844 38.088 2.874-.704 2.874-.742 2.873-.783 2.874-.826 2.874-.874 2.873-.925 2.874-.98 2.874-1.041 2.873-1.106 2.874-1.177 2.874-1.255 2.873-1.338 2.874-1.43 2.874-1.531 2.873-1.641 2.874-1.76 2.874-1.892 2.873-2.034 2.874-2.191 2.874-2.361 2.873-2.544L5.377 6.21l2.874-2.954L11.124.078l2.874-3.41 2.874-3.642 2.873-3.869 2.874-4.07 2.874-4.225 2.873-4.302 2.874-4.26 2.874-4.029 2.873-3.553 2.874-2.76 2.874-1.582 2.873.009 2.874 1.974 2.874 4.183 2.873 6.419 2.874 8.413 2.874 9.919 2.873 10.77 2.874 10.942 2.874 10.533 2.873 9.706 2.874 8.624 2.874 7.46 2.873 6.314 2.874 5.255 2.874 4.325 2.873 3.511 2.874 2.836 2.874 2.266 2.873 1.8 2.874 1.416 2.874 1.102 2.873.85 2.874.639 2.874.472 2.873.333 2.874.224 2.874.133 2.873.06h2.874l2.874-.045 2.873-.086 2.874-.116 2.874-.14 2.873-.16 2.874-.175 2.874-.186 2.873-.196 2.874-.201 2.874-.207 2.873-.21 2.874-.21 2.874-.211 2.873-.211 2.874-.21 2.874-.208 2.873-.207 2.874-.203 2.874-.201 2.873-.198 2.874-.195 2.874-.19 2.873-.188 2.874-.185 2.874-.18 2.873-.177 2.874-.174 2.874-.17 2.873-.167 2.874-.163 2.874-.16 2.873-.156 2.874-.152 2.874-.15 2.873-.147"/><path stroke="none" d="M57.967-22.165a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><g stroke="none" font-size="10"><text x="55.967" y="91.646" font-family="cmr10" transform="translate(3.533 -119.844)">(0</text><text x="64.856" y="91.646" font-family="cmmi10" transform="translate(3.533 -119.844)">;</text><text x="69.301" y="91.646" font-family="cmr10" transform="translate(3.533 -119.844)">4)</text></g><g fill="red" stroke="red"><path stroke="none" d="M45.988-39.806a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="55.967" y="91.646" fill="red" stroke="none" font-family="cmr10" font-size="10" transform="translate(-21.085 -134.984)">max</text></g><g fill="red" stroke="red"><path stroke="none" d="M126.452 80.862a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="55.967" y="91.646" fill="red" stroke="none" font-family="cmr10" font-size="10" transform="translate(60.352 -.572)">min</text></g><path stroke="none" d="M85.92 63.193a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><text x="55.967" y="91.646" stroke="none" font-family="cmmi10" font-size="10" transform="translate(31.986 -31.986)">A</text></g></svg>
+</figure>
 
-$$ = 5 2 + 3 $$
-$2 cos2\alpha -$
-$2 ∙sen2\alpha =$
-$$ 5 2 + 3 $$
-$2$ ∙
-$1-tg2\alpha$
-$1+tg2\alpha -$
-$2$ ∙
-$2tg\alpha$
-$1+tg2\alpha =$
+## c) Massimo e minimo del rapporto
 
-$5+5tg2\alpha +3-3tg2\alpha -6tg\alpha$
-$2(1+tg2\alpha$ )
-$2tg2\alpha -6tg\alpha +8$
-$2(1+tg2\alpha$ )
-$tg2\alpha -3tg\alpha +4$
-$1+tg2\alpha$
-$x^{2}-3x+4$
-$x^{2}+1$
-= f(x)
+Poiché $x=\tan\alpha$ con $0\le\alpha<\dfrac{\pi}{2}$, occorre studiare $f$ per $0\le x<+\infty$. Su questo intervallo $f$ decresce da $f(0)=4$ fino al minimo in $x=1+\sqrt{2}$, poi cresce tendendo a $1$.
 
-Prescindendo dalla questione geometrica, si studi la funzione $f (x)$ e se ne tracci il
-grafico $\gamma$ .
+Il **massimo** del rapporto vale $4$ e si ha per $x=0$, cioè $\tan\alpha=0$, dunque $\alpha=0$.
 
-$y=$ f(x) $= x^{2} -3x+ 4$
-$x^{2} + 1$
+Il **minimo** vale $f(1+\sqrt{2})=\dfrac{5-3\sqrt{2}}{2}\cong 0{,}4$ e si ha per $x=1+\sqrt{2}$, cioè $\tan\alpha=1+\sqrt{2}$, da cui
+$$\alpha=\arctan\!\big(1+\sqrt{2}\big)=67^\circ 30'=\frac{3\pi}{8}.$$
 
-Dominio: $-\infty < x< +\infty$
+## d) Area della regione
 
-Simmetrie notevoli:
+La regione richiesta è delimitata dall'asse delle ordinate ($x=0$), dalla curva $\gamma$ e dall'asintoto $y=1$, che si incontrano per $x=1$. L'area è quindi
+$$\text{Area}=\int_0^1\big[f(x)-1\big]\,dx,\qquad f(x)-1=\frac{-3x+3}{x^2+1}.$$
 
-Essendo $f(-x) =$
-$x^{2}+3x+4$
-$x^{2}+1$ diverso sia da f(x) che da - f(x) la funzione non né pari né
-dispari.
+Separando i due contributi:
+$$\int_0^1\frac{-3x+3}{x^2+1}\,dx=-\frac{3}{2}\int_0^1\frac{2x}{x^2+1}\,dx+3\int_0^1\frac{1}{x^2+1}\,dx.$$
 
-Intersezioni con gli assi cartesiani:
+Da cui
+$$\text{Area}=-\frac{3}{2}\Big[\ln(x^2+1)\Big]_0^1+3\Big[\arctan x\Big]_0^1=-\frac{3}{2}\ln 2+3\cdot\frac{\pi}{4}.$$
 
-Se $x= 0 , y= 4.$
-Se $y= 0, x^{2} -3x+ 4 = 0,$ mai $(\Delta < 0)$
-
-Segno della funzione:
-
-$y> 0$ se $x^{2} -3x+ 4 = 0 > 0 \implies \forall x$
-
-Limiti:
-
-$$ lim $$
-$x\to \pm \infty$
-$x^{2} -3x+ 4$
-$x^{2} + 1$
-$= 1 : y= 1$ asintoto orizzontale
-
-Non ci sono asintoti verticali né obliqui.
-
-Eventuali intersezioni con l’asintoto orizzontale:
-
-$x^{2}-3x+4$
-$x^{2}+1$
-$= 1 x= 1 : A=(1;1)$
-
-Derivata prima:
-
-f'(x) =
-$3x^{2}-6x-3$
-$(x^{2}+1)^{2} \ge 0$ se $3x^{2} -6x-3 \ge 0 \implies x^{2} -2x-1 \ge 0$
-
-$x\le 1 -\sqrt{2} or x\ge \sqrt{2} + 1$
-
-Pertanto la funzione è crescente se $x< 1 -\sqrt{2} or x> \sqrt{2} + 1$ e decrescente se
-$1 -\sqrt{2} < x< \sqrt{2} + 1$ ;
-$x= 1 -\sqrt{2}$ punto di massimo relativo (e assoluto), $f(1 -\sqrt{2}) \cong 4.6$
-$x= 1 + \sqrt{2}$ punto di minimo relativo (e assoluto), $f(1 + \sqrt{2}) \cong 0.4$
-
-Derivata seconda:
-
-f''(x) =
-$-6x^{3}+18x^{2}+18x-6$
-$(x^{2}+1)^{3}$
-$-6(x+1)(x^{2}-4x+1)$
-$(x^{2}+1)^{3}$
-$\ge 0$ se $(x+ 1)(x^{2} -4x+ 1) \le 0$ :
-
-$x\le -1 or 2 -\sqrt{3} \le x\le 2 + \sqrt{3}$ : in tali intervalli il grafico volge la concavità verso
-l’alto; avremo quindi tre flessi:
-
-$x= -1 , f(-1) = 4 : B$
-$x= 2 -\sqrt{3} , f(2 -\sqrt{3} ) \cong 3: C$
-$x= 2 + \sqrt{3} , f(2 + \sqrt{3} ) \cong 0.5 : D$
-
-Il grafico della funzione è il seguente:
-
-Si dica per quale valore di $\alpha$ si hanno rispettivamente il massimo e il minimo del rapporto
-
-Essendo $0 \le \alpha \le$
-$\pi$
-$2$ e $x= tg\alpha$ , dobbiamo trovare il massimo ed il minimo di f(x)
-quando $0 \le x< +\infty$ (notiamo che se $\alpha =$
-$\pi$
-$2$ la tangente non esiste ma il rapporto
-$CP2+PQ2+QC2$
-$2a^{2}$
-ha senso e vale $1$ ).
-
-Il massimo del rapporto (che vale $4)$ si ha se $x= 0$ , quindi $tg\alpha = 0 , \alpha = 0$
-Il minimo del rapporto (che $f(1 + \sqrt{2}) \cong 0.4)$ si ha se $x= 1 + \sqrt{2}$ , quindi $tg\alpha = 1 + \sqrt{2}$
-da cui $\alpha = arctg(1 + \sqrt{2} ) = 67^\circ 30' =$
-$8 \pi$
-
-Si determini l’area della superficie piana, finita, delimitata dall’asse delle ordinate, dalla
-curva $\gamma$ e dal suo asintoto.
-
-L’area richiesta si ottiene calcolando il seguente integrale.
-
-$Area= \int$ [f(x) $-1]dx$
-$$ 1 0 $$
-$= \int [x^{2} -3x+ 4$
-$x^{2} + 1$
-$-1] dx$
-$$ 1 0 $$
-$= \int [-3x+ 3$
-$x^{2} + 1$ ] $dx$
-$$ 1 0 = $$
-
-$$ = \int $$
-$-3x$
-$x^{2} + 1 dx+ \int$
-$x^{2} + 1 dx=$
-$$ 1 0 1 0 $$
-$-3$
-$$ 2 \int $$
-$2x$
-$x^{2} + 1 dx+ 3 \int$
-$x^{2} + 1 dx=$
-$$ 1 0 1 0 $$
-
-$= -3$
-$2 [ln(x^{2} + 1)]0$
-$1 + 3[arctg(x)]0$
-$1 = -3$
-$2 (ln2) + 3(arctg(1) -0) = -3$
-$2 (ln2) + 3 ∙\pi$
-
-$4 \pi -3$
-$2 ln2) u^{2} \cong 1.32 u^{2} =$ Area
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
+In definitiva
+$$\text{Area}=\frac{3\pi}{4}-\frac{3}{2}\ln 2\ \cong 1{,}32\ \ u^2.$$
 
 *Fonte:* [📄 PDF p.65](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

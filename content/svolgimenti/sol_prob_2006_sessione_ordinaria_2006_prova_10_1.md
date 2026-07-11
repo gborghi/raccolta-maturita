@@ -1,277 +1,65 @@
----
-title: 2006 Sessione Ordinaria — Prova (p.10) — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2006_sessione_ordinaria_2006_prova_10_1
-of_item: prob_2006_sessione_ordinaria_2006_prova_10_1
-prova_id: prova_2006_sessione_ordinaria_2006_prova_10
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Problema:** [[Problemi/prob_2006_sessione_ordinaria_2006_prova_10_1|2006 Sessione Ordinaria — Prova (p.10) — Problema 1]] · **Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_10|2006 Sessione Ordinaria — Prova (p.10)]]
 
-Sessione ordinaria 2006
+Un filo metallico di lunghezza $L$ delimita il perimetro di un'aiuola rettangolare. Si chiede l'aiuola di area massima (a); poi, tagliato il filo in due parti per formare un quadrato e un cerchio, come tagliarlo affinché la somma delle aree sia minima (b) o massima (c). Infine, aumentando del $10\%$ ogni dimensione di una scatola parallelepipeda, di quanto terreno in più si ha bisogno (d).
 
-CORSO DI ORDINAMENTO
+## a)
 
-Tema di: MATEMATICA
+Detti $x$ e $y$ i lati del rettangolo, il perimetro impone $2x+2y=L$, cioè $y=\dfrac{L}{2}-x$, con $0<x<\dfrac{L}{2}$. L'area è
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+$$A(x)=x\left(\frac{L}{2}-x\right)=\frac{L}{2}\,x-x^2.$$
 
-PROBLEMA $1$
+Derivando: $A'(x)=\dfrac{L}{2}-2x$, che si annulla per $x=\dfrac{L}{4}$. Poiché $A''(x)=-2<0$, si tratta di un massimo. Allora $y=\dfrac{L}{2}-\dfrac{L}{4}=\dfrac{L}{4}=x$: **l'aiuola di area massima è il quadrato di lato** $\dfrac{L}{4}$, con area
 
-Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un’aiuola
-rettangolare.
-a) Quale è l’aiuola di area massima che è possibile delimitare?
+$$A_{\max}=\frac{L^2}{16}.$$
 
-Si pensa di tagliare il filo in due parti e di utilizzarle per delimitare un’aiuola quadrata e un’altra
-circolare. Come si dovrebbe tagliare il filo affinché:
-$b)$ la somma delle due aree sia minima?
-$c)$ la somma delle due aree sia massima?
+## b)
 
-Una aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una scatola, cioè, colma
-di terreno. Si discute di aumentare del $10%$ ciascuna sua dimensione. Di quanto terreno in più, in
-termini percentuali, si ha bisogno?
+Si taglia il filo in due parti: una di lunghezza $x$ per la circonferenza, l'altra di lunghezza $L-x$ per il perimetro del quadrato, con $0\le x\le L$.
 
-PROBLEMA $2$
+- Il quadrato ha lato $\dfrac{L-x}{4}$ e area $\dfrac{(L-x)^2}{16}$.
+- Il cerchio ha raggio $r$ con $2\pi r=x$, cioè $r=\dfrac{x}{2\pi}$, e area $\pi r^2=\dfrac{x^2}{4\pi}$.
 
-Si considerino le funzioni $f$ e $g$ determinate da ( )
-$$ x x f log = $$
-e ( )
-$$ 2 ax x g = $$
-, essendo a un parametro
-reale e il logaritmo in base e.
-$1.$ Si discuta, al variare di ,a l’equazione
-$$ 2 log ax $$
-$x =$
-e si dica, in particolare, per quale valore di
-a i grafici di $f$ e $g$ sono tra loro tangenti.
-$2.$ Si calcoli, posto
-$$ ,1 = a $$
-l’area della parte di piano delimitata dai grafici delle funzioni $f$ e $g$ e
-dalle rette
-$$ 1 = x e .2 = x $$
+La somma delle aree è
 
-$3.$ Si studi la funzione
-$$ 2 log ) ( ax x x h $$
--
-scegliendo per a un valore numerico maggiore di e
-$1$ e
-se ne disegni il grafico.
+$$S(x)=\frac{(L-x)^2}{16}+\frac{x^2}{4\pi}.$$
 
-Sessione ordinaria 2006
+Derivando:
 
-CORSO DI ORDINAMENTO
+$$S'(x)=-\frac{L-x}{8}+\frac{x}{2\pi}.$$
 
-Tema di: MATEMATICA
+Ponendo $S'(x)=0$ si ottiene $\dfrac{x}{2\pi}=\dfrac{L-x}{8}$, cioè $8x=2\pi(L-x)$, da cui $x(8+2\pi)=2\pi L$ e
 
-QUESTIONARIO
+$$x=\frac{2\pi L}{2\pi+8}=\frac{\pi L}{\pi+4}.$$
 
-$1.$ Si narra che l’inventore del gioco degli scacchi chiedesse di essere compensato con chicchi di
-grano: un chicco sulla prima casella, due sulla seconda, quattro sulla terza e così via, sempre
-raddoppiando il numero dei chicchi, fino alla $64a$ casella. Assumendo che 1000 chicchi pesino
-circa $38g,$ calcola il peso in tonnellate della quantità di grano pretesa dall’inventore.
-$2.$ I poliedri regolari - noti anche come solidi platonici - sono, a meno di similitudini, solo
-cinque: il tetraedro, il cubo, l’ottaedro, il dodecaedro e l’icosaedro. Sai dimostrarlo?
-$3.$ Un foglio di carta deve contenere: un’area di stampa di $50 cm2,$ margini superiore e inferiore di
-$4 cm$ e margini laterali di $2 cm.$ Quali sono le dimensioni del foglio di carta di area minima che
-si può utilizzare?
-$4.$ La capacità di un serbatoio è pari a quella del cubo inscritto in una sfera di un metro di
-diametro. Quanti sono, approssimativamente, i litri di liquido che può contenere il serbatoio?
-$5.$ Si dimostri che la somma dei coefficienti dello sviluppo di
-$$ n b a ) ( + $$
-è uguale a
-$2$ per ogni
-$n \in$
-$6.$ L’equazione risolvente un dato problema è:
-$$ 0 2 5 2 cos = + $$
-$-k$
-$$ x k $$
-dove $k$ è un parametro reale e
-$x$ ha le seguenti limitazioni:
-$^\circ$
-<
-<
-$^\circ$
-$$ 45 15 x $$
-. Si discuta per quali valori di $k$ le radici
-dell’equazione siano soluzioni del problema.
-$7.$ La funzione
-$$ ( ) 2 3 $$
-$2x$
-$$ x x f $$
--
-soddisfa le condizioni del teorema di Lagrange nell’intervallo
-$$ [ ]1,0 $$
-? Se si, trova il punto ξ che compare nella formula
-ξ
-$$ f a b a f b f $$
-'
--
--
+Poiché $S''(x)=\dfrac{1}{8}+\dfrac{1}{2\pi}>0$, questo punto è un **minimo**. Quindi la somma delle aree è minima tagliando il filo in modo che
 
-$8.$ La funzione
-$$ ( ) tgx x f = $$
-assume valori di segno opposto negli estremi dell’intervallo
-⎥⎦
-⎤
-⎢⎣
-⎡
-$\pi$
-$\pi$
-$$ 4 3 , 4 I $$
-, eppure non esiste alcun
-$x \in$ tale che
-$$ 0 ) ( = x f $$
-. È così? Perché?
-$9.$ Della funzione
-$$ ( ) x f $$
-si $sa$ che è derivabile e diversa da zero in ogni punto del suo dominio e,
-ancora, che:
-$$ ( ) ( ) x f x f = $$
-'
-e ( )
-$$ 1 0 = f $$
-. Puoi determinare ( )
-$$ x f $$
-?
-$$ 10. $$
-La funzione
-$$ ( ) x b x a x f cos $$
-sen +
-ha un estremo relativo per
-$4\pi$
-ed è
-$$ 1 3 2 = $$
-⎟
-⎠
-⎞
-⎜
-⎝
-$⎛\pi$
-Si trovino a e $b$ e si dica quale è il periodo di
-$$ ( ) x f . $$
+$$\underbrace{\frac{\pi L}{\pi+4}}_{\text{cerchio}}\qquad\text{e}\qquad\underbrace{L-\frac{\pi L}{\pi+4}=\frac{4L}{\pi+4}}_{\text{quadrato}}.$$
 
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
 
-Ordin Estero $1 2006.doc$
-(Estero $- 1)$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="307.207" height="204.092" viewBox="-72 -72 230.405 153.069"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-53.615 60.93h198.77"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M143.274 58.53c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-53.615" y="60.931" stroke="none" font-family="cmmi10" font-size="10" transform="translate(202.702 2.153)">x</text><path fill="none" d="M-53.615 60.93v-119.1"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-56.015-56.29c1.44-.38 2.12-1.228 2.4-2.08.28.852.96 1.7 2.4 2.08"/><text x="-53.615" y="60.931" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.354 -123.034)">S</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-53.615-10.201 2.891 2.379 2.892 2.258 2.891 2.188 2.892 2.084 2.891 1.997 2.892 1.893 2.891 1.806 2.892 1.702 2.891 1.632 2.892 1.528 2.891 1.442 2.892 1.337 2.891 1.25 2.891 1.164 2.892 1.06 2.891.972 2.892.885 2.891.782 2.892.712 2.891.573 2.892.52 2.891.4 2.892.33 2.891.243 2.892.122 2.891.052 2.892-.07 2.891-.121 2.891-.243 2.892-.33 2.891-.417 2.892-.52 2.891-.591 2.892-.695 2.891-.799 2.892-.885 2.891-.973 2.892-1.077 2.891-1.146 2.892-1.268 2.891-1.354 2.892-1.424 2.891-1.546 2.892-1.615L76.5 4.317l2.891-1.823L82.284.6l2.891-2.015 2.892-2.066 2.891-2.189 2.892-2.275 2.891-2.379 2.892-2.448 2.891-2.553 2.892-2.657 2.891-2.727 2.892-2.83 2.891-2.953 2.892-3.004"/><path stroke="none" d="M-52.115-10.201a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><g stroke="none"><text x="-52.415" y="56.993" font-family="cmmi7" font-size="7" transform="translate(-15.322 -67.767)">L</text><text x="-46.929" y="53.976" font-family="cmr5" font-size="5" transform="translate(-15.322 -67.767)">2</text><path d="M-67.737-9.536h9.389v.4h-9.389z"/><text x="-51.707" y="64.379" font-family="cmr7" font-size="7" transform="translate(-15.322 -67.767)">16</text></g><path stroke="none" d="M118.601-29.549a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><g stroke="none"><text x="-52.415" y="56.993" font-family="cmmi7" font-size="7" transform="translate(174.25 -87.115)">L</text><text x="-46.929" y="53.976" font-family="cmr5" font-size="5" transform="translate(174.25 -87.115)">2</text><path d="M121.834-28.884h9.39v.4h-9.39z"/><text x="-52.177" y="64.379" font-family="cmr7" font-size="7" transform="translate(174.25 -87.115)">4</text><text x="-48.191" y="64.379" font-family="cmmi7" font-size="7" transform="translate(174.25 -87.115)">¼</text></g><path fill="red" stroke="none" d="M23.3 21.097a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><g stroke-dasharray="3.0,3.0"><path fill="none" d="M21.5 60.93V21.098"/><g stroke="none"><text x="-50.096" y="56.993" font-family="cmmi7" font-size="7" transform="translate(66.389 12.254)">¼</text><text x="-45.168" y="56.993" font-family="cmmi7" font-size="7" transform="translate(66.389 12.254)">L</text><path d="M13.974 70.485h15.053v.4H13.974z"/><text x="-52.415" y="64.379" font-family="cmmi7" font-size="7" transform="translate(66.389 12.254)">¼</text><text x="-47.488" y="64.379" font-family="cmr7" font-size="7" transform="translate(66.389 12.254)">+4</text></g></g><g fill="red" stroke="red"><text x="-53.615" y="60.931" fill="red" stroke="none" font-family="cmr10" font-size="10" transform="translate(86.046 -30.804)">min</text></g><text x="-53.615" y="60.931" stroke="none" font-family="cmmi10" font-size="10" transform="translate(167.314 10.366)">L</text></g></svg>
+</figure>
 
-Sessione ordinaria 2006
+## c)
 
-Tema di MATEMATICA
+Nell'intervallo chiuso $[0,L]$ il massimo di $S(x)$, funzione con concavità verso l'alto, si trova in uno degli estremi. Confrontiamo:
 
-Il candidato risolva uno dei due problemi e $4$ dei $7$ quesiti in cui si articola il
-questionario:
+$$S(0)=\frac{L^2}{16}\qquad\text{(tutto quadrato)},\qquad S(L)=\frac{L^2}{4\pi}\qquad\text{(tutto cerchio)}.$$
 
-PROBLEMA $1.$
-Nel piano, riferito $ad$ un sistema di assi cartesiani ortogonali (Oxy), sono assegnate le
-curve di equazione:
-$$ x b x a y 2 + = , $$
-dove a, $b$ sono parametri reali.
-a) Fra tali curve determinare quella che passa per i punti di coordinate (
-$$ )^{3} ,2 e ( ) 5 ,2 $$
--
-e indicarla con $\gamma$ .
-$b)$ Studiare la curva $\gamma$ e disegnarne l’andamento, dopo aver trovato, in
-particolare, le coordinate del suo punto di minimo relativo e del suo flesso.
-$c)$ Calcolare l’area della regione piana delimitata dalla curva $\gamma$ e dalla retta $y=5.$
-$d)$ Utilizzando il disegno di $\gamma$ , trovare quante soluzioni ammette l’equazione
-$$ 0 2 kx $$
-$x 3$
--
--
-, per $-2<x<2,$ essendo $k$ un parametro reale.
+Poiché $4\pi\approx 12{,}57<16$, si ha $\dfrac{1}{4\pi}>\dfrac{1}{16}$, dunque $S(L)>S(0)$. La somma delle aree è **massima quando non si taglia il filo** e lo si impiega tutto per la circonferenza:
 
-PROBLEMA $2.$
-Nel piano, riferito $ad$ un sistema monometrico di assi cartesiani ortogonali , è
-assegnata la parabola p’ di equazione:
-	,
-dove  è un numero reale positivo assegnato.
-a) Condotta una generica retta $t$ per il fuoco $F$ della parabola p’ e chiamato $M$ il
-punto medio del segmento che p’ intercetta su $t,$ trovare le funzioni 
- ed
-
- che forniscono, nell’ordine, l’ascissa e l’ordinata di $M$ per mezzo della
-pendenza
-della retta $t.$
-$b)$ Considerate le equazioni 
- e 
- ed eliminato il parametro
-$$ fra $$
-esse, si trova l’equazione di una seconda parabola p” (è chiamata luogo
-geometrico del punto $M$ al variare di $t$ nel fascio di centro $F).$
-$c)$ Calcolare l’area A della regione piana $R$ delimitata dalle parabole p’ e p” e
-dalle rette di equazioni  ed 	.
-$d)$ Trovare il valore di  per il quale l’area A è uguale a $24$
-$13$ e, in corrispondenza
-di tale valore, calcolare il volume del solido generato dalla regione $R$ quando
-ruota di un giro completo intorno all’asse $y.$
+$$S_{\max}=\frac{L^2}{4\pi}.$$
 
-Ordin Estero $1 2006.doc$
-QUESTIONARIO.
+## d)
 
-$1.$ Calcolare la derivata, rispetto $ad x,$ della funzione f(x) $= sen2(2x).$
-$2.$ Si consideri la seguente proposizione:
-Condizione necessaria e sufficiente affinché due triangoli siano congruenti è che
-abbiano due lati congruenti e i seni degli angoli fra essi compresi uguali.
-Dire se è vera o falsa e spiegare in modo esauriente la risposta data.
-$3.$ Si indichi con $\alpha$ l’angolo che una diagonale di un cubo forma con una faccia. La
-misura di $\alpha$ , espressa in radianti:
-[A] è arcsen $3$
-$3$ ; [B] è arccos $6$
-$3$ ; [C] è arctg $3$
-$6$ ; [D] un valore diverso.
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione
-della scelta operata.
-$4.$ Considerata l’equazione:
-$$ 0 2 x $$
-$x 4$
--
-, spiegare, con il metodo preferito ma in
-maniera esauriente, perché non può ammettere più di una soluzione razionale.
-$5.$ In un cono equilatero di apotema  inscrivere il cilindro circolare retto di
-volume massimo.
-$6.$ La funzione reale di variabile reale f(x) ammette derivata nulla in tutti i punti di
-un intervallo $J,$ tranne che nel punto  di $J,$ dove la funzione non è continua. Si
-può concludere che la funzione f(x) è costante in $J?$ Fornire una spiegazione
-esauriente della risposta.
-$7.$ Si consideri il seguente limite:
-$$ x 1 0 x 2 x 1 lim $$
-
-
-
-
-
- -
-$\to$
-Esso è uguale a:
-[A]
-e ; [B]
-$$ 2 e $$
-$1$ ; [C]
-e ; [D]
-$$ e 1 , $$
-dove “e” è il numero di Nepero.
-Una sola alternativa è corretta: individuarla e fornire una spiegazione esauriente
-della scelta operata.
+Sia $V=abc$ il volume del parallelepipedo di dimensioni $a$, $b$, $c$. Aumentando ciascuna dimensione del $10\%$, ogni fattore viene moltiplicato per $1{,}1$, quindi il nuovo volume è
 
-_________________________
+$$V'=(1{,}1\,a)(1{,}1\,b)(1{,}1\,c)=1{,}1^3\,abc=1{,}331\,V.$$
 
-$\cdot$ Durata della prova: $6$ ore.
-$\cdot$ Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
-$\cdot$ È consentito l’uso della calcolatrice non programmabile.
+L'aumento è $V'-V=0{,}331\,V$: **occorre il $33{,}1\%$ di terreno in più.**
 
 *Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

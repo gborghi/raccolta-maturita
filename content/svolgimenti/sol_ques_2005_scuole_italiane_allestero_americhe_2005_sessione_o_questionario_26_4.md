@@ -1,83 +1,46 @@
----
-title: 2005 Americhe Ordinaria — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_4
-of_item: ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_4
-prova_id: prova_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26_4|2005 Americhe Ordinaria — Questionario — Quesito 4]] · **Prova:** [[Prove/2005_scuole_italiane_allestero_americhe_2005_sessione_o_questionario_26|2005 Americhe Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2005
+Le parti letterali dei termini dello sviluppo del binomio $(a+b)^7$, ordinati secondo le potenze decrescenti di $a$ e crescenti di $b$, sono rispettivamente
 
-QUESITO $4$
+$$a^7,\quad a^6b,\quad a^5b^2,\quad a^4b^3,\quad a^3b^4,\quad a^2b^5,\quad ab^6,\quad b^7.$$
 
-Le parti letterali dei termini dello sviluppo del binomio $(a+ b)7$ , ordinati secondo le
-potenze decrescenti di a e crescenti di $b,$ sono rispettivamente: $a^{7}, a6b, a5b^{2}, a4b^{3}, a3b^{4},$
-$a2b^{5}, ab6, b^{7}.$ Elencare i loro coefficienti e giustificare in modo esauriente la risposta.
+Si chiede di elencare i loro coefficienti, giustificando la risposta.
 
-La formula generale dello sviluppo della potenza di un binomio è la seguente:
+## Formula del binomio di Newton
 
-$(a+ b)n= (n$
-$0) an+ (n$
-$1) an-1b+ ⋯+$ (
-$n-1) abn-1 + (n$
-$n) bn$
+Per ogni intero $n\ge 0$ vale lo sviluppo
 
-Quindi i coefficienti, nell’ordine richiesto, sono:
+$$(a+b)^n=\sum_{k=0}^{n}\binom{n}{k}\,a^{\,n-k}\,b^{\,k}=\binom{n}{0}a^n+\binom{n}{1}a^{n-1}b+\cdots+\binom{n}{n-1}ab^{n-1}+\binom{n}{n}b^n,$$
 
-$(n$
-$0) , (n$
-$$ 1) , ... , ( n $$
-$n-1) , (n$
-$n)$
-Con $n=7$ abbiamo:
+dove i coefficienti sono i coefficienti binomiali
 
-$$ (7 0) = 1, (7 1) = 7, (7 2) = 21, (7 3) = 35, (7 4) = 35, (7 5) = 21, (7 6) = 7, (7 7) = 1 $$
+$$\binom{n}{k}=\frac{n!}{k!\,(n-k)!}.$$
 
-QUESITO $5$
+Il termine di posto $k+1$ ha dunque parte letterale $a^{\,n-k}b^{\,k}$ e coefficiente $\binom{n}{k}$: al crescere di $k$ da $0$ a $n$ la potenza di $a$ decresce e quella di $b$ cresce, esattamente nell'ordine indicato dal testo.
 
-In una fabbrica lavorano $35$ operai e $25$ operaie. Si deve formare una delegazione
-comprendente $3$ operai e $2$ operaie. Quante sono le possibili delegazioni?
+## Calcolo dei coefficienti per $n=7$
 
-I $3$ operari possono essere scelti in un numero di modi pari alle combinazioni di $35$ oggetti
-a $3$ a $3: C35,3 = (35$
-$35∙34∙33$
-$$ 6 = 6545 . $$
-Le $2$ operaie possono essere scelte in un numero di modi pari alle combinazioni di $25$
-oggetti a $2$ a $2: C25,2 = (25$
-$25∙24$
-$$ 2 = 300. $$
+Applicando la formula con $n=7$ si ottiene:
 
-Le possibili delegazioni sono quindi 6545 $∙300 = 1963500$ .
+$$
+\begin{aligned}
+\binom{7}{0}&=1, & \binom{7}{1}&=7, & \binom{7}{2}&=\frac{7\cdot 6}{2}=21, & \binom{7}{3}&=\frac{7\cdot 6\cdot 5}{6}=35,\\[4pt]
+\binom{7}{4}&=35, & \binom{7}{5}&=21, & \binom{7}{6}&=7, & \binom{7}{7}&=1.
+\end{aligned}
+$$
 
-QUESITO $6$
+Gli ultimi quattro valori si ricavano subito dagli altri grazie alla proprietà di simmetria $\binom{n}{k}=\binom{n}{n-k}$.
 
-Calcolare il limite della funzione
-$2x-sen 3x$
-$3x+cos2x$ per $x$ tendente a più infinito. E’ vero o falso
-che si può ricorrere al teorema di $De$ L’Hȏpital? Fornire una esauriente spiegazione della
-risposta.
+## Conclusione
 
-$$ lim $$
-$x\to +\infty$
-$2x-sen 3x$
-$3x+$ cos $2x=$ lim
-$x\to +\infty$
-$x(2 -sen 3x$
-$x(3 +$ cos $2x$
-$$ x ) = 2 3 $$
+I coefficienti dei termini, nell'ordine richiesto, sono quindi
+
+$$1,\quad 7,\quad 21,\quad 35,\quad 35,\quad 21,\quad 7,\quad 1,$$
+
+cioè la settima riga del triangolo di Tartaglia. Si osservi come verifica che la loro somma vale $2^7=128$, in accordo con l'identità $\sum_{k=0}^{n}\binom{n}{k}=2^{\,n}$ (che si ottiene ponendo $a=b=1$ nello sviluppo del binomio).
 
 *Fonte:* [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

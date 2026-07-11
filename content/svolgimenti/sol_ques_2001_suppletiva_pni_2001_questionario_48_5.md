@@ -1,76 +1,31 @@
----
-title: 2001 Suppletiva PNI — Questionario — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2001_suppletiva_pni_2001_questionario_48_5
-of_item: ques_2001_suppletiva_pni_2001_questionario_48_5
-prova_id: prova_2001_suppletiva_pni_2001_questionario_48
-anno: '2001'
-pdf: Prova_Maturita_2001.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2001
----
+
 
 **Quesito:** [[Quesiti/ques_2001_suppletiva_pni_2001_questionario_48_5|2001 Suppletiva PNI — Questionario — Quesito 5]] · **Prova:** [[Prove/2001_suppletiva_pni_2001_questionario_48|2001 Suppletiva PNI — Questionario]]
 
-Calcoliamola derivata prima:
+Ogni teoria matematica è costruita con il metodo *ipotetico-deduttivo*: per evitare che le definizioni e le dimostrazioni si rincorrano all'infinito (o cadano in circolo vizioso), occorre partire da alcuni termini non definiti e da alcune proposizioni non dimostrate. Sono, rispettivamente, i **concetti primitivi** e gli **assiomi**.
 
-f'(x) $= D(x\pi -\pi x) = \pi x\pi -1 -\pi$ x∙ln $(\pi$ )
+## Concetto primitivo
 
-$f'(\pi ) = \pi ∙\pi \pi -1 -\pi \pi ∙ln(\pi ) = \pi \pi -\pi \pi ∙ln(\pi ) = \pi \pi (1 -ln(\pi )) < 0$
+Un **concetto primitivo** è un ente (o una relazione) che *non viene definito*, ma è assunto come nozione di base per la costruzione della teoria. La sua necessità è logica: definire un concetto significa spiegarlo mediante concetti più semplici, ma questo processo non può proseguire all'infinito; occorre quindi fermarsi ad alcuni termini di partenza, il cui significato si considera intuitivamente noto e che vengono caratterizzati soltanto dalle proprietà espresse dagli assiomi.
 
-perché $ln(\pi ) <$ ln(e) $= 1$
+**Esempi.**
 
-Calcoliamola derivata seconda:
+- Nella geometria euclidea sono concetti primitivi il **punto**, la **retta** e il **piano**: non se ne dà una definizione, ma se ne stabiliscono le proprietà tramite gli assiomi (per esempio: «per due punti distinti passa una e una sola retta»).
+- Nella teoria degli insiemi sono primitivi le nozioni di **insieme** e di **appartenenza** ($\in$) di un elemento a un insieme.
 
-f''(x) $= D(\pi x\pi -1 -\pi$ x∙ln $(\pi )) = \pi ∙(\pi -1) ∙x\pi -2 -\pi x∙ln2(\pi$ )
+## Assioma
 
-$f''(\pi ) = \pi ∙(\pi -1) ∙\pi \pi -2 -\pi \pi ∙ln2(\pi ) = \pi \pi -\pi \pi -1 -\pi \pi ∙ln2(\pi ) = \pi \pi (1 -1$
-$\pi -ln2(\pi$ ))
+Un **assioma** (detto anche *postulato*) è una proposizione che si assume **vera senza dimostrazione**. Gli assiomi costituiscono il punto di partenza della teoria: da essi, applicando esclusivamente le regole della logica, si ricavano per deduzione tutte le altre proposizioni, i **teoremi**. Un buon sistema di assiomi deve essere *coerente* (non deve condurre a contraddizioni) e, possibilmente, *indipendente* (nessun assioma deve essere deducibile dagli altri).
 
-Siccome $1 -$
-$\pi -ln2(\pi ) \cong -0.63$ risulta $f''(\pi ) < 0.$
+**Esempi.**
 
-QUESITO $4$
+- Gli **assiomi di Euclide** per la geometria, tra cui il celebre *quinto postulato* (delle parallele): «per un punto esterno a una retta passa una e una sola retta parallela alla retta data». Proprio la sua indipendenza dagli altri assiomi ha condotto, negandolo, alle geometrie non euclidee.
+- Gli **assiomi di Peano** per i numeri naturali, che fissano le proprietà del numeri primitivi «zero» e «successore» (per esempio: «$0$ non è il successore di alcun numero naturale»).
 
-Calcolare, integrando per parti: $\int$ arcsen $x dx$
-$$ 1 0 . $$
+## In sintesi
 
-Cerchiamo una primitiva di arcsen $x.$
-
-$\int$ arcsen $x dx= \int (x)'arcsen(x)dx= x$ arcsen(x) $-\int$ x∙
-$\sqrt{1} -x^{2} dx=$
-
-$= x$ arcsen(x) +
-$2 \int (-2x)(1 -x^{2})-1$
-$2 dx= x$ arcsen(x) +
-$2$ ∙
-$(1-x^{2})$
-$$ 1 2 1 2 $$
-$+ k$
-
-Quindi:
-
-$\int$ arcsen $x dx$
-$$ 1 0 $$
-= [x arcsen(x) $+ (1 -x^{2})$
-$$ 1 2] 0 1 $$
-$= arcsen(1) + 0 -(0 + 1) = \pi$
-$2 -1$
-
-QUESITO $5$
-
-Spiegare, anche con esempi appropriati, il significato in matematica di «concetto
-primitivo» e di «assioma».
-
-Un concetto primitivo è un ente che non viene definito e che viene assunto come
-concetto base per la costruzione di una teoria (per esempio il punto o la retta della
-geometria euclidea).
+I due concetti sono complementari e insieme fondano una teoria: i **concetti primitivi** ne forniscono gli *oggetti* di cui si parla, mentre gli **assiomi** ne fissano le *proprietà fondamentali*, cioè le regole del gioco assunte come vere. Da questa base, mediante le definizioni (che introducono nuovi enti a partire da quelli primitivi) e le dimostrazioni (che stabiliscono i teoremi a partire dagli assiomi), si sviluppa l'intero edificio deduttivo della teoria.
 
 *Fonte:* [📄 PDF p.50](https://drive.google.com/file/d/1rPhDiY_ek9MnO2CgDPcFwEL4iWrppD7L/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -1,325 +1,67 @@
----
-title: 2000 Suppletiva PNI — Problema 3 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2000_sessione_suppletiva_pni_2000_problema3_52_1
-of_item: prob_2000_sessione_suppletiva_pni_2000_problema3_52_1
-prova_id: prova_2000_sessione_suppletiva_pni_2000_problema3_52
-anno: '2000'
-pdf: Prova_Maturita_2000.pdf
-cluster: Probabilità e Combinatoria
-tags:
-  - maturita/soluzione
-  - area/probabilita_e_combinatoria
-  - cluster/probabilit_e_combinatoria
-  - anno/2000
----
+
 
 **Problema:** [[Problemi/prob_2000_sessione_suppletiva_pni_2000_problema3_52_1|2000 Suppletiva PNI — Problema 3 — Problema 1]] · **Prova:** [[Prove/2000_sessione_suppletiva_pni_2000_problema3_52|2000 Suppletiva PNI — Problema 3]]
 
-Sessione suppletiva PNI 2000 - Problema $3$
+Si estraggono a caso $5$ palline, una dopo l'altra e senza reimbussolamento, da un sacchetto contenente $90$ palline numerate da $1$ a $90$ (gioco del Lotto).
 
-LICEO SCIENTIFICO PNI SUPPLETIVA 2000 - PROBLEMA $3$
+## a)
 
-Si consideri l’esperimento consistente nell’estrazione a caso di $5$ palline, una dopo l’altra, senza
-reimbussolamento delle palline estratte, da un sacchetto contenente $90$ palline numerate da $1$ a $90,$
-aventi tutte le stesse possibilità di uscita (gioco del Lotto).
-a.
-Dire se è più probabile che, prescindendo dall’ordine di uscita, esca:
-la cinquina di numeri “successivi” ${1,2,3,4,5}$ o la cinquina di numeri “non successivi”
-$$ 2,3,5,8,13}; $$
-una qualunque cinquina di numeri “successivi” o una qualunque cinquina di numeri
-“non successivi”.
-$b.$ Prese in esame le due seguenti proposizioni:
-A: «La probabilità che il $2^\circ$ numero estratto sarà il $“90”$ è $1/89»,$
-$B:$ «La probabilità che nei $5$ numeri estratti ci sarà il $“90”$ è $5/90»,$ stabilire quali delle
-seguenti implicazioni sono vere e quali no e fornire esaurienti spiegazioni:
-$(1) A\to B, (2) B\to$ A, $(3)$ A $\to B , (4) B \to$ A .
-$c.$
-Supposto di puntare una determinata somma sull’uscita dei tre numeri $14, 8, 42,$ sulla
-“Ruota” di Napoli, calcolare la probabilità di vincita (fare un terno al Lotto). Se il gioco
-fosse equo e la puntata fosse di $5$ Euro, quanto dovrebbe pagare lo Stato in caso di vincita
-del giocatore?
-$d.$ Supponendo di ripetere $n$ volte l’esperimento considerato, calcolare la probabilità che il
-$“90”$ esca, tra i $5$ numeri estratti:
-al più $5$ volte;
-per la prima volta proprio alla $n-esima$ estrazione. Qual è il più piccolo valore di
-$n$ per cui questa probabilità non supera $10-10?$
+**a1) Confronto tra due cinquine assegnate.** Ogni estrazione *ordinata* di $5$ palline distinte ha probabilità
+$$\frac{1}{90}\cdot\frac{1}{89}\cdot\frac{1}{88}\cdot\frac{1}{87}\cdot\frac{1}{86}.$$
+Prescindendo dall'ordine, una fissata cinquina (insieme di $5$ numeri) può presentarsi in $5!$ ordini diversi, quindi ha probabilità
+$$\frac{5!}{90\cdot 89\cdot 88\cdot 87\cdot 86}=\frac{1}{\binom{90}{5}}.$$
+Questo valore non dipende da *quali* siano i cinque numeri: la cinquina di numeri successivi $\{1,2,3,4,5\}$ e la cinquina di numeri non successivi $\{2,3,5,8,13\}$ hanno perciò **la stessa probabilità** di uscire.
 
-a)
+**a2) Confronto tra le due categorie.** È invece più probabile che esca una qualunque cinquina di numeri *non successivi*.
 
-Si consideri l’esperimento consistente nell’estrazione a caso di $5$ palline, una dopo l’altra, senza
-reimbussolamento delle palline estratte, da un sacchetto contenente $90$ palline numerate da $1$ a $90,$
-aventi tutte le stesse possibilità di uscita (gioco del Lotto).
-Dire se è più probabile che, prescindendo dall’ordine di uscita, esca:
-$1)$ la cinquina di numeri “successivi” ${1,2,3,4,5}$ o la cinquina di numeri “non successivi”
-$$ 2,3,5,8,13}; $$
-$2)$ una qualunque cinquina di numeri “successivi” o una qualunque cinquina di numeri “non
-successivi”.
+Le cinquine di numeri successivi hanno come primo elemento uno tra $1,2,\dots,86$: sono quindi solo $86$, da $(1,2,3,4,5)$ a $(86,87,88,89,90)$. La probabilità di ottenere una qualunque cinquina successiva è
+$$\frac{86}{\binom{90}{5}}.$$
+Tutte le rimanenti $\binom{90}{5}-86$ cinquine sono formate da numeri non tutti successivi: essendo il loro numero enormemente maggiore di $86$, è molto più probabile ottenere una cinquina di numeri non successivi.
 
-$a^{1})$
+## b)
 
-La probabilità è la stessa, poiché la probabilità di estrarre nell’ordine una qualsiasi cinquina è la
-stessa ed è pari a:
+**Proposizione $A$** — «la probabilità che il $2^\circ$ numero estratto sia il $90$ è $1/89$». La probabilità effettiva è
+$$P(2^\circ\text{ estratto}=90)=\frac{89}{90}\cdot\frac{1}{89}=\frac{1}{90}\neq\frac{1}{89}.$$
+Quindi $A$ è **falsa** (e $\overline{A}$ vera).
 
-$p= 1$
-$90 ∙1$
-$89 ∙1$
-$88 ∙1$
-$87 ∙1$
-$$ 86 $$
+**Proposizione $B$** — «la probabilità che nei $5$ numeri estratti ci sia il $90$ è $5/90$». I casi favorevoli sono le cinquine che contengono il $90$, cioè le quaterne di numeri scelti tra i restanti $89$: sono $\binom{89}{4}$. Perciò
+$$P(90\in\text{cinquina})=\frac{\binom{89}{4}}{\binom{90}{5}}=\frac{5}{90}=\frac{1}{18}.$$
+Quindi $B$ è **vera** (e $\overline{B}$ falsa).
 
-Sessione suppletiva PNI 2000 - Problema $3$
+Ricordando che un'implicazione $p\to q$ è falsa solo quando $p$ è vera e $q$ falsa:
 
-$a^{2})$
+- $(1)\ A\to B$: $A$ è falsa $\Rightarrow$ implicazione **vera**.
+- $(2)\ B\to A$: $B$ vera e $A$ falsa $\Rightarrow$ **falsa**.
+- $(3)\ \overline{A}\to\overline{B}$: $\overline{A}$ vera e $\overline{B}$ falsa $\Rightarrow$ **falsa**.
+- $(4)\ \overline{B}\to\overline{A}$: $\overline{B}$ è falsa $\Rightarrow$ implicazione **vera**.
 
-E’ più probabile che esca una cinquina di numeri non successivi.
+## c)
 
-Infatti i casi favorevoli all’uscita di cinque numeri successivi (che sono le cinquine che hanno come
-primo estratto $1,2,3,...,86)$ sono $86: (1,2,3,4,5), (2,3,4,5,6), ... , (86,87,88,89,90).$
+Si punta sul terno $14,\ 8,\ 42$. Le cinquine favorevoli contengono i tre numeri giocati e due qualunque degli altri $87$: sono $\binom{87}{2}$. La probabilità di vincita è quindi
+$$P(\text{terno})=\frac{\binom{87}{2}}{\binom{90}{5}}=\frac{3741}{43\,949\,268}=\frac{1}{11748}\approx 8{,}5\cdot 10^{-5}\approx 0{,}0085\%.$$
 
-Le cinquine fatte da numeri non successivi sono in numero maggiore. Per esempio se il primo
-estratto è $1,$ il secondo estratto può essere un qualsiasi numero da $3$ a $90,$ mentre nel caso precedente
-il secondo estratto poteva essere solo il $2.$
+In un gioco equo la probabilità di vincita eguaglia il rapporto $\dfrac{\text{puntata}}{\text{incasso}}$, da cui
+$$\text{incasso}=\frac{\text{puntata}}{P(\text{terno})}=5\cdot 11748=58\,740\ \text{€}.$$
+Con una puntata di $5$ € lo Stato dovrebbe quindi pagare $58\,740$ € affinché il gioco sia equo. In realtà il Lotto paga $4500$ volte la puntata, cioè $5\cdot 4500=22\,500$ €: il gioco **non è equo**.
 
-$b)$
+## d)
 
-Prese in esame le due seguenti proposizioni:
-A: «La probabilità che il $2^\circ$ numero estratto sarà il $“90”$ è $1/89»,$
-$B:$ «La probabilità che nei $5$ numeri estratti ci sarà il $“90”$ è $5/90»,$
-stabilire quali delle seguenti implicazioni sono vere e quali no e fornire esaurienti spiegazioni:
+In una singola estrazione di $5$ palline la probabilità che compaia il $90$ è (come al punto b)
+$$p=\frac{5}{90}=\frac{1}{18},\qquad q=1-p=\frac{85}{90}=\frac{17}{18}.$$
+Ripetendo l'esperimento $n$ volte in modo indipendente, il numero di volte in cui esce il $90$ segue una distribuzione binomiale di parametri $n$ e $p$.
 
-$(1) A\to B, (2) B\to$ A, $(3)$ A̅ $\to$ B̅, $(4)$ B̅ $\to$ A̅
+**1) Al più $5$ volte.**
+$$P(\text{al più }5)=\sum_{k=0}^{5}\binom{n}{k}\,p^{k}q^{\,n-k}=\sum_{k=0}^{5}\binom{n}{k}\left(\frac{5}{90}\right)^{k}\left(\frac{85}{90}\right)^{n-k}.$$
 
-A) La probabilità p(A) che il secondo numero estratto sia il $90$ coincide con la probabilità che il
-primo estratto NON sia $90$ ed il SECONDO estratto sia il $90,$ quindi: p(A) =
-$$ 89 $$
-$90$ ∙
-$$ 1 89 = 1 90 . $$
-Pertanto la proposizione A è FALSA.
-
-Osserviamo che la proposizione $B)$ è VERA, in quanto la probabilità che nei $5$ numeri estratti ci sia
-il $90$ si calcola nel seguente modo. I casi favorevoli (cioè le cinquine con il $90)$ corrispondono alle
-quaterne non ordinate che si possono fare con $89$ oggetti (i numeri da $1$ a $89)$ a $4$ a $4,$ cioè le
-combinazioni semplici di $89$ oggetti a $4$ a $4: C89,4 = (89$
-$4$ ). I casi possibili corrispondono alle cinquine
-che si possono fare con $90$ oggetti (i numeri da $1$ a $90)$ a $5$ a $5,$ cioè le combinazioni semplici di $90$
-oggetti a $5$ a $5: C90,5 = (90$
-$5$ ). Perciò:
-
-p(B) $= C89,4$
-$C90,5$
-$$ = (89 4 ) (90 5 ) = $$
-$89 ∙88 ∙87 ∙86$
-$4!$
-$90 ∙89 ∙88 ∙87 ∙86$
-$5!$
-$$ = 5 90 . $$
-
-Quindi A falsa e A̅ vera; $B$ vera, B̅ falsa.
-
-$1)$ Ricordiamo che un’implicazione del tipo $p\to q$ è FALSA solo se $p$ è vera e $q$ è falsa.
-Nel nostro caso la proposizione A è falsa, quindi l’implicazione $A\to B$ è vera (a prescindere dal
-valore di verità di $B).$
-
-$2) B\to$ A è FALSA (essendo $B$ vera ed A falsa).
-$3)$ A̅ $\to$ B̅ è FALSA (essendo A̅ vera ed B̅ falsa).
-$4)$ B̅ $\to$ A̅ è VERA (essendo B̅ falsa ed A̅ vera).
-
-Sessione suppletiva PNI 2000 - Problema $3$
-
-$c)$
-
-Supposto di puntare una determinata somma sull’uscita dei tre numeri $14, 8, 42,$ sulla “Ruota” di
-Napoli, calcolare la probabilità di vincita (fare un terno al Lotto). Se il gioco fosse equo e la puntata
-fosse di $5$ Euro, quanto dovrebbe pagare lo Stato in caso di vincita del giocatore?
-
-La probabilità di fare un terno al Lotto si calcola nel modo seguente.
-Le cinquine favorevoli sono quelle che contengono, in ordine qualsiasi, i tre numeri giocati, che
-equivalgono alle cinquine con $2$ degli $87$ numeri non giocati, cioè le combinazioni di $87$ oggetti a $2$ a $2:$
-$C87,2 = (87$
-I casi possibili corrispondono alle cinquine che si possono fare con $90$ oggetti (i numeri da $1$ a $90)$ a $5$ a $5,$
-cioè le combinazioni semplici di $90$ oggetti a $5$ a $5: C90,5 = (90$
-$5$ ). Perciò:
-
-p(terno) $= n.$ casi favorevoli
-$n.$ casi possibili
-$= C87,2$
-$C90,5$
-$$ = 3741 $$
-$43949268 \cong 0.000085 \cong 0.0085$ % = p(terno).
-
-Ricordiamo che la probabilità in esame può essere vista come: $p=$
-puntata
-incasso, quindi: $incasso=$
-puntata
-
-Nel nostro caso: $incasso=$
-$0.000085 \cong 58823.53$ € .
-
-Se il gioco fosse equo lo Stato dovrebbe quindi pagare circa $58823.53$ € in caso di vincita.
-
-In effetti nel gioco del Lotto lo Stato paga 4500 volte la puntata (sia che si punti su una data ruota, per
-esempio Napoli, che su una ruota nazionale). Quindi puntando $5$ euro si incassa: $5x4500=22500$ euro.
-Il gioco del Lotto non è equo!
-
-$d)$
-
-Supponendo di ripetere $n$ volte l’esperimento considerato, calcolare la probabilità che il $“90”$ esca,
-tra i $5$ numeri estratti:
-$1)$ al più $5$ volte;
-$2)$ per la prima volta proprio alla $n-esima$ estrazione. Qual è il più piccolo valore di $n$ per
-cui questa probabilità non supera $10-10?$
-
-Calcoliamo la probabilità che il $90$ esca “al più” $5$ volte su $n$ prove $(n$ estrazioni di cinque numeri senza
-reimbussolamento).
-
-La probabilità che NON ESCA IL $90$ in $5$ estrazioni $(n=1)$ senza reimbussolamento è data da:
-
-$p=$
-$$ 89 $$
-$90$ ∙
-$$ 88 $$
-$89$ ∙
-$$ 87 $$
-$88$ ∙
-$$ 86 $$
-$87$ ∙
-$$ 85 86 = 85 90 $$
-
-Quindi la probabilità che ESCA IL $90$ in $5$ estrazioni (probabilità di $1$ successo) è $1 -$
-$$ 85 90 = 5 90. $$
-La probabilità di avere “al più $5$ successi in $n$ prove” è data da:
-
-p(n, $0) +$ p(n, $1) +$ p(n, $2) +$ p(n, $3) +$ p(n, $4) +$ p(n, $5).$
-
-Sessione suppletiva PNI 2000 - Problema $3$
-
-Si tratta di una distribuzione binomiale (o di Bernoulli), con $p=$
-$90$ e $q= 1 -p=$
-$$ 85 90 : $$
-
-$(n$
-$0) p0q^{5} + (n$
-$1) p1q^{4} + ⋯+ (n$
-$5) p5q^{0} = \sum (n$
-$k) pkqn-k$
-$k=0$
-$= \sum (n$
-$k) ( 5$
-$$ 90) k (85 90) $$
-$n-k$
-$k=0$
-
-La probabilità richiesta è quindi: $\sum$
-$(n$
-$k)$ (
-$$ 5 90) k ( 85 90) $$
-$n-k$
-$k=0$
-
-Calcoliamo ora la probabilità che, ripetendo $n$ volte l’esperimento considerato, il $“90”$ esca, tra i $5$
-numeri estratti per la prima volta proprio alla $n-esima$ estrazione.
-
-Dobbiamo avere nelle prime $“n-1”$ prove l’insuccesso: (
-$$ 85 90) $$
-$n-1$
-e $all’n-ma$ prova il successo:
-$$ 5 90 . $$
-La probabilità richiesta è quindi: (
-$$ 85 90) $$
-$n-1$
-∙
-$$ 5 90 $$
-
-Calcoliamo ora il più piccolo valore di $n$ per cui questa probabilità non supera $10-10.$
-
-Deve essere: (
-$$ 85 90) $$
-$n-1$
-∙
-$90 \le 10-10,$ (
-$$ 85 90) $$
-$n-1$
-$\le 10-10$ ∙
-$$ 90 $$
-$5 , ln(($
-$$ 85 90) $$
-$n-1$
-) $\le ln(10-10$ ∙
-$$ 90 5 ) ; $$
-
-$(n-1)ln (85$
-$90) \le ln(10-10 ∙90$
-$5 ) ; n-1 \ge$
-$ln(10-10 ∙90$
-$ln (85$
-$$ 90) $$
-$\cong 352.27; n\ge 1 + 352.2;$
-
-$n\ge 353.27;$ essendo $n$ intero positivo, il più piccolo valore di $n$ per cui la probabilità richiesta
-non supera $10-10$ è $354.$
-
-Con la collaborazione di Angela Santamaria
-
-A.S. $1999/2000:$ SESSIONE SUPPLETIVA
-
-CORSO SPERIMENTALE - P.N.I.
-
-Tema di: MATEMATICA
-
-Il candidato scelga a suo piacimento due dei seguenti problemi e $li$ risolva:
-
-$1.$ È assegnata la curva $\gamma$ di equazione:
-$$ ( )^{2} a x e y $$
--
-
-dove a è una costante positiva.
-
-Il candidato:
-a) studi e disegni il grafico di $\gamma$ ;
-$b)$ verifichi in particolare che essa ammette due punti di flesso $F^{1}$ e $F^{2}$ di ascisse rispettive
-$$ 2 / 2 1 a x $$
--
-$$ = e 2 / 2 2 a $$
-$x =$
-$c)$ fornisca col metodo dei trapezi una stima dell’area della regione del piano delimitata dal
-grafico di $\gamma$ sull’intervallo di estremi $x^{1}$ e $x^{2}$ e dal segmento $F1F^{2};$
-$d)$ dica se il risultato ottenuto rappresenti una stima per difetto o per eccesso del risultato
-esatto;
-e) illustri la relazione che intercorre tra $\gamma$ e la curva normale di Gauss utilizzata nella
-statistica.
-
-$2.$ Il triangolo ABC, rettangolo e non isoscele, è la base di una piramide di altezza $3$ a
-$$ 3 2 . $$
-Le misure dei suoi cateti sono date da due delle tre radici dell’equazione:
-$$ 0 3 10 11 4 3 2 2 3 = $$
--
--
-$$ a x a ax x $$
-
-Il candidato:
- determini la distanza $k$ di un piano $\alpha$ dal vertice della piramide sapendo che $\alpha$ è
-parallelo al piano del triangolo ABC e taglia la piramide in due parti equivalenti;
- determini $k$ nel caso in cui il triangolo ABC ha un cateto che misura a e l’altro cateto è
-una soluzione, approssimata con due cifre significative, dell’equazione:
-$$ 0 2 4 3 2 3 = $$
--
-$$ + a xa x $$
-
- esponga il procedimento utilizzato per il calcolo approssimato della radice
-dell’equazione proposta.
-
-$3.$ Si consideri l’esperimento consistente nell’estrazione a caso di $5$ palline, una dopo l’altra, senza
-reimbussolamento delle palline estratte, da un sacchetto contenente $90$ palline numerate da $1$ a
-$90,$ aventi tutte le stesse possibilità di uscita (gioco del Lotto).
-a. Dire se è più probabile che, prescindendo dall’ordine di uscita, esca:
- la cinquina di numeri “successivi” ${1,2,3,4,5}$ o la cinquina di numeri “non successivi”
-$$ 2,3,5,8,13}; $$
- una qualunque cinquina di numeri “successivi” o una qualunque cinquina di numeri “non
-successivi”.
-$b.$ Prese in esame le due seguenti proposizioni:
+**2) Per la prima volta alla $n$-esima estrazione.** Servono $n-1$ insuccessi seguiti da un successo:
+$$P=\left(\frac{85}{90}\right)^{n-1}\cdot\frac{5}{90}.$$
+Imponendo $P\le 10^{-10}$:
+$$\left(\frac{85}{90}\right)^{n-1}\le 10^{-10}\cdot\frac{90}{5}=1{,}8\cdot 10^{-9}.$$
+Passando ai logaritmi (poiché $\ln\frac{85}{90}<0$ il verso si inverte):
+$$n-1\ge\frac{\ln\!\left(1{,}8\cdot 10^{-9}\right)}{\ln\frac{85}{90}}\approx\frac{-20{,}135}{-0{,}05716}\approx 352{,}3,$$
+cioè $n\ge 353{,}3$. Essendo $n$ intero positivo, il più piccolo valore per cui la probabilità richiesta non supera $10^{-10}$ è
+$$\boxed{\,n=354\,}.$$
 
 *Fonte:* [📄 PDF p.52](https://drive.google.com/file/d/1nJgEA-rszR8-nXdCQEHB2vnKntfuIAbq/view)
-
 
 #maturita/soluzione #area/probabilita_e_combinatoria #cluster/probabilit_e_combinatoria

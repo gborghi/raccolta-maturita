@@ -1,75 +1,33 @@
----
-title: 2004 PNI Straordinaria — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_4
-of_item: ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_4
-prova_id: prova_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135_4|2004 PNI Straordinaria — Questionario — Quesito 4]] · **Prova:** [[Prove/2004_liceo_scientifico_pni_2004_sessione_straordinaria_questionario_135|2004 PNI Straordinaria — Questionario]]
 
-Liceo Scientifico PNI 2004
+Si deve stabilire il comportamento di $\tan x$ per $x\to +\infty$ e scegliere fra le quattro alternative proposte:
 
-QUESITO $3$
+A) è $+\infty$;  B) è $\dfrac{\pi}{2}$;  C) non esiste;  D) esiste ma non si riesce a calcolare.
 
-Determinare il dominio della funzione f(x) $= ln(1 -2x+ \sqrt{x}).$
+## Risposta
 
-Affinché la funzione sia definita deve essere: $x\ge 0$ e $1 -2x+ \sqrt{x}> 0$ .
+La risposta corretta è la **C)**: il limite non esiste.
 
-La seconda disequazione è equivalente a: $\sqrt{x}> 2x-1.$
-Le soluzioni di questa disequazione equivalgono alle soluzioni dei due seguenti sistemi:
+## Spiegazione
 
-a) {
-$x\ge 0$
-$2x-1 < 0 \implies 0 \le x< 1$
-$2 b)$ {
-$x\ge 1$
-$x> (2x-1)^{2}$
+La funzione $y=\tan x$ è periodica di periodo $\pi$ e ha come dominio l'insieme dei reali privato dei punti $x=\dfrac{\pi}{2}+k\pi$ (con $k\in\Z$), in corrispondenza dei quali presenta asintoti verticali. In ogni intervallo del tipo
+$$\left(-\frac{\pi}{2}+k\pi,\ \frac{\pi}{2}+k\pi\right)$$
+la funzione è continua e strettamente crescente e assume **tutti** i valori reali, passando da $-\infty$ (a destra dell'asintoto $x=-\frac{\pi}{2}+k\pi$) a $+\infty$ (a sinistra dell'asintoto $x=\frac{\pi}{2}+k\pi$). In particolare, in ciascun periodo si ha
+$$\lim_{x\to\left(\frac{\pi}{2}+k\pi\right)^-}\tan x=+\infty,\qquad \lim_{x\to\left(-\frac{\pi}{2}+k\pi\right)^+}\tan x=-\infty.$$
 
-Risolviamo la seconda disequazione $dl$ sistema $b):$
 
-$4x^{2} -5x+ 1 < 0 , 1$
-$4 < x< 1$
-Quindi, tornando al sistema $b):$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="378.958" height="332.721" viewBox="-72 -72 284.218 249.541"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4" transform="matrix(1 0 0 -1 -61.827 50.957)"><path fill="none" d="M-10.243 0h271.037"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M258.914 2.4c.38-1.44 1.227-2.12 2.08-2.4-.853-.28-1.7-.96-2.08-2.4"/><text x="-61.827" y="50.957" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 326.555 48.805)">x</text><path fill="none" d="M0-110.111V109.71"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-2.4 107.831c1.44.38 2.12 1.227 2.4 2.08.28-.853.96-1.7 2.4-2.08"/><text x="-61.827" y="50.957" stroke="none" font-family="cmmi10" font-size="10" transform="matrix(1 0 0 -1 59.196 166.546)">y</text><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="M40.224-107.55v215.1M120.672-107.55v215.1M201.12-107.55v215.1"/><g stroke="none"><text x="-60.627" y="47.02" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 98.387 -67.077)">¼</text><path d="M37.76-115.334h4.927v-.4H37.76z"/><text x="-60.157" y="54.406" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 98.387 -67.077)">2</text></g><g stroke="none"><text x="-60.627" y="47.02" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 176.842 -68.575)">3</text><text x="-56.641" y="47.02" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 176.842 -68.575)">¼</text><path d="M116.215-116.832h8.914v-.4h-8.914z"/><text x="-58.164" y="54.406" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 176.842 -68.575)">2</text></g><g stroke="none"><text x="-60.627" y="47.02" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 257.29 -68.575)">5</text><text x="-56.641" y="47.02" font-family="cmmi7" font-size="7" transform="matrix(1 0 0 -1 257.29 -68.575)">¼</text><path d="M196.663-116.832h8.914v-.4h-8.914z"/><text x="-58.164" y="54.406" font-family="cmr7" font-size="7" transform="matrix(1 0 0 -1 257.29 -68.575)">2</text></g><clipPath id="pgf6818003d629208117481df070d328d40cp1"><path d="M-10.243-102.43v204.86h271.437v-204.86Zm271.437 204.86"/></clipPath><g fill="#00f" stroke="#00f" clip-path="url(#pgf6818003d629208117481df070d328d40cp1)"><path fill="none" stroke-width=".8" d="m0 0 .758.757.757.759.758.762.758.766.757.772.758.777.757.787.758.796.758.808.757.82.758.836.758.853.757.871.758.893.758.917.757.942.758.972.757 1.004.758 1.04.758 1.077.757 1.122.758 1.172.758 1.226.757 1.285.758 1.353.758 1.426.757 1.513.758 1.606.757 1.714.758 1.835.758 1.974.757 2.134.758 2.315.758 2.527.757 2.776.758 3.059.758 3.413.757 3.83.758 4.334.758 4.953.757 5.73.758 6.705.757 7.996.758 9.695.758 12.024.757 15.342.758 20.304.758 28.159.757 41.799M43.276-213.814l.95 51.296.95 31.739.949 21.622.95 15.728.949 11.977.95 9.44.949 7.663.95 6.359.949 5.368.95 4.613.949 4.006.95 3.53.949 3.139.95 2.818.949 2.548.95 2.324.949 2.13.95 1.969.949 1.828.95 1.706.949 1.601.95 1.509.949 1.429.95 1.356.949 1.297.95 1.241.949 1.194.95 1.152.949 1.115.95 1.082.949 1.054.949 1.03.95 1.011.949.992.95.979.949.967.95.958.949.953.95.95.949.949.95.952.949.956.95.966.949.974.95.988.949 1.004.95 1.023.949 1.048.95 1.073.949 1.105.95 1.14.949 1.181.95 1.226.949 1.28.95 1.338.949 1.406.95 1.485.949 1.573.95 1.673.949 1.788.95 1.925.949 2.08.95 2.263.949 2.479.95 2.731.949 3.038.95 3.404.949 3.852.95 4.417.949 5.125.95 6.037.949 7.231.95 8.853.949 11.124.95 14.443.949 19.55.949 28.104.95 43.886.949 78.61M122.915-291.521l.96 87.848.959 47.49.959 29.855.96 20.512.958 15.022.96 11.501.959 9.101.96 7.41.958 6.163.96 5.22.959 4.488.96 3.91.958 3.447.96 3.073.959 2.76.96 2.502.958 2.282.96 2.096.959 1.939.96 1.8.959 1.684.959 1.583.959 1.493.96 1.414.959 1.345.959 1.286.959 1.234.96 1.187.959 1.145.959 1.112.96 1.08.958 1.052.96 1.031.959 1.012.96.995.958.982.96.972.959.965.96.962.958.958.96.96.959.964.96.97.958.981.96.993.959 1.007.96 1.027.958 1.049.96 1.075.959 1.104.96 1.14.959 1.178.959 1.225.959 1.275.96 1.335.959 1.4.959 1.476.959 1.565.96 1.664.959 1.778.959 1.91.959 2.065.96 2.246.959 2.458.959 2.708.96 3.009.958 3.374.96 3.812.959 4.373.96 5.069.958 5.968.96 7.147.959 8.743.96 10.984.958 14.247.96 19.28.959 27.662.96 43.169.958 77.114M203.578-265.945l.846 68.605.847 40.753.846 27.04.846 19.283.847 14.484.846 11.3.846 9.07.847 7.463.846 6.254.846 5.34.847 4.61.846 4.034.846 3.565.847 3.18.846 2.863.846 2.592.847 2.368.846 2.172.846 2.006.847 1.86.846 1.733.846 1.626.847 1.527.846 1.443.846 1.367.847 1.301.846 1.241.846 1.189.847 1.14.846 1.1.846 1.06.847 1.028.846.998.846.973.847.948.846.929.846.91.847.895.846.882.846.871.847.863.846.855.846.85.847.848.846.846.846.846.847.85.846.854.846.861.847.868.846.88.846.891.847.907.846.923.846.944.847.966.846.992.846 1.02.847 1.053"/></g></g></svg>
+</figure>
 
-$b)$ {
-$x\ge 1$
-$$ 2 1 $$
-$4 < x< 1$
-$\implies 1$
-$2 \le x< 1$
+Poiché questa configurazione si ripete identica in ogni periodo, man mano che $x$ cresce oltre ogni limite la funzione continua a oscillare tra $-\infty$ e $+\infty$, senza avvicinarsi stabilmente ad alcun valore. Di conseguenza $\lim_{x\to +\infty}\tan x$ **non esiste**, né finito né infinito.
 
-L’unione delle soluzioni dei due sistemi è: $0 \le x< 1$
+Un argomento rigoroso conferma l'affermazione. Se il limite fosse un numero finito $L$, per la definizione di limite dovrebbe esistere un $k$ tale che, per ogni $x>k$, il valore $\tan x$ resti confinato in una striscia orizzontale di centro $L$ e ampiezza piccola a piacere; ma ciò è impossibile, perché in ogni periodo (e quindi anche per $x>k$) la funzione assume valori arbitrariamente grandi in modulo, sia positivi sia negativi. Allo stesso modo il limite non può essere $+\infty$ (né $-\infty$): la funzione non è definitivamente maggiore di un qualsiasi $M$ fissato, dato che in ogni periodo assume anche valori negativi arbitrariamente grandi in modulo.
 
-Tenendo presente la condizione $x\ge 0$ il dominio è: $0 \le x< 1$ .
-
-QUESITO $4$
-
-Il limite di tgx per $x$ tendente a $+\infty$ :
-
-A) è $+\infty ; B)$ è
-$\pi$
-$2 ; C)$ non esiste; $D)$ esiste ma non si riesce a calcolare.
-
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
-
-La funzione $y=$ tgx, per $x\to +\infty$ oscilla tra $-\infty$ e $+\infty$ , quindi non può ammettere
-limite.
-Se esistesse un limite finito $L,$ in un intorno di $+\infty$ (cioè per $x>k)$ la funzione dovrebbe
-essere contenuta in una striscia orizzontale di mediana $L$ e ampiezza piccola a piacere, e
-ciò, per quanto detto sull’oscillazione della funzione, non è possibile. In modo analogo
+Si osservi infine che l'alternativa D) è priva di senso: un limite o esiste (e allora, trattandosi di una funzione elementare, è in linea di principio calcolabile) oppure non esiste. Qui siamo esattamente nel secondo caso.
 
 *Fonte:* [📄 PDF p.137](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

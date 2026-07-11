@@ -1,73 +1,37 @@
----
-title: 2005 PNI Straordinaria — Questionario — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_3
-of_item: ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_3
-prova_id: prova_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_3|2005 PNI Straordinaria — Questionario — Quesito 3]] · **Prova:** [[Prove/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150|2005 PNI Straordinaria — Questionario]]
 
-Liceo Scientifico PNI 2005
+Luca e Claudia devono calcolare il valore di una stessa espressione contenente logaritmi e trovano rispettivamente i risultati
 
-QUESITO $3$
+$$\log_2 27 + \log_2 12 \qquad \text{(Luca)}, \qquad 2 + \log_2 81 \qquad \text{(Claudia)}.$$
 
-Luca e Claudia devono calcolare il valore di una certa espressione contenente
-logaritmi. Trovano come risultati rispettivamente:
+Ammesso che il risultato ottenuto da Luca sia esatto, ci si chiede se si possa concludere che quello di Claudia è sbagliato.
 
-$log227 + log212 , 2 + log281$
+## Risultato di Luca
 
-Ammesso che il risultato ottenuto da Luca sia esatto, si può concludere che quello
-ottenuto da Claudia è sbagliato? Fornire una risposta esaurientemente motivata.
+Applicando le proprietà dei logaritmi (logaritmo di un prodotto e di una potenza) e ricordando che $27 = 3^3$ e $12 = 3 \cdot 4 = 3 \cdot 2^2$:
 
-Risultato Luca: $log227 + log212 = log233 + log23 ∙4 = 3 log23 + log23+log24 =$
+$$\log_2 27 + \log_2 12 = \log_2 3^3 + \log_2(3 \cdot 2^2) = 3\log_2 3 + \log_2 3 + \log_2 2^2.$$
 
-$= 4 log23+log222 = 4 log23+2 log22 = 4 log23 + 2$
+Poiché $\log_2 2^2 = 2\log_2 2 = 2$, si ottiene
 
-Risultato Claudia: $2 + log281 = 2 + log234 = 2 + 4 log23$
+$$\log_2 27 + \log_2 12 = 3\log_2 3 + \log_2 3 + 2 = 4\log_2 3 + 2.$$
 
-Quindi i risultati ottenuti da Luca e Claudia sono uguali.
+## Risultato di Claudia
 
-QUESITO $4$
+Scrivendo $81 = 3^4$:
 
-Dimostrare che ogni funzione del tipo $y=$ a $sen2x+ b$ senx $cosx+ ccos2 x$ , dove a,
-$b, c$ sono numeri reali non contemporaneamente nulli, ha di regola per grafico una
-sinusoide. C’è qualche eccezione?
+$$2 + \log_2 81 = 2 + \log_2 3^4 = 2 + 4\log_2 3 = 4\log_2 3 + 2.$$
 
-Ricordiamo che una funzione sinusoidale è riconducibile alla forma:
+## Conclusione
 
-$y= A∙sen(\alpha x+ \beta ) (1)$
+I due valori coincidono:
 
-Tenendo presenti le formule di bisezione e di duplicazione la funzione può essere scritta
-nella forma:
+$$\log_2 27 + \log_2 12 = 4\log_2 3 + 2 = 2 + \log_2 81.$$
 
-$y= a(1 -cos2x$
-$$ 2 ) + 1 $$
-$2 bsen2x+ c(1 + cos2x$
-$$ 2 ) = 1 $$
-$2 (a-a cos2x+ bsen2x+ c+ c cos2x)$
-
-$y= 1$
-$2$ [b $sen2x+ (c-a)cos2x+ a+$ c]
-
-Se $b=0$ e $a=c$ (ma diversi da zero) la funzione si riduce alla retta di equazione:
-
-$y=$
-$2 (a+ c),$ quindi non è una funzione sinusoidale.
-
-La funzione data non è sinusoidale neanche quando $a+ c\ne 0,$ cioè $a\ne -c$ .
-Analogamente non è sinusoidale se $b= 0$ e $c-a\ne 0$ oppure se $b= 0$ e $c-a\ne 0$
+Quindi, ammesso che il risultato di Luca sia esatto, **non** si può affatto concludere che quello di Claudia sia sbagliato: al contrario, le due espressioni rappresentano lo stesso numero e i risultati sono uguali. Entrambi i calcoli sono corretti.
 
 *Fonte:* [📄 PDF p.152](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

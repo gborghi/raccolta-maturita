@@ -1,160 +1,59 @@
----
-title: 2003 Ordinaria — Prova (Ordinamento) — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_5
-of_item: ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_5
-prova_id: prova_2003_sessione_ordinaria_2003_211_n_03_prova_12
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2003
----
+
 
 **Quesito:** [[Quesiti/ques_2003_sessione_ordinaria_2003_211_n_03_prova_12_5|2003 Ordinaria — Prova (Ordinamento) — Quesito 5]] · **Prova:** [[Prove/2003_sessione_ordinaria_2003_211_n_03_prova_12|2003 Ordinaria — Prova (Ordinamento)]]
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+Si consideri la funzione
+$$ f(x) = 2x^3 - 3x^2 + 2. $$
+Si vuole dimostrare che il suo grafico interseca l'asse delle ascisse una sola volta (cioè che $f$ ha un unico zero reale) e stabilire se tale zero è positivo o negativo.
 
-CORSO DI ORDINAMENTO
+## Studio della monotonia
 
-Tema di: MATEMATICA
+La funzione è un polinomio, quindi è continua e derivabile su tutto $\mathbb{R}$. Calcoliamo la derivata prima:
+$$ f'(x) = 6x^2 - 6x = 6x(x-1). $$
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+Si ha $f'(x) = 0$ per $x = 0$ e $x = 1$. Studiando il segno di $f'$:
 
-PROBLEMA $1$
+$$
+\begin{cases}
+f'(x) > 0 & \text{per } x < 0 \ \text{oppure}\ x > 1,\\[2pt]
+f'(x) < 0 & \text{per } 0 < x < 1.
+\end{cases}
+$$
 
-Si consideri un tetraedro regolare $T$ di vertici A, $B, C, D.$
-a) Indicati rispettivamente con $V$ ed $S$ il volume e l’area totale di $T$ e con $r$ il raggio della sfera
-inscritta in $T,$ trovare una relazione che leghi $V, S$ ed $r.$
-$b)$ Considerato il tetraedro regolare T’ avente per vertici i centri delle facce di $T,$ calcolare il
-rapporto fra le lunghezze degli spigoli di $T$ e T’ e il rapporto fra i volumi di $T$ e T’.
-$c)$ Condotto il piano $\alpha$ , contenente la retta $AB$ e perpendicolare alla retta $CD$ nel punto E, e posto
-che uno spigolo di $T$ sia lungo $s,$ calcolare la distanza di E dalla retta $AB.$
-$d)$ Considerata nel piano $\alpha$ la parabola $p$ avente l’asse perpendicolare alla retta $AB$ e passante per i
-punti A, $B$ ed E, riferire questo piano $ad$ un conveniente sistema di assi cartesiani ortogonali e
-trovare l’equazione di $p.$
-e) Determinare per quale valore di $s$ la regione piana delimitata dalla parabola $p$ e dalla retta $EA$ ha
-area $3$
-$2 cm2.$
+Dunque $f$ è crescente su $(-\infty,0)$, decrescente su $(0,1)$ e nuovamente crescente su $(1,+\infty)$. Il punto $x=0$ è un massimo relativo, il punto $x=1$ è un minimo relativo.
 
-PROBLEMA $2$
+## Unicità dello zero
 
-È assegnata la funzione f(x) =
-$$ m m x x + + + 2 1 2 $$
-, dove $m$ è un parametro reale.
-a) Determinare il suo dominio di derivabilità.
-$b)$ Calcolare per quale valore di $m$ la funzione ammette una derivata che risulti nulla per $x = 1.$
-$c)$ Studiare la funzione f(x) corrispondente al valore di $m$ così trovato e disegnarne il grafico $\gamma$ in
-un piano riferito $ad$ un sistema di assi cartesiani ortogonali (Oxy), dopo aver stabilito quanti
-sono esattamente i flessi di $\gamma$ ed aver fornito una spiegazione esauriente di ciò.
-$d)$ Calcolare l’area della regione finita di piano delimitata dal grafico $\gamma$ , dall’asse $x$ e dalla retta di
-equazione $x = 1.$
+Calcoliamo i valori della funzione nei due punti stazionari:
+$$ f(0) = 2, \qquad f(1) = 2 - 3 + 2 = 1. $$
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+Il valore del massimo relativo è $2 > 0$ e quello del minimo relativo è $1 > 0$: entrambi gli estremi relativi sono **positivi**.
 
-CORSO DI ORDINAMENTO
+Poiché il coefficiente del termine di grado massimo è positivo, si ha inoltre
+$$ \lim_{x\to -\infty} f(x) = -\infty, \qquad \lim_{x\to +\infty} f(x) = +\infty. $$
 
-Tema di: MATEMATICA
+Ragioniamo sul grafico intervallo per intervallo:
 
-QUESTIONARIO
+- Su $(-\infty,0)$ la funzione cresce con continuità da $-\infty$ fino a $f(0)=2$: per il teorema degli zeri (o dei valori intermedi), essendo strettamente crescente, essa attraversa il valore $0$ **una e una sola volta**.
+- Su $(0,1)$ la funzione decresce da $2$ a $1$, restando quindi sempre positiva: nessuno zero.
+- Su $(1,+\infty)$ la funzione cresce da $1$ a $+\infty$, restando sempre positiva: nessuno zero.
 
-$1.$ Dopo aver fornito la definizione di “rette sghembe”, si consideri la seguente proposizione:
-«Comunque si prendano nello spazio tre rette $x, y, z,$ due a due distinte, se $x$ ed $y$ sono sghembe
-e, così pure, se sono sghembe $y$ e $z$ allora anche $x$ e $z$ sono sghembe». Dire se è vera o falsa e
-fornire un’esauriente spiegazione della risposta.
-$2.$ Un piano interseca tutti gli spigoli laterali di una piramide quadrangolare regolare: descrivere le
-caratteristiche dei possibili quadrilateri sezione a seconda della posizione del piano rispetto alla
-piramide.
-$3.$ Dal punto A, al quale è possibile accedere, è visibile il punto $B,$ al quale però non si può
-accedere in alcun modo, così da impedire una misura diretta della distanza $AB.$ Dal punto A si
-può però accedere al punto $P,$ dal quale, oltre $ad$ A, è visibile $B$ in modo che, pur rimanendo
-impossibile misurare direttamente la distanza $PB,$ è tuttavia possibile misurare la distanza $AP.$
-Disponendo degli strumenti di misura necessari e sapendo che $P$ non è allineato con A e $B,$
-spiegare come si può utilizzare il teorema dei seni per calcolare la distanza $AB.$
-$4.$ Il dominio della funzione f(x) = {
-$(x$
-$$ 1 x $$
--
--
-$$ + } ln $$
-è l’insieme degli $x$ reali tali che:
-A) $-1<x\le 3;$
-$B) -1\le x<3;$
-$C) 0<x\le 3;$
-$D) 0\le x<3.$
-Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione della scelta
-effettuata.
-$5.$ La funzione $2x^{3}-3x^{2}+2$ ha un solo zero reale, vale a dire che il suo grafico interseca una sola
-volta l’asse delle ascisse. Fornire un’esauriente dimostrazione di questo fatto e stabilire se lo
-zero della funzione è positivo o negativo.
-$6.$ La derivata della funzione f(x) =
-è la funzione $f$ ’(x) $= 2$
-. Eseguire tutti i
-passaggi necessari a giustificare l’affermazione.
-$$ dt e x t \int $$
--
-$$ 2 2 0 4 x e x $$
--
-$7.$ Considerati i primi $n$ numeri naturali a partire da $1:$
-$1, 2, 3, ... , n-1, n$ ,
-moltiplicarli combinandoli due a due in tutti i modi possibili. La somma dei prodotti ottenuti
-risulta uguale a:
-A)
-$$ ( 2 2 1 4 1 + n n $$
-) ; $B)$
-$$ ( 1 3 1 $$
-$2 -$
-$$ n n $$
-); $C)$
-$$ ( )( )( 1 3 2 1 24 1 + + + n n n n $$
-); $D)$
-$$ ( )( ) 2 3 1 24 1 2 + $$
--
-$$ n n n . $$
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
+Complessivamente il grafico interseca l'asse delle ascisse **una sola volta**: la funzione ha un unico zero reale.
 
-Sessione ordinaria 2003
-$$ $$$$$.2.1/1 $$
-$N^\circ ######/03$
+## Segno dello zero
 
-CORSO DI ORDINAMENTO
+Lo zero cade nell'intervallo in cui $f$ passa da valori negativi al massimo relativo $f(0)=2$, cioè per $x<0$. Verifichiamolo con un cambiamento di segno:
+$$ f(-1) = -2 - 3 + 2 = -3 < 0, \qquad f(0) = 2 > 0. $$
 
-Tema di: MATEMATICA
+Poiché $f(-1)<0$ e $f(0)>0$ e la funzione è continua e crescente su $(-1,0)$, lo zero è compreso tra $-1$ e $0$ (numericamente $x \approx -0{,}68$).
 
-$8. x$ ed $y$ sono due numeri naturali dispari tali che $x - y = 2.$ Il numero $x^{3} - y^{3}:$
-A) è divisibile per $2$ e per $3.$
-$B)$ è divisibile per $2$ ma non per $3.$
-$C)$ è divisibile per $3$ ma non per $2.$
-$D)$ non è divisibile né per $2$ né per $3.$
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
-$9.$ Si consideri una data estrazione in una determinata Ruota del Lotto. Calcolare quante sono le
-possibili cinquine che contengono i numeri $1$ e $90.$
-$10.$ Il valore dell’espressione log
-è $1.$ Dire se questa affermazione è vera o falsa e fornire
-una esauriente spiegazione della risposta.
-$$ 2 log 3 3 2 $$
-$\cdot$
+Lo **zero della funzione è quindi negativo**.
 
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
 
-SCUOLE ITALIANE ALL’ESTERO
-ESAMI DI STATO DI LICEO SCIENTIFICO
-Sessione ordinaria 2003
-Tema di Matematica
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="262.113" height="230.582" viewBox="-72 -72 196.585 172.937"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><g fill="gray" stroke="gray"><path fill="none" d="M-72.07 44.13h183.404"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M109.454 41.73c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-4.353" y="44.13" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(119.62 2.153)">x</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-4.353 100.467V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-6.753-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-4.353" y="44.13" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -108.762)">y</text></g><path fill="none" d="M-52.722 45.695v-3.13"/><g stroke="none" font-size="10"><text x="-4.353" y="44.13" font-family="cmsy10" transform="translate(-54.758 11.412)">¡</text><text x="3.425" y="44.13" font-family="cmr10" transform="translate(-54.758 11.412)">1</text></g><path fill="none" d="M44.017 45.695v-3.13"/><text x="-4.353" y="44.13" stroke="none" font-family="cmr10" font-size="10" transform="translate(45.87 11.412)">1</text><path fill="none" d="M92.386 45.695v-3.13"/><text x="-4.353" y="44.13" stroke="none" font-family="cmr10" font-size="10" transform="translate(94.24 11.412)">2</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-52.722 91.077 2.459-9.188 2.459-8.485 2.46-7.805 2.458-7.151 2.46-6.522 2.459-5.917 2.46-5.338 2.458-4.78 2.46-4.253 2.459-3.744 2.459-3.264 2.46-2.807 2.458-2.375 2.46-1.968 2.459-1.585 2.459-1.227 2.46-.894 2.458-.586 2.46-.301 2.459-.042 2.46.192 2.458.402 2.46.588 2.459.747 2.459.884 2.46.995 2.458 1.08 2.46 1.144 2.459 1.18 2.46 1.192 2.458 1.18 2.46 1.143 2.459 1.082 2.459.995 2.46.885 2.458.748 2.46.589 2.459.403 2.46.193 2.458-.04 2.46-.3 2.459-.584 2.459-.892 2.46-1.225 2.458-1.583 2.46-1.966 2.459-2.372L65.32 16.7l2.46-3.26 2.458-3.743 2.46-4.247L75.157.67l2.46-5.333 2.458-5.913 2.46-6.519 2.459-7.147 2.459-7.801 2.46-8.48 2.458-9.184"/><path stroke="none" d="M-1.973 12.832c0-.425-1.065-.77-2.38-.77s-2.38.345-2.38.77 1.066.77 2.38.77c1.315 0 2.38-.345 2.38-.77m-2.38 0"/><g stroke="none" font-size="10"><text x="-4.353" y="44.13" font-family="cmr10" transform="translate(3.533 -37.331)">(0</text><text x="4.536" y="44.13" font-family="cmmi10" transform="translate(3.533 -37.331)">;</text><text x="10.647" y="44.13" font-family="cmr10" transform="translate(3.533 -37.331)">2)</text></g><path stroke="none" d="M46.397 28.48c0-.424-1.066-.769-2.38-.769-1.315 0-2.38.345-2.38.77s1.065.77 2.38.77 2.38-.345 2.38-.77m-2.38 0"/><g stroke="none" font-size="10"><text x="-4.353" y="44.13" font-family="cmr10" transform="translate(51.903 -21.682)">(1</text><text x="4.536" y="44.13" font-family="cmmi10" transform="translate(51.903 -21.682)">;</text><text x="10.647" y="44.13" font-family="cmr10" transform="translate(51.903 -21.682)">1)</text></g><g fill="red" stroke="red"><path stroke="none" d="M-34.524 44.13c0-.486-1.218-.88-2.72-.88s-2.72.394-2.72.88 1.218.88 2.72.88 2.72-.394 2.72-.88m-2.72 0"/><text x="-4.353" y="44.13" fill="red" stroke="none" font-family="cmr10" font-size="10" transform="translate(-54.23 7.839)">zero</text></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.12](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

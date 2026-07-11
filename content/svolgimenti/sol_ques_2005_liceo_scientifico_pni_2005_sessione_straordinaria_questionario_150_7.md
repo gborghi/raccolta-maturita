@@ -1,91 +1,33 @@
----
-title: 2005 PNI Straordinaria — Questionario — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_7
-of_item: ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_7
-prova_id: prova_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_7|2005 PNI Straordinaria — Questionario — Quesito 7]] · **Prova:** [[Prove/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150|2005 PNI Straordinaria — Questionario]]
 
-Liceo Scientifico PNI 2005
+Dobbiamo calcolare la derivata rispetto a $x$ della funzione integrale
+$$F(x)=\int_{-x}^{2x}\frac{dt}{\sin t}\ .$$
 
-$n^{2}(n+1)^{2}+4(n+1)^{3}$
-$(n+1)^{2}(n^{2}+4n+4)$
-$(n+1)^{2}(n+2)^{2}$
-$(n+1)(n+2)$
-$$ 2 ] 2 = $$
-$= (1 + 2 + ⋯+ (n+ 1))$
-$2 = (\sum$ i
-$n+1$
-$i=1$
+La funzione integranda $f(t)=\dfrac{1}{\sin t}$ è continua in ogni intervallo che non contenga i punti in cui $\sin t=0$, cioè i punti $t=k\pi$ con $k$ intero. Supponiamo dunque che gli estremi $-x$ e $2x$ appartengano a uno stesso intervallo di continuità (in modo che $F(x)$ sia definita) e ricordiamo i due strumenti che servono:
 
-QUESITO $6$
+- il **teorema fondamentale del calcolo integrale**, per cui, se $f$ è continua e $\displaystyle G(u)=\int_{a}^{u} f(t)\,dt$, allora $G'(u)=f(u)$;
+- il **teorema di derivazione della funzione composta**, per cui la derivata di $\displaystyle \int_{a}^{g(x)} f(t)\,dt$ rispetto a $x$ vale $f\big(g(x)\big)\cdot g'(x)$.
 
-Il limite della funzione $(1 +$
-$2x)$
-per $x\to +\infty$ è:
+Fissiamo un punto $a$ compreso fra $-x$ e $2x$ e spezziamo l'integrale sfruttando l'additività:
+$$F(x)=\int_{-x}^{2x}\frac{dt}{\sin t}=\int_{-x}^{a}\frac{dt}{\sin t}+\int_{a}^{2x}\frac{dt}{\sin t}=-\int_{a}^{-x}\frac{dt}{\sin t}+\int_{a}^{2x}\frac{dt}{\sin t}\ .$$
 
-A) e $B)$
-e $C) \sqrt{e} D)$
-$\sqrt{e}$
+Deriviamo i due termini rispetto a $x$. Per il secondo integrale, con estremo superiore $g(x)=2x$ e $g'(x)=2$:
+$$\frac{d}{dx}\int_{a}^{2x}\frac{dt}{\sin t}=\frac{1}{\sin(2x)}\cdot 2=\frac{2}{\sin(2x)}\ .$$
 
-dove “e” è la base dei logaritmi naturali.
-Una sola risposta è corretta: individuarla e fornire una esauriente spiegazione della scelta
-operata.
+Per il primo termine, con estremo superiore $h(x)=-x$ e $h'(x)=-1$:
+$$\frac{d}{dx}\left(-\int_{a}^{-x}\frac{dt}{\sin t}\right)=-\,\frac{1}{\sin(-x)}\cdot(-1)=\frac{1}{\sin(-x)}=-\frac{1}{\sin x}\ ,$$
+avendo usato $\sin(-x)=-\sin x$.
 
-Ricordando il limite notevole:
+Sommando i due contributi otteniamo la derivata cercata:
+$$F'(x)=\frac{2}{\sin(2x)}-\frac{1}{\sin x}\ .$$
 
-$$ lim $$
-$x\to +\infty (1 + 1$
-$x)$
-= e
+Il risultato si può semplificare con la formula di duplicazione $\sin(2x)=2\sin x\cos x$, da cui $\dfrac{2}{\sin(2x)}=\dfrac{1}{\sin x\cos x}$. Quindi
+$$F'(x)=\frac{1}{\sin x\cos x}-\frac{1}{\sin x}=\frac{1-\cos x}{\sin x\cos x}\ .$$
 
-si ha:
-$$ lim $$
-$x\to +\infty (1 + 1$
-$2x)$
-= lim
-$x\to +\infty [(1 + 1$
-$2x)$
-$2x$
-$$ ] 1 2 $$
-= e
-$2 = \sqrt{e}$
-
-La risposta corretta è quindi la $C.$
-
-QUESITO $7$
-
-Calcolare la derivata, rispetto a $x,$ della funzione: $\int$
-$$ dt $$
-sen $t$
-$2x$
-$-x$
-
-Ricordiamo che in base al teorema fondamentale del calcolo integrale ed al teorema sulla
-derivata della funzione composta si ha che:
-
-$D(\int$ f(t)dt
-$$ x a $$
-) = f'(x) e $D(\int$
-f(t)dt
-g(x)
-) = f(g(x)) ∙g'(x)
-
-Notiamo che la funzione integranda non è continua se $x= k\pi$ . Consideriamo un punto a
-compreso fra $-x$ e $2x;$ risulta (sia per $x>0$ che per $x<0):$
+La derivata è definita per $\sin x\cos x\neq 0$, cioè per $x\neq k\dfrac{\pi}{2}$, in accordo con il fatto che l'integranda $\dfrac{1}{\sin t}$ presenta discontinuità nei multipli di $\pi$.
 
 *Fonte:* [📄 PDF p.154](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

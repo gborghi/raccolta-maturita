@@ -1,212 +1,71 @@
----
-title: 2005 PNI Suppletiva — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2005_pni_2005_sessione_suppletiva_problema2_115_1
-of_item: prob_2005_pni_2005_sessione_suppletiva_problema2_115_1
-prova_id: prova_2005_pni_2005_sessione_suppletiva_problema2_115
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Problema:** [[Problemi/prob_2005_pni_2005_sessione_suppletiva_problema2_115_1|2005 PNI Suppletiva — Problema 2 — Problema 1]] · **Prova:** [[Prove/2005_pni_2005_sessione_suppletiva_problema2_115|2005 PNI Suppletiva — Problema 2]]
 
-PNI 2005 SESSIONE SUPPLETIVA - PROBLEMA $2$
+È assegnata la funzione $f_{a}(x)=\dfrac{a}{1+x^{2}}$, con $a\in\mathbb{R}\setminus\{0\}$.
 
-È assegnata la funzione fa(x) =
-$1+x^{2},$ dove a è un parametro reale non nullo.
+## a) Limitatezza
 
-Dopo aver fornito la definizione di funzione limitata, spiegare perché la funzione fa(x)
-è limitata.
+Una funzione $y=f(x)$ si dice **limitata** se esistono due numeri reali $A$ e $B$ tali che $A\le f(x)\le B$ per ogni $x$ del dominio.
 
-Una funzione di equazione $y=$ f(x) si dice limitata se esistono due numeri reali A e $B$
-tali che: $A\le$ f(x) $\le B , \forall x$ appartenente al dominio della funzione.
+La funzione è definita su tutto $\mathbb{R}$ e, poiché $1+x^{2}\ge 1>0$, per $a>0$ si ha
+$$
+0<f_{a}(x)\le a,
+$$
+con estremo superiore $\sup f_{a}=a$ (raggiunto in $x=0$) ed estremo inferiore $\inf f_{a}=0$ (valore limite per $|x|\to\infty$). Per $a<0$ vale analogamente $a\le f_{a}(x)<0$. In ogni caso $f_{a}$ è limitata.
 
-La funzione di equazione fa(x) =
-$1+x^{2}$ è definita su tutto $R;$ siccome $1 + x^{2} \ge 1$ si ha
-che:
+## b) Circonferenza $\gamma$ di diametro $OA$
 
-$1+x^{2} \le 1$ ; pertanto:
+Per $a>0$ la funzione è pari, positiva e assume il massimo dove $1+x^{2}$ è minimo, cioè in $x=0$: il punto di massimo del grafico $G$ è $A=(0,a)$.
 
-$|fa(x)| = |$
-$1+x^{2}| = |a|$ ∙
-$1+x^{2} \le |a|$ e ciò equivale a dire $-|a| \le$ fa(x) $\le |a|$ , quindi la
-funzione è limitata.
+La circonferenza $\gamma$ di diametro $OA$ ha centro nel punto medio di $OA$, cioè $\left(0,\dfrac{a}{2}\right)$, e raggio $\dfrac{a}{2}$:
+$$
+\gamma:\quad x^{2}+\left(y-\frac{a}{2}\right)^{2}=\frac{a^{2}}{4}\;\Longleftrightarrow\;x^{2}+y^{2}-ay=0.
+$$
 
-Una volta riferito il piano $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy)
-ed indicato con A il punto di massimo del grafico $G$ della funzione quando $a>0,$ scrivere
-l’equazione della circonferenza $\gamma$ di diametro $OA.$
+## c) Intersezioni $\gamma\cap G$
 
-Studiamo la funzione $y=$ fa(x) =
-$1+x^{2}$ per $a>0.$
+Sostituendo $y=\dfrac{a}{1+x^{2}}$ nell'equazione $x^{2}+y^{2}-ay=0$:
+$$
+x^{2}+\frac{a^{2}}{(1+x^{2})^{2}}-\frac{a^{2}}{1+x^{2}}=0\;\Longleftrightarrow\;x^{2}(1+x^{2})^{2}+a^{2}-a^{2}(1+x^{2})=0,
+$$
+cioè $x^{2}(1+x^{2})^{2}-a^{2}x^{2}=0$ e, raccogliendo $x^{2}$,
+$$
+x^{2}\left[(1+x^{2})^{2}-a^{2}\right]=0.
+$$
+Le soluzioni sono $x=0$ (sempre presente) oppure $(1+x^{2})^{2}=a^{2}$, ossia $1+x^{2}=a$ (essendo $a>0$), da cui $x^{2}=a-1$. Distinguiamo:
 
-Si tratta di una funzione pari, definita per ogni $x$ reale, positiva su tutto il dominio, che è
-massima quando $1 + x^{2}$ è minimo, cioè per $x=0;$ il massimo della funzione è $M=(0;a).$
+- $0<a\le 1$: solo $x=0$, un'unica intersezione $A=(0,a)$ (le due curve sono tangenti);
+- $a>1$: tre intersezioni, $A=(0,a)$ e $P_{\pm}=\left(\pm\sqrt{a-1},\,1\right)$, poiché $y=\dfrac{a}{1+(a-1)}=\dfrac{a}{a}=1$.
 
-Il limite della funzione per $x\to \pm \infty$ è $0.$
-Studiamo la derivata prima e la derivata seconda.
+## d) Triangolo equilatero
 
-$y' =$
-$-2ax$
-$(1 + x^{2})^{2} \ge 0$ se $x\le 0 : x= 0$ punto di massimo relativo e assoluto .
+Per $a>1$ i tre punti $A$, $P_{+}$, $P_{-}$ formano un triangolo isoscele, simmetrico rispetto all'asse $y$. È equilatero se e solo se tutti i lati sono uguali. Poiché
+$$
+|AP_{\pm}|=\sqrt{(a-1)+(a-1)^{2}}=\sqrt{(a-1)\,a},\qquad |P_{+}P_{-}|=2\sqrt{a-1},
+$$
+imponendo $|AP_{+}|=|P_{+}P_{-}|$ si ottiene
+$$
+(a-1)\,a=4(a-1)\;\Longrightarrow\;a=4\quad(a>1).
+$$
+Dunque $\bar a=4$. Verifica: $A=(0,4)$, $P_{\pm}=(\pm\sqrt{3},1)$, con $|AP_{+}|=\sqrt{3+9}=\sqrt{12}=2\sqrt{3}=|P_{+}P_{-}|$.
 
-y'' $= -2a(1 + x^{2})^{2} + 2ax[4x(1 + x^{2})]$
-$(1 + x^{2})^{4}$
-$\ge 0$ se $(1 + x^{2})[-2a(1 + x^{2}) + 8ax2] \ge 0$
 
-$-1 -x^{2} + 4x^{2} \ge 0 , 3x^{2} \ge 1 , x\le -\sqrt{3}$
-$3$ vel $x\ge \sqrt{3}$
-Quindi il grafico $G$ volge la concavità verso l’alto se $x< -\sqrt{3}$
-$3$ vel $x> \sqrt{3}$
-$3$ e verso il
-basso se $-\sqrt{3}$
-$3 < x< \sqrt{3}$
-$3 ; x= \pm \sqrt{3}$
-$3$ sono punti di flesso , con ordinata: $yF=$
-$$ a 1+1 3 = 3 4 $$
-Il grafico della funzione è il seguente:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="290.188" height="222.615" viewBox="-72 -72 217.641 166.961"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 77.42h204.46"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M130.51 75.02c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="30.36" y="77.419" stroke="none" font-family="cmmi10" font-size="10" transform="translate(105.963 2.153)">x</text><path fill="none" d="M30.36 94.491V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M27.96-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="30.36" y="77.419" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -142.05)">y</text><path fill="none" d="M-54.998 78.842v-2.846"/><g stroke="none" font-size="8"><text x="30.36" y="77.419" font-family="cmsy8" transform="translate(-90.789 9.266)">¡</text><text x="36.971" y="77.419" font-family="cmr8" transform="translate(-90.789 9.266)">3</text></g><path fill="none" d="M-26.545 78.842v-2.846"/><g stroke="none" font-size="8"><text x="30.36" y="77.419" font-family="cmsy8" transform="translate(-62.336 9.266)">¡</text><text x="36.971" y="77.419" font-family="cmr8" transform="translate(-62.336 9.266)">2</text></g><path fill="none" d="M1.907 78.842v-2.846"/><g stroke="none" font-size="8"><text x="30.36" y="77.419" font-family="cmsy8" transform="translate(-33.883 9.266)">¡</text><text x="36.971" y="77.419" font-family="cmr8" transform="translate(-33.883 9.266)">1</text></g><path fill="none" d="M58.813 78.842v-2.846"/><text x="30.36" y="77.419" stroke="none" font-family="cmr8" font-size="8" transform="translate(26.328 9.266)">1</text><path fill="none" d="M87.266 78.842v-2.846"/><text x="30.36" y="77.419" stroke="none" font-family="cmr8" font-size="8" transform="translate(54.78 9.266)">2</text><path fill="none" d="M115.718 78.842v-2.846"/><text x="30.36" y="77.419" stroke="none" font-family="cmr8" font-size="8" transform="translate(83.233 9.266)">3</text><path fill="none" d="M28.937 48.966h2.846"/><text x="30.36" y="77.419" stroke="none" font-family="cmr8" font-size="8" transform="translate(-8.36 -25.875)">1</text><path fill="none" d="M28.937 20.514h2.846"/><text x="30.36" y="77.419" stroke="none" font-family="cmr8" font-size="8" transform="translate(-8.36 -54.328)">2</text><path fill="none" d="M28.937-7.94h2.846"/><text x="30.36" y="77.419" stroke="none" font-family="cmr8" font-size="8" transform="translate(-8.36 -82.78)">3</text><path fill="none" d="M28.937-36.392h2.846"/><text x="30.36" y="77.419" stroke="none" font-family="cmr8" font-size="8" transform="translate(-8.36 -111.233)">4</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-66.38 68.358 2.45-.437 2.449-.47 2.45-.501 2.448-.54 2.45-.583 2.448-.626 2.45-.677 2.448-.732 2.45-.793 2.449-.86 2.449-.937 2.449-1.019 2.449-1.111 2.449-1.215 2.449-1.33 2.449-1.46 2.449-1.604 2.45-1.764 2.448-1.945 2.45-2.15 2.448-2.373 2.45-2.627 2.448-2.906 2.45-3.217 2.449-3.557 2.449-3.929 2.449-4.322 2.449-4.737 2.449-5.156 2.449-5.562 2.449-5.924 2.449-6.203 2.449-6.347 2.45-6.297 2.448-5.99 2.45-5.38 2.448-4.43 2.45-3.17 2.448-1.653h2.45l2.449 1.65 2.449 3.17 2.449 4.43 2.449 5.381 2.449 5.986 2.449 6.297 2.449 6.345 2.449 6.206 2.45 5.92 2.448 5.566 2.45 5.158 2.448 4.738 2.45 4.322 2.448 3.928 2.45 3.557 2.449 3.218 2.449 2.906 2.449 2.627 2.449 2.374 2.449 2.149 2.449 1.945 2.449 1.765 2.449 1.604 2.449 1.46 2.45 1.329 2.448 1.216 2.45 1.111 2.448 1.02 2.45.935 2.448.86 2.45.794 2.449.732 2.449.677 2.449.627 2.449.582 2.449.54 2.449.503 2.449.468 2.449.437"/><path fill="none" stroke="#b30000" stroke-width=".8" d="M87.266 20.514c0-31.429-25.478-56.906-56.906-56.906s-56.905 25.477-56.905 56.906S-1.068 77.419 30.36 77.419s56.906-25.477 56.906-56.905Zm-56.906 0"/><path stroke="none" d="M32.36-36.392a2 2 0 1 0-4 0 2 2 0 0 0 4 0M81.64 48.966a2 2 0 1 0-4 0 2 2 0 0 0 4 0M-16.92 48.966a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><g stroke="none" font-size="10"><text x="30.36" y="77.419" font-family="cmmi10" transform="translate(3.533 -119.844)">A</text><text x="40.638" y="77.419" font-family="cmr10" transform="translate(3.533 -119.844)">=</text><text x="51.193" y="77.419" font-family="cmr10" transform="translate(3.533 -119.844)">(0</text><text x="60.082" y="77.419" font-family="cmmi10" transform="translate(3.533 -119.844)">;</text><text x="64.527" y="77.419" font-family="cmr10" transform="translate(3.533 -119.844)">4)</text></g><g stroke="none"><text x="30.36" y="77.419" font-family="cmmi10" font-size="10" transform="translate(57.593 -26.203)">P</text><text x="36.78" y="78.919" font-family="cmr7" font-size="7" transform="translate(57.593 -26.203)">+</text></g><g stroke="none"><text x="30.36" y="77.419" font-family="cmmi10" font-size="10" transform="translate(-70.763 -26.203)">P</text><text x="36.78" y="78.919" font-family="cmsy7" font-size="7" transform="translate(-70.763 -26.203)">¡</text></g><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none"><text x="30.36" y="77.419" font-family="cmmi10" font-size="10" transform="translate(72.131 -28.798)">f</text><text x="35.256" y="78.919" font-family="cmr7" font-size="7" transform="translate(72.131 -28.798)">4</text></g></g></g></svg>
+</figure>
 
-Scriviamo l’equazione della circonferenza $\gamma$ di diametro $OA,$ essendo $A=(0;a).$
-La circonferenza ha centro $C= (0;$
-$2)$ e raggio $R=$
-$2.$ La sua equazione è quindi:
+## e) Densità di probabilità
 
-$x^{2} + (y-$
-$$ a 2) 2 = a^{2 $$
-$4 , x^{2}+ y^{2}-ay= 0$ .
-
-Determinare quanti e quali punti hanno in comune la circonferenza $\gamma$ e la curva $G,$
-quando a varia nell’insieme dei numeri reali positivi.
-
-Risolviamo il seguente sistema:
-
-$x^{2} + y^{2} -ay= 0$
-$y=$
-$1 + x^{2}$
-$\implies x^{2} +$ (
-$1 + x^{2})$
-$-a($
-$1 + x^{2}) = 0$ ,
-
-$x^{2}(1 + x^{2})^{2} + a^{2} -a^{2}(1 + x^{2}) = 0 , x^{2}(1 + 2x^{2} + x^{4}) + a^{2} -a^{2} -a2x^{2} = 0$ ,
-
-$x^{6} + 2x^{4} + (1 -a^{2})x^{2} = 0 , x^{2}(x^{4} + 2x^{2} + 1 -a^{2}) = 0$ da cui:
-
-$x= 0$ doppia (la curva e la circonferenza sono tangenti in $(0;a);$
-
-$x^{4} + 2x^{2} + 1 -a^{2} = 0$ ; posto $x^{2} = t$ otteniamo: $t^{2} + 2t+ 1 -a^{2} = 0$ che ha:
-
-$\Delta$
-$4 = 1 -1 + a^{2} = a^{2}$ quindi: $t= -1 \pm$ a ; quindi $x^{2} = -1 -a$ mai ,
-
-$x^{2} = -1 +$ a accettabile se $-1 + a\ge 0$ cioè $a\ge 1 , a\ge 1$ ( ricordiamo che $a> 0);$
-
-Per $a\ge 1$ si ha $x= \pm \sqrt{a}-1$ . Pertanto:
-
-se $a> 1$ : la curva $G$ e la circonferenza hanno in comune i punti che si ottengono per
-
-$x= 0$ (soluzione doppia) e per $x= \pm \sqrt{a}-1$ ; i punti hanno coordinate:
-
-$(0;$ a) doppio; $(\pm \sqrt{a}-1; 1)$ (si veda il grafico del punto $2).$
-
-Se $a= 1$ abbiamo le soluzioni $(0; 1)$ quadrupla.
-
-Se $0 < a< 1$ abbiamo solo la soluzione $(0;$ a) doppia.
-
-Calcolare il valore a̅ di a per il quale la circonferenza $\gamma$ e la curva $G$ hanno in comune i
-vertici di un triangolo equilatero.
-
-La circonferenza e la curva $G$ hanno in comune tre punti, quindi siamo nel caso in cui
-$a> 1$ e, come visto nel punto precedente, le due curve hanno in comune i punti di
-coordinate:
-
-$A= (0;$ a) ; $B= (-\sqrt{a}-1; 1)$ e $D= (\sqrt{a}-1; 1)$ .
-
-Affinché il triangolo ABD, inscritto nella circonferenza di raggio $R= AC=$
-$2,$ sia equilatero,
-l’altezza $h$ del triangolo deve essere i $3/2$ del raggio, quindi:
-
-$h= a-1 =$
-$2 ∙R=$
-$$ 3 2 ( a 2) = 3 $$
-$4$ a da cui $4a-4 = 3a$ quindi $a= 4$ .
-
-Verificare che esiste un valore $a'$ di a per il quale la funzione si può considerare la
-densità di probabilità di una variabile aleatoria continua e determinare la funzione di
-distribuzione di tale variabile.
-
-$y=$ fa(x) =
-$1+x^{2}$ con $a> 0$
-
-si può considerare la densità di probabilità di una variabile aleatoria continua se:
-
-$$ \int a $$
-$1 + x^{2} dx$
-$+\infty$
-$-\infty$
-$= 1$ equivalente a $\int$
-$1 + x^{2} dx= 1$
-$+\infty$
-
-$$ \int a $$
-$1 + x^{2} dx=$ lim
-$b\to +\infty \int$
-$1 + x^{2} dx$
-$$ b 0 = $$
-$+\infty$
-$$ 0 lim $$
-$b\to +\infty [a∙arctg(x)]0$
-$b=$ a∙lim
-$b\to +\infty$ [arctg(b)] $= a∙\pi$
-
-$a∙\pi$
-$$ 2 = 1 $$
-$2$ se $a= 1$
-$\pi$
-
-Quindi la funzione si può considerare la densità di probabilità di una variabile aleatoria
-continua se $a=$
-$\pi$ .
-
-Il grafico della funzione fa(x) =
-$1+x^{2} =$
-$\pi (1+x^{2})$ è il seguente:
-
-La funzione di distribuzione della variabile aleatoria $X$ è data da:
-
-F(x) $= P(X\le x) = \int$
-$f(t)dt=$
-$-\infty$
-$$ \int 1 $$
-$\pi (1 + t^{2}) dt=$
-$-\infty$
-$\pi$ ∙lim
-$a\to -\infty \int$
-$1 + t^{2} dt=$
-$$ x a $$
-
-$\pi$ ∙lim
-$a\to -\infty$ [arctg(t)]a
-$x= 1$
-$\pi$ ∙lim
-$a\to -\infty$ [arctg(x) $-arctg(a)] = 1$
-$\pi$ ∙(arctg(x) $+ \pi$
-
-Quindi:
-F(x) $= P(X\le x) = 1$
-$\pi$ ∙(arctg(x) $+ \pi$
-$$ 2) = 1 $$
-$\pi$ arctg(x) $+ 2$
-Il grafico della funzione di distribuzione è il seguente:
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
+$f_{a'}$ è una densità di probabilità su $\mathbb{R}$ se è non negativa (vero per $a'>0$) e se $\displaystyle\int_{-\infty}^{+\infty}f_{a'}(x)\,dx=1$. Calcoliamo:
+$$
+\int_{-\infty}^{+\infty}\frac{a'}{1+x^{2}}\,dx=a'\left[\arctan x\right]_{-\infty}^{+\infty}=a'\cdot\pi.
+$$
+Imponendo $a'\pi=1$ si ottiene $a'=\dfrac{1}{\pi}$: si tratta della **distribuzione di Cauchy** standard. La funzione di distribuzione è
+$$
+F(x)=\int_{-\infty}^{x}\frac{1}{\pi(1+t^{2})}\,dt=\frac{1}{\pi}\left(\arctan x-\left(-\frac{\pi}{2}\right)\right)=\frac{\arctan x}{\pi}+\frac{1}{2}.
+$$
 
 *Fonte:* [📄 PDF p.115](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

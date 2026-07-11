@@ -1,76 +1,50 @@
----
-title: 2004 Ordinamento Straordinaria — Questionario — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_2
-of_item: >-
-  ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_2
-prova_id: prova_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_2|2004 Ordinamento Straordinaria — Questionario — Quesito 2]] · **Prova:** [[Prove/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121|2004 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2004
+Siano $\alpha$ e $\beta$ due piani perpendicolari. Si deve dimostrare che ogni retta perpendicolare a uno di essi è parallela all'altro oppure è contenuta in esso, e stabilire se vale l'implicazione inversa (ogni retta parallela a uno dei due piani è perpendicolare all'altro).
 
-QUESITO $2$
+## a) Ogni retta perpendicolare a un piano è parallela all'altro
 
-Dimostrare che, se due piani sono perpendicolari, ogni retta perpendicolare a uno di essi
-è parallela all’altro o è contenuta in esso.
-Si può concludere che ogni retta parallela a uno dei due piani è perpendicolare all’altro?
-Fornire un’esauriente spiegazione della risposta.
+Poiché $\alpha$ e $\beta$ sono perpendicolari, possiamo fissare un riferimento cartesiano ortogonale nello spazio in modo che
 
-Siano $\alpha$ e $\beta$ due piani perpendicolari. Scegliamo un sistema di assi cartesiani orogonali
-nello spazio in modo che i due piani coincidano con il piano $xy$ e con il piano $xz$
-rispettivamente; le lo $ro$ equazioni sono quindi:
+$$\alpha:\ z=0,\qquad \beta:\ y=0.$$
 
-$\alpha : z= 0, \beta : y= 0$
+I due piani si intersecano lungo l'asse $x$ (di equazioni $y=0,\ z=0$), e sono effettivamente perpendicolari, come richiesto.
 
-I due piani hanno in comune l’asse $x,$ che ha equazioni:
+Un vettore normale ad $\alpha$ è $\vec{n}_\alpha=(0,0,1)$. Una retta $r$ perpendicolare ad $\alpha$ ha come vettore direttore proprio la normale del piano, cioè $\vec{v}_r=(0,0,1)$; la sua equazione è quindi del tipo
 
-${y= 0$
-$z= 0$
+$$r:\quad \begin{cases} x=a \\ y=b \\ z=c+t \end{cases}$$
 
-Consideriamo una generica retta $r$ perpendicolare $ad$ uno dei due piani, per esempio $ad$
-$\alpha$ . Osserviamo che una terna di parametri direttori di $\alpha$ sono $(0,0,1),$ quindi la retta $r$ avrà
-parametri direttori proporzionali, la sua equazione è pertanto del tipo:
+Un vettore normale a $\beta$ è $\vec{n}_\beta=(0,1,0)$. Una retta è parallela a un piano (o vi è contenuta) se e solo se il suo vettore direttore è ortogonale al vettore normale del piano, cioè se il prodotto scalare è nullo:
 
-$x=$ a
-$y= b$
-$z= c+ t$
+$$\vec{v}_r\cdot\vec{n}_\beta=(0,0,1)\cdot(0,1,0)=0\cdot 0+0\cdot 1+1\cdot 0=0.$$
 
-Dobbiamo dimostrare che $r$ è parallela al piano $\beta$ o appartiene $ad$ esso.
+Dunque $r$ è parallela a $\beta$. Se inoltre il punto $(a,b,c)$ appartiene a $\beta$, cioè se $b=0$, la retta $r$ giace sul piano $\beta$. Questo dimostra la tesi.
 
-Una terna di parametri direttori di quest’ultimo piano è: $(0,1,0).$ La condizione di
-parallelismo fra piano e retta ci dice che la somma dei prodotti dei parametri direttori deve
-essere uguale a zero, quindi:
 
-$0 ∙0 + 0 ∙1 + 1 ∙0 = 0:$ ciò dimostra che $r$ è parallela a $\beta$ . In particolare, se il punto (a,b,c)
-appartiene a questo piano, cioè se $b=0,$ la retta $r$ giace sul piano.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="293.048" height="182.631" viewBox="-72 -72 219.786 136.973"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="#ffe1e1" stroke="none" d="M-37.927 13.288H132.79V-72.07H-37.927Z"/><path fill="none" stroke="#f66" d="M-37.927 13.288H132.79V-72.07H-37.927Z"/><path fill="#e1e1ff" stroke="none" d="M-37.927 13.288H132.79L98.646 64.503H-72.07Z"/><path fill="none" stroke="#66f" d="M-37.927 13.288H132.79L98.646 64.503H-72.07Z"/><path fill="none" stroke-width="1.2" d="M-37.927 13.288H132.79"/><text x="47.431" y="13.288" stroke="none" font-family="cmmi10" font-size="10" transform="translate(91.036 -2.969)">x</text><g fill="green" stroke="green" stroke-width=".8"><path fill="none" d="M30.36 38.896v-90.25"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M27.237-49.193c1.874-.468 2.758-1.51 3.123-2.56.364 1.05 1.249 2.092 3.122 2.56"/></g><path fill="green" stroke="none" d="M31.76 38.896a1.4 1.4 0 1 0-2.8 0 1.4 1.4 0 0 0 2.8 0m-1.4 0"/><g fill="green" stroke="green"><text x="47.431" y="13.288" fill="green" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-9.508 -60.443)">r</text></g><g fill="#009" stroke="#009"><text x="47.431" y="13.288" fill="#009" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-97.111 41.986)">®</text></g><g fill="#b30000" stroke="#b30000"><text x="47.431" y="13.288" fill="#b30000" stroke="none" font-family="cmmi10" font-size="10" transform="translate(68.04 -74.322)">¯</text></g></g></svg>
+</figure>
 
-Non è detto, invece, che ogni retta parallela $ad$ uno dei due piani è perpendicolare
-all’altro. Per esempio la retta $s$ di equazioni:
+## b) L'implicazione inversa è falsa
 
-${y= x$
-$z= 0 \implies$ {
-$x= t$
-$y= t$
-$z= 0$
-è parallela $ad \alpha$ ; infatti una terna di parametri direttori di $\alpha$ è $(0,0,1)$
-ed una terna di parametri direttori di $s$ è $(1,1,0);$ la somma dei prodotti dei parametri
-direttori è zero, quindi $s$ è parallela $ad \alpha$ .
-Però $s$ non è perpendicolare a $\beta$ : i parametri direttori di questo piano sono, come già
-detto, proporzionali a $(0,1,0)$ mentre quelli della retta $s$ sono proporzionali a $(1,1,0),$ quindi
-non sono tra di loro proporzionali.
+No: non è vero che ogni retta parallela a uno dei due piani sia perpendicolare all'altro. Basta un controesempio. Consideriamo la retta
+
+$$s:\quad \begin{cases} y=x \\ z=0 \end{cases}\ \Rightarrow\ \begin{cases} x=t \\ y=t \\ z=0 \end{cases}$$
+
+il cui vettore direttore è $\vec{v}_s=(1,1,0)$.
+
+Poiché
+
+$$\vec{v}_s\cdot\vec{n}_\alpha=(1,1,0)\cdot(0,0,1)=0,$$
+
+la retta $s$ è parallela ad $\alpha$ (in questo caso è addirittura contenuta in $\alpha$).
+
+Perché $s$ fosse perpendicolare a $\beta$, il suo vettore direttore dovrebbe essere parallelo alla normale $\vec{n}_\beta=(0,1,0)$; ma $(1,1,0)$ non è proporzionale a $(0,1,0)$. Quindi $s$ non è perpendicolare a $\beta$.
+
+Il controesempio prova che l'implicazione inversa non vale: la sola parallelismo a un piano non garantisce la perpendicolarità all'altro.
 
 *Fonte:* [📄 PDF p.122](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

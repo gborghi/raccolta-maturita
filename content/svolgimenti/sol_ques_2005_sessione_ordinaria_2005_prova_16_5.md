@@ -1,82 +1,53 @@
----
-title: 2005 Ordinaria — Prova — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_sessione_ordinaria_2005_prova_16_5
-of_item: ques_2005_sessione_ordinaria_2005_prova_16_5
-prova_id: prova_2005_sessione_ordinaria_2005_prova_16
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_16_5|2005 Ordinaria — Prova — Quesito 5]] · **Prova:** [[Prove/2005_sessione_ordinaria_2005_prova_16|2005 Ordinaria — Prova]]
 
-Scuole italiane all’estero (Americhe) 2005
+Il quesito chiede due cose: come si definisce il numero $e$ di Nepero e perché la derivata di $e^x$ è ancora $e^x$.
 
-QUESITO $4$
+## a) Definizione del numero $e$
 
-Le parti letterali dei termini dello sviluppo del binomio $(a+ b)7$ , ordinati secondo le
-potenze decrescenti di a e crescenti di $b,$ sono rispettivamente: $a^{7}, a6b, a5b^{2}, a4b^{3}, a3b^{4},$
-$a2b^{5}, ab6, b^{7}.$ Elencare i loro coefficienti e giustificare in modo esauriente la risposta.
+Il numero $e$ di Nepero si definisce come il limite della successione $\left(1+\dfrac{1}{n}\right)^n$ al tendere di $n$ all'infinito:
 
-La formula generale dello sviluppo della potenza di un binomio è la seguente:
+$$e = \lim_{n\to +\infty}\left(1+\frac{1}{n}\right)^n .$$
 
-$(a+ b)n= (n$
-$0) an+ (n$
-$1) an-1b+ ⋯+$ (
-$n-1) abn-1 + (n$
-$n) bn$
+Si dimostra che tale successione è crescente e limitata superiormente, dunque convergente; il suo limite è un numero irrazionale (anzi, trascendente) il cui valore approssimato è
 
-Quindi i coefficienti, nell’ordine richiesto, sono:
+$$e \approx 2,\!718281828\ldots$$
 
-$(n$
-$0) , (n$
-$$ 1) , ... , ( n $$
-$n-1) , (n$
-$n)$
-Con $n=7$ abbiamo:
+In forma equivalente, ponendo $t=\dfrac{1}{n}$, si ha la definizione tramite variabile reale continua
 
-$$ (7 0) = 1, (7 1) = 7, (7 2) = 21, (7 3) = 35, (7 4) = 35, (7 5) = 21, (7 6) = 7, (7 7) = 1 $$
+$$e = \lim_{t\to 0}\,(1+t)^{\frac{1}{t}} ,$$
 
-QUESITO $5$
+che è la forma più comoda per il calcolo delle derivate. Il numero $e$ è la base dei logaritmi naturali: si pone $\ln x = \log_e x$.
 
-In una fabbrica lavorano $35$ operai e $25$ operaie. Si deve formare una delegazione
-comprendente $3$ operai e $2$ operaie. Quante sono le possibili delegazioni?
+## b) Perché $D\,[e^x]=e^x$
 
-I $3$ operari possono essere scelti in un numero di modi pari alle combinazioni di $35$ oggetti
-a $3$ a $3: C35,3 = (35$
-$35∙34∙33$
-$$ 6 = 6545 . $$
-Le $2$ operaie possono essere scelte in un numero di modi pari alle combinazioni di $25$
-oggetti a $2$ a $2: C25,2 = (25$
-$25∙24$
-$$ 2 = 300. $$
+Applichiamo la definizione di derivata come limite del rapporto incrementale alla funzione $f(x)=e^x$:
 
-Le possibili delegazioni sono quindi 6545 $∙300 = 1963500$ .
+$$f'(x)=\lim_{h\to 0}\frac{e^{x+h}-e^{x}}{h}=\lim_{h\to 0}\frac{e^{x}\,e^{h}-e^{x}}{h}=e^{x}\cdot\lim_{h\to 0}\frac{e^{h}-1}{h},$$
 
-QUESITO $6$
+dove abbiamo raccolto $e^x$, che non dipende da $h$ e può quindi essere portato fuori dal limite.
 
-Calcolare il limite della funzione
-$2x-sen 3x$
-$3x+cos2x$ per $x$ tendente a più infinito. E’ vero o falso
-che si può ricorrere al teorema di $De$ L’Hȏpital? Fornire una esauriente spiegazione della
-risposta.
+Tutto si riduce dunque al **limite notevole**
 
-$$ lim $$
-$x\to +\infty$
-$2x-sen 3x$
-$3x+$ cos $2x=$ lim
-$x\to +\infty$
-$x(2 -sen 3x$
-$x(3 +$ cos $2x$
-$$ x ) = 2 3 $$
+$$\lim_{h\to 0}\frac{e^{h}-1}{h}=1 .$$
+
+Per dimostrarlo poniamo $t=e^{h}-1$, da cui $e^{h}=1+t$ e $h=\ln(1+t)$; inoltre $t\to 0$ quando $h\to 0$. Sostituendo:
+
+$$\lim_{h\to 0}\frac{e^{h}-1}{h}=\lim_{t\to 0}\frac{t}{\ln(1+t)}=\lim_{t\to 0}\frac{1}{\frac{1}{t}\ln(1+t)}=\lim_{t\to 0}\frac{1}{\ln\!\big((1+t)^{\frac{1}{t}}\big)} .$$
+
+Per la definizione di $e$ vista sopra, $(1+t)^{\frac{1}{t}}\to e$ per $t\to 0$, e quindi
+
+$$\lim_{t\to 0}\ln\!\big((1+t)^{\frac{1}{t}}\big)=\ln e = 1 ,$$
+
+da cui il limite notevole vale $1$.
+
+Concludendo, sostituendo questo risultato nella derivata:
+
+$$f'(x)=e^{x}\cdot 1 = e^{x}.$$
+
+La funzione esponenziale $e^x$ è dunque uguale alla propria derivata: questa è precisamente la proprietà che rende $e$ la base "naturale". Se si usasse una base $a>0$ diversa da $e$ si otterrebbe invece $D\,[a^x]=a^x\ln a$, e il fattore $\ln a$ è uguale a $1$ solo quando $a=e$.
 
 *Fonte:* [📄 PDF p.27](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

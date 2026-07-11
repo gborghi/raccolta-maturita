@@ -1,79 +1,27 @@
----
-title: 2006 Australe Suppletiva — Questionario — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_estero_australe_2006_suppletiva_questionario_42_7
-of_item: ques_2006_estero_australe_2006_suppletiva_questionario_42_7
-prova_id: prova_2006_estero_australe_2006_suppletiva_questionario_42
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_estero_australe_2006_suppletiva_questionario_42_7|2006 Australe Suppletiva — Questionario — Quesito 7]] · **Prova:** [[Prove/2006_estero_australe_2006_suppletiva_questionario_42|2006 Australe Suppletiva — Questionario]]
 
-Estero (Australe) 2006
+È data l'equazione di secondo grado
+$$x^{2}-2(k-1)\,x+4=0.$$
+Si vuole determinare per quali valori **positivi** del parametro $k$ una o entrambe le radici sono reali.
 
-Risoluzione analitica.
+L'equazione ha coefficienti reali, quindi le sue radici sono entrambe reali oppure complesse coniugate: la condizione "una o entrambe le radici reali" equivale semplicemente a richiedere che il discriminante sia non negativo.
 
-Dobbiamo trovare il massimo della funzione $z= y^{2}(2R-y),$ con $0 \le y\le 2R$
-Risulta:
-$z' = 4Ry-3y^{2} \ge 0$ se $3y^{2} -4Ry\le 0: 0 \le y\le 4$
-$3 R$
+Poiché il coefficiente di $x$ è pari, conviene usare il discriminante ridotto. Con $a=1$, $\dfrac{b}{2}=-(k-1)$ e $c=4$ si ha
+$$\frac{\Delta}{4}=\left[-(k-1)\right]^{2}-1\cdot 4=(k-1)^{2}-4.$$
 
-La funzione è quindi crescente se $0 < y<$
-$3 R$ e decrescente se
-$3 R< y< 2R$ .
+Imponendo $\dfrac{\Delta}{4}\ge 0$:
+$$(k-1)^{2}-4\ge 0 \;\Rightarrow\; k^{2}-2k+1-4\ge 0 \;\Rightarrow\; k^{2}-2k-3\ge 0.$$
 
-Per $y=$
-$3 R z$ (e quindi anche il volume del cono) assume il valore massimo.
+Il trinomio si fattorizza come
+$$k^{2}-2k-3=(k-3)(k+1)\ge 0,$$
+disequazione soddisfatta per valori esterni alle radici $k=-1$ e $k=3$, cioè
+$$k\le -1 \quad\text{oppure}\quad k\ge 3.$$
 
-QUESITO $5$
-
-Si dimostri che la somma dei coefficienti dello sviluppo di (a + b)n è uguale a
-$2n$ per ogni $n\in N.$
-
-Lo sviluppo della potenza del binomio è uguale a:
-
-$(a+ b)n= (n$
-$0) an+ (n$
-$1) an-1b+ ⋯+$ (
-$n-1) abn-1 + (n$
-$n) bn$
-
-Ponendo $a=b=1$ si ha:
-
-$2n= (n$
-$0) + (n$
-$1) + ⋯+$ (
-$n-1) + (n$
-$n)$
-
-QUESITO $6$
-
-Si consideri la funzione f(x) $= x^{3} -4x^{2} + 5x+ 1$ e la tangente $t$ al suo grafico nel
-punto di ascissa $x=2.$ Quale è la pendenza di $t?$
-
-La pendenza di una retta è individuata dal coefficiente angolare, che nel nostro caso
-corrisponde $ad f'(2).$ Ma risulta: f'(x) $= 3x^{2} -8x+ 5,$ quindi: $f'(2) = 12 -16 + 5 = 1.$
-Detto $\alpha$ l’angolo che la retta forma con il semiasse positivo delle $x,$ risulta:
-
-$tg\alpha = 1, \alpha = 45^\circ$
-
-QUESITO $7$
-
-E’ data l’equazione $x^{2} -2(k -1)x+ 4 = 0.$ Dire per quali valori positivi del
-parametro $k$ una o entrambe le radici sono reali.
-
-Le radico sono reali se
-$\Delta$
-$4 \ge 0, (k-1)^{2} -4 \ge 0, k^{2} -2k-3 \ge 0, k\le -1 or k\ge 3.$
+Restringendo l'insieme delle soluzioni ai soli valori positivi del parametro, la parte $k\le -1$ va scartata. Si conclude quindi che l'equazione ammette radici reali, per $k>0$, se e solo se
+$$k\ge 3.$$
 
 *Fonte:* [📄 PDF p.44](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

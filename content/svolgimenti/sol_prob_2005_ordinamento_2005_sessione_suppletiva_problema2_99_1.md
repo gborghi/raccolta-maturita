@@ -1,523 +1,80 @@
----
-title: 2005 Ordinamento Suppletiva — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2005_ordinamento_2005_sessione_suppletiva_problema2_99_1
-of_item: prob_2005_ordinamento_2005_sessione_suppletiva_problema2_99_1
-prova_id: prova_2005_ordinamento_2005_sessione_suppletiva_problema2_99
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Problema:** [[Problemi/prob_2005_ordinamento_2005_sessione_suppletiva_problema2_99_1|2005 Ordinamento Suppletiva — Problema 2 — Problema 1]] · **Prova:** [[Prove/2005_ordinamento_2005_sessione_suppletiva_problema2_99|2005 Ordinamento Suppletiva — Problema 2]]
 
-ORDINAMENTO 2005 SESSIONE SUPPLETIVA - PROBLEMA $2$
+È assegnata la funzione $f_a(x) = \dfrac{a}{1+x^2}$, con $a\in\mathbb{R}$, $a\ne 0$. Si chiede di: (a) spiegare perché $f_a$ è limitata; (b) detto $A$ il punto di massimo del grafico $G$ quando $a>0$, scrivere l'equazione della circonferenza $\gamma$ di diametro $OA$; (c) determinare i punti comuni a $\gamma$ e $G$ al variare di $a>0$; (d) trovare il valore $\bar a$ per cui $\gamma$ e $G$ hanno in comune i vertici di un triangolo equilatero; (e) verificato che $\bar a = 4$, calcolare le aree delle regioni in cui $G$ divide il cerchio delimitato da $\gamma$.
 
-È assegnata la funzione fa(x) =
-$1+x^{2},$ dove a è un parametro reale non nullo.
+## a)
 
-Dopo aver fornito la definizione di funzione limitata, spiegare perché la funzione fa(x)
-è limitata.
+Per ogni $x\in\mathbb{R}$ si ha $1+x^2\ge 1$, quindi
 
-Una funzione di equazione $y=$ f(x) si dice limitata se esistono due numeri reali A e $B$
-tali che: $A\le$ f(x) $\le B , \forall x$ appartenente al dominio della funzione.
+$$|f_a(x)| = \frac{|a|}{1+x^2} \le |a|.$$
 
-La funzione di equazione fa(x) =
-$1+x^{2}$ è definita su tutto $R;$ siccome $1 + x^{2} \ge 1$ si ha
-che:
+La funzione è dunque limitata: il suo valore assoluto è maggiorato dalla costante $|a|$, cioè $-|a| \le f_a(x) \le |a|$ per ogni $x$ reale.
 
-$1+x^{2} \le 1$ ; pertanto:
+## b)
 
-$|fa(x)| = |$
-$1+x^{2}| = |a|$ ∙
-$1+x^{2} \le |a|$ e ciò equivale a dire $-|a| \le$ fa(x) $\le |a|$ , quindi la
-funzione è limitata.
+Per $a>0$ il massimo di $f_a$ si raggiunge dove il denominatore $1+x^2$ è minimo, cioè in $x=0$, e vale $f_a(0)=a$. Il punto di massimo è quindi $A=(0,\,a)$.
 
-Una volta riferito il piano $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy)
-ed indicato con A il punto di massimo del grafico $G$ della funzione quando $a>0,$ scrivere
-l’equazione della circonferenza $\gamma$ di diametro $OA.$
+La circonferenza $\gamma$ di diametro $OA$ ha centro nel punto medio $\left(0,\,\dfrac{a}{2}\right)$ e raggio $\dfrac{a}{2}$; la sua equazione è
 
-Studiamo la funzione $y=$ fa(x) =
-$1+x^{2}$ per $a>0.$
+$$x^2 + \left(y-\frac{a}{2}\right)^2 = \frac{a^2}{4},$$
 
-Si tratta di una funzione pari, definita per ogni $x$ reale, positiva su tutto il dominio, che è
-massima quando $1 + x^{2}$ è minimo, cioè per $x=0;$ il massimo della funzione è $M=(0;a).$
+che, sviluppata e semplificata, diventa
 
-Il limite della funzione per $x\to \pm \infty$ è $0.$
-Studiamo la derivata prima e la derivata seconda.
+$$x^2 + y^2 - ay = 0.$$
 
-$y' =$
-$-2ax$
-$(1 + x^{2})^{2} \ge 0$ se $x\le 0 : x= 0$ punto di massimo relativo e assoluto .
+## c)
 
-y'' $= -2a(1 + x^{2})^{2} + 2ax[4x(1 + x^{2})]$
-$(1 + x^{2})^{4}$
-$\ge 0$ se $(1 + x^{2})[-2a(1 + x^{2}) + 8ax2] \ge 0$
+Per trovare i punti comuni a $\gamma$ e $G$ sostituiamo $y = \dfrac{a}{1+x^2}$ nell'equazione della circonferenza. Da $y(1+x^2)=a$ ricaviamo $x^2 = \dfrac{a}{y}-1$ e sostituiamo:
 
-$-1 -x^{2} + 4x^{2} \ge 0 , 3x^{2} \ge 1 , x\le -\sqrt{3}$
-$3$ vel $x\ge \sqrt{3}$
-Quindi il grafico $G$ volge la concavità verso l’alto se $x< -\sqrt{3}$
-$3$ vel $x> \sqrt{3}$
-$3$ e verso il
-basso se $-\sqrt{3}$
-$3 < x< \sqrt{3}$
-$3 ; x= \pm \sqrt{3}$
-$3$ sono punti di flesso , con ordinata: $yF=$
-$$ a 1+1 3 = 3 4 $$
-Il grafico della funzione è il seguente:
+$$\frac{a}{y}-1 + y^2 - ay = 0 \;\Rightarrow\; a - y + y^3 - ay^2 = 0 \;\Rightarrow\; y^3 - ay^2 - y + a = 0.$$
 
-Scriviamo l’equazione della circonferenza $\gamma$ di diametro $OA,$ essendo $A=(0;a).$
-La circonferenza ha centro $C= (0;$
-$2)$ e raggio $R=$
-$2.$ La sua equazione è quindi:
+Fattorizziamo raggruppando i termini:
 
-$x^{2} + (y-$
-$$ a 2) 2 = a^{2 $$
-$4 , x^{2}+ y^{2}-ay= 0$ .
+$$y^2(y-a) - (y-a) = (y-a)(y^2-1) = 0,$$
 
-Determinare quanti e quali punti hanno in comune la circonferenza $\gamma$ e la curva $G,$
-quando a varia nell’insieme dei numeri reali positivi.
+da cui $y=a$, $y=1$, $y=-1$.
 
-Risolviamo il seguente sistema:
+- Per $y=a$ si ottiene $x^2 = \dfrac{a}{a}-1 = 0$, cioè il punto $A=(0,\,a)$.
+- Per $y=1$ si ha $x^2 = a-1$, che ammette soluzioni reali solo se $a>1$, dando i due punti $(\pm\sqrt{a-1},\,1)$.
+- Per $y=-1$ si avrebbe $x^2 = -a-1 < 0$, impossibile.
 
-$x^{2} + y^{2} -ay= 0$
-$y=$
-$1 + x^{2}$
-$\implies x^{2} +$ (
-$1 + x^{2})$
-$-a($
-$1 + x^{2}) = 0$ ,
+In conclusione: per $0<a\le 1$ l'unico punto comune è $A$; per $a>1$ i punti comuni sono tre, $A$ e i due punti simmetrici $(\pm\sqrt{a-1},\,1)$.
 
-$x^{2}(1 + x^{2})^{2} + a^{2} -a^{2}(1 + x^{2}) = 0 , x^{2}(1 + 2x^{2} + x^{4}) + a^{2} -a^{2} -a2x^{2} = 0$ ,
+## d)
 
-$x^{6} + 2x^{4} + (1 -a^{2})x^{2} = 0 , x^{2}(x^{4} + 2x^{2} + 1 -a^{2}) = 0$ da cui:
+I tre punti $A=(0,\,a)$, $B=(\sqrt{a-1},\,1)$, $C=(-\sqrt{a-1},\,1)$ formano un triangolo isoscele (per simmetria rispetto all'asse $y$). Per imporre che sia equilatero calcoliamo i lati:
 
-$x= 0$ doppia (la curva e la circonferenza sono tangenti in $(0;a);$
+$$\overline{BC} = 2\sqrt{a-1}, \qquad \overline{AB} = \sqrt{(a-1)+(a-1)^2} = \sqrt{(a-1)\cdot a}.$$
 
-$x^{4} + 2x^{2} + 1 -a^{2} = 0$ ; posto $x^{2} = t$ otteniamo: $t^{2} + 2t+ 1 -a^{2} = 0$ che ha:
+Imponendo $\overline{AB}=\overline{BC}$ si ottiene
 
-$\Delta$
-$4 = 1 -1 + a^{2} = a^{2}$ quindi: $t= -1 \pm$ a ; quindi $x^{2} = -1 -a$ mai ,
+$$\sqrt{a(a-1)} = 2\sqrt{a-1} \;\Rightarrow\; \sqrt{a}=2 \;\Rightarrow\; \bar a = 4.$$
 
-$x^{2} = -1 +$ a accettabile se $-1 + a\ge 0$ cioè $a\ge 1 , a\ge 1$ ( ricordiamo che $a> 0);$
+## e)
 
-Per $a\ge 1$ si ha $x= \pm \sqrt{a}-1$ . Pertanto:
+Con $a=4$ i tre vertici del triangolo equilatero sono $A=(0,\,4)$, $B=(\sqrt{3},\,1)$, $C=(-\sqrt{3},\,1)$. Il cerchio delimitato da $\gamma$ ha centro $(0,\,2)$, raggio $2$ e area $\pi r^2 = 4\pi$.
 
-se $a> 1$ : la curva $G$ e la circonferenza hanno in comune i punti che si ottengono per
 
-$x= 0$ (soluzione doppia) e per $x= \pm \sqrt{a}-1$ ; i punti hanno coordinate:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="267.815" height="230.582" viewBox="-72 -72 200.861 172.936"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-53 87.947h168.61"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M113.73 85.547c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="31.505" y="87.947" stroke="none" font-family="cmmi10" font-size="10" transform="translate(88.038 2.153)">x</text><path fill="none" d="M31.505 100.466v-159.22"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M29.105-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="31.505" y="87.947" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -152.579)">y</text><path fill="none" d="M-22.703 86.07v3.755M.207 86.07v3.755M62.803 86.07v3.755M85.714 86.07v3.755M33.383 56.65h-3.756"/><text x="31.505" y="87.947" stroke="none" font-family="cmr7" font-size="7" transform="translate(-9.397 -29.043)">1</text><path fill="none" d="M33.383 25.35h-3.756"/><text x="31.505" y="87.947" stroke="none" font-family="cmr7" font-size="7" transform="translate(-9.397 -60.34)">2</text><path fill="none" d="M33.383-5.947h-3.756"/><text x="31.505" y="87.947" stroke="none" font-family="cmr7" font-size="7" transform="translate(-9.397 -91.639)">3</text><path fill="none" d="M33.383-37.245h-3.756"/><text x="31.505" y="87.947" stroke="none" font-family="cmr7" font-size="7" transform="translate(-9.397 -122.937)">4</text><path fill="none" stroke="#00f" stroke-width=".8" d="M94.102 25.35c0-34.57-28.025-62.595-62.597-62.595-34.571 0-62.596 28.024-62.596 62.596s28.025 62.596 62.596 62.596c34.572 0 62.597-28.025 62.597-62.596Zm-62.597 0"/><path fill="none" stroke="red" stroke-width=".8" d="m-46.74 70.68 1.98-.778 1.98-.828 1.981-.883 1.98-.942 1.981-1.006 1.98-1.075 1.981-1.151 1.98-1.233 1.981-1.322 1.98-1.42 1.981-1.523 1.98-1.638 1.981-1.762 1.98-1.896 1.981-2.042 1.98-2.2 1.981-2.37 1.98-2.555 1.981-2.751 1.98-2.961 1.981-3.185 1.98-3.417 1.981-3.659 1.98-3.912 1.981-4.156 1.98-4.407 1.981-4.632 1.98-4.836 1.981-5.002 1.98-5.107 1.981-5.143 1.98-5.08 1.981-4.9 1.98-4.592 1.981-4.138 1.98-3.545 1.981-2.799 1.98-1.953 1.981-.995 1.98-.01 1.98.987 1.981 1.934 1.98 2.785 1.981 3.53 1.98 4.135 1.981 4.586 1.98 4.898 1.981 5.076 1.98 5.14 1.981 5.107 1.98 5.005 1.981 4.842 1.98 4.635 1.981 4.41 1.98 4.16 1.981 3.915 1.98 3.664 1.981 3.422 1.98 3.187 1.981 2.964 1.98 2.756 1.981 2.556 1.98 2.373 1.981 2.204 1.98 2.044 1.981 1.9 1.98 1.763 1.981 1.64 1.98 1.526 1.981 1.42 1.98 1.323 1.981 1.235 1.98 1.152 1.981 1.076 1.98 1.008 1.981.942 1.98.884 1.981.829 1.98.778"/><path fill="none" stroke-dasharray="3.0,3.0" d="M-31.091 56.65H94.102"/><path fill="#00f" stroke="none" d="M33.155 25.35a1.65 1.65 0 1 0-3.3 0 1.65 1.65 0 0 0 3.3 0m-1.65 0"/><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none" font-size="7"><text x="31.505" y="87.947" font-family="cmr7" transform="translate(6.663 -60.846)">(0</text><text x="38.616" y="87.947" font-family="cmmi7" transform="translate(6.663 -60.846)">;</text><text x="42.357" y="87.947" font-family="cmr7" transform="translate(6.663 -60.846)">2)</text></g></g><path stroke="none" d="M33.705-37.245a2.2 2.2 0 1 0-4.4 0 2.2 2.2 0 0 0 4.4 0m-2.2 0"/><g stroke="none" font-size="9"><text x="31.505" y="87.947" font-family="cmmi9" transform="translate(3.533 -130.976)">A</text><text x="38.441" y="87.947" font-family="cmr9" transform="translate(3.533 -130.976)">(0</text><text x="46.663" y="87.947" font-family="cmmi9" transform="translate(3.533 -130.976)">;</text><text x="50.775" y="87.947" font-family="cmr9" transform="translate(3.533 -130.976)">4)</text></g><path stroke="none" d="M87.914 56.65a2.2 2.2 0 1 0-4.4 0 2.2 2.2 0 0 0 4.4 0m-2.2 0"/><g stroke="none"><text x="31.505" y="87.947" font-family="cmmi9" font-size="9" transform="translate(57.741 -19.545)">B</text><text x="38.953" y="87.947" font-family="cmr9" font-size="9" transform="translate(57.741 -19.545)">(</text><text x="42.55" y="80.487" font-family="cmsy9" font-size="9" transform="translate(57.741 -19.545)">p</text><path d="M108 60.562h4.624v.38H108z"/><text x="50.258" y="87.947" font-family="cmr9" font-size="9" transform="translate(57.741 -19.545)">3</text><text x="54.883" y="87.947" font-family="cmmi9" font-size="9" transform="translate(57.741 -19.545)">;</text><text x="58.994" y="87.947" font-family="cmr9" font-size="9" transform="translate(57.741 -19.545)">1)</text></g><path stroke="none" d="M-20.503 56.65a2.2 2.2 0 1 0-4.4 0 2.2 2.2 0 0 0 4.4 0m-2.2 0"/><g stroke="none"><text x="31.505" y="87.947" font-family="cmmi9" font-size="9" transform="translate(-100.442 -19.545)">C</text><text x="38.748" y="87.947" font-family="cmr9" font-size="9" transform="translate(-100.442 -19.545)">(</text><text x="42.345" y="87.947" font-family="cmsy9" font-size="9" transform="translate(-100.442 -19.545)">¡</text><text x="49.54" y="80.487" font-family="cmsy9" font-size="9" transform="translate(-100.442 -19.545)">p</text><path d="M-43.194 60.562h4.625v.38h-4.625z"/><text x="57.248" y="87.947" font-family="cmr9" font-size="9" transform="translate(-100.442 -19.545)">3</text><text x="61.873" y="87.947" font-family="cmmi9" font-size="9" transform="translate(-100.442 -19.545)">;</text><text x="65.984" y="87.947" font-family="cmr9" font-size="9" transform="translate(-100.442 -19.545)">1)</text></g><path fill="none" stroke="gray" d="m31.505-37.245 54.209 93.894H-22.703Z"/><g fill="red" stroke="red"><text x="31.505" y="87.947" fill="red" stroke="none" font-family="cmmi9" font-size="9" transform="translate(65.234 -103.339)">G</text></g><g fill="#00f" stroke="#00f"><text x="31.505" y="87.947" fill="#00f" stroke="none" font-family="cmmi9" font-size="9" transform="translate(50.561 -114.74)">°</text></g></g></svg>
+</figure>
 
-$(0;$ a) doppio; $(\pm \sqrt{a}-1; 1)$ (si veda il grafico del punto $2).$
+Calcoliamo l'area della regione compresa tra il grafico $G$ e la corda $y=1$, sfruttando la simmetria rispetto all'asse $y$:
 
-Se $a= 1$ abbiamo le soluzioni $(0; 1)$ quadrupla.
+$$\int_{-\sqrt{3}}^{\sqrt{3}} \left(\frac{4}{1+x^2}-1\right)dx = 2\int_{0}^{\sqrt{3}} \left(-1+\frac{4}{1+x^2}\right)dx = 2\Big[-x+4\arctan x\Big]_{0}^{\sqrt{3}} = 2\left(\frac{4\pi}{3}-\sqrt{3}\right) = \frac{8\pi}{3}-2\sqrt{3}.$$
 
-Se $0 < a< 1$ abbiamo solo la soluzione $(0;$ a) doppia.
+Il segmento circolare delimitato dalla corda $y=1$ e dall'arco inferiore di $\gamma$ ha area $\dfrac{2\pi}{3}-\sqrt{3}$ (area del settore circolare di ampiezza $\dfrac{2\pi}{3}$ meno l'area del triangolo $OBC$). Pertanto la parte del cerchio che sta sopra il grafico $G$ vale
 
-Calcolare il valore a̅ di a per il quale la circonferenza $\gamma$ e la curva $G$ hanno in comune i
-vertici di un triangolo equilatero.
+$$4\pi - \left(\frac{8\pi}{3}-2\sqrt{3}\right) - \left(\frac{2\pi}{3}-\sqrt{3}\right) = \frac{2\pi}{3}+3\sqrt{3},$$
 
-La circonferenza e la curva $G$ hanno in comune tre punti, quindi siamo nel caso in cui
-$a> 1$ e, come visto nel punto precedente, le due curve hanno in comune i punti di
-coordinate:
+mentre la parte del cerchio al di sotto di $G$ (interna al cerchio) vale
 
-$A= (0;$ a) ; $B= (-\sqrt{a}-1; 1)$ e $D= (\sqrt{a}-1; 1)$ .
+$$\left(\frac{8\pi}{3}-2\sqrt{3}\right) + \left(\frac{2\pi}{3}-\sqrt{3}\right) = \frac{10\pi}{3}-3\sqrt{3}.$$
 
-Affinché il triangolo ABD, inscritto nella circonferenza di raggio $R= AC=$
-$2,$ sia equilatero,
-l’altezza $h$ del triangolo deve essere i $3/2$ del raggio, quindi:
-
-$h= a-1 =$
-$2 ∙R=$
-$$ 3 2 ( a 2) = 3 $$
-$4$ a da cui $4a-4 = 3a$ quindi $a= 4$ .
-
-Dopo aver controllato che il valore a̅ sopraddetto è $4,$ indicare con $\gamma$ ̅ e G̅ la circonferenza
-e la curva corrispondenti a tale valore e calcolare le aree delle regioni piane in cui la
-curva G̅ divide il cerchio delimitato da $\gamma$ ̅.
-
-Con $a=4$ le due curve hanno le seguenti equazioni:
-
-$\gamma$ ̅: $x^{2} + y^{2} -4y= 0,$ G̅: $y=$
-$1+x^{2}$
-
-I grafici corrispondenti, con le regioni in cui curva G̅ divide il cerchio delimitato da $\gamma$ ̅ sono i
-seguenti:
-
-Calcoliamo l’area $S$ della regione compresa fra la curva G̅ e la retta $BC,$ che ha
-equazione $y=1;$ notiamo che per $a=4$ l’ascissa di $D$ è $\sqrt{a}-1 = \sqrt{3}.$
-
-$S= 2 \int$
-[f(x) $-1]dx= 2 \int$
-$1 + x^{2} -1] dx=$
-$$ \sqrt{3} 0 xD 0 2 {\int 4 $$
-$1 + x^{2} dx-\int$
-$$ dx \sqrt{3} 0 \sqrt{3} 0 } = $$
-
-$= 2 {[4arct(x)]0$
-$\sqrt{3} -[x]0$
-$\sqrt{3}} = 2{4[arctg(\sqrt{3}) -0] -\sqrt{3}} = 2 {4 ∙\pi$
-$3 -\sqrt{3}} = 8$
-$3 ∙\pi -2\sqrt{3}$
-
-La regione sotto la curva G̅ e interna al cerchio si ottiene aggiungendo $ad S$ l’area del
-segmento circolare BOD; quest’ultimo si ottiene sottraendo al settore circolare BCO (di
-ampiezza $120^\circ$ ) il triangolo di base $BD$ e altezza $1;$ quindi:
-
-Area(segmento circolare BOC) $= 1$
-$3 ∙\pi ∙22 -BD∙1$
-$$ 2 = 4 $$
-$3 ∙\pi -2\sqrt{3} ∙1$
-$$ 2 = 4 $$
-$3 ∙\pi -\sqrt{3}$
-
-Area(ABOD) $= S+$ Area(segmento circolare BOC) $= (8$
-$3 ∙\pi -2\sqrt{3}) + (4$
-$3 ∙\pi -\sqrt{3}) =$
-$= 4\pi -3\sqrt{3}$
-
-$S^{1} = S^{2} =$ Area(cerchio) $-Area(ABOD)$
-$= 4\pi -(4\pi -3\sqrt{3})$
-$$ 2 = 3 2 \sqrt{3 $$
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
-
-ORDINAMENTO 2005 - SESSIONE SUPPLETIVA
-
-QUESITO $1$
-
-È dato un trapezio rettangolo, in cui le bisettrici degli angoli adiacenti al lato obliquo si
-intersecano in un punto del lato perpendicolare alle basi. Dimostrare che il triangolo
-avente per vertici questo punto e gli estremi del lato obliquo è rettangolo e trovare quale
-relazione lega il lato obliquo alle basi del trapezio.
-
-Risulta: $2\alpha + 2\beta = \pi$ quindi $\alpha + \beta =$
-$\pi$
-$2$ pertanto il triangolo ABE è rettangolo in E.
-Il triangolo ABE è simile $ai$ triangoli BCE e ADE; risulta in particolare:
-
-$$ AB $$
-$BE= BE$
-$BC$ da cui $AB= BE2$
-$BC$ da cui $AB∙BC= BE2$
-
-$$ AB $$
-$AE= AE$
-$AD$ da cui $AB= AE2$
-$AD$ da cui $AB∙AD= AE2$
-
-Sommando membro a membro nelle ultime due uguaglianze si ha:
-
-$AB∙BC+ AB∙AD= BE2 + AE2 \implies AB(BC+ AD) = AB2 , BC+ AD= AB$
-
-Il lato obliquo è uguale alla somma delle due basi.
-
-QUESITO $2$
-
-Siano $AB, AC, AD$ tre spigoli di un cubo. Sapendo che uno spigolo è lungo $s,$ calcolare la
-distanza del vertice A dal piano dei punti $B, C, D.$
-
-Il piede dell’altezza $G$ relativa alla base BCD della piramide (retta) ABCD è l’ncentro del
-triangolo equilatero BCD, quindi anche il baricentro; per una nota proprietà del baricentro
-di un triangolo si ha che $CG$ è i $2/3$ della mediana uscente da $C,$ che è anche altezza del
-triangolo equilatero BCD di lato $s\sqrt{2};$ l’altezza del triangolo BCD vale quindi:
-$(s\sqrt{2}) ∙\sqrt{3}$
-$$ 2 = 1 $$
-$2 s\sqrt{6}$ . Pertanto:
-
-$CG= 2$
-$$ 3 (1 $$
-$2 s\sqrt{6}) = 1$
-$3 s\sqrt{6}$
-
-Essendo $AG$ perpendicolare al piano BCD, risulta $AG$ perpendicolare a $CG:$ il triangolo
-ACG è quindi rettangolo in $G.$ Si ha allora:
-
-$AG2 = AC2 -CG2 = s^{2} -(1$
-$3 s\sqrt{6})$
-$= s^{2} -2$
-$3 s^{2} = 1$
-$3 s^{2} \implies AG= s\sqrt{3}$
-
-QUESITO $3$
-
-Alberto e Gianna sono chiamati a risolvere la seguente equazione: sinx $cosx=$
-$$ 1 4 . $$
-Alberto ottiene come soluzione gli angoli $x$ tali che: $x=$
-$\pi$
-$12 + k\pi$ oppure: $x=$
-$5\pi$
-$12 + k\pi$
-$(k$ intero qualsiasi); Gianna trova la seguente soluzione: $x= (-1)k\pi$
-$12 + k$
-$\pi$
-$2 (k$ intero
-qualsiasi).
-È vero o è falso che Alberto ha risolto correttamente e Gianna no? Fornire una risposta
-esauriente.
-
-Risolviamo l’equazione: sinx $cosx=$
-$4,$ equivalente a $2sinx cosx=$
-$2 , sen(2x) =$
-$2$ da cui:
-
-$2x= \pi$
-$6 + 2k\pi$ oppure $2x= 5$
-$6 \pi + 2k\pi$ quindi:
-
-$x=$
-$\pi$
-$12 + k\pi$ oppure $x=$
-$12 \pi + k\pi$ : quindi Alberto ha risposto correttamente.
-
-Analizziamo la soluzione di Gianna.
-
-Se $k$ è pari la soluzione indicata da Gianna diventa:
-
-$x= (-1)k\pi$
-$12 + k$
-$\pi$
-$\pi$
-$12 + (2h)$ ∙
-$\pi$
-$\pi$
-$12 + h\pi$ (uguale alla prima soluzione data da Alberto).
-
-Se $k$ è dispari la soluzione indicata da Gianna diventa:
-
-$x= (-1)k\pi$
-$12 + k$
-$\pi$
-$2 = -$
-$\pi$
-$12 + (2h+ 1)$ ∙
-$\pi$
-$$ 2 = 5 $$
-$12 \pi + h\pi$ (uguale alla seconda soluzione data da
-Alberto).
-
-Quindi sia Alberto sia Gianna hanno risolto correttamente l’equazione.
-
-QUESITO $4$
-
-Si consideri la seguente equazione in $x: (k-2) x^{2} -(2k-1)x+ (k+ 1) = 0$ dove $k$ è un
-parametro reale diverso da $2.$
-Indicate con $x'$ ed x" le sue radici, calcolare i limiti di $x' +$ x" quando $k$ tende a $2,$ a $+\infty$ e a
-$- \infty$ .
-
-$(k-2) x^{2} -(2k-1)x+ (k+ 1) = 0$ , con $k\ne 2$ .
-
-Determiniamo la somma delle radici, dopo aver verificato che il discriminante
-dell’equazione è non negativo:
-
-$\Delta = (2k-1)^{2} -4(k-2)(k+ 1) = 9 \ge 0$ per ogni $k$
-
-$x' +$ x" $= -b/a = 2k-1$
-$k-2$
-
-Calcoliamo i limiti richiesti:
-
-$$ lim $$
-$k\to 2(x' +$ x") = lim
-$k\to 2$
-$2k-1$
-$k-2 = \infty$
-
-$$ lim $$
-$k\to \pm \infty (x' +$ x") = lim
-$k\to \pm \infty$
-$2k-1$
-$k-2 = 2$
-
-QUESITO $5$
-
-Il limite della funzione $(1 -x)$
-$x$ per $x\to 0:$
-[A] è uguale $ad 1;$
-[B] è uguale a $+\infty$ ;
-[C] non esiste;
-[D] è uguale $ad$ e;
-[E] è uguale $ad$
-e ,
-essendo “e” la base dei logaritmi naturali.
-Una sola risposta è corretta. Individuarla e fornirne una spiegazione esauriente.
-
-Calcoliamo il limite proposto:
-$$ lim $$
-$x\to 0(1 -x)$
-$x=$ lim
-$x\to 0(1 + (-x))$
-$-x∙(-1) =$ lim
-$x\to 0 [(1 + (-x))$
-$-x]$
-$-1$
-$= e-1 = 1$
-Ricordiamo che, se f(x) $\to 0$ allora $[1 +$ f(x)]
-f(x) tende $ad$ e (conseguenza del limite
-notevole $limx\to \infty (1 +$
-$x)$
-= e ).
-
-La risposta corretta è quindi la [E] .
-
-QUESITO $6$
-
-Fornire un esempio di funzione reale di variabile reale f(x) avente le seguenti
-caratteristiche:
-$f(1) = 1, f'(1) = 0, f''(1) < 0.$
-
-Una possibile funzione si può ottenere dalla parabola di equazione:
-$y=$ f(x) $= ax2 + bx+ c$
-
-$f(1) = 1: a+ b+ c= 1$
-f'(x) $= 2ax+ b \implies f'(1) = 2a+ b= 0$
-f''(x) $= 2a \implies f''(1) < 0$ , quindi $a< 0$
-
-Pertanto:
-
-$a+ b+ c= 1$
-$2a+ b= 0$
-$a< 0$
-$\implies$ {
-$-a+ c= 1$
-$b= -2a$
-$a< 0$
-$\implies$ {
-$c= 1 +$ a
-$b= -2a$
-$a= -1$
-$\implies$ {
-$c= 0$
-$b= 2$
-$a= -1$
-
-Un esempio di funzione con le caratteristiche richieste è: f(x) $= -x^{2} + 2x$
-
-QUESITO $7$
-
-In un piano, riferito $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy), sono
-assegnate le rette $r$ ed $s$ di equazioni rispettivamente $2x+ my= 1$ e $mx- 2y= 2,$ dove $m$
-è un parametro reale. Qual è l’equazione del luogo geometrico descritto dal punto di
-intersezione delle due rette al variare di $m?$
-
-Si tratta di due fasci propri di rette, con coefficienti angolari -
-$m$ ed
-$2$ , che sono
-antireciproci; per ogni $m$ le due corrispondenti rette del fascio sono quindi perpendicolari. Il
-luogo richiesto è quindi la circonferenza di diametro $AB,$ con A e $B$ centri dei due fasci.
-
-La retta $r$ di equazione $2x+ my= 1$ ha centro $A=$ (
-$2 ; 0)$ (ottenuto come intersezione
-delle generatrici corrispondenti $ad m=0, 2x-1=0,$ e $ad m$ che tende $ad$ infinito, $y=0).$
-
-La retta $s$ di equazione $mx- 2y= 2$ ha centro $B= (0; -1)$ (ottenuto come intersezione
-delle generatrici corrispondenti $ad m=0, -2y-2=0,$ e $ad m$ che tende $ad$ infinito, $x=0).$
-
-La circonferenza di diametro $AB$ ha centro in $C=$ (
-$4 ; -$
-$2)$ e raggio:
-$R= AC= \sqrt$
-$$ 1 16 + 1 4 = \sqrt{5} 16 . $$
-
-L’equazione del luogo è quindi:
-
-$(x-$
-$$ 1 4) 2 $$
-$+ (y+$
-$$ 1 2) 2 = 5 $$
-$16 \implies x^{2} + y^{2} -$
-$2 x+ y= 0$
-
-Allo stesso risultato si perviene cercando il generico punto di intersezione delle due rette
-o, meglio, eliminando il parametro $m$ tra le due equazioni del sistema:
-
-${2x+ my= 1$
-$mx- 2y= 2$ ;
-
-$m= 1 -2x$
-(con $y\ne 0)$
-$1 -2x$
-$∙x-2y= 2$
-
-$1 -2x$
-$∙x-2y= 2 \implies x-2x^{2} -2y^{2} = 2y \implies 2x^{2} + 2y^{2} -x+ 2y= 0$
-
-Se $y=0$ il sistema precedente fornisce il seguente punto:
-
-{ $x=$
-$$ 1 2 $$
-$y= -1$
-che appartiene alla circonferenza precedente.
-
-QUESITO $8$
-
-È vero o falso che le due funzioni $ln(x^{2} -4)$ e $ln(x+ 2) -ln(x-2)$ hanno lo stesso
-grafico? Fornire una esauriente spiegazione della risposta.
-
-E’ falso.
-
-La funzione $ln(x^{2} -4)$ è definita per $x^{2} -4 > 0$ cioè $x< -2$ vel $x> 2$
-
-La funzione $ln(x+ 2) -ln(x-2)$ è definita per
-
-${x> -2$
-$x> 2 \implies x> 2$
-
-QUESITO $9$
-
-Le parti letterali dei termini dello sviluppo del binomio $(a+ b)10,$ ordinati secondo le
-potenze decrescenti di a e crescenti di $b,$ sono rispettivamente:
-
-$a^{10}, a9b, a8b^{2}, a7b^{3}, a6b^{4}, a5b^{5}, a4b^{6}, a3b^{7}, a2b^{8}, a1b^{9}, b^{10}.$
-
-Elencare i loro coefficienti e giustificare in modo esauriente la risposta.
-
-Lo sviluppo della potenza del binomio $(a+ b)10$ è dato da:
-
-$(a+ b)10 = \sum (10$
-$k) akbn-k$
-$$ 10 $$
-$k=0$
-
-I coefficienti dei termini indicati si ottengono per $k=0, 1, 2, ...,10$ e quindi sono:
-
-$$ (10 0 ) = 1, (10 1 ) = 10, (10 2 ) , (10 $$
-$3 ) , ... , (10$
-$$ 9 ) = 10, (10 10) = 1. $$
-
-QUESITO $10$
-
-Una classe è formata da $27$ alunni: $15$ femmine e $12$ maschi. Si deve costituire una
-delegazione di $5$ alunni, di cui $3$ femmine e $2$ maschi. Quante sono le possibili
-delegazioni?
-
-Il numero di terne di femmine è dato dalle combinazioni semplici di $15$ oggetti a $3$ a $3,$
-cioè:
-
-$C15,3 = (15$
-$3 ) = 15 ∙14 ∙13$
-$3!$
-$$ = 455 $$
-
-Il numero di coppie di maschi è dato dalle combinazioni semplici di $12$ oggetti a $2$ a $2,$
-cioè:
-
-$C12,2 = (12$
-$2 ) = 12 ∙11$
-$2!$
-$$ = 66 $$
-
-Le possibili delegazioni sono pari a:
-
-$C15,3 ∙C12,2 = 455 ∙66 = 30030$
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
+La somma delle due aree è $\dfrac{2\pi}{3}+3\sqrt{3} + \dfrac{10\pi}{3}-3\sqrt{3} = 4\pi$, pari all'area dell'intero cerchio, come deve essere.
 
 *Fonte:* [📄 PDF p.99](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

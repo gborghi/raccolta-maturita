@@ -1,220 +1,103 @@
----
-title: 2008 PNI Straordinaria — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118_1
-of_item: prob_2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118_1
-prova_id: prova_2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2008
----
+
 
 **Problema:** [[Problemi/prob_2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118_1|2008 PNI Straordinaria — Problema 2 — Problema 1]] · **Prova:** [[Prove/2008_liceo_scientifico_pni_2008_sessione_straordinaria_problema2_118|2008 PNI Straordinaria — Problema 2]]
 
-Liceo Scientifico PNI 2008
-Sessione $Straordinaria-$ Problema $2$
-
-PNI 2008 - SESSIONE STRAORDINARIA - PROBLEMA $2$
-
 Si consideri la funzione
 
-f(x) = {e
-$(x^{2}-1)$ , se $|x| < 1;$
-$0,$ se $|x| \ge 1;$
+$$
+f(x)=\begin{cases} e^{1/(x^2-1)}, & \text{se } |x|<1,\\[2pt] 0, & \text{se } |x|\ge 1. \end{cases}
+$$
 
-Si dica se questa funzione è continua nei punti in cui $|x| = 1.$
+## a) Continuità nei punti in cui $|x|=1$
 
-Analizziamo la continuità in $x=1:$
+Studiamo il comportamento nei due punti $x=\pm 1$.
 
-$$ lim $$
-$x\to 1+$ f(x) = lim
-$x\to 1+(0) = 0 = f(1)$ : continua da destra in $x= 1$
+Per $x\to 1^-$ si ha $x^2-1\to 0^-$, dunque $\dfrac{1}{x^2-1}\to-\infty$ e quindi $e^{1/(x^2-1)}\to 0$. Poiché $f(1)=0$, la funzione è continua in $x=1$.
 
-$$ lim $$
-$x\to 1-f(x) =$ lim
-$x\to 1-e$
-$(x^{2}-1) = 0 = f(1)$ : continua da sinistra in $x= 1$
+Analogamente, per $x\to(-1)^+$ risulta $x^2-1\to 0^-$ e $e^{1/(x^2-1)}\to 0=f(-1)$: la funzione è continua anche in $x=-1$.
 
-La funzione è continua in $x=1.$
+Per $x\to 1^+$ e per $x\to(-1)^-$ la funzione vale costantemente $0$, quindi i limiti valgono $0$. La funzione è dunque **continua ovunque**.
 
-Analizziamo la continuità in $x=-1:$
+## b) Studio della funzione e grafico $\gamma$
 
-Essendo la funzione pari, la funzione è continua anche in $x=-1.$
+**Dominio:** $\mathbb{R}$.
 
-Si studi tale funzione e si tracci il suo grafico $\gamma$ , su un piano riferito $ad$ un sistema di assi
-cartesiani ortogonali Oxy.
+**Parità:** $f(-x)=f(x)$, quindi la funzione è pari (grafico simmetrico rispetto all'asse $y$).
 
-f(x) = {e
-$(x^{2}-1)$ , se $|x| < 1;$
-$0,$ se $|x| \ge 1;$
+**Segno:** per $|x|\ge 1$ si ha $f(x)=0$; per $|x|<1$ si ha $f(x)=e^{1/(x^2-1)}>0$.
 
-Studiamo la funzione per $-1 < x< 1$ (in tutti gli altri punti coincide con l’asse $x)-$
+**Derivata prima** (per $|x|<1$):
 
-f(x) = e
-$(x^{2}-1)$ (per $-1 < x< 1).$
+$$
+f'(x)=e^{1/(x^2-1)}\cdot\frac{-2x}{(x^2-1)^2}.
+$$
 
-Liceo Scientifico PNI 2008
-Sessione $Straordinaria-$ Problema $2$
+Nell'intervallo $(-1,1)$ il fattore esponenziale e $(x^2-1)^2$ sono positivi, quindi il segno di $f'(x)$ è quello di $-2x$: $f'(x)=0$ solo per $x=0$. La funzione è **crescente** su $(-1,0)$ e **decrescente** su $(0,1)$, per cui $x=0$ è punto di **massimo assoluto**, con
 
-Nell’intervallo di studio la funzione è continua e derivabile ed è sempre positiva. Abbiamo
-già visto i limiti nel punto precedente. Abbiamo già notato che la funzione è pari.
+$$
+f(0)=e^{1/(0-1)}=e^{-1}=\frac{1}{e}\approx 0{,}368.
+$$
 
-Se $x=0$ risulta f(x) =
-$e\cong 0.34$ ; se $y=0$ f(x) = mai.
+La curva presenta il caratteristico profilo "a campana" a supporto compatto $[-1,1]$: è nulla al di fuori di $[-1,1]$ e regolare ovunque (è la classica funzione *bump*).
 
-Derivata prima:
 
-f'(x) = -
-$2x$ e
-$x^{2}-1$
-$(x^{2} -1)^{2} \ge 0$ se $x< 0;$ la funzione è crescente se $-1 < x< 0$ e decrescente
-se $0 < x< 1; x=0$ è punto di minimo relativo (ed anche assoluto), con ordinata
-$e\cong 0.34.$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="442.202" height="145.604" viewBox="-72 -72 331.652 109.203"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-71.87 22.789H246.4"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M244.52 20.389c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="87.465" y="22.789" stroke="none" font-family="cmmi10" font-size="10" transform="translate(162.868 2.153)">x</text><path fill="none" d="M87.465 36.447v-95.201"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M85.065-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="87.465" y="22.789" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -87.42)">y</text><path fill="none" stroke="#00f" stroke-width=".8" d="M-71.87 22.789h68.286M-.852 22.786h1.984l1.984-.143 1.984-.547 1.984-1.133 1.983-1.74L11.051 17l1.984-2.576 1.984-2.819 1.984-2.92 1.984-2.972 1.984-2.954 1.984-2.886 1.984-2.8 1.984-2.715 1.984-2.579 1.983-2.475 1.984-2.339 1.984-2.22 1.984-2.101 1.984-1.98 1.984-1.863 1.984-1.758 1.984-1.639 1.984-1.536 1.984-1.451 1.984-1.334 1.983-1.264 1.984-1.159 1.984-1.076 1.984-1.008 1.984-.906 1.984-.852 1.984-.753 1.984-.7 1.984-.63 1.984-.564 1.984-.497 1.983-.425 1.984-.36 1.984-.307 1.984-.24 1.984-.169 1.984-.138 1.984-.05h1.984l1.984.05 1.984.12 1.983.172 1.984.255 1.984.29 1.984.36 1.984.442 1.984.48 1.984.562 1.984.615 1.984.7 1.984.769 1.984.836 1.983.906 1.984 1.009 1.984 1.073 1.984 1.162 1.984 1.247 1.984 1.35 1.984 1.432 1.984 1.537 1.984 1.641 1.984 1.74 1.984 1.863 1.984 1.98 1.983 2.1 1.984 2.203 1.984 2.34 1.984 2.477 1.984 2.576 1.984 2.699 1.984 2.8 1.984 2.904 1.984 2.936 1.984 2.972 1.984 2.936 1.983 2.8 1.984 2.598 1.984 2.235 1.984 1.758 1.984 1.156 1.984.566 1.984.153h1.984M178.514 22.789H246.8"/><path stroke="none" d="M90.345-40.018c0-2.983-1.29-5.4-2.88-5.4s-2.88 2.417-2.88 5.4c0 2.982 1.29 5.4 2.88 5.4s2.88-2.418 2.88-5.4m-2.88 0"/><g stroke="none"><text x="88.665" y="18.852" font-family="cmr7" font-size="7" transform="translate(3.533 -69.789)">1</text><path d="M92.198-49.7h3.986v.4h-3.986z"/><text x="88.761" y="26.237" font-family="cmmi7" font-size="7" transform="translate(3.533 -69.789)">e</text></g><g stroke="none" font-size="10"><text x="87.465" y="22.789" font-family="cmsy10" transform="translate(-97.438 9.977)">¡</text><text x="95.243" y="22.789" font-family="cmr10" transform="translate(-97.438 9.977)">1</text></g><text x="87.465" y="22.789" stroke="none" font-family="cmr10" font-size="10" transform="translate(88.549 9.977)">1</text></g></svg>
+</figure>
 
-Derivata seconda:
+## c) Normale a $\gamma$ nel punto di ascissa $x=\dfrac{1}{\sqrt{2}}$
 
-f''(x) =
-$6x4e$
-$x^{2}-1 -2e$
-$x^{2}-1$
-$x^{8} -4x^{6} + 6x^{4} -4x^{2} + 1 =$
-$(6x^{4} -2)$
-$(x^{2} -1)^{4}$ ∙e
-$x^{2}-1 \ge 0$ se $3x^{4} \ge 1$ ,
-$x\le -1$
-$$ \sqrt{3} 4 $$
-vel $x\ge 1$
-$$ \sqrt{3} 4 $$
+Posto $x_0=\dfrac{1}{\sqrt{2}}$, si ha $x_0^2=\dfrac{1}{2}$ e $x_0^2-1=-\dfrac{1}{2}$, quindi
 
-Quindi il grafico volge la concavità verso l’alto se $-1 < x< -$
-$$ 1 \sqrt{3 $$
-$4$ e
-$$ 1 \sqrt{3} 4 $$
-$< x< 1,$ e verso
-il basso se -
-$$ 1 \sqrt{3} 4 $$
-$< x<$
-$$ 1 \sqrt{3 $$
-$4$ ; si hanno due flessi per $x= \pm$
-$$ 1 \sqrt{3 $$
-$4$ , con ordinata
-$f(\pm$
-$$ 1 \sqrt{3 $$
-$4 ) =$ e
-$$ 1 1 $$
-$\sqrt{3}-1 =$ e
-$$ \sqrt{3 $$
-$1-\sqrt{3}.$
+$$
+f(x_0)=e^{1/(-1/2)}=e^{-2}.
+$$
 
-Il grafico completo della funzione è il seguente:
+Calcoliamo la pendenza della tangente:
 
-Si scriva l’equazione della normale a $\gamma$ nel punto di ascissa $x=$
-$$ 1 \sqrt{2} . $$
+$$
+f'(x_0)=e^{-2}\cdot\frac{-2/\sqrt{2}}{(1/4)^{}}\cdot\frac{1}{1}=e^{-2}\cdot(-4\sqrt{2})=-4\sqrt{2}\,e^{-2}.
+$$
 
-Il punto di ascissa $x=$
-$\sqrt{2}$ ha ordinata $y= f($
-$\sqrt{2}) =$ e
-$$ 1 1 $$
-$2-1 = e-2$
+Dunque $m_t=-4\sqrt{2}\,e^{-2}$, e la pendenza della normale è
 
-Liceo Scientifico PNI 2008
-Sessione $Straordinaria-$ Problema $2$
+$$
+m_n=-\frac{1}{m_t}=\frac{1}{4\sqrt{2}\,e^{-2}}=\frac{e^2}{4\sqrt{2}}=\frac{e^2\sqrt{2}}{8}.
+$$
 
-Cerchiamo il coefficiente della tangente nel punto di ascissa $x=$
-$$ 1 \sqrt{2}: $$
+L'equazione della normale è pertanto
 
-f'(x) $= -2x$ e
-$x^{2}-1$
-$(x^{2} -1)^{2} , f' ( 1$
-$$ \sqrt{2 $$
-) $= -\sqrt{2}$
-$$ 1 4 $$
-$∙e-2 = -4\sqrt{2}$
-$$ e^{2 $$
-Il coefficiente angolare della normale è quindi:
+$$
+\boxed{\,y-e^{-2}=\frac{e^2\sqrt{2}}{8}\left(x-\frac{1}{\sqrt{2}}\right).\,}
+$$
 
-$m=$
-$$ e^{2 $$
-$4\sqrt{2}$ . La normale ha equazione: $y-e-2 =$
-$$ e^{2 $$
-$4\sqrt{2} (x-$
-$\sqrt{2}) ; y=$
-$$ e^{2 $$
-$4\sqrt{2} x-$
-$$ e^{2 $$
-$8 + e-2.$
+## d) Area approssimata (integrazione numerica)
 
-Utilizzando uno dei metodi di integrazione numerica studiati, si calcoli un valore
-approssimato dell’area della superficie piana, delimitata dalla curva $\gamma$ e dall’asse delle $x.$
+Per la simmetria pari della funzione, l'area compresa tra $\gamma$ e l'asse $x$ è
 
-Rappresentiamo graficamente la superficie indicata:
+$$
+A=2\int_0^1 e^{1/(x^2-1)}\,dx.
+$$
 
-L’area richiesta è data da:
+Applichiamo il **metodo dei trapezi** con $n=4$ sottointervalli di $[0,1]$, passo $h=0{,}25$:
 
-$Area= \int$ f(x)
-$-1$
-$dx= 2 \int$ f(x)
-$$ 1 0 $$
-$dx$ dove f(x) = {e
-$(x^{2}-1)$ , se $|x| < 1;$
-$0,$ se $|x| \ge 1;$
+$$
+\begin{array}{c|ccccc}
+x_k & 0 & 0{,}25 & 0{,}5 & 0{,}75 & 1 \\ \hline
+f(x_k) & e^{-1}\approx 0{,}3679 & e^{-16/15}\approx 0{,}3445 & e^{-4/3}\approx 0{,}2636 & e^{-16/7}\approx 0{,}1025 & 0
+\end{array}
+$$
 
-Calcoliamo con il metodo del trapezi l’integrale:
+$$
+\int_0^1 f(x)\,dx\approx\frac{0{,}25}{2}\big(0{,}3679+2\cdot 0{,}3445+2\cdot 0{,}2636+2\cdot 0{,}1025+0\big)=0{,}125\cdot 1{,}7891\approx 0{,}2236.
+$$
 
-$I= \int$ f(x)
-$$ 1 0 dx $$
+Quindi
 
-Ricordiamo la formula dei trapezi:
-
-$\int f(x)dx\cong b-a$
-$[f(x^{0}) +$ f(xn)
-$+ f(x^{1}) + f(x^{2}) + ⋯+ f(xn-1)]$
-$$ b a $$
-
-Liceo Scientifico PNI 2008
-Sessione $Straordinaria-$ Problema $2$
-
-Consideriamo la funzione f(x) = e
-$(x^{2}-1)$ e l’intervallo $[0;1];$ dividiamo l’intervallo in $n=5$
-parti.
-
-$\int$ f(x)dx
-$$ 1 0 $$
-$\cong h[f(x^{0}) + f(x^{5})$
-$+ f(x^{1}) + f(x^{2}) + f(x^{3}) + f(x^{4})]$
-
-Dove: $h=$
-$1-0$
-$$ 5 = 1 $$
-$5 = 0.2 x^{0} = 0, x^{1} = 0 + h= 0.2, x^{2} = 0.4, x^{3} = 0.6, x^{4} = 0.8, x^{5} = 1$
-
-$\int$ f(x)dx
-$$ 1 0 $$
-$\cong 0.2 [f(0) + f(1)$
-$+ f(0.2) + f(0.4) + f(0.6) + f(0.8)] =$
-
-$= 0.2 [e-1 + 0$
-+ e
-$0.22-1 +$ e
-$0.42-1 +$ e
-$0.62-1 +$ e
-$0.82-1] = 0.2 ∙1.1127 \cong 0.22$
-
-Quindi:
-
-$Area= 2 \int$ f(x)
-$$ 1 0 $$
-$dx \cong 0.44 u^{2}$
-
-Con la collaborazione di Angela Santamaria
+$$
+A\approx 2\cdot 0{,}2236\approx\boxed{0{,}447\ \text{u}^2}.
+$$
 
 *Fonte:* [📄 PDF p.118](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

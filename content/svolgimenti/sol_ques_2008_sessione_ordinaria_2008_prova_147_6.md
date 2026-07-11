@@ -1,72 +1,67 @@
----
-title: 2008 Ordinaria — Prova (PNI Informatica) — Quesito 6 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2008_sessione_ordinaria_2008_prova_147_6
-of_item: ques_2008_sessione_ordinaria_2008_prova_147_6
-prova_id: prova_2008_sessione_ordinaria_2008_prova_147
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2008
----
+
 
 **Quesito:** [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_6|2008 Ordinaria — Prova (PNI Informatica) — Quesito 6]] · **Prova:** [[Prove/2008_sessione_ordinaria_2008_prova_147|2008 Ordinaria — Prova (PNI Informatica)]]
 
-Sessione ordinaria 2008
+I lati di un parallelepipedo rettangolo misurano $8$, $9$ e $12$ cm. Si calcoli, in gradi e primi sessagesimali, l'ampiezza dell'angolo che la diagonale uscente da un vertice forma con ciascuno dei tre spigoli concorrenti in quel vertice.
 
-CORSO SPERIMENTALE
 
-Indirizzo: PIANO INTERNAZIONALE INFORMATICA
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="187.631" height="135.92" viewBox="-72 -72 140.723 101.94"><g stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="m-26.048-9.07-31.3 25.041M-26.048-9.07h93.901M-26.048-9.07v-62.6"/><path fill="none" d="M-57.349 15.971h93.902l31.3-25.04V-71.67l-31.3 25.04Z"/><path fill="none" d="M-57.349 15.971v-62.6h93.902M-57.349-46.63l31.3-25.04h93.902M36.553 15.971v-62.6"/><path fill="none" stroke="red" stroke-width="1.2" d="M-57.349 15.971 67.853-71.67"/><path fill="none" stroke="#00f" stroke-width="1.2" d="M-57.349 15.971h93.902M-57.349 15.971v-62.6"/><text x="-57.349" y="15.971" stroke="none" font-family="cmr10" font-size="10" transform="translate(41.947 9.977)">12</text><text x="-57.349" y="15.971" stroke="none" font-family="cmr10" font-size="10" transform="translate(-8.533 -28.076)">8</text><text x="-57.349" y="15.971" stroke="none" font-family="cmr10" font-size="10" transform="translate(19.182 -2.542)">9</text><g fill="red" stroke="red"><text x="-57.349" y="15.971" fill="red" stroke="none" font-family="cmr10" font-size="10" transform="translate(66.986 -50.48)">17</text></g><path stroke="none" d="M-55.974 15.971a1.375 1.375 0 1 0-2.75 0 1.375 1.375 0 0 0 2.75 0m-1.375 0"/><text x="-57.349" y="15.971" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.589 10.366)">V</text></g></svg>
+</figure>
 
-Tema di: MATEMATICA
+## Lunghezza della diagonale
 
-Il candidato risolva uno dei due problemi e risponda a $5$ dei $10$ quesiti del questionario.
+Fissiamo il vertice $V$ e un sistema di assi lungo i tre spigoli concorrenti in esso, di lunghezze $a=8$, $b=9$, $c=12$. La diagonale del parallelepipedo rettangolo che parte da $V$ raggiunge il vertice opposto e la sua lunghezza è
 
-PROBLEMA $1$
-Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si considerino i triangoli
-ABC con $A(1, 0), B(3, 0)$ e $C$ variabile sulla retta d’equazione $y=2x.$
-$1.$ Si provi che i punti $(1, 2)$ e
-⎟
-⎠
-⎞
-⎜
-⎝
-⎛
-$$ 5 6 , 5 3 $$
-corrispondono alle due sole posizioni di $C$ per cui è
-ˆ
-$\pi$
-$$ = B C A $$
+$$
+d=\sqrt{a^2+b^2+c^2}=\sqrt{8^2+9^2+12^2}=\sqrt{64+81+144}=\sqrt{289}=17\ \text{cm}.
+$$
 
-$2.$ Si determini l’equazione del luogo geometrico $\gamma$ descritto, al variare di $C,$ dall’ortocentro
-del triangolo ABC. Si tracci $\gamma$ .
-$3.$ Si calcoli l’area $\Omega$ della parte di piano delimitata da $\gamma$ e dalle tangenti a $\gamma$ nei punti A e $B.$
-$4.$ Verificato che è
-$$ )^{1} 3 $$
-$(ln$
-$$ 2 3 $$
--
-$\Omega$
-si illustri una procedura numerica per il calcolo
-approssimato di $ln 3.$
+## Angoli con i tre spigoli
 
-PROBLEMA $2$
-Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da
+Ciascuno spigolo concorrente in $V$ è la proiezione ortogonale della diagonale sulla direzione dello spigolo stesso: la diagonale, lo spigolo e la relativa diagonale di faccia formano un triangolo rettangolo in cui lo spigolo è il cateto adiacente all'angolo cercato e la diagonale $d$ è l'ipotenusa. Dunque, detto $\theta$ l'angolo fra la diagonale e uno spigolo di lunghezza $\ell$,
 
-$$ 2 ) ( x x g x f x = = $$
-$1.$ Si traccino i grafici di $f$ e di $g$ e si indichi con A la loro intersezione di ascissa negativa.
-$2.$ Si calcoli, con uno dei metodi di approssimazione numerica studiati, l’ascissa di A con due
-cifre decimali esatte.
-$3.$ Quanti e quali sono gli zeri della funzione
-$$ 2 2 $$
-? Si tracci il grafico di $h.$
-$$ ) ( x x h $$
-$x -$
-$4.$ Si calcoli l’area racchiusa tra il grafico di $h$ e l’asse $x$ sull’intervallo $[2, 4].$
+$$
+\cos\theta=\frac{\ell}{d}=\frac{\ell}{17}.
+$$
+
+**Spigolo di $8$ cm:**
+
+$$
+\cos\alpha=\frac{8}{17}\approx 0{,}4706
+\quad\Rightarrow\quad
+\alpha=\arctan\!\frac{\sqrt{9^2+12^2}}{8}\approx 61{,}93^\circ\approx 61^\circ 56'.
+$$
+
+**Spigolo di $9$ cm:**
+
+$$
+\cos\beta=\frac{9}{17}\approx 0{,}5294
+\quad\Rightarrow\quad
+\beta\approx 58{,}03^\circ\approx 58^\circ 2'.
+$$
+
+**Spigolo di $12$ cm:**
+
+$$
+\cos\gamma=\frac{12}{17}\approx 0{,}7059
+\quad\Rightarrow\quad
+\gamma\approx 45{,}10^\circ\approx 45^\circ 6'.
+$$
+
+## Verifica
+
+I coseni direttori della diagonale rispetto ai tre spigoli devono soddisfare la relazione fondamentale
+
+$$
+\cos^2\alpha+\cos^2\beta+\cos^2\gamma=\frac{8^2+9^2+12^2}{17^2}=\frac{289}{289}=1,
+$$
+
+come deve essere. Gli angoli richiesti sono quindi
+
+$$
+\alpha\approx 61^\circ 56',\qquad \beta\approx 58^\circ 2',\qquad \gamma\approx 45^\circ 6'.
+$$
 
 *Fonte:* [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 

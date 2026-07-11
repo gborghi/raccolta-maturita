@@ -1,59 +1,26 @@
----
-title: >-
-  2004 Americhe australe Suppletiva — Problema 2 e Quesiti — Quesito 8 —
-  Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_8
-of_item: ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_8
-prova_id: prova_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49_8|2004 Americhe australe Suppletiva — Problema 2 e Quesiti — Quesito 8]] · **Prova:** [[Prove/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema2_49|2004 Americhe australe Suppletiva — Problema 2 e Quesiti]]
 
-Americhe emisfero australe 2004
-Sessione Suppletiva - Quesiti
-
-Risulta quindi:
-
-$\int$ arcsin $x dx$
-$$ 1 0 $$
-= [x∙arcsin(x) $+ \sqrt{1} -x^{2}]$
-$$ 0 1 $$
-$= 1 ∙\pi$
-$2 -(0 + 1) = \pi$
-$2 -1$
-
-QUESITO $8$
-
 Siano dati gli insiemi
-$A= {\Phi , \Sigma , \Omega$ , Ψ} e $B=$ {a, $b,$ c} ;
+$$A=\{\Phi,\ \Sigma,\ \Omega,\ \Psi\}, \qquad B=\{a,\ b,\ c\}.$$
+Si chiede quante siano le applicazioni (funzioni) di $A$ in $B$.
 
-quante sono le applicazioni (le funzioni) di A in $B?$
+## Impostazione
 
-Consideriamo i due insiemi: $A= {\Phi , \Sigma , \Omega$ , Ψ} e $B=$ {a, $b,$ c}. Si chiede di determinare il
-numero delle applicazioni (funzioni) di A in $B.$
+Un'applicazione $f\colon A\to B$ associa a **ciascun** elemento di $A$ **uno e un solo** elemento di $B$. Costruire una tale applicazione equivale dunque a scegliere, indipendentemente e senza alcun vincolo, l'immagine di ognuno dei $4$ elementi di $A$; ogni scelta può cadere su uno qualunque dei $3$ elementi di $B$.
 
-Tale numero corrisponde al numero delle disposizioni con ripetizioni di $3$ oggetti (quelli
-del secondo insieme) a $4$ a $4$ (quelli del primo insieme), che è pari a $34= 81.$
+Poiché gli elementi di $A$ sono $4$ e per ciascuno vi sono $3$ possibilità, il numero cercato è quello delle **disposizioni con ripetizione** di $3$ oggetti (gli elementi di $B$) presi a gruppi di $4$ (uno per ogni elemento di $A$):
+$$D'_{3,4}=3^{4}.$$
 
-Nel nostro caso abbiamo le seguenti possibilità:
+## Calcolo
 
-$\Phi$ può andare in a, $b, c.$ Lo stesso per $\Sigma , \Omega$ e Ψ. Quindi i casi possibili sono:
+Applicando il principio di moltiplicazione:
+$$\underbrace{3}_{\Phi}\cdot\underbrace{3}_{\Sigma}\cdot\underbrace{3}_{\Omega}\cdot\underbrace{3}_{\Psi}=3^{4}=81.$$
 
-$3x3x3x^{3} = 34 = 81.$
-
-Con la collaborazione di Angela Santamaria
+Le applicazioni di $A$ in $B$ sono dunque
+$$\boxed{\,3^{4}=81\,}.$$
 
 *Fonte:* [📄 PDF p.56](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

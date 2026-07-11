@@ -1,327 +1,83 @@
----
-title: 2007 Ordinaria — Prova — Problema 2 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2007_sessione_ordinaria_2007_prova_7_2
-of_item: prob_2007_sessione_ordinaria_2007_prova_7_2
-prova_id: prova_2007_sessione_ordinaria_2007_prova_7
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2007
----
+
 
 **Problema:** [[Problemi/prob_2007_sessione_ordinaria_2007_prova_7_2|2007 Ordinaria — Prova — Problema 2]] · **Prova:** [[Prove/2007_sessione_ordinaria_2007_prova_7|2007 Ordinaria — Prova]]
 
-Sessione ordinaria 2007
+Si consideri un cerchio di centro $O$ e raggio $r$.
 
-CORSO DI ORDINAMENTO
+## a) Triangolo isoscele inscritto di area massima
 
-Tema di: MATEMATICA
+Consideriamo un triangolo isoscele $ABC$ inscritto nel cerchio, con $AB=AC$. Per simmetria l'asse del triangolo passa per il centro $O$; poniamo il vertice $A$ nell'estremo superiore del diametro verticale, $A=(0,\,r)$, e la base $BC$ orizzontale, con $B=(-x,\,y)$ e $C=(x,\,y)$ punti della circonferenza, così che
 
-Il candidato risolva uno dei due problemi e risponda a $5$ dei $10$ quesiti del questionario.
+$$x=\sqrt{r^2-y^2}.$$
 
-PROBLEMA $1$
+La base misura $BC=2x$ e l'altezza relativa alla base è $r-y$, quindi l'area vale
 
-Si considerino i triangoli la cui base è $AB = 1$ e il cui vertice $C$ varia in modo che l’angolo
-$$ B A $$
-$C$ ˆ
-$$ si $$
-mantenga doppio dell’angolo
-$$ C B $$
-A ˆ
-$1.$ Riferito il piano $ad$ un conveniente sistema di coordinate, si determini l’equazione del luogo
-geometrico $\gamma$ descritto da $C.$
-$2.$ Si rappresenti $\gamma$ , tenendo conto, ovviamente, delle prescritte condizioni geometriche.
-$3.$ Si determini l’ampiezza dell’angolo
-$$ C B $$
-A ˆ
-che rende massima la somma dei quadrati delle
-altezze relative $ai$ lati $AC$ e $BC$ e, con l’aiuto di una calcolatrice, se ne dia un valore
-approssimato in gradi e primi (sessagesimali).
-$4.$ Si provi che se
-$$ 2 1 5 $$
-è
-allora
+$$\mathcal{A}(y)=\frac{1}{2}\cdot 2x\cdot(r-y)=(r-y)\sqrt{r^2-y^2},\qquad -r\le y\le r.$$
 
-$$ 36 $$
-ˆ
--
-$^\circ$
-$$ = AC C B A . $$
 
-PROBLEMA $2$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="184.15" height="185.467" viewBox="-72 -72 138.113 139.101"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M59.495 4.034c0-34.571-28.025-62.596-62.597-62.596-34.571 0-62.596 28.025-62.596 62.596 0 34.572 28.025 62.597 62.596 62.597 34.572 0 62.597-28.025 62.597-62.597Zm-62.597 0"/><path fill="none" stroke="#00f" stroke-width=".8" d="m-3.102-58.57-54.215 93.907H51.114Z"/><path fill="none" stroke-dasharray="3.0,3.0" d="M-3.102 4.034V-58.57M-57.317 35.337H51.114"/><path stroke="none" d="M-1.452 4.034a1.65 1.65 0 1 0-3.3 0 1.65 1.65 0 0 0 3.3 0m-1.65 0"/><text x="-3.102" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(5.098 17.802)">r</text><text x="-3.102" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.75 -66.138)">A</text><text x="-3.102" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-65.835 41.669)">B</text><text x="-3.102" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(57.749 41.669)">C</text><text x="-3.102" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 -3.533)">O</text></g></svg>
+</figure>
 
-Si consideri un cerchio $C$ di raggio $r.$
-$1.$ Tra i triangoli isosceli inscritti in $C$ si trovi quello di area massima.
-$2.$ Si denoti con
-$S$ l’area del poligono regolare di $n$ lati inscritto in $C.$ Si dimostri che
-$$ n sen r n $$
-$S n$
-$\pi$
-$$ 2 2 2 = $$
-e si trovi un’analoga espressione per l’area del poligono regolare di $n$ lati
-circoscritto a $C.$
-$3.$ Si calcoli il limite di
-$S$ per
-$\infty$
-$\to$
-$4.$ Si spieghi in che cosa consista il problema della quadratura del cerchio e se, e in che senso, si
-tratti di un problema risolubile o meno.
+Conviene massimizzare $\mathcal{A}^2$:
 
-Sessione ordinaria 2007
+$$f(y)=\mathcal{A}^2=(r-y)^2\,(r^2-y^2)=(r-y)^3(r+y).$$
 
-CORSO DI ORDINAMENTO
+Derivando,
 
-Tema di: MATEMATICA
+$$f'(y)=-3(r-y)^2(r+y)+(r-y)^3=(r-y)^2\big[-3(r+y)+(r-y)\big]=(r-y)^2\,(-2r-4y).$$
 
-QUESTIONARIO
+Nell'intervallo $-r<y<r$ si ha $(r-y)^2>0$, dunque $f'(y)=0$ quando $-2r-4y=0$, cioè
 
-$1.$ La regione $R$ delimitata dal grafico di
-$$ x y 2 = , $$
-dall’asse $x$ e dalla retta $x = 1$ (in figura) è la base di
-un solido $S$ le cui sezioni, ottenute tagliando $S$
-con piani perpendicolari all’asse $x,$ sono tutte
-triangoli equilateri. Si calcoli il volume di $S.$
+$$y=-\frac{r}{2}.$$
 
-$2.$ Le misure dei lati di un triangolo sono $40, 60$ e $80 cm$ . Si calcolino, con l’aiuto di una calcolatrice, le
-ampiezze degli angoli del triangolo approssimandole in gradi e primi sessagesimali.
-$3.$ Si determini, al variare di $k,$ il numero delle soluzioni reali dell’equazione:
-$x^{3} - x^{2} - k + 1 = 0$
-$4.$ Un serbatoio di olio ha la stessa capacità del massimo cono circolare retto di apotema $1$ metro. Si dica quanti
-litri di olio il serbatoio può contenere.
-$5.$ Si mostri che la funzione $y = x^{3} + 8$ soddisfa le condizioni del teorema del valor medio (o teorema di
-Lagrange) sull’intervallo $[-2, 2].$ Si determinino i valori medi forniti dal teorema e se ne illustri il significato
-geometrico.
-$6.$ Si $sa$ che il prezzo $p$ di un abito ha subìto una maggiorazione del $6%$ e, altresì, una diminuzione del $6%;$ non si
-ha ricordo, però, se sia avvenuta prima l’una o l’altra delle operazioni. Che cosa si può dire del prezzo finale
-dell’abito?
-$7.$ Se f(x) è una funzione reale dispari (ossia il suo grafico cartesiano è simmetrico rispetto all’origine), definita e
-integrabile nell'intervallo $[-2, 2],$ che dire del suo integrale esteso a tale intervallo?
-Quanto vale nel medesimo intervallo l'integrale della funzione $3+$ f(x)?
-$8.$ Si risolva l’equazione:
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
+Poiché $f'$ è positiva per $y<-\dfrac{r}{2}$ e negativa per $y>-\dfrac{r}{2}$, questo è un punto di massimo. In corrispondenza:
 
-$$ 2 15 4 4 n n $$
+$$x=\sqrt{r^2-\frac{r^2}{4}}=\frac{\sqrt{3}}{2}\,r,\qquad BC=2x=\sqrt{3}\,r,\qquad r-y=\frac{3}{2}\,r.$$
 
-$9.$ Si calcoli l’integrale indefinito
-$$ dx x \int $$
--
-$$ 2 1 $$
-e, successivamente, si verifichi che il risultato di
-$$ dx x \int $$
--
-$$ 1 0 2 1 $$
-è in accordo con il suo significato geometrico.
-$10.$ Per orientarsi sulla Terra si $fa$ riferimento a meridiani e a paralleli, a latitudini e a longitudini. Supponendo
-che la Terra sia una sfera $S$ e che l'asse di rotazione terrestre sia una retta $r$ passante per il centro di $S,$ come si
-può procedere per definire in termini geometrici meridiani e paralleli e introdurre un sistema di coordinate
-geografiche terrestri?
+L'area massima è quindi
 
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+$$\mathcal{A}_{\max}=\frac{\sqrt{3}}{2}\,r\cdot\frac{3}{2}\,r=\frac{3\sqrt{3}}{4}\,r^2.$$
 
-ORDINAMENTO 2007 - PROBLEMA $1$
+Il lato $BC=\sqrt{3}\,r$ è proprio il lato del triangolo equilatero inscritto in una circonferenza di raggio $r$: il triangolo isoscele di area massima è quindi il **triangolo equilatero**.
 
-$$ 1. x y A B 1 C $$
-$2\alpha$
-$2\alpha$
-$2\alpha$
-$2\alpha$
-$\alpha$
+## b) Area del poligono regolare inscritto e circoscritto
 
-Equazione della retta $AC: y$
-$(tg2 )x$
-$\alpha$
+Un poligono regolare di $n$ lati inscritto nel cerchio si scompone in $n$ triangoli isosceli aventi il vertice in $O$, i due lati uguali di lunghezza $r$ e angolo al centro $\dfrac{2\pi}{n}$.
 
-Equazione della retta $BC: y$
-$(tg )(x$
-$\alpha$
-= -
--
 
-Ponendo $tg$
-$\alpha =$ risulta:
-Retta $AC:$
-$2t$
-$(tg2 )x$
-$$ x 1 t $$
-$\alpha$
--
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="182.63" height="182.63" viewBox="-72 -72 136.973 136.973"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M64.503-3.784c0-37.714-30.573-68.286-68.287-68.286S-72.07-41.498-72.07-3.784s30.572 68.287 68.286 68.287S64.503 33.93 64.503-3.784Zm-68.287 0"/><path fill="none" stroke="#00f" stroke-width=".8" d="m-3.784-3.784 43.903-52.32v104.64Z"/><path fill="none" stroke-dasharray="3.0,3.0" d="M-3.784-3.784h68.287"/><path stroke="none" d="M-1.984-3.784a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><g stroke="none"><text x="-3.784" y="-3.784" font-family="cmmi10" font-size="10" transform="translate(47.435 -57.353)">P</text><text x="2.637" y="-2.284" font-family="cmr7" font-size="7" transform="translate(47.435 -57.353)">1</text></g><g stroke="none"><text x="-3.784" y="-3.784" font-family="cmmi10" font-size="10" transform="translate(47.435 62.686)">P</text><text x="2.637" y="-2.284" font-family="cmr7" font-size="7" transform="translate(47.435 62.686)">2</text></g><text x="-3.784" y="-3.784" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 3.417)">O</text><g stroke="none"><text x="-2.584" y="-7.721" font-family="cmr7" font-size="7" transform="translate(19.95 2.5)">2</text><text x="1.403" y="-7.721" font-family="cmmi7" font-size="7" transform="translate(19.95 2.5)">¼</text><path d="M17.367-3.984h8.914v.4h-8.914z"/><text x="-.598" y="-.335" font-family="cmmi7" font-size="7" transform="translate(19.95 2.5)">n</text></g><text x="-3.784" y="-3.784" stroke="none" font-family="cmmi10" font-size="10" transform="translate(36.87 -23.455)">r</text><text x="-3.784" y="-3.784" stroke="none" font-family="cmmi10" font-size="10" transform="translate(36.87 27.76)">r</text></g></svg>
+</figure>
 
-Equazione della retta $BC: y$
-$(tg )(x$
-t(x
-$\alpha$
-= -
--
-= -
--
+L'area di ciascuno di questi triangoli è $\dfrac{1}{2}\,r\cdot r\cdot\sin\dfrac{2\pi}{n}$, quindi
 
-Ricavando $t$ dalla seconda equazione e sostituendolo nella prima si ottiene l'equazione
-del luogo richiesto:
+$$S_n=\frac{1}{2}\,n\,r^2\sin\frac{2\pi}{n}.$$
 
-$$ 2 2 $$
-$3x$
-$4x$
-$$ 1 0 $$
--
--
+Per il poligono regolare **circoscritto** ciascuno degli $n$ triangoli ha per altezza l'apotema, che coincide con il raggio $r$, e angolo al vertice $\dfrac{2\pi}{n}$. La semibase è allora $r\tan\dfrac{\pi}{n}$, per cui l'area di un triangolo vale $\dfrac{1}{2}\cdot 2r\tan\dfrac{\pi}{n}\cdot r=r^2\tan\dfrac{\pi}{n}$ e l'area totale è
 
-Si tratta di un'iperbole traslata, di centro $(2/3; 0);$ effettuando la traslazione di assi:
-$x' = x - 2/3 , y' = y$
-ossia
-$x = x' + 2/3, y = y'$
-si ottiene la forma canonica (trascuro gli apici):
+$$S'_n=n\,r^2\tan\frac{\pi}{n}.$$
 
-$$ 2 2 x y 1 1 1 9 3 $$
--
-= da cui $b$
-a =
-e quindi gli asintoti
-$$ 2 y $$
-$3(x$
-$= \pm$
--
+## c) Limite per $n\to\infty$
 
-Il grafico di questa iperbole è:
+All'aumentare del numero di lati il poligono tende a riempire il cerchio. Ponendo $t=\dfrac{2\pi}{n}$ (con $t\to 0^+$ quando $n\to\infty$):
 
-$$ 1 2 -1 1 x y 1 $$
+$$\lim_{n\to\infty} S_n=\lim_{n\to\infty}\frac{1}{2}\,n\,r^2\sin\frac{2\pi}{n}
+=\frac{r^2}{2}\lim_{n\to\infty}\frac{\sin\frac{2\pi}{n}}{\frac{2\pi}{n}}\cdot 2\pi
+=\frac{r^2}{2}\cdot 2\pi=\pi r^2,$$
 
-Limitazioni geometriche:
+avendo usato il limite notevole $\displaystyle\lim_{t\to 0}\frac{\sin t}{t}=1$. In modo del tutto analogo, poiché $\displaystyle\lim_{t\to 0}\frac{\tan t}{t}=1$,
 
-$$ 0 3 0 /3 $$
-$\alpha$
-$\pi$
-$\alpha$
-$\pi$
-<
-<
-$\Rightarrow$
-<
-<
+$$\lim_{n\to\infty} S'_n=\lim_{n\to\infty} n\,r^2\tan\frac{\pi}{n}=r^2\lim_{n\to\infty}\frac{\tan\frac{\pi}{n}}{\frac{\pi}{n}}\cdot\pi=\pi r^2.$$
 
-$$ Con 0 $$
-$\alpha =$
-il punto $C$ si trova nel punto dell'asse $x$ di ascissa $1/3;$ infatti, in generale, per il
-teorema dei seni, si ha:
+Entrambe le successioni tendono all'area del cerchio $\pi r^2$: quella dei poligoni inscritti per difetto e quella dei poligoni circoscritti per eccesso.
 
-$$ AC sen 1 BC $$
-$sen(2$ )
-$2cos$
-$\alpha$
-$\alpha$
-$\alpha$
-che, per
-$\alpha \to$
-, tende a $1/2.$
+## d) La quadratura del cerchio
 
-Pertanto $AC=(1/2)BC,$ da cui $AC=1/3,$ essendo $AB=1.$
+Il problema della *quadratura del cerchio* consiste nel costruire, con **riga e compasso** in un numero finito di passi, un quadrato avente area uguale a quella di un cerchio dato. Un cerchio di raggio $r$ ha area $\pi r^2$, quindi il lato del quadrato cercato dovrebbe misurare $r\sqrt{\pi}$: il problema equivale a costruire con riga e compasso un segmento di lunghezza $\sqrt{\pi}$ (e quindi $\pi$) a partire da un segmento unitario.
 
-$$ Con / 3 $$
-$\alpha$
-$\pi$
-il punto $C$ non si ottiene (le rette $AC$ e $BC$ sono parallele); pertanto le
-limitazioni dell'ascissa di $C$ sono $x$
-$\le$
-; il grafico del luogo richiesto è quindi il ramo
-sinistro dell'iperbole.
-Notiamo esplicitamente che il vertice $C$ del triangolo può essere in uno qualsiasi dei
-quattro quadranti.
-
-Osservazione
-
-Il grafico richiesto può essere ottenuto anche studiando la funzione di equazione
-
-$$ 2 y $$
-$3x$
-$4x$
--
-, ottenuta dalla (*),
-
-e la sua simmetrica rispetto all'asse delle $x;$ valgono le stesse considerazioni di prima
-sulle limitazioni geometriche.
-
-Utilizzando i teoremi di trigonometria sui triangoli rettangoli, si ha che:
-l'altezza $AH$ relativa al lato $BC$ vale: $AH$
-$AB$ sen
-$$ sen $$
-$\alpha$
-$\alpha$
-$\cdot$
-
-L'altra altezza: $BK$
-$AB sen(2$ )
-$sen(2$ )
-$\alpha$
-$\alpha$
-$\cdot$
-
-La somma dei quadrati di queste due altezze è:
-$$ 2 2 2 2 z sen $$
-sen $(2$ )
-$$ sen (5 $$
-$4sen$
-$\alpha$
-$\alpha$
-$\alpha$
-$\alpha$
--
-
-Pongo sen
-$\alpha =$
-e considero il triangolo nel primo quadrante (ciò non lede la generalità
-della questione); in questo modo $x$ è positivo.
-
-$$ 2 2 z $$
-$x (5$
-$4x$ )
--
-
-Con il metodo delle derivate si ottiene il massimo richiesto per
-$$ 5 x 8 = $$
-, cioè per
-$$ 5 sen 8 $$
-$\alpha =$
-da cui
-$$ 52 14' $$
-$\alpha \approx$
-$^\circ$
-
-Metodo sintetico
-
-$$ ( ) 2 2 2 2 1 z $$
-$x (5$
-$4x$ )
-$4x (5$
-$4x$ )
--
--
-
-$z$ è massima se lo è (
-$$ ) 2 2 $$
-$4x (5$
-$4x$ )
--
+Le lunghezze costruibili con riga e compasso sono soltanto numeri algebrici (di grado potenza di $2$). Nel $1882$ Lindemann dimostrò che $\pi$ è un numero **trascendente**, cioè non è radice di alcun polinomio a coefficienti razionali: di conseguenza $\pi$, e con esso $\sqrt{\pi}$, non è costruibile. La quadratura del cerchio con riga e compasso è dunque un problema **impossibile**. Resta invece perfettamente risolubile se si ammettono altri strumenti (per esempio curve trascendenti come la quadratrice), oppure nel senso puramente numerico dell'approssimazione dell'area.
 
 *Fonte:* [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

@@ -1,76 +1,43 @@
----
-title: 2006 Sessione Ordinaria PNI — Prova (p.155) — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_sessione_ordinaria_2006_prova_155_1
-of_item: ques_2006_sessione_ordinaria_2006_prova_155_1
-prova_id: prova_2006_sessione_ordinaria_2006_prova_155
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_155_1|2006 Sessione Ordinaria PNI — Prova (p.155) — Quesito 1]] · **Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_155|2006 Sessione Ordinaria PNI — Prova (p.155)]]
 
-Sessione ordinaria 2006
+Sulla prima casella si pone $1$ chicco, sulla seconda $2$, sulla terza $4$ e così via, raddoppiando ogni volta. Il numero di chicchi sulla casella $k$-esima è quindi
 
-CORSO SPERIMENTALE
+$$a_k = 2^{\,k-1}, \qquad k = 1, 2, \dots, 64.$$
 
-PIANO NAZIONALE INFORMATICA
+I numeri $a_1, a_2, \dots, a_{64}$ formano una progressione geometrica di primo termine $a_1 = 1$ e ragione $q = 2$.
 
-Tema di: MATEMATICA
+## Numero totale di chicchi
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+Il numero complessivo di chicchi è la somma dei primi $64$ termini della progressione:
 
-PROBLEMA $1$
+$$N = \sum_{k=1}^{64} 2^{\,k-1} = 1 + 2 + 4 + \cdots + 2^{63}.$$
 
-Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un’aiuola
-rettangolare.
-a) Quale è l’aiuola di area massima che è possibile delimitare?
+Usando la formula della somma di una progressione geometrica di ragione $q \neq 1$,
 
-Si pensa di tagliare il filo in due parti e di utilizzarle per delimitare un’aiuola quadrata e un’altra
-circolare. Come si dovrebbe tagliare il filo affinché:
-$b)$ la somma delle due aree sia minima?
-$c)$ la somma delle due aree sia massima?
+$$\sum_{k=1}^{n} a_1\, q^{\,k-1} = a_1 \cdot \frac{q^{\,n} - 1}{q - 1},$$
 
-Una aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una scatola, cioè, colma
-di terreno. Si discute di aumentare del $10%$ ciascuna sua dimensione. Di quanto terreno in più, in
-termini percentuali, si ha bisogno?
+con $a_1 = 1$, $q = 2$ e $n = 64$ si ottiene
 
-PROBLEMA $2$
+$$N = \frac{2^{64} - 1}{2 - 1} = 2^{64} - 1 = 18\,446\,744\,073\,709\,551\,615 \approx 1{,}845 \cdot 10^{19}.$$
 
-Si considerino le funzioni $f$ e $g$ determinate da ( )
-$$ x x f log = $$
-e ( )
-$$ 2 ax x g = $$
-, essendo a un parametro
-reale e il logaritmo in base e.
-$1.$ Si discuta, al variare di ,a l’equazione
-$$ 2 log ax $$
-$x =$
-e si dica, in particolare, per quale valore di
-a i grafici di $f$ e $g$ sono tra loro tangenti.
-$2.$ Si calcoli, posto
-$2e$
--
-l’area che è compresa fra i grafici di $f$ e $g$ (con $x > 0)$ nella striscia
-di piano determinata dalle rette d’equazioni
--
-$$ = y e .2 $$
--
+## Peso della quantità di grano
 
-$3.$ Si studi la funzione
-$$ 2 log ) ( ax x x h $$
--
-scegliendo per a un valore numerico maggiore di e
-$1$ e
-se ne disegni il grafico.
+Poiché $1000$ chicchi pesano circa $38\ \text{g}$, ogni chicco pesa
+
+$$p = \frac{38}{1000}\ \text{g} = 0{,}038\ \text{g}.$$
+
+Il peso totale del grano è dunque
+
+$$P = N \cdot p = (2^{64} - 1)\cdot 0{,}038\ \text{g} \approx 1{,}845 \cdot 10^{19} \cdot 0{,}038\ \text{g} \approx 7{,}01 \cdot 10^{17}\ \text{g}.$$
+
+Ricordando che $1\ \text{t} = 10^{6}\ \text{g}$, si converte in tonnellate:
+
+$$P \approx \frac{7{,}01 \cdot 10^{17}}{10^{6}}\ \text{t} \approx 7{,}01 \cdot 10^{11}\ \text{t}.$$
+
+Il compenso preteso dall'inventore corrisponde quindi a circa $7 \cdot 10^{11}$ tonnellate di grano, cioè all'incirca **$701$ miliardi di tonnellate**: una quantità enorme, di gran lunga superiore all'intera produzione mondiale di grano di molti secoli.
 
 *Fonte:* [📄 PDF p.155](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

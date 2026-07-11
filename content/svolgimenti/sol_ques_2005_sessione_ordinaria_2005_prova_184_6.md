@@ -1,92 +1,34 @@
----
-title: 2005 Ordinaria PNI — Prova — Quesito 6 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_sessione_ordinaria_2005_prova_184_6
-of_item: ques_2005_sessione_ordinaria_2005_prova_184_6
-prova_id: prova_2005_sessione_ordinaria_2005_prova_184
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_6|2005 Ordinaria PNI — Prova — Quesito 6]] · **Prova:** [[Prove/2005_sessione_ordinaria_2005_prova_184|2005 Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2005
+Le due rette hanno equazioni
+$$r:\ y = 2x - 4, \qquad s:\ y = 2x - 1.$$
 
-CORSO SPERIMENTALE
+Entrambe hanno coefficiente angolare $2$, quindi sono **parallele**. Un'omotetia di centro $O$ trasforma ogni retta in una retta ad essa parallela, dunque è lecito cercare $\sigma$ che porti $r$ in $s$.
 
-PIANO NAZIONALE INFORMATICA
+Un'omotetia di centro l'origine $O$ e rapporto $k$ agisce così:
+$$\sigma:\quad x' = kx, \qquad y' = ky,$$
+da cui, invertendo, $x = \dfrac{x'}{k}$ e $y = \dfrac{y'}{k}$.
 
-Tema di: MATEMATICA
+Sostituendo nell'equazione di $r$ le coordinate del generico punto e delle sue immagini, si ottiene l'equazione della retta immagine $\sigma(r)$:
+$$\frac{y'}{k} = 2\cdot\frac{x'}{k} - 4 \ \Rightarrow\ y' = 2x' - 4k.$$
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+Imponiamo che $\sigma(r)$ coincida con $s: y = 2x - 1$. I coefficienti angolari sono già uguali; basta uguagliare i termini noti:
+$$-4k = -1 \ \Rightarrow\ k = \frac{1}{4}.$$
 
-PROBLEMA $1$
+L'omotetia cercata è dunque quella di centro $O$ e rapporto $k = \dfrac{1}{4}$:
+$$\sigma:\quad x' = \frac{1}{4}\,x, \qquad y' = \frac{1}{4}\,y.$$
 
-Nel piano Oxy sono date le curve $\lambda$ e $r$ d’equazioni:
-$\lambda$ :
-$$ ) y x ( 4 $$
-$x 2$
--
-e $r:$
-$$ 6 4 + $$
-$= x$
-$1.$ Si provi che $\lambda$ e $r$ non hanno punti comuni.
-$2.$ Si trovi il punto
-$\lambda$
-$\in$
-che ha distanza minima da $r.$
-$3.$ Si determini l’area della regione finita di piano racchiusa da $\lambda$ e dalla retta $s,$ simmetrica di $r$
-rispetto all’asse $x.$
-$4.$ Si determini il valore di $c$ per il quale la retta $y = c$ divide a metà l’area della regione $S$
-del I quadrante compresa tra $\lambda$ e l’asse $x.$
-$5.$ Si determini il volume del solido di base $S$ le cui sezioni ottenute con piani ortogonali all’asse $x$
-sono quadrati.
+**Verifica.** La distanza di $O$ da $r$ è $\dfrac{|-4|}{\sqrt{5}} = \dfrac{4}{\sqrt5}$, quella di $O$ da $s$ è $\dfrac{|-1|}{\sqrt5} = \dfrac{1}{\sqrt5}$. Il loro rapporto vale $\dfrac{1}{4}$ e le due rette stanno dalla stessa parte rispetto a $O$: coerentemente il rapporto di omotetia è positivo e uguale a $\dfrac{1}{4}$.
 
-PROBLEMA $2$
 
-Si consideri la funzione $f$ definita sull’intervallo [
-$+\infty$
-da:
-⎪⎩
-⎪⎨
-⎧
->
--
-$$ = = 0 x $$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="209.929" height="293.934" viewBox="-72 -72 157.447 220.451"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 44.413H70.931"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M69.051 42.013c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-12.32" y="44.413" stroke="none" font-family="cmmi10" font-size="10" transform="translate(87.184 2.153)">x</text><path fill="none" d="M-12.32 147.98V-58.753"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-14.72-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-12.32" y="44.413" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -109.045)">y</text><g fill="#00f" stroke="#00f" stroke-width=".8"><path fill="none" d="m-22.278 143.998 3.983-7.967 3.984-7.967 3.983-7.966 3.983-7.967 3.984-7.967 3.983-7.966 3.983-7.967 3.984-7.966 3.983-7.967 3.983-7.967 3.983-7.966 3.984-7.967 3.983-7.966 3.983-7.967 3.984-7.967 3.983-7.966 3.983-7.967L49.422.6l3.983-7.967 3.983-7.967 3.983-7.966 3.984-7.967 3.983-7.967 3.983-7.966"/><text x="-12.32" y="44.413" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(89.374 -89.462)">r</text></g><g fill="red" stroke="red" stroke-width=".8"><path fill="none" d="m-52.153 143.998 4.15-8.299 4.148-8.298 4.15-8.299 4.149-8.298 4.149-8.299 4.15-8.298 4.149-8.299 4.149-8.298 4.149-8.299 4.15-8.298 4.148-8.299 4.15-8.298 4.149-8.299 4.15-8.298 4.148-8.299 4.15-8.298 4.149-8.299 4.15-8.298 4.148-8.299 4.15-8.298 4.149-8.298 4.15-8.299 4.148-8.298 4.15-8.299"/><text x="-12.32" y="44.413" fill="red" stroke="none" font-family="cmmi10" font-size="10" transform="translate(63.481 -103.312)">s</text></g><path stroke="none" d="M-10.92 44.413a1.4 1.4 0 1 0-2.8 0 1.4 1.4 0 0 0 2.8 0m-1.4 0"/><text x="-12.32" y="44.413" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 10.366)">O</text><g stroke="none"><text x="-12.32" y="44.413" font-family="cmmi10" font-size="10" transform="translate(27.214 12.458)">k</text><text x="-4.021" y="44.413" font-family="cmr10" font-size="10" transform="translate(27.214 12.458)">=</text><text x="7.735" y="40.476" font-family="cmr7" font-size="7" transform="translate(27.214 12.458)">1</text><path d="M34.949 54.171h3.986v.4h-3.986z"/><text x="7.735" y="47.862" font-family="cmr7" font-size="7" transform="translate(27.214 12.458)">4</text></g></g></svg>
+</figure>
 
-$$ se $$
-
-$$ 1 ) x log 2 3 ( x 2 1 ) x $$
-$(f$
-$$ 1 ) 0 $$
-$(f$
-
-e sia $C$ la sua curva rappresentativa nel riferimento Oxy, ortogonale e monometrico.
-$1.$ Si stabilisca se $f$ è continua e derivabile in $0.$
-$2.$ Si dimostri che l’equazione f(x) $= 0$ ha, sull’intervallo [
-$+\infty$
-, un’unica radice reale e se ne
-calcoli un valore approssimato con due cifre decimali esatte.
-$3.$ Si disegni $C$ e si determini l’equazione della retta $r$ tangente a $C$ nel punto di ascissa
-$x =$
-$4.$ Sia $n$ un intero naturale non nullo. Si esprima, in funzione di $n,$ l’area $An$ del dominio piano
-delimitato dalla curva $C,$ dalla retta tangente $r$ e dalle due rette:
-$$ n 1 $$
-$x =$
-$$ e 1 $$
-$x =$
-$5.$ Si calcoli il limite per
-$+\infty$
-$\to$
-di $An$ e si interpreti il risultato ottenuto.
+Osserviamo infine che, se si vuole l'omotetia che porta $s$ in $r$, essa è l'inversa di $\sigma$ e ha rapporto $k' = \dfrac{1}{k} = 4$.
 
 *Fonte:* [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

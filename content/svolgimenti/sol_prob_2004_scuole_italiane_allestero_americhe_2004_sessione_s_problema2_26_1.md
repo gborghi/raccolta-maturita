@@ -1,113 +1,70 @@
----
-title: 2004 Estero Americhe Suppletiva — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26_1
-of_item: prob_2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26_1
-prova_id: prova_2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2004
----
+
 
 **Problema:** [[Problemi/prob_2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26_1|2004 Estero Americhe Suppletiva — Problema 2 — Problema 1]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_americhe_2004_sessione_s_problema2_26|2004 Estero Americhe Suppletiva — Problema 2]]
 
-Scuole italiane all’estero (Americhe) 2004
-Sessione Suppletiva - Problema $2$
+Sia $S$ un semicerchio di raggio $2$. Fissiamo un sistema di riferimento con l'origine $O$ nel centro del diametro, l'asse $x$ lungo il diametro e il semicerchio nel semipiano $y \ge 0$; gli estremi del diametro sono $A=(-2,0)$ e $B=(2,0)$.
 
-Americhe emisfero boreale 2004 - Sessione suppletiva
-PROBLEMA $2$
 
-Sia $S$ un semicerchio di raggio $2.$ Si introduca nel piano cartesiano del semicerchio un
-sistema di coordinate cartesiane ortogonali e monometriche $xy$ e si determinino:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="253.768" height="156.393" viewBox="-72 -72 190.326 117.295"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 29.618h177.145"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M103.195 27.218c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(92.305 2.153)">x</text><path fill="none" d="M16.703 39.861v-98.615"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M14.303-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -94.25)">y</text><path fill="none" stroke-width=".8" d="M-51.584 29.618c0-37.714 30.572-68.286 68.287-68.286 37.714 0 68.286 30.572 68.286 68.286M-51.584 29.618H84.99"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-31.576 29.618h96.557V-18.66h-96.557Z"/><path fill="none" stroke="red" stroke-width=".8" d="M-31.576 29.618 64.981-18.66"/><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-79.32 10.366)">A</text><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(71.82 10.366)">B</text><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(44.3 12.074)">E</text><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-52.188 12.074)">F</text><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(51.811 -51.812)">D</text><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-59.674 -51.812)">C</text><text x="16.703" y="29.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 10.366)">O</text></g></svg>
+</figure>
 
-a)
+## a)
 
-Le dimensioni del rettangolo $R$ di area massima inscritto in $S$ e tale valore massimo.
+Sia $D=(x,y)$ il vertice del rettangolo appartenente all'arco, con $0<x<2$, $0<y<2$ e $x^2+y^2=4$, da cui $y=\sqrt{4-x^2}$. Il rettangolo $R$ ha base $2x$ e altezza $y$, quindi la sua area è
 
-Fissiamo il sistema di riferimento come in figura:
+$$\text{Area}=2xy=2x\sqrt{4-x^2}.$$
 
-Posto $D= (x, y),$ con $0 < x< 2, 0 < y< 2$ e $x^{2} + y^{2} = 4,$ l’area del rettangolo $R$ è:
+Tale area è massima quando lo è la quantità positiva $x\sqrt{4-x^2}$, ovvero quando è massimo il suo quadrato
 
-$Area= 2xy= 2x\sqrt{4} -x^{2},$ che è massima se lo è $x\sqrt{4} -x^{2};$ essendo tale quantità
-positiva, essa è massima quando è massimo il suo quadrato: $z= x^{2}(4 -x^{2})$
+$$z=x^2(4-x^2).$$
 
-Metodo delle derivate:
+**Metodo delle derivate.** Si ha
 
-$z' = 2x(4 -x^{2}) + x^{2}(-2x) = -4x^{3} + 8x\ge 0$ se $4x(-x^{2} + 2) \ge 0,$
-$-x^{2} + 2 \ge 0,$
+$$z'=2x(4-x^2)+x^2(-2x)=-4x^3+8x=4x(2-x^2).$$
 
-$-\sqrt{2} \le x\le \sqrt{2}.$
+Nell'intervallo $0<x<2$ risulta $z'\ge 0$ per $2-x^2\ge 0$, cioè per $x\le\sqrt{2}$. Dunque $z$ cresce per $0<x<\sqrt{2}$ e decresce per $\sqrt{2}<x<2$: il massimo si ha per $x=\sqrt{2}$.
 
-Essendoci la condizione $0 < x< 2,$ la funzione è quindi crescente se $0 < x< \sqrt{2}$ e
-decrescente se $\sqrt{2} < x< 2;$ pertanto è massima se $x= \sqrt{2}.$
+**Metodo elementare.** $z=x^2(4-x^2)$ è il prodotto di due fattori a somma costante $\big(x^2+(4-x^2)=4\big)$, quindi è massimo quando i due fattori sono uguali:
 
-Metodo elementare:
+$$x^2=4-x^2 \;\Rightarrow\; x^2=2 \;\Rightarrow\; x=\sqrt{2}.$$
 
-$z= x^{2}(4 -x^{2})$ è il prodotto di due quantità a somma costante $(4)$ quindi è massimo se le
-due quantità sono uguali cioè se: $x^{2} = 4 -x^{2}, x^{2} = 2, x= \sqrt{2}.$
+Allora $y=\sqrt{4-2}=\sqrt{2}$. Il rettangolo di area massima ha vertici
 
-Il rettangolo $R$ che ha area massima è quello di vertici
-$E= (\sqrt{2}; 0), D= (\sqrt{2}; \sqrt{2}), C= (-\sqrt{2}; \sqrt{2}), E= (-\sqrt{2}; 0).$ L’area massima vale $4.$
+$$E=(\sqrt{2},0),\quad D=(\sqrt{2},\sqrt{2}),\quad C=(-\sqrt{2},\sqrt{2}),\quad F=(-\sqrt{2},0),$$
 
-Scuole italiane all’estero (Americhe) 2004
-Sessione Suppletiva - Problema $2$
+cioè base $2x=2\sqrt{2}$ e altezza $y=\sqrt{2}$. L'area massima vale
 
-$b)$
+$$\text{Area}_{\max}=2\sqrt{2}\cdot\sqrt{2}=4.$$
 
-L’area di ciascuna delle $3$ parti che con $R$ compongono $S;$
+## b)
 
-E’ sufficiente calcolare l’area del triangolo mistilineo BDE, che si ottiene sottraendo al
-settore circolare DOB il triangolo DOE. Osserviamo che $OE= DE= y= \sqrt{4} -x^{2} = \sqrt{2},$
-quindi l’angolo DOE misura $45^\circ$ , pertanto il settore circolare DOB è l’ottava parte del
-cerchio. Perciò:
-Area(tr. mist. BDE) = Area(settore circ. DOB) $-Area(triang.$ DOE) $= 1$
-$8 (\pi ∙22) -1 =$
-$= \pi$
-$2 -1 =$ Area(tr. mist. ACF)
+Il rettangolo $R$ suddivide $S$ in tre parti: i due triangoli mistilinei laterali (di uguale area) e il segmento circolare superiore di base $CD$.
 
-La terza parte richiesta (il segmento circolare di base $CD)$ si ottiene per sottrazione:
+Calcoliamo l'area del triangolo mistilineo $BDE$, ottenuta sottraendo al settore circolare $DOB$ il triangolo $DOE$. Poiché $OE=DE=\sqrt{2}$, il triangolo $DOE$ è rettangolo isoscele e l'angolo $D\widehat{O}E$ misura $45^\circ$; il settore $DOB$ è quindi l'ottava parte del cerchio di raggio $2$ (area $\pi\cdot 2^2=4\pi$):
 
-Area(segm. circ. ) = Area(semicerchio) $-Area(rettangolo) -2Area(tr.$ mist. BDE) =
+$$\text{Area}(DOB)=\frac{1}{8}\cdot 4\pi=\frac{\pi}{2},\qquad \text{Area}(DOE)=\frac{1}{2}\cdot\sqrt{2}\cdot\sqrt{2}=1.$$
 
-$= 2\pi -4 -2 (\pi$
-$2 -1) = \pi -2$
+Quindi
 
-$c)$
+$$\text{Area(tr. mist. }BDE)=\frac{\pi}{2}-1,$$
 
-Un’approssimazione in gradi sessagesimali dell’angolo che ciascuna diagonale di $R$
-forma con il diametro di $S$ e la misura del corrispondente arco staccato su $S.$
+e per simmetria il triangolo mistilineo dall'altra parte ha la stessa area $\dfrac{\pi}{2}-1$.
 
-L’angolo $\alpha$ tra $FD$ ed il diametro $AB$ si ottiene nel modo
-seguente:
-$tg(\alpha ) = DE$
-$FE= \sqrt{2}$
-$$ 2\sqrt{2} = 1 $$
-$2 , \alpha = tg-1(0.5) \cong$
-$\cong 0.46 rad\cong 26.57^\circ$
+Il segmento circolare di base $CD$ si ottiene per sottrazione, ricordando che l'area del semicerchio è $\dfrac{1}{2}\pi\cdot 2^2=2\pi$:
 
-Ricordando che $DÔE=$
-$\pi$
-$4$ , l’arco $L$ richiesto si ottiene
-dalla relazione:
-$\pi$
-$$ 4 = L r $$
+$$\text{Area(segm. circ.)}=2\pi-4-2\left(\frac{\pi}{2}-1\right)=2\pi-4-\pi+2=\pi-2.$$
 
-Da cui: $L=$
-$\pi$
-$4 ∙r=$
-$\pi$
-$4 ∙2 =$
-$\pi$
-$$ 2 = 1.57 . $$
-Con la collaborazione di Angela Santamaria
+## c)
+
+La diagonale $FD$ va da $F=(-\sqrt{2},0)$ a $D=(\sqrt{2},\sqrt{2})$; l'angolo $\alpha$ che essa forma con il diametro $AB$ si ricava dal triangolo rettangolo $FED$, con $DE=\sqrt{2}$ e $FE=2\sqrt{2}$:
+
+$$\tan\alpha=\frac{DE}{FE}=\frac{\sqrt{2}}{2\sqrt{2}}=\frac{1}{2}\;\Rightarrow\;\alpha=\arctan\tfrac{1}{2}\cong 0.46\ \text{rad}\cong 26.57^\circ.$$
+
+L'arco $L$ staccato su $S$ (arco $BD$) corrisponde all'angolo al centro $B\widehat{O}D=D\widehat{O}E=\dfrac{\pi}{4}$; poiché il raggio è $r=2$,
+
+$$L=r\cdot\frac{\pi}{4}=2\cdot\frac{\pi}{4}=\frac{\pi}{2}\cong 1.57.$$
 
 *Fonte:* [📄 PDF p.26](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

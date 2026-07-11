@@ -1,168 +1,58 @@
----
-title: 2009 Sessione Ordinaria PNI — Prova — Quesito 6 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_sessione_ordinaria_2009_prova_146_6
-of_item: ques_2009_sessione_ordinaria_2009_prova_146_6
-prova_id: prova_2009_sessione_ordinaria_2009_prova_146
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Calcolo Integrale e Aree
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/calcolo_integrale_e_aree
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_sessione_ordinaria_2009_prova_146_6|2009 Sessione Ordinaria PNI — Prova — Quesito 6]] · **Prova:** [[Prove/2009_sessione_ordinaria_2009_prova_146|2009 Sessione Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2009
+**Quesito.** Con l'aiuto di una calcolatrice, si applichi il procedimento iterativo di Newton all'equazione $\sin x = 0$, con punto iniziale $x_0 = 3$. Cosa si ottiene dopo due iterazioni?
 
-CORSO SPERIMENTALE
+## Impostazione del metodo
 
-Indirizzo: PIANO NAZIONALE INFORMATICA
+Il metodo di Newton (o delle tangenti) per approssimare una radice dell'equazione $f(x)=0$ genera la successione
 
-Tema di: MATEMATICA
+$$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}.$$
 
-Il candidato risolva uno dei due problemi e risponda a $5$ quesiti del questionario.
+Nel nostro caso $f(x) = \sin x$, quindi $f'(x) = \cos x$ e la formula iterativa diventa
 
-PROBLEMA $1$
+$$x_{n+1} = x_n - \frac{\sin x_n}{\cos x_n} = x_n - \tan x_n.$$
 
-Sia $f$ la funzione definita da
-$$ ( ) x n e n x x x x f $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
+Geometricamente, a ogni passo si sostituisce la curva $y=\sin x$ con la sua tangente nel punto di ascissa $x_n$ e si assume come nuova approssimazione l'ascissa in cui tale tangente incontra l'asse $x$.
 
-!
-$!2$
-$$ 1 2 $$
 
-dove $n$ è un intero positivo e
-$x \in$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="321.638" height="187.602" viewBox="-72 -72 241.229 140.701"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 9.132h209.01"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M135.06 6.732c.38 1.44 1.228 2.12 2.08 2.4-.852.28-1.7.96-2.08 2.4"/><text x="-240.511" y="9.132" stroke="none" font-family="cmmi10" font-size="10" transform="translate(381.384 2.153)">x</text><path fill="none" d="M-58.413 67.176v-125.93"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-60.813-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-240.511" y="9.132" stroke="none" font-family="cmmi10" font-size="10" transform="translate(179.467 -73.764)">y</text><g fill="#00f" stroke="#00f" stroke-width=".8"><path fill="none" d="m-58.413-52.956 3.085.998 3.086 1.069 3.086 1.137 3.085 1.205 3.086 1.271 3.085 1.336 3.086 1.4 3.086 1.46 3.085 1.522 3.086 1.577 3.086 1.637 3.085 1.69 3.086 1.742 3.085 1.795 3.086 1.842 3.086 1.889 3.085 1.932 3.086 1.974 3.086 2.014 3.085 2.053 3.086 2.086 3.085 2.12 3.086 2.149 3.086 2.178 3.085 2.202 3.086 2.226 3.085 2.247 3.086 2.262 3.086 2.28L34.155.626l3.086 2.301 3.086 2.307 3.085 2.312 3.086 2.314 3.085 2.312 3.086 2.31 3.086 2.304 3.085 2.295 3.086 2.282 3.086 2.27 3.085 2.252 3.086 2.233 3.085 2.213 3.086 2.187 3.086 2.16 3.085 2.132 3.086 2.099 3.085 2.064 3.086 2.03 3.086 1.989 3.085 1.947 3.086 1.906 3.086 1.859 3.085 1.81 3.086 1.764 3.085 1.708 3.086 1.657 3.086 1.6 3.085 1.544"/><g fill="#00f" stroke="none" font-size="10"><text x="-240.511" y="9.132" font-family="cmmi10" transform="translate(367.882 54.022)">y</text><text x="-232.471" y="9.132" font-family="cmr10" transform="translate(367.882 54.022)">=</text><text x="-221.916" y="9.132" font-family="cmr10" transform="translate(367.882 54.022)">sin</text><text x="-207.971" y="9.132" font-family="cmmi10" transform="translate(367.882 54.022)">x</text></g></g><path fill="none" stroke="red" stroke-width=".8" d="m18.979-10.642 36.419 27.04"/><path stroke="none" d="M33.755-.503c0-.464-.501-.84-1.12-.84-.618 0-1.12.376-1.12.84s.502.84 1.12.84 1.12-.376 1.12-.84m-1.12 0"/><g stroke="none"><text x="-240.511" y="9.132" font-family="cmmi10" font-size="10" transform="translate(276.68 -14.668)">P</text><text x="-234.09" y="10.632" font-family="cmr7" font-size="7" transform="translate(276.68 -14.668)">0</text></g><path fill="none" stroke-dasharray="3.0,3.0" d="M32.635 9.132V-.503"/><path stroke="none" d="M33.595 9.132c0-.397-.43-.72-.96-.72s-.96.323-.96.72c0 .398.43.72.96.72s.96-.322.96-.72m-.96 0"/><g stroke="none"><text x="-240.511" y="9.132" font-family="cmmi10" font-size="10" transform="translate(258.879 9.977)">x</text><text x="-234.795" y="10.632" font-family="cmr7" font-size="7" transform="translate(258.879 9.977)">0</text><text x="-227.531" y="9.132" font-family="cmr10" font-size="10" transform="translate(258.879 9.977)">=</text><text x="-216.976" y="9.132" font-family="cmr10" font-size="10" transform="translate(258.879 9.977)">3</text></g><path stroke="none" d="M46.57 9.132c0-.397-.43-.72-.96-.72s-.96.323-.96.72c0 .398.43.72.96.72s.96-.322.96-.72m-.96 0"/><g stroke="none"><text x="-240.511" y="9.132" font-family="cmmi10" font-size="10" transform="translate(291.247 10.413)">x</text><text x="-234.795" y="10.632" font-family="cmr7" font-size="7" transform="translate(291.247 10.413)">1</text><text x="-227.531" y="9.132" font-family="cmsy10" font-size="10" transform="translate(291.247 10.413)">¼</text><text x="-216.976" y="9.132" font-family="cmmi10" font-size="10" transform="translate(291.247 10.413)">¼</text></g></g></svg>
+</figure>
 
-$1.$ Si verifichi che la derivata di ( )
-$$ x f $$
-è:
-$$ ( ) x e n n x x f $$
--
--
-!
+## Prima iterazione
 
-$2.$ Si dica se la funzione $f$ ammette massimi e minimi (assoluti e relativi) e si provi che, quando $n$ è
-dispari, ( )
-$$ x f $$
+Partendo da $x_0 = 3$ (l'angolo è espresso in radianti), si calcola con la calcolatrice
 
-$\le$ per ogni $x$ reale.
-$3.$ Si studi la funzione $g$ ottenuta da $f$ quando
-$$ 2 = n $$
-e se ne disegni il grafico.
-$4.$ Si calcoli $\int$
-$$ 2 0 ) ( dx x g $$
-e se ne dia l’interpretazione geometrica.
+$$\sin 3 \approx 0{,}141120, \qquad \cos 3 \approx -0{,}989992,$$
 
-PROBLEMA $2$
+da cui $\tan 3 \approx -0{,}142547$. Perciò
 
-In un sistema di riferimento cartesiano ortogonale Oxy , si consideri la funzione $f : R \to R$
-definita da ( )
-$$ kx x x f + = 3 $$
-, con $k$ parametro reale.
-$1.$ Si dica come varia il grafico di $f$ al variare di $k (k$ positivo, negativo o nullo).
-$2.$ Sia ( )
-$$ 3 x x g = $$
-e $\gamma$ il suo grafico. Si dimostri che $\gamma$ e la retta d’equazione
-$$ x y $$
--
-hanno un solo
-punto $P$ in comune. Si determini l’ascissa di $P$ approssimandola a meno di $0,1$ con un metodo
-iterativo di calcolo.
-$3.$ Sia $D$ la regione finita del primo quadrante delimitata da $\gamma$ e dal grafico della funzione inversa di $g$ .
-Si calcoli l’area di $D.$
-$4.$ La regione $D$ è la base di un solido $W$ le cui sezioni con piani perpendicolari alla bisettrice del
-primo quadrante sono tutte rettangoli di altezza $12.$ Si determini la sezione di area massima. Si
-calcoli il volume di $W.$
+$$x_1 = x_0 - \tan x_0 = 3 - (-0{,}142547) = 3{,}142546543\ldots$$
 
-Sessione ordinaria 2009
+## Seconda iterazione
 
-CORSO SPERIMENTALE
+Ripetendo il procedimento a partire da $x_1$:
 
-Indirizzo: PIANO NAZIONALE INFORMATICA
+$$\sin x_1 \approx -0{,}000000, \qquad \tan x_1 \approx 0{,}000000889,$$
 
-Tema di: MATEMATICA
+e quindi
 
-QUESTIONARIO
-$1.$ Siano:
-a <
-<
-$$ 0 e [ ] b b x , $$
--
-$\in$
-. Si provi che: $\int -$
--
-$$ b b a x 2 2 b a dx + = . $$
-$2.$ Sono dati gli insiemi A = { $,1 2, 3,$ }
-$4$ e $B =$ { ,a $b,$ }
-$c$ . Tra le possibili funzioni (o applicazioni) di A in
-$B, ce$ ne sono di suriettive? Di iniettive? Di biiettive?
-$3.$ Una moneta da $2$ euro (il suo diametro è $25,75 mm)$ viene lanciata su un pavimento ricoperto con
-mattonelle quadrate di lato $10 cm.$ Quale è la probabilità che la moneta vada a finire internamente $ad$
-una mattonella? (cioè non tagli i lati dei quadrati)
-$4.$ “Esiste solo un poliedro regolare le cui facce sono esagoni”. Si dica se questa affermazione è vera o
-falsa e si fornisca una esauriente spiegazione della risposta.
-$5.$ Si considerino le seguenti espressioni:
-$$ 0 0 ; 0 1 ; 0 0 ; 1 0 $$
+$$x_2 = x_1 - \tan x_1 = 3{,}142546543 - 0{,}000000889 = 3{,}141592653\ldots$$
 
-A quali di esse è possibile attribuire un valore numerico? Si motivi la risposta.
-$6.$ Con l’aiuto di una calcolatrice, si applichi il procedimento iterativo di Newton all’equazione senx $= 0,$
-con punto iniziale
-$0x = 3.$ Cosa si ottiene dopo due iterazioni?
-$7.$ Si dimostri l’identità
-$$ 1 1 + $$
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
-$$ + k k n k n k n $$
-con $n$ e $k$ naturali e $n > k$
-$8.$ Alla festa di compleanno di Anna l’età media dei partecipanti è di $22$ anni. Se l’età media degli uomini è
-$26$ anni e quella delle donne è $19,$ qual è il rapporto tra il numero degli uomini e quello delle donne?
-$9.$ Nei “Discorsi e dimostrazioni matematiche intorno a due nuove scienze”, Galileo Galilei descrive la
+## Conclusione
 
-costruzione di un solido che chiama scodella considerando una
-semisfera di raggio $r$ e il cilindro $ad$ essa circoscritto. La
-scodella si ottiene togliendo la semisfera dal cilindro.
-Si dimostri, utilizzando il principio di Cavalieri, che la
-scodella ha volume pari al cono di vertice $V$ in figura.
-$10.$ “Se due punti $P$ e $Q$ del piano giacciono dalla stessa
-parte rispetto $ad$ una retta $AB$ e gli angoli
-$$ B A $$
-$P$ ˆ
-$$ e A B $$
-$Q$ ˆ hanno somma minore di $180^\circ$ , allora le semirette
-$AP$ e $BQ,$ prolungate adeguatamente al di là dei punti
-$P$ e $Q,$ si devono intersecare”. Questa proposizione è
-stata per secoli oggetto di studio da parte di schiere di
-matematici. Si dica perché e con quali risultati.
+Confrontando con il valore
 
-___________________________
-Durata massima della prova: $6$ ore.
-È consentito l’uso della calcolatrice non programmabile.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+$$\pi = 3{,}141592653589\ldots$$
+
+si vede che dopo due sole iterazioni si ottiene
+
+$$x_2 = 3{,}141592653\ldots \approx \pi,$$
+
+un'approssimazione di $\pi$ corretta fino alla nona cifra decimale. Il risultato non sorprende: le radici di $\sin x = 0$ sono i multipli interi di $\pi$, e il metodo di Newton, innescato in $x_0 = 3$, converge (molto rapidamente, con ordine quadratico) alla radice più vicina, cioè $x = \pi$. Il procedimento fornisce dunque un modo efficiente per calcolare un gran numero di cifre di $\pi$.
 
 *Fonte:* [📄 PDF p.146](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/analisi #cluster/calcolo_integrale_e_aree

@@ -1,70 +1,34 @@
----
-title: 2004 Ordinamento Straordinaria — Questionario — Quesito 10 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_10
-of_item: >-
-  ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_10
-prova_id: prova_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_10|2004 Ordinamento Straordinaria — Questionario — Quesito 10]] · **Prova:** [[Prove/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121|2004 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2004
+Alla finale dei $200\text{ m}$ piani partecipano $8$ atleti, fra i quali figurano i nostri amici Antonio e Pietro. Si vuole calcolare il numero dei possibili ordini di arrivo dei primi tre classificati che registrino entrambi gli amici fra i primi tre posti.
 
-QUESITO $8$
+## Impostazione
 
-Calcolare il valore della seguente somma: $12 + 22 + 32 + ⋯+$ 1002.
+I posti che contano sono i primi tre (il podio). La condizione richiede che due di questi tre posti siano occupati da Antonio e Pietro; il terzo posto del podio deve quindi essere occupato da uno degli altri $8-2 = 6$ atleti.
 
-E’ nota la seguente relazione (che si può dimostrare, per esempio, per induzione):
+Un ordine di arrivo dei primi tre classificati che soddisfa la richiesta è dunque individuato da due scelte successive:
 
-$Sn = 12 + 22 + ⋯+ n^{2} = 1$
-$6 n(n+ 1)(2n+ 1)$
-Quindi, per $n=100$ abbiamo:
+- la scelta del terzo atleta sul podio (quello diverso da Antonio e Pietro);
+- la disposizione dei tre atleti così individuati nelle tre posizioni.
 
-$12 + 22 + 32 + ⋯+$ 1002 $= 1$
-$6 ∙100 ∙(100 + 1) ∙(200 + 1) = 50$
-$3 ∙101 ∙201 = 338350$
+## Conteggio
 
-QUESITO $9$
+Il terzo atleta sul podio può essere scelto in $6$ modi (uno qualsiasi degli altri sei finalisti).
 
-In una classe di $25$ alunni bisogna estrarre a sorte una rappresentanza di $3$ elementi.
-Calcolare quante sono le possibili terne di rappresentanti.
+Una volta fissati i tre atleti che salgono sul podio (Antonio, Pietro e l'atleta scelto), essi possono disporsi nelle tre posizioni in tutti i modi possibili, cioè nelle permutazioni di $3$ elementi:
+$$3! = 3 \cdot 2 \cdot 1 = 6.$$
 
-Le possibili terne di rappresentanti si ottengono calcolando le combinazioni di $25$ oggetti
-a $3$ a $3:$
+Per il principio di moltiplicazione, il numero cercato è quindi:
+$$6 \cdot 6 = 36.$$
 
-$C25,3 = (25$
-$3 ) = 25 ∙24 ∙23$
-$3!$
-$= 25 ∙4 ∙23 =$ 2300
+## Verifica
 
-QUESITO $10$
-
-Alla finale dei $200 m$ piani partecipano $8$ atleti, fra i quali figurano i nostri amici Antonio e
-Pietro. Calcolare il numero dei possibili ordini di arrivo che registrino i nostri due amici fra
-i primi tre classificati.
-
-Le possibilità che Antonio e Pietro siano tra i primi $3$ sono le seguenti:
-
-$A-P-(6$ possibilità),
-$P-A- (6$ possibilità), $A-(6$ possibilità) $-P$
-
-$P-(6$ possibilità) $-A, (6$ possibilità) $-A-P, (6$ possibilità) $-P-A$
-
-In totale si hanno quindi $6x^{6}=36$ possibili ordini di arrivo.
-
-Con la collaborazione di Angela Santamaria
+Si giunge allo stesso risultato elencando le possibili collocazioni ordinate di Antonio ($A$) e Pietro ($P$) fra i primi tre posti, indicando con $-$ il posto occupato dal terzo atleta:
+$$A\text{-}P\text{-}\_,\quad P\text{-}A\text{-}\_,\quad A\text{-}\_\text{-}P,\quad P\text{-}\_\text{-}A,\quad \_\text{-}A\text{-}P,\quad \_\text{-}P\text{-}A.$$
+Vi sono $6$ schemi; in ciascuno il posto libero può essere occupato da uno qualsiasi dei $6$ atleti rimanenti, dando $6 \cdot 6 = 36$ possibilità, in accordo con il calcolo precedente.
 
 *Fonte:* [📄 PDF p.126](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -1,72 +1,30 @@
----
-title: 2008 Ordinamento Straordinaria — Questionario — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_5
-of_item: >-
-  ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_5
-prova_id: prova_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2008
----
+
 
 **Quesito:** [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_5|2008 Ordinamento Straordinaria — Questionario — Quesito 5]] · **Prova:** [[Prove/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107|2008 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2008
+Si consideri la proposizione: «Due piani $\alpha$ e $\beta$ sono tra loro perpendicolari se e solo se ogni retta di $\alpha$ è perpendicolare a ogni retta di $\beta$». Si stabilisca se è vera o falsa, motivando la risposta.
 
-Per tale valore di $x$ l’altezza del cilindro è: $h-x=$
-$3 h$ .
+**La proposizione è falsa.**
 
-Il cilindro di volume massimo è quindi quello la cui altezza è un terzo dell’altezza del
-cono.
+Ricordiamo la definizione corretta: un piano $\alpha$ si dice perpendicolare a un piano $\beta$ se $\alpha$ contiene **almeno una** retta perpendicolare a $\beta$ (equivalentemente, se i due piani, incontrandosi, formano quattro angoli diedri retti congruenti). Si tratta di una relazione simmetrica: se $\alpha$ è perpendicolare a $\beta$, allora anche $\beta$ è perpendicolare ad $\alpha$.
 
-QUESITO $4$
+La condizione «ogni retta di $\alpha$ è perpendicolare a ogni retta di $\beta$» è invece molto più forte e, di fatto, **non può mai essere soddisfatta** da due piani. Infatti, due piani perpendicolari sono in particolare incidenti: hanno in comune una retta
 
-Si consideri la funzione:
+$$r = \alpha \cap \beta .$$
 
-f(x) $= {3x+$
-$\sqrt{4x}^{2}$
-, $x\ne 0$
-$2, x= 0$
+Questa retta $r$ appartiene sia ad $\alpha$ sia a $\beta$. Se ogni retta di $\alpha$ fosse perpendicolare a ogni retta di $\beta$, allora in particolare $r$ (che è una retta di $\alpha$) dovrebbe essere perpendicolare a $r$ stessa (che è una retta di $\beta$): assurdo, poiché una retta non può essere perpendicolare a se stessa.
 
-Se ne studi la continuità per $x =0$ e poi si tracci il suo grafico.
+Vediamo inoltre quali rette di $\alpha$ sono effettivamente perpendicolari a $\beta$ quando $\alpha \perp \beta$: sono tutte e sole le rette di $\alpha$ perpendicolari alla retta comune $r$. Esse sono infinite (tutte parallele fra loro) e ciascuna di esse è perpendicolare a ogni retta di $\beta$; ma una generica retta di $\alpha$ non lo è. Ad esempio, il pavimento e una parete di una stanza sono piani perpendicolari, eppure una retta orizzontale tracciata sulla parete è **parallela** al pavimento, non perpendicolare a esso.
 
-Calcoliamo i seguenti limiti:
+In conclusione, la caratterizzazione corretta è: $\alpha \perp \beta$ se e solo se $\alpha$ contiene almeno una retta perpendicolare a $\beta$. Sostituire «almeno una» con «ogni» rende la proposizione falsa.
 
-$$ lim $$
-$x\to 0+ (3x+ \sqrt{4x}^{2}$
-) = lim
-$x\to 0+ (3x+ 2x$
-$x) = 2 = f(0)$ :continua da destra
 
-$$ lim $$
-$x\to 0-(3x+ \sqrt{4x}^{2}$
-) = lim
-$x\to 0+ (3x+ -2x$
-$x) = -2$ :non continua da destra
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="218.067" height="138.268" viewBox="-72 -72 163.55 103.701"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="#00f" fill-opacity=".12" stroke="none" stroke-opacity=".12" d="M-71.67 18.695H53.523L91.08-21.993H-34.112Z"/><path fill="none" stroke="#00f" d="M-71.67 18.695H53.523L91.08-21.993H-34.112Z"/><g fill="#00f" stroke="#00f"><text x="-102.968" y="18.695" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(175.308 -19.409)">¯</text></g><path fill="red" fill-opacity=".12" stroke="none" stroke-opacity=".12" d="M-71.67 18.695H53.523V-72.07H-71.67Z"/><path fill="none" stroke="red" d="M-71.67 18.695H53.523V-72.07H-71.67Z"/><g fill="red" stroke="red"><text x="-102.968" y="18.695" fill="red" stroke="none" font-family="cmmi10" font-size="10" transform="translate(40.6 -79.223)">®</text></g><path fill="none" stroke-width="1.2" d="M-71.67 18.695H53.523"/><text x="-102.968" y="18.695" stroke="none" font-family="cmmi10" font-size="10" transform="translate(147.837 9.403)">r</text><path fill="none" stroke="green" stroke-width="1.2" d="M-9.074 18.695v-81.376"/><g fill="green" stroke="green"><text x="-102.968" y="18.695" fill="green" stroke="none" font-family="cmmi10" font-size="10" transform="translate(97.428 -76.093)">s</text></g><path fill="none" d="M-9.074 9.931H-.31v8.764"/></g></svg>
+</figure>
 
-La funzione NON è continua per $x=0,$ dove c’è una discontinuità di prima specie con salto
-
-QUESITO $5$
-
-Si consideri la seguente proposizione: “Due piani $\alpha$ e $\beta$ sono tra loro perpendicolari se e
-solo se ogni retta di $\alpha$ è perpendicolare a ogni retta di $\beta$ ”. Si dica se è vera o falsa e si
-motivi esaurientemente la risposta.
-
-La proposizione è FALSA. Due piani $\alpha$ e $\beta$ si dicono perpendicolari se esiste ALMENO
-UNA retta di $\alpha$ che sia perpendicolare a $\beta$ . Se ne esiste una poi ne esistono infinite.
-
-Un’altra possibile definizione, generalizzazione della perpendicolarità fra rette del piano,
-è la seguente: due piani si dicono perpendicolari se, incontrandosi, formano quattro
-angoli diedri congruenti.
+Nella figura, $\alpha$ e $\beta$ sono perpendicolari e si incontrano lungo la retta $r$; la retta $s$, che sta in $\alpha$ ed è perpendicolare a $r$, è l'unica direzione di rette di $\alpha$ perpendicolari a $\beta$. Tutte le altre rette di $\alpha$ (a partire dalla stessa $r$) non sono perpendicolari a $\beta$.
 
 *Fonte:* [📄 PDF p.109](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -1,222 +1,63 @@
----
-title: 2005 PNI Straordinaria — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema1_143_1
-of_item: prob_2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema1_143_1
-prova_id: prova_2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema1_143
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2005
----
+
 
 **Problema:** [[Problemi/prob_2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema1_143_1|2005 PNI Straordinaria — Problema 1 — Problema 1]] · **Prova:** [[Prove/2005_liceo_scientifico_pni_2005_sessione_straordinaria_problema1_143|2005 PNI Straordinaria — Problema 1]]
 
-Liceo Scientifico PNI 2005
-Sessione $Straordinaria-$ Problema $1$
+Dato un triangolo $ABC$ acutangolo e isoscele sulla base $BC$, sia $D$ il piede dell'altezza condotta per $C$; dalla stessa parte di $A$ rispetto a $BC$ si costruisce il punto $E$ in modo che il triangolo $ECD$ sia simile ad $ABC$.
 
-PNI 2005 - SESSIONE STRAORDINARIA - PROBLEMA $1$
 
-Considerato un triangolo ABC, acutangolo e isoscele sulla base $BC,$ si chiami $D$ il piede
-della sua altezza condotta per $C$ e si costruisca, dalla stessa parte di A rispetto a $BC,$ il
-punto E in modo che il triangolo ECD sia simile $ad$ ABC.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="244.56" height="173.103" viewBox="-72 -72 183.42 129.827"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M19.504-58.57-57.317 43.857H96.326ZM96.326 43.858-2.006-29.891M96.326-58.57V43.857M96.326-58.57-2.006-29.89M96.326-58.57H19.504"/><path fill="none" stroke-dasharray="3.0,3.0" d="M19.504-58.57 96.326 43.857"/><path stroke="none" d="M-55.517 43.858a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-57.317" y="43.858" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.62 10.366)">B</text><path stroke="none" d="M98.126 43.858a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-57.317" y="43.858" stroke="none" font-family="cmmi10" font-size="10" transform="translate(157.176 10.366)">C</text><path stroke="none" d="M21.304-58.57a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-57.317" y="43.858" stroke="none" font-family="cmmi10" font-size="10" transform="translate(65.789 -105.962)">A</text><path stroke="none" d="M98.126-58.57a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-57.317" y="43.858" stroke="none" font-family="cmmi10" font-size="10" transform="translate(157.176 -105.962)">E</text><path stroke="none" d="M-.206-29.89a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-57.317" y="43.858" stroke="none" font-family="cmmi10" font-size="10" transform="translate(43.222 -77.282)">D</text><path stroke="none" d="M55.106 6.984a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-57.317" y="43.858" stroke="none" font-family="cmmi10" font-size="10" transform="translate(114.156 -26.508)">F</text></g></svg>
+</figure>
 
-a)
+Poniamo $\angle ABC=\angle ACB=\alpha$ e, per la similitudine $ECD\sim ABC$, $x=\angle ECD=\alpha$. Sia $F$ il punto comune ai segmenti $ED$ e $AC$.
 
-Dimostrare che:
+## a)
 
-$1) EC$ è perpendicolare a $CB;$
-$2)$ i triangoli EFC e AFD - dove $F$ è il punto comune $ai$ segmenti ED e $AC -$ sono
-simili e, di conseguenza, anche i triangoli EFA e CFD sono simili e gli angoli AEF e
-FCD sono congruenti;
-$3) EA$ è parallela a $CB;$
-$4)$ il quadrilatero AECD è inscrivibile in una circonferenza.
+**(1) $EC$ è perpendicolare a $CB$.** Poiché $\angle BDC=90^\circ$, nel triangolo $BDC$ si ha $\angle DCB=90^\circ-\alpha$; allora
+$$\angle ECB=\angle ECD+\angle DCB=\alpha+(90^\circ-\alpha)=90^\circ,$$
+cioè $EC\perp CB$.
 
-$1)$ Dalla similitudine fra i triangoli ECD ed ABC segue che l’angolo ECD è congruente
-all’angolo ABC; quindi l’angolo $ECA=x$ è congruente all’angolo $BCD=x.$ Ma risulta:
-$\alpha + x= y$ ed $x+ y=$
-$\pi$
-$2$ , quindi: $x+ \alpha + x=$
-$\pi$
-$2$ segue che $EC$ è perpendicolare a $BC.$
+**(2) Similitudini.** Gli angoli $\angle DAF$ e $\angle DEC$ sono congruenti (angoli corrispondenti dei triangoli simili $ABC$ ed $ECD$) e $\angle AFD=\angle EFC$ perché opposti al vertice: dunque $AFD\sim EFC$. Da questa similitudine segue la proporzione $AF:EF=DF:CF$; poiché inoltre $\angle AFE=\angle DFC$, i triangoli $EFA$ e $CFD$ hanno un angolo congruente compreso fra lati proporzionali e sono quindi simili. Di conseguenza gli angoli corrispondenti $\angle AEF$ e $\angle FCD$ sono congruenti.
 
-$2)$ Dato che gli angoli DAF e DEC sono congruenti (essendo i triangoli ABC e CDE
-simili), essendo gli angoli AFD e CFE congruenti perché opposti al vertice, segue che
-il triangoli AFD ed EFC sono simili. Da questa similitudine segue la seguente
-proporzione: $AF:FE=DF:FC$ . Ma l’angolo AFE è congruente all’angolo DFC, quindi i
-triangoli EFA e CFD sono simili poiché hanno un angolo congruente ed i lati che lo
-comprendo proporzionali. Siccome $AF$ e $DF$ si corrispondono nella similitudine tra
-EFA e CFD, segue che gli angoli corrispondenti (AEF ed FCD) sono congruenti.
+**(3) $EA$ è parallela a $CB$.** L'angolo $\angle FCD$ è complementare di $\alpha$; essendo $\angle AEF=\angle FCD$ ed $EC\perp CB$, si deduce $EA\perp EC$, e quindi $EA\parallel CB$.
 
-Liceo Scientifico PNI 2005
-Sessione $Straordinaria-$ Problema $1$
+**(4) Inscrivibilità.** Un quadrilatero è inscrivibile in una circonferenza se e solo se gli angoli opposti sono supplementari. Nel quadrilatero $AECD$ gli angoli opposti $\angle AEC$ e $\angle ADC$ sono entrambi retti, dunque supplementari: pertanto $AECD$ è inscrivibile in una circonferenza.
 
-$3)$ Siccome $\alpha$ è complementare di DAC, anche l’angolo AEF, congruente $ad \alpha$ è
-complementare di AEF, quindi anche dell’angolo congruente CED: segue che $AE$ è
-perpendicolare $ad EC,$ quindi $AE$ è parallela a $CB.$
+## b)
 
-$4)$ Ricordiamo che un quadrilatero è inscrivibile in una circonferenza se, e solo se, gli
-angoli opposti sono supplementari. Nel nostro caso gli angoli opposti AEC e ADC
-sono retti, quindi supplementari; di conseguenza anche gli altri due lati opposti, DAE e
-DCE sono supplementari (la somma degli angoli interni di un quadrilatero convesso è
-due angoli piatti): il quadrilatero AECD è quindi inscrivibile in una circonferenza.
+Supponiamo ora che, rispetto a un'assegnata unità di misura, sia $BC=6$ e $CD=\dfrac{24}{5}$.
 
-$b)$
+### b.1) Seno e coseno dell'angolo $BCD$
 
-Ammesso che le misure di $BC$ e $CD,$ rispetto a un’assegnata unità di misura, siano $6$ e
-$24/5,$ dopo aver riferito il piano della figura a un conveniente sistema di assi cartesiani,
-determinare:
+Scegliamo il riferimento con origine in $B$, asse $x$ lungo la retta $BC$ e asse $y$ perpendicolare in $B$ a $BC$; quindi $B=(0,0)$ e $C=(6,0)$. Nel triangolo rettangolo $BDC$ (con $\angle BDC=90^\circ$):
+$$BD=\sqrt{BC^2-CD^2}=\sqrt{36-\frac{576}{25}}=\sqrt{\frac{324}{25}}=\frac{18}{5}.$$
+Detto $x=\angle BCD$ si ha allora
+$$\sin x=\frac{BD}{BC}=\frac{18/5}{6}=\frac{3}{5},\qquad \cos x=\frac{CD}{BC}=\frac{24/5}{6}=\frac{4}{5}.$$
 
-$1)$ Il seno ed il coseno dell’angolo BCD;
-$2)$ le equazioni della similitudine che trasforma il triangolo ABC nel triangolo EDC.
+### b.2) Equazioni della similitudine $ABC\to EDC$
 
-Un conveniente sistema di riferimento è quello con l’origine degli assi in $B,$ asse $x$
-coincidente con la retta $BC$ e asse $y$ coincidente con la retta perpendicolare in $B$ a $BC:$
+Determiniamo le coordinate dei vertici. Dalla similitudine dei triangoli $ABH$ e $BCD$ (con $H$ piede dell'altezza da $A$) si ha $AH:BH=CD:BD$, cioè $AH:3=\dfrac{24}{5}:\dfrac{18}{5}$, da cui $AH=4$ e $A=(3,4)$. L'altezza $DK$ relativa all'ipotenusa del triangolo rettangolo vale
+$$DK=\frac{BD\cdot DC}{BC}=\frac{\frac{18}{5}\cdot\frac{24}{5}}{6}=\frac{72}{25},$$
+e per il teorema di Pitagora nel triangolo $BDK$
+$$BK=\sqrt{BD^2-KD^2}=\sqrt{\frac{324}{25}-\frac{5184}{625}}=\sqrt{\frac{2916}{625}}=\frac{54}{25}.$$
+I vertici sono dunque
+$$A=(3,4),\quad B=(0,0),\quad C=(6,0),\quad D=\left(\frac{54}{25},\frac{72}{25}\right),\quad E=(6,4),$$
+con la corrispondenza $A\to E$, $B\to D$, $C\to C$. Poiché i vertici corrispondenti di $ABC$ ed $EDC$ si susseguono nello stesso verso (antiorario), la similitudine è **diretta**, del tipo
+$$\begin{cases} x'=a\,x-b\,y+p\\ y'=b\,x+a\,y+q. \end{cases}$$
+Imponiamo le tre corrispondenze. Da $C=(6,0)\to C=(6,0)$:
+$$\begin{cases}6=6a+p\\ 0=6b+q.\end{cases}$$
+Da $B=(0,0)\to D=\left(\dfrac{54}{25},\dfrac{72}{25}\right)$:
+$$p=\frac{54}{25},\qquad q=\frac{72}{25}.$$
+Sostituendo nelle prime: $6=6a+\dfrac{54}{25}\Rightarrow a=\dfrac{16}{25}$ e $0=6b+\dfrac{72}{25}\Rightarrow b=-\dfrac{12}{25}$.
 
-Dai dati forniti si calcola $BD:$
+La corrispondenza $A=(3,4)\to E=(6,4)$ è verificata:
+$$x'=\frac{16}{25}\cdot3+\frac{12}{25}\cdot4+\frac{54}{25}=\frac{48+48+54}{25}=6,\qquad y'=-\frac{12}{25}\cdot3+\frac{16}{25}\cdot4+\frac{72}{25}=\frac{-36+64+72}{25}=4.$$
 
-$BD= \sqrt{BC2} -CD2 = \sqrt{62} -(24$
-$$ 5 ) 2 $$
-$= \sqrt{36} -576$
-$$ 25 = \sqrt{324} 25 = 18 5 $$
-
-Quindi, indicato con $x$ l’angolo BCD, risulta:
-$senx= BD$
-$BC=$
-$$ 18 5 6 = 3 $$
-$5 , cosx= CD$
-$BC=$
-$$ 24 5 6 = 4 5 $$
-
-Liceo Scientifico PNI 2005
-Sessione $Straordinaria-$ Problema $1$
-
-Cerchiamo ora le equazioni della similitudine che trasforma il triangolo ABC nel
-triangolo EDC.
-
-Siccome ABC ed EDC hanno i vertici corrispondenti che si susseguono nello stesso
-verso (antiorario) la similitudine richiesta è diretta; le sue equazioni sono quindi del tipo:
-
-{x' $= ax-by+ p$
-$y' = bx+ ay+ q$
-
-I coefficienti delle equazioni si ottengono imponendo che si corrispondano i punti A ed E,
-$B$ e $D, C$ e $C:$
-
-Osserviamo ora che i triangoli BCD e ABH sono simili, quindi;
-
-$AH:BH=CD:BD, AH:3=24/5:18/5, AH=4.$
-
-Segue che $A= (3; 4)$
-
-Calcoliamo $DK$ per trovare l’ordinata di $D;$ essendo l’altezza relativa all’ipotenusa del
-triangolo rettangolo ACD risulta:
-
-$DK=$ BD∙DC
-$$ BC = 18 $$
-$5 ∙24$
-$$ 5 6 = 72 25 $$
-
-Per trovare l’ascissa $BK$ di $D$ applichiamo il teorema di Pitagora al triangolo BDK:
-
-$BK= \sqrt{BD}-KD2 = \sqrt (18$
-$$ 5 ) 2 $$
-$-(72$
-$$ 25) 2 = \sqrt{324 $$
-$25 -5184$
-$$ 625 = \sqrt{2916} 625 = 54 25 $$
-
-Le coordinate dei punti richiesto sono pertanto:
-$A= (3; 4),$
-$B= (0; 0),$
-$C= (6; 0),$
-$D= (54$
-$$ 25 ; 72 25) , $$
-$E= (6; 4).$
-Imponiamo ora che $ai$ vertici del triangolo ABC corrispondano rispettivamente i vertici del
-triangolo EDC.
-
-$A= (3; 4) \to E= (6; 4)$ quindi:
-
-{x' $= ax-by+ p$
-$y' = bx+ ay+ q \Rightarrow {6 = 3a-4b+ p$
-$4 = 3b+ 4a+ q$
-$B= (0; 0) \to D= (54$
-$$ 25 ; 72 $$
-$25)$ quindi:
-$$ 54 $$
-$25 = p$
-$$ 72 $$
-$25 = q$
-
-Liceo Scientifico PNI 2005
-Sessione $Straordinaria-$ Problema $1$
-
-$C= (6; 0) \to C= (6; 0)$
-
-${6 = 6a+ p$
-$0 = 6b+ q$ Abbiamo quindi:
-
-$6 = 3a-4b+ p$
-$4 = 3b+ 4a+ q$
-$$ 54 $$
-$25 = p$
-$$ 72 $$
-$25 = q$
-$6 = 6a+ p$
-$0 = 6b+ q$
-
-$6 = 3a-4b+ 54$
-$$ 25 $$
-$4 = 3b+ 4a+ 72$
-$$ 25 54 $$
-$25 = p$
-$$ 72 $$
-$25 = q$
-$6 = 6a+ 54$
-$25 \Rightarrow a= 16$
-$$ 25 $$
-$0 = 6b+ 72$
-$25 \Rightarrow b= -12$
-$$ 25 ; $$
-
-$$ 6 = 48 25 + 48 25 + 54 25 $$
-$4 = -36$
-$$ 25 + 64 25 + 72 25 54 $$
-$25 = p$
-$$ 72 $$
-$25 = q$
-$a= 16$
-$$ 25 $$
-$b= -12$
-$$ 25 $$
-
-La similitudine ha quindi equazioni:
-
-$x' = 16$
-$25 x+ 12$
-$25 y+ 54$
-$$ 25 $$
-$y' = -12$
-$25 x+ 16$
-$25 y+ 72$
-$$ 25 $$
-
-Notiamo che il rapporto di similitudine è:
-
-$k= \sqrt{a}^{2} + b^{2} = \sqrt (16$
-$$ 25) 2 $$
-$+ (-12$
-$$ 25) 2 = 4 5 $$
-
-Con la collaborazione di Angela Santamaria
+Le equazioni della similitudine sono quindi
+$$\begin{cases} x'=\dfrac{16}{25}\,x+\dfrac{12}{25}\,y+\dfrac{54}{25}\\[6pt] y'=-\dfrac{12}{25}\,x+\dfrac{16}{25}\,y+\dfrac{72}{25}, \end{cases}$$
+con rapporto di similitudine
+$$k=\sqrt{a^2+b^2}=\sqrt{\left(\frac{16}{25}\right)^2+\left(\frac{12}{25}\right)^2}=\sqrt{\frac{256+144}{625}}=\sqrt{\frac{400}{625}}=\frac{4}{5}.$$
 
 *Fonte:* [📄 PDF p.143](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

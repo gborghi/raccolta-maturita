@@ -1,139 +1,93 @@
----
-title: 2008 Estero Europa Ordinaria — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50_1
-of_item: prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50_1
-prova_id: prova_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2008
----
+
 
 **Problema:** [[Problemi/prob_2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50_1|2008 Estero Europa Ordinaria — Problema 1 — Problema 1]] · **Prova:** [[Prove/2008_scuole_italiane_allestero_europa_2008_sessione_ord_problema1_50|2008 Estero Europa Ordinaria — Problema 1]]
 
-Scuole italiane all’estero (Europa) 2008
-Sessione $Ordinaria-$ Problema $1$
+La circonferenza $\gamma$ passa per $B(0,-4)$ ed è tangente in $O(0,0)$ alla retta di coefficiente angolare $-4$; la parabola $\lambda$ passa per $A(4,0)$ ed è tangente in $O$ a $\gamma$.
 
-Scuole italiane all’estero (Europa) 2008 - PROBLEMA $1$
+## a) Equazioni di $\gamma$ e di $\lambda$
 
-La circonferenza $\gamma$ passa per $B(0,-4)$ ed è tangente in $O(0, 0)$ alla retta di coefficiente
-angolare $-4;$ la parabola $\lambda$ passa per $A(4,0)$ ed è tangente in O a $\gamma$ .
+La tangente comune in $O$ ha equazione $y=-4x$. Il centro $C$ di $\gamma$ appartiene sia alla perpendicolare alla tangente in $O$, sia all'asse della corda $OB$.
 
-Si disegnino $\gamma$ e $\lambda$ e se ne determinino le rispettive equazioni cartesiane.
+La perpendicolare in $O$ alla tangente ha coefficiente angolare $\frac{1}{4}$ (opposto del reciproco di $-4$), quindi
 
-La retta per O con coefficiente angolare $-4$ ha equazione: $y= -4x.$ Il centro della
-circonferenza appartiene alla perpendicolare in O alla tangente ed all’asse del segmento
-$OB.$ La perpendicolare in O alla tangente ha equazione: $y=$
-$4 x$ .
-L’asse di $OB$ ha equazione: $y= -2$ .
-Il centro $C$ della circonferenza si ottiene quindi risolvendo il seguente sistema:
+$$y=\frac{1}{4}\,x .$$
 
-${y= 1$
-$4 x$
-$y= -2$
-; $C= (-8; -2)$
+L'asse del segmento $OB$, con $O(0,0)$ e $B(0,-4)$, è la retta orizzontale passante per il punto medio $(0,-2)$, cioè $y=-2$. Il centro si ottiene dal sistema
 
-Il raggio $R$ della circonferenza è uguale $ad OC: R^{2} = 64 + 4 = 70.$
+$$\begin{cases} y=\dfrac{1}{4}\,x \\[4pt] y=-2 \end{cases} \;\Rightarrow\; C=(-8,\,-2).$$
 
-La circonferenza $\gamma$ ha quindi equazione:
+Il raggio soddisfa $R^{2}=\overline{OC}^{2}=64+4=70$. Dunque
 
-$(x+ 8)^{2} + (y+ 2)^{2} = 70, x^{2} + y^{2} + 16x+ 4y= 0$
+$$\gamma:\; (x+8)^{2}+(y+2)^{2}=70 \;\Rightarrow\; x^{2}+y^{2}+16x+4y=0 .$$
 
-La parabola $\lambda$ passa per $A(4; 0)$ ed essendo tangente alla circonferenza è tangente in O
-alla retta $y= -4x.$
+La parabola è del tipo $y=ax^{2}+bx+c$; poiché passa per l'origine $c=0$. Il passaggio per $A(4,0)$ dà $0=16a+4b$, quindi $b=-4a$ e $y=ax^{2}-4ax$. Il coefficiente angolare della tangente nel generico punto è $2ax+b$; in $O$ vale $b$, che deve essere $-4$. Allora $b=-4a=-4$, da cui $a=1$. Perciò
 
-La parabola è del tipo $y= ax2 + bx+ c,$ con $c=0;$ imponiamo il passaggio per A:
+$$\lambda:\; y=x^{2}-4x ,$$
 
-$0 = 16a+ 4b, b= -4a: y= ax2 -4ax.$
+parabola con vertice $(2,-4)$, passante per $O$ e per $A$.
 
-Il coefficiente angolare della tangente nel punto $(x^{0}; y^{0})$ è dato da: $2ax0 + b.$ La tangente
-in O ha coefficiente angolare $-4,$ quindi: $b= -4a= -4, a= 1.$ Quindi:
 
-$\lambda : y= x^{2} -4x.$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="298.263" height="256.762" viewBox="-72 -72 223.697 192.571"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><g fill="gray" stroke="gray"><path fill="none" d="M-72.07 10.556h193.793"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M119.843 8.156c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="97.227" y="10.556" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(28.43 2.153)">x</text></g><g fill="gray" stroke="gray"><path fill="none" d="M97.227 120.101V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M94.827-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="97.227" y="10.556" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -75.188)">y</text></g><path fill="none" stroke="red" stroke-width=".8" d="M100.878 30.474c0-46.017-37.303-83.32-83.32-83.32s-83.32 37.303-83.32 83.32 37.303 83.32 83.32 83.32 83.32-37.304 83.32-83.32Zm-83.32 0"/><path fill="none" stroke="#00f" stroke-width=".8" d="m91.252-16.93.877 4.487.878 4.332.878 4.177.877 4.023.878 3.868.878 3.713.877 3.558.878 3.404.878 3.249.878 3.094.877 2.94.878 2.785.878 2.63.877 2.475.878 2.321.878 2.166.877 2.011.878 1.857.878 1.702.878 1.547.877 1.392.878 1.238.878 1.083.877.929.878.773.878.62.877.463.878.31.878.155h.878l.877-.155.878-.31.878-.463.877-.62.878-.773.878-.928.877-1.083.878-1.238.878-1.392.878-1.547.877-1.702.878-1.856.878-2.011.877-2.166.878-2.321.878-2.475.877-2.63.878-2.785.878-2.94.878-3.094.877-3.249.878-3.403.878-3.559.877-3.713.878-3.867.878-4.023.878-4.177.877-4.332.878-4.487"/><path fill="none" stroke="#008c00" stroke-dasharray="3.0,3.0" d="m85.276-37.245 23.901 95.603"/><path stroke="none" d="M99.327 10.556a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="97.227" y="10.556" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 -3.533)">O</text><path stroke="none" d="M99.327 50.39a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="97.227" y="10.556" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 43.251)">B</text><path stroke="none" d="M139.161 10.556a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="97.227" y="10.556" stroke="none" font-family="cmmi10" font-size="10" transform="translate(43.368 -3.533)">A</text><path stroke="none" d="M19.658 30.474a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="97.227" y="10.556" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-91.065 23.334)">C</text><g fill="#00f" stroke="#00f"><text x="97.227" y="10.556" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(30.943 -26.404)">¸</text></g><g fill="red" stroke="red"><text x="97.227" y="10.556" fill="red" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-142.287 21.098)">°</text></g></g></svg>
+</figure>
 
-La parabola ha vertice $(2;-4)$ e passa per O ed A.
+## b) Angolo $\alpha$ sotto cui si vede $OB$
 
-Le due curve hanno i seguenti grafici:
+Sia $\alpha$ l'angolo sotto cui è visto il segmento $OB$ da un punto dell'arco di $\gamma$ nel quarto quadrante. Per il teorema della corda, detto $\beta$ l'angolo inscritto sull'arco opposto, si ha $OB=2R\,\sin\beta$, con $OB=4$ e $R=\sqrt{70}$:
 
-Scuole italiane all’estero (Europa) 2008
-Sessione $Ordinaria-$ Problema $1$
+$$\sin\beta=\frac{OB}{2R}=\frac{4}{2\sqrt{70}}=\frac{2}{\sqrt{70}}=\frac{\sqrt{70}}{35}.$$
 
-Sia $\alpha$ l’angolo sotto cui è visto il segmento $OB$ da un punto dell’arco di $\gamma$ appartenente al
-quarto quadrante. Si dia una misura di $\alpha$ approssimandola in gradi e primi sessagesimali.
+Quindi
 
-Per il teorema della corda, detto $\beta$ l’angolo del secondo o terzo quadrante sotto cui è
-visto il segmento $OB,$ abbiamo:
-$AB= 2Rsen(\beta ), sen(\beta ) = AB$
-$2R=$
-$$ 4 2\sqrt{70} = 2\sqrt{70} 70 = \sqrt{70} 35 , $$
-$\beta = arcsen(\sqrt{70}$
-$35 ) \cong 13.830^\circ$
-Quindi: $\beta \cong 13.830^\circ = 13^\circ + (0.830 ∙60)' = 13^\circ + 49.8' \cong 13^\circ 50' = \beta$
-L’angolo $\alpha$ è il supplementare di $\beta$ , quindi:
+$$\beta=\arcsin\!\left(\frac{\sqrt{70}}{35}\right)\cong 13{,}830^\circ .$$
 
-$\alpha = 180^\circ -\beta = 180^\circ -13^\circ 50' = 166^\circ 10'$
+Convertendo in gradi e primi sessagesimali: $0{,}830\cdot 60'\cong 49{,}8'$, dunque $\beta\cong 13^\circ 50'$.
 
-Se $P$ è un punto dell’ arco di $\lambda$ contenuto nel quarto quadrante e $H$ la sua proiezione
-sull’asse $x,$ si trovi la posizione di $P$ affinché il triangolo OPH abbia area massima.
+L'angolo $\alpha$, visto dall'arco del quarto quadrante, è il supplementare di $\beta$:
 
-Poniamo $P= (x; y) = (x; x^{2} -4x),$ con $0 < x< 4$ . Risulta:
-Area(OPH) $= 1$
-$2 OH∙PH= 1$
-$2 (x)(|x^{2} -4x|) = 1$
-$2 x(-x^{2} + 4x) = 1$
-$2 (-x^{3} + 4x^{2}) = y$
-$y' = 1$
-$2 (-3x^{2} + 8x) \ge 0$ se $x(3x-8) \le 0: 0 \le x\le 8$
+$$\alpha=180^\circ-\beta\cong 180^\circ-13^\circ 50'=166^\circ 10' .$$
 
-Scuole italiane all’estero (Europa) 2008
-Sessione $Ordinaria-$ Problema $1$
+## c) Posizione di $P$ per l'area massima di $OPH$
 
-Quindi $y$ cresce per $0 < x<$
-$3$ e decresce se
-$3 < x< 4; x=$
-$3$ è punto di massimo
-assoluto. Il punto $P$ corrispondente ha coordinate:
+Sia $P=(x,\,x^{2}-4x)$ con $0<x<4$; in tale intervallo $x^{2}-4x<0$, dunque $P$ è nel quarto quadrante e $H=(x,0)$. Si ha $\overline{OH}=x$ e $\overline{PH}=|x^{2}-4x|=-x^{2}+4x$, perciò
 
-$P= (x; x^{2} -4x) = (8$
-$3 ; -32$
-$9 ) = P$
+$$\text{Area}(OPH)=\frac{1}{2}\,\overline{OH}\cdot\overline{PH}=\frac{1}{2}\,x\,(-x^{2}+4x)=\frac{1}{2}\,(-x^{3}+4x^{2}).$$
 
-Si conducano le due rette tangenti a $\lambda$ nei suoi punti O e A; si calcoli l’area del triangolo
-mistilineo delimitato dall’arco di parabola appartenente al quarto quadrante e dalle due
-tangenti.
+Derivando:
 
-La tangente in O, come già visto, ha equazione: $y= -4x.$ La tangente in A (simmetrica
-della tangente in O rispetto all’asse della parabola) ha coefficiente angolare $4.$ Per via
-diretta:
-$A= (4; 0), y= x^{2} -4x,$
-$y' = 2x-4, y'(4) = 4$
-La tangente in A ha quindi equazione:
-$y= 4(x-4),$
-$y= 4x-16$
-Per la simmetria suddetta le due tangenti si incontrano sull’asse della parabola $(x=2),$
-quindi il punto $D$ di intersezione ha ascissa $2;$ la sua ordinata è quindi $-8: D= (2; -8).$
+$$\frac{d}{dx}\,\text{Area}=\frac{1}{2}\,(-3x^{2}+8x)=\frac{1}{2}\,x\,(8-3x)\ge 0 \quad\text{per } 0<x\le\frac{8}{3}.$$
 
-L’area del triangolo mistilineo $T$ si può ottenere come differenza fra l’area del triangolo
-OAD e quella del segmento parabolico $S$ di base $OA.$
-Area(OAD) $= 1$
-$2 (4)(8) = 16,$ Area(S) $= 2$
-$$ 3 (4)(4) = 32 $$
-$3$ (teorema di Archimede)
+L'area cresce per $0<x<\frac{8}{3}$ e decresce per $\frac{8}{3}<x<4$: quindi $x=\frac{8}{3}$ è punto di massimo assoluto. Il punto corrispondente è
 
-Quindi:
-Area(T) $= 16 -32$
-$$ 3 = 16 $$
-$3 u^{2}$
+$$P=\left(\frac{8}{3},\;\left(\frac{8}{3}\right)^{2}-4\cdot\frac{8}{3}\right)=\left(\frac{8}{3},\,-\frac{32}{9}\right).$$
 
-Con la collaborazione di Angela Santamaria
+## d) Area del triangolo mistilineo
+
+La tangente in $O$ è $y=-4x$. Per la tangente in $A(4,0)$: da $y'=2x-4$ si ha $y'(4)=4$, quindi
+
+$$y=4(x-4)=4x-16 .$$
+
+Per la simmetria della parabola rispetto all'asse $x=2$, le due tangenti si incontrano in un punto $D$ di ascissa $2$; sostituendo, $y=-8$, dunque $D=(2,\,-8)$.
+
+L'area del triangolo mistilineo $T$ (delimitato dall'arco di parabola nel quarto quadrante e dalle due tangenti) è la differenza fra l'area del triangolo $OAD$ e l'area del segmento parabolico $S$ di base $OA$.
+
+$$\text{Area}(OAD)=\frac{1}{2}\,(4)(8)=16 .$$
+
+Per l'area del segmento parabolico:
+
+$$\text{Area}(S)=\int_{0}^{4}\big(0-(x^{2}-4x)\big)\,dx=\int_{0}^{4}(-x^{2}+4x)\,dx=\left[-\frac{x^{3}}{3}+2x^{2}\right]_{0}^{4}=\frac{32}{3},$$
+
+in accordo col teorema di Archimede. Quindi
+
+$$\text{Area}(T)=16-\frac{32}{3}=\frac{48-32}{3}=\frac{16}{3}\ \text{u}^{2}.$$
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="131.313" height="226.408" viewBox="-72 -72 98.485 169.806"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><g fill="gray" stroke="gray"><path fill="none" d="M-71.725-30.701h84.958"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M11.353-33.101c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-57.499" y="-30.701" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(74.665 2.153)">x</text></g><g fill="gray" stroke="gray"><path fill="none" d="M-57.499 97.336v-156.09"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-59.898-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-57.499" y="-30.701" fill="gray" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -33.93)">y</text></g><path fill="none" stroke="#00f" stroke-width=".8" d="m-61.766-49.053 1.109 5.015 1.109 4.842 1.109 4.67 1.109 4.496 1.109 4.323 1.109 4.15 1.109 3.978 1.109 3.805 1.109 3.632 1.109 3.459 1.11 3.286 1.108 3.113 1.11 2.94 1.108 2.768 1.11 2.594 1.108 2.421 1.11 2.249 1.108 2.075 1.11 1.903 1.108 1.73 1.11 1.557 1.109 1.384 1.109 1.21 1.109 1.039 1.109.865 1.109.692 1.109.52 1.109.346 1.109.173h1.109l1.109-.171 1.11-.346 1.108-.518 1.11-.69 1.108-.865 1.11-1.037 1.108-1.21 1.11-1.382 1.108-1.556 1.11-1.729 1.108-1.901 1.11-2.074 1.109-2.248 1.109-2.42 1.109-2.593 1.109-2.766 1.109-2.94 1.109-3.111 1.109-3.285 1.109-3.458 1.109-3.63 1.109-3.804 1.109-3.976 1.11-4.15L-.77-30l1.11-4.495 1.108-4.668 1.11-4.841 1.108-5.015"/><path fill="none" stroke="red" stroke-width=".8" d="m-57.499-30.701 28.453 113.81M-.593-30.701l-28.453 113.81"/><path stroke="none" d="M-55.999-30.701a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><text x="-57.499" y="-30.701" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 -3.533)">O</text><path stroke="none" d="M.907-30.701a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><text x="-57.499" y="-30.701" stroke="none" font-family="cmmi10" font-size="10" transform="translate(60.438 -3.533)">A</text><path stroke="none" d="M-27.546 83.11a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><text x="-57.499" y="-30.701" stroke="none" font-family="cmmi10" font-size="10" transform="translate(24.174 124.177)">D</text><g fill="#00f" stroke="#00f"><text x="-57.499" y="-30.701" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(58.257 -10.754)">¸</text></g></g></svg>
+</figure>
+
+Con la collaborazione di Angela Santamaria.
 
 *Fonte:* [📄 PDF p.50](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

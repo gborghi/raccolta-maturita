@@ -1,76 +1,37 @@
----
-title: 2006 Sessione Ordinaria PNI — Prova (p.155) — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_sessione_ordinaria_2006_prova_155_7
-of_item: ques_2006_sessione_ordinaria_2006_prova_155_7
-prova_id: prova_2006_sessione_ordinaria_2006_prova_155
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_155_7|2006 Sessione Ordinaria PNI — Prova (p.155) — Quesito 7]] · **Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_155|2006 Sessione Ordinaria PNI — Prova (p.155)]]
 
-Sessione ordinaria 2006
+Bruno de Finetti è stato il principale esponente della **concezione soggettivista** (o *bayesiana*) della probabilità. La sua provocazione — «la probabilità non esiste!» — va letta proprio alla luce di questa impostazione.
 
-CORSO SPERIMENTALE
+## Significato della frase
 
-PIANO NAZIONALE INFORMATICA
+La frase nega che la probabilità sia una **proprietà oggettiva**, insita negli eventi o nelle cose, presente «là fuori» nel mondo indipendentemente da chi la valuta. Non esiste una probabilità che si possa misurare come si misura la lunghezza di un tavolo o la massa di un corpo: non c'è, nell'evento in sé, alcun numero «probabilità» da scoprire.
 
-Tema di: MATEMATICA
+Per de Finetti la probabilità **esiste soltanto come giudizio di un soggetto**: è il *grado di fiducia* che una persona razionale attribuisce al verificarsi di un evento, sulla base delle informazioni di cui dispone in quel momento. Cambiano le informazioni, cambia la probabilità; e due soggetti con informazioni diverse possono coerentemente assegnare allo stesso evento probabilità diverse. La probabilità non è quindi un fatto oggettivo, ma una **valutazione**.
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+Questa valutazione non è però arbitraria. De Finetti la rende operativa con lo **schema della scommessa coerente**: dire che un evento $E$ ha probabilità $p$ significa essere disposti a scommettere pagando una quota $p$ per ricevere $1$ se $E$ si verifica (e $0$ altrimenti), accettando indifferentemente entrambi i ruoli della scommessa. Il vincolo di **coerenza** (nessun insieme di scommesse deve garantire all'avversario una vincita certa) impone allora le regole del calcolo delle probabilità, ad esempio $0 \le p \le 1$ e l'additività per eventi incompatibili.
 
-PROBLEMA $1$
+## Collegamento con le definizioni storiche di probabilità
 
-Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un’aiuola
-rettangolare.
-a) Quale è l’aiuola di area massima che è possibile delimitare?
+La risposta di de Finetti si comprende meglio confrontandola con le altre definizioni che sono state proposte nel tempo.
 
-Si pensa di tagliare il filo in due parti e di utilizzarle per delimitare un’aiuola quadrata e un’altra
-circolare. Come si dovrebbe tagliare il filo affinché:
-$b)$ la somma delle due aree sia minima?
-$c)$ la somma delle due aree sia massima?
+**Definizione classica (Laplace).** La probabilità di un evento è il rapporto
+$$p=\frac{\text{numero dei casi favorevoli}}{\text{numero dei casi possibili}}$$
+purché i casi siano *ugualmente possibili*. Il limite è evidente: la definizione presuppone già la nozione di «equiprobabilità» (principio di indifferenza) che dovrebbe definire, ed è applicabile solo a situazioni finite e simmetriche (dadi, monete, carte).
 
-Una aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una scatola, cioè, colma
-di terreno. Si discute di aumentare del $10%$ ciascuna sua dimensione. Di quanto terreno in più, in
-termini percentuali, si ha bisogno?
+**Definizione frequentista (statistica).** La probabilità è il valore limite della **frequenza relativa** dei successi al crescere del numero delle prove:
+$$p=\lim_{n\to\infty}\frac{k}{n},$$
+dove $k$ è il numero di successi su $n$ prove ripetute nelle stesse condizioni. Anche qui i limiti sono forti: richiede esperimenti ripetibili all'infinito (che non si realizzano mai davvero) e non dà alcun senso alla probabilità di un **evento singolo e irripetibile** (ad esempio «domani pioverà» o «quella squadra vincerà il campionato»).
 
-PROBLEMA $2$
+**Definizione soggettiva (de Finetti, Ramsey).** È quella descritta sopra: la probabilità come grado di fiducia coerente, misurato tramite la scommessa. Ha il pregio di **applicarsi a qualunque evento**, anche non ripetibile, e di non richiedere alcuna equiprobabilità a priori.
 
-Si considerino le funzioni $f$ e $g$ determinate da ( )
-$$ x x f log = $$
-e ( )
-$$ 2 ax x g = $$
-, essendo a un parametro
-reale e il logaritmo in base e.
-$1.$ Si discuta, al variare di ,a l’equazione
-$$ 2 log ax $$
-$x =$
-e si dica, in particolare, per quale valore di
-a i grafici di $f$ e $g$ sono tra loro tangenti.
-$2.$ Si calcoli, posto
-$2e$
--
-l’area che è compresa fra i grafici di $f$ e $g$ (con $x > 0)$ nella striscia
-di piano determinata dalle rette d’equazioni
--
-$$ = y e .2 $$
--
+**Impostazione assiomatica (Kolmogorov).** Definisce la probabilità come una **misura** che soddisfa alcuni assiomi ($p(E)\ge 0$, $p(\Omega)=1$, additività), ma stabilisce le *proprietà* del calcolo senza dire che cosa la probabilità *sia* né come vada assegnata: resta compatibile con tutte le interpretazioni precedenti.
 
-$3.$ Si studi la funzione
-$$ 2 log ) ( ax x x h $$
--
-scegliendo per a un valore numerico maggiore di e
-$1$ e
-se ne disegni il grafico.
+## Conclusione
+
+«La probabilità non esiste» significa dunque che **non esiste una probabilità oggettiva** insita negli eventi, da scoprire o misurare come una grandezza fisica. Le definizioni classica e frequentista, che pretendono di catturare tale probabilità oggettiva, funzionano solo in casi particolari (rispettivamente simmetrie finite ed esperimenti ripetibili). Esiste invece la probabilità come **espressione quantitativa e coerente dell'attesa di un soggetto** riguardo a un evento incerto: è questa la tesi soggettivista di cui de Finetti fu il maggiore sostenitore.
 
 *Fonte:* [📄 PDF p.155](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

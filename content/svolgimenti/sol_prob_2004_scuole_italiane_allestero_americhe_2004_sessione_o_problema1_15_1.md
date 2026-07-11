@@ -1,178 +1,102 @@
----
-title: 2004 Estero Americhe Ordinaria — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15_1
-of_item: prob_2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15_1
-prova_id: prova_2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2004
----
+
 
 **Problema:** [[Problemi/prob_2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15_1|2004 Estero Americhe Ordinaria — Problema 1 — Problema 1]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_americhe_2004_sessione_o_problema1_15|2004 Estero Americhe Ordinaria — Problema 1]]
 
-Scuole italiane all’estero (Americhe) 2004
-Sessione $Ordinaria-$ Problema $1$
+Tra i coni circolari retti inscritti in una sfera di raggio $R=10\ \text{cm}$ si vogliono determinare: il cono $C$ di volume massimo (con il valore del volume in litri), l'angolo del settore circolare che si ottiene dallo sviluppo piano della sua superficie laterale e, infine, il raggio della sfera inscritta in $C$ con la percentuale di volume del cono che essa occupa.
 
-Scuole italiane all’estero (Americhe) 2004 - PROBLEMA $1$
+## a) Il cono di volume massimo
 
-Tra i coni circolari retti inscritti in una sfera di raggio $10 cm,$ si determini:
+Sia $R$ il raggio della sfera e sia $x$ l'altezza $\overline{VH}$ del cono. La figura mostra la sezione ottenuta con un piano passante per il vertice $V$ e per l'asse $\overline{VH}$: il triangolo $AVB$ è inscritto nel cerchio massimo della sfera e $\overline{VD}=2R$ è un diametro. Deve essere
 
-il cono $C$ di volume massimo e il valore, espresso in litri, di tale volume massimo.
+$$0 < x < 2R.$$
 
-Sia $R$ il raggio della sfera e indichiamo con $x$ l’altezza
-del cono $VH$ (in figura è rappresentata una sezione del
-cono inscritto nella sfera ottenuta con un piano
-passante per il vertice $V$ del cono e per la retta della
-sua altezza $VH).$ Risulta:
 
-$0 < x< 2R$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="196.522" height="185.734" viewBox="-72 -72 147.392 139.301"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M63.729 4.034c0-34.571-28.025-62.596-62.597-62.596-34.571 0-62.596 28.025-62.596 62.596 0 34.572 28.025 62.597 62.596 62.597 34.572 0 62.597-28.025 62.597-62.597Zm-62.597 0"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-57.904 24.913 1.132-58.57 60.17 24.913M-57.904 24.913H60.169"/><path fill="none" stroke="gray" stroke-dasharray="3.0,2.0" d="M1.132-58.57V66.64"/><path fill="none" d="M1.132 24.913h-59.036"/><path stroke="none" d="M2.6719999999999997 4.034a1.54 1.54 0 1 0-3.08 0 1.54 1.54 0 0 0 3.08 0M2.6719999999999997-58.57a1.54 1.54 0 1 0-3.08 0 1.54 1.54 0 0 0 3.08 0M2.6719999999999997 24.913a1.54 1.54 0 1 0-3.08 0 1.54 1.54 0 0 0 3.08 0M-56.364000000000004 24.913a1.54 1.54 0 1 0-3.08 0 1.54 1.54 0 0 0 3.08 0M61.708999999999996 24.913a1.54 1.54 0 1 0-3.08 0 1.54 1.54 0 0 0 3.08 0m-1.54 0"/><text x="1.132" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-4.028 -66.138)">V</text><text x="1.132" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-70.07 31.245)">A</text><text x="1.132" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(62.57 31.245)">B</text><text x="1.132" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 31.245)">H</text><text x="1.132" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 3.417)">O</text><text x="1.132" y="4.034" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-9.248 -19.756)">x</text></g></svg>
+</figure>
 
-Per il secondo teorema di Euclide si ha:
+Poiché $\overline{VD}=2R$ è un diametro, il triangolo $AVD$ è rettangolo in $A$ e $\overline{AH}$ è l'altezza relativa all'ipotenusa. Per il secondo teorema di Euclide, detto $r=\overline{AH}$ il raggio di base del cono,
 
-$AH2 = VH∙HC= x(2R-x)$
+$$\overline{AH}^{\,2} = \overline{VH}\cdot\overline{HD} = x\,(2R-x).$$
 
-Il volume del cono inscritto è quindi $(r$ raggio del cono):
-$V= 1$
-$3 \pi r2h= 1$
-$3 \pi AH2 ∙VH= 1$
-$3 \pi ∙x(2R-x). x= 1$
-$3 \pi ∙x^{2}(2R-x)$
-$V$ è massimo se lo è: $y= x^{2}(2R-x) = (x)2(2R-x)$
-Trattandosi del prodotto di due potenze la cui somma delle basi è costante $(x+2R-x=2R)$
-esso è massimo se le basi sono proporzionali agli esponenti, quindi:
-$2 = 2R-x$
-, $3x= 4R , x= 4$
-$3 R$
+Il volume del cono inscritto è quindi
 
-Allo stesso risultato si perviene dallo studio della derivata della funzione $y= x^{2}(2R-x)$
+$$V = \frac{1}{3}\pi\, r^2\, x = \frac{1}{3}\pi\,\overline{AH}^{\,2}\cdot x = \frac{1}{3}\pi\, x\,(2R-x)\cdot x = \frac{1}{3}\pi\, x^{2}(2R-x).$$
 
-$z' = 2x(2R-x) -x^{2} = -3x^{2} + 4xR\ge 0$ se $3x^{2} -4xR\le 0: 0 \le x\le 4$
-$3 R$
-La funzione, continua, è quindi crescente se $0 < x<$
-$3 R$ e decrescente se
-$3 R< x< 2R$ :
-è quindi massima se $x=$
-$3 R.$
+Il volume è massimo quando lo è la funzione
 
-Il cono inscritto di volume massimo è quello di altezza
-$3 R=$
-$3 ∙10 cm=$
-$$ 40 $$
-$3 cm;$ il suo
-volume è:
-V(max) $= 1$
-$3 \pi ∙x^{2}(2R-x) = 1$
-$3 \pi (16$
-$9 R^{2}) ∙2$
-$3 R= 32$
-$81 \pi R^{3} = 32000$
-$$ 81 $$
-$\pi cm3 \cong 1241.123 cm3 \cong$
-$\cong 1,241 dm3 = 1,241$ litri
+$$y = x^{2}(2R-x), \qquad 0 < x < 2R.$$
 
-Scuole italiane all’estero (Americhe) 2004
-Sessione $Ordinaria-$ Problema $1$
+Studiando la derivata,
 
-Il valore approssimato, in gradi sessagesimali, dell’angolo del settore circolare che risulta
-dallo sviluppo piano della superficie laterale di $C.$
+$$y' = 2x(2R-x) - x^{2} = 4Rx - 3x^{2} = x\,(4R-3x).$$
 
-Il cono $C$ ha altezza $VH= x=$
-$3 R$ e raggio di base $AH= \sqrt{x}(2R-x) = \sqrt$
-$3$ R∙
-$3 R=$
-$3 R\sqrt{2}$
-L’apotema $AV$ è quindi uguale a:
+Nell'intervallo $0<x<2R$ si ha $y'\ge 0$ per $x\le \dfrac{4R}{3}$: la funzione, continua, è quindi crescente per $0<x<\dfrac{4R}{3}$ e decrescente per $\dfrac{4R}{3}<x<2R$. Il massimo si ha dunque per
 
-$AV= \sqrt{VH2} + AH2 = \sqrt{16}$
-$9 R^{2} + 8$
-$9 R^{2} = \sqrt{24}$
-$9 R^{2} = 2$
-$3 R\sqrt{6}$
+$$x = \frac{4R}{3}.$$
 
-Il settore circolare sviluppo della superficie laterale del cono ha quindi raggio
-$3 R\sqrt{6}$
-(corrispondente all’apotema del cono) e arco lungo quanto la circonferenza di base del
-cono, cioè $2\pi AH= 2\pi$
-$3 R\sqrt{2} =$
-$3 \pi R\sqrt{2}$ ; l’ampiezza in radianti dell’angolo del settore
-circolare è data dal rapporto tra la lunghezza dell’arco ed il raggio, quindi:
+Il cono di volume massimo ha perciò altezza
 
-$\alpha = l$
-$r=$
-$3 \pi R\sqrt{2}$
-$3 R\sqrt{6}$
-$$ = 2 \sqrt{3 $$
-$\pi$ rad; ma $\alpha : \alpha ^\circ = \pi : 180^\circ$ ,
-quindi: $\alpha ^\circ = \alpha ∙180^\circ$
-$\pi$
-$$ = 2 \sqrt{3 $$
-$∙180^\circ$
-Pertanto: $\alpha ^\circ \cong 207.846^\circ \cong 207^\circ 50'46" \cong 208^\circ$ .
+$$\overline{VH} = \frac{4R}{3} = \frac{4\cdot 10}{3}\ \text{cm} = \frac{40}{3}\ \text{cm}.$$
 
-Il raggio della sfera inscritta nel cono $C$ e la percentuale del volume del cono che essa
-occupa.
+Sostituendo $x=\dfrac{4R}{3}$ (per cui $2R-x=\dfrac{2R}{3}$ e $x^2=\dfrac{16R^2}{9}$) si ottiene il volume massimo:
 
-Il cono $C$ ha raggio di base $BH=$
-$$ 20 $$
-$3 \sqrt{2} cm,$ quindi:
-$AB=$
-$$ 40 $$
-$3 \sqrt{2} cm$ . Indicato con $C$ il vertice del cono, l’apotema è:
-$AC= BC=$
-$$ 20 $$
-$3 \sqrt{6}$ . L’altezza $CH$ è $40/3 cm.$
-Quindi il semiperimetro del triangolo ABC è $p=$
-$$ 20 3 \sqrt{6} + 20 3 \sqrt{2 $$
-Il raggio $r$ della circonferenza inscritta in ABC (pari al raggio
-della sfera inscritta nel cono) è dato da: $r=$
-$p$ , essendo $S$
-l’area del triangolo ABC: $S= BH∙CH=$
-$$ 20 $$
-$3 \sqrt{2}$ ∙
-$$ 40 3 = $$
+$$V_{\max} = \frac{1}{3}\pi\, x^{2}(2R-x) = \frac{1}{3}\pi\cdot\frac{16R^{2}}{9}\cdot\frac{2R}{3} = \frac{32}{81}\pi R^{3}.$$
 
-Scuole italiane all’estero (Americhe) 2004
-Sessione $Ordinaria-$ Problema $1$
+Con $R=10\ \text{cm}$:
 
-$$ = 800 $$
-$9 \sqrt{2} cm2;$ quindi: $r=$
-$p=$
-$$ 800 9 \sqrt{2} 20 3 \sqrt{6}+20 3 \sqrt{2} = 800 3 20(\sqrt{3}+1) = 40 $$
-$3(\sqrt{3}+1) cm$
+$$V_{\max} = \frac{32\,000}{81}\pi\ \text{cm}^{3} \cong 1241{,}123\ \text{cm}^{3} \cong 1{,}241\ \text{dm}^{3} = 1{,}241\ \text{litri}.$$
 
-Il volume della sfera è quindi dato da:
+## b) L'angolo del settore circolare
 
-V(sfera) $= 4$
-$3 \pi$ (Rsfera) $3 = 4$
-$3 \pi$ (
-$$ 40 3(\sqrt{3} + 1) ) 3 cm3 $$
-V(cono) $= 1$
-$3 \pi$ (Rcono) $2h= 32000$
-$$ 81 $$
-$\pi cm3$
+Il cono $C$ ha altezza $\overline{VH}=\dfrac{4R}{3}$ e raggio di base
 
-Quindi:
+$$\overline{AH} = \sqrt{x\,(2R-x)} = \sqrt{\frac{4R}{3}\cdot\frac{2R}{3}} = \sqrt{\frac{8R^{2}}{9}} = \frac{2R}{3}\sqrt{2}.$$
 
-V(sfera)
-V(cono) =
-$3 \pi$ (
-$$ 40 3(\sqrt{3} + 1)) 3 32000 81 $$
-$\pi$
-$= (\sqrt{3} -1)$
-$3 = 6\sqrt{3} -10 \cong 0.392 \cong 39$ % :
+L'apotema $\overline{AV}$ è quindi
 
-V(sfera) $\cong 39$ % V(cono).
+$$\overline{AV} = \sqrt{\overline{VH}^{\,2}+\overline{AH}^{\,2}} = \sqrt{\frac{16R^{2}}{9}+\frac{8R^{2}}{9}} = \sqrt{\frac{24R^{2}}{9}} = \frac{2R}{3}\sqrt{6}.$$
 
-Con la collaborazione di Angela Santamaria
+Sviluppando sul piano la superficie laterale, si ottiene un settore circolare di raggio pari all'apotema, $\dfrac{2R}{3}\sqrt{6}$, e di arco lungo quanto la circonferenza di base del cono:
+
+$$\ell = 2\pi\,\overline{AH} = 2\pi\cdot\frac{2R}{3}\sqrt{2} = \frac{4R}{3}\pi\sqrt{2}.$$
+
+L'ampiezza in radianti dell'angolo al centro è il rapporto tra l'arco e il raggio:
+
+$$\alpha = \frac{\ell}{\overline{AV}} = \frac{\dfrac{4R}{3}\pi\sqrt{2}}{\dfrac{2R}{3}\sqrt{6}} = \frac{2\sqrt{2}}{\sqrt{6}}\,\pi = \frac{2\sqrt{3}}{3}\,\pi\ \text{rad}.$$
+
+Convertendo in gradi sessagesimali, da $\alpha : \alpha^{\circ} = \pi : 180^{\circ}$ segue
+
+$$\alpha^{\circ} = \frac{2\sqrt{3}}{3}\cdot 180^{\circ} = 120\sqrt{3}^{\,\circ} \cong 207{,}846^{\circ} \cong 207^{\circ}50'46'' \cong 208^{\circ}.$$
+
+## c) La sfera inscritta e la percentuale di volume
+
+La sfera inscritta nel cono $C$ ha come sezione (nel piano assiale) il cerchio inscritto nel triangolo isoscele $AVB$, sezione assiale del cono. Tale triangolo ha:
+
+$$\text{base}\quad \overline{AB} = 2\,\overline{AH} = \frac{40}{3}\sqrt{2}\ \text{cm}, \qquad \text{lati}\quad \overline{AV}=\overline{BV}=\frac{2R}{3}\sqrt{6} = \frac{20}{3}\sqrt{6}\ \text{cm},$$
+
+e altezza $\overline{VH}=\dfrac{40}{3}\ \text{cm}$. La sua area è
+
+$$S = \frac{1}{2}\,\overline{AB}\cdot\overline{VH} = \overline{AH}\cdot\overline{VH} = \frac{20}{3}\sqrt{2}\cdot\frac{40}{3} = \frac{800}{9}\sqrt{2}\ \text{cm}^{2},$$
+
+mentre il semiperimetro è
+
+$$p = \frac{1}{2}\left(\overline{AB}+\overline{AV}+\overline{BV}\right) = \frac{20}{3}\sqrt{2}+\frac{20}{3}\sqrt{6} = \frac{20}{3}\bigl(\sqrt{2}+\sqrt{6}\bigr).$$
+
+Il raggio della circonferenza inscritta (uguale al raggio della sfera inscritta nel cono) è
+
+$$r = \frac{S}{p} = \frac{\dfrac{800}{9}\sqrt{2}}{\dfrac{20}{3}\bigl(\sqrt{2}+\sqrt{6}\bigr)} = \frac{40}{3\bigl(\sqrt{3}+1\bigr)}\ \text{cm} = \frac{20\bigl(\sqrt{3}-1\bigr)}{3}\ \text{cm} \cong 4{,}88\ \text{cm}.$$
+
+Il volume della sfera inscritta è quindi
+
+$$V_{\text{sfera}} = \frac{4}{3}\pi\, r^{3} = \frac{4}{3}\pi\left(\frac{20\bigl(\sqrt{3}-1\bigr)}{3}\right)^{3} = \frac{32\,000}{81}\pi\,\bigl(\sqrt{3}-1\bigr)^{3}\ \text{cm}^{3},$$
+
+mentre il volume del cono è $V_{\text{cono}} = \dfrac{32\,000}{81}\pi\ \text{cm}^{3}$. Il loro rapporto è pertanto
+
+$$\frac{V_{\text{sfera}}}{V_{\text{cono}}} = \bigl(\sqrt{3}-1\bigr)^{3} = 6\sqrt{3}-10 \cong 0{,}392 \cong 39\%.$$
+
+La sfera inscritta occupa dunque circa il $39\%$ del volume del cono $C$.
 
 *Fonte:* [📄 PDF p.15](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

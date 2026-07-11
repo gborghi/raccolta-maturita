@@ -1,67 +1,38 @@
----
-title: 2005 Europa Ordinaria — Questionario — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_2
-of_item: ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_2
-prova_id: prova_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78_2|2005 Europa Ordinaria — Questionario — Quesito 2]] · **Prova:** [[Prove/2005_scuole_italiane_allestero_europa_2005_sessione_ord_questionario_78|2005 Europa Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Europa) 2005
+Una piramide a base quadrata ha altezza $8\ \text{cm}$. Si vuole stabilire quanti piani paralleli alla base la dividono in due parti i cui volumi stanno nel rapporto $7:1$ e a quale distanza dal vertice tali piani si trovano.
 
-Scuole italiane all’estero (Europa) 2005 - Quesiti
+Un piano parallelo alla base, posto a distanza $x$ dal vertice, stacca dalla piramide una piramide più piccola, simile a quella data, di altezza $x$. Per la similitudine i volumi di due solidi simili stanno tra loro come il cubo del rapporto delle dimensioni lineari corrispondenti. Detto $V$ il volume dell'intera piramide (di altezza $8$), il volume della piramide staccata (parte superiore, con il vertice) è
 
-QUESITO $1$
+$$V_{\text{sup}} = V\left(\frac{x}{8}\right)^3 = \frac{V}{512}\,x^3,$$
 
-Indicata con $Sn$ la somma di $n$ termini in progressione geometrica di primo termine $1/2$ e
-ragione $1/2$ si calcoli il
-$$ lim $$
-$n\to \infty$
-$$ Sn n $$
+mentre il tronco di piramide sottostante ha volume
 
-Ricordiamo che la somma dei primi $n$ termini di una progressione geometrica con primo
-termine $a^{1}$ e ragione $q$ è data da:
-$Sn= a^{1} ∙1 -qn$
-$1 -q$
+$$V_{\text{inf}} = V - V_{\text{sup}} = \frac{V}{512}\,(512 - x^3).$$
 
-Nel nostro caso:
-$Sn= 1$
-$2$ ∙
-$1 -(1$
-$$ 2) n $$
-$1 -1$
-$= 1 -(1$
-$$ 2) n $$
 
-Quindi:
-$$ lim $$
-$n\to \infty$
-$$ Sn $$
-$n=$ lim
-$n\to \infty$
-$1 -(1$
-$$ 2) n n = 0 $$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="254.986" height="251.718" viewBox="-72 -72 191.239 188.789"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M7.797-58.57-71.87 100.763H87.465Z"/><path fill="#d9d9ff" stroke="none" d="m7.797-58.57-39.833 79.667H47.63Z"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-32.036 21.097H47.63"/><path fill="none" stroke-dasharray="3.0,3.0" d="M7.797-58.57v79.667"/><text x="7.797" y="100.764" stroke="none" font-family="cmmi10" font-size="10" transform="translate(6.105 -117.348)">x</text><text x="7.797" y="100.764" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-4.028 -162.868)">V</text><g stroke="none" font-family="cmr10" font-size="10"><text x="7.797" y="100.764" transform="translate(-30.736 10.477)">base</text><text x="30.075" y="100.764" transform="translate(-30.736 10.477)">quadrata</text></g><g stroke="none" font-family="cmr10" font-size="10"><text x="7.797" y="100.764" transform="translate(43.367 -77.167)">piano</text><text x="35.02" y="100.764" transform="translate(43.367 -77.167)">parallelo</text></g></g></svg>
+</figure>
 
-QUESITO $2$
+Le due parti devono stare nel rapporto $7:1$. Poiché il testo non precisa quale delle due sia la parte maggiore, occorre distinguere due casi.
 
-Una piramide ha la base quadrata e l’altezza uguale a $8 cm.$ Quanti piani paralleli alla
-base dividono la piramide in due parti i cui volumi sono nel rapporto $7:1?$ Quali sono le
-distanze di tali piani dal vertice della piramide?
+**Primo caso:** il tronco (parte inferiore) ha volume sette volte quello della piramide superiore:
 
-Indicata con $x$ la distanza dal vertice della piramide del piano parallelo alla base, per una
-nota proprietà delle piramidi si ha:
+$$\frac{512 - x^3}{x^3} = 7 \;\Rightarrow\; 512 - x^3 = 7x^3 \;\Rightarrow\; 8x^3 = 512 \;\Rightarrow\; x^3 = 64 \;\Rightarrow\; x = 4.$$
+
+**Secondo caso:** la piramide superiore ha volume sette volte quello del tronco:
+
+$$\frac{x^3}{512 - x^3} = 7 \;\Rightarrow\; x^3 = 7(512 - x^3) \;\Rightarrow\; 8x^3 = 3584 \;\Rightarrow\; x^3 = 448 \;\Rightarrow\; x = \sqrt[3]{448} = 4\sqrt[3]{7}.$$
+
+Entrambi i valori sono positivi e minori di $8$, quindi corrispondono a piani effettivamente interni alla piramide.
+
+Esistono dunque **due** piani paralleli alla base che dividono la piramide in due parti di volumi nel rapporto $7:1$. Le loro distanze dal vertice sono
+
+$$x_1 = 4\ \text{cm}, \qquad x_2 = 4\sqrt[3]{7} \approx 7{,}65\ \text{cm}.$$
 
 *Fonte:* [📄 PDF p.78](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

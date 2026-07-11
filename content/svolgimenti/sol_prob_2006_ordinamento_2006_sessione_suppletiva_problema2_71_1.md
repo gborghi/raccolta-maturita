@@ -1,253 +1,107 @@
----
-title: 2006 Ordinamento Suppletiva — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2006_ordinamento_2006_sessione_suppletiva_problema2_71_1
-of_item: prob_2006_ordinamento_2006_sessione_suppletiva_problema2_71_1
-prova_id: prova_2006_ordinamento_2006_sessione_suppletiva_problema2_71
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2006
----
+
 
 **Problema:** [[Problemi/prob_2006_ordinamento_2006_sessione_suppletiva_problema2_71_1|2006 Ordinamento Suppletiva — Problema 2 — Problema 1]] · **Prova:** [[Prove/2006_ordinamento_2006_sessione_suppletiva_problema2_71|2006 Ordinamento Suppletiva — Problema 2]]
 
-ORDINAMENTO 2006 SESSIONE SUPPLETIVA - PROBLEMA $2$
+Nel piano, riferito a un sistema monometrico di assi cartesiani ortogonali $(Oxy)$, sono assegnate le curve di equazione
 
-Nel piano, riferito $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy), sono
-assegnate le curve di equazione:
-$y= x+ k$
-$x^{2}$ ,
+$$y = \frac{x+k}{x^2},$$
 
 dove $k$ è un parametro reale non nullo.
 
-a)
+## a)
 
-Dimostrare che non hanno punti in comune e ognuna di esse presenta uno ed un solo
-flesso.
+Consideriamo due curve della famiglia, con parametri $k_1 \ne k_2$. Se avessero un punto in comune $(x_0, y_0)$, varrebbero simultaneamente
 
-La curva può essere scritta nella forma: $x2y-x+ k= 0$ che rappresenta un fascio di
-curve algebriche del terzo ordine. Consideriamo due generatrici di tale fascio, ponendo,
-per esempio, $k=1$ e $k=-1:$
+$$x_0^2\,y_0 - x_0 = -k_1 \qquad\text{e}\qquad x_0^2\,y_0 - x_0 = -k_2,$$
 
-$g^{1}: x2y-x+ 1 = 0 , g^{2}: x2y-x-1 = 0$ .
+il che è impossibile perché $k_1 \ne k_2$. Le curve non hanno quindi punti in comune.
 
-Queste due curve non hanno punti in comune, infatti il sistema:
+Per il flesso calcoliamo le derivate. Scrivendo $y = x^{-1} + k\,x^{-2}$ si ha
 
-${x2y-x+ 1 = 0$
-$x2y-x-1 = 0$ equivalente a ${x2y-x= -1$
-$x2y-x= 1$ è impossibile.
+$$y' = \frac{x^2 - 2x(x+k)}{x^4} = \frac{-x-2k}{x^3}, \qquad y'' = \frac{2x+6k}{x^4}.$$
 
-Le curve del fascio non hanno quindi punti in comune.
+La derivata seconda si annulla per $x = -3k$ e cambia segno in tale punto (poiché $k \ne 0$): ciascuna curva presenta quindi esattamente un flesso.
 
-Notiamo che avremmo potuto ragionare anche senza ricorrere al concetto di fascio,
-considerando due curve generiche (una con $k= k^{1}$ l’altra con $k= k^{2}$ ) saremmo
-arrivati al sistema ancora impossibile:
+## b)
 
-${x2y-x= -k^{1}$
-$x2y-x= -k^{2}$
-da cui $k^{1} = k^{2}$ mentre, essendo le due curve diverse, è $k^{1} \ne k^{2}$
+Il flesso si trova in $x_F = -3k$, con ordinata
 
-Dimostriamo ora che ogni curva di equazione $y=$
-$x+k$
-$x^{2}$ , con $k\ne 0$ presenta uno ed
-un solo flesso.
+$$y_F = \frac{-3k+k}{9k^2} = -\frac{2}{9k}$$
 
-La funzione di equazione $y=$
-$x+k$
-$x^{2}$ è definita e derivabile per ogni $x\ne 0.$
-La calcoliamo la derivata prima e la derivata seconda:
+e pendenza
 
-$y' = x^{2} -2x(x+ k)$
-$$ x^{4 $$
-$= -x-2k$
-$$ x^{3 $$
+$$m_F = \frac{-(-3k)-2k}{(-3k)^3} = \frac{k}{-27k^3} = -\frac{1}{27k^2}.$$
 
-y'' $= -x^{3} + (x+ 2k)(3x^{2})$
-$$ x^{6 $$
-$= 6k+ 2x$
-$$ x^{4 $$
-$\ge 0$ se $x\ge -3k$
+La tangente inflessionale assegnata $x + 27y - 9 = 0$ ha coefficiente angolare $m = -\dfrac{1}{27}$, quindi
 
-Con $k\ne 0$ la derivata seconda cambia segno a sinistra e a destra di $x= -3k$ , quindi
-in tale punto abbiamo un (unico) flesso.
+$$-\frac{1}{27k^2} = -\frac{1}{27} \;\Rightarrow\; k^2 = 1 \;\Rightarrow\; k = \pm 1.$$
 
-$b)$
+Poiché il flesso deve appartenere alla retta $x + 27y - 9 = 0$, sostituiamo le sue coordinate.
 
-Tra le curve assegnate, indicare con $\gamma$ quella che ha come tangente inflessionale la retta
-di equazione $x+27y-9 =0.$
+- Per $k = -1$ il flesso è $\left(3,\ \dfrac{2}{9}\right)$: verifica $3 + 27 \cdot \dfrac{2}{9} - 9 = 3 + 6 - 9 = 0$. ✓
+- Per $k = 1$ il flesso è $\left(-3,\ -\dfrac{2}{9}\right)$: verifica $-3 + 27 \cdot \left(-\dfrac{2}{9}\right) - 9 = -3 - 6 - 9 \ne 0$.
 
-Il coefficiente della tangente inflessionale è $m= -$
-$27$ , quindi deve essere:
+Quindi $k = -1$ e la curva cercata è
 
-$f'(-3k) = -1$
-$27$ da cui $(-x-2k$
-$$ x^{3} ) $$
-$x=-3k$
-$-27k^{3} = -1$
-$27 \implies 1$
-$k^{2} = 1 \implies k= \pm 1$
+$$\gamma:\quad y = \frac{x-1}{x^2}.$$
 
-Il flesso ha ordinata $f(-3k) =$ (
-$x+k$
-$x^{2}$ )
-$x=-3k = -$
-$2k$
-$9k^{2} = -$
-$9k$ ; poiché il flesso appartiene alla
-tangente inflessionale, sostituendo nell’equazione di tale retta le coordinate del flesso si
-ha:
+## c)
 
-$-3k+ 27 (-2$
-$9k) -9 = 0 \implies -k-2$
-$k-3 = 0 \implies k^{2} + 3k+ 2 = 0$
+Studiamo $f(x) = \dfrac{x-1}{x^2}$.
 
-che è soddisfatta da $k= -1$ ma non da $k= +1$ : la curva richiesta è ha quindi
-equazione:
+**Dominio:** $\mathbb{R} \setminus \{0\}$. La funzione non è né pari né dispari. Si annulla per $x = 1$; è positiva per $x > 1$ e negativa altrove.
 
-$\gamma : y= x-1$
-$$ x^{2 $$
+**Limiti:**
 
-$c)$
+$$\lim_{x\to\pm\infty} f(x) = 0 \quad(\text{asintoto orizzontale } y=0), \qquad \lim_{x\to 0} f(x) = -\infty \quad(\text{asintoto verticale } x=0).$$
 
-Disegnare l’andamento di $\gamma$ , dopo averne trovato le caratteristiche salienti e, in
-particolare, l’equazione della retta $t$ tangente alla curva $\gamma$ nel punto A di ascissa $1$ e le
-coordinate dell’ulteriore punto che $t$ ha in comune con $\gamma$ .
+**Derivata prima:**
 
-$y=$ f(x) $= x-1$
-$$ x^{2 $$
+$$f'(x) = \frac{2-x}{x^3},$$
 
-Dominio: $-\infty < x< 0 , 0 < x< +\infty$
+positiva per $0 < x < 2$ e negativa per $x < 0$ e $x > 2$. Dunque $x = 2$ è punto di massimo relativo (e assoluto) con $f(2) = \dfrac{1}{4}$.
 
-Simmetrie notevoli:
+**Derivata seconda:**
 
-Essendo $f(-x) =$
-$-x-1$
-$x^{2}$ diverso sia da f(x) sia da - f(x) la funzione non né pari né
+$$f''(x) = \frac{2(x-3)}{x^4},$$
 
-dispari.
+positiva per $x > 3$ (concavità verso l'alto) e negativa per $0 < x < 3$ (concavità verso il basso). Flesso in $x = 3$, con ordinata $y = \dfrac{2}{9}$.
 
-Intersezioni con gli assi cartesiani:
+Il punto $A$ ha ascissa $1$: $A = (1, 0)$. La tangente in $A$ ha coefficiente angolare
 
-Se $x= 0$ , la funzione non esiste
-Se $y= 0, x= 1$
+$$m = f'(1) = \frac{2-1}{1} = 1, \qquad t:\quad y = x-1.$$
 
-Segno della funzione:
+Per l'ulteriore intersezione di $t$ con $\gamma$:
 
-$y> 0$ se $x-1$
-$$ x^{2 $$
-$> 0$ da cui $x> 1$
+$$x - 1 = \frac{x-1}{x^2} \;\Rightarrow\; (x-1)\left(1 - \frac{1}{x^2}\right) = 0 \;\Rightarrow\; (x-1)^2(x+1) = 0.$$
 
-Limiti:
+Oltre alla soluzione doppia $x = 1$ (punto di tangenza) si ha $x = -1$, $y = -2$. L'ulteriore punto di intersezione è $B = (-1, -2)$.
 
-$$ lim $$
-$x\to \mp \infty (x-1$
-$x^{2} ) =$ lim
-$x\to \mp \infty ( x$
-$x^{2}) =$ lim
-$x\to \mp \infty (1$
-$x) = 0\mp : y= 0$ asintoto orizzontale
 
-$$ lim $$
-$x\to 0 (x-1$
-$x^{2} ) =$ lim
-$x\to 0 (-1$
-$x^{2} ) = -\infty : x= 0$ asintoto verticale
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="294.363" height="422.913" viewBox="-72 -72 220.772 317.185"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07-34.97h207.591"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M133.641-37.37c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="7.741" y="-34.969" stroke="none" font-family="cmmi10" font-size="10" transform="translate(131.714 2.153)">x</text><path fill="none" d="M7.74 44.841V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M5.34-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="7.741" y="-34.969" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -29.662)">y</text><path fill="none" d="M-40.63-36.42v2.902"/><g stroke="none" font-size="5"><text x="7.741" y="-34.969" font-family="cmsy5" transform="translate(-52.78 8.317)">¡</text><text x="13.157" y="-34.969" font-family="cmr5" transform="translate(-52.78 8.317)">2</text></g><path fill="none" d="M-16.444-36.42v2.902"/><g stroke="none" font-size="5"><text x="7.741" y="-34.969" font-family="cmsy5" transform="translate(-28.595 8.317)">¡</text><text x="13.157" y="-34.969" font-family="cmr5" transform="translate(-28.595 8.317)">1</text></g><path fill="none" d="M31.926-36.42v2.902"/><text x="7.741" y="-34.969" stroke="none" font-family="cmr5" font-size="5" transform="translate(22.484 8.206)">1</text><path fill="none" d="M56.11-36.42v2.902"/><text x="7.741" y="-34.969" stroke="none" font-family="cmr5" font-size="5" transform="translate(46.669 8.206)">2</text><path fill="none" d="M80.296-36.42v2.902"/><text x="7.741" y="-34.969" stroke="none" font-family="cmr5" font-size="5" transform="translate(70.854 8.206)">3</text><path fill="none" d="M104.48-36.42v2.902"/><text x="7.741" y="-34.969" stroke="none" font-family="cmr5" font-size="5" transform="translate(95.039 8.206)">4</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-64.814-24.22 1.09.206 1.09.212 1.09.222 1.09.23 1.09.24 1.09.247 1.09.26 1.09.269 1.09.28 1.09.293 1.091.307 1.09.32 1.09.334 1.09.35 1.09.367 1.09.385 1.09.403 1.09.425 1.091.447 1.09.47 1.09.497 1.09.526 1.09.555 1.09.588 1.09.623 1.09.662 1.091.705 1.09.751 1.09.802 1.09.86 1.09.92 1.09.99 1.09 1.066 1.09 1.15 1.091 1.243 1.09 1.355 1.09 1.47 1.09 1.606 1.09 1.76 1.09 1.938 1.09 2.135 1.09 2.373 1.091 2.636 1.09 2.953 1.09 3.327 1.09 3.763 1.09 4.292 1.09 4.923 1.09 5.7 1.09 6.653 1.091 7.84 1.09 9.36 1.09 11.32 1.09 13.871 1.09 17.34 1.09 22.08 1.09 28.839 1.09 38.827 1.091 54.169M15.963 103.125 17.39 56.36l1.426-28.81 1.426-18.792 1.427-12.8 1.426-9.017 1.426-6.529 1.427-4.832 1.426-3.64 1.426-2.786 1.427-2.157 1.426-1.686 1.426-1.329 1.426-1.054 1.427-.842 1.426-.675 1.426-.541 1.427-.433 1.426-.349 1.426-.275 1.427-.223 1.426-.173 1.426-.134 1.427-.103 1.426-.077 1.426-.054 1.427-.036 1.426-.02 1.426-.007 1.427.004 1.426.012 1.426.02 1.426.026 1.427.032 1.426.037 1.426.04 1.427.042 1.426.046 1.426.047 1.427.05 1.426.05 1.426.05 1.427.052 1.426.053 1.426.052 1.427.053 1.426.053 1.426.053 1.427.052 1.426.052 1.426.052 1.426.052 1.427.05 1.426.051 1.426.05 1.427.05 1.426.049 1.426.048 1.427.047 1.426.047 1.426.046 1.427.046 1.426.045 1.426.044 1.427.043 1.426.043 1.426.043 1.427.041 1.426.041 1.426.041 1.426.04 1.427.039 1.426.038 1.426.038 1.427.038 1.426.037 1.426.036 1.427.035 1.426.035 1.426.035"/><path fill="none" stroke="#090" stroke-dasharray="3.0,3.0" d="m-26.118 23.075 91.902-91.903"/><g fill="red" stroke="red"><path stroke="none" d="M57.81-41.015a1.7 1.7 0 1 0-3.4 0 1.7 1.7 0 0 0 3.4 0m-1.7 0"/><g fill="red" stroke="none"><text x="7.741" y="-34.969" font-family="cmr5" font-size="5" transform="translate(51.903 -12.239)">(2</text><text x="13.852" y="-34.969" font-family="cmmi5" font-size="5" transform="translate(51.903 -12.239)">;</text><text x="18.57" y="-36.906" font-family="cmr5" font-size="5" transform="translate(51.903 -12.239)">1</text><path d="M70.473-48.658h3.403v.4h-3.403z"/><text x="18.57" y="-32.31" font-family="cmr5" font-size="5" transform="translate(51.903 -12.239)">4</text><text x="23.173" y="-34.969" font-family="cmr5" font-size="5" transform="translate(51.903 -12.239)">)</text></g></g><g fill="#ff8000" stroke="#ff8000"><path stroke="none" d="M81.996-40.338a1.7 1.7 0 1 0-3.4 0 1.7 1.7 0 0 0 3.4 0m-1.7 0"/><text x="7.741" y="-34.969" fill="#ff8000" stroke="none" font-family="cmr5" font-size="5" transform="translate(76.088 -8.902)">flesso</text></g><g fill="#090" stroke="#090"><path stroke="none" d="M33.626-34.97a1.7 1.7 0 1 0-3.4 0 1.7 1.7 0 0 0 3.4 0m-1.7 0"/><text x="7.741" y="-34.969" fill="#090" stroke="none" font-family="cmmi5" font-size="5" transform="translate(27.718 -3.533)">A</text></g><g fill="#090" stroke="#090"><path stroke="none" d="M-14.744 13.4a1.7 1.7 0 1 0-3.4 0 1.7 1.7 0 0 0 3.4 0m-1.7 0"/><text x="7.741" y="-34.969" fill="#090" stroke="none" font-family="cmmi5" font-size="5" transform="translate(-33.136 50.078)">B</text></g></g></svg>
+</figure>
 
-Non ci sono asintoti obliqui (essendoci quelli orizzontali sia al $-\infty$ che al $+\infty$ .
+## d)
 
-Derivata prima:
+La circonferenza $c$ è tangente a $\gamma$ in $A = (1, 0)$, quindi è tangente anche alla retta $t$ in $A$. La perpendicolare a $t$ in $A$ ha equazione $y = -(x-1)$, cioè $y = -x + 1$. Il centro, appartenendo all'asse $y$, si ottiene ponendo $x = 0$: $C = (0, 1)$. Il raggio è
 
-f'(x) $= 2 -x$
-$$ x^{3 $$
-$\ge 0$ se $0 < x\le 2$
-La funzione è crescente se $0 < x< 2$ e decrescente se $x< 0$ e $x> 2$
+$$R = \overline{CA} = \sqrt{1 + 1} = \sqrt{2}.$$
 
-In $x= 2$ abbiamo un massimo relativo (e assoluto) di ordinata: $1⁄4$ .
+L'equazione della circonferenza è dunque
 
-Derivata seconda:
+$$x^2 + (y-1)^2 = 2, \qquad\text{ovvero}\qquad c:\; x^2 + y^2 - 2y - 1 = 0.$$
 
-f''(x) =
-$2(x -3)$
-$$ x^{4 $$
-$\ge 0$ se $x\ge 3$ .
+## e)
 
-Pertanto il grafico volge la concavità verso l’alto se $x> 3$ e verso il basso se $x< 3$ .
+La circonferenza $c$ ha centro $C = (0, 1)$ e raggio $R = \sqrt{2}$. L'asse $x$ la interseca nei punti $A = (1, 0)$ e $D = (-1, 0)$ (ponendo $y = 0$ si ottiene $x^2 = 1$). Il triangolo $ACD$ è rettangolo in $C$, poiché i cateti $\overline{AC}$ e $\overline{CD}$ misurano entrambi $\sqrt{2}$ e $\overline{AD} = 2 = \sqrt{\,\overline{AC}^2 + \overline{CD}^2\,}$. Il settore circolare corrispondente sottende un angolo al centro di $90^\circ$, dunque ha area
 
-$x= 3$ è punto di flesso con ordinata: $y=$
-$9 : F= (3;$
-$9)$ . Grafico:
+$$\frac{1}{4}\pi R^2 = \frac{1}{4}\pi \cdot 2 = \frac{\pi}{2}.$$
 
-Consideriamo il punto A di ascissa $1: A= (1; 0)$ . Cerchiamo l’equazione della
-tangente $t$ in A:
+L'area del triangolo $ACD$ è $\dfrac{1}{2}\cdot\sqrt{2}\cdot\sqrt{2} = 1$. L'area del segmento circolare (la regione minore) è quindi
 
-$m= f'(1) = 1$ , quindi: $t: y-0 = 1(x-1)$ da cui $y= x-1.$
-
-Cerchiamo ora l’ulteriore intersezione di $t$ con la curva:
-
-$y= x-1$
-$y= x-1$
-$$ x^{2 $$
-$\implies x-1 = x-1$
-$$ x^{2 $$
-$\implies x^{3} -x^{2} -x+ 1 = 0 \implies x^{2} (x-1) -(x-1) = 0$
-
-$(x-1)(x^{2} -1) = 0 \implies (x-1)^{2}(x+ 1) = 0 \implies x= -1$ (oltre a $x= 1)$
-
-Quindi l’ulteriore intersezione della tangente in A con la curva è il punto $B= (-1; -2)$
-
-Il grafico della funzione è il seguente:
-
-$d)$
-
-Determinare l’equazione della circonferenza $c,$ tangente alla curva $\gamma$ nel punto A ed
-avente il centro sull’asse $y.$
-
-La circonferenza sarà tangente in A alla retta $t$ quindi il centro appartiene alla
-perpendicolare $n$ a $t$ in A; il coefficiente angolare di tale retta è quindi $-1.$
-
-$n: y-0 = -1(x-1) \implies y= -x+ 1$
-
-Siccome il centro appartiene anche all’asse $y,$ le sue coordinate si ottengono ponendo
-$x=0$ nella retta $n: C= (0; 1)$ . Il raggio della circonferenza è dato dalla distanza $CA:$
-
-$R^{2} = CA2 = 2$ . L’equazione della circonferenza è quindi:
-
-$(x-xc)2 + (y-yc)2 = R^{2} \implies x^{2} + (y-1)^{2} = 2 \implies c: x^{2} + y^{2} -2y-1 = 0$
-
-e)
-
-Calcolare l’area della minore delle regioni in cui l’asse $x$ divide il cerchio delimitato da $c.$
-
-La regione richiesta è il segmento circolare delimitato dalla corda $AD$ e dall’arco AED
-L’area di tale segmento circolare si ottiene sottraendo all’area del settore circolare ACDE
-l’area del triangolo ACD.
-Il triangolo ACD è rettangolo in $C,$ poiché i triangoli AOC e COD sono rettangoli isosceli
-con ipotenuse rispettivamente $AC$ e $CD.$ Quindi:
-
-Area(triangolo ACD) = AC∙CD
-$= \sqrt{2} ∙\sqrt{2}$
-$$ 2 = 1 $$
-
-Il settore circolare che ci interessa è la quarta parte del cerchio (poiché la sua ampiezza
-è $90^\circ$ ), quindi:
-
-Area(settore circ. ACDE) $= 1$
-$4 \pi R^{2} = 1$
-$4 \pi ∙2 = \pi$
-
-Pertanto:
-
-Area(segmento circolare ADE) $= (\pi$
-$2 -1) u^{2} \cong 0.57 u^{2}$
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
+$$S = \frac{\pi}{2} - 1 \approx 0{,}57 \ \text{u}^2.$$
 
 *Fonte:* [📄 PDF p.71](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

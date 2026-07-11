@@ -1,58 +1,39 @@
----
-title: 2007 Estero Americhe Ordinaria — Questionario — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_3
-of_item: ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_3
-prova_id: prova_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_3|2007 Estero Americhe Ordinaria — Questionario — Quesito 3]] · **Prova:** [[Prove/2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25|2007 Estero Americhe Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2007
+Si calcolino le radici dell'equazione
+$$3^{x+3} + 9^{x+1} = 10.$$
 
-Scuole italiane all’estero (Americhe) 2007 - Quesiti
+## Riduzione a una equazione di secondo grado
 
-QUESITO $1$
+Riscriviamo le due potenze usando le proprietà degli esponenziali, in modo da esprimere tutto in funzione di $3^{x}$:
+$$3^{x+3} = 3^{3}\cdot 3^{x} = 27\cdot 3^{x}, \qquad 9^{x+1} = 9\cdot 9^{x} = 9\cdot 3^{2x}.$$
 
-Si dimostri che fra tutti i triangoli rettangoli aventi la stessa ipotenusa, quello isoscele ha
-l’area massima.
+L'equazione diventa quindi
+$$9\cdot 3^{2x} + 27\cdot 3^{x} - 10 = 0.$$
 
-Il triangolo può essere inscritto in una circonferenza di diametro uguale all’ipotenusa.
+Poniamo per comodità $t = 3^{x}$, con la condizione $t > 0$ (una potenza a base positiva è sempre positiva). Ricordando che $3^{2x} = \left(3^{x}\right)^{2} = t^{2}$, otteniamo l'equazione di secondo grado
+$$9t^{2} + 27t - 10 = 0.$$
 
-Area(ABC) $= AB$
-̅̅̅̅ ∙CH
-̅̅̅̅
+## Soluzione e ritorno alla variabile $x$
 
-Tale area è massima quando $CH$ è massima, cioè quando $CH$ è uguale al raggio della
-circonferenza (la base $AB$ è costante). Quando $CH=R$ il triangolo è isoscele $(AC=BC).$
+Applichiamo la formula risolutiva:
+$$t = \frac{-27 \pm \sqrt{27^{2} + 4\cdot 9\cdot 10}}{2\cdot 9} = \frac{-27 \pm \sqrt{729 + 360}}{18} = \frac{-27 \pm \sqrt{1089}}{18} = \frac{-27 \pm 33}{18}.$$
 
-QUESITO $2$
+Le due radici sono
+$$t_{1} = \frac{-27 + 33}{18} = \frac{6}{18} = \frac{1}{3}, \qquad t_{2} = \frac{-27 - 33}{18} = -\frac{60}{18} = -\frac{10}{3}.$$
 
-Quando due rette si dicono sghembe? Come si definisce la distanza tra due rette
-sghembe?
+La soluzione $t_{2} = -\dfrac{10}{3}$ è negativa e va scartata, perché deve essere $t = 3^{x} > 0$. Resta accettabile solo $t_{1} = \dfrac{1}{3}$, da cui
+$$3^{x} = \frac{1}{3} = 3^{-1} \;\Rightarrow\; x = -1.$$
 
-Due rette dello spazio si dicono sghembe se non sono complanari.
-La distanza fra due rette sghembe è la lunghezza del segmento perpendicolare $ad$
-entrambe le rette, con gli estremi sulle due rette.
+## Verifica
 
-QUESITO $3$
-
-Si calcolino le radici dell’equazione: $3x+3 + 9x+1 = 10$
-
-L’equazione è equivalente a:
-
-$27 ∙3x+ 9 ∙32x-10 = 0$ ; poniamo per comodita $3x= t.$ L’equazione diventa:
+Sostituendo $x = -1$ nell'equazione di partenza:
+$$3^{-1+3} + 9^{-1+1} = 3^{2} + 9^{0} = 9 + 1 = 10,$$
+uguaglianza soddisfatta. L'unica radice reale dell'equazione è dunque
+$$\boxed{\,x = -1\,}.$$
 
 *Fonte:* [📄 PDF p.25](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

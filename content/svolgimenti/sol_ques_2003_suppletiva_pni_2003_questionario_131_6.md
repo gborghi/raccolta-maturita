@@ -1,68 +1,36 @@
----
-title: 2003 Suppletiva PNI — Questionario — Quesito 6 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2003_suppletiva_pni_2003_questionario_131_6
-of_item: ques_2003_suppletiva_pni_2003_questionario_131_6
-prova_id: prova_2003_suppletiva_pni_2003_questionario_131
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2003
----
+
 
 **Quesito:** [[Quesiti/ques_2003_suppletiva_pni_2003_questionario_131_6|2003 Suppletiva PNI — Questionario — Quesito 6]] · **Prova:** [[Prove/2003_suppletiva_pni_2003_questionario_131|2003 Suppletiva PNI — Questionario]]
 
-Caso $b):$
+Si consideri il sistema lineare omogeneo nelle incognite $x,\,y,\,z$
 
-$$ lim $$
-$x\to -\infty (1 + x)$
-$x:$ non ha senso,
-poichè la funzione è definita per $x> -1$ e $x\ne 0$
+$$\begin{cases} kx + y + z = 0 \\ x + ky + z = 0 \\ x + y + kz = 0 \end{cases}$$
 
-Caso $c):$
+con $k$ parametro reale. Occorre stabilire se sia vera o falsa l'affermazione: «il sistema ammette la sola soluzione $x=0,\ y=0,\ z=0$ per ogni valore di $k$ diverso da $1$».
 
-$limx\to 0(1 + x)$
-$x=$ e (si tratta di un limite notevole).
+Trattandosi di un sistema **omogeneo**, esso ammette sempre la soluzione banale $x=y=z=0$ per ogni valore di $k$. Per il teorema di Cramer questa soluzione è l'**unica** se e solo se il determinante della matrice dei coefficienti è diverso da zero. Calcoliamo dunque il determinante sviluppandolo, ad esempio con la regola di Laplace rispetto alla prima riga:
 
-QUESITO $6$
+$$\det \begin{pmatrix} k & 1 & 1 \\ 1 & k & 1 \\ 1 & 1 & k \end{pmatrix} = k\,(k^2 - 1) - 1\cdot(k - 1) + 1\cdot(1 - k).$$
 
-Si consideri il seguente sistema di equazioni nelle incognite $x, y, z:$
+Sviluppando i prodotti:
 
-$kx+ y+ z= 0$
-$x+ ky+ z= 0$
-$x+ y+ kz= 0$
+$$= k^3 - k - k + 1 + 1 - k = k^3 - 3k + 2.$$
 
-dove $k$ è un parametro reale.
-Dire se l’affermazione: «il sistema ammette la sola soluzione $x= 0, y= 0, z= 0$ per
-ogni valore di $k$ diverso da $1»$ è vera o falsa e fornire una spiegazione esauriente della
-risposta.
+Il polinomio si fattorizza mettendo in evidenza la radice $k=1$:
 
-Trattandosi di un sistema lineare OMOGENEO esso ammette almeno una soluzione
-$(x= 0, y= 0, z= 0$ ) per ogni valore di $k.$ Affinché la soluzione sia unica è necessario e
-sufficiente che il determinante della matrice dei coefficienti sia diverso da zero (Teorema
-di Cramer). Quindi (calcolando il determinante mediante il Teorema di Laplace rispetto
-alla prima riga):
+$$k^3 - 3k + 2 = (k - 1)(k^2 + k - 2) = (k - 1)(k - 1)(k + 2) = (k - 1)^2 (k + 2).$$
 
-$$ | k 1 1 1 k 1 1 1 k $$
-$| = k(k^{2} -1) -(k-1) + (1 -k) = (k-1)(k(k+ 1) -1 -1) =$
-$= (k-1)(k^{2} + k-2) = (k-1)(k+ 2)(k-1) = 0$ se $k= 1$ oppure $k= -2$
+Il determinante si annulla dunque per
 
-Quindi il sistema la sola soluzione $x= 0, y= 0, z= 0$ per ogni valore di $k$ diverso da $1$
-e da $-2:$ l’affermazione è FALSA.
+$$(k - 1)^2 (k + 2) = 0 \quad \Rightarrow \quad k = 1 \ \text{(doppia)} \ \text{oppure} \ k = -2.$$
 
-QUESITO $7$
+Di conseguenza:
 
-Utilizzando il procedimento preferito, dimostrare la formula che fornisce l’area della
-regione piana racchiusa da un’ellisse di semiassi noti.
+- se $k \ne 1$ e $k \ne -2$, il determinante è diverso da zero e il sistema ammette la **sola** soluzione banale $x=y=z=0$;
+- se $k = 1$ oppure $k = -2$, il determinante è nullo e il sistema ammette **infinite** soluzioni non banali.
 
-Riferiamo l’ellisse $ad$ un sistema di riferimento cartesiano ortogonale monometrico,
-ponendo il centro nell’origine degli assi e gli assi di simmetria coincidenti con gli assi
+L'affermazione proposta è quindi **falsa**: non basta escludere il valore $k = 1$, perché anche per $k = -2$ il sistema possiede soluzioni non nulle. La condizione corretta per l'unicità della soluzione nulla è $k \ne 1$ **e** $k \ne -2$.
 
 *Fonte:* [📄 PDF p.134](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

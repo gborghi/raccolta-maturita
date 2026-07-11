@@ -1,572 +1,74 @@
----
-title: 2008 Ordinamento Suppletiva — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2008_ordinamento_2008_sessione_suppletiva_problema2_68_1
-of_item: prob_2008_ordinamento_2008_sessione_suppletiva_problema2_68_1
-prova_id: prova_2008_ordinamento_2008_sessione_suppletiva_problema2_68
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Calcolo Integrale e Aree
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/calcolo_integrale_e_aree
-  - anno/2008
----
+
 
 **Problema:** [[Problemi/prob_2008_ordinamento_2008_sessione_suppletiva_problema2_68_1|2008 Ordinamento Suppletiva — Problema 2 — Problema 1]] · **Prova:** [[Prove/2008_ordinamento_2008_sessione_suppletiva_problema2_68|2008 Ordinamento Suppletiva — Problema 2]]
 
-ORDINAMENTO 2008 SESSIONE SUPPLETIVA - PROBLEMA $2$
+Si consideri la funzione $g(x) = \sin x\,(2\cos x + 1)$.
 
-Si consideri la funzione:
+## a)
 
-$y= senx(2cosx+ 1)$
+Tra le primitive di $g$, individuiamo quella il cui diagramma $\gamma$ passa per il punto $P(\pi, 0)$.
 
-Tra le sue primitive si individui quella il cui diagramma $\gamma$ passa per il punto $P(\pi , 0).$
+Calcoliamo la primitiva generale:
 
-Cerchiamo la più generale primitiva:
+$$\int \sin x\,(2\cos x + 1)\,dx = \int (2\sin x\cos x + \sin x)\,dx = \sin^2 x - \cos x + k.$$
 
-$\int senx(2cosx+ 1) dx= \int (2senxcosx+ senx)dx= 2 \int$ senxcosx $dx+ \int$ senx $dx=$
+Imponendo il passaggio per $P(\pi, 0)$ si ottiene $0 = \sin^2 \pi - \cos \pi + k = 0 + 1 + k$, da cui $k = -1$. La primitiva cercata è quindi
 
-$= 2 ∙sen2x$
-$-cosx+ k= sen2x-cosx+ k$
+$$f(x) = \sin^2 x - \cos x - 1 = -\cos^2 x - \cos x,$$
 
-Imponendo il passaggio per $P$ otteniamo:
+avendo usato l'identità $\sin^2 x = 1 - \cos^2 x$.
 
-$0 = sen2\pi -cos\pi + k= 1 + k \implies k= -1$ . La primitiva richiesta è quindi:
+## b)
 
-$y=$ f(x) $= sen2x-cosx-1$
+Studiamo $f(x) = -\cos^2 x - \cos x$ nell'intervallo $[0, 2\pi]$.
 
-Si rappresenti graficamente la curva $\gamma$ nell’intervallo $0 \le x \le 2 \pi$ e si dimostri che essa
-è simmetrica rispetto alla retta $x= \pi$ .
+**Intersezioni con gli assi.** Per $x = 0$ si ha $f(0) = -1 - 1 = -2$. Per $y = 0$ risulta $\cos x\,(\cos x + 1) = 0$, da cui $x = \dfrac{\pi}{2}$, $x = \dfrac{3\pi}{2}$ e $x = \pi$.
 
-$y=$ f(x) $= sen2x-cosx-1 = -cos2 x-cosx , 0 \le x \le 2 \pi$
+**Segno.** Si ha $f(x) > 0$ quando $-1 < \cos x < 0$, cioè per $x \in \left(\dfrac{\pi}{2},\, \dfrac{3\pi}{2}\right)$ con $x \ne \pi$.
 
-Dominio: $0 \le x \le 2 \pi$
+**Derivata prima.** $f'(x) = 2\sin x\cos x + \sin x = \sin x\,(2\cos x + 1)$. Ponendo $f'(x) = 0$ si ottiene $\sin x = 0$ (cioè $x = 0,\ \pi,\ 2\pi$) oppure $\cos x = -\dfrac{1}{2}$ (cioè $x = \dfrac{2\pi}{3},\ \dfrac{4\pi}{3}$).
 
-Simmetrie notevoli:
+- $x = \dfrac{2\pi}{3}$: massimo relativo, $f\!\left(\dfrac{2\pi}{3}\right) = -\dfrac{1}{4} + \dfrac{1}{2} = \dfrac{1}{4}$;
+- $x = \pi$: minimo relativo, $f(\pi) = 0$;
+- $x = \dfrac{4\pi}{3}$: massimo relativo, $f\!\left(\dfrac{4\pi}{3}\right) = \dfrac{1}{4}$.
 
-Visto l’intervallo di studio, non si pone il problema se la funzione è pari o dispari.
+**Simmetria rispetto a $x = \pi$.** Verifichiamo che $f(2\pi - x) = f(x)$:
 
-Intersezioni con gli assi cartesiani:
+$$f(2\pi - x) = -\cos^2(2\pi - x) - \cos(2\pi - x) = -\cos^2 x - \cos x = f(x).$$
 
-Se $x= 0 , y= -2.$
-Se $y= 0, -cos2 x-cosx= 0 , cosx(cosx+ 1) = 0, x=$
-$\pi$
-$2 , x=$
-$2 \pi , x= \pi$
+La curva $\gamma$ è dunque simmetrica rispetto alla retta $x = \pi$.
 
-Segno della funzione:
 
-$y> 0$ se $cosx(cosx+ 1) < 0 \implies -1 < cosx< 0 \implies$
-$\pi$
-$2 < x<$
-$2 \pi$ , con $x\ne \pi$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="293.981" height="192.584" viewBox="-72 -72 220.486 144.438"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07-9.408h207.305"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M133.355-11.808c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><text x="-60.689" y="-9.408" stroke="none" font-family="cmmi10" font-size="10" transform="translate(199.857 2.153)">x</text><path fill="none" d="M-60.69 71.968V-52.825"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-63.09-50.945c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-60.689" y="-9.408" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -49.295)">y</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-60.69 53.189 2.01-.237 2.008-.697 2.008-1.151 2.008-1.589 2.009-1.998 2.008-2.383 2.009-2.731 2.008-3.04 2.008-3.304 2.009-3.523 2.008-3.69 2.009-3.806 2.008-3.872 2.008-3.884 2.009-3.848 2.008-3.763 2.009-3.63 2.008-3.459 2.008-3.246 2.009-3.005 2.008-2.732 2.009-2.44 2.008-2.13 2.008-1.814 2.009-1.493 2.008-1.174 2.009-.865 2.008-.57 2.008-.293 2.009-.042 2.008.182 2.009.376 2.008.534 2.008.659 2.009.746 2.008.798 2.009.813 2.008.796 2.008.747 2.009.67 2.008.565 2.009.445 2.008.305 2.008.155 2.009.002 2.008-.154 2.009-.304 2.008-.441 2.008-.566 2.009-.668 2.008-.746 2.009-.796 2.008-.813 2.008-.798 2.009-.747 2.008-.66 2.009-.536 2.008-.378 2.008-.185 2.009.039 2.008.29 2.009.565 2.008.861 2.008 1.17 2.009 1.489 2.008 1.81 2.009 2.127 2.008 2.435 2.008 2.73 2.009 3 2.008 3.243 2.009 3.456 2.008 3.63 2.008 3.76 2.009 3.846 2.008 3.885 2.009 3.872 2.008 3.808 2.008 3.69 2.009 3.527 2.008 3.306L104 42.365l2.008 2.735 2.008 2.388 2.009 2.004 2.008 1.594 2.009 1.156 2.008.703 2.008.242"/><path fill="none" stroke="red" stroke-width=".8" d="m-32.236 8.457 2.786-3.064 2.786-3.065 2.786-3.064 2.786-3.065 2.785-3.064 2.786-3.065 2.786-3.065 2.786-3.064 2.786-3.065 2.786-3.064 2.786-3.065 2.786-3.064 2.786-3.065 2.786-3.065 2.786-3.064 2.786-3.065 2.786-3.064 2.786-3.065 2.786-3.065 2.786-3.064 2.786-3.065 2.786-3.064 2.786-3.065 2.786-3.064"/><path fill="none" stroke="red" stroke-width=".8" d="m23.246-64.568 2.786 3.065 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.065 2.786 3.064 2.786 3.065 2.786 3.064"/><path stroke="none" d="M-14.395-9.408c0-.972-.717-1.76-1.6-1.76s-1.6.788-1.6 1.76.716 1.76 1.6 1.76c.883 0 1.6-.788 1.6-1.76m-1.6 0"/><text x="-60.689" y="-9.408" stroke="none" font-family="cmmi10" font-size="10" transform="translate(48.227 10.366)">A</text><path stroke="none" d="M74.992-9.408c0-.972-.717-1.76-1.6-1.76s-1.6.788-1.6 1.76.716 1.76 1.6 1.76c.883 0 1.6-.788 1.6-1.76m-1.6 0"/><text x="-60.689" y="-9.408" stroke="none" font-family="cmmi10" font-size="10" transform="translate(122.461 10.366)">B</text><path stroke="none" d="M30.298-58.57c0-.973-.716-1.76-1.6-1.76s-1.6.787-1.6 1.76c0 .971.716 1.76 1.6 1.76s1.6-.789 1.6-1.76m-1.6 0"/><text x="-60.689" y="-9.408" stroke="none" font-family="cmmi10" font-size="10" transform="translate(85.456 -52.696)">C</text><path fill="none" d="M28.698-11.285v3.755"/><text x="-60.689" y="-9.408" stroke="none" font-family="cmmi10" font-size="10" transform="translate(86.358 9.716)">¼</text><path fill="none" d="M118.08-11.285v3.755"/><g stroke="none" font-size="10"><text x="-60.689" y="-9.408" font-family="cmr10" transform="translate(173.24 11.855)">2</text><text x="-55.689" y="-9.408" font-family="cmmi10" transform="translate(173.24 11.855)">¼</text></g><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none" font-size="10"><text x="-60.689" y="-9.408" font-family="cmmi10" transform="translate(51.44 44.753)">f</text><text x="-54.717" y="-9.408" font-family="cmr10" transform="translate(51.44 44.753)">(</text><text x="-50.828" y="-9.408" font-family="cmmi10" transform="translate(51.44 44.753)">x</text><text x="-45.113" y="-9.408" font-family="cmr10" transform="translate(51.44 44.753)">)</text></g></g></g></svg>
+</figure>
 
-Limiti:
+## c)
 
-La funzione è continua in un intervallo chiuso e limitato.
+I punti di tangenza sono $A = \left(\dfrac{\pi}{2},\, 0\right)$ e $B = \left(\dfrac{3\pi}{2},\, 0\right)$. Le pendenze delle tangenti valgono
 
-Derivata prima:
+$$f'\!\left(\frac{\pi}{2}\right) = \sin\frac{\pi}{2}\cdot\left(2\cos\frac{\pi}{2} + 1\right) = 1, \qquad f'\!\left(\frac{3\pi}{2}\right) = \sin\frac{3\pi}{2}\cdot\left(2\cos\frac{3\pi}{2} + 1\right) = -1.$$
 
-f'(x) $= 2senxcosx+ senx\ge 0,$
-$senx(2cosx+ 1) > 0 \implies 0 < x< 2$
-$3 \pi or \pi < x< 4$
-$3 \pi$
+La tangente in $A$ è $t_A:\ y = x - \dfrac{\pi}{2}$; la tangente in $B$ è $t_B:\ y = -x + \dfrac{3\pi}{2}$.
 
-In tali intervalli la funzione è crescente.
+L'intersezione si trova risolvendo $x - \dfrac{\pi}{2} = -x + \dfrac{3\pi}{2}$, da cui $x = \pi$ e $y = \dfrac{\pi}{2}$. Quindi $C = \left(\pi,\, \dfrac{\pi}{2}\right)$.
 
-$x=$
-$3 \pi$ punto di massimo relativo (e assoluto), con ordinata: $f($
-$3 \pi ) =$
-$$ 1 4 $$
-$x=$
-$3 \pi$ punto di massimo relativo (e assoluto), con ordinata: $f($
-$3 \pi ) =$
-$$ 1 4 $$
-$x= \pi$ punto di minimo relativo, con ordinata: $f(\pi ) = 0$
+## d)
 
-Derivata seconda:
+Per la simmetria rispetto a $x = \pi$, l'area $S$ compresa tra la curva e le due tangenti è il doppio dell'area $S_1$ compresa tra la tangente in $A$ e la curva nell'intervallo $\left[\dfrac{\pi}{2},\, \pi\right]$:
 
-f''(x) $= 2 cos2 x-2sen2x+ cosx= 4 cos2 x+ cosx-2 \ge 0$ se:
+$$S_1 = \int_{\pi/2}^{\pi} \left[\left(x - \frac{\pi}{2}\right) - (-\cos^2 x - \cos x)\right] dx = \int_{\pi/2}^{\pi} \left(x - \frac{\pi}{2} + \frac{1 + \cos 2x}{2} + \cos x\right) dx.$$
 
-$cosx\le$
-$-1-\sqrt{33}$
-$\cong -0.84$ oppure $cosx\ge$
-$-1+\sqrt{33}$
-$\cong 0.53$
+Calcolando:
 
-Quindi f''(x) $\ge 0$ se $0 \le x\le 1.01, 2.57 \le x\le 3.72 , 5.27 \le x\le 2\pi$
+$$S_1 = \left[\frac{x^2}{2} + \left(\frac{1}{2} - \frac{\pi}{2}\right)x + \frac{\sin 2x}{4} + \sin x\right]_{\pi/2}^{\pi}$$
 
-in tali intervalli il grafico della funzione volge la concavità verso l’alto. Abbiamo $4$ punti di
-flesso: $x= 1.01, x= 2.57, x= 3.72 , x= 5.27$
+$$= \frac{\pi^2}{2} + \left(\frac{1}{2} - \frac{\pi}{2}\right)\pi - \frac{\pi^2}{8} - \left(\frac{1}{2} - \frac{\pi}{2}\right)\frac{\pi}{2} - 1 = \frac{\pi^2}{8} + \frac{\pi}{4} - 1.$$
 
-Il grafico della funzione è il seguente:
+Pertanto l'area totale è
 
-Dimostriamo che la curva è simmetrica rispetto alla retta $x= \pi$ . Dovrà essere:
-
-$f(2\pi -x) =$ f(x). Ed infatti risulta:
-
-$f(2\pi -x) = -cos2(2\pi -x) -cos (2\pi -x) = -cos2 x-cosx=$ f(x)
-
-Si scrivano le equazioni della retta tangenti alla curva nei suoi due punti A e $B$ di ascisse
-$\pi /2$ e $3\pi /2$ e si determini il loro punto d’intersezione $C.$
-
-$A= (\pi$
-$2 ; 0) , B= (3$
-$2 \pi ; 0)$
-
-$f' (\pi$
-$2) = 1 , f' (3$
-$2 \pi ) = -1$
-
-Tangente in A: $y= x-$
-$\pi$
-
-Tangente in $B: y= -x+$
-$2 \pi$
-
-Intersezione $C$ fra le tangenti:
-
-$x-\pi$
-$2 = -x+ 3$
-$2 \pi \implies x= \pi$
-
-$C= (\pi$ ;
-$\pi$
-
-Si calcoli l’area della parte finita di piano compresa tra la curva e le due suddette
-tangenti.
-
-Essendo la curva è simmetrica rispetto alla retta $x= \pi$ l’area richiesta $S$ è il doppio
-
-dell’area $S^{1}$ compresa tra la tangente in A e la curva nell’intervallo [
-$\pi$
-$2 ; \pi$ ].
-
-$S^{1} = \int [(x-\pi$
-$2) -(-cos2 x-cosx)]$
-$\pi$
-$\pi$
-$dx= \int (x-\pi$
-$2 + cos2 x+$ cosx) $dx=$
-$\pi$
-$\pi$
-
-$= \int (x-\pi$
-$2 + 1 + cos2x$
-$+cosx) dx= \int (x-\pi$
-$$ 2 + 1 2 + 1 $$
-$2 cos2x+$ cosx) $dx=$
-$\pi$
-$\pi$
-$\pi$
-$\pi$
-
-$2 x^{2} + (1$
-$2 -\pi$
-$2) x+ 1$
-$4 sen2x+ senx]\pi$
-$\pi$
-$2 \pi 2 + (1$
-$2 -\pi$
-$2) \pi -(\pi 2$
-$8 ) -(1$
-$2 -\pi$
-$2) ∙\pi$
-$2 -1 =$
-
-$\pi 2$
-$\pi$
-$4 -1) u^{2}$ . Quindi l’area richiesta è:
-
-$S= 2 ∙S^{1} = 2 ((\pi 2$
-$8 + \pi$
-$4 -1) u^{2}) = (\pi 2$
-$4 + \pi$
-$2 -2) u^{2} \cong 2.04 u^{2}$
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
-
-ORDINAMENTO 2008 - SESSIONE SUPPLETIVA
-
-QUESITO $1$
-
-Si determini la distanza delle due rette parallele:
-
-$3x+ y-3\sqrt{10} = 0 , 6x+ 2y+ 5\sqrt{10} = 0$
-
-La distanza richiesta è data dalla distanza di un punto di una delle due rette dall’altra retta.
-
-Scegliamo sulla prima retta il punto $P= (\sqrt{10}; 0).$ La distanza di $P$ dalla seconda retta è
-data da:
-
-$d=$
-$|ax0 + by0 + c|$
-$\sqrt{a}^{2} + b^{2}$
-$= |6\sqrt{10} + 5\sqrt{10}|$
-$$ \sqrt{36} + 4 = 11\sqrt{10} 2\sqrt{10} = 11 2 $$
-
-La distanza tra due rette è dunque uguale a
-$$ 11 2 . $$
-
-QUESITO $2$
-
-Un trapezio rettangolo è circoscritto $ad$ una semicirconferenza di raggio $r$ in modo che la
-base maggiore contenga il diametro. Si calcoli in gradi e primi (sessagesimali) l’ampiezza
-$x$ dell’angolo acuto del trapezio, affinché il solido da esso generato in una rotazione
-completa attorno alla base maggiore abbia volume minimo.
-
-Il solido richiesto è formato dal cilindro con raggio di base $AC=AF=r$ e altezza $AH$ e dal
-cono con raggio di base $DH=r$ e altezza $HE.$
-
-Risulta:
-
-$HE= DH∙cotgx=$ r∙cotgx , $FE= DE= DH$
-$senx=$
-senx , $FH= FE-HE=$
-
-$senx-r∙cotgx=$
-$senx-rcosx$
-$senx= r(1 -cosx)$
-senx
-, $AH= AF+ FH= r+ r(1 -cosx)$
-senx
-
-$= r(senx+ 1 -cosx)$
-senx
-
-V(cilindro) $= \pi ∙AC2 ∙AH= \pi ∙r^{2} ∙r(senx+ 1 -cosx)$
-senx
-$= \pi r^{3} ∙senx+ 1 -cosx$
-senx
-
-V(cono) $= 1$
-$3 \pi ∙DH2 ∙HE= 1$
-$3 \pi ∙r^{2}$ ∙ $r∙cotgx= 1$
-$3 \pi ∙r^{3}$ ∙cotgx
-
-Il volume del solido è quindi:
-
-$V= \pi r^{3} ∙senx+ 1 -cosx$
-senx
-$3 \pi ∙r^{3} ∙cotgx= \pi r^{3} (senx+ 1 -cosx$
-senx
-+ cosx
-$3senx) =$
-
-$= \pi r^{3}$ (
-$3senx+3-3cosx+cosx$
-$3senx$
-) $= \pi r^{3}$ (
-$3senx+3-2cosx$
-$3senx$
-) che è minimo se lo è:
-
-$y= 3senx+ 3 -2cosx$
-$3senx$
-, con $0 < x\le \pi$
-
-$y' = (-$ cos(x) $+ 2$
-$3)$ (cosec(x))
-$2 \ge 0$ se (- cos(x) $+ 2$
-$3) \ge 0 , cosx\le 2$
-
-Quindi la funzione è crescente se $\alpha < x<$
-$\pi$
-$2$ , con $\alpha = arccos(2/3)$ ed è decrescente se
-
-$0 < x<$ a : quindi $\alpha = arccos(2/3)$ è punto di minimo relativo (e assoluto).
-
-Il volume del solido è quindi minimo se:
-
-$x= arccos(2/3) \cong 0.841 rad\cong 48.19^\circ \cong 48^\circ 11'$
-
-QUESITO $3$
-
-Si determinino le equazioni degli asintoti della curva:
-
-f(x) $= -x+ 1 + \sqrt{x}^{2} + 2x+ 2$
-
-Poiché $x^{2} + 2x+ 2 > 0 \forall x$ , il dominio della funzione è $-\infty < x< +\infty$ ; la curva non
-potrà avere asintoti obliqui (è continua in tutto il suo dominio).
-
-Analizziamo i limiti all’infinito.
-
-$limx\to -\infty (-x+ 1 + \sqrt{x}^{2} + 2x+ 2) = +\infty$ ; vediamo se ha asintoto obliquo:
-
-Per $x\to -\infty$ risulta f(x)~ $-x+ |x| = -2x$ , quindi $m= -2$ ;
-
-$limx\to -\infty$ (f(x) $-mx) = limx\to -\infty (-x+ 1 + \sqrt{x}^{2} + 2x+ 2 + 2x) =$
-
-= lim
-$x\to -\infty (x+ 1 + \sqrt{x}^{2} + 2x+ 2) =$ lim
-$x\to -\infty$
-$(x+ 1 + \sqrt{x}^{2} + 2x+ 2) ∙(x+ 1 -\sqrt{x}^{2} + 2x+ 2)$
-$x+ 1 -\sqrt{x}^{2} + 2x+ 2$
-
-= lim
-$x\to -\infty$
-$(x+ 1)^{2} -(x^{2} + 2x+ 2)$
-$2x$
-= lim
-$x\to -\infty$
-$-1$
-$2x= 0 = q$ .
-
-Quindi per $x\to -\infty$ c’è l’asintoto obliquo di equazione $y= -2x$ .
-
-$limx\to +\infty (-x+ 1 + \sqrt{x}^{2} + 2x+ 2) =$ [F. I . $\infty -\infty$ ]
-
-$$ lim $$
-$x\to +\infty (-x+ 1 + \sqrt{x}^{2} + 2x+ 2) =$ lim
-$x\to +\infty$
-$(-x+ 1 + \sqrt{x}^{2} + 2x+ 2)(-x+ 1 -\sqrt{x}^{2} + 2x+ 2)$
-$-x+ 1 -\sqrt{x}^{2} + 2x+ 2$
-
-= lim
-$x\to +\infty$
-$(-x+ 1)^{2} -(x^{2} + 2x+ 2)$
-$-2x$
-= lim
-$x\to +\infty$
-$-4x-1$
-$-2x$
-
-Quindi per $x\to +\infty$ c’è l’asintoto orizzontale di equazione $y= 2$ .
-
-QUESITO $4$
-
-Si calcoli il limite della funzione:
-$cosx-cos2x$
-$1-cosx$
-, quando $x$ tende a $0.$
-
-$$ lim $$
-$x\to 0$
-$cosx-cos2x$
-$1 -cosx$
-= [F. I. $0$
-
-$$ lim $$
-$x\to 0$
-$cosx-cos2x$
-$1 -cosx$
-= lim
-$x\to 0$
-$cosx-2 cos2 x+ 1$
-$1 -cosx$
-= lim
-$x\to 0$
-$(2cosx+ 1)(1 -cosx)$
-$1 -cosx$
-
-$$ lim $$
-$x\to 0(2cosx+ 1) = 3$
-
-QUESITO $5$
-
-Si calcoli il valore medio della funzione f(x) $= log(x+ \sqrt{1} + x^{2})$ nell’intervallo $0 \le x \le 1.$
-
-Il valor medio f(c) è dato da:
-
-f(c) =
-$\int$ f(x)dx
-$$ b a $$
-$b-a$
-$= \int log(x+ \sqrt{1} + x^{2}) dx$
-$$ 1 0 $$
-
-Integrando per parti si ottiene:
-
-$\int log(x+ \sqrt{1} + x^{2}) dx= \int$ (x)' $∙log(x+ \sqrt{1} + x^{2}) dx=$
-
-Quindi:
-
-$\int log(x+ \sqrt{1} + x^{2}) dx$
-$$ 1 0 $$
-$= [x∙log(x+ \sqrt{1} + x^{2}) -\sqrt{1} + x^{2}]$
-$$ 0 1 = $$
-$= (log(1 + \sqrt{2}) -\sqrt{2}) -(-1) =$
-
-$= log(1 + \sqrt{2}) + 1 -\sqrt{2} \cong 0.4672 =$ valor medio
-
-QUESITO $6$
-
-Si sechi il solido di una sfera con un piano, in modo che il circolo massimo sia medio
-proporzionale fra le superficie appianate delle calotte nelle quali rimane divisa la sfera.
-
-Ricordiamo che l’area della calotta di altezza $h$ della sfera di raggio $r$ è uguale a:
-
-$A= 2\pi rh$
-
-Le due calotte individuate dal piano secante hanno aree:
-
-$A= 2\pi rh$ e $A' = 2\pi (2r-h),$ consideriamo $0 \le h\le r$
-
-Il circolo massimo ha area: $\pi r^{2}$ .
-
-Dovrà essere:
-
-$2\pi rh: \pi r^{2} = \pi r^{2}: 2\pi r(2r-h) \implies \pi 2r^{4} = 4\pi 2r2h(2r-h) \implies r^{2} = 4h( 2r-h)$
-
-$4h^{2} -8rh+ r^{2} = 0 \implies h=$
-$r(2\pm \sqrt{3})$
-, $h^{1} =$
-$r(2-\sqrt{3})$
-$\cong 0.13 r , h^{2} =$
-$r(2+\sqrt{3})$
-$\cong 1.87 r$
-
-Le due calotte hanno quindi altezze $h^{1} =$
-$r(2-\sqrt{3})$
-$\cong 0.13 r$ e $h^{2} =$
-$r(2+\sqrt{3})$
-$\cong 1.87 r$ .
-
-QUESITO $7$
-
-La regione finita di piano delimitata dalla curva di equazione $y=$ e
-$2(x+ 1)$ e dall’asse $x$
-nell’intervallo $0 \le x \le 1$ è la base di un solido $S$ le cui sezioni sono tutte esagoni regolari. Si
-calcoli il volume di $S.$
-
-Tracciamo un grafico qualitativo della funzione: $y=$ e
-$2(x+ 1).$
-
-Il volume richiesto è dato da:
-
-$V= \int$ A(x)dx
-$$ 1 0 $$
-, dove A(x) è l’area dell’esagono regolare di lato $CD=$ f(x).
-
-L’apotema a dell’esagono è data da: $a=$ f(x) $∙\sqrt{3}$
-$2$ , quindi:
-
-A(x) $= p∙a= 3f(x)$ ∙f(x) $∙\sqrt{3}$
-$$ 2 = 3 $$
-$2 \sqrt{3}$ ∙(f(x))
-$2$ . Quindi:
-
-$V= \int$ A(x)dx
-$$ 1 0 $$
-$= V= \int 3$
-$2 \sqrt{3}$ ∙(f(x))
-$2dx=$
-$$ 1 0 = 3 $$
-$2 \sqrt{3} ∙\int$ (e
-$2(x+ 1))$
-$dx=$
-$$ 1 0 $$
-
-$2 \sqrt{3} ∙\int ex(x+ 1)2dx$
-$$ 1 0 $$
-; cerchiamo, integrando per parti, una primitiva di $ex(x+ 1)^{2}$ .
-
-$= \int ex(x+ 1)2dx= \int (ex)'(x+ 1)2dx= ex(x+ 1)^{2} -\int ex∙(2(x+ 1))dx=$
-
-$= ex(x+ 1)^{2} -2 [\int$ (ex)' $∙(x+ 1)dx] = ex(x+ 1)^{2} -2 [ex(x+ 1) -\int$ exdx] =
-
-$= ex(x+ 1)^{2} -2ex(x+ 1) + 2ex+ k= ex(x^{2} + 1) + k$
-
-Quindi:
-
-$V= 3$
-$2 \sqrt{3} ∙\int ex(x+ 1)2dx$
-$$ 1 0 = 3 $$
-$2 \sqrt{3}[ex(x^{2} + 1)]0$
-$$ 1 = 3 $$
-$2 \sqrt{3}(2e-1) u^{3} \cong 11.527 u^{3}$
-
-QUESITO $8$
-
-Si stabilisca per quali valori del parametro reale $k$ esiste una piramide triangolare regolare
-tale che $k$ sia il rapporto fra il suo apotema e lo spigolo di base.
-
-Il triangolo di base ABC è equilatero; sia $l$ il suo lato. Risulta:
-
-$HZ= 1$
-$3 AZ= 1$
-$3 (l∙\sqrt{3}$
-$$ 2 ) = 1 $$
-$6 l \sqrt{3} (H$ è anche baricentro, quindi $AH= 2HZ)$
-
-Il rapporto fra apotema è spigolo di base è dato da:
-$$ VZ $$
-$BC=$
-$$ VZ $$
-$2BZ=$
-$$ 1 2 VZ $$
-$BZ=$
-$2$ tg(VB̂Z) $= k$
-
-L’angolo è compreso fra $30^\circ$ (quando $V=H$ , piramide di altezza nulla) e $90^\circ$ (quando
-l’altezza tende all’infinito); quindi:
-
-$30^\circ \le VB̂Z< 90^\circ \implies \sqrt{3}$
-$3 \le$ tg(VB̂Z) $< +\infty \implies \sqrt{3}$
-$6 \le$
-$2$ tg(VB̂Z) $< +\infty$
-
-Pertanto deve essere: $k\ge \sqrt{3}$
-
-QUESITO $9$
-
-Si scriva l’equazione della tangente al diagramma della funzione: f(x) $= (x^{2} + 1)senx$
-nel punto $P$ di ascissa $x= \pi /2.$
-
-La tangente richiesta ha equazione: $y-f($
-$\pi$
-$2) = f'$ (
-$\pi$
-$2) (x-$
-$\pi$
-
-Calcoliamo la derivata della funzione, che riscriviamo nel seguente modo:
-
-f(x) $= (x^{2} + 1)senx= eln(x^{2}+1)$
-senx
-= esenx $ln (x^{2}+1)$
-
-f'(x) = esenx $ln (x^{2}+1)$ [(cosx) $ln(x^{2} + 1) +$ senx∙
-$2x$
-$x^{2} + 1]$
-
-Pertanto: $f'$ (
-$\pi$
-$\pi 2$
-$$ 4 + 1) [ $$
-$\pi$
-$\pi 2$
-$$ 4 +1] = $$
-$\pi 2+4$
-∙
-$4\pi$
-$\pi 2+4 = \pi$ .
-Essendo $f($
-$\pi$
-$\pi 2$
-$4 + 1$ , la tangente ha equazione:
-
-$y-\pi 2$
-$4 -1 = \pi (x-\pi$
-$2) \implies y= \pi x+ 1 -\pi 2$
-
-QUESITO $10$
-
-Dato un sistema di riferimento cartesiano (ortogonale monometrico) in un piano, si dica
-che cosa rappresenta l’insieme dei punti $P(1 + t^{2}, 1 + t^{2}),$ ottenuto al variare di $t$ nei reali.
-
-Il luogo ha equazioni parametriche:
-
-${x= 1 + t^{2} \ge 1$
-$y= 1 + t^{2} \ge 1 \implies y= x$ con $x\ge 1$ e $y\ge 1$
-
-L’insieme dei punti $P(1 + t^{2}, 1 + t^{2})$ rappresenta una semiretta:
-
-Con la collaborazione di Angela Santamaria, Simona Scoleri e Stefano Scoleri
+$$S = 2S_1 = \frac{\pi^2}{4} + \frac{\pi}{2} - 2 \approx 2{,}04.$$
 
 *Fonte:* [📄 PDF p.68](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/analisi #cluster/calcolo_integrale_e_aree

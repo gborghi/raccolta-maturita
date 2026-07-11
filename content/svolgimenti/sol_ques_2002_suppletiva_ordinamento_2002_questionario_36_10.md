@@ -1,86 +1,44 @@
----
-title: 2002 Suppletiva Ordinamento — Questionario — Quesito 10 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2002_suppletiva_ordinamento_2002_questionario_36_10
-of_item: ques_2002_suppletiva_ordinamento_2002_questionario_36_10
-prova_id: prova_2002_suppletiva_ordinamento_2002_questionario_36
-anno: '2002'
-pdf: Prova_Maturita_2002.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2002
----
+
 
 **Quesito:** [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_10|2002 Suppletiva Ordinamento — Questionario — Quesito 10]] · **Prova:** [[Prove/2002_suppletiva_ordinamento_2002_questionario_36|2002 Suppletiva Ordinamento — Questionario]]
 
-Suppletiva Ordinamento 2002 -
-Questionario
+Di due rette $a$ e $b$ nello spazio ordinario si sa soltanto che entrambe sono perpendicolari a una stessa retta $p$. Si vogliono discutere quattro domande sulla loro posizione reciproca.
 
-Abbiamo quindi:
+L'osservazione chiave è che l'insieme delle rette perpendicolari a $p$ è molto ampio: per ogni punto $P$ di $p$, tutte le rette per $P$ perpendicolari a $p$ riempiono l'intero piano passante per $P$ e ortogonale a $p$. Inoltre le due rette $a$ e $b$ non sono obbligate a incontrare $p$ nello stesso punto. Questa libertà rende possibili posizioni reciproche molto diverse.
 
-$an= Sn$
-$2n^{2} = n^{2}$
-$2n^{2} = 1$
+## a)
 
-La risposta esatta è quindi la [A].
+**È possibile che $a$ e $b$ siano parallele? Sì.**
 
-QUESITO $9$
+Basta prendere $a$ e $b$ complanari con $p$: consideriamo un piano $\pi$ che contiene $p$ e in esso due rette parallele fra loro ed entrambe perpendicolari a $p$. Tali rette sono perpendicolari a $p$ e, per costruzione, parallele. Dunque la configurazione con $a \parallel b$ è possibile.
 
-Dato un tetraedro regolare, si consideri il quadrilatero avente per vertici i punti medi degli
-spigoli di due facce. Dimostrare che si tratta di un quadrato.
+## b)
 
-Per una nota proprietà dei triangoli (la
-congiungente i punti medi di due lati di un triangolo
-è parallela al terzo lato ed uguale alla sua metà)
-$KN$ ed LO son paralleli a $BC$ ed uguali alla sua
-metà, quindi sono tra di loro uguali e paralleli; in
-modo analogo $KL$ ed NO sono uguali alla meta di
-$AD$ e $ad$ esso paralleli; siccome gli spigoli del
-tetraedro sono tra di loro uguali, concludiamo che il
-quadrilatero richiesto KLON è un rombo (lati
-opposti paralleli e lati tutti uguali tra di loro).
+**È possibile che $a$ e $b$ siano ortogonali? Sì.**
 
-Per dimostrare che il quadrilatero è un quadrato
-dimostriamo che le diagonali $KO$ ed $LN$ sono
-uguali.
+Fissiamo un sistema di assi cartesiani ortogonali $x$, $y$, $z$ e scegliamo
+$$a = \text{asse } x, \qquad b = \text{asse } z, \qquad p = \text{asse } y.$$
+L'asse $x$ e l'asse $z$ sono entrambi perpendicolari all'asse $y$, quindi $a$ e $b$ sono perpendicolari a $p$; d'altra parte l'asse $x$ e l'asse $z$ sono ortogonali fra loro (si incontrano nell'origine $O$ formando un angolo retto). Dunque la configurazione con $a \perp b$ è possibile.
 
-Per l’evidente simmetria della figura, la distanza di $K$ da O (cioè del punto medio di uno
-spigolo dal punto medio dello spigolo non complanare) è uguale alla distanza di $N$ da $L (K$
-sta nella posizione di $N$ come O sta nella posizione di $L);$ concludiamo che le diagonali
-$KO$ ed $LN$ sono uguali, quindi il quadrilatero KLON (rombo) è un quadrato.
 
-QUESITO $10$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="310.279" height="189.67" viewBox="-72 -72 232.709 142.252"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><g stroke-width=".8"><path fill="none" d="m25.944 21.618-47.697 30.864"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".799968" d="M-18.244 53.93c-1.41-1.319-2.766-1.495-3.845-1.23.683-.877 1.078-2.186.453-4.013"/><g stroke="none" font-size="10"><text x="25.944" y="21.618" font-family="cmmi10" transform="translate(-94.882 42.531)">a</text><text x="34.564" y="21.618" font-family="cmr10" transform="translate(-94.882 42.531)">(asse</text><text x="59.119" y="21.618" font-family="cmmi10" transform="translate(-94.882 42.531)">x</text><text x="64.835" y="21.618" font-family="cmr10" transform="translate(-94.882 42.531)">)</text></g></g><g stroke-width=".8"><path fill="none" d="M25.944 21.618h84.559"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M108.343 18.496c.467 1.873 1.51 2.758 2.56 3.122-1.05.365-2.093 1.25-2.56 3.123"/><g stroke="none" font-size="10"><text x="25.944" y="21.618" font-family="cmmi10" transform="translate(89.091 2.5)">p</text><text x="34.309" y="21.618" font-family="cmr10" transform="translate(89.091 2.5)">(asse</text><text x="58.865" y="21.618" font-family="cmmi10" transform="translate(89.091 2.5)">y</text><text x="64.126" y="21.618" font-family="cmr10" transform="translate(89.091 2.5)">)</text></g></g><g stroke-width=".8"><path fill="none" d="M25.944 21.618v-76.022"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M22.822-52.244c1.873-.468 2.758-1.51 3.122-2.56.365 1.05 1.25 2.092 3.123 2.56"/><g stroke="none" font-size="10"><text x="25.944" y="21.618" font-family="cmmi10" transform="translate(-20.58 -83.055)">b</text><text x="33.569" y="21.618" font-family="cmr10" transform="translate(-20.58 -83.055)">(asse</text><text x="58.125" y="21.618" font-family="cmmi10" transform="translate(-20.58 -83.055)">z</text><text x="63.215" y="21.618" font-family="cmr10" transform="translate(-20.58 -83.055)">)</text></g></g><path fill="none" d="M25.944 8.815c7.072 0 12.804 5.732 12.804 12.803"/><path stroke="none" d="M27.944 21.618a2 2 0 1 0-4 0 2 2 0 0 0 4 0m-2 0"/><text x="25.944" y="21.618" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 10.366)">O</text></g></svg>
+</figure>
 
-Di due rette a, $b -$ assegnate nello spazio ordinario - si $sa$ soltanto che entrambe sono
-perpendicolari a una stessa retta $p.$
+## c)
 
-a) È possibile che le rette a, $b$ siano parallele?
-$b)$ È possibile che le rette a, $b$ siano ortogonali?
-$c)$ Le rette a, $b$ sono comunque parallele?
-$d)$ Le rette a, $b$ sono comunque ortogonali?
+**Le rette $a$ e $b$ sono comunque parallele? No.**
 
-Per ciascuna delle quattro domande motivare la relativa risposta.
+L'esempio del punto b) fornisce un controesempio: lì $a$ e $b$ sono ortogonali, quindi certamente non parallele. Perciò dalla sola ipotesi "$a$ e $b$ perpendicolari a $p$" non si può concludere che $a$ e $b$ siano parallele.
 
-Suppletiva Ordinamento 2002 -
-Questionario
+## d)
 
-a) Sì, a e $b$ possono essere parallele, basta che a, $b$ e $p$ appartengano allo stesso piano.
+**Le rette $a$ e $b$ sono comunque ortogonali? No.**
 
-$b)$ Sì, per esempio a e $b$ possono essere perpendicolari se incontrano $p$ nello stesso
-punto: si immagini un sistema di assi cartesiani ortogonali x,y,z e si consideri a
-coincidente con l’asse $x, b$ con l’asse $z$ e $p$ con l’asse $y;$ in tal caso a e $b$ sono
-perpendicolari nell’origine O degli assi cartesiani.
+L'esempio del punto a) fornisce un controesempio: lì $a$ e $b$ sono parallele, quindi non ortogonali. Perciò dalla sola ipotesi non si può concludere che $a$ e $b$ siano ortogonali.
 
-$c)$ No, per esempio nel caso $b)$ sono perpendicolari.
-
-$d)$ No, abbiamo visto nel caso a) che possono essere parallele.
-
-Con la collaborazione di Angela Santamaria
+In sintesi: la perpendicolarità di due rette a una stessa retta $p$ non determina la loro posizione reciproca, che può essere di parallelismo, di ortogonalità o intermedia.
 
 *Fonte:* [📄 PDF p.41](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

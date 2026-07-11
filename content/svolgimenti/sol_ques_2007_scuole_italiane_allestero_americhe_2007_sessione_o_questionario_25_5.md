@@ -1,59 +1,22 @@
----
-title: 2007 Estero Americhe Ordinaria — Questionario — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_5
-of_item: ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_5
-prova_id: prova_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25_5|2007 Estero Americhe Ordinaria — Questionario — Quesito 5]] · **Prova:** [[Prove/2007_scuole_italiane_allestero_americhe_2007_sessione_o_questionario_25|2007 Estero Americhe Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2007
+Siano $a$ e $b$ due numeri positivi diversi da $1$. Si dimostri che
+$$\log_a b \cdot \log_b a = 1.$$
 
-k(x) $= 3-x= a(-x):$ si ribalta il grafico di a(x) rispetto all’asse $y.$
+## Dimostrazione
 
-QUESITO $5$
+Poiché $a$ e $b$ sono positivi e diversi da $1$, entrambi i logaritmi $\log_a b$ e $\log_b a$ sono ben definiti (e diversi da zero, dato che $a\neq 1$ e $b\neq 1$).
 
-Siano a e $b$ due numeri positivi diversi da $1.$ Si dimostri che:
+Applichiamo la formula del cambiamento di base, esprimendo $\log_b a$ in base $a$:
+$$\log_b a = \frac{\log_a a}{\log_a b} = \frac{1}{\log_a b},$$
+dove si è usato $\log_a a = 1$.
 
-$logab∙logba= 1$
-
-Operiamo un passaggio di base: $logba=$
-logaa
-$logab=$
-logab. Quindi:
-
-$logab∙logba=$ logab∙
-$logab= 1$
-
-QUESITO $6$
-
-Il coefficiente angolare della tangente al grafico della funzione f(x) è, in ogni suo punto $P,$
-uguale al quadruplo della radice cubica dell’ascissa di $P.$ Si determini f(x), sapendo che il
-grafico passa per il punto A( $-1, 0).$
-
-Risulta: $m=$ f'(x) $= 4\sqrt{x}$
-quindi:
-
-f(x) $= \int 4\sqrt{x}$
-$dx= 3\sqrt{x}^{4}$
-$+ C,$
-con $f(-1) = 0,$
-quindi: $3 + C= 0, C= -3$
-
-La funzione richiesta ha equazione: f(x) $= 3x\sqrt{x}$
-$-3$ .
+Sostituendo nel prodotto si ottiene
+$$\log_a b \cdot \log_b a = \log_a b \cdot \frac{1}{\log_a b} = 1,$$
+che è quanto si voleva dimostrare. $\Rightarrow$ l'identità $\log_a b \cdot \log_b a = 1$ vale per ogni coppia di numeri positivi $a,b$ diversi da $1$.
 
 *Fonte:* [📄 PDF p.27](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

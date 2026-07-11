@@ -1,182 +1,68 @@
----
-title: 2004 Americhe australe Suppletiva — Problema 1 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47_1
-of_item: prob_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47_1
-prova_id: prova_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2004
----
+
 
 **Problema:** [[Problemi/prob_2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47_1|2004 Americhe australe Suppletiva — Problema 1 — Problema 1]] · **Prova:** [[Prove/2004_americhe_emisfero_australe_2004_sessione_suppletiv_problema1_47|2004 Americhe australe Suppletiva — Problema 1]]
 
-Americhe emisfero australe 2004
-Sessione Suppletiva - Problema $1$
+Si consideri il semicerchio $S$ di raggio $2$. Riferendolo a un sistema di assi cartesiani ortogonali monometrici con l'origine $O$ nel centro e il diametro $AB$ sull'asse $x$ (con $A=(-2,0)$ e $B=(2,0)$), il semicerchio occupa il semipiano $y\ge 0$ ed è il luogo dei punti con $x^2+y^2=4$, $y\ge 0$.
 
-Americhe emisfero australe 2004 - Sessione suppletiva
-PROBLEMA $1$
 
-Si riferisca il semicerchio $S$ di raggio $2 ad$ un conveniente sistema di coordinate
-cartesiane ortogonali e monometriche $xy$ e si determinino:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="303.844" height="173.844" viewBox="-72 -72 227.883 130.383"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 44.414h214.702"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M140.752 42.014c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(111.084 2.153)">x</text><path fill="none" d="M35.48 56.364V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M33.08-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -109.045)">y</text><path fill="none" stroke-width=".8" d="M-44.187 44.414c0-44 35.668-79.668 79.668-79.668S115.148.414 115.148 44.414"/><path fill="none" d="M-44.187 44.414h159.335"/><path fill="none" stroke="#00f" stroke-width=".8" d="M-20.844 44.414h112.65v-56.325h-112.65Z"/><path fill="none" stroke="red" stroke-width=".8" d="m-20.844 44.414 112.65-56.325"/><path fill="none" d="M-4.353 44.414c0-4.437-1.763-8.693-4.9-11.83"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-41.059 -5.814)">®</text><path stroke="none" d="M93.906 44.414a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(59.858 10.366)">E</text><path stroke="none" d="M-18.744 44.414a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-67.677 10.366)">F</text><path stroke="none" d="M93.906-11.911a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(59.858 -59.858)">D</text><path stroke="none" d="M-18.744-11.911a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-67.72 -59.858)">C</text><path stroke="none" d="M37.58 44.414a2.1 2.1 0 1 0-4.2 0 2.1 2.1 0 0 0 4.2 0m-2.1 0"/><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.953 10.366)">O</text><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(83.2 10.366)">B</text><text x="35.481" y="44.414" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-90.7 10.366)">A</text></g></svg>
+</figure>
 
-a)
+## a)
 
-Le dimensioni del rettangolo $R$ di area massima inscritto in $S.$
+Sia $D=(x,y)$ il vertice del rettangolo $R$ appartenente all'arco, con $0<x<2$ e $0<y<2$; poiché $x^2+y^2=4$ si ha $y=\sqrt{4-x^2}$. Il rettangolo $R$, di base $2x$ e altezza $y$, ha area
 
-Fissiamo il sistema di riferimento come in figura:
+$$\text{Area}(R)=2xy=2x\sqrt{4-x^2}.$$
 
-Posto $D= (x, y),$ con $0 < x< 2, 0 < y< 2$ e $x^{2} + y^{2} = 4,$ l’area del rettangolo $R$ è:
+Tale area è massima quando lo è la quantità positiva $x\sqrt{4-x^2}$, e dunque quando è massimo il suo quadrato
 
-$Area= 2xy= 2x\sqrt{4} -x^{2},$ che è massima se lo è $x\sqrt{4} -x^{2};$ essendo tale quantità
-positiva, essa è massima quando è massimo il suo quadrato: $z= x^{2}(4 -x^{2})$
+$$z=x^2\left(4-x^2\right).$$
 
-Metodo delle derivate:
-$z' = 2x(4 -x^{2}) + x^{2}(-2x) = -4x^{3} + 8x\ge 0$ se $4x(-x^{2} + 2) \ge 0,$
-$-x^{2} + 2 \ge 0,$
-$-\sqrt{2} \le x\le \sqrt{2}.$
+Derivando:
 
-Essendoci la condizione $0 < x< 2,$ la funzione è quindi crescente se $0 < x< \sqrt{2}$ e
-decrescente se $\sqrt{2} < x< 2;$ pertanto è massima se $x= \sqrt{2}.$
+$$z'=2x\left(4-x^2\right)+x^2(-2x)=-4x^3+8x=4x\left(2-x^2\right).$$
 
-Metodo elementare:
-$z= x^{2}(4 -x^{2})$ è il prodotto di due quantità a somma costante $(4)$ quindi è massimo se le
-due quantità sono uguali cioè se: $x^{2} = 4 -x^{2}, x^{2} = 2, x= \sqrt{2}.$
+Nell'intervallo $0<x<2$ si ha $z'\ge 0$ per $0<x\le\sqrt{2}$ e $z'<0$ per $\sqrt{2}<x<2$: la funzione cresce fino a $x=\sqrt{2}$ e poi decresce, quindi il massimo si ha per
 
-Il rettangolo $R$ ha area massima è quello di vertici
-$E= (\sqrt{2}; 0), D= (\sqrt{2}; \sqrt{2}), C= (-\sqrt{2}; \sqrt{2}), E= (-\sqrt{2}; 0).$ L’area massima vale $4.$
+$$x=\sqrt{2},\qquad y=\sqrt{4-2}=\sqrt{2}.$$
 
-Dimensioni del rettangolo: $ED= \sqrt{2} , EF= 2\sqrt{2}$ .
+(In alternativa, senza derivate: $z=x^2(4-x^2)$ è prodotto di due quantità a somma costante $4$, dunque massimo quando sono uguali, cioè $x^2=4-x^2\Rightarrow x^2=2\Rightarrow x=\sqrt{2}$.)
 
-Americhe emisfero australe 2004
-Sessione Suppletiva - Problema $1$
+Il rettangolo di area massima ha quindi vertici
 
-$b)$
+$$F=(-\sqrt{2},0),\quad E=(\sqrt{2},0),\quad D=(\sqrt{2},\sqrt{2}),\quad C=(-\sqrt{2},\sqrt{2}).$$
 
-L’area di ciascuna delle $3$ parti che, insieme $ad R,$ compongono $S.$
+Le sue **dimensioni** sono l'altezza $\overline{ED}=\sqrt{2}$ e la base $\overline{EF}=2\sqrt{2}$, e l'**area massima** vale
 
-E’ sufficiente calcolare l’area del triangolo mistilineo BDE, che si ottiene sottraendo al
-settore circolare DOB il triangolo DOE. Osserviamo che $OE= DE= \sqrt{2},$ quindi l’angolo
-DOE misura $45^\circ$ , pertanto il settore circolare DOB è l’ottava parte del cerchio. Perciò:
+$$\text{Area}(R)=2\sqrt{2}\cdot\sqrt{2}=4.$$
 
-Area(tr. mist. BDE) = Area(settore circ. DOB) $-Area(triang.$ DOE) $= 1$
-$8 (\pi ∙22) -1 =$
+## b)
 
-$= \pi$
-$2 -1 =$ Area(tr. mist. ACF)
+Il rettangolo $R$ divide il semicerchio $S$ in tre regioni: due triangoli mistilinei uguali (agli estremi, di tipo $BDE$ e $ACF$) e un segmento circolare (in alto, di base $CD$).
 
-La terza parte richiesta (il segmento circolare di base $CD)$ si ottiene per sottrazione:
+**Triangoli mistilinei.** Il triangolo mistilineo $BDE$ si ottiene sottraendo al settore circolare $DOB$ il triangolo $DOE$. Poiché $\overline{OE}=\overline{DE}=\sqrt{2}$, il triangolo $DOE$ è rettangolo isoscele e l'angolo $D\hat OE$ misura $45^\circ$: il settore $DOB$ è perciò l'ottava parte del cerchio. Quindi
 
-Area(segm. circ. ) = Area(semicerchio) $-Area(rettangolo) -2Area(tr.$ mist. BDE) =
+$$\text{Area(settore } DOB)=\frac{1}{8}\,\pi\cdot 2^2=\frac{\pi}{2},\qquad \text{Area}(DOE)=\frac{1}{2}\cdot\sqrt{2}\cdot\sqrt{2}=1,$$
 
-$= 2\pi -4 -2 (\pi$
-$2 -1) = \pi -2$
+$$\text{Area(tr. mist. } BDE)=\frac{\pi}{2}-1=\text{Area(tr. mist. } ACF).$$
 
-$c)$
+**Segmento circolare.** L'area del semicerchio è $\dfrac{1}{2}\pi\cdot 2^2=2\pi$; per differenza,
 
-Un’approssimazione in gradi sessagesimali dell’angolo che ciascuna diagonale di $R$
-forma con il diametro di $S$ e la misura del corrispondente arco staccato su $S.$
+$$\text{Area(segm. circ.)}=2\pi-\underbrace{4}_{R}-2\left(\frac{\pi}{2}-1\right)=2\pi-4-\pi+2=\pi-2.$$
 
-L’angolo $\alpha$ tra $FD$ ed il diametro $AB$ si ottiene nel modo
-seguente:
-$tg(\alpha ) = DE$
-$FE= \sqrt{2}$
-$$ 2\sqrt{2} = 1 $$
-$2 , \alpha = tg-1(0.5) \cong$
-$\cong 0.46 rad\cong 26.57^\circ$
+Le tre parti hanno dunque aree $\ \dfrac{\pi}{2}-1,\ \dfrac{\pi}{2}-1\ $ e $\ \pi-2$.
 
-L’arco $L$ richiesto è uguale $ad$
-$8$ della lunghezza della
-circonferenza, quindi: $L=$
-$8 ∙2\pi r=$
-$\pi$
-$2 \cong 1.57$ .
+## c)
 
-Con la collaborazione di Angela Santamaria
+Sia $\alpha$ l'angolo che la diagonale $FD$ forma con il diametro $AB$. Nel triangolo rettangolo $FED$ i cateti sono $\overline{DE}=\sqrt{2}$ e $\overline{FE}=2\sqrt{2}$, quindi
 
-Americhe emisfero australe 2004
-Sessione Suppletiva - Problema $2$
+$$\tan\alpha=\frac{\overline{DE}}{\overline{FE}}=\frac{\sqrt{2}}{2\sqrt{2}}=\frac{1}{2},\qquad \alpha=\arctan\!\frac{1}{2}\cong 0{,}46\ \text{rad}\cong 26{,}57^\circ.$$
 
-Americhe emisfero australe 2004 - Sessione suppletiva
+La diagonale incontra la semicirconferenza nel punto $D$, che sottende (a partire da $B$) un angolo al centro di $45^\circ$, cioè un ottavo dell'angolo giro. L'arco $L$ staccato su $S$ è perciò l'ottava parte dell'intera circonferenza:
 
-PROBLEMA $2$
-
-È assegnata la funzione determinata da
-$x=$
-$\sqrt{y}+ 1$
-
-Si studi e si disegni il suo grafico $\gamma$ .
-
-Esprimiamo la funzione nella forma $y=$ f(x).
-Ponendo $x>0$ ed $y>-1,$ elevando al quadrato membro a membro otteniamo:
-$x^{2} =$
-$y+ 1 , x^{2}(y+ 1) = 4 , x2y= 4 -x^{2} , y= 4 -x^{2}$
-$$ x^{2} = 4 $$
-$x^{2} -1$ (con $x> 0, y> -1)$
-
-Dobbiamo quindi studiare la funzione $y=$
-$x^{2} -1$ (con $x> 0)$
-Il grafico di questa funzione si ottiene da quello di $y=$ g(x) =
-$x^{2}$ (per $x> 0)$ con una
-traslazione di $1$ verso il basso. Questa funzione si può rappresentare facilmente:
-
-Il grafico di $f$ si ottiene dal grafico di $g$ relativo $ad x>0$ traslando verso il basso di $1.$
-
-Il grafico richiesto è quindi il seguente:
-
-Americhe emisfero australe 2004
-Sessione Suppletiva - Problema $2$
-
-Il grafico $\gamma$ richiesto è situato nel semipiano delle $x$ positive, è sempre decrescente, ha gli
-asintoti $x=0$ e $y=-1,$ taglia l’asse $x$ nel punto di ascissa $2$ ed ha la concavità sempre rivolta
-verso l’alto.
-
-Si calcoli l’area della regione $R$ racchiusa tra $\gamma$ , gli assi coordinati e la retta $y= 3.$
-
-La regione $R$ è rappresentata nella figura seguente:
-
-L’area della regione $R$ è uguale all’area del rettangolo di dimensioni $1$ e $3$ sommata
-all’area del trapezoide ABC, che si ottiene calcolando il seguente integrale:
-
-Americhe emisfero australe 2004
-Sessione Suppletiva - Problema $2$
-
-$$ \int ( 4 $$
-$x^{2} -1)$
-$$ 2 1 $$
-$dx= [-4$
-$x-x]$
-$$ 1 2 $$
-$= -2 -2 -(-4 -1) = 1$
-
-Si ha quindi:
-
-Area(R) $= 3 + 1 = 4 u^{2}$ .
-
-Si calcoli il volume del solido generato dalla rotazione completa di $R$ intorno all’asse $y.$
-
-Ricordando che $f$ è espressa dall’equazione $x=$
-$\sqrt{y}+1$ , il volume richiesto è dato da:
-
-$V= \pi \int$ (
-$\sqrt{y}+ 1$
-$$ ) 2 dy 3 0 $$
-$= \pi \int$
-$y+ 1 dy= \pi [4 ln|y+ 1|]0$
-$$ 3 3 0 $$
-$= \pi [4ln4 -0] =$
-
-$= (4\pi ∙ln4) u^{3} \cong 17.421 u^{3}.$
-
-Con la collaborazione di Angela Santamaria
+$$L=\frac{1}{8}\cdot 2\pi r=\frac{1}{8}\cdot 2\pi\cdot 2=\frac{\pi}{2}\cong 1{,}57.$$
 
 *Fonte:* [📄 PDF p.47](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

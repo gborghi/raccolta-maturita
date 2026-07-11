@@ -1,92 +1,32 @@
----
-title: 2005 Ordinaria PNI — Prova — Quesito 10 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_sessione_ordinaria_2005_prova_184_10
-of_item: ques_2005_sessione_ordinaria_2005_prova_184_10
-prova_id: prova_2005_sessione_ordinaria_2005_prova_184
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_10|2005 Ordinaria PNI — Prova — Quesito 10]] · **Prova:** [[Prove/2005_sessione_ordinaria_2005_prova_184|2005 Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2005
+Il $40\%$ della popolazione ha $60$ anni o più. Ci si chiede se l'età media possa comunque valere $30$ anni.
 
-CORSO SPERIMENTALE
+Dividiamo la popolazione in due gruppi:
 
-PIANO NAZIONALE INFORMATICA
+- il gruppo $A$, formato dal $40\%$ della popolazione con età non inferiore a $60$ anni; indichiamo con $m_A$ la sua età media, per cui $m_A \geq 60$;
+- il gruppo $B$, formato dal restante $60\%$ con età inferiore a $60$ anni; indichiamo con $m_B$ la sua età media, con $m_B \geq 0$.
 
-Tema di: MATEMATICA
+L'età media $\mu$ dell'intera popolazione è la media ponderata delle due età medie, con pesi pari alle rispettive frazioni di popolazione:
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+$$\mu = 0{,}40 \cdot m_A + 0{,}60 \cdot m_B.$$
 
-PROBLEMA $1$
+Poiché $m_A \geq 60$, il solo gruppo degli anziani porta alla media un contributo di almeno
 
-Nel piano Oxy sono date le curve $\lambda$ e $r$ d’equazioni:
-$\lambda$ :
-$$ ) y x ( 4 $$
-$x 2$
--
-e $r:$
-$$ 6 4 + $$
-$= x$
-$1.$ Si provi che $\lambda$ e $r$ non hanno punti comuni.
-$2.$ Si trovi il punto
-$\lambda$
-$\in$
-che ha distanza minima da $r.$
-$3.$ Si determini l’area della regione finita di piano racchiusa da $\lambda$ e dalla retta $s,$ simmetrica di $r$
-rispetto all’asse $x.$
-$4.$ Si determini il valore di $c$ per il quale la retta $y = c$ divide a metà l’area della regione $S$
-del I quadrante compresa tra $\lambda$ e l’asse $x.$
-$5.$ Si determini il volume del solido di base $S$ le cui sezioni ottenute con piani ortogonali all’asse $x$
-sono quadrati.
+$$0{,}40 \cdot 60 = 24 \text{ anni.}$$
 
-PROBLEMA $2$
+Questo valore, $24$, è minore di $30$: quindi il vincolo sul $40\%$ della popolazione **non** impedisce che la media raggiunga $30$ anni. Resta da vedere se il contributo del gruppo $B$ può colmare la differenza.
 
-Si consideri la funzione $f$ definita sull’intervallo [
-$+\infty$
-da:
-⎪⎩
-⎪⎨
-⎧
->
--
-$$ = = 0 x $$
+Imponiamo $\mu = 30$ nel caso limite $m_A = 60$:
 
-$$ se $$
+$$0{,}40 \cdot 60 + 0{,}60 \cdot m_B = 30 \;\Rightarrow\; 24 + 0{,}60\, m_B = 30 \;\Rightarrow\; m_B = \frac{6}{0{,}60} = 10.$$
 
-$$ 1 ) x log 2 3 ( x 2 1 ) x $$
-$(f$
-$$ 1 ) 0 $$
-$(f$
+Dunque è sufficiente che il $60\%$ della popolazione (quella con meno di $60$ anni) abbia un'età media di $10$ anni: una condizione del tutto plausibile per una popolazione molto giovane, ricca di bambini e ragazzi.
 
-e sia $C$ la sua curva rappresentativa nel riferimento Oxy, ortogonale e monometrico.
-$1.$ Si stabilisca se $f$ è continua e derivabile in $0.$
-$2.$ Si dimostri che l’equazione f(x) $= 0$ ha, sull’intervallo [
-$+\infty$
-, un’unica radice reale e se ne
-calcoli un valore approssimato con due cifre decimali esatte.
-$3.$ Si disegni $C$ e si determini l’equazione della retta $r$ tangente a $C$ nel punto di ascissa
-$x =$
-$4.$ Sia $n$ un intero naturale non nullo. Si esprima, in funzione di $n,$ l’area $An$ del dominio piano
-delimitato dalla curva $C,$ dalla retta tangente $r$ e dalle due rette:
-$$ n 1 $$
-$x =$
-$$ e 1 $$
-$x =$
-$5.$ Si calcoli il limite per
-$+\infty$
-$\to$
-di $An$ e si interpreti il risultato ottenuto.
+**Conclusione.** Sì, l'età media della popolazione può essere uguale a $30$ anni. Non c'è alcuna contraddizione: il $40\%$ di anziani spinge la media verso l'alto solo fino a un minimo di $24$ anni, e il restante $60\%$, se sufficientemente giovane (età media attorno ai $10$ anni), può portare la media complessiva esattamente a $30$. Anzi, valori di $m_A$ superiori a $60$ sono compatibili con la media $30$ a patto di abbassare corrispondentemente $m_B$ (ad esempio $m_A = 70$ richiede $m_B \approx 3{,}3$), il che mostra che la risposta resta affermativa in un ampio intervallo di situazioni.
 
 *Fonte:* [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

@@ -1,93 +1,33 @@
----
-title: 2004 Estero Americhe Suppletiva — Questionario — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_2
-of_item: ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_2
-prova_id: prova_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_2|2004 Estero Americhe Suppletiva — Questionario — Quesito 2]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28|2004 Estero Americhe Suppletiva — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2004
+Determinare la derivata della funzione $f(x)=\sqrt{x}$ usando la definizione.
 
-Americhe emisfero boreale 2004 - Suppletiva - Quesiti
+## Soluzione
 
-QUESITO $1$
+La funzione $f(x)=\sqrt{x}$ è definita per $x\ge 0$; calcoliamo la derivata in un punto $x>0$ a partire dalla definizione di derivata come limite del rapporto incrementale:
 
-Della funzione $f (x)$ si $sa$ che: f''(x) $= 2x, f'(0) = 0, f(0) =$ (
-$log2)$
-. Quale è f(x)?
+$$f'(x)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}=\lim_{h\to 0}\frac{\sqrt{x+h}-\sqrt{x}}{h}.$$
 
-$N. B.$ Supponiamo che con log si intenda il logaritmo naturale $ln$
+Il rapporto si presenta nella forma indeterminata $\frac{0}{0}$. Per rimuoverla razionalizziamo il numeratore, moltiplicando numeratore e denominatore per la quantità coniugata $\sqrt{x+h}+\sqrt{x}$:
 
-Da f''(x) $= 2x$ integrando otteniamo: f'(x) $= \int 2xdx=$
-$2x$
-$ln2 + c$
-Da $f'(0) = 0$ deduciamo:
-$ln2 + c= 0, c= -$
-$ln2$ quindi: f'(x) =
-$2x$
-$ln2 -$
-$$ 1 ln2 $$
-Integrando ancora:
-f(x) $= \int ( 2x$
-$ln2 -1$
-$ln2) dx= 2x$
-$ln2 2 -x$
-$ln2 + k$
+$$\frac{\sqrt{x+h}-\sqrt{x}}{h}=\frac{\left(\sqrt{x+h}-\sqrt{x}\right)\left(\sqrt{x+h}+\sqrt{x}\right)}{h\left(\sqrt{x+h}+\sqrt{x}\right)}=\frac{(x+h)-x}{h\left(\sqrt{x+h}+\sqrt{x}\right)}.$$
 
-Da $f(0) =$ (
-$log2)$
-deduciamo infine:
-$ln2 2 + k=$ (
-$ln2)$
-, $k= 0.$ Quindi:
+Al numeratore rimane $(x+h)-x=h$, che si semplifica con la $h$ a denominatore:
 
-f(x) =
-$2x$
-$ln22-x$
-$ln2$ .
+$$\frac{h}{h\left(\sqrt{x+h}+\sqrt{x}\right)}=\frac{1}{\sqrt{x+h}+\sqrt{x}}.$$
 
-QUESITO $2$
+A questo punto il limite non è più indeterminato: facendo tendere $h\to 0$ si ha $\sqrt{x+h}\to\sqrt{x}$, quindi
 
-Determinare la derivata della funzione $\sqrt{x}$ usando la definizione.
+$$f'(x)=\lim_{h\to 0}\frac{1}{\sqrt{x+h}+\sqrt{x}}=\frac{1}{\sqrt{x}+\sqrt{x}}=\frac{1}{2\sqrt{x}}.$$
 
-In base alla definizione di derivata si ha:
+In conclusione, per ogni $x>0$,
 
-f'(x) = lim
-$h\to 0$
-$f(x+ h) -f(x)$
-= lim
-$h\to 0$
-$\sqrt{x}+ h-\sqrt{x}$
-= lim
-$h\to 0$
-$x+ h-x$
-$h(\sqrt{x}+ h+ \sqrt{x})$
-$2\sqrt{x}$ .
+$$\frac{d}{dx}\sqrt{x}=\frac{1}{2\sqrt{x}},$$
 
-QUESITO $3$
-
-Determinare un polinomio P(x) tale che:
-
-$P(0) = P(1) = 0,$
-$P'(1) = 1$ e $\int$ P(x)dx
-$$ 1 0 = 1. $$
-
-La prima condizione ci suggerisce un polinomio del tipo P(x) $= ax(x-1)(x-b)$
-Risulta: P'(x) $= a(x-1)(x-b) + ax(x-b) + ax(x-1)$ e da $P'(1) = 1$ otteniamo:
-$a(1-b) = 1.$
+in accordo con la regola generale $\dfrac{d}{dx}x^{n}=n\,x^{\,n-1}$ applicata a $n=\tfrac{1}{2}$.
 
 *Fonte:* [📄 PDF p.28](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

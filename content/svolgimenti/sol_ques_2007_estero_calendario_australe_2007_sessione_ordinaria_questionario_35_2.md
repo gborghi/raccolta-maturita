@@ -1,57 +1,37 @@
----
-title: 2007 Estero Australe Ordinaria — Questionario — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_2
-of_item: ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_2
-prova_id: prova_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_2|2007 Estero Australe Ordinaria — Questionario — Quesito 2]] · **Prova:** [[Prove/2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35|2007 Estero Australe Ordinaria — Questionario]]
 
-Estero (Calendario australe) 2007
+Quante cifre ha il numero $5^{59}$ nella sua rappresentazione decimale? Si motivi esaurientemente la risposta.
 
-k(x) $= 3-x= a(-x):$ si ribalta il grafico di a(x) rispetto all’asse $y.$
+## Soluzione
 
-QUESITO $2$
+Il numero di cifre di un intero positivo $n$ nella rappresentazione decimale si ottiene dal suo logaritmo in base $10$. Vale infatti la proprietà seguente: se $n$ ha $k$ cifre, allora
 
-Quante cifre ha il numero $559$ nella rappresentazione decimale? Motiva esaurientemente
-la risposta.
+$$10^{\,k-1} \le n < 10^{\,k},$$
 
-Osserviamo che $log(559) = 59$ log $(5) \cong 41.24,$ quindi la parte intera di $log(559)$ è $41;$
-pertanto $559$ ha $42$ cifre (ricordiamo che la parte intera del logaritmo decimale di un
-numero è uguale al numero delle cifre diminuito di $1).$
+perché il più piccolo numero di $k$ cifre è $10^{k-1}$ e il più piccolo di $k+1$ cifre è $10^{k}$. Applicando il logaritmo decimale, che è crescente, si ottiene
 
-QUESITO $3$
+$$k-1 \le \log_{10} n < k,$$
 
-Si consideri una sfera di volume $V$ e superficie $S.$ Si dimostri che il tasso di variazione di
-$V$ rispetto al raggio è uguale a $S.$
+cioè la parte intera di $\log_{10} n$ è $k-1$. In altre parole, **il numero delle cifre è la parte intera del logaritmo decimale aumentata di $1$**:
 
-Il volume di una sfera di raggio $R$ è $V=$
-$3 \pi R^{3};$ la variazione di $V$ rispetto $ad R$ è la
-derivata di $V$ rispetto $ad R,$ quindi:
+$$k = \lfloor \log_{10} n \rfloor + 1.$$
 
-$$ dV $$
-$dR= 4\pi R^{2} =$ Superficie sfera
+Calcoliamo dunque il logaritmo decimale di $5^{59}$, sfruttando la proprietà $\log_{10}(a^b) = b\,\log_{10} a$:
 
-QUESITO $4$
+$$\log_{10}\!\left(5^{59}\right) = 59 \cdot \log_{10} 5.$$
 
-Si illustrino il significato e l’ambito di utilizzo del simbolo $(n$
-$m)$ e si risolva l’equazione:
+Poiché $\log_{10} 5 = \log_{10}\dfrac{10}{2} = 1 - \log_{10} 2 \cong 1 - 0{,}30103 = 0{,}69897$, si ha
 
-$2 (x$
-$2) = 3 (x-1$
-) con $x\in N$
+$$59 \cdot \log_{10} 5 \cong 59 \cdot 0{,}69897 \cong 41{,}24.$$
+
+La parte intera di $\log_{10}\!\left(5^{59}\right)$ è quindi $41$, e di conseguenza
+
+$$k = 41 + 1 = 42.$$
+
+Il numero $5^{59}$ ha pertanto **$42$ cifre** nella sua rappresentazione decimale.
 
 *Fonte:* [📄 PDF p.36](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

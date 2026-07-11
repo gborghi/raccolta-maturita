@@ -1,387 +1,57 @@
----
-title: 2005 Suppletiva PNI — Prova — Problema 2 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2005_sessione_suppletiva_2005_prova_167_2
-of_item: prob_2005_sessione_suppletiva_2005_prova_167_2
-prova_id: prova_2005_sessione_suppletiva_2005_prova_167
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Problema:** [[Problemi/prob_2005_sessione_suppletiva_2005_prova_167_2|2005 Suppletiva PNI — Prova — Problema 2]] · **Prova:** [[Prove/2005_sessione_suppletiva_2005_prova_167|2005 Suppletiva PNI — Prova]]
 
-Sessione suppletiva 2005
+È assegnata la funzione $f_a(x)=\dfrac{a}{1+x^2}$, con $a\in\mathbb{R}\setminus\{0\}$.
 
-CORSO SPERIMENTALE
-PIANO NAZIONALE INFORMATICA
-Tema di: MATEMATICA
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
-PROBLEMA $1.$
-Sono dati una piramide triangolare regolare e il prisma retto inscritto in essa in modo che una base sia la
-sezione della piramide con il piano equidistante dal suo vertice e dalla sua base.
-A) Ammesso di conoscere il volume della piramide, dire se è possibile calcolare il volume del prisma e
-fornire una esauriente spiegazione della risposta.
-$B)$ Posto che lo spigolo della base ABC della piramide sia lungo $4 cm:$
-$1.$ calcolare la misura dello spigolo della base MNP del prisma, complanare $ad$ ABC;
-$2.$ supposto che gli spigoli $AB$ ed $MN$ siano paralleli, riferire il piano dei triangoli ABC ed MNP $ad$
-un sistema di assi cartesiani avente l’origine in A e l’asse delle ascisse coincidente con la retta $AB$
-e trovare le coordinate dei vertici di tali triangoli;
-$3.$ determinare quindi l’equazione della parabola avente l’asse perpendicolare alla retta $AB$ e
-passante per i punti A, $B, M$ e verificare che passa pure per $N;$
-$4.$ dopo aver spiegato perché la trasformazione che muta il triangolo ABC nel triangolo MNP è una
-similitudine, trovarne le equazioni;
-$5.$ spiegare esaurientemente, col metodo preferito, com’è posizionata la circonferenza circoscritta al
-triangolo MNP rispetto al triangolo ABC.
+## 1) Limitatezza
 
-PROBLEMA $2.$
-È assegnata la funzione
-$$ ( ) 2 1 a a f x x = + $$
-, dove a è un parametro reale non nullo.
-$1.$ Dopo aver fornito la definizione di funzione limitata, spiegare perché la funzione
-$$ ( ) af $$
-$x$ è
-limitata.
-$2.$ Una volta riferito il piano $ad$ un sistema monometrico di assi cartesiani ortogonali (Oxy) ed
-indicato con A il punto di massimo del grafico $G$ della funzione quando $a>0,$ scrivere l’equazione
-della circonferenza $g$ di diametro $OA.$
-$3.$ Determinare quanti e quali punti hanno in comune la circonferenza $g$ e la curva $G,$ quando a
-varia nell’insieme dei numeri reali positivi.
-$4.$ Calcolare il valore a di a per il quale la circonferenza $g$ e la curva $G$ hanno in comune i vertici di
-un triangolo equilatero.
-$5.$ Verificare che esiste un valore $a'$ di a per il quale la funzione
-si può considerare la densità
-di probabilità di una variabile aleatoria continua e determinare la funzione di distribuzione di tale
-variabile.
-$$ ( ) ' af x $$
+Una funzione si dice **limitata** se esiste un numero $M>0$ tale che $|f(x)|\le M$ per ogni $x$ del suo dominio.
 
-Sessione suppletiva 2005
+Il dominio di $f_a$ è tutto $\mathbb{R}$ e, poiché $1+x^2\ge 1>0$, si ha
+$$0<\frac{1}{1+x^2}\le 1 .$$
+Di conseguenza $|f_a(x)|=\dfrac{|a|}{1+x^2}\le |a|$ per ogni $x$: la funzione è limitata. Più precisamente, per $a>0$
+$$0<f_a(x)\le a,\qquad \sup f_a=a\ \text{(in }x=0\text{)},\qquad \inf f_a=0\ \text{(per }|x|\to\infty\text{)},$$
+mentre per $a<0$ risulta $a\le f_a(x)<0$.
 
-QUESTIONARIO.
-$1.$ È dato un trapezio rettangolo, in cui le bisettrici degli angoli adiacenti al lato obliquo si
-intersecano in un punto del lato perpendicolare alle basi.
-Dimostrare che il triangolo avente per vertici questo punto e gli estremi del lato obliquo è
-rettangolo e trovare quale relazione lega il lato obliquo alle basi del trapezio.
-$2.$ Siano $AB, AC, AD$ tre spigoli di un cubo. Sapendo che uno spigolo è lungo $s,$ calcolare la distanza
-del vertice A dal piano dei punti $B, C, D.$
-$3.$ Alberto e Gianna sono chiamati a risolvere la seguente equazione:
-$$ 1 sin cos 4 x $$
-$x =$
-Alberto ottiene come soluzione gli angoli $x$ tali che:
-$$ 12 x k $$
-$\pi$
-$+ \pi$ oppure
-$$ 5 12 x k $$
-$\pi$
-$+ \pi (k$ intero
-qualsiasi);
-Gianna trova la seguente soluzione:
-$$ ( ) 1 12 2 k x k $$
-$\pi$
-= -
-$\pi$
-$(k$ intero qualsiasi).
-È vero o è falso che Alberto ha risolto correttamente e Gianna no?
-Fornire una risposta esauriente.
-$4.$ Si consideri la seguente equazione in $x:$
-dove $k$ è un
-parametro reale diverso da $2.$
-$$ ( ) ( ) ( ) 2 2 2 1 1 k x k x k $$
--
--
--
-Indicate con $x'$ ed x" le sue radici, calcolare i limiti di $x'+x"$ quando $k$ tende a $2,$ a $+\infty$ e a $-\infty$ .
-$5.$ Il limite della funzione (
-$$ 1 1 x x $$
--
-per $x\to 0:$
-[A] è uguale $ad 1;$
-[B] è uguale a $+\infty$ ;
-[C] non esiste;
-[D] è uguale $ad$ e;
-[E] è uguale $ad 1$
-e ,
-essendo “e” la base dei logaritmi naturali.
-Una sola risposta è corretta. Individuarla e fornirne una spiegazione esauriente.
-$6.$ Dimostrare che, se la derivata di una funzione reale di variabile reale f(x) è nulla per ogni $x$ di un
-dato intervallo $J,$ allora f(x) è costante in $J.$
-$7.$ Spiegare in maniera esauriente perché una funzione reale di variabile reale integrabile in un
-intervallo chiuso e limitato [a, b] non necessariamente ammette primitiva in [a, b].
-$8.$ In un’urna ci sono due palline bianche, in una seconda urna ci sono due palline nere e in una
-terza urna ci sono una pallina bianca e una pallina nera. Scegli a caso un’urna ed estrai, sempre a
-caso, una delle due palline in essa contenute: è bianca. Saresti disposto a scommettere alla pari
-che la pallina rimasta nell’urna che hai scelto sia essa pure bianca?
-$9.$ Si consideri il seguente sistema nelle incognite $x, y, z:$
-$$ ax y z a x ay z a x y az a $$
-⎧
-⎪⎪⎪⎪
-⎨⎪⎪⎪
-⎪⎩
+## 2) Circonferenza $\gamma$
 
-dove a è un parametro reale.
-Il sistema è:
-[A] determinato per ogni valore di a;
-[B] indeterminato per un valore di a ed impossibile per un valore di a;
-[C] indeterminato per nessun valore di a, ma impossibile per un valore di a;
-[D] impossibile per nessun valore di a, ma indeterminato per un valore di a.
-Un sola risposta è corretta: individuarla e fornire una esauriente spiegazione della scelta operata.
+Per $a>0$ il massimo di $f_a$ è nel punto $A=(0,a)$. La circonferenza $\gamma$ di diametro $OA$ ha centro nel punto medio $\left(0,\tfrac{a}{2}\right)$ e raggio $\tfrac{a}{2}$:
+$$x^2+\left(y-\frac{a}{2}\right)^2=\frac{a^2}{4}\iff x^2+y^2-ay=0 .$$
 
-Sessione suppletiva 2005
+## 3) Punti comuni a $\gamma$ e $G$
 
-$10.$ Si consideri la trasformazione geometrica di equazioni:
-$$ ' 2 1 ' 2 2 x x my y mx y = + $$
--
--
--
+Sostituendo $y=\dfrac{a}{1+x^2}$ nell'equazione $x^2+y^2-ay=0$:
+$$x^2+\frac{a^2}{(1+x^2)^2}-\frac{a^2}{1+x^2}=0 .$$
+Moltiplicando per $(1+x^2)^2$ e semplificando:
+$$x^2(1+x^2)^2-a^2x^2=0\iff x^2\big[(1+x^2)^2-a^2\big]=0 .$$
+Quindi $x=0$ (sempre) oppure $(1+x^2)^2=a^2$, cioè, essendo $a>0$, $1+x^2=a$ e dunque $x^2=a-1$. Si distinguono due casi:
 
-dove $m$ è un parametro reale.
-Trovare l’equazione del luogo geometrico dei suoi punti uniti.
-___________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è ammesso lasciare l’aula degli esami prima che siano trascorse tre ore dalla dettatura del tema.
+- se $0<a\le 1$: unica soluzione $x=0$, ossia un solo punto in comune, il vertice $A=(0,a)$;
+- se $a>1$: **tre** punti in comune, $A=(0,a)$ e $P_\pm=\big(\pm\sqrt{a-1},\,1\big)$ (poiché $y=\dfrac{a}{1+(a-1)}=1$).
 
-PNI 2005 - PROBLEMA $1$
+## 4) Triangolo equilatero
 
-$\lambda : x = 4(x-y) r: 4y= x+ 6$
+Per $a>1$ i tre punti $A,\ P_+,\ P_-$ formano un triangolo isoscele, simmetrico rispetto all'asse $y$. Le lunghezze dei lati sono
+$$|AP_\pm|=\sqrt{(a-1)+(a-1)^2}=\sqrt{a(a-1)},\qquad |P_+P_-|=2\sqrt{a-1}.$$
+Il triangolo è equilatero quando $|AP_\pm|=|P_+P_-|$:
+$$a(a-1)=4(a-1)\ \Longrightarrow\ a=4\quad(a>1).$$
+Dunque $\bar a=4$. Verifica: $A=(0,4)$, $P_\pm=(\pm\sqrt{3},1)$ e ogni lato misura $\sqrt{3+9}=\sqrt{12}=2\sqrt{3}$.
 
-Dimostriamo che le due curve non hanno punti in comune.
 
-{x $= 4(x-y)$
-$4y= x+ 6$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="269.7" height="198.713" viewBox="-72 -72 202.275 149.035"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 61.2h189.094"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M115.144 58.8c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="22.677" y="61.2" stroke="none" font-family="cmmi10" font-size="10" transform="translate(98.28 2.153)">x</text><path fill="none" d="M22.677 76.565v-135.32"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M20.277-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="22.677" y="61.2" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -125.832)">y</text><path fill="none" d="M-54.145 59.152v4.097"/><g stroke="none" font-size="8"><text x="22.677" y="61.2" font-family="cmsy8" transform="translate(-82.253 10.737)">¡</text><text x="29.288" y="61.2" font-family="cmr8" transform="translate(-82.253 10.737)">3</text></g><path fill="none" d="M-28.538 59.152v4.097"/><g stroke="none" font-size="8"><text x="22.677" y="61.2" font-family="cmsy8" transform="translate(-56.645 10.737)">¡</text><text x="29.288" y="61.2" font-family="cmr8" transform="translate(-56.645 10.737)">2</text></g><path fill="none" d="M-2.93 59.152v4.097"/><g stroke="none" font-size="8"><text x="22.677" y="61.2" font-family="cmsy8" transform="translate(-31.038 10.737)">¡</text><text x="29.288" y="61.2" font-family="cmr8" transform="translate(-31.038 10.737)">1</text></g><path fill="none" d="M48.284 59.152v4.097"/><text x="22.677" y="61.2" stroke="none" font-family="cmr8" font-size="8" transform="translate(23.482 10.737)">1</text><path fill="none" d="M73.891 59.152v4.097"/><text x="22.677" y="61.2" stroke="none" font-family="cmr8" font-size="8" transform="translate(49.09 10.737)">2</text><path fill="none" d="M99.499 59.152v4.097"/><text x="22.677" y="61.2" stroke="none" font-family="cmr8" font-size="8" transform="translate(74.697 10.737)">3</text><path fill="none" d="M24.726 35.593h-4.098"/><text x="22.677" y="61.2" stroke="none" font-family="cmr8" font-size="8" transform="translate(-9.832 -23.03)">1</text><path fill="none" d="M24.726 9.986h-4.098"/><text x="22.677" y="61.2" stroke="none" font-family="cmr8" font-size="8" transform="translate(-9.832 -48.637)">2</text><path fill="none" d="M24.726-15.622h-4.098"/><text x="22.677" y="61.2" stroke="none" font-family="cmr8" font-size="8" transform="translate(-9.832 -74.244)">3</text><path fill="none" d="M24.726-41.23h-4.098"/><text x="22.677" y="61.2" stroke="none" font-family="cmr8" font-size="8" transform="translate(-9.832 -99.851)">4</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-64.388 53.045 1.957-.348 1.956-.37 1.957-.394 1.956-.418 1.956-.448 1.957-.478 1.956-.511 1.957-.548 1.956-.586 1.956-.63 1.957-.678 1.956-.729 1.957-.787 1.956-.848 1.957-.917 1.956-.994 1.956-1.076 1.957-1.17 1.956-1.272 1.957-1.383 1.956-1.508 1.956-1.647 1.957-1.799 1.956-1.966 1.957-2.15 1.956-2.354 1.957-2.574 1.956-2.816 1.956-3.075 1.957-3.352 1.956-3.64 1.957-3.942L.174 3.404 2.13-1.11l1.957-4.768 1.956-4.955L8-15.898l1.956-5.055 1.957-4.894 1.956-4.548 1.956-3.992 1.957-3.231 1.956-2.28 1.957-1.18 1.956-.003 1.956 1.176 1.957 2.274L29.52-34.4l1.957 3.99 1.956 4.543 1.956 4.893 1.957 5.053 1.956 5.065L41.26-5.9l1.956 4.768 1.957 4.517 1.956 4.236 1.956 3.94 1.957 3.641 1.956 3.354 1.957 3.077 1.956 2.816 1.956 2.576 1.957 2.355 1.956 2.15 1.957 1.967 1.956 1.8 1.957 1.648 1.956 1.508 1.956 1.384 1.957 1.271 1.956 1.171 1.957 1.077 1.956.993 1.956.918 1.957.85 1.956.785 1.957.73 1.956.678 1.957.63 1.956.587 1.956.547 1.957.512 1.956.478 1.957.448 1.956.42 1.956.393 1.957.37 1.956.347"/><path fill="none" stroke="red" stroke-width=".8" d="M73.891 9.986c0-28.286-22.929-51.215-51.214-51.215S-28.538-18.3-28.538 9.986-5.608 61.2 22.677 61.2 73.89 38.27 73.89 9.986Zm-51.214 0"/><path stroke="none" d="M24.117-41.23a1.44 1.44 0 1 0-2.88 0 1.44 1.44 0 0 0 2.88 0m-1.44 0"/><g stroke="none" font-size="8"><text x="22.677" y="61.2" font-family="cmmi8" transform="translate(3.533 -107.962)">A</text><text x="31.405" y="61.2" font-family="cmr8" transform="translate(3.533 -107.962)">=</text><text x="40.377" y="61.2" font-family="cmr8" transform="translate(3.533 -107.962)">(0</text><text x="47.933" y="61.2" font-family="cmmi8" transform="translate(3.533 -107.962)">;</text><text x="51.711" y="61.2" font-family="cmr8" transform="translate(3.533 -107.962)">4)</text></g><path stroke="none" d="M68.469 35.593a1.44 1.44 0 1 0-2.88 0 1.44 1.44 0 0 0 2.88 0m-1.44 0"/><g stroke="none"><text x="22.677" y="61.2" font-family="cmmi8" font-size="8" transform="translate(47.885 -31.051)">P</text><text x="28.066" y="62.278" font-family="cmr6" font-size="6" transform="translate(47.885 -31.051)">+</text></g><path stroke="none" d="M-20.235 35.593a1.44 1.44 0 1 0-2.88 0 1.44 1.44 0 0 0 2.88 0m-1.44 0"/><g stroke="none"><text x="22.677" y="61.2" font-family="cmmi8" font-size="8" transform="translate(-59.551 -31.051)">P</text><text x="28.066" y="62.278" font-family="cmsy6" font-size="6" transform="translate(-59.551 -31.051)">¡</text></g><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none"><text x="22.677" y="61.2" font-family="cmmi8" font-size="8" transform="translate(65.015 -26.168)">f</text><text x="26.76" y="62.311" font-family="cmr6" font-size="6" transform="translate(65.015 -26.168)">4</text></g></g></g></svg>
+</figure>
 
-Ricavando $y$ dalla seconda equazione e sostituendola nella prima otteniamo l’equazione
-risolvente: $x -2x+ 3 = 0,$ che ha $\Delta < 0$ quindi il sistema non ammette soluzioni.
+## 5) Densità di probabilità
 
-Il punto $P$ di $\lambda$ che ha distanza minima da $r$ è dato dal punto di tangenza a $\lambda$ della retta
-parallela $ad r.$
-Rappresentiamo nello stesso sistema di riferimento la parabola $\lambda$ (in nero), la retta $r$ (in
-blu) e la tangente a $\lambda$ parallela $ad r$ (in rosso).
-
-La generica retta parallela $ad r$ ha equazione:
-$y=$
-
-$x+k$
-Imponiamo a tale retta di essere tangente alla
-parabola.
-
-$x = 4(x-y)$
-$y= 1$
-$4 x+ k$
-
-Imponendo al $\Delta$ dell’equazione risolvente di essere
-uguale a zero otteniamo $k=$
-
-. Quindi la tangente
-richiesta ha equazione $y=$
-
-$4x+$
-
-$6.$ Il punto di tangenza si ottiene intersecando tale retta
-con la parabola:
-
-$x = 4(x-y)$
-$y=$
-
-$x+$
-
-; questo sistema porta al punto $P$ richiesto: $P=$ (
-
-La retta $s,$ simmetrica di $r$ rispetto all’asse $x$ si ottiene dall’equazione di $r$ scambiando $y$ in
-$- y,$ quindi ha equazione $s: y= -$
-
-$4x-$
-
-Nella figura abbiamo rappresentato la
-parabola (in blu), la retta $r$ (in verde) e la retta
-$s$ (in rosso).
-Le ascisse dei punti di intersezione tra $s$ e la
-parabola sono $-1$ e $6$ (che si ottengono
-facilmente mettendo a sistema le equazioni
-delle due curve).
-
-L’area richiesta si ottiene risolvendo il
-seguente integrale:
-
-$Area= \int$
-((-
-
-$x + x) -(-$
-
-$x-$
-
-)) $dx$
-
-$$ = \int $$
-(-
-
-$x +$
-
-$x+$
-
-) $dx$
-
-=[-
-
-$4\cong 4. u$
-
-Rappresentiamo graficamente la parabola con la generica retta di equazione $y = c.$
-
-L’area di $S,$ per il Teorema di
-Archimede è pari a:
-Area(S) =
-$$ (4)( ) = 8 u $$
-Quindi dovrà essere:
-$S = S = 4$
-
-Mettendo a sistema l’equazione
-della retta e della parabola
-troviamo le ascisse dei punti di
-intersezione:
-$c = 2 -2\sqrt{1} -c,$
-$c = 2 -2\sqrt{1} -c$
-(con $c$ non superiore $ad 1).$
-Calcoliamo ora la distanza tra i punti A e $B;$
-$$ AB $$
-̅̅̅̅ $= c -c = 4\sqrt{1} -c$
-Applicando ancora il Teorema di Archimede otteniamo:
-Area(S ) =
-
-$(AB$
-$̅̅̅̅)(1 -c) =$
-
-da cui $AB$
-$̅̅̅̅(1 -c) = 2;$ sostituendo $ad AB$
-̅̅̅̅ il valore trovato
-prima, tenendo presente che $0<c<1,$ elevando al quadrato otteniamo la seguente
-
-equazione: $4(1 -c) = 1,$ da cui $(1 -c) = \sqrt$
-
-ed infine: $c= -\sqrt$
-
-$\cong 0. 70$
-
-L’elemento di volume $dV$ è: $dV= y dx$ dove $y$ rappresenta l’area del quadrato sezione.
-
-Integrando da $0$ a $4$ otteniamo il volume richiesto:
-
-$V= \int y$
-
-$dx= \int (-$
-
-$x + x)$
-
-$dx=[$
-
--
-
-$\cong . u$
-
-PNI 2005 - PROBLEMA $2$
-
-Consideriamo la funzione $f$ definita nell’intervallo $[0; +\infty$ [
-
-$f(0) = 1$
-f(x) $= 1$
-$2 x (3 -2$ log $x) + 1$ se $x > 0$
-
-(intendiamo log $x$ come logaritmo naturale)
-
-Stabiliamo che $f$ è continua e derivabile in $x = 0.$
-La funzione è definita per $x \ge 0$ , quindi si tratta di verificare la continuità e la derivabilità
-destra in $x = 0.$
-
-lim f(x) $= 1 = f(0)$ , quindi la funzione è continua
-
-(si osservi che lim $x$ log $x= 0)$
-
-Per $x>0$ risulta $f (x) = 2x (1 -log x),$ lim f'(x) $= 0$ : quindi la funzione è
-derivabile in $x=0$ con derivata (destra) uguale a $0.$
-
-Siccome $f(0)=1>0$ e lim f(x) $= -\infty$ , per il Teorema degli zeri la funzione ha
-almeno uno zero; risulta poi :
-
-$f (x) = 2x (1-logx) > 0$ perlog $x< 1,$ quindi per $0 < x<$ e
-
-Quindi la funzione cresce da $0 ad$ e, poi decresce, Siccome $f(0)=1$ ed $f(e)>0,$ l’equazione
-$f(x)=0$ avrà una sola radice per $x>e.$
-
-Cerchiamo ora un valore approssimato della radice con due cifre decimali esatte.
-Notiamo che: $f(2)>0, f(3)>0, f(4)>0, f(5)<0$ quindi la radice è compresa tra $4$ e $5.$
-
-Calcoliamo la derivata seconda della f(x): $f (x) = -2 ln(x)<0$ nell’intervallo $[4; 5].$
-Applichiamo il metodo delle tangenti con punto iniziale $x = 5$ (poiché f(a) $∙f''(x)<0).$
-
-$x = x -f(x$ )
-f'(x )
-
-Ponendo $x = 5$ otteniamo successivamente:
-$x = 4,715 x = 4,6903 x = 4,6901$
-
-Quindi la radice con due cifre decimali esatte è $x = 4,69$
-(valore meglio approssimato $x=4,69013...)$
-
-Rappresentiamo graficamente la funzione $f.$
-
-Abbiamo già detto che
-
-$f (x) = 2x (1-logx) > 0$ perlog $x< 1,$ quindi per $0 < x<$ e
-
-Quindi $x =$ e punto di massimo con f(e) =
-
-e $+ 1 \cong 4,7$
-$f (x) = -2$ ln(x) $\ge 0$ se $0 < x\le 1$ : quindi la funzione ha la concavità verso l’alto in tale
-intervallo, verso il basso se $x>1,$ ed in $x=1$ ha un flesso (di ordinata $5/2).$
-
-La richiesta tangente in $x=1$ (tangente inflessionale) ha coefficiente angolare:
-
-$f’(1)=2,$ quindi l’equazione è: $y-$
-
-$= 2(x-1) \implies y= 2x+$
-$$ 1 2 $$
-
-Il grafico della funzione è quindi il seguente:
-
-L’area richiesta si ottiene mediante il seguente integrale definito:
-
-A $= \int [(1$
-$2 x (3 -2$ log $x) + 1) -(2x+ 1$
-
-$dx=$
-$$ = \int (3 $$
-$2 x -2x+ 1$
-$2 -x ln x)$
-
-$dx= [-x$ ln(x)
-$+ 11 x$
-$$ 18 $$
-$-x + x$
-
-$9-11$
-$18 -log($ )
-
-$2-1$
-(Nota: l’integrale $\int x ln x dx=$
-
--
-
-, integrando per parti)
-
-Il limite richiesto è $= 1/9$ e corrisponde all’area della regione delimitata dal grafico della
-funzione, dalla tangente di flesso e dalle rette $x=0$ e $x=1$ (N.B. se $n$ tende a + infinito la
-retta $x=1/n$ tende alla retta $x=0).$
-In realtà il limite richiesto equivale all’integrale improprio:
-$$ \int [(1 $$
-$2 x (3 -2$ log $x) + 1) -(2x+ 1$
-
-$$ dx $$
+$f_{a'}$ è densità di probabilità su $\mathbb{R}$ se è non negativa (vero per $a'>0$) e se il suo integrale su tutto $\mathbb{R}$ vale $1$:
+$$\int_{-\infty}^{+\infty}\frac{a'}{1+x^2}\,dx=a'\big[\arctan x\big]_{-\infty}^{+\infty}=a'\cdot\pi .$$
+Imponendo $a'\pi=1$ si ottiene
+$$a'=\frac{1}{\pi}.$$
+Si tratta della **distribuzione di Cauchy** standard. La funzione di distribuzione è
+$$F(x)=\int_{-\infty}^{x}\frac{1}{\pi(1+t^2)}\,dt=\frac{1}{\pi}\left(\arctan x+\frac{\pi}{2}\right)=\frac{\arctan x}{\pi}+\frac{1}{2}.$$
 
 *Fonte:* [📄 PDF p.167](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

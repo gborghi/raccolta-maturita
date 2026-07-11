@@ -1,79 +1,53 @@
----
-title: 2005 PNI Straordinaria — Questionario — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_5
-of_item: ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_5
-prova_id: prova_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150_5|2005 PNI Straordinaria — Questionario — Quesito 5]] · **Prova:** [[Prove/2005_liceo_scientifico_pni_2005_sessione_straordinaria_questionario_150|2005 PNI Straordinaria — Questionario]]
 
-Liceo Scientifico PNI 2005
+Enunciare il principio d'induzione matematica e applicarlo alla dimostrazione della seguente relazione, nota come **teorema di Nicomaco**:
 
-In tutti gli altri casi la funzione si può ricondurre alla forma $(1).$ Ricordiamo infatti che la
-funzione lineare in seno e coseno, di equazione $y=$ a $senx+ b$ cosx si può sempre
-ricondurre alla forma $y= A∙sen(x+ \alpha$ ) supponendo $a>0$ (altrimenti si raccoglie $-1)$
-ponendo $A= \sqrt{a}^{2} + b^{2}$ e $\alpha =$ arctg(
-a) .
+$$\sum_{i=1}^{n} i^3 = \left(\sum_{i=1}^{n} i\right)^2 . \qquad (1)$$
 
-QUESITO $5$
+## a) Il principio d'induzione matematica
 
-Enunciare il principio d’induzione matematica e applicarlo alla dimostrazione della
-seguente relazione:
-$\sum i^{3}$
-$i=1$
-$= (\sum$ i
-$i=1$
-$$ ) 2 (1) $$
+Sia $P(n)$ una proprietà che dipende da un numero naturale $n$. Il **principio d'induzione matematica** afferma che:
 
-la quale esprime una proprietà dei numeri naturali conosciuta come «teorema di
-Nicomaco » (da Nicomaco di Gerasa, filosofo e matematico ellenico, vissuto intorno
-all’anno $100$ d.C.).
+> se $P(n)$ è vera per un numero naturale iniziale $n_0$ (base dell'induzione) e, supposta vera per un generico $n \ge n_0$ (ipotesi induttiva), si riesce a dimostrare che è vera anche per $n+1$ (passo induttivo), allora $P(n)$ è vera per ogni numero naturale $n \ge n_0$.
 
-Consideriamo un proprietà $P$ che dipende da un numero naturale $n.$
-Il principio d’induzione afferma che:
-se una proprietà $P$ è vera per un numero naturale $n^{0}$ e, supposta vera per $n$ si dimostra
-vera per $n+1,$ allora la proprietà è vera per ogni $n\ge n^{0}.$
+## b) Applicazione al teorema di Nicomaco
 
-La proprietà da dimostrare è vera per $i=1,$ infatti equivale a:
+Ricordiamo preliminarmente la formula della somma dei primi $n$ numeri naturali:
 
-$$ 13 = (1)^{2} . $$
+$$\sum_{i=1}^{n} i = 1 + 2 + \cdots + n = \frac{n(n+1)}{2},$$
 
-Supponiamo che la proprietà sia vera per $n,$ cioè che valga la $(1),$ e dimostriamo che è
-vera per $n+1,$ cioè che:
+così che la $(1)$ si può scrivere anche nella forma esplicita
 
-$\sum i^{3}$
-$n+1$
-$i=1$
-$= (\sum$ i
-$n+1$
-$i=1$
+$$\sum_{i=1}^{n} i^3 = \left(\frac{n(n+1)}{2}\right)^2 .$$
 
-Ricordiamo che la somma dei primi $n$ numeri naturali è uguale a:
+**Base dell'induzione ($n=1$).** La proprietà è vera per $n=1$, infatti
 
-$1 + 2 + ⋯+ n= n(n+ 1)$
+$$\sum_{i=1}^{1} i^3 = 1^3 = 1 = \left(\frac{1\cdot 2}{2}\right)^2 = 1^2 .$$
 
-Risulta:
+**Ipotesi induttiva.** Supponiamo che la $(1)$ sia vera per un generico $n$, cioè che valga
 
-$\sum i^{3}$
-$n+1$
-$i=1$
-$= 13 + 23 + ⋯+ n^{3} + (n+ 1)^{3} = [13 + 23 + ⋯+ n^{3}] + (n+ 1)^{3} =$
-$= (1 + 2 + ⋯+ n)2 + (n+ 1)^{3} = [n(n+ 1)$
-$$ 2 ] 2 $$
-$+ (n+ 1)^{3} = n^{2}(n+ 1)^{2}$
-$+ (n+ 1)^{3} =$
+$$\sum_{i=1}^{n} i^3 = \left(\frac{n(n+1)}{2}\right)^2 .$$
+
+**Passo induttivo.** Dimostriamo che allora è vera anche per $n+1$, cioè che
+
+$$\sum_{i=1}^{n+1} i^3 = \left(\frac{(n+1)(n+2)}{2}\right)^2 .$$
+
+Separando l'ultimo addendo e usando l'ipotesi induttiva:
+
+$$\sum_{i=1}^{n+1} i^3 = \left[\sum_{i=1}^{n} i^3\right] + (n+1)^3 = \left(\frac{n(n+1)}{2}\right)^2 + (n+1)^3 = \frac{n^2(n+1)^2}{4} + (n+1)^3 .$$
+
+Raccogliamo il fattore comune $(n+1)^2$:
+
+$$= (n+1)^2\left[\frac{n^2}{4} + (n+1)\right] = (n+1)^2 \cdot \frac{n^2 + 4n + 4}{4} = (n+1)^2 \cdot \frac{(n+2)^2}{4} = \left(\frac{(n+1)(n+2)}{2}\right)^2 .$$
+
+Poiché $\dfrac{(n+1)(n+2)}{2} = \displaystyle\sum_{i=1}^{n+1} i$, si è ottenuto proprio
+
+$$\sum_{i=1}^{n+1} i^3 = \left(\sum_{i=1}^{n+1} i\right)^2 .$$
+
+La proprietà, vera per $n=1$ e trasmessa da $n$ a $n+1$, è dunque vera per ogni numero naturale $n \ge 1$, come afferma il principio d'induzione. Questo dimostra il teorema di Nicomaco. $\;\blacksquare$
 
 *Fonte:* [📄 PDF p.153](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

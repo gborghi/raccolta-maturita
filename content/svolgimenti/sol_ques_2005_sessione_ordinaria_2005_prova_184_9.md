@@ -1,90 +1,61 @@
----
-title: 2005 Ordinaria PNI — Prova — Quesito 9 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_sessione_ordinaria_2005_prova_184_9
-of_item: ques_2005_sessione_ordinaria_2005_prova_184_9
-prova_id: prova_2005_sessione_ordinaria_2005_prova_184
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_9|2005 Ordinaria PNI — Prova — Quesito 9]] · **Prova:** [[Prove/2005_sessione_ordinaria_2005_prova_184|2005 Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2005
+Lanciando due dadi (non truccati) si vuole studiare l'evento "la somma dei due punteggi vale $10$", prima in un singolo lancio e poi ripetendo il lancio sei volte.
 
-CORSO SPERIMENTALE
+## a) Probabilità di ottenere $10$ con due dadi
 
-PIANO NAZIONALE INFORMATICA
+Il lancio di due dadi dà $6 \cdot 6 = 36$ esiti equiprobabili. La somma vale $10$ nei casi
+$$
+(4,6), \quad (5,5), \quad (6,4),
+$$
+cioè in $3$ casi favorevoli. Quindi
+$$
+p = P(\text{somma} = 10) = \frac{3}{36} = \frac{1}{12}.
+$$
 
-Tema di: MATEMATICA
+## b) Probabilità di avere esattamente due $10$ in sei lanci
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+I sei lanci sono prove ripetute indipendenti, ciascuna con probabilità di successo $p = \dfrac{1}{12}$ e di insuccesso $q = 1 - p = \dfrac{11}{12}$. Il numero $X$ di successi segue la distribuzione binomiale, per cui la probabilità di ottenere esattamente $k$ successi in $n = 6$ prove è
+$$
+P(X = k) = \binom{6}{k}\, p^{k}\, q^{\,6-k}.
+$$
 
-PROBLEMA $1$
+Per $k = 2$:
+$$
+P(X = 2) = \binom{6}{2}\left(\frac{1}{12}\right)^{2}\left(\frac{11}{12}\right)^{4}
+= 15 \cdot \frac{1}{144} \cdot \frac{14641}{20736}.
+$$
 
-Nel piano Oxy sono date le curve $\lambda$ e $r$ d’equazioni:
-$\lambda$ :
-$$ ) y x ( 4 $$
-$x 2$
--
-e $r:$
-$$ 6 4 + $$
-$= x$
-$1.$ Si provi che $\lambda$ e $r$ non hanno punti comuni.
-$2.$ Si trovi il punto
-$\lambda$
-$\in$
-che ha distanza minima da $r.$
-$3.$ Si determini l’area della regione finita di piano racchiusa da $\lambda$ e dalla retta $s,$ simmetrica di $r$
-rispetto all’asse $x.$
-$4.$ Si determini il valore di $c$ per il quale la retta $y = c$ divide a metà l’area della regione $S$
-del I quadrante compresa tra $\lambda$ e l’asse $x.$
-$5.$ Si determini il volume del solido di base $S$ le cui sezioni ottenute con piani ortogonali all’asse $x$
-sono quadrati.
+Quindi
+$$
+P(X = 2) = \frac{15 \cdot 14641}{2985984} = \frac{219615}{2985984} \approx 0{,}0735,
+$$
+cioè circa il $7{,}35\%$.
 
-PROBLEMA $2$
+## c) Probabilità di avere almeno due $10$ in sei lanci
 
-Si consideri la funzione $f$ definita sull’intervallo [
-$+\infty$
-da:
-⎪⎩
-⎪⎨
-⎧
->
--
-$$ = = 0 x $$
+L'evento "almeno due successi" è il complementare di "zero o un successo":
+$$
+P(X \ge 2) = 1 - P(X = 0) - P(X = 1).
+$$
 
-$$ se $$
+Si ha
+$$
+P(X = 0) = \left(\frac{11}{12}\right)^{6} = \frac{1771561}{2985984},
+$$
+$$
+P(X = 1) = \binom{6}{1}\left(\frac{1}{12}\right)\left(\frac{11}{12}\right)^{5}
+= 6 \cdot \frac{1}{12} \cdot \frac{161051}{248832} = \frac{966306}{2985984}.
+$$
 
-$$ 1 ) x log 2 3 ( x 2 1 ) x $$
-$(f$
-$$ 1 ) 0 $$
-$(f$
-
-e sia $C$ la sua curva rappresentativa nel riferimento Oxy, ortogonale e monometrico.
-$1.$ Si stabilisca se $f$ è continua e derivabile in $0.$
-$2.$ Si dimostri che l’equazione f(x) $= 0$ ha, sull’intervallo [
-$+\infty$
-, un’unica radice reale e se ne
-calcoli un valore approssimato con due cifre decimali esatte.
-$3.$ Si disegni $C$ e si determini l’equazione della retta $r$ tangente a $C$ nel punto di ascissa
-$x =$
-$4.$ Sia $n$ un intero naturale non nullo. Si esprima, in funzione di $n,$ l’area $An$ del dominio piano
-delimitato dalla curva $C,$ dalla retta tangente $r$ e dalle due rette:
-$$ n 1 $$
-$x =$
-$$ e 1 $$
-$x =$
-$5.$ Si calcoli il limite per
-$+\infty$
-$\to$
-di $An$ e si interpreti il risultato ottenuto.
+Pertanto
+$$
+P(X \ge 2) = 1 - \frac{1771561 + 966306}{2985984}
+= 1 - \frac{2737867}{2985984} = \frac{248117}{2985984} \approx 0{,}0831,
+$$
+cioè circa l'$8{,}31\%$.
 
 *Fonte:* [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
 

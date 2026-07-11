@@ -1,110 +1,51 @@
----
-title: 2008 Ordinamento Straordinaria — Questionario — Quesito 10 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_10
-of_item: >-
-  ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_10
-prova_id: prova_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2008
----
+
 
 **Quesito:** [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_10|2008 Ordinamento Straordinaria — Questionario — Quesito 10]] · **Prova:** [[Prove/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107|2008 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2008
-
-QUESITO $9$
-
-Si determini il campo di esistenza della funzione $y= log(\sqrt{x}^{2} -2x-x+ 4$ ) .
-
-$x^{2} -2x\ge 0$
-$\sqrt{x}^{2} -2x-x+ 4 > 0$ ; {
-$x\le 0 ; x\ge 2$
-$\sqrt{x}^{2} -2x> x-4$
-
-Risolviamo la seconda disequazione, che equivale $ai$ due seguenti sistemi:
-
-${x^{2} -2x\ge 0$
-$x-4 < 0 \cup$ {
-$x-4 \ge 0$
-$x^{2} -2x> (x-4)^{2}$
-
-${x\le 0 ; x\ge 2$
-$x< 4$
-$\cup$ { $x\ge 4$
-$6x> 16$
-
-$x\le 0 ; 2 \le x< 4 \cup x\ge 4$
-
-Unendo le soluzioni si ha: $x\le 0 ; x\ge 2$
-
-Torniamo al sistema iniziale:
-
-$x\le 0 ; x\ge 2$
-$\sqrt{x}^{2} -2x> x-4 ; {x\le 0 ; x\ge 2$
-$x\le 0 ; x\ge 2$
-
-Il campo di esistenza della funzione è: $-\infty < x\le 0 ; 2 \le x< +\infty$ .
-
-QUESITO $10$
-
 Si calcoli il limite della funzione
 
-$esenx-cosx$
-$ecosx-e$ log $(x+$ e) ,
+$$\lim_{x\to 0}\frac{e^{\sin x}-\cos x}{e^{\cos x}-e\,\ln(x+e)},$$
 
-quando $x$ tende a $0.$
+intendendo il logaritmo nella base $e$.
 
-Il limite si presenta nella forma indeterminata $0/0.$ Trasformiamo la funzione (intendiamo
-il logaritmo nella base e):
+Per $x\to 0$ il numeratore vale $e^{0}-\cos 0 = 1-1 = 0$ e il denominatore vale $e^{\cos 0}-e\,\ln(e) = e - e\cdot 1 = 0$: il limite si presenta nella forma indeterminata $\frac{0}{0}$.
 
-Liceo Scientifico Ordinamento 2008
+Conviene riscrivere numeratore e denominatore in modo da poter usare i limiti notevoli, ricordando gli sviluppi asintotici validi quando $f(x)\to 0$:
 
-$esenx-cosx$
-$ecosx-elog(x+$ e) $= (esenx-1) + (1 -cosx)$
-$ecosx-e log(e(1 + x$
-e))
-$(esenx-1) + (1 -cosx)$
-$ecosx-e (loge+ log(1 + x$
-e))
+$$e^{f(x)}-1\sim f(x),\qquad 1-\cos x\sim \tfrac{1}{2}x^{2},\qquad \ln\bigl(1+f(x)\bigr)\sim f(x).$$
 
-$= (esenx-1) + (1 -cosx)$
-$ecosx-e-e∙log(1 + x$
-e)
-~
-$senx+ 1$
-$2 x^{2}$
-$e(ecosx-1 -1) -e∙x$
-~
-$x+ 1$
-$2 x^{2}$
-$e(cosx-1) -x~$
-$e∙(-1$
-$2 x^{2}) -x$
-~
+## Numeratore
 
-~
-$-x\to -1$ se $x\to 0$ .
+Aggiungendo e togliendo $1$:
 
-Il limite della funzione per $x$ che tende a $0$ è $-1.$
+$$e^{\sin x}-\cos x = \bigl(e^{\sin x}-1\bigr) + \bigl(1-\cos x\bigr).$$
 
-N.B.
+Per $x\to 0$ si ha $e^{\sin x}-1\sim \sin x\sim x$ e $1-\cos x\sim \tfrac{1}{2}x^{2}$, quindi
 
-Ricordiamo che in base $ai$ limiti notevoli si hanno i seguenti “asintotici” quando f(x) $\to 0:$
+$$e^{\sin x}-\cos x \sim x + \tfrac{1}{2}x^{2}\sim x.$$
 
-ef(x) $-1~f(x) , 1 -cosx~ 1$
-$2 x^{2} , ln(1 +$ f(x))~f(x)
+## Denominatore
 
-Con la collaborazione di Angela Santamaria
+Poiché $\ln(x+e)=\ln\!\Bigl(e\bigl(1+\tfrac{x}{e}\bigr)\Bigr)=1+\ln\!\bigl(1+\tfrac{x}{e}\bigr)$, si ha $e\,\ln(x+e)=e+e\,\ln\!\bigl(1+\tfrac{x}{e}\bigr)$, e dunque
+
+$$e^{\cos x}-e\,\ln(x+e) = \bigl(e^{\cos x}-e\bigr) - e\,\ln\!\Bigl(1+\tfrac{x}{e}\Bigr) = e\bigl(e^{\cos x-1}-1\bigr) - e\,\ln\!\Bigl(1+\tfrac{x}{e}\Bigr).$$
+
+Per $x\to 0$: $\;e^{\cos x-1}-1\sim \cos x-1\sim -\tfrac{1}{2}x^{2}$, mentre $e\,\ln\!\bigl(1+\tfrac{x}{e}\bigr)\sim e\cdot\tfrac{x}{e}=x$. Perciò
+
+$$e^{\cos x}-e\,\ln(x+e) \sim e\Bigl(-\tfrac{1}{2}x^{2}\Bigr) - x \sim -x,$$
+
+essendo $-x$ il termine dominante (infinitesimo di ordine inferiore rispetto a $x^{2}$).
+
+## Conclusione
+
+Il rapporto è quindi asintotico a
+
+$$\frac{e^{\sin x}-\cos x}{e^{\cos x}-e\,\ln(x+e)} \sim \frac{x}{-x} = -1.$$
+
+Dunque
+
+$$\lim_{x\to 0}\frac{e^{\sin x}-\cos x}{e^{\cos x}-e\,\ln(x+e)} = -1.$$
 
 *Fonte:* [📄 PDF p.111](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -1,84 +1,52 @@
----
-title: 2004 Estero Americhe Suppletiva — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_4
-of_item: ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_4
-prova_id: prova_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_4|2004 Estero Americhe Suppletiva — Questionario — Quesito 4]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28|2004 Estero Americhe Suppletiva — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2004
+Sia $a$ un parametro reale e sia $f$ una funzione tale che
 
-Imponiamo l’ultima condizione, notando che P(x) $= ax3 -abx2 -ax2 +$ abx
+$$(a-x)\,f(x-a) + f(a-x) = a-x, \qquad \text{per ogni } x\in\mathbb{R}.$$
 
-$\int$ P(x)dx
-$$ 1 0 $$
-$= \int (ax3 -abx2 -ax2 +$ abx)dx
-$$ 1 0 = [1 $$
-$4 ax4 -1$
-$3 abx3 -1$
-$3 ax3 + 1$
-$2 abx2]$
-$$ 0 1 = $$
+Si vuole determinare $f$.
 
-$4 a-1$
-$3 ab-1$
-$3 a+ 1$
-$2 ab= 1, a(3 -4b-4 + 6b) = 12; a(2b-1) = 12$
+**Una condizione particolare.** Ponendo $x=a$ la relazione diventa
 
-Per trovare a e $b$ dobbiamo risolvere il sistema:
+$$(a-a)\,f(0) + f(0) = a-a \;\Rightarrow\; f(0) = 0.$$
 
-{ $a(1 -b) = 1$
-$a(2b-1) = 12$ ; {
-$a=$
-$1 -b (b= 1$ non è soluzione);
-$1 -b(2b-1) = 12 ; 2b-1 = 12 -12b; b= 13$
-$$ 14 $$
+**Riscrittura della relazione.** Per $x\ne a$ si può dividere entrambi i membri per $(a-x)$, ottenendo
 
-$a=$
-$1 -b= a=$
-$1 -13$
-$$ 14 = 14 $$
-$b= 13$
-$$ 14 $$
+$$f(x-a) + \frac{f(a-x)}{a-x} = 1.$$
 
-Un polinomio che soddisfa le condizioni richieste è quindi:
+Poniamo $t = a-x$, così che $x-a = -t$. La relazione diventa
 
-P(x) $= 14x(x-1) (x-13$
-$14) = 14x^{3} -27x^{2} + 13x$
+$$f(-t) + \frac{f(t)}{t} = 1.$$
 
-QUESITO $4$
+Moltiplicando per $t$ si ricava
 
-Sia a un parametro reale e sia $f$ una funzione definita da
+$$f(t) = t - t\,f(-t). \qquad (*)$$
 
-$(a-x)f(x-a) + f(a-x) = a-x$ ,
-per ogni $x\in R.$
+**Eliminazione di $f(-t)$.** Sostituendo $t$ con $-t$ nella $(*)$ si ottiene
 
-Determinare $f$ .
+$$f(-t) = -t + t\,f(t).$$
 
-Per $x=a$ deve essere: $f(0) = 0.$ Se $x\ne$ a, dividendo per $(a-x)$ la relazione diventa:
+Rimpiazzando questa espressione di $f(-t)$ nella $(*)$:
 
-$f(x-a) + f(a-x)$
-$a-x$
-$= 1$ ; posto: $a-x= t$ si ha: $f(-t) +$ f(t)
-$$ t = 1, $$
-da cui:
+$$f(t) = t - t\big(-t + t\,f(t)\big) = t + t^{2} - t^{2}f(t),$$
 
-f(t) $= t-t∙f(-t) (*)$
+da cui
 
-Quindi: $f(-t) = -t+$ t∙f(t) e sostituendo nella (*):
+$$(1+t^{2})\,f(t) = t^{2} + t \;\Rightarrow\; f(t) = \frac{t^{2}+t}{1+t^{2}} = \frac{t(t+1)}{t^{2}+1}.$$
 
-f(t) $= t-t[-t+$ t∙f(t)] $= t+ t^{2} -t2f(t), (1 + t^{2})f(t) = t^{2} + t,$ quindi:
+**Conclusione.** La funzione cercata è dunque
+
+$$f(x) = \frac{x^{2}+x}{x^{2}+1},$$
+
+che soddisfa anche la condizione $f(0)=0$ trovata inizialmente. La funzione non dipende dal parametro $a$: la relazione, valendo per ogni $x\in\mathbb{R}$, la determina in modo unico.
+
+**Verifica.** Con $t=a-x$ si ha $f(-t) = \dfrac{t^{2}-t}{t^{2}+1}$ e $f(t) = \dfrac{t^{2}+t}{t^{2}+1}$, quindi
+
+$$(a-x)\,f(x-a) + f(a-x) = t\,f(-t) + f(t) = \frac{t^{3}-t^{2}}{t^{2}+1} + \frac{t^{2}+t}{t^{2}+1} = \frac{t^{3}+t}{t^{2}+1} = t = a-x,$$
+
+come richiesto.
 
 *Fonte:* [📄 PDF p.29](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 

@@ -1,58 +1,33 @@
----
-title: 2005 Ordinamento Straordinaria — Questionario — Quesito 8 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_8
-of_item: >-
-  ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_8
-prova_id: prova_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_8|2005 Ordinamento Straordinaria — Questionario — Quesito 8]] · **Prova:** [[Prove/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135|2005 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2005
+Sia $f(x)$ una funzione continua per ogni $x$ reale tale che
+$$\int_0^2 f(x)\,dx = 4.$$
+Dei due integrali
+$$\int_0^1 f(2x)\,dx \qquad \text{e} \qquad \int_0^1 f\!\left(\tfrac{x}{2}\right)dx,$$
+in base alle sole informazioni fornite se ne può calcolare uno solo. Stabiliamo quale e spieghiamone la ragione.
 
-quanto si vuole, è in effetti verificata in un intorno di $x=0,$ come si può notare dal grafico
+## Primo integrale: $\int_0^1 f(2x)\,dx$
 
-seguente:
+Poniamo $t = 2x$, da cui $dt = 2\,dx$, ossia $dx = \tfrac{1}{2}\,dt$. Gli estremi si trasformano così: se $x = 0$ allora $t = 0$, se $x = 1$ allora $t = 2$. Sostituendo:
+$$\int_0^1 f(2x)\,dx = \int_0^2 f(t)\cdot \frac{1}{2}\,dt = \frac{1}{2}\int_0^2 f(t)\,dt.$$
+L'integrale che compare a secondo membro è proprio quello noto, e vale $4$. Dunque
+$$\int_0^1 f(2x)\,dx = \frac{1}{2}\cdot 4 = 2.$$
+Questo integrale si può quindi calcolare: la sostituzione riconduce l'intervallo di integrazione esattamente all'intervallo $[0,2]$, sul quale l'integrale di $f$ è noto.
 
-QUESITO $7$
+## Secondo integrale: $\int_0^1 f\!\left(\frac{x}{2}\right)dx$
 
-Determinare il dominio di derivabilità della funzione f(x) $= |x^{2} -1|$ .
+Poniamo ora $t = \dfrac{x}{2}$, da cui $dt = \tfrac{1}{2}\,dx$, ossia $dx = 2\,dt$. Gli estremi diventano: se $x = 0$ allora $t = 0$, se $x = 1$ allora $t = \tfrac{1}{2}$. Sostituendo:
+$$\int_0^1 f\!\left(\frac{x}{2}\right)dx = \int_0^{1/2} f(t)\cdot 2\,dt = 2\int_0^{1/2} f(t)\,dt.$$
+Il risultato dipende dal valore di $\displaystyle\int_0^{1/2} f(t)\,dt$, cioè dall'integrale di $f$ sull'intervallo $\left[0,\tfrac{1}{2}\right]$. Questo dato non è fornito: conoscere l'integrale di $f$ su $[0,2]$ non permette in alcun modo di risalire al suo integrale sul solo sottointervallo $\left[0,\tfrac{1}{2}\right]$, perché la funzione $f$ non è nota nel dettaglio (funzioni continue diverse, tutte con integrale $4$ su $[0,2]$, possono avere integrali diversi su $\left[0,\tfrac{1}{2}\right]$).
 
-La funzione ha il seguente grafico:
+## Conclusione
 
-Dal grafico si evince facilmente che la funzione
-non è derivabile in $x=1$ ed in $x= -1$ (dove ci
-sono, in particolare dei punti angolosi).
-
-Il dominio di derivabilità è quindi $x\ne \pm 1$
-
-QUESITO $8$
-
-Sia f(x) una funzione continua per ogni $x$ reale tale che $\int f(x)dx= 4$
-$$ 2 0 . $$
-Dei seguenti integrali:
-
-$\int f(2x)dx$ e $\int$ f(x
-$2) dx$
-$$ 1 0 1 0 $$
-
-se ne può calcolare uno solo in base alle informazioni fornite. Dire quale e spiegarne la
-ragione.
-
-Poniamo $2x = t,$ da cui $dx =$
-$2 dt,$ se $x = 0 t = 0$ e se $x = 1 t = 2$ quindi:
+Con le sole informazioni fornite si può calcolare **soltanto il primo integrale**, e risulta
+$$\int_0^1 f(2x)\,dx = 2,$$
+mentre il secondo integrale resta indeterminato.
 
 *Fonte:* [📄 PDF p.139](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

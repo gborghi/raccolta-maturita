@@ -1,104 +1,43 @@
----
-title: 2005 Ordinamento Straordinaria — Questionario — Quesito 9 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_9
-of_item: >-
-  ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_9
-prova_id: prova_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135_9|2005 Ordinamento Straordinaria — Questionario — Quesito 9]] · **Prova:** [[Prove/2005_liceo_scientifico_ordinamento_2005_sessione_straor_questionario_135|2005 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2005
+Si deve dimostrare la formula (relazione di Stifel)
+$$\binom{n}{k} = \binom{n-1}{k} + \binom{n-1}{k-1},$$
+dove $n$ e $k$ sono numeri naturali tali che $0 < k < n$, ed enunciare la regola del triangolo di Tartaglia che essa esprime.
 
-$\int f(2x)dx= \int$ f(t) $∙1$
-$2 dt$
-$$ 2 0 = 1 $$
-$2 \int$ f(t)dt
-$$ 2 0 = 1 $$
-$2 \int$ f(x)dx
-$$ 2 0 = 1 $$
-$2 ∙4 = 2$
-$$ 1 0 $$
+## a) Dimostrazione della formula
 
-Per valutare il secondo integrale procediamo allo stesso modo:
-Poniamo
-$2 = t,$ da cui $dx = 2dt,$ se $x = 0 t = 0$ e se $x = 1 t =$
-$2$ quindi:
+Ricordiamo la definizione di coefficiente binomiale:
+$$\binom{n}{k} = \frac{n!}{k!\,(n-k)!}.$$
 
-$\int f($
-$2) dx$
-$$ 1 0 $$
-$= \int$ f(t) $2dt$
-$$ 1 2 0 $$
-$= 2 \int$ f(x) $dx$
-$$ 1 2 0 $$
-: non calcolabile a partire dall’integrale dato.
+Sviluppiamo la somma a secondo membro:
+$$\binom{n-1}{k} + \binom{n-1}{k-1} = \frac{(n-1)!}{k!\,(n-1-k)!} + \frac{(n-1)!}{(k-1)!\,(n-k)!}.$$
 
-Quindi a partire dall’integrale dato si può calcolare solo il primo integrale.
+Per sommare le due frazioni conviene ridurle al denominatore comune $k!\,(n-k)!$. Osserviamo che
+$$(n-k)! = (n-k)\,(n-1-k)! \qquad\text{e}\qquad k! = k\,(k-1)!,$$
+quindi moltiplicando numeratore e denominatore del primo addendo per $(n-k)$ e quelli del secondo per $k$ otteniamo:
+$$\frac{(n-1)!\,(n-k)}{k!\,(n-k)!} + \frac{(n-1)!\,k}{k!\,(n-k)!} = \frac{(n-1)!\,\big[(n-k) + k\big]}{k!\,(n-k)!}.$$
 
-QUESITO $9$
+Poiché $(n-k) + k = n$, si ha
+$$\frac{(n-1)!\,n}{k!\,(n-k)!} = \frac{n!}{k!\,(n-k)!} = \binom{n}{k},$$
+dove si è usato $n\,(n-1)! = n!$. La formula è così dimostrata.
 
-Dimostrare la seguente formula:
+## b) La regola del triangolo di Tartaglia
 
-$(n$
-$k) = (n-1$
-) $+ (n-1$
-$k-1)$ ,
+Il triangolo di Tartaglia è un triangolo isoscele di numeri disposti su righe successive: nel vertice (riga $0$) e agli estremi di ogni riga compare sempre il numero $1$; ogni altro elemento interno si ottiene sommando i due numeri che gli stanno immediatamente sopra, a sinistra e a destra.
 
-dove $n, k$ sono numeri naturali tali che $0<k<n.$
-Essa spiega una delle regole sulle quali è basata la costruzione del "triangolo di
-Tartaglia" (da Niccolò Fontana, detto Tartaglia, 1505 $ca. -$ 1557): enunciarla.
+Se si indica con $\binom{n}{k}$ l'elemento di posto $k$ nella riga $n$, la formula dimostrata
+$$\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}$$
+è proprio la traduzione algebrica di questa regola: l'elemento della riga $n$ è la somma dei due elementi soprastanti della riga $n-1$. Gli elementi di ciascuna riga sono i coefficienti dello sviluppo del binomio di Newton $(a+b)^n$.
 
-Ricordiamo che:
 
-$(n$
-$k) =$
-$n!$
-$k! (n-k)!$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="167.303" height="169.943" viewBox="-72 -72 125.477 127.457"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-2.5 3.222)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-16.726 31.675)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(11.726 31.675)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-30.953 60.128)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-2.5 60.128)">2</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(25.953 60.128)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-45.18 88.58)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-16.726 88.58)">3</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(11.726 88.58)">3</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(40.18 88.58)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-59.405 117.033)">1</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-30.953 117.033)">4</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-2.5 117.033)">6</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(25.953 117.033)">4</text><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(54.405 117.033)">1</text><g stroke="#00f"><path fill="none" d="M-16.867 19.643a6.891 6.891 0 1 0-13.782 0 6.891 6.891 0 0 0 13.782 0Zm-6.89 0"/><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-16.726 88.58)">3</text></g><g stroke="#00f"><path fill="none" d="M11.586 19.643a6.891 6.891 0 1 0-13.782 0 6.891 6.891 0 0 0 13.782 0Zm-6.891 0"/><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(11.726 88.58)">3</text></g><g stroke="red"><path fill="none" d="M-2.64 48.096a6.891 6.891 0 1 0-13.783 0 6.891 6.891 0 0 0 13.783 0Zm-6.892 0"/><text x="-9.532" y="-65.715" stroke="none" font-family="cmr10" font-size="10" transform="translate(-2.5 117.033)">6</text></g><g fill="#00f" stroke="#00f"><path fill="none" d="m-20.912 25.334 8.916 16.719"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".399988" d="M-10.763 39.265c-1.092 1.013-1.293 2.08-1.139 2.964-.648-.62-1.647-1.048-3.096-.706"/></g><g fill="#00f" stroke="#00f"><path fill="none" d="m1.85 25.334-8.917 16.719"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".399988" d="M-4.065 41.523c-1.45-.342-2.448.085-3.096.706.154-.884-.047-1.951-1.139-2.964"/></g></g></svg>
+</figure>
 
-$(n-1$
-) $+ (n-1$
-$k-1) =$
-$(n-1)!$
-$k! (n-1 -k)! +$
-$(n-1)!$
-$(k-1)! (n-1 -k+ 1)! =$
-
-$(n-1)!$
-$k! (n-k-1)! +$
-$(n-1)!$
-$(k-1)! (n-k)! =$
-$(n-1)!$
-$(k-1)! k(n-1 -k)! +$
-$(n-1)!$
-$(k-1)! (n-k-1)! (n-k) = (n-1)! (n-k) + (n-1)! k$
-$k! (n-k)!$
-
-$(n-1)! (n-k+ k)$
-$k! (n-k)!$
-$= (n-1)! n$
-$k! (n-k)! =$
-$n!$
-$k! (n-k)! = (n$
-$k)$
-
-Il Triangolo di Tartaglia può essere descritto come un triangolo isoscele formato da tante
-righe, con $1$ nel vertice (riga zero) e all’inizio e alla fine di ogni riga (quindi $1$ sui lati uguali
-del triangolo). Nella seconda riga (riga $1)$ abbiamo $1$ e $1.$ Dalla terza riga in poi gli altri
-elementi si ottengono sommando i due numeri sovrastanti a destra e a sinistra. I numeri
-presenti in ogni riga sono i coefficienti dello sviluppo del binomio di Newton $(a+$ b)n, che,
+Nell'esempio in figura, l'elemento $6$ della riga $4$ si ottiene come $3 + 3$, somma dei due elementi soprastanti della riga $3$.
 
 *Fonte:* [📄 PDF p.140](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

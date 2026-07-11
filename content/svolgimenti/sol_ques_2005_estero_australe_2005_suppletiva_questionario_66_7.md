@@ -1,60 +1,32 @@
----
-title: 2005 Estero Australe Suppletiva — Questionario — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_estero_australe_2005_suppletiva_questionario_66_7
-of_item: ques_2005_estero_australe_2005_suppletiva_questionario_66_7
-prova_id: prova_2005_estero_australe_2005_suppletiva_questionario_66
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_estero_australe_2005_suppletiva_questionario_66_7|2005 Estero Australe Suppletiva — Questionario — Quesito 7]] · **Prova:** [[Prove/2005_estero_australe_2005_suppletiva_questionario_66|2005 Estero Australe Suppletiva — Questionario]]
 
-Estero (Australe) 2005
+Spiegare perché l'equazione
+$$3^{x} = -x^{2} + 5x - 8$$
+non ammette soluzioni.
 
-QUESITO $6$
+Confrontiamo il comportamento dei due membri dell'equazione, interpretandoli come due funzioni: $y = 3^{x}$ (primo membro) e $y = -x^{2} + 5x - 8$ (secondo membro). L'equazione ammette soluzioni se e solo se i loro grafici si intersecano.
 
-Fra tutte le primitive di f(x) $= 3 cos3(x)$ trovare quella il cui grafico passa per il punto
-$$ (0;5). $$
+**Primo membro.** La funzione $y = 3^{x}$ è una funzione esponenziale con base $3 > 1$: è definita e strettamente positiva su tutto $\mathbb{R}$, cioè
+$$3^{x} > 0 \qquad \text{per ogni } x \in \mathbb{R}.$$
 
-Calcoliamo la più generale primitiva della funzione data:
+**Secondo membro.** La funzione $y = -x^{2} + 5x - 8$ è una parabola con coefficiente direttivo $a = -1 < 0$, quindi con la concavità rivolta verso il basso. Il suo discriminante è
+$$\Delta = b^{2} - 4ac = 5^{2} - 4\cdot(-1)\cdot(-8) = 25 - 32 = -7 < 0,$$
+perciò la parabola non interseca l'asse $x$. Avendo concavità verso il basso e nessun punto in comune con l'asse delle ascisse, essa giace interamente sotto tale asse: il suo valore massimo è l'ordinata del vertice
+$$x_{V} = -\frac{b}{2a} = -\frac{5}{-2} = \frac{5}{2}, \qquad y_{V} = -\frac{\Delta}{4a} = -\frac{-7}{-4} = -\frac{7}{4}.$$
+Poiché il valore massimo $y_{V} = -\dfrac{7}{4} < 0$, risulta
+$$-x^{2} + 5x - 8 < 0 \qquad \text{per ogni } x \in \mathbb{R}.$$
 
-F(x) $= \int 3 cos3(x) dx= 3 \int$ cos(x) $(1 -sen2(x)) dx=$
-$= 3 \int$ cos(x) $dx-3 \int$ cos(x) $sen2(x)dx= 3sen(x) -3 [sen3(x)$
-] $+ k$
-Quindi: F(x) $= 3sen(x) -sen3(x) + k$ . Imponendo il passaggio per $(0; 5)$ si ha: $5 = k$ .
-La primitiva richiesta è quindi:
+**Conclusione.** Per ogni $x$ reale il primo membro è positivo e il secondo è negativo:
+$$3^{x} > 0 > -x^{2} + 5x - 8 \quad \Rightarrow \quad 3^{x} \neq -x^{2} + 5x - 8.$$
+I due valori non possono mai coincidere, quindi l'equazione non ammette alcuna soluzione. Graficamente, la curva esponenziale sta tutta al di sopra dell'asse $x$, mentre la parabola sta tutta al di sotto: i due grafici non si incontrano mai.
 
-F(x) $= 3sen(x) -sen3(x) + 5$
 
-QUESITO $7$
-
-Spiegare perché l’equazione $3x= -x^{2} + 5x-8$ non ammette soluzioni.
-
-Rappresentiamo graficamente le funzioni $y= 3x$ e $y= -x^{2} + 5x-8.$
-La prima è un’esponenziale con base $3$ e la seconda una parabola con vertice di
-coordinate: $xV=$
-$2 , yV= -$
-$\Delta$
-$4a= -$
-$25-32$
-$-4$
-= -
-$4 : V=$ (
-$2 ; -$
-$4).$ La parabola ha la
-concavità verso il basso e non taglia l’asse $x:$ quindi, essendo il primo membro sempre
-positivo ed il secondo sempre negativo l’equazione non può ammettere soluzioni.
-
-Graficamente:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="318.368" height="375.691" viewBox="-72 -72 238.776 281.768"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 95.63H96.825"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M94.945 93.23c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-14.026" y="95.63" stroke="none" font-family="cmmi10" font-size="10" transform="translate(114.784 2.153)">x</text><path fill="none" d="M-14.026 202.044V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-16.426-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-14.026" y="95.63" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -160.261)">y</text><path fill="none" d="M-62.396 98.048v-4.837"/><g stroke="none" font-size="8"><text x="-14.026" y="95.63" font-family="cmsy8" transform="translate(-53.8 8.27)">¡</text><text x="-7.415" y="95.63" font-family="cmr8" transform="translate(-53.8 8.27)">2</text></g><path fill="none" d="M-38.211 98.048v-4.837"/><g stroke="none" font-size="8"><text x="-14.026" y="95.63" font-family="cmsy8" transform="translate(-29.616 8.27)">¡</text><text x="-7.415" y="95.63" font-family="cmr8" transform="translate(-29.616 8.27)">1</text></g><path fill="none" d="M10.159 98.048v-4.837"/><text x="-14.026" y="95.63" stroke="none" font-family="cmr8" font-size="8" transform="translate(22.06 8.27)">1</text><path fill="none" d="M34.344 98.048v-4.837"/><text x="-14.026" y="95.63" stroke="none" font-family="cmr8" font-size="8" transform="translate(46.245 8.27)">2</text><path fill="none" d="M58.529 98.048v-4.837"/><text x="-14.026" y="95.63" stroke="none" font-family="cmr8" font-size="8" transform="translate(70.43 8.27)">3</text><path fill="none" d="M82.714 98.048v-4.837"/><text x="-14.026" y="95.63" stroke="none" font-family="cmr8" font-size="8" transform="translate(94.615 8.27)">4</text><g fill="#00f" stroke="#00f" stroke-width=".8"><path fill="none" d="m-62.396 92.943 1.475-.187 1.476-.198 1.475-.213 1.475-.228 1.476-.244 1.475-.261 1.476-.278 1.475-.298 1.475-.32 1.476-.338 1.475-.365 1.476-.39 1.475-.415 1.475-.446 1.476-.476 1.475-.51 1.476-.545 1.475-.58 1.475-.625 1.476-.665 1.475-.711 1.476-.762 1.475-.813 1.475-.871 1.476-.931 1.475-.995 1.476-1.064 1.475-1.137 1.475-1.22 1.476-1.298 1.475-1.394 1.476-1.487 1.475-1.585 1.475-1.7 1.476-1.819 1.475-1.944 1.476-2.08 1.475-2.224 1.475-2.378 1.476-2.542 1.475-2.719 1.476-2.907 1.475-3.108 1.475-3.325 1.476-3.555 1.475-3.8 1.476-4.064 1.475-4.348 1.475-4.648 1.476-4.968 1.475-5.315 1.475-5.683L15.8 1.89l1.475-6.498 1.476-6.947 1.475-7.43 1.475-7.946 1.476-8.496 1.475-9.083"/><g fill="#00f" stroke="none"><text x="-14.026" y="95.63" font-family="cmmi10" font-size="10" transform="translate(42.411 -145.818)">y</text><text x="-5.987" y="95.63" font-family="cmr10" font-size="10" transform="translate(42.411 -145.818)">=</text><text x="4.569" y="95.63" font-family="cmr10" font-size="10" transform="translate(42.411 -145.818)">3</text><text x="9.569" y="92.001" font-family="cmmi7" font-size="7" transform="translate(42.411 -145.818)">x</text></g></g><g fill="red" stroke="red" stroke-width=".8"><path fill="none" d="m10.159 192.37 1.23-3.627 1.23-3.501 1.229-3.376 1.23-3.252 1.229-3.126 1.23-3.001 1.23-2.876 1.229-2.751 1.23-2.626 1.229-2.501 1.23-2.376 1.23-2.251 1.229-2.126 1.23-2.001 1.23-1.876 1.229-1.75 1.23-1.627 1.229-1.5 1.23-1.376 1.23-1.251 1.229-1.126 1.23-1 1.23-.876 1.229-.75 1.23-.626 1.229-.5 1.23-.376 1.23-.25 1.229-.126h1.23l1.23.124 1.229.25 1.23.375 1.229.5 1.23.624 1.23.75 1.229.875 1.23 1 1.23 1.125 1.229 1.25 1.23 1.375 1.229 1.5 1.23 1.625 1.23 1.75 1.229 1.875 1.23 2 1.229 2.125 1.23 2.25 1.23 2.376 1.229 2.5 1.23 2.626 1.23 2.75 1.229 2.875 1.23 3 1.229 3.126 1.23 3.25 1.23 3.376 1.229 3.5 1.23 3.627"/><g fill="red" stroke="none"><text x="-14.026" y="95.63" font-family="cmmi10" font-size="10" transform="translate(100.466 108.59)">y</text><text x="-5.987" y="95.63" font-family="cmr10" font-size="10" transform="translate(100.466 108.59)">=</text><text x="4.569" y="95.63" font-family="cmsy10" font-size="10" transform="translate(100.466 108.59)">¡</text><text x="12.346" y="95.63" font-family="cmmi10" font-size="10" transform="translate(100.466 108.59)">x</text><text x="18.062" y="92.001" font-family="cmr7" font-size="7" transform="translate(100.466 108.59)">2</text><text x="24.77" y="95.63" font-family="cmr10" font-size="10" transform="translate(100.466 108.59)">+</text><text x="34.77" y="95.63" font-family="cmr10" font-size="10" transform="translate(100.466 108.59)">5</text><text x="39.77" y="95.63" font-family="cmmi10" font-size="10" transform="translate(100.466 108.59)">x</text><text x="47.708" y="95.63" font-family="cmsy10" font-size="10" transform="translate(100.466 108.59)">¡</text><text x="57.707" y="95.63" font-family="cmr10" font-size="10" transform="translate(100.466 108.59)">8</text></g></g><path stroke="none" d="M47.711 137.954a1.275 1.275 0 1 0-2.55 0 1.275 1.275 0 0 0 2.55 0m-1.275 0"/><g stroke="none"><text x="-14.026" y="95.63" font-family="cmmi8" font-size="8" transform="translate(63.995 34.79)">V</text><text x="-5.77" y="88.03" font-family="cmex10" font-size="10" transform="translate(63.995 34.79)">¡</text><text x=".013" y="92.359" font-family="cmr6" font-size="6" transform="translate(63.995 34.79)">5</text><path d="M64.008 128.22h3.667v.4h-3.667z"/><text x=".013" y="98.767" font-family="cmr6" font-size="6" transform="translate(63.995 34.79)">2</text><text x="4.879" y="95.63" font-family="cmmi8" font-size="8" transform="translate(63.995 34.79)">;</text><text x="8.657" y="95.63" font-family="cmsy8" font-size="8" transform="translate(63.995 34.79)">¡</text><text x="16.469" y="92.359" font-family="cmr6" font-size="6" transform="translate(63.995 34.79)">7</text><path d="M80.464 128.22h3.667v.4h-3.667z"/><text x="16.469" y="98.767" font-family="cmr6" font-size="6" transform="translate(63.995 34.79)">4</text><text x="21.335" y="88.03" font-family="cmex10" font-size="10" transform="translate(63.995 34.79)">¢</text></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.69](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

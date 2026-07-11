@@ -1,92 +1,53 @@
----
-title: 2005 Ordinaria PNI — Prova — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_sessione_ordinaria_2005_prova_184_7
-of_item: ques_2005_sessione_ordinaria_2005_prova_184_7
-prova_id: prova_2005_sessione_ordinaria_2005_prova_184
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_7|2005 Ordinaria PNI — Prova — Quesito 7]] · **Prova:** [[Prove/2005_sessione_ordinaria_2005_prova_184|2005 Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2005
+Si chiede di definire il fattoriale $n!$, di illustrarne il significato nel calcolo combinatorio e di spiegarne il legame con i coefficienti binomiali.
 
-CORSO SPERIMENTALE
+## a) Definizione di $n!$ e suo significato combinatorio
 
-PIANO NAZIONALE INFORMATICA
+Dato un numero naturale $n$, si chiama **fattoriale di $n$** il prodotto di tutti gli interi positivi da $1$ fino a $n$:
 
-Tema di: MATEMATICA
+$$n! = n \cdot (n-1) \cdot (n-2) \cdots 2 \cdot 1.$$
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+Si pone inoltre, per convenzione,
 
-PROBLEMA $1$
+$$0! = 1, \qquad 1! = 1.$$
 
-Nel piano Oxy sono date le curve $\lambda$ e $r$ d’equazioni:
-$\lambda$ :
-$$ ) y x ( 4 $$
-$x 2$
--
-e $r:$
-$$ 6 4 + $$
-$= x$
-$1.$ Si provi che $\lambda$ e $r$ non hanno punti comuni.
-$2.$ Si trovi il punto
-$\lambda$
-$\in$
-che ha distanza minima da $r.$
-$3.$ Si determini l’area della regione finita di piano racchiusa da $\lambda$ e dalla retta $s,$ simmetrica di $r$
-rispetto all’asse $x.$
-$4.$ Si determini il valore di $c$ per il quale la retta $y = c$ divide a metà l’area della regione $S$
-del I quadrante compresa tra $\lambda$ e l’asse $x.$
-$5.$ Si determini il volume del solido di base $S$ le cui sezioni ottenute con piani ortogonali all’asse $x$
-sono quadrati.
+Vale la comoda relazione ricorsiva $n! = n \cdot (n-1)!$.
 
-PROBLEMA $2$
+Nel calcolo combinatorio $n!$ rappresenta il **numero delle permutazioni** di $n$ oggetti distinti, cioè il numero dei modi in cui si possono ordinare $n$ oggetti diversi in fila. Infatti il primo posto può essere occupato in $n$ modi, il secondo (esaurito il primo) in $n-1$ modi, il terzo in $n-2$ modi, e così via fino all'ultimo posto, che si riempie in un solo modo: per il principio di moltiplicazione il numero totale degli ordinamenti è
 
-Si consideri la funzione $f$ definita sull’intervallo [
-$+\infty$
-da:
-⎪⎩
-⎪⎨
-⎧
->
--
-$$ = = 0 x $$
+$$n \cdot (n-1) \cdot (n-2) \cdots 1 = n!.$$
 
-$$ se $$
+## b) Legame con i coefficienti binomiali
 
-$$ 1 ) x log 2 3 ( x 2 1 ) x $$
-$(f$
-$$ 1 ) 0 $$
-$(f$
+Il **coefficiente binomiale** $\binom{n}{k}$ (con $0 \le k \le n$) si definisce come
 
-e sia $C$ la sua curva rappresentativa nel riferimento Oxy, ortogonale e monometrico.
-$1.$ Si stabilisca se $f$ è continua e derivabile in $0.$
-$2.$ Si dimostri che l’equazione f(x) $= 0$ ha, sull’intervallo [
-$+\infty$
-, un’unica radice reale e se ne
-calcoli un valore approssimato con due cifre decimali esatte.
-$3.$ Si disegni $C$ e si determini l’equazione della retta $r$ tangente a $C$ nel punto di ascissa
-$x =$
-$4.$ Sia $n$ un intero naturale non nullo. Si esprima, in funzione di $n,$ l’area $An$ del dominio piano
-delimitato dalla curva $C,$ dalla retta tangente $r$ e dalle due rette:
-$$ n 1 $$
-$x =$
-$$ e 1 $$
-$x =$
-$5.$ Si calcoli il limite per
-$+\infty$
-$\to$
-di $An$ e si interpreti il risultato ottenuto.
+$$\binom{n}{k} = \frac{n!}{k!\,(n-k)!}.$$
+
+Esso conta il numero delle **combinazioni** di $n$ oggetti presi $k$ alla volta, cioè il numero dei sottoinsiemi di $k$ elementi che si possono formare da un insieme di $n$ elementi (senza tener conto dell'ordine).
+
+Il perché di questa formula si comprende passando attraverso le disposizioni. Il numero delle **disposizioni semplici** di $n$ oggetti a gruppi di $k$ (sequenze ordinate di $k$ oggetti distinti scelti tra gli $n$) è
+
+$$D_{n,k} = n \cdot (n-1) \cdots (n-k+1) = \frac{n!}{(n-k)!},$$
+
+per lo stesso principio di moltiplicazione visto sopra. In una disposizione conta l'ordine, in una combinazione no: ogni singolo sottoinsieme di $k$ elementi genera esattamente $k!$ disposizioni diverse, tante quanti sono i modi di ordinare quei $k$ elementi. Perciò, per passare dalle disposizioni alle combinazioni, si deve dividere per $k!$:
+
+$$\binom{n}{k} = \frac{D_{n,k}}{k!} = \frac{n!}{k!\,(n-k)!}.$$
+
+Questo spiega il legame: **il fattoriale conta gli ordinamenti**, e il coefficiente binomiale nasce proprio come rapporto di fattoriali perché elimina, dividendo per $k!$, i conteggi ripetuti dovuti all'ordine.
+
+Da questa definizione discendono le proprietà tipiche dei coefficienti binomiali, ad esempio la simmetria
+
+$$\binom{n}{k} = \binom{n}{n-k},$$
+
+evidente dallo scambio di $k$ con $n-k$ nella formula, e il loro ruolo nello sviluppo della potenza di un binomio (formula di Newton):
+
+$$(a+b)^n = \sum_{k=0}^{n} \binom{n}{k}\, a^{k}\, b^{\,n-k},$$
+
+in cui $\binom{n}{k}$ conta in quanti modi si può scegliere il fattore $a$ esattamente in $k$ degli $n$ binomiali che si moltiplicano.
 
 *Fonte:* [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

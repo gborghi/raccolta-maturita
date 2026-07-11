@@ -1,81 +1,50 @@
----
-title: 2003 Americhe Suppletiva — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_4
-of_item: ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_4
-prova_id: prova_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2003
----
+
 
 **Quesito:** [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60_4|2003 Americhe Suppletiva — Questionario — Quesito 4]] · **Prova:** [[Prove/2003_scuole_italiane_allestero_americhe_2003_sessione_s_questionario_60|2003 Americhe Suppletiva — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2003
+Si consideri l'espressione
 
-QUESITO $4$
+$$E=\frac{\log_{1/4} 2 + \log_{3} \sqrt[3]{9}}{\log_{2} \sqrt[4]{8} - \log_{1/2} 8}$$
 
-Si consideri la seguente espressione:
+e si stabilisca quale dei valori seguenti essa assume:
 
-$log1/4 2 + log3 \sqrt{9}$
-$log2 \sqrt{8}$
-$-log1/2 8$
+$$\text{a)}\ \frac{2}{3}\qquad \text{b)}\ \frac{1}{23}\qquad \text{c)}\ \frac{2}{45}\qquad \text{d)}\ -\frac{14}{27}$$
 
-Il suo valore è:
+Conviene calcolare separatamente ciascun logaritmo, riconducendo argomento e base a potenze di uno stesso numero.
 
-a) $2$
-$3 , b) 1$
-$23 , c) 2$
-$45 , d) -14$
-$$ 27 . $$
+**Numeratore.**
 
-Una sola risposta è corretta: individuarla e fornire una spiegazione esauriente della scelta
-operata.
+Poiché $2=\left(\tfrac14\right)^{-1/2}$, si ha
 
-$log1/4 2 + log3 \sqrt{9}$
-$log2 \sqrt{8}$
-$-log1/2 8$
-$$ = log1 4 (1 4) $$
-$-1$
-$2 + log3(3)$
-$$ 2 3 $$
+$$\log_{1/4} 2 = -\frac{1}{2}.$$
 
-$log2(2)$
-$4 -log1/2 (1$
-$-3 =$
-$-1$
-$$ 2 + 2 3 3 $$
-$4 -(-3)$
-$$ = 1 6 15 4 = 2 45 $$
+Poiché $\sqrt[3]{9}=9^{1/3}=3^{2/3}$, si ha
 
-La risposta corretta è la $c).$
+$$\log_{3} \sqrt[3]{9} = \frac{2}{3}.$$
 
-QUESITO $5$
+Il numeratore vale dunque
 
-Determinare il campo di esistenza della funzione:
+$$-\frac{1}{2} + \frac{2}{3} = \frac{-3+4}{6} = \frac{1}{6}.$$
 
-f(x) = log $(2x-\sqrt{4x}-1)$
+**Denominatore.**
 
-Deve essere: $2x-\sqrt{4x}-1 > 0 , \sqrt{4x}-1 < 2x$ quindi:
+Poiché $\sqrt[4]{8}=8^{1/4}=2^{3/4}$, si ha
 
-$4x-1 \ge 0$
-$2x> 0$
-$4x-1 < 4x^{2}$
+$$\log_{2} \sqrt[4]{8} = \frac{3}{4}.$$
 
-$x\ge 1$
-$x> 0$
-$4x^{2} -4x+ 1 > 0 , (2x-1)^{2} > 0 : x\ne 1$
+Poiché $8=\left(\tfrac12\right)^{-3}$, si ha
 
-Il campo di esistenza è quindi:
-$4 \le x<$
-$$ 1 2 , 1 $$
-$2 < x< +\infty$ .
+$$\log_{1/2} 8 = -3 \quad\Rightarrow\quad -\log_{1/2} 8 = 3.$$
+
+Il denominatore vale dunque
+
+$$\frac{3}{4} + 3 = \frac{3+12}{4} = \frac{15}{4}.$$
+
+**Conclusione.**
+
+$$E=\frac{\dfrac{1}{6}}{\dfrac{15}{4}} = \frac{1}{6}\cdot\frac{4}{15} = \frac{4}{90} = \frac{2}{45}.$$
+
+L'espressione vale $\dfrac{2}{45}$: la risposta corretta è la **c)**.
 
 *Fonte:* [📄 PDF p.62](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 

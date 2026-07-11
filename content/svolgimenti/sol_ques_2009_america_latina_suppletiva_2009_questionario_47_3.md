@@ -1,135 +1,38 @@
----
-title: 2009 America Latina Suppletiva — Questionario — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2009_america_latina_suppletiva_2009_questionario_47_3
-of_item: ques_2009_america_latina_suppletiva_2009_questionario_47_3
-prova_id: prova_2009_america_latina_suppletiva_2009_questionario_47
-anno: '2009'
-pdf: Prova_Maturita_2009.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2009
----
+
 
 **Quesito:** [[Quesiti/ques_2009_america_latina_suppletiva_2009_questionario_47_3|2009 America Latina Suppletiva — Questionario — Quesito 3]] · **Prova:** [[Prove/2009_america_latina_suppletiva_2009_questionario_47|2009 America Latina Suppletiva — Questionario]]
 
-America Latina
-Suppletiva 2009 - Questionario
+Si vuole dimostrare che, dati due numeri reali positivi $a$ e $b$, la loro media geometrica non supera mai la loro media aritmetica, cioè:
+$$\sqrt{ab}\;\le\;\frac{a+b}{2}.$$
 
-Legame con il teorema di Rolle.
+## a) Dimostrazione algebrica
 
-Il teorema di Rolle può essere considerato un corollario del teorema di Lagrange. In esso
-si aggiunge l’ipotesi che $f(a)=f(b)$ e si ha come tesi: esiste almeno un punto $c$ in (a; $b)$ tale
-che: f'(c) $= 0.$ Dal teorema di Lagrange si ha infatti:
+Poiché $a>0$ e $b>0$, entrambi i membri della disuguaglianza sono numeri non negativi; possiamo quindi elevare al quadrato conservando il verso della disuguaglianza. Si ha allora la catena di equivalenze:
+$$\sqrt{ab}\le\frac{a+b}{2}\iff ab\le\frac{(a+b)^2}{4}\iff 4ab\le(a+b)^2.$$
 
-f'(c) = f(b) $-f(a)$
-$b-a$
-$b-a= 0.$
+Sviluppando il quadrato del binomio e portando tutto a un membro:
+$$4ab\le a^2+2ab+b^2\iff 0\le a^2-2ab+b^2\iff 0\le(a-b)^2.$$
 
-Il significato geometrico diventa ora: esiste almeno un punto $C$ del grafico della funzione
-tra $A=$ (a; f(a)) e $B= (b;$ f(b)) a tangente orizzontale.
+L'ultima disuguaglianza è vera per ogni scelta di $a$ e $b$, essendo il quadrato di un numero reale sempre non negativo. Ripercorrendo a ritroso le equivalenze si ottiene la tesi.
 
-Implicazione del teorema di Lagrange nello studio di una funzione.
+L'uguaglianza $\sqrt{ab}=\dfrac{a+b}{2}$ vale se e solo se $(a-b)^2=0$, cioè se e solo se $a=b$.
 
-Come corollario del teorema di Lagrange si dimostra che se la derivata di una funzione è
-sempre positiva (negativa) nei punti interni di un intervallo chiuso e limitato [a; b], allora la
-funzione è crescente (decrescente) in tale intervallo.
+## b) Dimostrazione diretta
 
-Dimostrazione
+In modo del tutto equivalente si può partire dal fatto che il quadrato di un numero reale è non negativo. Poiché $a$ e $b$ sono positivi, esistono $\sqrt{a}$ e $\sqrt{b}$ e risulta:
+$$\left(\sqrt{a}-\sqrt{b}\right)^2\ge 0\;\Rightarrow\; a-2\sqrt{a}\sqrt{b}+b\ge 0\;\Rightarrow\; a+b\ge 2\sqrt{ab},$$
+da cui, dividendo per $2$:
+$$\sqrt{ab}\le\frac{a+b}{2}.$$
 
-Sia $x$ un generico punto interno all’intervallo [a; b]. Applicando il Teorema di Lagrange
-all’intervallo [a; x], in cui sono chiaramente soddisfatte le ipotesi del teorema stesso,
-esisterà almeno un punto $c$ interno all’intervallo [a; x] tale che:
+## Interpretazione geometrica
 
-f'(c) =
-$f(x)-f(a)$
-$x-a$
-. Essendo $x>a,$ si ha che:
+La disuguaglianza ammette una lettura geometrica immediata. Si consideri una semicirconferenza di diametro $\overline{AB}=a+b$ e sia $H$ il punto del diametro tale che $\overline{AH}=a$ e $\overline{HB}=b$. La perpendicolare al diametro in $H$ incontra la semicirconferenza in un punto $P$: per il secondo teorema di Euclide l'altezza $\overline{PH}$ relativa all'ipotenusa del triangolo rettangolo $APB$ vale $\overline{PH}=\sqrt{ab}$ (media geometrica). Il raggio $\overline{OP}$ misura invece $\dfrac{a+b}{2}$ (media aritmetica). Poiché in un triangolo rettangolo un cateto non supera mai l'ipotenusa, si ha $\overline{PH}\le\overline{OP}$, cioè $\sqrt{ab}\le\dfrac{a+b}{2}$, con uguaglianza solo quando $P$ è il punto più alto della semicirconferenza, ossia quando $a=b$.
 
-se f'(c) $> 0,$ allora f(x) > f(a), perciò la funzione è crescente in [a; x], e data la
-genericità di $x,$ ciò vuol dire che la funzione è crescente in [a; b].
-In modo del tutto analogo si ha che, se se f'(c) $< 0,$ allora f(x) < f(a), perciò la
-funzione è decrescente in [a; x], e data la genericità di $x,$ ciò vuol dire che la funzione è
-decrescente in [a; b].
 
-Quesito $3$
-
-Si dimostri, nel modo che si preferisce, che la media geometrica di due numeri positivi a e $b$ non
-è mai superiore alla loro media aritmetica. Cioè che:
-
-$\sqrt{ab}\le a+ b$
-
-$\sqrt{ab}\le$
-$a+b$
-$2 \iff ab\le$
-$(a+b)2$
-$\Rightarrow 4ab\le (a+ b)2 \Rightarrow 0 \le (a-b)2:$ vero per ogni a e $b$
-
-Quesito $4$
-
-Fra tutti i coni inscritti in una data sfera, trovare quello di volume massimo.
-
-America Latina
-Suppletiva 2009 - Questionario
-
-Indichiamo con $y$ l’altezza del cono e con $x$ il suo raggio di base. Per il secondo teorema
-di Euclide (detto $R$ il raggio della sfera) si ha: $x^{2} = y(2R-y).$ Il volume del cono è:
-
-$V= 1$
-$3 \pi r2h= 1$
-$3 \pi x2y$
-
-Tale volume è massimo se lo è $z= x2y= y^{2}(2R-y)$
-
-Risoluzione elementare.
-
-$y^{2}(2R-y) = (y)2(2R-y)1:$ si tratta del prodotto di due potenze con somma delle basi
-costante $(2R);$ tale prodotto è massimo se le basi sono proporzionali agli esponenti,
-quindi:
-
-$$ y 2 = $$
-$2R-y$
-, $y=$
-$3 R$ (altezza del cono uguale $ai$
-$3$ del raggio della sfera).
-Il raggio $r=x$ della circonferenza di base del cono si calcola da $x^{2} = y(2R-y).$ Quindi:
-$x^{2} = 4$
-$3 R(2R-4$
-$3 R) = 4$
-$3 R(2$
-$3 R) = 8$
-$9 R^{2} = x^{2}; x= 2$
-$3 R\sqrt{2}$ .
-
-Il cono di volume massimo inscritto in una sfera di dato raggio è quello la cui altezza è i
-$4/3$ del raggio della sfera.
-
-Risoluzione analitica.
-
-Dobbiamo trovare il massimo della funzione $z= y^{2}(2R-y),$ con $0 \le y\le 2R$
-Risulta:
-$z' = 4Ry-3y^{2} \ge 0$ se $3y^{2} -4Ry\le 0: 0 \le y\le 4$
-$3 R$
-
-La funzione è quindi crescente se $0 < y<$
-$3 R$ e decrescente se
-$3 R< y< 2R$ .
-
-Per $y=$
-$3 R z$ (e quindi anche il volume del cono) assume il valore massimo.
-
-Il volume massimo è: $V=$
-$3 \pi r2h=$
-$3 \pi$ (
-$9 R^{2})$ (
-$3 R) =$
-$$ 32 $$
-$81 \pi R^{3} =$ Volume massimo
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="208.964" height="115.687" viewBox="-72 -72 156.723 86.765"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M-65.187-.738c0-39.286 31.846-71.132 71.132-71.132 39.285 0 71.132 31.846 71.132 71.132M-65.187-.738H77.077"/><path fill="none" stroke="#00f" stroke-width=".8" d="M48.624-.738v-56.906"/><path fill="none" stroke="red" stroke-width=".8" d="m5.945-.738 42.679-56.906"/><path stroke="none" d="M-63.687-.738a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M78.577-.738a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M50.124-.738a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M7.445-.738a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M50.124-57.644a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><text x="-65.187" y="-.738" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.75 10.366)">A</text><text x="-65.187" y="-.738" stroke="none" font-family="cmmi10" font-size="10" transform="translate(138.22 10.366)">B</text><text x="-65.187" y="-.738" stroke="none" font-family="cmmi10" font-size="10" transform="translate(109.248 10.366)">H</text><text x="-65.187" y="-.738" stroke="none" font-family="cmmi10" font-size="10" transform="translate(67.18 10.366)">O</text><text x="-65.187" y="-.738" stroke="none" font-family="cmmi10" font-size="10" transform="translate(109.906 -60.438)">P</text><text x="-65.187" y="-.738" stroke="none" font-family="cmmi10" font-size="10" transform="translate(54.263 9.261)">a</text><text x="-65.187" y="-.738" stroke="none" font-family="cmmi10" font-size="10" transform="translate(125.892 11.9)">b</text><g fill="#00f" stroke="#00f"><g fill="#00f" stroke="none"><text x="-65.187" y="-9.26" font-family="cmsy10" font-size="10" transform="translate(117.344 -24.33)">p</text><path d="M60.49-33.99h9.578v.4H60.49z"/><text x="-56.854" y="-.738" font-family="cmmi10" font-size="10" transform="translate(117.344 -24.33)">ab</text></g></g><g fill="red" stroke="red"><g fill="red" stroke="none"><text x="-63.987" y="-4.675" font-family="cmmi7" font-size="7" transform="translate(72.545 -35.434)">a</text><text x="-59.649" y="-4.675" font-family="cmr7" font-size="7" transform="translate(72.545 -35.434)">+</text><text x="-53.51" y="-4.675" font-family="cmmi7" font-size="7" transform="translate(72.545 -35.434)">b</text><path d="M8.558-38.872h13.993v.4H8.558z"/><text x="-58.983" y="2.71" font-family="cmr7" font-size="7" transform="translate(72.545 -35.434)">2</text></g></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.48](https://drive.google.com/file/d/1Ioge1QbGS_AhQasT2TXif3wczyZL_UAP/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

@@ -1,303 +1,122 @@
----
-title: 2006 PNI Straordinaria — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131_1
-of_item: prob_2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131_1
-prova_id: prova_2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2006
----
+
 
 **Problema:** [[Problemi/prob_2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131_1|2006 PNI Straordinaria — Problema 2 — Problema 1]] · **Prova:** [[Prove/2006_liceo_scientifico_pni_2006_sessione_straordinaria_problema2_131|2006 PNI Straordinaria — Problema 2]]
 
-Liceo Scientifico PNI 2006
-Sessione $Straordinaria-$ Problema $2$
-
-PNI 2006 - SESSIONE STRAORDINARIA - PROBLEMA $2$
-
-Si considerino i polinomi di $5^\circ$ grado, nella variabile $x,$ con coefficienti reali, i cui grafici,
-rappresentati in un piano riferito a un sistema di assi cartesiani ortogonali (Oxy), sono
-simmetrici rispetto all’origine O e hanno un massimo relativo nel punto $(-2;$
-$$ 64 15). $$
-
-a)
-
-Trovare l’equazione $y=$ f(x) dei grafici suddetti.
-
-La generica funzione polinomiale di $5^\circ$ grado ha equazione:
-
-$y= ax5 + bx4 + cx3 + dx2 + ex+ f$
-
-Affinché il grafico di tale funzione sia simmetrico rispetto all’origine O (funzione dispari,
-cioè $y(-x) = -y(x)$ ) devono mancare i termini di grado pari, compreso il termine noto,
-quindi la funzione è del tipo:
-
-$y= ax5 + cx3 + ex$
-
-Calcoliamo la derivata prima e la derivata seconda:
-
-$y' = 5ax4 + 3cx2 +$ e , y'' $= 20ax3 + 6cx$
-Per avere un massimo relativo in $(-2;$
-$$ 64 $$
-$15)$ basta che sia:
-$y(-2) = 64$
-$$ 15 $$
-$y'(-2) = 0$
-$y''(-2) < 0$
-$\Rightarrow$ {
-$-32a-8c-2e= 64$
-$$ 15 $$
-$80a+ 12c+ e= 0$
-$-160a-12c< 0$
-$\Rightarrow$
-$16a+ 4c+ e= -32$
-$$ 15 $$
-$80a+ 12c+ e= 0$
-$c> -40$
-$3$ a
-
-Sottraendo membro a membro la seconda e la terza equazione abbiamo:
-$64a+ 8c= +$
-$$ 32 $$
-$15 , c= -8a+$
-$15$ e sostituendo nella seconda equazione:
-$e= -80a-12c= -80a-12 (-8a+ 4$
-$15) = 16a-16$
-La funzione ha quindi equazione:
-
-$y= ax5 -(8a-$
-$15) x^{3} + (16a-$
-$$ 16 $$
-$5 ) x$ ,
-
-con $c> -$
-$$ 40 $$
-$3$ a , cioè $-8a+$
-$15 > -$
-$$ 40 $$
-$3$ a , $a> -$
-$20$ (e $a\ne 0)$
-
-Liceo Scientifico PNI 2006
-Sessione $Straordinaria-$ Problema $2$
-
-$b)$
-
-Dimostrare che tali grafici hanno tre punti in comune, in due dei quali hanno anche la
-stessa tangente.
-
-Le curve di equazione $y= ax5 -(8a-$
-$15) x^{3} + (16a-$
-$$ 16 $$
-$5 ) x$ dipendono linearmente da
-un parametro, quindi costituiscono un fascio. Mettiamo in evidenza due generatrici di tale
-fascio:
-
-$y= ax5 -8ax3 + 4$
-$15 x^{3} + 16ax-16$
-$5 x , y-4$
-$15 x^{3} + 16$
-$5 x+ a(x^{5} -8x^{3} + 16x)$
-
-Per trovare i punti comuni mettiamo a sistema le equazioni delle due generatrici:
-
-${y-4$
-$15 x^{3} + 16$
-$5 x= 0$
-$x^{5} -8x^{3} + 16x= 0$
-
-Risolviamo la seconda equazione:
-
-$x^{5} -8x^{3} + 16x= 0 , x(x^{4} -8x^{2} + 16) = 0$ ,
-$x(x^{2} -4)^{2} = 0,$
-
-$x(x-2)^{2}(x+ 2)^{2} = 0: x= 0, x= 2$ (doppia), $x= -2$ (doppia)
+Si considerino i polinomi di $5^\circ$ grado, nella variabile $x$, a coefficienti reali, i cui grafici (nel piano $Oxy$) sono simmetrici rispetto all'origine $O$ e hanno un massimo relativo nel punto $\left(-2;\ \dfrac{64}{15}\right)$.
 
-Sostituendo questi valori nella prima equazione otteniamo i tre punti base (punti comuni a
-tutte le curve del fascio):
+## a)
 
-${x= 0$
-$y= 0$ , {
-$x= 2$
-$y= -64$
-$$ 15 , $$
-$x= -2$
-$y= 64$
-$$ 15 $$
+Poiché il grafico è simmetrico rispetto all'origine, la funzione è **dispari**: mancano i termini di grado pari, compreso il termine noto. Il polinomio ha dunque la forma
 
-Gli ultimi due punti sono doppi, quindi le curve del fascio hanno in essi la stessa
-tangente.
+$$f(x) = a x^5 + c x^3 + e x.$$
 
-$c)$
+Calcoliamo le derivate:
 
-Indicare con $\gamma$ il grafico avente come tangente inflessionale l’asse $x$ e disegnarne
-l’andamento.
+$$f'(x) = 5a x^4 + 3c x^2 + e, \qquad f''(x) = 20a x^3 + 6c x.$$
 
-Osserviamo che nel punto di flesso con tangente inflessionale l’asse $x$ si deve annullare
-la derivata prima (il coefficiente angolare della retta $y=0$ è $0)$ e la derivata seconda.
-Risulta:
-$y= ax5 -(8a-$
-$15) x^{3} + (16a-$
-$$ 16 $$
-$5 ) x$
-$y' = 5ax4 -3 (8a-$
-$15) x^{2} + (16a-$
-$$ 16 $$
-$5$ ) , y'' $= 20ax3 -6 (8a-$
-$15) x= 0$ se $x=0$ ed in
-$x=0$ si annulla anche la derivata prima se:
+Per avere un massimo relativo in $\left(-2;\ \dfrac{64}{15}\right)$ imponiamo:
 
-Liceo Scientifico PNI 2006
-Sessione $Straordinaria-$ Problema $2$
+$$\begin{cases} f(-2) = -32a - 8c - 2e = \dfrac{64}{15}, \\[4pt] f'(-2) = 80a + 12c + e = 0, \\[4pt] f''(-2) = -160a - 12c < 0. \end{cases}$$
 
-$16a-16$
-$5 = 0, a= 1$
-La curva richiesta ha quindi equazione:
+Dalle prime due equazioni (moltiplicando la prima per $-\tfrac12$ e sottraendo membro a membro) si ricava
 
-$\gamma : y= 1$
-$5 x^{5} -4$
-$3 x^{3}$
+$$c = -8a + \frac{4}{15}, \qquad e = -80a - 12c = 16a - \frac{16}{5}.$$
 
-Studiamo la funzione.
+La famiglia di polinomi richiesta è quindi
 
-La funzione è definita su tutto l’asse reale, passa per l’origine (punto di flesso con
-tangente l’asse $x),$ taglia l’asse $x$ negli ulteriori punti le cui ascisse si ottengono risolvendo
-l’equazione:
-
-$5 x^{5} -$
-$3 x^{3} = 0$ ,
-$5 x^{2} -$
-$3 = 0, x^{2} =$
-$$ 20 $$
-$3 , x= \pm \sqrt$
-$$ 20 $$
-$3 = \pm$
-$$ 2\sqrt{15} 3 $$
+$$y = a x^5 - \left(8a - \frac{4}{15}\right) x^3 + \left(16a - \frac{16}{5}\right) x,$$
 
-I limiti sono meno infinito per $x$ che tende a meno infinito e più infinito per $x$ che tende a
-più infinito.
-
-Massimi e minimi:
-
-$y' = x^{4} -4x^{2} \ge 0$ se $x^{2}(x^{2} -4) \ge 0$ verificata se $x= 0$ e se $x\le -2$ e $x\ge 2$
-
-Il grafico è crescente se $x<-2$ vel $x>2,$ ha un flesso a tangente orizzontale in $x=0,$
-massimo relativo se $x=-2$ (con $y=64/15)$ ed un minimo relativo se $x=2$ (con $y=-64/15).$
-
-Flessi:
-
-y'' $= 4x^{3} -8x\ge 0$ se $x(x^{2} -2) \ge 0$ se $-\sqrt{2} \le x\le 0 , x\ge \sqrt{2}$
-
-Il grafico volge quindi la concavità verso l’alto se $-\sqrt{2} < x< 0$ e $x> \sqrt{2}$ e verso il
-basso se $x< -\sqrt{2}$ e $0 < x< \sqrt{2}.$ Abbiamo dei flessi per $x=0 (y=0),$ per $x= -\sqrt{2}$
-(con $y=$
-$$ 28 $$
-$15 \sqrt{2})$ e per $x= \sqrt{2}$ (con $y= -$
-$$ 28 15 \sqrt{2}). $$
-Il grafico della funzione è il seguente:
+con la condizione $f''(-2) < 0$, che equivale a $c > -\dfrac{40}{3}a$, cioè
 
-Liceo Scientifico PNI 2006
-Sessione $Straordinaria-$ Problema $2$
+$$a > -\frac{1}{20}, \qquad a \ne 0.$$
 
-$d)$
+## b)
 
-Indicato con P(x) il polinomio rappresentato da $\gamma$ e chiamati $u$ e $v (u<v)$ le ascisse dei
-punti, distinti da O, in cui $\gamma$ interseca l’asse $x,$ calcolare:
+Le curve dipendono **linearmente** dal parametro $a$: costituiscono quindi un **fascio**. Mettendo in evidenza le due generatrici:
 
-$\int$ P(x)dx
-$$ v u . $$
+$$y = \left(\frac{4}{15} x^3 - \frac{16}{5} x\right) + a\left(x^5 - 8x^3 + 16x\right).$$
 
-Risulta: $u= -\sqrt$
-$$ 20 $$
-$3$ e $v= \sqrt$
-$$ 20 3 $$
+I **punti base** (comuni a tutte le curve del fascio) si ottengono annullando contemporaneamente il coefficiente di $a$ e la parte indipendente da $a$:
 
-Essendo $v= - u$ e la curva simmetrica rispetto all’origine degli assi l’integrale richiesto vale
-zero:
+$$\begin{cases} x^5 - 8x^3 + 16x = 0, \\[4pt] y - \dfrac{4}{15} x^3 + \dfrac{16}{5} x = 0. \end{cases}$$
 
-$\int$ P(x)dx
-$$ v u = 0 . $$
+Risolviamo la prima equazione:
 
-e)
+$$x^5 - 8x^3 + 16x = x\left(x^4 - 8x^2 + 16\right) = x\left(x^2 - 4\right)^2 = x(x-2)^2(x+2)^2 = 0,$$
 
-Dopo aver controllato che $\gamma$ ha tre flessi allineati, determinare le ascisse dei punti in cui
-la retta dei flessi interseca $\gamma$ .
+da cui $x = 0$, $x = 2$ (doppia), $x = -2$ (doppia). Sostituendo nella seconda equazione si trovano i **tre punti comuni**:
 
-I tre flessi, come già visto nel punto $c,$ hanno coordinate:
+$$(0,\,0), \qquad \left(2,\ -\frac{64}{15}\right), \qquad \left(-2,\ \frac{64}{15}\right).$$
 
-$A= (-\sqrt{2}; 28$
-$$ 15 \sqrt{2}) , $$
-$O= (0; 0),$
-$C= (\sqrt{2}; -28$
-$$ 15 \sqrt{2}) $$
+Poiché $x = \pm 2$ sono radici **doppie**, in tali punti tutte le curve del fascio hanno la **stessa tangente** (in $x = 0$ la radice è semplice).
 
-Ricordiamo che la condizione di allineamento di tre punti è:
+## c)
 
-$x^{3} -x^{1}$
-$x^{2} -x^{1}$
-$= y^{3} -y^{1}$
-$y^{2} -y^{1}$
+La tangente inflessionale in $O$ deve coincidere con l'asse $x$: occorre quindi $f'(0) = e = 0$ (mentre $f''(0) = 0$ è automatica per la disparità). Da
 
-Risulta:
+$$e = 16a - \frac{16}{5} = 0 \ \Rightarrow\ a = \frac{1}{5}, \qquad c = -\frac{4}{3},$$
 
-$x^{3}-x^{1}$
-$x^{2}-x^{1} = \sqrt{2}+\sqrt{2}$
-$$ \sqrt{2} = 2 , $$
-$y^{3}-y^{1}$
-$y^{2}-y^{1} =$
-$-28$
-$15\sqrt{2}-28$
-$$ 15\sqrt{2 $$
-$-28$
-$$ 15\sqrt{2} = 2 $$
+si ottiene la curva
 
-I tre flessi sono quindi allineati.
+$$\gamma:\quad y = \frac{x^5}{5} - \frac{4x^3}{3}.$$
 
-Per trovare le intersezioni le intersezioni della retta dei flessi con la curva scriviamo
-l’equazione della retta $OC,$ retta per l’origine con coefficiente angolare:
+**Studio di $\gamma$.** La funzione è definita su tutto $\mathbb{R}$, è dispari e passa per l'origine (flesso a tangente orizzontale). I limiti sono:
 
-$m=$
-$$ yC $$
-$xC=$
-$-28$
-$$ 15\sqrt{2} \sqrt{2 $$
-= -
-$$ 28 $$
-$15$ ; quindi la retta dei flessi ha equazione: $y= -$
-$$ 28 $$
-$15 x$
+$$\lim_{x\to -\infty} \gamma(x) = -\infty, \qquad \lim_{x\to +\infty} \gamma(x) = +\infty.$$
 
-Liceo Scientifico PNI 2006
-Sessione $Straordinaria-$ Problema $2$
+*Massimi e minimi:*
 
-Intersechiamo la retta dei flessi con la curva:
+$$y' = x^4 - 4x^2 = x^2\left(x^2 - 4\right) \ge 0 \ \text{ per } x \le -2 \ \text{ e } x \ge 2.$$
 
-$y= -28$
-$15 x$
-$y= 1$
-$5 x^{5} -4$
-$3 x^{3}$
-$5 x^{5} -4$
-$3 x^{3} = -28$
-$15 x , 3x^{5} -20x^{3} + 28x= 0$
+Quindi $\gamma$ è crescente per $x < -2$ e $x > 2$; ha un flesso a tangente orizzontale in $x = 0$, un massimo relativo in $x = -2$ (con $y = \tfrac{64}{15}$) e un minimo relativo in $x = 2$ (con $y = -\tfrac{64}{15}$).
 
-$x(3x^{4} -20x^{2} + 28) = 0,$ che come soluzioni $x=0$ e le radici dell’equazione:
+*Flessi:*
 
-$3x^{4} -20x^{2} + 28 = 0, x= \pm \sqrt{2},$
-$x= \pm \sqrt{42}$
+$$y'' = 4x^3 - 8x = 4x\left(x^2 - 2\right) \ge 0 \ \text{ per } -\sqrt{2} \le x \le 0 \ \text{ e } x \ge \sqrt{2}.$$
 
-Quindi la retta dei flessi interseca ulteriormente la curva nei punti di ascissa $x= \pm \sqrt{42}$
+La concavità è verso l'alto per $-\sqrt{2} < x < 0$ e $x > \sqrt{2}$, verso il basso per $x < -\sqrt{2}$ e $0 < x < \sqrt{2}$. I flessi sono in $x = 0$ (con $y = 0$), $x = -\sqrt{2}$ (con $y = \tfrac{28}{15}\sqrt{2}$) e $x = \sqrt{2}$ (con $y = -\tfrac{28}{15}\sqrt{2}$).
 
-Con la collaborazione di Angela Santamaria
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="250.404" height="366.018" viewBox="-72 -72 187.803 274.514"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 71.445H92.556"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M90.676 69.045c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><text x="10.443" y="71.445" stroke="none" font-family="cmmi10" font-size="10" transform="translate(86.046 2.153)">x</text><path fill="none" d="M10.443 202.044V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M8.043-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="10.443" y="71.445" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -136.076)">y</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-62.112 58.278 1.63-20.778 1.63-17.441 1.63-14.4L-55.59-5.98l1.63-9.14 1.63-6.894 1.63-4.884 1.631-3.096 1.63-1.517 1.63-.134 1.63 1.065 1.631 2.093 1.63 2.963 1.63 3.686 1.63 4.272 1.631 4.734 1.63 5.08 1.63 5.324 1.63 5.472 1.631 5.536 1.63 5.524 1.63 5.445 1.63 5.308 1.631 5.12 1.63 4.889 1.63 4.622 1.63 4.33 1.631 4.011 1.63 3.681 1.63 3.34 1.63 2.995 1.631 2.651 1.63 2.313 1.63 1.985 1.63 1.673 1.631 1.378 1.63 1.106 1.63.858 1.63.638 1.631.448 1.63.29 1.63.164 1.63.074 1.631.02 1.63.001 1.63.02 1.63.074 1.631.163 1.63.288 1.63.446 1.63.636 1.631.855 1.63 1.104 1.63 1.375 1.63 1.67 1.631 1.981 1.63 2.31 1.63 2.647 1.63 2.991 1.631 3.337 1.63 3.677 1.63 4.01 1.63 4.325 1.631 4.62 1.63 4.886 1.63 5.118 1.63 5.306 1.631 5.443 1.63 5.524 1.63 5.536 1.63 5.473 1.631 5.326 1.63 5.084 1.63 4.737 1.63 4.278 1.631 3.692 1.63 2.972 1.63 2.103 1.63 1.076 1.631-.12 1.63-1.503 1.63-3.077 1.63-4.865 1.631-6.872 1.63-9.116 1.63-11.61 1.63-14.37 1.631-17.408 1.63-20.742"/><path fill="none" stroke="red" stroke-dasharray="3.0,3.0" d="m-62.112-43.675 145.11 230.24"/><path stroke="none" d="M12.043 71.445c0-.751-.717-1.36-1.6-1.36s-1.6.609-1.6 1.36c0 .75.716 1.36 1.6 1.36.883 0 1.6-.61 1.6-1.36M-44.463-31.753c0-.938-.895-1.7-2-1.7s-2 .762-2 1.7c0 .94.896 1.7 2 1.7s2-.76 2-1.7m-2 0"/><g stroke="none"><text x="10.443" y="71.445" font-family="cmr10" font-size="10" transform="translate(-53.373 -110.179)">max</text><text x="32.387" y="71.445" font-family="cmr10" font-size="10" transform="translate(-53.373 -110.179)">(</text><text x="36.276" y="71.445" font-family="cmsy10" font-size="10" transform="translate(-53.373 -110.179)">¡</text><text x="44.054" y="71.445" font-family="cmr10" font-size="10" transform="translate(-53.373 -110.179)">2</text><text x="49.054" y="71.445" font-family="cmmi10" font-size="10" transform="translate(-53.373 -110.179)">;</text><text x="54.698" y="67.507" font-family="cmr7" font-size="7" transform="translate(-53.373 -110.179)">64</text><path d="M1.325-41.434h7.972v.4H1.325z"/><text x="54.698" y="74.893" font-family="cmr7" font-size="7" transform="translate(-53.373 -110.179)">15</text><text x="63.871" y="71.445" font-family="cmr10" font-size="10" transform="translate(-53.373 -110.179)">)</text></g><path stroke="none" d="M69.348 174.642c0-.939-.895-1.7-2-1.7s-2 .761-2 1.7c0 .94.896 1.7 2 1.7s2-.76 2-1.7m-2 0"/><g stroke="none"><text x="10.443" y="71.445" font-family="cmr10" font-size="10" transform="translate(-2 115.179)">min</text><text x="30.443" y="71.445" font-family="cmr10" font-size="10" transform="translate(-2 115.179)">(2</text><text x="39.332" y="71.445" font-family="cmmi10" font-size="10" transform="translate(-2 115.179)">;</text><text x="43.776" y="71.445" font-family="cmsy10" font-size="10" transform="translate(-2 115.179)">¡</text><text x="52.754" y="67.507" font-family="cmr7" font-size="7" transform="translate(-2 115.179)">64</text><path d="M50.754 183.924h7.972v.4h-7.972z"/><text x="52.754" y="74.893" font-family="cmr7" font-size="7" transform="translate(-2 115.179)">15</text><text x="61.926" y="71.445" font-family="cmr10" font-size="10" transform="translate(-2 115.179)">)</text></g><path stroke="none" d="M-28.189999999999998 7.596c0-.75-.716-1.36-1.6-1.36-.883 0-1.6.61-1.6 1.36 0 .752.717 1.36 1.6 1.36s1.6-.608 1.6-1.36M52.275 135.293c0-.75-.716-1.36-1.6-1.36s-1.6.61-1.6 1.36.716 1.36 1.6 1.36 1.6-.609 1.6-1.36m-1.6 0"/><g fill="red" stroke="red"><g fill="red" stroke="none" font-family="cmr10" font-size="10"><text x="10.443" y="71.445" transform="translate(40.507 85.701)">retta</text><text x="34.915" y="71.445" transform="translate(40.507 85.701)">dei</text><text x="51.026" y="71.445" transform="translate(40.507 85.701)">°essi</text></g></g></g></svg>
+</figure>
+
+## d)
+
+Gli zeri di $\gamma$ si ottengono da
+
+$$\frac{x^5}{5} - \frac{4x^3}{3} = x^3\left(\frac{x^2}{5} - \frac{4}{3}\right) = 0,$$
+
+da cui $x = 0$ e $x = \pm\sqrt{\dfrac{20}{3}} = \pm\dfrac{2\sqrt{15}}{3}$. Dunque
+
+$$u = -\frac{2\sqrt{15}}{3}, \qquad v = \frac{2\sqrt{15}}{3}.$$
+
+Essendo $P(x)$ dispari e l'intervallo $[u,v]$ simmetrico rispetto all'origine, l'integrale richiesto vale zero:
+
+$$\int_{u}^{v} P(x)\,dx = 0.$$
+
+## e)
+
+I tre flessi hanno coordinate
+
+$$A = \left(-\sqrt{2};\ \frac{28\sqrt{2}}{15}\right), \qquad O = (0;\,0), \qquad C = \left(\sqrt{2};\ -\frac{28\sqrt{2}}{15}\right).$$
+
+Verifichiamo l'allineamento con la condizione $\dfrac{x_3 - x_1}{x_2 - x_1} = \dfrac{y_3 - y_1}{y_2 - y_1}$:
+
+$$\frac{x_3 - x_1}{x_2 - x_1} = \frac{\sqrt{2} + \sqrt{2}}{\sqrt{2}} = 2, \qquad \frac{y_3 - y_1}{y_2 - y_1} = \frac{-\tfrac{28\sqrt{2}}{15} - \tfrac{28\sqrt{2}}{15}}{-\tfrac{28\sqrt{2}}{15}} = 2.$$
+
+I tre flessi sono quindi **allineati**. La retta dei flessi passa per l'origine con coefficiente angolare
+
+$$m = \frac{y_C}{x_C} = \frac{-\tfrac{28\sqrt{2}}{15}}{\sqrt{2}} = -\frac{28}{15},$$
+
+perciò ha equazione $y = -\dfrac{28}{15}x$. Intersecandola con $\gamma$:
+
+$$\frac{x^5}{5} - \frac{4x^3}{3} = -\frac{28}{15}x \ \Rightarrow\ 3x^5 - 20x^3 + 28x = 0 \ \Rightarrow\ x\left(3x^4 - 20x^2 + 28\right) = 0.$$
+
+Da $3x^4 - 20x^2 + 28 = 0$ si ha $x^2 = 2$ (i flessi $x = \pm\sqrt{2}$) oppure $x^2 = \dfrac{14}{3}$. Le ulteriori intersezioni della retta dei flessi con $\gamma$ hanno quindi ascisse
+
+$$x = \pm\sqrt{\frac{14}{3}} = \pm\frac{\sqrt{42}}{3}.$$
 
 *Fonte:* [📄 PDF p.131](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

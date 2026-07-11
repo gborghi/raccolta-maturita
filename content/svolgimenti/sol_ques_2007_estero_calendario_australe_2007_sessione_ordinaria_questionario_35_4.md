@@ -1,55 +1,52 @@
----
-title: 2007 Estero Australe Ordinaria — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_4
-of_item: ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_4
-prova_id: prova_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35_4|2007 Estero Australe Ordinaria — Questionario — Quesito 4]] · **Prova:** [[Prove/2007_estero_calendario_australe_2007_sessione_ordinaria_questionario_35|2007 Estero Australe Ordinaria — Questionario]]
 
-Estero (Calendario australe) 2007
+Si illustrino il significato e l'ambito di utilizzo del simbolo $\binom{n}{m}$ e si risolva l'equazione
+$$2\binom{x}{2}=3\binom{x-1}{2}\qquad\text{con } x\in\mathbb{N}.$$
 
-k(x) $= 3-x= a(-x):$ si ribalta il grafico di a(x) rispetto all’asse $y.$
+## a) Significato e ambito di utilizzo del simbolo
 
-QUESITO $2$
+Il simbolo $\binom{n}{m}$, detto **coefficiente binomiale** e che si legge "$n$ su $m$", è definito, per due numeri naturali $n$ e $m$ con $0\le m\le n$, da
+$$\binom{n}{m}=\frac{n!}{m!\,(n-m)!}.$$
 
-Quante cifre ha il numero $559$ nella rappresentazione decimale? Motiva esaurientemente
-la risposta.
+Esso rappresenta il **numero delle combinazioni semplici** di $n$ oggetti presi $m$ alla volta, cioè il numero dei sottoinsiemi di $m$ elementi che si possono formare a partire da un insieme di $n$ elementi (senza tener conto dell'ordine). 
 
-Osserviamo che $log(559) = 59$ log $(5) \cong 41.24,$ quindi la parte intera di $log(559)$ è $41;$
-pertanto $559$ ha $42$ cifre (ricordiamo che la parte intera del logaritmo decimale di un
-numero è uguale al numero delle cifre diminuito di $1).$
+Il coefficiente binomiale interviene in particolare:
 
-QUESITO $3$
+- nel **calcolo combinatorio**, per contare le combinazioni;
+- nello **sviluppo della potenza di un binomio** (formula di Newton):
+$$(a+b)^n=\sum_{k=0}^{n}\binom{n}{k}\,a^{\,n-k}\,b^{\,k};$$
+- nel **triangolo di Tartaglia**, i cui elementi sono proprio i coefficienti binomiali.
 
-Si consideri una sfera di volume $V$ e superficie $S.$ Si dimostri che il tasso di variazione di
-$V$ rispetto al raggio è uguale a $S.$
+Valgono inoltre le proprietà $\binom{n}{0}=\binom{n}{n}=1$ e la simmetria $\binom{n}{m}=\binom{n}{\,n-m}$.
 
-Il volume di una sfera di raggio $R$ è $V=$
-$3 \pi R^{3};$ la variazione di $V$ rispetto $ad R$ è la
-derivata di $V$ rispetto $ad R,$ quindi:
+## b) Risoluzione dell'equazione
 
-$$ dV $$
-$dR= 4\pi R^{2} =$ Superficie sfera
+Ricordiamo che
+$$\binom{x}{2}=\frac{x(x-1)}{2},\qquad \binom{x-1}{2}=\frac{(x-1)(x-2)}{2}.$$
 
-QUESITO $4$
+**Condizioni di esistenza.** Affinché entrambi i simboli abbiano significato deve essere $x\ge 2$ per il primo e $x-1\ge 2$, cioè $x\ge 3$, per il secondo; complessivamente $x\in\mathbb{N}$ con $x\ge 3$.
 
-Si illustrino il significato e l’ambito di utilizzo del simbolo $(n$
-$m)$ e si risolva l’equazione:
+Sostituendo nell'equazione:
+$$2\cdot\frac{x(x-1)}{2}=3\cdot\frac{(x-1)(x-2)}{2},$$
+cioè
+$$x(x-1)=\frac{3(x-1)(x-2)}{2}.$$
 
-$2 (x$
-$2) = 3 (x-1$
-) con $x\in N$
+Moltiplicando per $2$:
+$$2x(x-1)=3(x-1)(x-2).$$
+
+Poiché $x\ge 3$ si ha $x-1\ne 0$, quindi possiamo dividere entrambi i membri per $(x-1)$:
+$$2x=3(x-2)=3x-6,$$
+da cui
+$$-x=-6\ \Rightarrow\ x=6.$$
+
+Il valore $x=6$ soddisfa la condizione $x\ge 3$ ed è quindi accettabile.
+
+**Verifica.**
+$$2\binom{6}{2}=2\cdot 15=30,\qquad 3\binom{5}{2}=3\cdot 10=30.$$
+
+Le due espressioni coincidono: la soluzione è $x=6$.
 
 *Fonte:* [📄 PDF p.36](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
 

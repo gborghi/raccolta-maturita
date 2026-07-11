@@ -1,327 +1,58 @@
----
-title: 2007 Ordinaria — Prova — Quesito 10 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2007_sessione_ordinaria_2007_prova_7_10
-of_item: ques_2007_sessione_ordinaria_2007_prova_7_10
-prova_id: prova_2007_sessione_ordinaria_2007_prova_7
-anno: '2007'
-pdf: Prova_Maturita_2007.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2007
----
+
 
 **Quesito:** [[Quesiti/ques_2007_sessione_ordinaria_2007_prova_7_10|2007 Ordinaria — Prova — Quesito 10]] · **Prova:** [[Prove/2007_sessione_ordinaria_2007_prova_7|2007 Ordinaria — Prova]]
 
-Sessione ordinaria 2007
+Rappresentiamo la Terra con una sfera $S$ di centro $O$ e raggio $R$, e sia $r$ l'asse di rotazione, retta passante per $O$. Tutti gli oggetti geografici (poli, equatore, meridiani, paralleli) si ottengono intersecando la sfera con opportune rette e piani legati a $r$.
 
-CORSO DI ORDINAMENTO
+## Poli ed equatore
 
-Tema di: MATEMATICA
+L'asse $r$ interseca la superficie sferica in due punti diametralmente opposti: sono i **poli**, il polo Nord $N$ e il polo Sud $S$.
 
-Il candidato risolva uno dei due problemi e risponda a $5$ dei $10$ quesiti del questionario.
+Il piano $\pi_0$ passante per il centro $O$ e **perpendicolare** all'asse $r$ taglia la sfera lungo una circonferenza massima (una circonferenza di raggio uguale a $R$): è l'**equatore**. L'equatore è equidistante dai due poli e divide la sfera in due emisferi, boreale e australe.
 
-PROBLEMA $1$
+## Paralleli
 
-Si considerino i triangoli la cui base è $AB = 1$ e il cui vertice $C$ varia in modo che l’angolo
-$$ B A $$
-$C$ ˆ
-$$ si $$
-mantenga doppio dell’angolo
-$$ C B $$
-A ˆ
-$1.$ Riferito il piano $ad$ un conveniente sistema di coordinate, si determini l’equazione del luogo
-geometrico $\gamma$ descritto da $C.$
-$2.$ Si rappresenti $\gamma$ , tenendo conto, ovviamente, delle prescritte condizioni geometriche.
-$3.$ Si determini l’ampiezza dell’angolo
-$$ C B $$
-A ˆ
-che rende massima la somma dei quadrati delle
-altezze relative $ai$ lati $AC$ e $BC$ e, con l’aiuto di una calcolatrice, se ne dia un valore
-approssimato in gradi e primi (sessagesimali).
-$4.$ Si provi che se
-$$ 2 1 5 $$
-è
-allora
+Consideriamo i piani **perpendicolari all'asse** $r$, cioè paralleli al piano equatoriale $\pi_0$. Ciascuno di essi, se interseca la sfera, la taglia lungo una circonferenza: queste circonferenze sono i **paralleli**.
 
-$$ 36 $$
-ˆ
--
-$^\circ$
-$$ = AC C B A . $$
+Un piano posto a distanza $d$ dal centro (con $0 \le d < R$) individua un parallelo di raggio $\sqrt{R^2 - d^2}$: il raggio è massimo per $d = 0$ (l'equatore stesso) e decresce fino ad annullarsi in corrispondenza dei poli. I paralleli sono dunque, tranne l'equatore, circonferenze *minori*, tutte tra loro parallele e con i centri allineati sull'asse $r$.
 
-PROBLEMA $2$
 
-Si consideri un cerchio $C$ di raggio $r.$
-$1.$ Tra i triangoli isosceli inscritti in $C$ si trovi quello di area massima.
-$2.$ Si denoti con
-$S$ l’area del poligono regolare di $n$ lati inscritto in $C.$ Si dimostri che
-$$ n sen r n $$
-$S n$
-$\pi$
-$$ 2 2 2 = $$
-e si trovi un’analoga espressione per l’area del poligono regolare di $n$ lati
-circoscritto a $C.$
-$3.$ Si calcoli il limite di
-$S$ per
-$\infty$
-$\to$
-$4.$ Si spieghi in che cosa consista il problema della quadratura del cerchio e se, e in che senso, si
-tratti di un problema risolubile o meno.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="302.523" height="306.518" viewBox="-72 -72 226.892 229.889"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M154.222 48.16c0-50.286-40.763-91.049-91.05-91.049-50.285 0-91.048 40.763-91.048 91.05 0 50.285 40.763 91.048 91.049 91.048s91.049-40.763 91.049-91.049Zm-91.05 0"/><path fill="none" stroke-dasharray="3.0,3.0" d="M63.173 157.419V-61.1"/><text x="63.173" y="48.16" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.395 -112.792)">r</text><path stroke="none" d="M65.573-42.889a2.4 2.4 0 1 0-4.8 0 2.4 2.4 0 0 0 4.8 0m-2.4 0"/><text x="63.173" y="48.16" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 -94.582)">N</text><path stroke="none" d="M65.573 139.21a2.4 2.4 0 1 0-4.8 0 2.4 2.4 0 0 0 4.8 0m-2.4 0"/><text x="63.173" y="48.16" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 101.415)">S</text><path fill="none" d="M-27.876 48.16h182.098"/><text x="63.173" y="48.16" stroke="none" font-family="cmr10" font-size="10" transform="translate(-132.11 2.103)">equatore</text><path stroke="none" d="M65.093 48.16a1.92 1.92 0 1 0-3.84 0 1.92 1.92 0 0 0 3.84 0m-1.92 0"/><text x="63.173" y="48.16" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 10.366)">O</text><path fill="none" d="m63.173 48.16 74.602-52.237"/><path stroke="none" d="M140.175-4.077a2.4 2.4 0 1 0-4.8 0 2.4 2.4 0 0 0 4.8 0m-2.4 0"/><text x="63.173" y="48.16" stroke="none" font-family="cmmi10" font-size="10" transform="translate(78.135 -48.82)">P</text><path fill="none" stroke-dasharray="3.0,3.0" d="m-11.41-4.064 149.185-.013"/><text x="63.173" y="48.16" stroke="none" font-family="cmr10" font-size="10" transform="translate(-115.366 -57.701)">parallelo</text><path fill="none" d="M95.04 48.16a31.88 31.88 0 0 0-5.763-18.278"/><text x="63.173" y="48.16" stroke="none" font-family="cmmi10" font-size="10" transform="translate(39.977 -11.566)">&apos;</text></g></svg>
+</figure>
 
-Sessione ordinaria 2007
+## Meridiani
 
-CORSO DI ORDINAMENTO
+Consideriamo ora i piani che **contengono** l'asse $r$ (cioè che passano per entrambi i poli). Ognuno di essi taglia la sfera lungo una circonferenza massima passante per $N$ e per $S$; i due poli dividono tale circonferenza in due semicirconferenze. Ciascuna semicirconferenza da polo a polo è un **meridiano**.
 
-Tema di: MATEMATICA
+Ogni meridiano incontra ciascun parallelo in un solo punto e lo fa perpendicolarmente: meridiani e paralleli formano quindi sulla sfera un reticolo di curve tra loro ortogonali.
 
-QUESTIONARIO
+## Coordinate geografiche
 
-$1.$ La regione $R$ delimitata dal grafico di
-$$ x y 2 = , $$
-dall’asse $x$ e dalla retta $x = 1$ (in figura) è la base di
-un solido $S$ le cui sezioni, ottenute tagliando $S$
-con piani perpendicolari all’asse $x,$ sono tutte
-triangoli equilateri. Si calcoli il volume di $S.$
+Per individuare in modo univoco un punto della superficie servono due riferimenti fissati:
 
-$2.$ Le misure dei lati di un triangolo sono $40, 60$ e $80 cm$ . Si calcolino, con l’aiuto di una calcolatrice, le
-ampiezze degli angoli del triangolo approssimandole in gradi e primi sessagesimali.
-$3.$ Si determini, al variare di $k,$ il numero delle soluzioni reali dell’equazione:
-$x^{3} - x^{2} - k + 1 = 0$
-$4.$ Un serbatoio di olio ha la stessa capacità del massimo cono circolare retto di apotema $1$ metro. Si dica quanti
-litri di olio il serbatoio può contenere.
-$5.$ Si mostri che la funzione $y = x^{3} + 8$ soddisfa le condizioni del teorema del valor medio (o teorema di
-Lagrange) sull’intervallo $[-2, 2].$ Si determinino i valori medi forniti dal teorema e se ne illustri il significato
-geometrico.
-$6.$ Si $sa$ che il prezzo $p$ di un abito ha subìto una maggiorazione del $6%$ e, altresì, una diminuzione del $6%;$ non si
-ha ricordo, però, se sia avvenuta prima l’una o l’altra delle operazioni. Che cosa si può dire del prezzo finale
-dell’abito?
-$7.$ Se f(x) è una funzione reale dispari (ossia il suo grafico cartesiano è simmetrico rispetto all’origine), definita e
-integrabile nell'intervallo $[-2, 2],$ che dire del suo integrale esteso a tale intervallo?
-Quanto vale nel medesimo intervallo l'integrale della funzione $3+$ f(x)?
-$8.$ Si risolva l’equazione:
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
--
-⎟⎟
-⎠
-⎞
-⎜⎜
-⎝
-⎛
+- l'**equatore**, come parallelo di riferimento;
+- un **meridiano fondamentale** (per convenzione quello di Greenwich), come meridiano di riferimento.
 
-$$ 2 15 4 4 n n $$
+Dato un punto $P$ sulla sfera:
 
-$9.$ Si calcoli l’integrale indefinito
-$$ dx x \int $$
--
-$$ 2 1 $$
-e, successivamente, si verifichi che il risultato di
-$$ dx x \int $$
--
-$$ 1 0 2 1 $$
-è in accordo con il suo significato geometrico.
-$10.$ Per orientarsi sulla Terra si $fa$ riferimento a meridiani e a paralleli, a latitudini e a longitudini. Supponendo
-che la Terra sia una sfera $S$ e che l'asse di rotazione terrestre sia una retta $r$ passante per il centro di $S,$ come si
-può procedere per definire in termini geometrici meridiani e paralleli e introdurre un sistema di coordinate
-geografiche terrestri?
+**Latitudine** $\varphi$: è l'angolo, misurato nel centro $O$, tra il segmento $OP$ e il piano equatoriale. Equivalentemente, è l'angolo tra $OP$ e la sua proiezione ortogonale sul piano equatoriale. Vale $\varphi = 0$ sull'equatore e cresce fino a $\pm 90^\circ$ ai poli; si assume positiva a Nord e negativa a Sud:
+$$-90^\circ \le \varphi \le 90^\circ.$$
+Tutti i punti di una stessa latitudine giacciono su uno stesso parallelo.
 
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+**Longitudine** $\lambda$: è l'angolo diedro tra il piano del meridiano fondamentale e il piano del meridiano passante per $P$ (equivalentemente, l'angolo tra le proiezioni dei due meridiani sul piano equatoriale). Si misura da $0^\circ$ a $180^\circ$ verso Est oppure verso Ovest:
+$$-180^\circ < \lambda \le 180^\circ.$$
+Tutti i punti di una stessa longitudine giacciono su uno stesso meridiano.
 
-ORDINAMENTO 2007 - PROBLEMA $1$
 
-$$ 1. x y A B 1 C $$
-$2\alpha$
-$2\alpha$
-$2\alpha$
-$2\alpha$
-$\alpha$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="313.356" height="243.864" viewBox="-72 -72 235.017 182.898"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M110.228 19.18c0-50.287-40.763-91.05-91.049-91.05S-71.87-31.107-71.87 19.18c0 50.285 40.763 91.048 91.05 91.048 50.285 0 91.048-40.763 91.048-91.049Zm-91.049 0"/><path stroke="none" d="M21.1 19.18a1.92 1.92 0 1 0-3.84 0 1.92 1.92 0 0 0 3.84 0m-1.92 0"/><text x="19.179" y="19.179" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 10.366)">O</text><path fill="none" d="M19.18 19.18h91.048"/><g stroke="none" font-family="cmr10" font-size="10"><text x="19.179" y="19.179" transform="translate(94.582 3.472)">Green</text><text x="45.11" y="19.179" transform="translate(94.582 3.472)">wic</text><text x="59.276" y="19.179" transform="translate(94.582 3.472)">h</text></g><path fill="none" d="m19.18 19.18 58.54-69.765"/><path stroke="none" d="M80.12-50.585a2.4 2.4 0 1 0-4.8 0 2.4 2.4 0 0 0 4.8 0m-2.4 0"/><g stroke="none"><text x="19.179" y="19.179" font-family="cmmi10" font-size="10" transform="translate(62.073 -73.297)">P</text><text x="26.988" y="15.55" font-family="cmsy7" font-size="7" transform="translate(62.073 -73.297)">0</text></g><path fill="none" d="M51.046 19.18A31.87 31.87 0 0 0 39.663-5.233"/><text x="19.179" y="19.179" stroke="none" font-family="cmmi10" font-size="10" transform="translate(31.227 -17.014)">¸</text></g></svg>
+</figure>
 
-Equazione della retta $AC: y$
-$(tg2 )x$
-$\alpha$
-
-Equazione della retta $BC: y$
-$(tg )(x$
-$\alpha$
-= -
--
-
-Ponendo $tg$
-$\alpha =$ risulta:
-Retta $AC:$
-$2t$
-$(tg2 )x$
-$$ x 1 t $$
-$\alpha$
--
-
-Equazione della retta $BC: y$
-$(tg )(x$
-t(x
-$\alpha$
-= -
--
-= -
--
-
-Ricavando $t$ dalla seconda equazione e sostituendolo nella prima si ottiene l'equazione
-del luogo richiesto:
-
-$$ 2 2 $$
-$3x$
-$4x$
-$$ 1 0 $$
--
--
-
-Si tratta di un'iperbole traslata, di centro $(2/3; 0);$ effettuando la traslazione di assi:
-$x' = x - 2/3 , y' = y$
-ossia
-$x = x' + 2/3, y = y'$
-si ottiene la forma canonica (trascuro gli apici):
-
-$$ 2 2 x y 1 1 1 9 3 $$
--
-= da cui $b$
-a =
-e quindi gli asintoti
-$$ 2 y $$
-$3(x$
-$= \pm$
--
-
-Il grafico di questa iperbole è:
-
-$$ 1 2 -1 1 x y 1 $$
-
-Limitazioni geometriche:
-
-$$ 0 3 0 /3 $$
-$\alpha$
-$\pi$
-$\alpha$
-$\pi$
-<
-<
-$\Rightarrow$
-<
-<
-
-$$ Con 0 $$
-$\alpha =$
-il punto $C$ si trova nel punto dell'asse $x$ di ascissa $1/3;$ infatti, in generale, per il
-teorema dei seni, si ha:
-
-$$ AC sen 1 BC $$
-$sen(2$ )
-$2cos$
-$\alpha$
-$\alpha$
-$\alpha$
-che, per
-$\alpha \to$
-, tende a $1/2.$
-
-Pertanto $AC=(1/2)BC,$ da cui $AC=1/3,$ essendo $AB=1.$
-
-$$ Con / 3 $$
-$\alpha$
-$\pi$
-il punto $C$ non si ottiene (le rette $AC$ e $BC$ sono parallele); pertanto le
-limitazioni dell'ascissa di $C$ sono $x$
-$\le$
-; il grafico del luogo richiesto è quindi il ramo
-sinistro dell'iperbole.
-Notiamo esplicitamente che il vertice $C$ del triangolo può essere in uno qualsiasi dei
-quattro quadranti.
-
-Osservazione
-
-Il grafico richiesto può essere ottenuto anche studiando la funzione di equazione
-
-$$ 2 y $$
-$3x$
-$4x$
--
-, ottenuta dalla (*),
-
-e la sua simmetrica rispetto all'asse delle $x;$ valgono le stesse considerazioni di prima
-sulle limitazioni geometriche.
-
-Utilizzando i teoremi di trigonometria sui triangoli rettangoli, si ha che:
-l'altezza $AH$ relativa al lato $BC$ vale: $AH$
-$AB$ sen
-$$ sen $$
-$\alpha$
-$\alpha$
-$\cdot$
-
-L'altra altezza: $BK$
-$AB sen(2$ )
-$sen(2$ )
-$\alpha$
-$\alpha$
-$\cdot$
-
-La somma dei quadrati di queste due altezze è:
-$$ 2 2 2 2 z sen $$
-sen $(2$ )
-$$ sen (5 $$
-$4sen$
-$\alpha$
-$\alpha$
-$\alpha$
-$\alpha$
--
-
-Pongo sen
-$\alpha =$
-e considero il triangolo nel primo quadrante (ciò non lede la generalità
-della questione); in questo modo $x$ è positivo.
-
-$$ 2 2 z $$
-$x (5$
-$4x$ )
--
-
-Con il metodo delle derivate si ottiene il massimo richiesto per
-$$ 5 x 8 = $$
-, cioè per
-$$ 5 sen 8 $$
-$\alpha =$
-da cui
-$$ 52 14' $$
-$\alpha \approx$
-$^\circ$
-
-Metodo sintetico
-
-$$ ( ) 2 2 2 2 1 z $$
-$x (5$
-$4x$ )
-$4x (5$
-$4x$ )
--
--
-
-$z$ è massima se lo è (
-$$ ) 2 2 $$
-$4x (5$
-$4x$ )
--
+La coppia ordinata $(\varphi, \lambda)$ costituisce le **coordinate geografiche** del punto: al variare della latitudine tra $-90^\circ$ e $90^\circ$ e della longitudine tra $-180^\circ$ e $180^\circ$ si raggiunge ogni punto della superficie terrestre, e ogni punto (esclusi i due poli, dove la longitudine resta indeterminata) è individuato da un'unica coppia. In termini analitici, ponendo l'origine in $O$, l'asse $z$ lungo $r$ verso $N$ e l'asse $x$ nella direzione del meridiano fondamentale sul piano equatoriale, il punto $P$ ha coordinate
+$$\begin{cases} x = R\cos\varphi\,\cos\lambda \\ y = R\cos\varphi\,\sin\lambda \\ z = R\sin\varphi \end{cases}$$
+che è la consueta parametrizzazione della sfera mediante latitudine e longitudine.
 
 *Fonte:* [📄 PDF p.7](https://drive.google.com/file/d/1VbHTyALjAtoi5p7EL82zMVfKjykBx5R7/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

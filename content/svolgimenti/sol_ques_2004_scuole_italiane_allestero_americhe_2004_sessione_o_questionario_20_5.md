@@ -1,73 +1,41 @@
----
-title: 2004 Estero Americhe Ordinaria — Questionario — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_5
-of_item: ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_5
-prova_id: prova_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20_5|2004 Estero Americhe Ordinaria — Questionario — Quesito 5]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_americhe_2004_sessione_o_questionario_20|2004 Estero Americhe Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2004
+Calcolare
+$$\int_0^\pi e^x\cos x\,dx.$$
 
-QUESITO $4$
+## Integrale indefinito
 
-Nei saldi di fine stagione, un negozio ha diminuito del $30%$ il prezzo di listino di tutti gli
-articoli. Se il prezzo scontato di un abito è di $275$ euro quale era il suo prezzo di listino?
+Calcoliamo dapprima l'integrale indefinito $I=\displaystyle\int e^x\cos x\,dx$ integrando per parti due volte. Prendiamo $e^x$ come fattore da derivare (scrivendolo come $(e^x)'$):
 
-Detto $x$ il prezzo in euro di listino dell’abito risulta:
+$$I=\int (e^x)'\cos x\,dx=e^x\cos x-\int e^x\,(-\sin x)\,dx=e^x\cos x+\int e^x\sin x\,dx.$$
 
-$x= 275 + 30$
-$100 x, 70$
-$100 x= 275, x= 275$
-$70 100 \cong 393$
+Integriamo di nuovo per parti il secondo integrale, sempre con $e^x=(e^x)'$:
 
-Il prezzo di listino dell’abito era di circa $393$ euro.
+$$\int e^x\sin x\,dx=e^x\sin x-\int e^x\cos x\,dx=e^x\sin x-I.$$
 
-QUESITO $5$
+Sostituendo:
 
-Calcolare:
-$\int$ excos(x)
-$\pi$
-$$ 0 dx $$
+$$I=e^x\cos x+e^x\sin x-I=e^x(\cos x+\sin x)-I.$$
 
-Calcoliamo per parti l’integrale indefinito:
-$I= \int$ excos(x) $dx= \int$ (ex)' cos(x) $dx=$ excos(x) $-\int ex(-sin(x))dx=$
-= excos(x) $+ \int$ exsin(x) $dx=$ excos(x) $+ \int$ (ex)'(sin(x)) $dx=$
-= excos(x) + [exsin(x) $-\int$ excos(x) dx] = ex(cos(x) + sin(x)) $-I$ ;
-$2I=$ ex(cos(x) + sin(x)) , $I= \int$ excos(x) $dx= 1$
-$2$ ex(cos(x) + sin(x)) $+ C$
+Ricaviamo $I$ portando l'incognita a primo membro:
 
-Pertanto:
+$$2I=e^x(\cos x+\sin x)\;\Rightarrow\; I=\frac{1}{2}\,e^x(\cos x+\sin x)+C.$$
 
-$\int$ excos(x)
-$\pi$
-$dx= [1$
-$2$ ex(cos(x) + sin(x))]
-$\pi$
-$2 e\pi (-1) -1$
-$2 (1) = -1$
-$2 (e\pi + 1)$
+## Integrale definito
 
-QUESITO $6$
+Applichiamo il teorema fondamentale del calcolo integrale tra $0$ e $\pi$:
 
-Si dica quante sono le soluzioni reali dell’equazione
-$10 =$ sin $(x)$ e si indichi per ciascuna
-di esse un intervallo numerico che la comprende.
+$$\int_0^\pi e^x\cos x\,dx=\left[\frac{1}{2}\,e^x(\cos x+\sin x)\right]_0^\pi.$$
 
-Rappresentiamo graficamente le due funzioni: f(x) =
-$10$ e g(x) = sin $(x).$
-Le soluzioni dell’equazione data corrispondono alle ascisse dei punti di intersezioni fra i
-grafici delle due funzioni.
+Ricordando che $\cos\pi=-1$, $\sin\pi=0$, $\cos 0=1$, $\sin 0=0$:
+
+$$=\frac{1}{2}\,e^\pi(-1+0)-\frac{1}{2}\,e^0(1+0)=-\frac{1}{2}\,e^\pi-\frac{1}{2}.$$
+
+Pertanto
+
+$$\int_0^\pi e^x\cos x\,dx=-\frac{1}{2}\,(e^\pi+1).$$
 
 *Fonte:* [📄 PDF p.21](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 

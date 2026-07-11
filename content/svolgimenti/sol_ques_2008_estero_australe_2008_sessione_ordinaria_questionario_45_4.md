@@ -1,160 +1,30 @@
----
-title: 2008 Estero Australe Ordinaria — Questionario — Quesito 4 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_4
-of_item: ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_4
-prova_id: prova_2008_estero_australe_2008_sessione_ordinaria_questionario_45
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2008
----
+
 
 **Quesito:** [[Quesiti/ques_2008_estero_australe_2008_sessione_ordinaria_questionario_45_4|2008 Estero Australe Ordinaria — Questionario — Quesito 4]] · **Prova:** [[Prove/2008_estero_australe_2008_sessione_ordinaria_questionario_45|2008 Estero Australe Ordinaria — Questionario]]
 
-Estero (Australe) 2008
+Si chiede un esempio di polinomio $P(x)$ il cui grafico intersechi la retta $y = 3$ in tre punti distinti.
 
-Il volume massimo è quindi:
+Conviene partire da un polinomio che tagli l'asse $x$ in tre punti distinti e poi traslarlo verticalmente. Consideriamo
+$$A(x) = x(x-1)(x+1) = x^{3} - x,$$
+che si annulla, e quindi taglia l'asse delle ascisse, nei tre punti di ascissa $-1$, $0$ e $1$.
 
-$V= 1$
-$3 \pi R2h= 1$
-$3 \pi x2y= 1$
-$3 \pi (3200)(80) = 256000 \pi$
-$cm3 = 256 \pi$
-$dm3 \cong 268.083$ litri
+Traslando verso l'alto di $3$ unità il grafico di $A(x)$ si ottiene
+$$P(x) = x^{3} - x + 3.$$
+Il suo grafico taglia la retta $y = 3$ negli stessi punti in cui $A(x)$ taglia l'asse $x$. Infatti, imponendo $P(x) = 3$:
+$$x^{3} - x + 3 = 3 \;\Rightarrow\; x^{3} - x = 0 \;\Rightarrow\; x(x-1)(x+1) = 0,$$
+da cui $x = -1$, $x = 0$, $x = 1$: tre punti distinti, come richiesto.
 
-QUESITO $4$
+Il grafico di $P(x)$ e la retta $y = 3$ sono rappresentati qui sotto.
 
-Si dia un esempio, almeno, di polinomio P(x) il cui grafico tagli la retta $y= 3$ in $3$ punti
-distinti.
 
-Partiamo dal polinomio A(x) $= x(x-1)(x+ 1) = x^{3} -x$ che taglia l’asse $x$ nei punti di
-ascissa $0, 1$ e $-1.$ Se trasliamo verso l’alto di $3$ unità il grafico di questo polinomio
-otteniamo il polinomio P(x) $= x^{3} -x+ 3$ che taglia la retta $y= 3$ in tre punti distinti.
-Il grafico è il seguente:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="261.886" height="274.965" viewBox="-72 -72 196.414 206.224"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-71.87 77.763H71.702"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M69.822 75.363c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x=".116" y="77.763" stroke="none" font-family="cmmi10" font-size="10" transform="translate(75.519 2.153)">x</text><path fill="none" d="M.116 101.236V-39.205"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-2.284-37.325c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x=".116" y="77.763" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -122.846)">y</text><path fill="none" d="M-62.48 79.328v-3.13"/><g stroke="none" font-size="10"><text x=".116" y="77.763" font-family="cmsy10" transform="translate(-68.985 10.412)">¡</text><text x="7.894" y="77.763" font-family="cmr10" transform="translate(-68.985 10.412)">2</text></g><path fill="none" d="M-31.182 79.328v-3.13"/><g stroke="none" font-size="10"><text x=".116" y="77.763" font-family="cmsy10" transform="translate(-37.687 10.412)">¡</text><text x="7.894" y="77.763" font-family="cmr10" transform="translate(-37.687 10.412)">1</text></g><path fill="none" d="M31.414 79.328v-3.13"/><text x=".116" y="77.763" stroke="none" font-family="cmr10" font-size="10" transform="translate(28.798 10.412)">1</text><path fill="none" d="M62.712 79.328v-3.13"/><text x=".116" y="77.763" stroke="none" font-family="cmr10" font-size="10" transform="translate(60.096 10.412)">2</text><path fill="none" d="M2.62 30.815h-5.008"/><text x=".116" y="77.763" stroke="none" font-family="cmr10" font-size="10" transform="translate(-11.037 -43.725)">3</text><path fill="none" stroke="red" stroke-width=".8" d="M-64.045 133.554s1.173-6.695 1.624-9.17c.45-2.474 1.173-6.328 1.624-8.664.45-2.336 1.173-5.971 1.624-8.172.45-2.202 1.174-5.623 1.624-7.693s1.174-5.285 1.625-7.228a560 560 0 0 1 1.624-6.775 477 477 0 0 1 1.624-6.334c.45-1.699 1.174-4.326 1.624-5.909.451-1.582 1.174-4.025 1.625-5.495.45-1.469 1.173-3.734 1.624-5.094a240 240 0 0 1 1.624-4.708c.45-1.254 1.174-3.181 1.624-4.334s1.174-2.918 1.624-3.972 1.174-2.665 1.625-3.625c.45-.96 1.173-2.422 1.624-3.29a91 91 0 0 1 1.624-2.969 74 74 0 0 1 1.624-2.66 61 61 0 0 1 1.625-2.365 50 50 0 0 1 1.624-2.083c.45-.54 1.173-1.345 1.624-1.813.45-.468 1.174-1.16 1.624-1.558s1.174-.982 1.624-1.315 1.174-.814 1.625-1.085c.45-.271 1.173-.656 1.624-.869.45-.213 1.173-.507 1.624-.665.45-.158 1.174-.368 1.624-.475s1.174-.238 1.625-.298c.45-.06 1.173-.117 1.624-.134.45-.016 1.173-.006 1.624.018.45.023 1.174.094 1.624.155.451.06 1.174.186 1.624.28.451.093 1.174.269 1.625.391.45.122 1.173.342 1.624.49.45.148 1.173.405 1.624.575.45.17 1.174.46 1.624.647a78 78 0 0 1 3.249 1.46c.45.212 1.173.564 1.624.784.45.221 1.174.581 1.624.805l1.624.812c.451.224 1.174.585 1.625.805a108.062 108.062 0 0 0 3.248 1.538c.45.203 1.174.52 1.624.707.451.188 1.174.478 1.625.648.45.17 1.173.427 1.624.575.45.148 1.173.368 1.624.49.45.123 1.174.3 1.624.392.45.094 1.174.22 1.624.281.451.06 1.174.132 1.625.156.45.024 1.173.034 1.624.018.45-.016 1.173-.074 1.624-.133.45-.06 1.174-.19 1.624-.297s1.174-.316 1.625-.474c.45-.158 1.173-.451 1.624-.664.45-.212 1.173-.597 1.624-.868.45-.27 1.174-.75 1.624-1.083a29 29 0 0 0 1.625-1.314 34 34 0 0 0 1.624-1.557 41 41 0 0 0 1.624-1.812c.45-.54 1.173-1.464 1.624-2.08a60 60 0 0 0 1.624-2.364 74 74 0 0 0 1.625-2.659c.45-.78 1.173-2.099 1.624-2.967.45-.867 1.173-2.329 1.624-3.288.45-.959 1.174-2.57 1.624-3.623s1.174-2.819 1.625-3.97c.45-1.152 1.173-3.078 1.624-4.332.45-1.254 1.173-3.346 1.624-4.705.45-1.36 1.173-3.624 1.624-5.093.45-1.468 1.174-3.911 1.624-5.493.451-1.581 1.174-4.208 1.625-5.906.45-1.698 1.173-4.514 1.624-6.332.45-1.818 1.173-4.83 1.624-6.772.45-1.942 1.174-5.156 1.624-7.225s1.174-5.49 1.625-7.69c.45-2.2 1.173-5.835 1.624-8.17a1016 1016 0 0 0 1.624-8.662c.45-2.473 1.624-9.166 1.624-9.166"/><g fill="#00f" stroke="#00f" stroke-width=".8"><path fill="none" d="M-71.87 30.815H72.102"/><g fill="#00f" stroke="none" font-size="10"><text x=".116" y="77.763" font-family="cmmi10" transform="translate(75.719 -44.697)">y</text><text x="8.155" y="77.763" font-family="cmr10" transform="translate(75.719 -44.697)">=</text><text x="18.711" y="77.763" font-family="cmr10" transform="translate(75.719 -44.697)">3</text></g></g><path stroke="none" d="M-28.762 30.815c0-.668-1.084-1.21-2.42-1.21-1.337 0-2.42.542-2.42 1.21 0 .669 1.083 1.21 2.42 1.21s2.42-.541 2.42-1.21M2.536 30.815c0-.668-1.084-1.21-2.42-1.21-1.337 0-2.42.542-2.42 1.21 0 .669 1.083 1.21 2.42 1.21s2.42-.541 2.42-1.21M33.834 30.815c0-.668-1.083-1.21-2.42-1.21s-2.42.542-2.42 1.21c0 .669 1.084 1.21 2.42 1.21 1.337 0 2.42-.541 2.42-1.21m-2.42 0"/><g stroke="none"><text x=".116" y="77.763" font-family="cmmi10" font-size="10" transform="translate(56.74 -74.397)">y</text><text x="8.155" y="77.763" font-family="cmr10" font-size="10" transform="translate(56.74 -74.397)">=</text><text x="18.711" y="77.763" font-family="cmmi10" font-size="10" transform="translate(56.74 -74.397)">x</text><text x="24.426" y="74.134" font-family="cmr7" font-size="7" transform="translate(56.74 -74.397)">3</text><text x="31.134" y="77.763" font-family="cmsy10" font-size="10" transform="translate(56.74 -74.397)">¡</text><text x="41.134" y="77.763" font-family="cmmi10" font-size="10" transform="translate(56.74 -74.397)">x</text><text x="49.072" y="77.763" font-family="cmr10" font-size="10" transform="translate(56.74 -74.397)">+</text><text x="59.072" y="77.763" font-family="cmr10" font-size="10" transform="translate(56.74 -74.397)">3</text></g></g></svg>
+</figure>
 
-Con lo stesso criterio possiamo costruire altri esempi: P(x) $= (x-1)(x+ 2)(x+ 3) + 3$
-
-QUESITO $5$
-
-Quanti sono i numeri di quattro cifre (distinte tra loro) che è possibile scrivere utilizzando
-le cifre dispari?
-
-Dobbiamo utilizzare le cifre $1, 3, 5, 7, 9.$ I numeri di quattro cifre distinte che possiamo
-scrivere utilizzando le cinque cifre dispari sono dati dal numero delle disposizioni semplici
-di $5$ oggetti a $4$ a $4,$ quindi:
-
-$Dn,k= n(n-1) ... (n-k+ 1) = 5 ∙4 ∙3 ∙2 = 120.$
-
-Estero (Australe) 2008
-
-QUESITO $6$
-
-Si determinino le costanti a, $b, c$ in modo che le curve di equazioni
-
-f(x) $= x^{2} + ax+ b$ e g(x) $= x^{3} + c$
-
-siano tangenti nel punto $A(1, 0).$ Si determini l’equazione della tangente comune.
-
-Deve essere:
-
-$f(1) = 0$
-$g(1) = 0$
-$f'(1) = g'(1)$
-$1 + a+ b= 0$
-$1 + c= 0$
-$(2x+ a)x=1 = (3x^{2})x=1$
-$1 + a+ b= 0$
-$c= -1$
-$2 + a= 3; a= 1$
-$b= -2$
-$c= -1$
-$a= 1$
-
-Le due funzioni sono quindi:
-
-f(x) $= x^{2} + x-2$ e g(x) $= x^{3} -1$
-
-Il coefficiente angolare della tangente in $A=(1,0)$ a $g$ è $m=3;$ la tangente comune ha quindi
-equazione:
-
-$y-0 = 3(x-1); y= 3x-3$
-
-La situazione grafica è la seguente:
-
-Estero (Australe) 2008
-
-QUESITO $7$
-
-Il cono $W$ e il cilindro $T,$ circolari retti, hanno uguale raggio $r$ di base e uguale altezza $h.$ Si
-calcoli il limite del rapporto delle rispettive superfici totali al tendere di $r$ a zero.
-
-V(W) $= 1$
-$3 \pi r2h$ , V(T) $= \pi r2h$
-
-St(W) $= \pi ra+ \pi r^{2} = \pi r(\sqrt{h}^{2} + r^{2}) + \pi r^{2}$
-
-St(T) $= 2\pi rh+ 2\pi r^{2}$
-
-Quindi:
-
-$$ lim $$
-$r\to 0$
-St(W)
-St(T) = lim
-$r\to 0$
-$\pi r(\sqrt{h}^{2} + r^{2}) + \pi r^{2}$
-$2\pi rh+ 2\pi r^{2}$
-= lim
-$r\to 0$
-$(\sqrt{h}^{2} + r^{2}) + r$
-$2h+ 2r$
-= lim
-$r\to 0$
-$2h= 1$
-
-QUESITO $8$
-
-Si provi che le espressioni $y= 2sen(x+$
-$\pi$
-$6)$ e $y= \sqrt{3senx}+$ cosx definiscono la stessa
-funzione $f$ . Di $f$ si precisi: dominio, codominio e periodo.
-
-$y= \sqrt{3senx}+ cosx= 2 (\sqrt{3}$
-$2 senx+$
-$2$ cosx) $= 2sen(x+$
-$\pi$
-$6)$ c.v.d.
-
-Oppure, partendo dalla prima funzione:
-
-$y= 2sen(x+$
-$\pi$
-$6) = 2$ (senxcos
-$\pi$
-$6 +$ sen
-$\pi$
-$6$ cosx) $= 2 (\sqrt{3}$
-$2 senx+$
-$2$ cosx) $= \sqrt{3senx}+$ cosx
-
-Osserviamo che in generale la funzione lineare in seno e coseno:
-
-$y= asenx+$ bcosx
-si può trasformare in
-
-$y= \sqrt{a}^{2} + b^{2} sen(x+ \alpha$ ), con $tg\alpha = b$
-a,
-$\alpha =$ arctg(b
-a)
-
-Con la collaborazione di Angela Santamaria
+Con lo stesso criterio si possono costruire infiniti altri esempi: basta partire da un polinomio con tre radici reali distinte e sommare $3$. Ad esempio
+$$P(x) = (x-1)(x+2)(x+3) + 3,$$
+il cui grafico interseca la retta $y = 3$ nei tre punti di ascissa $1$, $-2$ e $-3$.
 
 *Fonte:* [📄 PDF p.47](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

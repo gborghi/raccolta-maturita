@@ -1,92 +1,53 @@
----
-title: 2006 Estero Europa — Questionario — Quesito 3 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55_3
-of_item: ques_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55_3
-prova_id: prova_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55_3|2006 Estero Europa — Questionario — Quesito 3]] · **Prova:** [[Prove/2006_scuole_italiane_allestero_europa_2006_sessione_ord_questionario_55|2006 Estero Europa — Questionario]]
 
-Scuole italiane all’estero (Europa) 2006
+La funzione $f(x) = 10^{x+8}$ è invertibile? Perché? Quali sono le derivate di $f$ e di $f^{-1}$? In generale, come si calcola la derivata della funzione inversa?
 
-funzione $z$ è decrescente se $0 < x<$
-$3 \sqrt{120}$ e crescente se $x>$
-$3 \sqrt{120}.$ Pertanto $z$ è
-minima se $x=$
-$3 \sqrt{120} cm$ e $y=$
-$$ 80 $$
-$x= \sqrt{120} cm,$ come trovato precedentemente.
+## Invertibilità
 
-QUESITO $2$
+La funzione $f(x) = 10^{x+8}$ è una funzione esponenziale di base $10 > 1$ composta con la funzione lineare crescente $x \mapsto x+8$: è quindi definita su tutto $\mathbb{R}$ e strettamente crescente. Essendo strettamente monotona, è iniettiva e perciò **invertibile** (la sua immagine è l'intervallo $(0,+\infty)$, su cui è definita l'inversa).
 
-L’equazione risolvente un dato problema è: ksenx $- 3k + 1 = 0$ dove $k$ è un
-parametro reale e $x,$ per soddisfare le condizioni del problema, deve essere
-$30^\circ < x< 60^\circ$ . Si discuta per quali valori di $k$ le radici dell’equazione siano
-soluzioni del problema.
+## Derivata di $f$
 
-Da ksenx $- 3k + 1 = 0$ ricaviamo: $senx=$
-$3k-1$
-$k$ . Se $30^\circ < x< 60^\circ$ risulta:
+Ricordando che $D\big(a^{g(x)}\big) = a^{g(x)}\cdot \ln a \cdot g'(x)$, con $a = 10$ e $g(x) = x+8$ (per cui $g'(x)=1$) si ottiene
 
-$2 < senx< \sqrt{3}$
+$$f'(x) = 10^{x+8}\cdot \ln 10.$$
 
-Pertanto $k$ deve soddisfare le seguenti limitazioni:
-$2 <$
-$3k-1$
-$< \sqrt{3}$
-$2$ . Perciò:
+Poiché $10^{x+8} > 0$ e $\ln 10 > 0$, risulta $f'(x) > 0$ per ogni $x$, confermando che $f$ è ovunque crescente.
 
-$3k-1$
-$> 1$
-$3k-1$
-$< \sqrt{3}$
+## Espressione dell'inversa
 
-$6k-2 -k$
-$> 0$
-$6k-2 -k\sqrt{3}$
-$< 0$
+Per determinare $f^{-1}$ ricaviamo $x$ dall'equazione $y = 10^{x+8}$. Passando al logaritmo in base $10$ (indicato con $\log$):
 
-$5k-2$
-$> 0$
-$(6 -\sqrt{3})k-2$
-$< 0$
+$$x + 8 = \log y \quad\Rightarrow\quad x = \log y - 8.$$
 
-$k< 0$ vel $k> 2$
-$0 < k<$
-$6 -\sqrt{3}$
+Scambiando i nomi delle variabili, l'inversa è
 
-Siccome risulta:
-$5 = 0.4$ e
-$6-\sqrt{3} \cong 0.47$ , le soluzioni del sistema sono:
+$$f^{-1}(x) = \log x - 8, \qquad x > 0.$$
 
-$5 < k<$
-$6 -\sqrt{3}$
+## Derivata dell'inversa
 
-QUESITO $3$
+Derivando direttamente, poiché $D(\log x) = \dfrac{1}{x\,\ln 10}$, si ha
 
-La funzione f(x) $= 10x+8$ è invertibile? Perché? Quali sono le derivate di
-$f$ e di $f-1?$ In genere, come si calcola la derivata della funzione inversa?
+$$\big(f^{-1}\big)'(x) = \frac{1}{x\,\ln 10}.$$
 
-La funzione f(x) $= 10x+8$ è strettamente crescente, quindi è invertibile.
+## Regola generale per la derivata della funzione inversa
 
-La derivata di $f$ è:
+Se $f$ è derivabile e invertibile con $f'\big(f^{-1}(y)\big) \neq 0$, allora l'inversa è derivabile e
 
-D(f) $= D(10x+8) = 10x+8 ∙ln10 =$ D(f)
+$$\big(f^{-1}\big)'(y) = \frac{1}{f'\big(f^{-1}(y)\big)}.$$
 
-Ricaviamo $f-1.$ Da $y= 10x+8$ ricaviamo: $x+ 8 =$ logy, $x= logy-8$ (con log abbiamo
-indicato il logaritmo in base $10).$ Quindi: $x= f-1(y) = logy-8.$ Si ha perciò:
+Verifichiamolo nel nostro caso. Posto $x = f^{-1}(y) = \log y - 8$, si ha
+
+$$f'\big(f^{-1}(y)\big) = 10^{(\log y - 8)+8}\cdot \ln 10 = 10^{\log y}\cdot \ln 10 = y\,\ln 10,$$
+
+da cui
+
+$$\big(f^{-1}\big)'(y) = \frac{1}{y\,\ln 10},$$
+
+in perfetto accordo con la derivata calcolata direttamente.
 
 *Fonte:* [📄 PDF p.56](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

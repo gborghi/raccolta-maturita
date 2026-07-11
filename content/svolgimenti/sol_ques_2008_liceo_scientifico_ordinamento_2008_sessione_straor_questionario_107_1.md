@@ -1,71 +1,52 @@
----
-title: 2008 Ordinamento Straordinaria — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_1
-of_item: >-
-  ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_1
-prova_id: prova_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2008
----
+
 
 **Quesito:** [[Quesiti/ques_2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107_1|2008 Ordinamento Straordinaria — Questionario — Quesito 1]] · **Prova:** [[Prove/2008_liceo_scientifico_ordinamento_2008_sessione_straor_questionario_107|2008 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2008
+Si determinino le costanti $a$ e $b$ in modo che la funzione
 
-ORDINAMENTO 2008 - SESSIONE STRAORDINARIA - QUESITI
+$$F(x) = a\cos x + b\cos^3 x$$
 
-QUESITO $1$
+sia una primitiva della funzione $f(x) = 3\sin x - 2\sin^3 x$.
 
-Si determinino le costanti a e $b$ in modo che la funzione F(x) = a $cosx+ bcos3 x$ sia
-una primitiva della funzione f(x) $= 3$ sen $x-2sen3x$ .
+La funzione $F$ è una primitiva di $f$ se e solo se $F'(x) = f(x)$ per ogni $x$. Calcoliamo quindi la derivata di $F$:
 
-F(x) è una primitiva di f(x) se $F’(x)=f(x).$ Quindi:
+$$F'(x) = -a\sin x + b\cdot 3\cos^2 x\cdot(-\sin x) = -a\sin x - 3b\cos^2 x\,\sin x.$$
 
-F'(x) $= -a senx-3b cos2x senx= 3$ sen $x-2sen3x$
+Per confrontare $F'$ con $f$ conviene esprimere tutto in funzione di $\sin x$. Usando l'identità $\cos^2 x = 1 - \sin^2 x$ si ottiene
 
-$-a senx-3b (1 -sen2x)senx= -a senx-3b senx+ 3bsen3x= 3$ sen $x-2sen3x$
+$$F'(x) = -a\sin x - 3b\,(1-\sin^2 x)\sin x = -a\sin x - 3b\sin x + 3b\sin^3 x,$$
 
-se:
+cioè
 
-${-a-3b= 3$
-$3b= -2$
-$a= -1$
-$b= -2$
+$$F'(x) = -(a+3b)\sin x + 3b\sin^3 x.$$
 
-Quindi F(x) è una primitiva di f(x) se $a= -1$ e $b= -$
-$$ 2 3 . $$
+Imponiamo l'uguaglianza $F'(x) = f(x)$ per ogni $x$:
 
-QUESITO $2$
+$$-(a+3b)\sin x + 3b\sin^3 x = 3\sin x - 2\sin^3 x.$$
 
-Si determinino le equazioni degli asintoti della curva f(x) $= arctanx-$
-$1+x^{2}$ .
+Poiché le funzioni $\sin x$ e $\sin^3 x$ sono linearmente indipendenti, l'identità vale per ogni $x$ solo se i coefficienti dei termini corrispondenti sono uguali:
 
-La funzione è definita e continua su tutto $R,$ quindi non ci sono asintoti verticali.
+$$\begin{cases} -(a+3b) = 3 \\ 3b = -2. \end{cases}$$
 
-$limx\to -\infty (arctanx-$
-$1+x^{2} ) = -$
-$\pi$
-$2 : y= -$
-$\pi$
-$2$ asintoto orizzontale per $x\to -\infty$
+Dalla seconda equazione ricaviamo
 
-$limx\to +\infty (arctanx-$
-$1+x^{2} ) = +$
-$\pi$
-$2 : y= +$
-$\pi$
-$2$ asintoto orizzontale per $x\to +\infty$
+$$b = -\frac{2}{3}.$$
 
-Essendoci gli asintoti orizzontali sia per $x\to -\infty$ sia per $x\to +\infty$ non possono esserci
-asintoti obliqui.
+Sostituendo nella prima:
+
+$$-a - 3\left(-\frac{2}{3}\right) = 3 \Rightarrow -a + 2 = 3 \Rightarrow a = -1.$$
+
+Le costanti cercate sono dunque
+
+$$a = -1, \qquad b = -\frac{2}{3},$$
+
+e la primitiva è $F(x) = -\cos x - \dfrac{2}{3}\cos^3 x$.
+
+**Verifica.** Derivando:
+
+$$F'(x) = \sin x + 2\cos^2 x\,\sin x = \sin x + 2(1-\sin^2 x)\sin x = 3\sin x - 2\sin^3 x = f(x),$$
+
+come richiesto.
 
 *Fonte:* [📄 PDF p.107](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 

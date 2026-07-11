@@ -1,138 +1,84 @@
----
-title: 2008 Estero Americhe Ordinaria — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_prob_2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema2_19_1
-of_item: prob_2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema2_19_1
-prova_id: prova_2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema2_19
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2008
----
+
 
 **Problema:** [[Problemi/prob_2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema2_19_1|2008 Estero Americhe Ordinaria — Problema 2 — Problema 1]] · **Prova:** [[Prove/2008_scuole_italiane_allestero_americhe_2008_sessione_o_problema2_19|2008 Estero Americhe Ordinaria — Problema 2]]
 
-Scuole italiane all’estero (Americhe) 2008
-Sessione $Ordinaria-$ Problema $2$
+Nel piano cartesiano si studino e si rappresentino le funzioni definite, per ogni $x\neq 0$, da
+$$f(x)=x+\frac{1}{x}, \qquad g(x)=x-\frac{1}{x},$$
+verificando poi che la somma di un numero positivo e del suo inverso è almeno $2$; si calcoli l'area della regione compresa fra i due grafici per $1\le x\le 2$ e si determini il luogo descritto dal punto $P\left(t+\frac{1}{t},\,t-\frac{1}{t}\right)$.
 
-Scuole italiane all’estero (Americhe) 2008 - PROBLEMA $2$
+## a) Studio della funzione $f$
 
-Nel piano riferito a coordinate cartesiane ortogonali e monometriche:
+La funzione $f(x)=x+\dfrac{1}{x}$ ha dominio $\mathbb{R}\setminus\{0\}$ ed è **dispari**, poiché $f(-x)=-f(x)$; il grafico è quindi simmetrico rispetto all'origine.
 
-Si studino e si rappresentino graficamente le funzioni $f$ e $g$ definite per ogni numero reale
-non nullo, rispettivamente, da f(x) $= x+$
-$x$ e g(x) $= x-$
-$x$ e si dica se è vero che la
-somma di un numero positivo e del suo inverso è almeno $2.$
+Moltiplicando $y=x+\dfrac{1}{x}$ per $x$ si ottiene $xy=x^2+1$, cioè $x^2-xy+1=0$: si tratta di una conica, e più precisamente di un'iperbole.
 
-Studiamo la funzione $f.$
+**Asintoti.** La retta $x=0$ è asintoto verticale, perché
+$$\lim_{x\to 0^+}\left(x+\frac{1}{x}\right)=+\infty, \qquad \lim_{x\to 0^-}\left(x+\frac{1}{x}\right)=-\infty.$$
+L'asintoto obliquo si trova nel modo consueto:
+$$m=\lim_{x\to\infty}\frac{f(x)}{x}=\lim_{x\to\infty}\left(1+\frac{1}{x^2}\right)=1,$$
+$$q=\lim_{x\to\infty}\big[f(x)-x\big]=\lim_{x\to\infty}\frac{1}{x}=0,$$
+quindi l'asintoto obliquo ha equazione $y=x$.
 
-f(x) $= x+ 1$
-$x, y= x+ 1$
-La funzione può essere scritta nella forma $xy= x^{2} + 1, x^{2} -xy+ 1 = 0;$ si tratta quindi di
-una conica; e siccome la funzione ha chiaramente l’asintoto $x=0$ (perché il limite per $x$
-che tende all’infinito è $0),$ possiamo concludere che si tratta di un’iperbole. L’altro asintoto
-lo possiamo trovare nel modo classico:
+**Estremi.** Dalla derivata prima
+$$f'(x)=1-\frac{1}{x^2}=0 \;\Rightarrow\; x=\pm 1,$$
+si ottengono un massimo relativo $M=(-1,\,-2)$ e un minimo relativo $m=(1,\,2)$. La funzione è crescente per $x<-1$ e per $x>1$, decrescente per $-1<x<0$ e per $0<x<1$.
 
-$limx\to \infty$
-f(x)
-$= 1 = m, limx\to \infty$ [f(x) $-mx] = limx\to \infty [x+$
-$x-x] = 0 = q.$ Quindi l’atro
-asintoto ha equazione $y=x.$
-Per completare lo studio della funzione è sufficiente trovare il massimo ed il minimo, che
-si ottengono annullando la derivata prima:
 
-f'(x) $= 1 -$
-$x^{2} = 0$ se $x= \pm 1$ . Quindi il massimo $M$ ha coordinate $M=(-1; -2)$ ed il minimo
-$m$ ha coordinate $m=(1; 2).$ Il grafico della $f$ è quindi il seguente:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="302.842" height="284.832" viewBox="-72 -72 227.131 213.624"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 41h199.908"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M125.958 38.6c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="28.084" y="41" stroke="none" font-family="cmmi10" font-size="10" transform="translate(103.687 2.153)">x</text><path fill="none" d="M28.084 141.154V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M25.684-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="28.084" y="41" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -105.631)">y</text><g fill="gray" stroke="gray" stroke-dasharray="3.0,3.0"><path fill="none" d="M-67.518 136.601 123.685-54.602"/><g fill="gray" stroke="none" font-size="10"><text x="28.084" y="41" font-family="cmmi10" transform="translate(99.134 -94.42)">y</text><text x="36.123" y="41" font-family="cmr10" transform="translate(99.134 -94.42)">=</text><text x="46.679" y="41" font-family="cmmi10" transform="translate(99.134 -94.42)">x</text></g></g><path fill="none" stroke="#00f" stroke-width=".8" d="m34.457-46.67 1.435 13.504 1.436 8.87 1.435 6.098 1.435 4.311 1.435 3.096 1.435 2.228 1.435 1.586 1.435 1.104 1.436.723 1.435.425 1.435.186 1.435-.015 1.435-.174 1.435-.313 1.435-.43 1.436-.524 1.435-.613 1.435-.684 1.435-.748 1.435-.807 1.435-.855 1.435-.9 1.436-.937 1.435-.97 1.435-1.005 1.435-1.032 1.435-1.058 1.435-1.082 1.436-1.1 1.435-1.124 1.435-1.14 1.435-1.155 1.435-1.17 1.435-1.185 1.435-1.197 1.436-1.209 1.435-1.22 1.435-1.23 1.435-1.238 1.435-1.25 1.435-1.255 1.435-1.265 1.436-1.27 1.435-1.279 1.435-1.285 1.435-1.29 1.435-1.296 1.435-1.3 1.435-1.308 1.436-1.31 1.435-1.316 1.435-1.32 1.435-1.323 1.435-1.328 1.435-1.331 1.435-1.335 1.436-1.338 1.435-1.34 1.435-1.345M-62.965 137.74l1.435-1.345 1.435-1.34 1.435-1.339 1.435-1.335 1.435-1.33 1.436-1.328 1.435-1.324 1.435-1.32 1.435-1.316 1.435-1.31 1.435-1.307 1.436-1.301 1.435-1.296 1.435-1.29 1.435-1.284 1.435-1.279 1.435-1.271 1.435-1.265 1.436-1.256 1.435-1.248 1.435-1.239 1.435-1.23 1.435-1.22 1.435-1.209 1.435-1.197 1.436-1.185 1.435-1.17 1.435-1.155 1.435-1.14 1.435-1.123 1.435-1.1 1.435-1.083 1.436-1.059 1.435-1.032 1.435-1.003 1.435-.97 1.435-.94 1.435-.898 1.435-.857 1.436-.804 1.435-.748 1.435-.686 1.435-.614 1.435-.524 1.435-.427 1.435-.313 1.436-.176 1.435-.015 1.435.186 1.435.422 1.435.726 1.435 1.101 1.436 1.586 1.435 2.228 1.435 3.094 1.435 4.308 1.435 6.096 1.435 8.863 1.435 13.495"/><path stroke="none" d="M52.446-4.525a1.6 1.6 0 1 0-3.2 0 1.6 1.6 0 0 0 3.2 0m-1.6 0"/><g stroke="none" font-size="10"><text x="28.084" y="41" font-family="cmmi10" transform="translate(26.295 -43.025)">m</text><text x="36.864" y="41" font-family="cmr10" transform="translate(26.295 -43.025)">(1</text><text x="45.753" y="41" font-family="cmmi10" transform="translate(26.295 -43.025)">;</text><text x="51.864" y="41" font-family="cmr10" transform="translate(26.295 -43.025)">2)</text></g><path stroke="none" d="M6.922 86.524a1.6 1.6 0 1 0-3.2 0 1.6 1.6 0 0 0 3.2 0m-1.6 0"/><g stroke="none" font-size="10"><text x="28.084" y="41" font-family="cmmi10" transform="translate(-76.531 48.025)">M</text><text x="38.876" y="41" font-family="cmr10" transform="translate(-76.531 48.025)">(</text><text x="42.764" y="41" font-family="cmsy10" transform="translate(-76.531 48.025)">¡</text><text x="50.542" y="41" font-family="cmr10" transform="translate(-76.531 48.025)">1</text><text x="55.542" y="41" font-family="cmmi10" transform="translate(-76.531 48.025)">;</text><text x="61.653" y="41" font-family="cmsy10" transform="translate(-76.531 48.025)">¡</text><text x="69.431" y="41" font-family="cmr10" transform="translate(-76.531 48.025)">2)</text></g></g></svg>
+</figure>
 
-Scuole italiane all’estero (Americhe) 2008
-Sessione $Ordinaria-$ Problema $2$
+## b) Studio della funzione $g$
 
-Studiamo la funzione $g.$
-g(x) $= x-1$
-$x , y= x-1$
+La funzione $g(x)=x-\dfrac{1}{x}$ ha dominio $\mathbb{R}\setminus\{0\}$ ed è anch'essa **dispari**.
 
-La funzione può essere scritta nella forma $xy= x^{2} -1, x^{2} -xy-1 = 0;$ si tratta quindi di
-una conica; e siccome la funzione ha chiaramente l’asintoto $x=0$ (perché il limite per $x$
-che tende all’infinito è $0),$ possiamo concludere che si tratta di un’iperbole. L’altro asintoto
-lo possiamo trovare nel modo classico:
+Da $y=x-\dfrac{1}{x}$ segue $xy=x^2-1$, cioè $x^2-xy-1=0$: di nuovo un'iperbole.
 
-$limx\to \infty$
-f(x)
-$= 1 = m, limx\to \infty$ [f(x) $-mx] = limx\to \infty [x-$
-$x-x] = 0 = q.$ Quindi l’atro
-asintoto ha equazione $y=x.$
-Per completare lo studio della funzione è sufficiente trovare il massimo ed il minimo, che
-si ottengono annullando la derivata prima:
+**Asintoti.** La retta $x=0$ è asintoto verticale, dato che
+$$\lim_{x\to 0^+}\left(x-\frac{1}{x}\right)=-\infty, \qquad \lim_{x\to 0^-}\left(x-\frac{1}{x}\right)=+\infty.$$
+Con lo stesso procedimento del punto precedente si trova l'asintoto obliquo $y=x$.
 
-g'(x) $= 1 +$
-$x^{2} = 0$ mai. Quindi $g$ non ha massimi né minimi ed è crescente sia per $x<0$
-sia per $x>0.$ Il grafico della $g$ è quindi il seguente:
+**Monotonia.** La derivata prima
+$$g'(x)=1+\frac{1}{x^2}>0 \quad \text{per ogni } x\neq 0$$
+è sempre positiva: quindi $g$ non ha né massimi né minimi ed è **crescente** sia per $x<0$ sia per $x>0$.
 
-Analizzando il grafico della funzione f(x) $= x+$
-$x$ per $x> 0$ osserviamo che il minimo è
-$2;$ possiamo quindi concludere che $x+$
-$x\ge 2$ per ogni $x> 0.$ Pertanto è vero che:
-la somma di un numero positivo e del suo inverso è almeno $2.$
 
-Si calcoli l’area della parte di piano compresa tra i grafici di $f$ e $g$ per $1 \le x\le 2$ e
-disponendo di una calcolatrice elettronica se ne dia un valore approssimato a meno di
-$10-2.$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="302.842" height="284.832" viewBox="-72 -72 227.131 213.624"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 41h199.908"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M125.958 38.6c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="28.084" y="41" stroke="none" font-family="cmmi10" font-size="10" transform="translate(103.687 2.153)">x</text><path fill="none" d="M28.084 141.154V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M25.684-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="28.084" y="41" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -105.631)">y</text><g fill="gray" stroke="gray" stroke-dasharray="3.0,3.0"><path fill="none" d="M-67.518 136.601 123.685-54.602"/><g fill="gray" stroke="none" font-size="10"><text x="28.084" y="41" font-family="cmmi10" transform="translate(99.134 -94.42)">y</text><text x="36.123" y="41" font-family="cmr10" transform="translate(99.134 -94.42)">=</text><text x="46.679" y="41" font-family="cmmi10" transform="translate(99.134 -94.42)">x</text></g></g><path fill="none" stroke="#00f" stroke-width=".8" d="m33.547 130.379 1.45-21.351 1.45-14.443 1.451-10.608 1.45-8.249 1.451-6.692 1.45-5.624 1.45-4.848 1.451-4.271 1.45-3.83 1.451-3.483 1.45-3.208 1.451-2.983 1.45-2.805 1.45-2.647 1.451-2.523 1.45-2.413 1.451-2.322 1.45-2.24 1.451-2.17 1.45-2.111 1.45-2.056 1.451-2.013 1.45-1.969 1.451-1.93 1.45-1.897 1.451-1.867 1.45-1.842 1.45-1.815 1.451-1.794 1.45-1.773L78.51.846 79.96-.89l1.451-1.721 1.45-1.708 1.45-1.695 1.451-1.683 1.45-1.67 1.451-1.66 1.45-1.65 1.451-1.642 1.45-1.632 1.45-1.625 1.451-1.618 1.45-1.61 1.451-1.603 1.45-1.599 1.451-1.59 1.45-1.587 1.45-1.582 1.451-1.575 1.45-1.573 1.451-1.567 1.45-1.563 1.451-1.559 1.45-1.556 1.45-1.552 1.451-1.55 1.45-1.545 1.451-1.542M-62.965 126.358l1.45-1.542 1.45-1.546 1.451-1.548 1.45-1.553 1.45-1.555 1.451-1.56 1.45-1.563 1.451-1.567 1.45-1.572 1.451-1.577 1.45-1.58 1.45-1.587 1.451-1.591 1.45-1.598 1.451-1.604 1.45-1.61 1.451-1.618 1.45-1.623 1.45-1.634 1.451-1.64 1.45-1.65 1.451-1.661 1.45-1.67 1.451-1.683 1.45-1.694 1.45-1.708 1.451-1.723 1.45-1.737 1.451-1.753 1.45-1.774 1.451-1.794 1.45-1.816 1.45-1.84 1.451-1.867 1.45-1.897 1.451-1.93 1.45-1.967 1.451-2.011 1.45-2.058 1.45-2.11 1.451-2.17 1.45-2.24 1.451-2.318 1.45-2.416 1.451-2.522 1.45-2.646 1.45-2.8 1.451-2.985 1.45-3.206 1.451-3.481 1.45-3.828 1.451-4.266 1.45-4.843 1.45-5.617 1.451-6.684 1.45-8.235 1.451-10.585 1.45-14.409 1.451-21.275"/></g></svg>
+</figure>
 
-La parte di piano richiesta è indicata nel seguente grafico:
+## c) La somma di un numero positivo e del suo inverso
 
-Scuole italiane all’estero (Americhe) 2008
-Sessione $Ordinaria-$ Problema $2$
+Osservando il grafico di $f(x)=x+\dfrac{1}{x}$ per $x>0$, il minimo assoluto vale $f(1)=2$. Pertanto
+$$x+\frac{1}{x}\ge 2 \qquad \text{per ogni } x>0,$$
+con l'uguaglianza solo per $x=1$. È dunque vero che **la somma di un numero positivo e del suo inverso è almeno $2$**.
 
-L’area richiesta si ottiene calcolando il seguente integrale:
+## d) Area fra i due grafici per $1\le x\le 2$
 
-$Area= \int$ (f(x) $-g(x))dx$
-$$ 2 1 $$
-$= \int (x+ 1$
-$x-x+ 1$
-$x) dx$
-$$ 2 1 = \int 2 $$
-$xd=$
-$$ 2 1 $$
-$2[ln|x|]1$
-$= 2 ln(2) \cong 1.39 u^{2} =$ Area.
+Per $x>0$ si ha $f(x)-g(x)=\left(x+\dfrac{1}{x}\right)-\left(x-\dfrac{1}{x}\right)=\dfrac{2}{x}>0$, quindi il grafico di $f$ sta sopra quello di $g$. L'area richiesta è
+$$A=\int_{1}^{2}\big[f(x)-g(x)\big]\,dx=\int_{1}^{2}\frac{2}{x}\,dx=2\big[\ln|x|\big]_{1}^{2}=2\ln 2.$$
+Numericamente
+$$A=2\ln 2\cong 1.39\ \text{u}^2 \quad (\text{a meno di } 10^{-2}).$$
 
-Sia $P$ un punto del piano di coordinate $(t+$
-$t; t-$
-$t).$ Al variare di $t (t \ne 0) , P$ descrive
-un luogo geometrico del quale si chiede l’equazione cartesiana e il grafico.
 
-Il luogo descritto da $P$ ha le seguenti equazioni parametriche:
-$x= t+$
-$$ 1 t $$
-$y= t-$
-$$ 1 t $$
-; $x+ y= 2t ; t=$
-$2 (x+ y)$ ; {
-$t=$
-$2 (x+ y)$
-$y= t-$
-$t=$
-$2 (x+ y) -$
-$x+y$
-; quindi:
-$y= 1$
-$2 (x+ y) -$
-$x+ y=$
-$(x+ y)2 -4$
-$2(x+ y)$
-; $2y(x+ y) = (x+ y)2 -4; x^{2} -y^{2} = 4$ .
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="149.919" height="205.81" viewBox="-72 -72 112.44 154.358"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-66.306 34.74h93.494"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M25.308 32.34c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-66.306" y="34.74" stroke="none" font-family="cmmi10" font-size="10" transform="translate(97.428 2.153)">x</text><path fill="none" d="M-66.306 34.74v-93.494"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-68.706-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-66.306" y="34.74" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -99.372)">y</text><path fill="#d9d9ff" stroke="none" d="m-35.008-27.856.802-.017.803-.057.802-.092.802-.133.803-.157.802-.182.802-.214.803-.236.802-.261.802-.29.802-.3.803-.321.802-.346.802-.357.803-.377.802-.393.802-.404.803-.42.802-.43.802-.45.803-.457.802-.471.802-.477.803-.49.802-.501.802-.508.803-.517.802-.528.802-.533.803-.542.802-.549.802-.558.803-.565.802-.567.802-.58.803-.58.802-.587.802-.595.802-.6.008 31.291-.802 1.006-.803 1.01-.802 1.017-.802 1.021-.802 1.028-.803 1.034-.802 1.043L-10.128-4l-.803 1.052-.802 1.066-.802 1.068-.803 1.081-.802 1.087-.802 1.094-.803 1.106-.802 1.115-.802 1.124-.803 1.135-.802 1.15-.802 1.155-.803 1.172-.802 1.187-.802 1.197-.803 1.212-.802 1.228-.802 1.247-.803 1.26-.802 1.284-.802 1.3-.803 1.318-.802 1.344-.802 1.369-.802 1.39-.803 1.416-.802 1.45-.802 1.476-.803 1.513-.802 1.547-.802 1.581Z"/><g fill="#00f" stroke="#00f" stroke-width=".8"><path fill="none" d="m-50.657-43.505 1.34 3.595 1.342 2.879 1.34 2.303 1.342 1.836 1.341 1.455 1.341 1.142 1.341.872 1.341.65 1.341.456 1.341.29 1.341.146 1.341.02 1.341-.092 1.341-.186 1.341-.27 1.341-.353 1.341-.424 1.341-.483 1.341-.537 1.341-.586 1.341-.634 1.341-.681 1.341-.715 1.341-.75 1.341-.78 1.341-.813 1.341-.84 1.342-.865 1.34-.89 1.342-.906 1.34-.931 1.342-.95 1.34-.969 1.342-.98 1.34-.998 1.342-1.012 1.34-1.028 1.342-1.037 1.34-1.054 1.342-1.062 1.34-1.072 1.342-1.082 1.34-1.094 1.342-1.1 1.34-1.11 1.342-1.117 1.341-1.125 1.341-1.133 1.341-1.138"/><text x="-66.306" y="34.74" fill="#00f" stroke="none" font-family="cmmi10" font-size="10" transform="translate(85.092 -90.899)">f</text></g><g fill="red" stroke="red" stroke-width=".8"><path fill="none" d="m-50.657 81.688 1.34-6.277 1.342-5.561 1.34-4.985 1.342-4.519 1.341-4.136 1.341-3.824 1.341-3.554 1.341-3.332 1.341-3.138 1.341-2.972 1.341-2.829 1.341-2.702 1.341-2.59 1.341-2.496 1.341-2.411 1.341-2.33 1.341-2.258 1.341-2.199 1.341-2.145 1.341-2.096 1.341-2.048 1.341-2.001 1.341-1.967 1.341-1.933 1.341-1.901 1.341-1.87 1.341-1.842 1.342-1.816 1.34-1.792 1.342-1.776 1.34-1.751 1.342-1.733 1.34-1.713 1.342-1.701 1.34-1.685 1.342-1.67 1.34-1.654 1.342-1.645 1.34-1.629 1.342-1.619 1.34-1.61 1.342-1.6 1.34-1.588 1.342-1.582 1.34-1.573 1.342-1.565 1.341-1.556 1.341-1.55 1.341-1.543"/><text x="-66.306" y="34.74" fill="red" stroke="none" font-family="cmmi10" font-size="10" transform="translate(85.092 -68.14)">g</text></g><path fill="none" stroke-dasharray="3.0,3.0" d="M-35.008 34.74v-62.596M-3.71 34.74v-78.245"/><text x="-66.306" y="34.74" stroke="none" font-family="cmr10" font-size="10" transform="translate(28.798 9.977)">1</text><text x="-66.306" y="34.74" stroke="none" font-family="cmr10" font-size="10" transform="translate(60.096 9.977)">2</text></g></svg>
+</figure>
 
-Il luogo descritto da $P$ è l’iperbole equilatera riferita agli assi cartesiani, con asse
-trasverso l’asse $x$ e semiassi lunghi $2.$
+## e) Luogo descritto dal punto $P$
 
-Con la collaborazione di Angela Santamaria
+Il punto $P\left(t+\dfrac{1}{t},\,t-\dfrac{1}{t}\right)$, con $t\neq 0$, ha equazioni parametriche
+$$\begin{cases} x=t+\dfrac{1}{t} \\[2mm] y=t-\dfrac{1}{t} \end{cases}$$
+Sommando e sottraendo le due equazioni si ottiene
+$$x+y=2t, \qquad x-y=\frac{2}{t}.$$
+Moltiplicando membro a membro:
+$$(x+y)(x-y)=2t\cdot\frac{2}{t}=4 \;\Rightarrow\; x^2-y^2=4.$$
+Il luogo descritto da $P$ è l'**iperbole equilatera** riferita ai propri assi, con asse trasverso coincidente con l'asse $x$ e semiassi di lunghezza $2$; i vertici sono $(\pm 2,\,0)$ e gli asintoti hanno equazioni $y=\pm x$.
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="282.599" height="251.445" viewBox="-72 -72 211.95 188.584"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-72.07 28.48h198.768"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M124.818 26.08c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="27.514" y="28.48" stroke="none" font-family="cmmi10" font-size="10" transform="translate(103.117 2.153)">x</text><path fill="none" d="M27.514 116.114V-58.754"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M25.114-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="27.514" y="28.48" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -93.111)">y</text><path fill="none" stroke="gray" stroke-dasharray="3.0,3.0" d="m-56.136 112.13 167.3-167.3M-56.136-55.17l167.3 167.3"/><path fill="none" stroke="#00f" stroke-width=".8" d="m67.348 28.48 1.277-10.166 1.276-4.323 1.277-3.394 1.277-2.924 1.276-2.63 1.277-2.427L76.285.34l1.277-2.159 1.276-2.065 1.277-1.989 1.277-1.925 1.276-1.87 1.277-1.824 1.277-1.782 1.277-1.748 1.276-1.716 1.277-1.688 1.277-1.663 1.276-1.64 1.277-1.62 1.277-1.601 1.276-1.585 1.277-1.568 1.277-1.554 1.277-1.542 1.276-1.529 1.277-1.518 1.277-1.507 1.276-1.498 1.277-1.488 1.277-1.48 1.277-1.471 1.276-1.465 1.277-1.457 1.277-1.451 1.276-1.445 1.277-1.438 1.277-1.433 1.277-1.428M67.348 28.48l1.277 10.166 1.276 4.323 1.277 3.394 1.277 2.924 1.276 2.63 1.277 2.427 1.277 2.275 1.277 2.16 1.276 2.065 1.277 1.989 1.277 1.925 1.276 1.87 1.277 1.823 1.277 1.783 1.277 1.748 1.276 1.716 1.277 1.688 1.277 1.663 1.276 1.64 1.277 1.62 1.277 1.601 1.276 1.584 1.277 1.569 1.277 1.554 1.277 1.541 1.276 1.53 1.277 1.517 1.277 1.508 1.276 1.497 1.277 1.489 1.277 1.48 1.277 1.471 1.276 1.465 1.277 1.457 1.277 1.45 1.276 1.445 1.277 1.439 1.277 1.433 1.277 1.428M-62.112-51.807l1.277 1.427 1.277 1.433 1.277 1.439 1.276 1.444 1.277 1.451 1.277 1.457 1.276 1.465 1.277 1.472 1.277 1.48 1.277 1.488 1.276 1.498 1.277 1.507 1.277 1.518 1.276 1.529 1.277 1.54 1.277 1.556 1.277 1.568 1.276 1.584 1.277 1.602 1.277 1.62 1.276 1.64 1.277 1.663 1.277 1.688 1.277 1.715 1.276 1.748 1.277 1.783 1.277 1.824 1.276 1.87 1.277 1.925 1.277 1.988 1.277 2.066L-21.257.34l1.277 2.275 1.277 2.427 1.276 2.63 1.277 2.924 1.277 3.394 1.276 4.323 1.277 10.013M-62.112 108.767l1.277-1.428 1.277-1.433 1.277-1.438 1.276-1.445 1.277-1.45 1.277-1.458 1.276-1.464 1.277-1.472 1.277-1.48 1.277-1.489 1.276-1.497 1.277-1.507 1.277-1.518 1.276-1.53 1.277-1.54 1.277-1.555 1.277-1.568 1.276-1.585 1.277-1.601 1.277-1.62 1.276-1.64 1.277-1.663 1.277-1.688 1.277-1.716 1.276-1.747 1.277-1.783 1.277-1.824 1.276-1.87 1.277-1.925 1.277-1.989 1.277-2.065 1.276-2.159 1.277-2.276 1.277-2.427 1.276-2.63 1.277-2.923 1.277-3.394 1.276-4.323 1.277-10.013"/><path stroke="none" d="M68.748 28.48a1.4 1.4 0 1 0-2.8 0 1.4 1.4 0 0 0 2.8 0m-1.4 0"/><g stroke="none" font-size="10"><text x="27.514" y="28.48" font-family="cmr10" transform="translate(43.367 11.033)">(2</text><text x="36.403" y="28.48" font-family="cmmi10" transform="translate(43.367 11.033)">;</text><text x="40.847" y="28.48" font-family="cmr10" transform="translate(43.367 11.033)">0)</text></g><path stroke="none" d="M-10.92 28.48a1.4 1.4 0 1 0-2.8 0 1.4 1.4 0 0 0 2.8 0m-1.4 0"/><g stroke="none" font-size="10"><text x="27.514" y="28.48" font-family="cmr10" transform="translate(-73.367 11.033)">(</text><text x="31.403" y="28.48" font-family="cmsy10" transform="translate(-73.367 11.033)">¡</text><text x="39.181" y="28.48" font-family="cmr10" transform="translate(-73.367 11.033)">2</text><text x="44.181" y="28.48" font-family="cmmi10" transform="translate(-73.367 11.033)">;</text><text x="48.625" y="28.48" font-family="cmr10" transform="translate(-73.367 11.033)">0)</text></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.19](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
 

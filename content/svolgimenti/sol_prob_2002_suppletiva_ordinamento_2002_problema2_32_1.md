@@ -1,167 +1,72 @@
----
-title: 2002 Suppletiva Ordinamento — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2002_suppletiva_ordinamento_2002_problema2_32_1
-of_item: prob_2002_suppletiva_ordinamento_2002_problema2_32_1
-prova_id: prova_2002_suppletiva_ordinamento_2002_problema2_32
-anno: '2002'
-pdf: Prova_Maturita_2002.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2002
----
+
 
 **Problema:** [[Problemi/prob_2002_suppletiva_ordinamento_2002_problema2_32_1|2002 Suppletiva Ordinamento — Problema 2 — Problema 1]] · **Prova:** [[Prove/2002_suppletiva_ordinamento_2002_problema2_32|2002 Suppletiva Ordinamento — Problema 2]]
 
-Suppletiva Ordinamento 2002 -
-Problema $2$
+Una piramide di vertice $V$, avente per base il trapezio rettangolo $ABCD$, è tale che: il trapezio di base è circoscritto a un semicerchio avente come diametro il lato $AB$ perpendicolare alle basi del trapezio; lo spigolo $VA$ è perpendicolare al piano di base; la faccia $VBC$ forma un angolo di $45^\circ$ con il piano della base.
 
-ORDINAMENTO 2002 - SESSIONE SUPPLETIVA - PROBLEMA $2$
 
-Una piramide di vertice $V,$ avente per base il trapezio rettangolo ABCD, è tale che:
-il trapezio di base è circoscritto a un semicerchio avente come diametro il
-lato $AB$ perpendicolare alle basi del trapezio;
-lo spigolo $VA$ è perpendicolare al piano di base della piramide;
-la faccia VBC della piramide forma un angolo di $45^\circ$ con il piano della base.
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="245.9" height="154.646" viewBox="-72 -72 184.425 115.985"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="M-27.783 30.015V-58.57h125.21L34.822 30.015Z"/><path fill="none" stroke="#00f" d="M-72.07-14.277c0-24.46 19.828-44.287 44.287-44.287s44.286 19.827 44.286 44.287"/><path stroke="none" d="M-26.463 30.015a1.32 1.32 0 1 0-2.64 0 1.32 1.32 0 0 0 2.64 0M-26.463-58.57a1.32 1.32 0 1 0-2.64 0 1.32 1.32 0 0 0 2.64 0M98.747-58.57a1.32 1.32 0 1 0-2.64 0 1.32 1.32 0 0 0 2.64 0M36.142 30.015a1.32 1.32 0 1 0-2.64 0 1.32 1.32 0 0 0 2.64 0M-26.463-14.277a1.32 1.32 0 1 0-2.64 0 1.32 1.32 0 0 0 2.64 0m-1.32 0"/><text x="-27.783" y="30.015" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.033 10.366)">A</text><text x="-27.783" y="30.015" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.62 -92.119)">B</text><text x="-27.783" y="30.015" stroke="none" font-family="cmmi10" font-size="10" transform="translate(128.743 -92.119)">C</text><text x="-27.783" y="30.015" stroke="none" font-family="cmmi10" font-size="10" transform="translate(66.138 10.366)">D</text><text x="-27.783" y="30.015" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.491 -40.876)">E</text><path fill="none" d="M-27.783 30.015 97.427-58.57"/></g></svg>
+</figure>
 
-a)
+## a)
 
-Indicato con E il punto medio del segmento $AB,$ dimostrare che il triangolo CED è
-rettangolo.
+Il semicerchio ha diametro $AB$ e centro $E$. I lati $AD$ e $BC$ sono tangenti alla semicirconferenza, quindi per la proprietà delle tangenti condotte da un punto esterno a una circonferenza gli angoli $A\hat{D}E$ e $C\hat{D}E$ sono congruenti; analogamente sono congruenti $B\hat{C}E$ e $D\hat{C}E$.
 
-Essendo $AD$ e $AC$ tangenti alla circonferenza di diametro
-$AB$ e centro E, per una nota proprietà della circonferenza
-gli angoli ADE e CDE sono congruenti; analogamente
-sono congruenti gli angoli BCE e DCE.
-Essendo $AD$ e $BC$ parallele, gli angoli ADC e BCD
-(coniugati interni) sono supplementari, quindi le loro
-metà, CDE e DCE sono complementari: l’angolo CED
-del triangolo CDE è quindi retto. Il triangolo CED è quindi
-rettangolo in E.
+Poiché $AD \parallel BC$, gli angoli $A\hat{D}C$ e $B\hat{C}D$ sono supplementari (coniugati interni), quindi le loro metà $C\hat{D}E$ e $D\hat{C}E$ sono complementari: l'angolo $C\hat{E}D$ è retto. Il triangolo $CED$ è dunque rettangolo in $E$.
 
-$b)$
+## b)
 
-Sapendo che l’altezza della piramide è lunga $2a,$ dove a è una lunghezza
-assegnata, e che $BC =2AD,$ calcolare l’area e il perimetro del trapezio ABCD.
+Poiché $VA \perp AB$ e la faccia $VBC$ forma un angolo di $45^\circ$ con la base, l'angolo $V\hat{B}A = 45^\circ$ nel triangolo rettangolo $AVB$; pertanto
 
-Suppletiva Ordinamento 2002 -
-Problema $2$
+$$AB = VA = 2a.$$
 
-Poiché la faccia VBC forma un angolo di $45^\circ$ con il piano di base, essendo $VA$
-perpendicolare $ad AB,$ l’angolo VBA del triangolo rettangolo AVB è di $45^\circ$ , pertanto $AB$ è
-uguale $ad AV,$ cioè è lungo anch’esso $2a.$
+Indichiamo con $x = AD$; allora $BC = 2x$. La proprietà delle tangenti dà $CD = AD + BC = 3x$. Conducendo da $D$ la parallela ad $AB$, che incontra $BC$ nel suo punto medio $F$, nel triangolo rettangolo $DFC$ (con $DF = AB = 2a$ e $CF = x$) si ha, per il teorema di Pitagora:
 
-Essendo $BC$ il doppio di $AD,$ se mandiamo da $D$ la parallela $ad AB,$ questa incontra $BC$
-nel suo punto medio $F.$ Per una nota proprietà delle tangenti $ad$ una circonferenza da un
-punto esterno, risulta $CD=AD+BC.$ Per il teorema di Pitagora risulta:
+$$(3x)^2 = (2a)^2 + x^2, \qquad 8x^2 = 4a^2, \qquad x = \frac{a\sqrt{2}}{2}.$$
 
-$CD2 = DF2 + CF2$ ; indicando con $x AD$ si ha $CD= AD+ BC= 3x$ quindi:
+Dunque
 
-$9x^{2} = 4a^{2} + x^{2}, 8x^{2} = 4a^{2} , x^{2} =$
-$$ a^{2 $$
-$2 , x= \sqrt{2}$
-$2$ a , da cui:
+$$AD = \frac{a\sqrt{2}}{2}, \qquad BC = a\sqrt{2}, \qquad CD = \frac{3a\sqrt{2}}{2}.$$
 
-$AD= x= \sqrt{2}$
-$2$ a , $BC= 2x= \sqrt{2}$ a , $CD= 3x=$
-$2 \sqrt{2a}$ .
+Area e perimetro del trapezio:
 
-Area(ABCD) =
-$(AD+BC)AB$
-$$ 2 = (3\sqrt{2 $$
-$2 a)2a$
-$$ 2 = 3\sqrt{2 $$
-$2 a^{2}$
+$$\text{Area}(ABCD) = \frac{(AD+BC)\cdot AB}{2} = \frac{\frac{3a\sqrt{2}}{2}\cdot 2a}{2} = \frac{3\sqrt{2}}{2}\,a^2,$$
 
-$2p(ABCD) = 2a+ 6x= 2a+ 3\sqrt{2}$ a $= a(2 + 3\sqrt{2})$
+$$2p(ABCD) = 2a + 3a\sqrt{2} = a\,(2 + 3\sqrt{2}).$$
 
-Suppletiva Ordinamento 2002 -
-Problema $2$
+## c)
 
-$c)$
+Sia $x$ l'altezza del prisma retto inscritto, con $0 < x < 2a$. La sezione $EFGM$ della piramide, parallela alla base a distanza $x$ dal piano di base (cioè a distanza $2a-x$ dal vertice $V$), ha area proporzionale al quadrato della distanza dal vertice:
 
-Determinare quindi l’altezza del prisma retto avente volume massimo, inscritto
-nella piramide in modo che una sua base sia contenuta nella base ABCD della
-piramide.
+$$\text{Area}(EFGM) = \frac{3\sqrt{2}}{2}\,a^2 \cdot \frac{(2a-x)^2}{4a^2} = \frac{3\sqrt{2}\,(2a-x)^2}{8}.$$
 
-Il prisma è rappresentato nella figura seguente:
+Il volume del prisma è quindi
 
-Indichiamo con $x$ l’altezza $AE$ del prisma; notiamo che il rapporto tra le aree dei trapezi
-ABCD ed EFGM è direttamente proporzionale $ai$ quadrati delle distanze dei loro priani
-(paralleli) dal vertice $V:$
+$$V_p = \text{Area}(EFGM)\cdot x = \frac{3\sqrt{2}}{8}\,x\,(2a-x)^2.$$
 
-Area(ABCD): Area(EFGM) $= AV2: EV2 , 3\sqrt{2}$
-$2 a^{2}:$ Area(EFGM) $= (2a)2: (2a-x)2$
+Il volume è massimo quando lo è $y = x\,(2a-x)^2$. Poiché $y$ è il prodotto di due potenze le cui basi $x$ e $2a-x$ hanno somma costante ($=2a$), esso è massimo quando le basi sono proporzionali agli esponenti ($1$ e $2$):
 
-Quindi:
-Area(EFGM) =
-$$ 3\sqrt{2 $$
-$2 a^{2} ∙(2a-x)2$
-$4a^{2}$
-$= 3\sqrt{2} ∙(2a-x)2$
+$$\frac{x}{1} = \frac{2a-x}{2} \quad\Rightarrow\quad 2x = 2a - x \quad\Rightarrow\quad x = \frac{2}{3}\,a.$$
 
-Il volume del prisma è dunque:
+Il prisma di volume massimo ha dunque altezza $\dfrac{2}{3}\,a$, cioè un terzo dell'altezza della piramide.
 
-$V=$ A(base) $∙altezza= 3\sqrt{2} ∙(2a-x)2$
-$∙x= 3\sqrt{2} ∙x(2a-x)2$
-, $0 \le x\le 2a$
+## d)
 
-Suppletiva Ordinamento 2002 -
-Problema $2$
+La superficie laterale del prisma è $S_l = 2p(EFGM)\cdot x$. Il perimetro della sezione parallela è proporzionale alla distanza dal vertice, quindi
 
-Tale volume è massimo se lo è:
+$$2p(EFGM) = 2p(ABCD)\cdot \frac{2a-x}{2a} = a\,(2+3\sqrt{2})\cdot\frac{2a-x}{2a},$$
 
-$y= x∙(2a-x)2 = x^{1} ∙(2a-x)2 , 0 \le x\le 2a (*)$
+da cui
 
-Siccome $y$ è il prodotto di due potenze la cui somma delle basi $(x$ e $2a-x)$ è costante,
-risulta massima se le basi sono proporzionali agli esponenti, cioè se:
-$1 = 2a-x$
-, $2x= 2a-x , x= 2$
-$3$ a
+$$S_l = a\,(2+3\sqrt{2})\cdot\frac{(2a-x)}{2a}\cdot x.$$
 
-Pertanto il prisma di volume massimo è quello di altezza uguale a
-$3$ a (un terzo
-dell’altezza della piramide).
+Essa è massima quando è massimo $z = (2a-x)\,x$. Trattandosi del prodotto di due quantità con somma costante, $z$ è massimo quando le due quantità sono uguali:
 
-Allo stesso risultato si può arrivare studiando il segno della derivata prima della funzione
+$$2a - x = x \quad\Rightarrow\quad x = a.$$
 
-$d)$
-
-Stabilire se tale prisma ha anche la massima area laterale.
-
-La superficie laterale del prisma ha area:
-
-$Sl= 2p(base)$ ∙altezza
-
-Il rapporto tra il perimetro della base della piramide ABCD e quello della base del prisma
-EFGM è uguale al rapporto tra le distanze dei loro piani dal vertice $V,$ quindi:
-$2p(ABCD): 2p(EFGM) = VA: VE= 2a: (2a-x) , 2p(EFGM) = 2p(ABCD) ∙(2a-x)$
-$2a$
-
-$Sl= 2p(base) ∙altezza= 2p(ABCD) ∙(2a-x)$
-$2a$
-$∙x= a(2 + 3\sqrt{2}) ∙(2a-x)$ ∙x
-$2a$
-
-che massima se lo è:
-
-$z= (2a-x)$ ∙x,
-$0 \le x\le 2a$
-
-Anche in questo caso possiamo risolvere il problema elementarmente, poiché $z$ è il
-prodotto di due quantità con somma costante: $z$ è massima se le due quantità sono
-uguali, cioè se:
-
-$2a-x= x$ , da cui $x=$ a .
-
-Il prisma di superficie laterale massima non è quello di volume massimo.
-
-Con la collaborazione di Angela Santamaria
+Il prisma di superficie laterale massima ha altezza $x = a$: esso **non** coincide con il prisma di volume massimo (che ha altezza $\dfrac{2}{3}\,a$).
 
 *Fonte:* [📄 PDF p.32](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

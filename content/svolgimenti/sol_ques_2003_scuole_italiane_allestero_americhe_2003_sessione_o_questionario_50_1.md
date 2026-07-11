@@ -1,72 +1,29 @@
----
-title: 2003 Americhe Ordinaria — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_1
-of_item: ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_1
-prova_id: prova_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50
-anno: '2003'
-pdf: Prova_Maturita_2003.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2003
----
+
 
 **Quesito:** [[Quesiti/ques_2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50_1|2003 Americhe Ordinaria — Questionario — Quesito 1]] · **Prova:** [[Prove/2003_scuole_italiane_allestero_americhe_2003_sessione_o_questionario_50|2003 Americhe Ordinaria — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2003
+Le ampiezze degli angoli di un triangolo sono $\alpha$, $\beta$, $\gamma$. Sapendo che $\cos\alpha = \dfrac{5}{13}$ e $\cos\beta = \dfrac{12}{13}$, calcolare il valore esatto di $\cos\gamma$, specificando se il triangolo è rettangolo, acutangolo o ottusangolo.
 
-Scuole italiane all’estero (Americhe) 2003 - Quesiti
+Poiché in un triangolo $\alpha + \beta + \gamma = \pi$, si ha $\gamma = \pi - (\alpha + \beta)$, quindi
 
-QUESITO $1$
+$$\cos\gamma = \cos\big[\pi - (\alpha + \beta)\big] = -\cos(\alpha + \beta) = -\big(\cos\alpha\,\cos\beta - \sin\alpha\,\sin\beta\big).$$
 
-Le ampiezze degli angoli di un triangolo sono $\alpha , \beta , \gamma$ . Sapendo che cos $\alpha =$
-$13$ e
-cos $\beta =$
-$$ 12 $$
-$13,$ calcolare il valore esatto di cos $\gamma$ , specificando se il triangolo è rettangolo,
-acutangolo o ottusangolo.
+Gli angoli di un triangolo sono compresi tra $0$ e $\pi$, dunque il loro seno è positivo. Ricaviamo allora i seni con la relazione fondamentale:
 
-Risulta cos $\gamma = cos[\pi -(\alpha + \beta$ )] $= -cos(\alpha + \beta ) = -(cos \alpha$ cos $\beta -sin \alpha$ sin $\beta$ )
+$$\sin\alpha = \sqrt{1 - \cos^2\alpha} = \sqrt{1 - \frac{25}{169}} = \sqrt{\frac{144}{169}} = \frac{12}{13},$$
 
-Ricordando che il seno di un angolo di un triangolo è positivo, abbiamo:
+$$\sin\beta = \sqrt{1 - \cos^2\beta} = \sqrt{1 - \frac{144}{169}} = \sqrt{\frac{25}{169}} = \frac{5}{13}.$$
 
-sin $\alpha = \sqrt{1} -cos2 \alpha = \sqrt{1} -25$
-$$ 169 = 12 13 $$
+Sostituendo:
 
-sin $\beta = \sqrt{1} -cos2 \beta = \sqrt{1} -144$
-$$ 169 = 5 13 $$
-Pertanto:
+$$\cos\gamma = -\left(\frac{5}{13}\cdot\frac{12}{13} - \frac{12}{13}\cdot\frac{5}{13}\right) = -\left(\frac{60}{169} - \frac{60}{169}\right) = 0.$$
 
-cos $\gamma = -(cos \alpha$ cos $\beta -sin \alpha$ sin $\beta ) = -( 5$
-$13 ∙12$
-$13 -12$
-$13 ∙5$
-$13) = 0 : \gamma = \pi$
+Poiché $\cos\gamma = 0$ e $0 < \gamma < \pi$, risulta $\gamma = \dfrac{\pi}{2}$: **il triangolo è rettangolo** (in $\gamma$).
 
-Quindi il triangolo è rettangolo.
 
-QUESITO $2$
-
-In un piano, riferito $ad$ un sistema di assi cartesiani ortogonali Oxy, è assegnata la curva
-di equazione $y=$ cos $x-2$ sin $x.$ Determinare una traslazione degli assi che trasformi
-l’equazione nella forma $Y=$ ksin $X.$
-
-Ricordiamo che la funzione lineare in seno e coseno $y=$ asin $x+$ bcos $x$ si può scrivere
-nella forma: $y= Rsin(x+ \alpha$ ), con $R= \sqrt{a}^{2} + b^{2}$ e $tg \alpha =$
-a .
-Nel nostro caso: $R= \sqrt{5} = k$ e $tg \alpha = -$
-$2$ . Quindi:
-
-$y=$ cos $x-2$ sin $x= -2$ sin $x+$ cos $x = \sqrt{5} sin(x+ \alpha$ ), con $\alpha =$ arc $tg(-1$
-$2) + k\pi$ ,
-con $\pi$
-$2 < \alpha < \pi$ essendo $a< 0$ e $b> 0,$
-quindi $\alpha =$ arc $tg(-1$
-$2) + \pi$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="279.876" height="140.866" viewBox="-72 -72 209.907 105.649"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="m-57.542-58.57 187.803 78.25H-57.542Z"/><path fill="none" d="M-57.542 8.726h10.955V19.68"/><text x="-57.542" y="19.68" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.75 -81.784)">A</text><text x="-57.542" y="19.68" stroke="none" font-family="cmmi10" font-size="10" transform="translate(183.759 10.366)">B</text><text x="-57.542" y="19.68" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.395 10.366)">C</text><text x="-57.542" y="19.68" stroke="none" font-family="cmmi10" font-size="10" transform="translate(5.39 -60.444)">®</text><text x="-57.542" y="19.68" stroke="none" font-family="cmmi10" font-size="10" transform="translate(159.658 -4.542)">¯</text><text x="-57.542" y="19.68" stroke="none" font-family="cmmi10" font-size="10" transform="translate(19.042 -16.034)">°</text></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.50](https://drive.google.com/file/d/1n_07H2pKPIZ0p5d9GN7HvXoIlCFb8amD/view)
 

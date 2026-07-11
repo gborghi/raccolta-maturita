@@ -1,74 +1,35 @@
----
-title: 2008 Ordinaria — Prova (PNI Informatica) — Quesito 2 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2008_sessione_ordinaria_2008_prova_147_2
-of_item: ques_2008_sessione_ordinaria_2008_prova_147_2
-prova_id: prova_2008_sessione_ordinaria_2008_prova_147
-anno: '2008'
-pdf: Prova_Maturita_2008.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2008
----
+
 
 **Quesito:** [[Quesiti/ques_2008_sessione_ordinaria_2008_prova_147_2|2008 Ordinaria — Prova (PNI Informatica) — Quesito 2]] · **Prova:** [[Prove/2008_sessione_ordinaria_2008_prova_147|2008 Ordinaria — Prova (PNI Informatica)]]
 
-Sessione ordinaria 2008
+Ricordando che il lato del decagono regolare inscritto in un cerchio è sezione aurea del raggio, si provi che
+$$\sin\frac{\pi}{10}=\frac{\sqrt{5}-1}{4}.$$
 
-CORSO SPERIMENTALE
+Sia $r$ il raggio del cerchio e sia $AB=\ell$ il lato del decagono regolare inscritto. I dieci lati sottendono al centro $O$ angoli uguali che, complessivamente, ricoprono l'angolo giro; ciascun lato sottende quindi l'angolo al centro
+$$A\widehat{O}B=\frac{2\pi}{10}=\frac{\pi}{5}.$$
 
-Indirizzo: PIANO INTERNAZIONALE INFORMATICA
 
-Tema di: MATEMATICA
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="266.092" height="278.549" viewBox="-72 -72 199.569 208.912"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="#c6c6c6" d="M127.099 27.515c0-55-44.585-99.585-99.584-99.585S-72.07-27.485-72.07 27.515s44.585 99.584 99.585 99.584 99.584-44.585 99.584-99.584Zm-99.584 0"/><path fill="none" stroke-width=".8" d="m27.515 27.515-30.774 94.71h61.547Z"/><path fill="none" stroke="#00f" stroke-width="1.2" d="M-3.26 122.226h61.548"/><path fill="none" d="M20.92 47.81a21.34 21.34 0 0 0 13.189 0"/><g stroke="none"><text x="27.515" y="27.515" font-family="cmr10" font-size="10" transform="translate(-7.299 34.741)">36</text><text x="37.515" y="23.886" font-family="cmsy7" font-size="7" transform="translate(-7.299 34.741)">±</text></g><path stroke="none" d="M29.015 27.515a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M-1.7599999999999998 122.226a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M59.788 122.226a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m-1.5 0"/><text x="27.515" y="27.515" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.953 -3.533)">O</text><text x="27.515" y="27.515" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-41.807 105.077)">A</text><text x="27.515" y="27.515" stroke="none" font-family="cmmi10" font-size="10" transform="translate(34.307 105.077)">B</text><text x="27.515" y="27.515" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-29.425 49.1)">r</text><text x="27.515" y="27.515" stroke="none" font-family="cmmi10" font-size="10" transform="translate(24.635 49.1)">r</text><text x="27.515" y="27.515" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.083 105.794)">`</text></g></svg>
+</figure>
 
-Il candidato risolva uno dei due problemi e risponda a $5$ dei $10$ quesiti del questionario.
+Il triangolo $AOB$ è isoscele sulla base $AB$, con $\overline{OA}=\overline{OB}=r$. L'altezza relativa alla base è anche bisettrice dell'angolo al vertice e mediana, quindi dimezza sia l'angolo $A\widehat{O}B$ sia il lato $AB$. Considerando il triangolo rettangolo che ha per ipotenusa un raggio e per cateto metà della base, si ottiene
+$$\frac{\ell}{2}=r\,\sin\frac{A\widehat{O}B}{2}=r\,\sin\frac{\pi}{10},$$
+ossia
+$$\ell=2r\,\sin\frac{\pi}{10}. \qquad (1)$$
 
-PROBLEMA $1$
-Nel piano riferito a coordinate cartesiane, ortogonali e monometriche, si considerino i triangoli
-ABC con $A(1, 0), B(3, 0)$ e $C$ variabile sulla retta d’equazione $y=2x.$
-$1.$ Si provi che i punti $(1, 2)$ e
-⎟
-⎠
-⎞
-⎜
-⎝
-⎛
-$$ 5 6 , 5 3 $$
-corrispondono alle due sole posizioni di $C$ per cui è
-ˆ
-$\pi$
-$$ = B C A $$
+Per ipotesi il lato $\ell$ è la sezione aurea del raggio $r$: ciò significa che $\ell$ è medio proporzionale tra l'intero raggio e la parte rimanente $r-\ell$, cioè
+$$r:\ell=\ell:(r-\ell)\quad\Longrightarrow\quad \ell^{2}=r(r-\ell).$$
 
-$2.$ Si determini l’equazione del luogo geometrico $\gamma$ descritto, al variare di $C,$ dall’ortocentro
-del triangolo ABC. Si tracci $\gamma$ .
-$3.$ Si calcoli l’area $\Omega$ della parte di piano delimitata da $\gamma$ e dalle tangenti a $\gamma$ nei punti A e $B.$
-$4.$ Verificato che è
-$$ )^{1} 3 $$
-$(ln$
-$$ 2 3 $$
--
-$\Omega$
-si illustri una procedura numerica per il calcolo
-approssimato di $ln 3.$
+Si tratta dell'equazione $\ell^{2}+r\ell-r^{2}=0$, di incognita $\ell$; scartando la radice negativa (priva di significato geometrico) si ricava
+$$\ell=\frac{-r+\sqrt{r^{2}+4r^{2}}}{2}=\frac{-r+r\sqrt{5}}{2}=r\cdot\frac{\sqrt{5}-1}{2}. \qquad (2)$$
 
-PROBLEMA $2$
-Siano $f$ e $g$ le funzioni definite, per ogni $x$ reale, da
-
-$$ 2 ) ( x x g x f x = = $$
-$1.$ Si traccino i grafici di $f$ e di $g$ e si indichi con A la loro intersezione di ascissa negativa.
-$2.$ Si calcoli, con uno dei metodi di approssimazione numerica studiati, l’ascissa di A con due
-cifre decimali esatte.
-$3.$ Quanti e quali sono gli zeri della funzione
-$$ 2 2 $$
-? Si tracci il grafico di $h.$
-$$ ) ( x x h $$
-$x -$
-$4.$ Si calcoli l’area racchiusa tra il grafico di $h$ e l’asse $x$ sull’intervallo $[2, 4].$
+Uguagliando le espressioni $(1)$ e $(2)$ del medesimo lato $\ell$,
+$$2r\,\sin\frac{\pi}{10}=r\cdot\frac{\sqrt{5}-1}{2},$$
+e semplificando $r\neq 0$ si conclude
+$$\sin\frac{\pi}{10}=\frac{\sqrt{5}-1}{4},$$
+che è la tesi. Numericamente $\dfrac{\sqrt{5}-1}{4}\approx 0{,}30902$, in accordo con $\sin 18^\circ\approx 0{,}30902$.
 
 *Fonte:* [📄 PDF p.147](https://drive.google.com/file/d/1c1FHjNiMGKITLO7iqXNPP_w68IHubjxH/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

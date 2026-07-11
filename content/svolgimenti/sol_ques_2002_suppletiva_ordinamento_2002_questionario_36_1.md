@@ -1,76 +1,50 @@
----
-title: 2002 Suppletiva Ordinamento — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2002_suppletiva_ordinamento_2002_questionario_36_1
-of_item: ques_2002_suppletiva_ordinamento_2002_questionario_36_1
-prova_id: prova_2002_suppletiva_ordinamento_2002_questionario_36
-anno: '2002'
-pdf: Prova_Maturita_2002.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2002
----
+
 
 **Quesito:** [[Quesiti/ques_2002_suppletiva_ordinamento_2002_questionario_36_1|2002 Suppletiva Ordinamento — Questionario — Quesito 1]] · **Prova:** [[Prove/2002_suppletiva_ordinamento_2002_questionario_36|2002 Suppletiva Ordinamento — Questionario]]
 
-Suppletiva Ordinamento 2002 -
-Questionario
+Si consideri l'equazione in $x,y$
 
-ORDINAMENTO 2002 - SESSIONE SUPPLETIVA - QUESTIONARIO
+$$2x^2 + 2y^2 + x + y + k = 0,$$
 
-QUESITO $1$
+dove $k$ è un parametro reale, e si stabilisca per quali valori di $k$ essa rappresenta, in un piano riferito a un sistema monometrico di assi cartesiani ortogonali, una circonferenza. Le alternative proposte sono:
 
-Si consideri la seguente equazione in $x, y: 2x^{2} + 2y^{2} + x+ y+ k= 0,$ dove $k$ è un
-parametro reale. La sua rappresentazione in un piano, riferito a un sistema monometrico
-di assi cartesiani ortogonali:
-a) È una circonferenza per ogni valore di $k;$
-$b)$ è una circonferenza solo per $k<$
-$$ 1 2 ; $$
-$c)$ è una circonferenza solo per $k<$
-$$ 1 4 ; $$
-$d)$ non è una circonferenza qualunque sia $k.$
+- **a)** è una circonferenza per ogni valore di $k$;
+- **b)** è una circonferenza solo per $k<\dfrac12$;
+- **c)** è una circonferenza solo per $k<\dfrac14$;
+- **d)** non è una circonferenza qualunque sia $k$.
 
-Una sola alternativa è corretta: individuarla e giustificare la risposta.
+## Soluzione
 
-L’equazione $x^{2} + y^{2} + ax+ by+ c= 0$ rappresenta una circonferenza (reale) se:
+Ricordiamo che l'equazione
 
-$$ a^{2 $$
-$4 + b^{2}$
-$4 -c\ge 0$ in particolare se $a^{2}$
-$4 + b^{2}$
-$4 -c= 0$ la circonferenza ha raggio nullo.
+$$x^2 + y^2 + ax + by + c = 0$$
 
-L’equazione $2x^{2} + 2y^{2} + x+ y+ k= 0$ può essere vista nella forma:
+rappresenta una circonferenza reale quando
 
-$x^{2} + y^{2} + 1$
-$2 x+ 1$
-$2 y+ k$
-$$ 2 = 0 $$
+$$\frac{a^2}{4} + \frac{b^2}{4} - c \ge 0,$$
 
-Essa rappresenta una circonferenza (reale) quando:
-$$ 1 16 + 1 $$
-$16 -$
-$2 \ge 0$ ,
-$8 \ge$
-$2 , k\le$
-$$ 1 4 $$
+essendo il primo membro il quadrato del raggio; in particolare, se la quantità è nulla la circonferenza degenera in un punto (raggio nullo).
 
-Ipotizzando che la richiesta faccia riferimento $ad$ una circonferenza di raggio non nullo, la
-risposta corretta è la $c).$
+L'equazione data non è ancora nella forma canonica, perché i coefficienti di $x^2$ e $y^2$ valgono $2$. Dividendo entrambi i membri per $2$ otteniamo
 
-QUESITO $2$
+$$x^2 + y^2 + \frac{1}{2}x + \frac{1}{2}y + \frac{k}{2} = 0,$$
 
-Considerata la funzione di variabile reale: f(x) $= \sqrt{x}-1 + \sqrt{1} -x,$ dire se esiste il limite
-di $f (x)$ per $x$ tendente a $1$ e giustificare la risposta.
+da cui $a = b = \dfrac12$ e $c = \dfrac{k}{2}$.
 
-La funzione è definita solo se $x=1,$ dove vale $0:$ non ha senso il limite per $x$ che tende $ad$
-$1,$ poiché la definizione di limite per $x$ che tende a $c$ presuppone che $c$ sia un punto di
-accumulazione per il dominio della funzione; nel nostro caso $x=1$ è un punto isolato.
+La condizione di realtà diventa allora
+
+$$\frac{a^2}{4} + \frac{b^2}{4} - c = \frac{1}{16} + \frac{1}{16} - \frac{k}{2} = \frac{1}{8} - \frac{k}{2} \ge 0,$$
+
+cioè
+
+$$\frac{k}{2} \le \frac{1}{8} \quad\Rightarrow\quad k \le \frac{1}{4}.$$
+
+Per $k = \dfrac14$ il raggio è nullo e la "circonferenza" si riduce al suo centro $\left(-\dfrac14,\,-\dfrac14\right)$; interpretando quindi la richiesta come relativa a una circonferenza di raggio non nullo, la condizione è
+
+$$k < \frac{1}{4}.$$
+
+La risposta corretta è la **c)**.
 
 *Fonte:* [📄 PDF p.36](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

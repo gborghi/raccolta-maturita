@@ -1,91 +1,27 @@
----
-title: 2004 Estero Americhe Suppletiva — Questionario — Quesito 1 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_1
-of_item: ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_1
-prova_id: prova_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_1|2004 Estero Americhe Suppletiva — Questionario — Quesito 1]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28|2004 Estero Americhe Suppletiva — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2004
+Della funzione $f(x)$ si sa che
+$$f''(x)=2^x,\qquad f'(0)=0,\qquad f(0)=\left(\frac{1}{\log 2}\right)^2,$$
+dove con $\log$ si intende il logaritmo naturale $\ln$. Si vuole determinare $f(x)$.
 
-Americhe emisfero boreale 2004 - Suppletiva - Quesiti
+Poiché è nota la derivata seconda, si ricava $f$ integrando due volte e fissando ogni volta la costante di integrazione con la condizione assegnata.
 
-QUESITO $1$
+**Prima integrazione.** Ricordando che $\int 2^x\,dx=\dfrac{2^x}{\ln 2}+\text{cost.}$, da $f''(x)=2^x$ si ottiene
+$$f'(x)=\int 2^x\,dx=\frac{2^x}{\ln 2}+c.$$
+Imponendo $f'(0)=0$:
+$$\frac{2^0}{\ln 2}+c=\frac{1}{\ln 2}+c=0 \;\Rightarrow\; c=-\frac{1}{\ln 2}.$$
+Dunque
+$$f'(x)=\frac{2^x}{\ln 2}-\frac{1}{\ln 2}.$$
 
-Della funzione $f (x)$ si $sa$ che: f''(x) $= 2x, f'(0) = 0, f(0) =$ (
-$log2)$
-. Quale è f(x)?
+**Seconda integrazione.** Integrando ancora, e ricordando che $\dfrac{1}{\ln 2}$ è una costante,
+$$f(x)=\int\left(\frac{2^x}{\ln 2}-\frac{1}{\ln 2}\right)dx=\frac{2^x}{(\ln 2)^2}-\frac{x}{\ln 2}+k.$$
+Imponendo la condizione $f(0)=\left(\dfrac{1}{\log 2}\right)^2=\dfrac{1}{(\ln 2)^2}$:
+$$f(0)=\frac{2^0}{(\ln 2)^2}-0+k=\frac{1}{(\ln 2)^2}+k=\frac{1}{(\ln 2)^2}\;\Rightarrow\; k=0.$$
 
-$N. B.$ Supponiamo che con log si intenda il logaritmo naturale $ln$
-
-Da f''(x) $= 2x$ integrando otteniamo: f'(x) $= \int 2xdx=$
-$2x$
-$ln2 + c$
-Da $f'(0) = 0$ deduciamo:
-$ln2 + c= 0, c= -$
-$ln2$ quindi: f'(x) =
-$2x$
-$ln2 -$
-$$ 1 ln2 $$
-Integrando ancora:
-f(x) $= \int ( 2x$
-$ln2 -1$
-$ln2) dx= 2x$
-$ln2 2 -x$
-$ln2 + k$
-
-Da $f(0) =$ (
-$log2)$
-deduciamo infine:
-$ln2 2 + k=$ (
-$ln2)$
-, $k= 0.$ Quindi:
-
-f(x) =
-$2x$
-$ln22-x$
-$ln2$ .
-
-QUESITO $2$
-
-Determinare la derivata della funzione $\sqrt{x}$ usando la definizione.
-
-In base alla definizione di derivata si ha:
-
-f'(x) = lim
-$h\to 0$
-$f(x+ h) -f(x)$
-= lim
-$h\to 0$
-$\sqrt{x}+ h-\sqrt{x}$
-= lim
-$h\to 0$
-$x+ h-x$
-$h(\sqrt{x}+ h+ \sqrt{x})$
-$2\sqrt{x}$ .
-
-QUESITO $3$
-
-Determinare un polinomio P(x) tale che:
-
-$P(0) = P(1) = 0,$
-$P'(1) = 1$ e $\int$ P(x)dx
-$$ 1 0 = 1. $$
-
-La prima condizione ci suggerisce un polinomio del tipo P(x) $= ax(x-1)(x-b)$
-Risulta: P'(x) $= a(x-1)(x-b) + ax(x-b) + ax(x-1)$ e da $P'(1) = 1$ otteniamo:
-$a(1-b) = 1.$
+**Conclusione.** La funzione cercata è
+$$f(x)=\frac{2^x}{(\ln 2)^2}-\frac{x}{\ln 2}.$$
 
 *Fonte:* [📄 PDF p.28](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
 

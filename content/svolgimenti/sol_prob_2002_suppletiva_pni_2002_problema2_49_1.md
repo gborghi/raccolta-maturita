@@ -1,223 +1,76 @@
----
-title: 2002 Suppletiva PNI — Problema 2 — Problema 1 — Svolgimento
-tipo: soluzione
-item_id: sol_prob_2002_suppletiva_pni_2002_problema2_49_1
-of_item: prob_2002_suppletiva_pni_2002_problema2_49_1
-prova_id: prova_2002_suppletiva_pni_2002_problema2_49
-anno: '2002'
-pdf: Prova_Maturita_2002.pdf
-cluster: Geometria
-tags:
-  - maturita/soluzione
-  - area/geometria
-  - cluster/geometria
-  - anno/2002
----
+
 
 **Problema:** [[Problemi/prob_2002_suppletiva_pni_2002_problema2_49_1|2002 Suppletiva PNI — Problema 2 — Problema 1]] · **Prova:** [[Prove/2002_suppletiva_pni_2002_problema2_49|2002 Suppletiva PNI — Problema 2]]
 
-Suppletiva PNI 2002 - Problema $2$
+È data la sfera $S$ di centro $O$ e raggio $r$. Si richiede il cono di volume minimo circoscritto a $S$, il cono di volume massimo inscritto in $S$, la capacità complessiva dei due coni (con $r=1$ m), l'angolo del settore circolare sviluppo della superficie laterale del primo cono e, infine, con un metodo numerico, l'angolo di apertura dello stesso cono.
 
-PNI 2002 SESSIONE SUPPLETIVA - PROBLEMA $2$
+In ogni caso indichiamo con $\rho$ il raggio di base del cono, con $h$ la sua altezza e con
+$$V=\frac{1}{3}\pi\rho^2 h$$
+il suo volume.
 
-È data la sfera $S$ di centro O e raggio $R.$ Determinare:
+## a) Cono $C$ circoscritto
 
-a)
 
-il cono $C$ di volume minimo circoscritto a $S;$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="119.082" height="207.04" viewBox="-72 -72 89.311 155.28"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke-width=".8" d="m-71.87 67.497 44.256-125.193L16.64 67.497ZM-71.87 67.497h88.511"/><path fill="none" stroke="#00f" stroke-width=".8" d="M3.684 36.199C3.684 18.913-10.33 4.9-27.614 4.9c-17.286 0-31.299 14.012-31.299 31.298S-44.9 67.497-27.614 67.497c17.285 0 31.298-14.013 31.298-31.298Zm-31.298 0"/><path stroke="none" d="M-26.294 36.199a1.32 1.32 0 1 0-2.64 0 1.32 1.32 0 0 0 2.64 0m-1.32 0"/><text x="-27.614" y="67.497" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 -27.882)">O</text><text x="-27.614" y="67.497" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-3.931 -129.6)">C</text><text x="-27.614" y="67.497" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-4.562 12.18)">H</text><path fill="none" stroke-dasharray="3.0,3.0" d="M-27.614 67.497V-57.696"/><g stroke="none" font-size="10"><text x="-27.614" y="67.497" font-family="cmmi10" transform="translate(3.533 -71.643)">h</text><text x="-19.075" y="67.497" font-family="cmr10" transform="translate(3.533 -71.643)">=</text><text x="-8.52" y="67.497" font-family="cmr10" transform="translate(3.533 -71.643)">4</text><text x="-3.52" y="67.497" font-family="cmmi10" transform="translate(3.533 -71.643)">r</text></g><text x="-27.614" y="67.497" stroke="none" font-family="cmmi10" font-size="10" transform="translate(19.324 7.839)">½</text></g></svg>
+</figure>
 
-Poniamo l’altezza $CH$ del cono uguale $ad x: CH=x,$ con
-$x>2R.$ Per la similitudine fra i triangoli HBC e TCO risulta:
+Considerando la sezione del cono con un piano passante per il suo asse, la sfera si riduce al cerchio inscritto nel triangolo isoscele. Per similitudine tra i triangoli rettangoli che si formano si ottiene, con $h>2r$,
+$$\rho^2=\frac{r^2 h}{h-2r},$$
+da cui il volume in funzione dell'altezza:
+$$V(h)=\frac{\pi r^2 h^2}{3\,(h-2r)}.$$
 
-$CT:OT=CH:BH$ ; inoltre:
-$CT= \sqrt{OC2} -OT2 = \sqrt{x-R}2 -R^2 = \sqrt{x}^{2} -2Rx$
-Pertanto:
-$\sqrt{x}^{2} -2Rx: R= x: BH , BH=$
-$$ Rx $$
-$\sqrt{x}^{2} -2Rx$
-$= R\sqrt{x}^{2} -2Rx$
-$x-2R$
+Derivando:
+$$V'(h)=\frac{\pi r^2}{3}\cdot\frac{h\,(h-4r)}{(h-2r)^2}.$$
+Poiché $h>2r$, il segno di $V'(h)$ è quello di $h-4r$: il volume decresce per $2r<h<4r$ e cresce per $h>4r$, dunque
+$$h=4r$$
+è punto di minimo assoluto. In corrispondenza $\rho^2=\dfrac{r^2\cdot 4r}{4r-2r}=2r^2$, cioè $\rho=r\sqrt{2}$, e il volume minimo è
+$$V_C=\frac{8}{3}\pi r^3.$$
 
-Il volume del cono è pertanto:
+## b) Cono $C'$ inscritto
 
-$V= 1$
-$3 \pi r2h= 1$
-$3 \pi ∙BH2 ∙CH= 1$
-$3 \pi$ ∙
-$R2x$
-$x-2R∙x= 1$
-$3 \pi ∙R2x^{2}$
-$x-2R,$ con $x> 2R$
 
-Tale volume è minimo se lo è:
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="127.916" height="140.036" viewBox="-72 -72 95.937 105.027"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="#00f" stroke-width=".8" d="M19.179-13.167c0-25.143-20.382-45.525-45.524-45.525-25.143 0-45.525 20.382-45.525 45.525s20.382 45.524 45.525 45.524 45.524-20.382 45.524-45.524Zm-45.524 0"/><path stroke="none" d="M-24.745-13.167a1.6 1.6 0 1 0-3.2 0 1.6 1.6 0 0 0 3.2 0m-1.6 0"/><text x="-26.345" y="-13.167" stroke="none" font-family="cmmi10" font-size="10" transform="translate(3.533 3.417)">O</text><path fill="none" stroke-width=".8" d="m-69.275 1.992 42.93-60.684L16.584 1.992ZM-69.275 1.992h85.859"/><text x="-26.345" y="-13.167" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-4.028 -48.936)">V</text><text x="-26.345" y="-13.167" stroke="none" font-family="cmmi10" font-size="10" transform="translate(39.18 26.179)">A</text><path fill="none" stroke-dasharray="3.0,3.0" d="M-26.345-58.692V1.992"/><text x="-26.345" y="-13.167" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-17.31 23.903)">H</text></g></svg>
+</figure>
 
-$y=$
-$$ x^{2 $$
-$x-2R$
+Nella sezione con un piano passante per il vertice $V$ e per l'asse, il triangolo è inscritto nel cerchio massimo della sfera. Detta $x=h$ l'altezza $VH$, con $0<h<2r$, per il secondo teorema di Euclide sul triangolo rettangolo inscritto nella semicirconferenza si ha
+$$\overline{AH}^2=\overline{VH}\cdot\overline{HC}=h\,(2r-h),$$
+cioè $\rho^2=h(2r-h)$. Il volume vale allora
+$$V(h)=\frac{1}{3}\pi\,h(2r-h)\cdot h=\frac{1}{3}\pi\,h^2(2r-h).$$
 
-$y' = x(x-4R)$
-$(x-2R)2 \ge 0$ se $x\ge 4R$
+$V$ è massimo quando lo è $y=h^2(2r-h)$; derivando,
+$$\frac{dy}{dh}=\frac{\pi h}{3}\,(4r-3h)=0\;\Rightarrow\;h=\frac{4r}{3}.$$
+In corrispondenza $\rho^2=\dfrac{4r}{3}\left(2r-\dfrac{4r}{3}\right)=\dfrac{8r^2}{9}$ e il volume massimo è
+$$V_{C'}=\frac{32}{81}\pi r^3.$$
 
-Quindi $y$ è crescente se $x> 4R$ e decrescente se $0 < x< 4R : x= 4R$ è punto di
-minimo assoluto.
+## c) Capacità complessiva con $r=1$ m
 
-Il volume del cono circoscritto alla sfera di raggio $R$ è minimo quando la sua altezza è
-uguale a $4R;$ il volume del cono vale in tal caso
-$3 \pi R^{3}$ .
+Sommando i due volumi:
+$$V_C+V_{C'}=\left(\frac{8}{3}+\frac{32}{81}\right)\pi\,r^3=\frac{248}{81}\pi\,r^3.$$
+Con $r=1$ m,
+$$V_C+V_{C'}=\frac{248}{81}\pi\approx 9{,}618\ \text{m}^3,$$
+e poiché $1\ \text{m}^3=1000$ litri, la capacità complessiva è
+$$\approx 9618\ \text{litri}.$$
 
-Suppletiva PNI 2002 - Problema $2$
+## d) Angolo del settore circolare (sviluppo laterale di $C$)
 
-$b)$
+Per il cono $C$ si ha $\rho=r\sqrt{2}$ e altezza $h=4r$, quindi l'apotema è
+$$\ell=\sqrt{h^2+\rho^2}=\sqrt{(4r)^2+2r^2}=\sqrt{18r^2}=3\sqrt{2}\,r.$$
+Nello sviluppo della superficie laterale il settore circolare ha raggio pari all'apotema $\ell$ e arco lungo quanto la circonferenza di base, cioè $2\pi\rho=2\sqrt{2}\,\pi r$. L'ampiezza in radianti è il rapporto tra arco e raggio:
+$$\theta=\frac{2\pi\rho}{\ell}=\frac{2\sqrt{2}\,\pi r}{3\sqrt{2}\,r}=\frac{2\pi}{3}\quad\Longrightarrow\quad \theta=120^\circ.$$
 
-Il cono C’ di volume massimo inscritto in $S;$
+## e) Angolo di apertura di $C$
 
-Indichiamo con $x$ l’altezza del cono $VH$ (in figura è
-rappresentata una sezione del cono inscritto nella sfera
-ottenuta con un piano passante per il vertice $V$ del cono
-e per la retta della sua altezza $VH).$ Risulta:
-
-$0 < x< 2R$
-
-Per il secondo teorema di Euclide si ha:
-
-$AH2 = VH∙HC= x(2R-x)$
-
-Il volume del cono inscritto è quindi:
-$V= 1$
-$3 \pi R2h= 1$
-$3 \pi AH2 ∙VH= 1$
-$3 \pi ∙x(2R-x). x= 1$
-$3 \pi ∙x^{2}(2R-x)$
-
-$V$ è massimo se lo è: $y= x^{2}(2R-x) = (x)2(2R-x)$
-
-Trattandosi del prodotto di due potenze la cui somma delle basi è costante $(x+2R-x=2R)$
-esso è massimo se le basi sono proporzionali agli esponenti, quindi:
-
-$2 = 2R-x$
-, $3x= 4R , x= 4$
-$3 R$
-
-Il cono inscritto di volume massimo è quello di altezza
-$3 R;$ il suo volume è:
-
-V(max) $= 1$
-$3 \pi ∙x^{2}(2R-x) = 1$
-$3 \pi (16$
-$9 R^{2}) ∙2$
-$3 R= 32$
-$81 \pi R^{3}$
-
-$c)$
-
-Un’approssimazione in litri della capacità complessiva di $C$ e C’, posto $r =1$ metro;
-
-V(C) $= 8$
-$3 \pi R^{3} = (8$
-$3 \pi ) m^{3} = (8$
-$3 \pi ) ∙103 dm3 = (8$
-$3 \pi ) ∙103$ litri $\cong$ 8378 litri
-
-V(C') $= 32$
-$81 \pi R^{3} = 4$
-$27$ V(C) $\cong 4$
-$27$ (8378) $litri\cong$ 1241 litri
-
-Suppletiva PNI 2002 - Problema $2$
-
-$d)$
-
-La misura, in gradi sessagesimali, dell’angolo del settore circolare sviluppo della
-superficie laterale del cono $C;$
-
-Il cono $C$ ha altezza $CH= x= 4R$ e raggio di base $BH=$
-$$ Rx $$
-$\sqrt{x}^{2}-2Rx=$
-$4R^{2}$
-$\sqrt{8R}^{2} =$
-$4R^{2}$
-$2R\sqrt{2} = R\sqrt{2}$ ;
-l’apotema $BC$ è quindi uguale a:
-
-$BC= \sqrt{CH2} + BH2 = \sqrt{16R}^{2} + 2R^{2} = \sqrt{18R}^{2} = 3R\sqrt{2}$
-
-Il settore circolare sviluppo della superficie laterale del cono ha quindi raggio $3R\sqrt{2}$
-(corrispondente all’apotema del cono) e arco lungo quanto la circonferenza di base del
-cono, cioè $2\pi R\sqrt{2}$ ; l’ampiezza in radianti dell’angolo del settore circolare è data dal
-rapporto tra la lunghezza dell’arco ed il raggio, quindi:
-
-$\alpha = l$
-$r= 2\pi R\sqrt{2}$
-$3R\sqrt{2}$
-$3 \pi$ ; quindi $\alpha ^\circ = 120^\circ$ .
-
-e)
-
-La misura approssimata, in gradi sessagesimali, dell’angolo di apertura del cono $C$
-applicando uno dei metodi numerici studiati.
-
-Detto $\beta$ l’angolo di apertura BCH del cono $C,$ risulta:
-$tg \beta = BH$
-$CH= R\sqrt{2}$
-$4R= \sqrt{2}$
-
-Per trovare un valore approssimato dell’angolo $\beta$ (in radianti) utilizziamo il metodo delle
-tangenti applicato alla risoluzione dell’equazione $tg x-\sqrt{2}$
-$4 = 0;$ a tal fine consideriamo la
-funzione di equazione $y=$ f(x) $= tg x-\sqrt{2}$
-$4$ . Isoliamo prima di tutto la radice:
-
-Suppletiva PNI 2002 - Problema $2$
-
-$f(0) = -\sqrt{2}$
-$4 < 0 ; f(1) = tg 1 -\sqrt{2}$
-$4 \cong 1.2 > 0;$ quindi la radice richiesta è interna
-all’intervallo $[0; 1].$ Essendo la funzione strettamente crescente (è una tangente traslata)
-la radice è unica. Notiamo che in tale intervallo la funzione è continua e derivabile ed ha
-derivata seconda positiva (la concavità della funzione è sempre verso l’alto).
-Considerando l’intervallo [a; b] $= [0; 1]$ ed osservando che f(a) ∙f''(x) $< 0,$ assumiamo
-come punto iniziale dell’iterazione $x^{0} = b= 1.$
-
-Abbiamo:
-
-f'(x) $= 1 + tg2x$ .
-
-La formula iterativa di Newton è la seguente: $xn+1 = xn-$
-f(xn)
-f'(xn) equivalente a:
-
-$x←x-f(x)$
-f'(x) $= x-$
-$tg x-\sqrt{2}$
-$1 + tg2(x)$
-
-Risulta:
-
-$x^{0} = 1$
-$x^{1} = x^{0} -$
-$f(x^{0})$
-$f'(x^{0}) \cong 0.649 ; x^{2} = x^{1} -$
-$f(x^{1})$
-$f'(x^{1}) \cong 0.392 ; x^{3} = x^{2} -$
-$f(x^{2})$
-$f'(x^{2}) \cong 0.341$ ;
-$x^{4} = x^{3} -f(x^{3})$
-$f'(x^{3}) \cong 0.340$
-
-Quindi $\beta$ (in radianti), a meno di un centesimo, è $0.34;$ trasformiamolo in gradi
-sessagesimali:
-
-$\beta : \beta ^\circ = \pi : 180^\circ , \beta ^\circ = \beta ∙180^\circ$
-$\pi$
-$= 0.34 ∙180^\circ$
-$\pi$
-$\cong 19.481^\circ = 19^\circ + (0.481 ∙60)' = 19^\circ 29' = \beta ^\circ$
-
-N.B. Utilizzando una calcolatrice si ha $\beta ^\circ \cong 19.47122^\circ$
-
-Con la collaborazione di Angela Santamaria
+Detto $\beta$ il semiangolo al vertice del cono $C$, dalla sezione assiale si ha
+$$\sin\beta=\frac{\rho}{\ell}=\frac{r\sqrt{2}}{3\sqrt{2}\,r}=\frac{1}{3}.$$
+Per determinare $\beta$ risolviamo l'equazione $\sin\beta-\dfrac{1}{3}=0$ con un metodo numerico. Posto $f(x)=\sin x-\dfrac{1}{3}$, la funzione è continua e crescente in $\left[0;\dfrac{\pi}{2}\right]$, con $f(0)=-\dfrac{1}{3}<0$ e $f(1)=\sin 1-\dfrac{1}{3}>0$: la radice è unica e interna a $[0;1]$. Applicando il metodo delle tangenti (Newton),
+$$x_{n+1}=x_n-\frac{f(x_n)}{f'(x_n)}=x_n-\frac{\sin x_n-\tfrac{1}{3}}{\cos x_n},$$
+a partire da $x_0=1$ si ottiene rapidamente
+$$\beta\approx 0{,}3398\ \text{rad}.$$
+Trasformando in gradi sessagesimali, $\beta^\circ=\dfrac{0{,}3398\cdot 180^\circ}{\pi}\approx 19{,}47^\circ$, cioè
+$$\beta\approx 19^\circ 29'\approx 19{,}47^\circ.$$
 
 *Fonte:* [📄 PDF p.49](https://drive.google.com/file/d/1RhB51YA7EeccsqpgGZQqycxf7UysR0HO/view)
-
 
 #maturita/soluzione #area/geometria #cluster/geometria

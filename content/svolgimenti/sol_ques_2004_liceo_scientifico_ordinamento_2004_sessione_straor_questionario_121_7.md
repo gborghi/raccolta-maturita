@@ -1,94 +1,33 @@
----
-title: 2004 Ordinamento Straordinaria — Questionario — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_7
-of_item: >-
-  ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_7
-prova_id: prova_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121_7|2004 Ordinamento Straordinaria — Questionario — Quesito 7]] · **Prova:** [[Prove/2004_liceo_scientifico_ordinamento_2004_sessione_straor_questionario_121|2004 Ordinamento Straordinaria — Questionario]]
 
-Liceo Scientifico Ordinamento 2004
+Indicata con $S_n$ la somma dei primi $n$ termini di una progressione geometrica di primo termine $a_1=\dfrac{1}{2}$ e ragione $q=\dfrac{1}{2}$, calcolare
 
-QUESITO $6$
+$$\lim_{n\to\infty}\frac{S_n}{n}.$$
 
-Utilizzando il calcolo integrale, dimostrare la formula che fornisce il volume di una sfera di
-raggio assegnato.
+## Calcolo di $S_n$
 
-Ricordiamo che il volume della sfera di raggio $R$ è dato da:
-V(sfera) $= V= 4$
-$3 \pi R^{3}$
+La somma dei primi $n$ termini di una progressione geometrica di ragione $q\neq 1$ è
 
-Per dimostrare tale formula mediante il calcolo integrale osserviamo la semisfera di
-raggio $R$ può essere ottenuta facendo ruotare un quarto del cerchio con centro in O e
-raggio $R$ intorno all’asse $x.$ La circonferenza contorno di tale cerchio ha equazione:
+$$S_n=a_1\cdot\frac{1-q^n}{1-q}.$$
 
-$x^{2} + y^{2} = R^{2}$
+Sostituendo $a_1=\dfrac{1}{2}$ e $q=\dfrac{1}{2}$ si ottiene
 
-La semisfera generata dalla rotazione del quarto di cerchio del
-primo quadrante ha volume:
+$$S_n=\frac{1}{2}\cdot\frac{1-\left(\frac{1}{2}\right)^n}{1-\frac{1}{2}}=\frac{1}{2}\cdot\frac{1-\left(\frac{1}{2}\right)^n}{\frac{1}{2}}=1-\left(\frac{1}{2}\right)^n.$$
 
-$V=$
-$V= \pi \int f^{2}(x)dx$
-$$ b a $$
-$= \pi \int y2dx$
-$$ R 0 $$
-$= \pi \int (R^{2} -x^{2})dx$
-$$ R 0 = $$
-$= \pi [R2x-1$
-$3 x^{3}]$
-$$ 0 R $$
-$= \pi [R^{3} -1$
-$3 R^{3}] = 2$
-$3 \pi R^{3}$
+## Calcolo del limite
 
-La sfera ha quindi volume: V(sfera) $= 2$ (
-$3 \pi R^{3}) =$
-$3 \pi R^{3}.$
+Poiché $0<\dfrac{1}{2}<1$, si ha $\left(\dfrac{1}{2}\right)^n\to 0$ per $n\to\infty$, quindi
 
-QUESITO $7$
+$$S_n=1-\left(\frac{1}{2}\right)^n\longrightarrow 1.$$
 
-Indicata con $Sn$ la somma di $n$ termini in progressione geometrica, di primo termine $1⁄2$
-e ragione $1⁄2$ , calcolare $limn\to \infty$
-$$ Sn $$
-$n$ .
+Il numeratore tende dunque al valore finito $1$, mentre il denominatore $n$ tende a $+\infty$. Ne segue
 
-Risulta:
+$$\lim_{n\to\infty}\frac{S_n}{n}=\lim_{n\to\infty}\frac{1-\left(\frac{1}{2}\right)^n}{n}=\frac{1}{+\infty}=0.$$
 
-$Sn= 1$
-$$ 2 + 1 22 + 1 $$
-$23 + ⋯+ 1$
-$2n= a^{1} ∙1 -qn$
-$1 -q= 1$
-$2$ ∙
-$1 -(1$
-$$ 2) n $$
-$1 -1$
-$= 1 -(1$
-$$ 2) n $$
-
-$$ lim $$
-$n\to \infty$
-$$ Sn $$
-$n=$ lim
-$n\to \infty$
-$1 -(1$
-$$ 2) n n $$
-= lim
-$n\to \infty$
-$n= 0$
+Il limite richiesto vale quindi $0$.
 
 *Fonte:* [📄 PDF p.125](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

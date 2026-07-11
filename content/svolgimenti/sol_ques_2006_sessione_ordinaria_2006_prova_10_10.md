@@ -1,277 +1,68 @@
----
-title: 2006 Sessione Ordinaria — Prova (p.10) — Quesito 10 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2006_sessione_ordinaria_2006_prova_10_10
-of_item: ques_2006_sessione_ordinaria_2006_prova_10_10
-prova_id: prova_2006_sessione_ordinaria_2006_prova_10
-anno: '2006'
-pdf: Prova_Maturita_2006.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2006
----
+
 
 **Quesito:** [[Quesiti/ques_2006_sessione_ordinaria_2006_prova_10_10|2006 Sessione Ordinaria — Prova (p.10) — Quesito 10]] · **Prova:** [[Prove/2006_sessione_ordinaria_2006_prova_10|2006 Sessione Ordinaria — Prova (p.10)]]
 
-Sessione ordinaria 2006
+La funzione $f(x) = a\,\operatorname{sen}x + b\cos x$ ha un estremo relativo per $x = \dfrac{\pi}{4}$ ed è $f\!\left(\dfrac{\pi}{3}\right) = 1$. Si trovino $a$ e $b$ e si dica qual è il periodo di $f(x)$.
 
-CORSO DI ORDINAMENTO
+## Condizione di estremo relativo
 
-Tema di: MATEMATICA
+La funzione è derivabile su tutto $\mathbb{R}$ e la sua derivata è
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+$$f'(x) = a\cos x - b\,\operatorname{sen}x.$$
 
-PROBLEMA $1$
+Condizione necessaria affinché $x = \dfrac{\pi}{4}$ sia punto di estremo relativo è che la derivata vi si annulli. Poiché $\cos\dfrac{\pi}{4} = \operatorname{sen}\dfrac{\pi}{4} = \dfrac{\sqrt{2}}{2}$, si ha
 
-Un filo metallico di lunghezza $\lambda$ viene utilizzato per delimitare il perimetro di un’aiuola
-rettangolare.
-a) Quale è l’aiuola di area massima che è possibile delimitare?
+$$f'\!\left(\frac{\pi}{4}\right) = a\cdot\frac{\sqrt{2}}{2} - b\cdot\frac{\sqrt{2}}{2} = \frac{\sqrt{2}}{2}\,(a - b) = 0 \;\Rightarrow\; a = b.$$
 
-Si pensa di tagliare il filo in due parti e di utilizzarle per delimitare un’aiuola quadrata e un’altra
-circolare. Come si dovrebbe tagliare il filo affinché:
-$b)$ la somma delle due aree sia minima?
-$c)$ la somma delle due aree sia massima?
+## Determinazione di $a$ e $b$
 
-Una aiuola, una volta realizzata, ha la forma di parallelepipedo rettangolo; una scatola, cioè, colma
-di terreno. Si discute di aumentare del $10%$ ciascuna sua dimensione. Di quanto terreno in più, in
-termini percentuali, si ha bisogno?
+Imponiamo ora la seconda condizione. Essendo $\operatorname{sen}\dfrac{\pi}{3} = \dfrac{\sqrt{3}}{2}$ e $\cos\dfrac{\pi}{3} = \dfrac{1}{2}$,
 
-PROBLEMA $2$
+$$f\!\left(\frac{\pi}{3}\right) = a\cdot\frac{\sqrt{3}}{2} + b\cdot\frac{1}{2} = 1.$$
 
-Si considerino le funzioni $f$ e $g$ determinate da ( )
-$$ x x f log = $$
-e ( )
-$$ 2 ax x g = $$
-, essendo a un parametro
-reale e il logaritmo in base e.
-$1.$ Si discuta, al variare di ,a l’equazione
-$$ 2 log ax $$
-$x =$
-e si dica, in particolare, per quale valore di
-a i grafici di $f$ e $g$ sono tra loro tangenti.
-$2.$ Si calcoli, posto
-$$ ,1 = a $$
-l’area della parte di piano delimitata dai grafici delle funzioni $f$ e $g$ e
-dalle rette
-$$ 1 = x e .2 = x $$
+Sostituendo $b = a$:
 
-$3.$ Si studi la funzione
-$$ 2 log ) ( ax x x h $$
--
-scegliendo per a un valore numerico maggiore di e
-$1$ e
-se ne disegni il grafico.
+$$a\left(\frac{\sqrt{3}}{2} + \frac{1}{2}\right) = 1 \;\Rightarrow\; a\cdot\frac{\sqrt{3}+1}{2} = 1 \;\Rightarrow\; a = \frac{2}{\sqrt{3}+1}.$$
 
-Sessione ordinaria 2006
+Razionalizzando:
 
-CORSO DI ORDINAMENTO
+$$a = \frac{2}{\sqrt{3}+1}\cdot\frac{\sqrt{3}-1}{\sqrt{3}-1} = \frac{2(\sqrt{3}-1)}{3-1} = \sqrt{3}-1.$$
 
-Tema di: MATEMATICA
+Quindi
 
-QUESTIONARIO
+$$\boxed{\,a = b = \sqrt{3}-1\,}.$$
 
-$1.$ Si narra che l’inventore del gioco degli scacchi chiedesse di essere compensato con chicchi di
-grano: un chicco sulla prima casella, due sulla seconda, quattro sulla terza e così via, sempre
-raddoppiando il numero dei chicchi, fino alla $64a$ casella. Assumendo che 1000 chicchi pesino
-circa $38g,$ calcola il peso in tonnellate della quantità di grano pretesa dall’inventore.
-$2.$ I poliedri regolari - noti anche come solidi platonici - sono, a meno di similitudini, solo
-cinque: il tetraedro, il cubo, l’ottaedro, il dodecaedro e l’icosaedro. Sai dimostrarlo?
-$3.$ Un foglio di carta deve contenere: un’area di stampa di $50 cm2,$ margini superiore e inferiore di
-$4 cm$ e margini laterali di $2 cm.$ Quali sono le dimensioni del foglio di carta di area minima che
-si può utilizzare?
-$4.$ La capacità di un serbatoio è pari a quella del cubo inscritto in una sfera di un metro di
-diametro. Quanti sono, approssimativamente, i litri di liquido che può contenere il serbatoio?
-$5.$ Si dimostri che la somma dei coefficienti dello sviluppo di
-$$ n b a ) ( + $$
-è uguale a
-$2$ per ogni
-$n \in$
-$6.$ L’equazione risolvente un dato problema è:
-$$ 0 2 5 2 cos = + $$
-$-k$
-$$ x k $$
-dove $k$ è un parametro reale e
-$x$ ha le seguenti limitazioni:
-$^\circ$
-<
-<
-$^\circ$
-$$ 45 15 x $$
-. Si discuta per quali valori di $k$ le radici
-dell’equazione siano soluzioni del problema.
-$7.$ La funzione
-$$ ( ) 2 3 $$
-$2x$
-$$ x x f $$
--
-soddisfa le condizioni del teorema di Lagrange nell’intervallo
-$$ [ ]1,0 $$
-? Se si, trova il punto ξ che compare nella formula
-ξ
-$$ f a b a f b f $$
-'
--
--
+Verifica della natura dell'estremo: la derivata seconda è $f''(x) = -a\,\operatorname{sen}x - b\cos x$, e in $x = \dfrac{\pi}{4}$ vale
 
-$8.$ La funzione
-$$ ( ) tgx x f = $$
-assume valori di segno opposto negli estremi dell’intervallo
-⎥⎦
-⎤
-⎢⎣
-⎡
-$\pi$
-$\pi$
-$$ 4 3 , 4 I $$
-, eppure non esiste alcun
-$x \in$ tale che
-$$ 0 ) ( = x f $$
-. È così? Perché?
-$9.$ Della funzione
-$$ ( ) x f $$
-si $sa$ che è derivabile e diversa da zero in ogni punto del suo dominio e,
-ancora, che:
-$$ ( ) ( ) x f x f = $$
-'
-e ( )
-$$ 1 0 = f $$
-. Puoi determinare ( )
-$$ x f $$
-?
-$$ 10. $$
-La funzione
-$$ ( ) x b x a x f cos $$
-sen +
-ha un estremo relativo per
-$4\pi$
-ed è
-$$ 1 3 2 = $$
-⎟
-⎠
-⎞
-⎜
-⎝
-$⎛\pi$
-Si trovino a e $b$ e si dica quale è il periodo di
-$$ ( ) x f . $$
+$$f''\!\left(\frac{\pi}{4}\right) = -(\sqrt{3}-1)\left(\frac{\sqrt{2}}{2}+\frac{\sqrt{2}}{2}\right) = -(\sqrt{3}-1)\sqrt{2} < 0,$$
 
-____________________________
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
+perciò in $x = \dfrac{\pi}{4}$ si ha effettivamente un **massimo** relativo.
 
-Ordin Estero $1 2006.doc$
-(Estero $- 1)$
+## Periodo di $f(x)$
 
-Sessione ordinaria 2006
+Con i valori trovati la funzione diventa
 
-Tema di MATEMATICA
+$$f(x) = (\sqrt{3}-1)(\operatorname{sen}x + \cos x).$$
 
-Il candidato risolva uno dei due problemi e $4$ dei $7$ quesiti in cui si articola il
-questionario:
+Scrivendo la combinazione lineare in forma di una sola sinusoide, con ampiezza $\sqrt{1^2+1^2}=\sqrt{2}$,
 
-PROBLEMA $1.$
-Nel piano, riferito $ad$ un sistema di assi cartesiani ortogonali (Oxy), sono assegnate le
-curve di equazione:
-$$ x b x a y 2 + = , $$
-dove a, $b$ sono parametri reali.
-a) Fra tali curve determinare quella che passa per i punti di coordinate (
-$$ )^{3} ,2 e ( ) 5 ,2 $$
--
-e indicarla con $\gamma$ .
-$b)$ Studiare la curva $\gamma$ e disegnarne l’andamento, dopo aver trovato, in
-particolare, le coordinate del suo punto di minimo relativo e del suo flesso.
-$c)$ Calcolare l’area della regione piana delimitata dalla curva $\gamma$ e dalla retta $y=5.$
-$d)$ Utilizzando il disegno di $\gamma$ , trovare quante soluzioni ammette l’equazione
-$$ 0 2 kx $$
-$x 3$
--
--
-, per $-2<x<2,$ essendo $k$ un parametro reale.
+$$\operatorname{sen}x + \cos x = \sqrt{2}\,\operatorname{sen}\!\left(x + \frac{\pi}{4}\right),$$
 
-PROBLEMA $2.$
-Nel piano, riferito $ad$ un sistema monometrico di assi cartesiani ortogonali , è
-assegnata la parabola p’ di equazione:
-	,
-dove  è un numero reale positivo assegnato.
-a) Condotta una generica retta $t$ per il fuoco $F$ della parabola p’ e chiamato $M$ il
-punto medio del segmento che p’ intercetta su $t,$ trovare le funzioni 
- ed
-
- che forniscono, nell’ordine, l’ascissa e l’ordinata di $M$ per mezzo della
-pendenza
-della retta $t.$
-$b)$ Considerate le equazioni 
- e 
- ed eliminato il parametro
-$$ fra $$
-esse, si trova l’equazione di una seconda parabola p” (è chiamata luogo
-geometrico del punto $M$ al variare di $t$ nel fascio di centro $F).$
-$c)$ Calcolare l’area A della regione piana $R$ delimitata dalle parabole p’ e p” e
-dalle rette di equazioni  ed 	.
-$d)$ Trovare il valore di  per il quale l’area A è uguale a $24$
-$13$ e, in corrispondenza
-di tale valore, calcolare il volume del solido generato dalla regione $R$ quando
-ruota di un giro completo intorno all’asse $y.$
+si ottiene
 
-Ordin Estero $1 2006.doc$
-QUESTIONARIO.
+$$f(x) = (\sqrt{3}-1)\sqrt{2}\,\operatorname{sen}\!\left(x + \frac{\pi}{4}\right) = (\sqrt{6}-\sqrt{2})\,\operatorname{sen}\!\left(x + \frac{\pi}{4}\right).$$
 
-$1.$ Calcolare la derivata, rispetto $ad x,$ della funzione f(x) $= sen2(2x).$
-$2.$ Si consideri la seguente proposizione:
-Condizione necessaria e sufficiente affinché due triangoli siano congruenti è che
-abbiano due lati congruenti e i seni degli angoli fra essi compresi uguali.
-Dire se è vera o falsa e spiegare in modo esauriente la risposta data.
-$3.$ Si indichi con $\alpha$ l’angolo che una diagonale di un cubo forma con una faccia. La
-misura di $\alpha$ , espressa in radianti:
-[A] è arcsen $3$
-$3$ ; [B] è arccos $6$
-$3$ ; [C] è arctg $3$
-$6$ ; [D] un valore diverso.
-Una sola alternativa è corretta: individuarla e fornire un’esauriente spiegazione
-della scelta operata.
-$4.$ Considerata l’equazione:
-$$ 0 2 x $$
-$x 4$
--
-, spiegare, con il metodo preferito ma in
-maniera esauriente, perché non può ammettere più di una soluzione razionale.
-$5.$ In un cono equilatero di apotema  inscrivere il cilindro circolare retto di
-volume massimo.
-$6.$ La funzione reale di variabile reale f(x) ammette derivata nulla in tutti i punti di
-un intervallo $J,$ tranne che nel punto  di $J,$ dove la funzione non è continua. Si
-può concludere che la funzione f(x) è costante in $J?$ Fornire una spiegazione
-esauriente della risposta.
-$7.$ Si consideri il seguente limite:
-$$ x 1 0 x 2 x 1 lim $$
-
-
-
-
-
- -
-$\to$
-Esso è uguale a:
-[A]
-e ; [B]
-$$ 2 e $$
-$1$ ; [C]
-e ; [D]
-$$ e 1 , $$
-dove “e” è il numero di Nepero.
-Una sola alternativa è corretta: individuarla e fornire una spiegazione esauriente
-della scelta operata.
+Si tratta dunque di una sinusoide di pulsazione $1$; il suo periodo è
 
-_________________________
+$$T = \frac{2\pi}{1} = 2\pi.$$
 
-$\cdot$ Durata della prova: $6$ ore.
-$\cdot$ Non è consentito lasciare l’Istituto prima che siano trascorse $3$ ore dalla dettatura del tema.
-$\cdot$ È consentito l’uso della calcolatrice non programmabile.
+Coerentemente, il massimo si presenta quando $x + \dfrac{\pi}{4} = \dfrac{\pi}{2}$, cioè per $x = \dfrac{\pi}{4}$, come richiesto.
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="382.794" height="149.775" viewBox="-72 -72 287.095 112.332"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-70.901-6.232h272.745"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M199.964-8.632c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-26.515" y="-6.232" stroke="none" font-family="cmmi10" font-size="10" transform="translate(232.292 2.153)">x</text><path fill="none" d="M-26.515 39.861v-98.615"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-28.915-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-26.515" y="-6.232" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -58.4)">y</text><path fill="none" stroke="#00f" stroke-width=".8" d="m-67.487 8.006 2.916-2.811 2.915-2.894 2.915-2.956 2.916-2.998 2.915-3.016 2.916-3.011 2.915-2.988 2.916-2.941 2.915-2.872 2.915-2.783 2.916-2.675 2.915-2.544 2.916-2.396 2.915-2.232 2.915-2.05 2.916-1.854 2.915-1.645 2.916-1.423 2.915-1.191 2.916-.951 2.915-.703 2.915-.449 2.916-.193 2.915.064 2.916.321 2.915.576 2.916.827 2.915 1.07 2.915 1.307 2.916 1.535 2.915 1.75 2.916 1.955 2.915 2.142 2.916 2.316 2.915 2.473 2.915 2.61 2.916 2.73 2.915 2.83 2.916 2.91 2.915 2.967 2.916 3.002 2.915 3.017 2.915 3.01L60.792.82l2.915 2.927 2.916 2.856 2.915 2.763 2.916 2.648 2.915 2.516 2.915 2.363L81.2 19.09l2.915 2.01 2.916 1.813 2.915 1.599 2.916 1.376 2.915 1.141 2.915.9 2.916.65 2.915.396 2.916.14 2.915-.118 2.916-.375 2.915-.628 2.915-.878 2.916-1.12 2.915-1.356 2.916-1.58 2.915-1.794 2.915-1.994 2.916-2.18 2.915-2.35 2.916-2.503 2.915-2.638 2.916-2.753L151.17 4l2.915-2.924 2.916-2.976 2.915-3.007 2.916-3.016 2.915-3.006 2.916-2.97 2.915-2.915 2.915-2.838 2.916-2.74 2.915-2.623 2.916-2.485 2.915-2.33 2.916-2.157 2.915-1.97"/><path stroke="none" d="M2.1-41.58a1.8 1.8 0 1 0-3.6 0 1.8 1.8 0 0 0 3.6 0m-1.8 0"/><text x="-26.515" y="-6.232" stroke="none" font-family="cmr10" font-size="10" transform="translate(30.349 -38.881)">max</text><path fill="none" stroke-dasharray="3.0,3.0" d="M.3-6.232V-41.58"/><g stroke="none"><text x="-25.315" y="-10.169" font-family="cmmi7" font-size="7" transform="translate(23.152 10.484)">¼</text><path d="M-2.163 1.552h4.927v.4h-4.927z"/><text x="-24.844" y="-2.784" font-family="cmr7" font-size="7" transform="translate(23.152 10.484)">4</text></g><text x="-26.515" y="-6.232" stroke="none" font-family="cmmi10" font-size="10" transform="translate(104.235 7.839)">¼</text><g stroke="none" font-size="10"><text x="-26.515" y="-6.232" font-family="cmr10" transform="translate(209 9.977)">2</text><text x="-21.515" y="-6.232" font-family="cmmi10" transform="translate(209 9.977)">¼</text></g><g stroke="none"><text x="-26.515" y="-14.504" font-family="cmsy10" font-size="10" transform="translate(-42.422 -31.476)">p</text><path d="M-60.604-46.38h5v.4h-5z"/><text x="-18.182" y="-6.232" font-family="cmr10" font-size="10" transform="translate(-42.422 -31.476)">6</text><text x="-10.96" y="-6.232" font-family="cmsy10" font-size="10" transform="translate(-42.422 -31.476)">¡</text><text x="-.96" y="-14.504" font-family="cmsy10" font-size="10" transform="translate(-42.422 -31.476)">p</text><path d="M-35.048-46.38h5v.4h-5z"/><text x="7.374" y="-6.232" font-family="cmr10" font-size="10" transform="translate(-42.422 -31.476)">2</text></g></g></svg>
+</figure>
 
 *Fonte:* [📄 PDF p.10](https://drive.google.com/file/d/1nnd4Nds7GFPZVCB9i0VVpSMDlBPee3x7/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

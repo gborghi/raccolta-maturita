@@ -1,92 +1,46 @@
----
-title: 2005 Ordinaria PNI — Prova — Quesito 5 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_sessione_ordinaria_2005_prova_184_5
-of_item: ques_2005_sessione_ordinaria_2005_prova_184_5
-prova_id: prova_2005_sessione_ordinaria_2005_prova_184
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: 'Derivate, Massimi e Minimi'
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/derivate_massimi_e_minimi
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_sessione_ordinaria_2005_prova_184_5|2005 Ordinaria PNI — Prova — Quesito 5]] · **Prova:** [[Prove/2005_sessione_ordinaria_2005_prova_184|2005 Ordinaria PNI — Prova]]
 
-Sessione ordinaria 2005
+Come si definisce e qual è l'importanza del numero $e$ di Nepero? Si illustri inoltre una procedura che consenta di calcolarlo con la precisione voluta.
 
-CORSO SPERIMENTALE
+## Definizione
 
-PIANO NAZIONALE INFORMATICA
+Il numero $e$ si può introdurre come limite della successione
+$$a_n = \left(1 + \frac{1}{n}\right)^n .$$
+Si dimostra che tale successione è **monotòna crescente** e **limitata superiormente** (ad esempio da $3$): per il teorema di monotonia essa è quindi convergente, e il suo limite si definisce come numero $e$ di Nepero:
+$$e = \lim_{n \to \infty}\left(1 + \frac{1}{n}\right)^n \approx 2{,}718281828 .$$
 
-Tema di: MATEMATICA
+In modo equivalente, e più comodo per il calcolo numerico, $e$ è la somma della serie
+$$e = \sum_{k=0}^{\infty} \frac{1}{k!} = 1 + 1 + \frac{1}{2!} + \frac{1}{3!} + \frac{1}{4!} + \cdots$$
 
-Il candidato risolva uno dei due problemi e $5$ dei $10$ quesiti in cui si articola il questionario.
+Si tratta di un numero **irrazionale** (anzi trascendente): la sua rappresentazione decimale è illimitata e non periodica.
 
-PROBLEMA $1$
+## Importanza
 
-Nel piano Oxy sono date le curve $\lambda$ e $r$ d’equazioni:
-$\lambda$ :
-$$ ) y x ( 4 $$
-$x 2$
--
-e $r:$
-$$ 6 4 + $$
-$= x$
-$1.$ Si provi che $\lambda$ e $r$ non hanno punti comuni.
-$2.$ Si trovi il punto
-$\lambda$
-$\in$
-che ha distanza minima da $r.$
-$3.$ Si determini l’area della regione finita di piano racchiusa da $\lambda$ e dalla retta $s,$ simmetrica di $r$
-rispetto all’asse $x.$
-$4.$ Si determini il valore di $c$ per il quale la retta $y = c$ divide a metà l’area della regione $S$
-del I quadrante compresa tra $\lambda$ e l’asse $x.$
-$5.$ Si determini il volume del solido di base $S$ le cui sezioni ottenute con piani ortogonali all’asse $x$
-sono quadrati.
+Il numero $e$ è la **base dei logaritmi naturali** $\ln x = \log_e x$ e occupa un ruolo centrale in tutta l'analisi. La ragione profonda è la seguente proprietà di derivazione:
+$$\frac{d}{dx}\,e^x = e^x , \qquad \frac{d}{dx}\,\ln x = \frac{1}{x}.$$
+La funzione esponenziale $f(x) = e^x$ è, a meno di una costante moltiplicativa, l'**unica funzione uguale alla propria derivata**; questa è la caratteristica che rende $e$ la base "naturale" per l'esponenziale e per il logaritmo. Di conseguenza $e$ compare in modo essenziale in tutti i fenomeni di crescita e decadimento esponenziale (interesse composto continuo, decadimento radioattivo, dinamica di popolazioni), nella risoluzione delle equazioni differenziali e in innumerevoli sviluppi in serie.
 
-PROBLEMA $2$
+## Calcolo con la precisione voluta
 
-Si consideri la funzione $f$ definita sull’intervallo [
-$+\infty$
-da:
-⎪⎩
-⎪⎨
-⎧
->
--
-$$ = = 0 x $$
+La definizione tramite il limite $\left(1+\frac{1}{n}\right)^n$ converge molto lentamente e non è adatta al calcolo. Conviene invece usare la **serie**, arrestandola alla somma parziale
+$$S_n = \sum_{k=0}^{n} \frac{1}{k!}, \qquad e = S_n + R_n .$$
 
-$$ se $$
+Il resto $R_n$ si maggiora osservando che, per $k > n$, ogni termine è più piccolo del corrispondente termine di una progressione geometrica di ragione $\frac{1}{n+1}$:
+$$R_n = \sum_{k=n+1}^{\infty}\frac{1}{k!} < \frac{1}{(n+1)!}\left(1 + \frac{1}{n+1} + \frac{1}{(n+1)^2} + \cdots\right) = \frac{1}{(n+1)!}\cdot\frac{1}{1-\frac{1}{n+1}} = \frac{1}{n\cdot n!}.$$
 
-$$ 1 ) x log 2 3 ( x 2 1 ) x $$
-$(f$
-$$ 1 ) 0 $$
-$(f$
+Si ottiene così la stima dell'errore
+$$0 < e - S_n < \frac{1}{n \cdot n!} .$$
 
-e sia $C$ la sua curva rappresentativa nel riferimento Oxy, ortogonale e monometrico.
-$1.$ Si stabilisca se $f$ è continua e derivabile in $0.$
-$2.$ Si dimostri che l’equazione f(x) $= 0$ ha, sull’intervallo [
-$+\infty$
-, un’unica radice reale e se ne
-calcoli un valore approssimato con due cifre decimali esatte.
-$3.$ Si disegni $C$ e si determini l’equazione della retta $r$ tangente a $C$ nel punto di ascissa
-$x =$
-$4.$ Sia $n$ un intero naturale non nullo. Si esprima, in funzione di $n,$ l’area $An$ del dominio piano
-delimitato dalla curva $C,$ dalla retta tangente $r$ e dalle due rette:
-$$ n 1 $$
-$x =$
-$$ e 1 $$
-$x =$
-$5.$ Si calcoli il limite per
-$+\infty$
-$\to$
-di $An$ e si interpreti il risultato ottenuto.
+Per calcolare $e$ con un errore inferiore a un $\varepsilon > 0$ prefissato basta dunque scegliere $n$ in modo che
+$$\frac{1}{n \cdot n!} < \varepsilon .$$
+
+Ad esempio, con $n = 10$ si ha $n\cdot n! = 10\cdot 10! = 36\,288\,000$, quindi l'errore è minore di $3\cdot 10^{-8}$: la somma parziale $S_{10}$ fornisce già $e$ con sette cifre decimali esatte. Le prime somme parziali mostrano la rapidità della convergenza:
+$$S_2 = 2{,}5,\quad S_4 \approx 2{,}70833,\quad S_6 \approx 2{,}718056,\quad S_8 \approx 2{,}7182788,\quad \ldots \longrightarrow e = 2{,}718281828\ldots$$
+
+Aumentando $n$ si ottiene $e$ con la precisione voluta, e la maggiorazione $\frac{1}{n\cdot n!}$ garantisce a priori il numero di cifre decimali esatte.
 
 *Fonte:* [📄 PDF p.184](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/derivate_massimi_e_minimi

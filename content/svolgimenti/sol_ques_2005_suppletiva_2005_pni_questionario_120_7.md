@@ -1,44 +1,45 @@
----
-title: 2005 Suppletiva PNI — Questionario — Quesito 7 — Svolgimento
-tipo: soluzione
-item_id: sol_ques_2005_suppletiva_2005_pni_questionario_120_7
-of_item: ques_2005_suppletiva_2005_pni_questionario_120_7
-prova_id: prova_2005_suppletiva_2005_pni_questionario_120
-anno: '2005'
-pdf: Prova_Maturita_2005.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2005
----
+
 
 **Quesito:** [[Quesiti/ques_2005_suppletiva_2005_pni_questionario_120_7|2005 Suppletiva PNI — Questionario — Quesito 7]] · **Prova:** [[Prove/2005_suppletiva_2005_pni_questionario_120|2005 Suppletiva PNI — Questionario]]
 
-Spiegare in maniera esauriente perché una funzione reale di variabile reale integrabile in un intervallo chiuso e limitato $[a, b]$ non necessariamente ammette primitiva in $[a, b]$.
+Spiegare in maniera esauriente perché una funzione reale di variabile reale integrabile in un intervallo chiuso e limitato $[a,b]$ non necessariamente ammette primitiva in $[a,b]$.
 
-Ricordiamo che (per il Teorema fondamentale del calcolo integrale, detto anche di Torricelli) se una funzione $f$ è continua in un intervallo chiuso e limitato $[a;\, b]$ allora è integrabile in tale intervallo, cioè esiste una funzione $F$, derivabile nel suddetto intervallo, tale che:
+## Continuità: condizione sufficiente ma non necessaria
 
-$$F'(x) = f(x), \quad \text{con } F(x) = \int_a^x f(t)\,dt$$
+Per il **teorema fondamentale del calcolo integrale** (o teorema di Torricelli–Barrow), se $f$ è *continua* in $[a,b]$ allora la funzione integrale
 
-$F$ è quindi una primitiva di $f$. Quindi: se una funzione è continua in un intervallo chiuso e limitato ammette primitiva.
+$$F(x) = \int_a^x f(t)\,dt$$
 
-L'integrabilità di una funzione viene estesa al caso di una funzione non continua in un intervallo. Se per esempio abbiamo un punto di discontinuità nel punto $c$ interno all'intervallo, la funzione si dice integrabile (in senso improprio) se esistono finiti i seguenti limiti:
+è derivabile e soddisfa $F'(x) = f(x)$ per ogni $x \in [a,b]$. Dunque una funzione continua è sia integrabile sia dotata di primitiva.
 
-$$\lim_{k \to c^-} \int_a^k f(x)\,dx \quad \text{e} \quad \lim_{k \to c^+} \int_k^b f(x)\,dx$$
+La continuità è però solo una condizione *sufficiente* per l'integrabilità: la classe delle funzioni integrabili secondo Riemann è più ampia di quella delle funzioni continue. In particolare, **ogni funzione limitata in $[a,b]$ e con un numero finito di punti di discontinuità è integrabile**. È proprio in questa fascia — funzioni integrabili ma non continue — che l'integrabilità e l'esistenza della primitiva possono separarsi.
 
-e si pone:
+## Perché l'integrabilità non garantisce la primitiva
 
-$$\int_a^b f(x)\,dx = \lim_{k \to c^-} \int_a^k f(x)\,dx + \lim_{k \to c^+} \int_k^b f(x)\,dx$$
+La chiave è il **teorema di Darboux**: se una funzione $g$ è la derivata di qualche funzione $F$ (cioè $F' = g$ su un intervallo), allora $g$ possiede la **proprietà dei valori intermedi**, esattamente come le funzioni continue — pur potendo essere discontinua, non può presentare "salti".
 
-Diamo un esempio di funzione integrabile (in senso improprio) in un intervallo $[a;\, b]$ che non ammette primitiva nell'intervallo:
+Di conseguenza, **una funzione che non gode della proprietà dei valori intermedi non può essere la derivata di alcuna funzione**, ovvero non ammette primitiva. Ma una funzione con una discontinuità di salto è comunque limitata e con un numero finito di discontinuità, quindi **integrabile**. Ecco l'esempio cercato di funzione integrabile ma priva di primitiva.
 
-$$f(x) = \begin{cases} x+1 & \text{se } -1 \le x < 0 \\ -x+1 & \text{se } 0 < x \le 1 \\ 0 & \text{se } x = 0 \end{cases}$$
+## Un esempio esplicito
 
-*(grafico — vedi PDF p.5)*
+Consideriamo, con $a < c < b$, la funzione a gradino
+
+$$f(x) = \begin{cases} 0 & \text{se } a \le x < c \\ 1 & \text{se } c \le x \le b \end{cases}$$
+
+
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="236.777" height="138.331" viewBox="-72 -72 177.583 103.748"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" d="M-71.156 15.96H92.331"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M90.451 13.56c.38 1.44 1.227 2.12 2.08 2.4-.853.28-1.7.96-2.08 2.4"/><text x="-57.499" y="15.961" stroke="none" font-family="cmmi10" font-size="10" transform="translate(153.763 2.153)">x</text><path fill="none" d="M-57.499 29.618v-88.372"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-59.898-56.874c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><text x="-57.499" y="15.961" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-2.63 -80.592)">y</text><text x="-57.499" y="15.961" stroke="none" font-family="cmmi10" font-size="10" transform="translate(-11.439 10.366)">O</text><path fill="none" stroke="#00f" stroke-width="1.2" d="M-40.427 15.96h51.215M10.788-35.254h61.458"/><path fill="#fff" stroke="none" d="M13.428 15.96a2.64 2.64 0 1 0-5.28 0 2.64 2.64 0 0 0 5.28 0m-2.64 0"/><path fill="none" stroke="#00f" d="M13.428 15.96a2.64 2.64 0 1 0-5.28 0 2.64 2.64 0 0 0 5.28 0Zm-2.64 0"/><path fill="#00f" stroke="none" d="M13.428-35.254a2.64 2.64 0 1 0-5.28 0 2.64 2.64 0 0 0 5.28 0m-2.64 0"/><path fill="none" d="M-40.427 14.254v3.414"/><text x="-57.499" y="15.961" stroke="none" font-family="cmmi10" font-size="10" transform="translate(14.429 9.546)">a</text><path fill="none" d="M10.788 14.254v3.414"/><text x="-57.499" y="15.961" stroke="none" font-family="cmmi10" font-size="10" transform="translate(66.123 9.546)">c</text><path fill="none" d="M72.246 14.254v3.414"/><text x="-57.499" y="15.961" stroke="none" font-family="cmmi10" font-size="10" transform="translate(127.598 12.185)">b</text><g stroke-dasharray="3.0,3.0"><path fill="none" d="M-57.499-35.254h68.287"/><text x="-57.499" y="15.961" stroke="none" font-family="cmr10" font-size="10" transform="translate(-8.533 -47.993)">1</text></g></g></svg>
+</figure>
+
+- **È integrabile in $[a,b]$.** È limitata e ha un'unica discontinuità (il salto in $x = c$); il suo integrale si ottiene sommando le aree dei due rettangoli:
+$$\int_a^b f(x)\,dx = 0\cdot(c-a) + 1\cdot(b-c) = b - c.$$
+
+- **Non ammette primitiva in $[a,b]$.** Se esistesse $F$ con $F'(x) = f(x)$ su tutto $[a,b]$, per il teorema di Darboux $f$ dovrebbe assumere tutti i valori intermedi fra due suoi valori. Ma $f$ assume solo i valori $0$ e $1$ e **nessun valore** in $(0,1)$: viola la proprietà dei valori intermedi in ogni intorno di $c$. Questa contraddizione mostra che una tale $F$ non può esistere.
+
+## Conclusione
+
+L'integrabilità di $f$ in $[a,b]$ dipende dal comportamento "in media" (le aree) ed è insensibile a un numero finito di discontinuità; l'esistenza della primitiva richiede invece che $f$ sia una derivata, e quindi — per il teorema di Darboux — che soddisfi la proprietà dei valori intermedi. Poiché una funzione con un salto è integrabile ma non gode di tale proprietà, essa è integrabile **senza** ammettere primitiva. Continuità $\Rightarrow$ integrabilità e primitiva, ma la sola integrabilità non basta a garantire la primitiva.
 
 *Fonte:* [📄 PDF p.124](https://drive.google.com/file/d/1O4FzCBuKW40z02XpBNhWhJbCSuFY3mYz/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione

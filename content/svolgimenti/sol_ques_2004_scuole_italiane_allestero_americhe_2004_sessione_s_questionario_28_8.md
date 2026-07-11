@@ -1,173 +1,33 @@
----
-title: 2004 Estero Americhe Suppletiva — Questionario — Quesito 8 — Svolgimento
-tipo: soluzione
-item_id: >-
-  sol_ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_8
-of_item: ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_8
-prova_id: prova_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28
-anno: '2004'
-pdf: Prova_Maturita_2004.pdf
-cluster: Studio di Funzione
-tags:
-  - maturita/soluzione
-  - area/analisi
-  - cluster/studio_di_funzione
-  - anno/2004
----
+
 
 **Quesito:** [[Quesiti/ques_2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28_8|2004 Estero Americhe Suppletiva — Questionario — Quesito 8]] · **Prova:** [[Prove/2004_scuole_italiane_allestero_americhe_2004_sessione_s_questionario_28|2004 Estero Americhe Suppletiva — Questionario]]
 
-Scuole italiane all’estero (Americhe) 2004
+Si dia un esempio di un solido il cui volume sia $40\pi$.
 
-QUESITO $7$
+Basta esibire un solido di cui si conosca la formula del volume e scegliere le misure in modo opportuno. Conviene partire dal **cilindro**, il cui volume è
 
-Si spieghi perché la derivata di sin $x$ è cos $x$ e si calcoli la derivata d’ordine $725$ di sin $x.$
+$$V = \pi\, r^2 h,$$
 
-Calcoliamo la derivata di $f(x)=sin(x)$ servendoci della definizione di derivata (utilizziamo
-le formule di prostaferesi):
+dove $r$ è il raggio di base e $h$ l'altezza. Imponendo $V = 40\pi$ si ottiene la condizione
 
-f'(x) = lim
-$h\to 0$
-$f(x+ h) -f(x)$
-= lim
-$h\to 0$
-$sin(x+ h) -sin (x)$
+$$\pi\, r^2 h = 40\pi \quad\Rightarrow\quad r^2 h = 40.$$
 
-= lim
-$h\to 0$
-$2sin(x+ h-x$
-) $cos(x+ h+ x$
-$$ 2 ) h = $$
+Scomponendo $40 = 2^2 \cdot 10$, una scelta immediata è $r = 2$ e $h = 10$, che dà
 
-= lim
-$h\to 0$
-$2sin(h$
-$2)$ cos(x)
-= lim
-$h\to 0$ [
-sin(h
-$$ 2) h 2 $$
-] cos(x) $= 1$ ∙cos(x) = cos $(x)$
+$$V = \pi \cdot 2^2 \cdot 10 = 40\pi.$$
 
-Calcoliamo le derivate successive di f(x) = sin(x):
+Un esempio è quindi un **cilindro con raggio di base $2$ e altezza $10$** (nelle stesse unità di misura).
 
-f'(x) = cos(x) ,
-f''(x) $= -sin(x)$ ,
-f'''(x) $= -cos(x)$ ,
-$f(4) =$ sin $(x)$
 
-Quindi ogni quattro derivate si ritorna alla funzione di partenza; osserviamo che:
-$725 = 4 ∙181 + 1$
+<figure class="tikz-fig">
+<svg xmlns="http://www.w3.org/2000/svg" width="142.167" height="170.77" viewBox="-72 -72 106.625 128.078"><g stroke="#000" stroke-miterlimit="10" stroke-width=".4"><path fill="none" stroke="#00f" stroke-width=".8" d="M-5.289999999999999-58.545c0-6.364-14.905-11.523-33.29-11.523-18.386 0-33.29 5.159-33.29 11.523s14.904 11.523 33.29 11.523S-5.29-52.18-5.29-58.545ZM-71.87-58.545v102.43M-5.29-58.545v102.43M-71.87 43.884c0 6.365 14.904 11.524 33.29 11.524s33.29-5.16 33.29-11.524"/><path fill="none" stroke="#00f" stroke-dasharray="3.0,3.0" stroke-width=".8" d="M-71.87 43.884c0-6.364 14.904-11.523 33.29-11.523s33.29 5.16 33.29 11.523"/><path fill="none" d="M-38.58-58.545h32.89"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M-7.57-60.945c.38 1.44 1.226 2.12 2.08 2.4-.854.28-1.7.96-2.08 2.4"/><g stroke="none" font-size="10"><text x="-38.58" y="43.884" font-family="cmmi10" transform="translate(5.083 -106.377)">r</text><text x="-31.013" y="43.884" font-family="cmr10" transform="translate(5.083 -106.377)">=</text><text x="-20.458" y="43.884" font-family="cmr10" transform="translate(5.083 -106.377)">2</text></g><path stroke="none" d="M-37.5-58.545a1.08 1.08 0 1 0-2.16 0 1.08 1.08 0 0 0 2.16 0m-1.08 0"/><path fill="none" d="M4.952 43.484V-58.145"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M7.352 41.604c-1.44.38-2.12 1.227-2.4 2.08-.28-.853-.96-1.7-2.4-2.08M2.552-56.265c1.44-.38 2.12-1.227 2.4-2.08.28.853.96 1.7 2.4 2.08"/><g stroke="none" font-size="10"><text x="-38.58" y="43.884" font-family="cmmi10" transform="translate(40.508 -47.742)">h</text><text x="-30.041" y="43.884" font-family="cmr10" transform="translate(40.508 -47.742)">=</text><text x="-19.486" y="43.884" font-family="cmr10" transform="translate(40.508 -47.742)">10</text></g></g></svg>
+</figure>
 
-Quindi la derivata di ordine $724$ riporta a sin(x); la derivata di ordine $725$ è uguale alla
-derivata prima, pertanto:
+Il solido richiesto non è unico: qualunque coppia $(r,h)$ con $r^2 h = 40$ va bene (ad esempio $r = 1$, $h = 40$), e si possono usare anche altri solidi. Ad esempio:
 
-$f(725)(x) =$ f'(x) = cosx
-
-QUESITO $8$
-
-Si dia un esempio di solido il cui volume sia $40 \pi$ .
-
-Tenendo presente che il volume di un cilindro è dato da: $V= \pi r2h,$ possiamo vedere $40$
-come il prodotto fra $4$ e $10,$ quindi:
-
-$\pi r2h= \pi ∙22 ∙10 (r= 2, h= 10).$
-
-Un solido di volume $\pi r2h$ è quindi, per esempio, un cilindro con raggio di base $2$ e
-altezza $10.$
-
-Con la collaborazione di Stefano Scoleri e Angela Santamaria
-
-MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ, DELLA RICERCA
-
-SCUOLE ITALIANE ALL’ESTERO (Americhe)
-ESAMI DI STATO DI LICEO SCIENTIFICO
-Sessione Ordinaria 2004
-
-Tema di Matematica
-
-Il candidato risolva uno dei due problemi e $4$ quesiti del questionario.
-
-PROBLEMA $1$
-Tra i coni circolari retti inscritti in una sfera di raggio $10 cm,$ si determini:
-$1.$ il cono $C$ di volume massimo e il valore, espresso in litri, di tale volume massimo.
-$2.$ il valore approssimato, in gradi sessagesimali, dell’angolo del settore circolare che risulta
-dallo sviluppo piano della superficie laterale di $C;$
-$3.$ il raggio della sfera inscritta nel cono $C$ e la percentuale del volume del cono che essa
-occupa.
-
-PROBLEMA $2$
-Sia $f$ la funzione definita da:
-$$ 2 ) ( 2 + + + = cx bx a x x f (1) $$
-$1)$ Si determinino i valori dei parametri che figurano nell’equazione $(1)$ disponendo delle seguenti
-informazioni:
-a) i valori di a, $b, c$ sono $0$ o $1;$
-$b)$ il grafico $G$ di $f$ passa per $(-1, 0);$
-$c)$ la retta $y=1$ è un asintoto di $f.$
-$2)$ Si disegni $G.$
-$3)$ Si calcoli l’area della regione finita di piano del primo quadrante degli assi cartesiani compresa
-tra l’asintoto orizzontale, il grafico $G$ e le rette
-$$ 0 = x $$
-
-$$ 2 = x $$
-
-QUESTIONARIO
-
-$1.$ La coppia $(1, 2)$ è la soluzione di un sistema lineare di due equazioni in due incognite. Quale
-può essere il sistema?
-$2.$ Sia $\alpha$ tale che la funzione
-$$ 2 3 1 ) ( x x x x f + $$
--
-$= \alpha$
-risulti crescente. Provare che
-$$ 8 9 $$
-$\ge$
-$\alpha$
-
-$3.$ Mostrare che le tangenti alla curva
-senx
-$\pi$
-in $x = \pi$ e $x = - \pi$ si intersecano $ad$
-angolo retto.
-
-$4.$ Nei saldi di fine stagione, un negozio ha diminuito del $30%$ il prezzo di listino di tutti gli
-articoli. Se il prezzo scontato di un abito è di $275$ euro quale era il suo prezzo di listino?
-
-$5.$ Calcolare:
-$$ \int $$
-$\pi$
-cos xdx
-e $x$
-
-$6.$ Si dica quante sono le soluzioni reali dell’equazione
-senx
-$x =$
-$$ 10 $$
-e si indichi per ciascuna di
-esse un intervallo numerico che la comprende.
-$7.$ Se $tg\alpha$ e $tg\beta$ sono radici di
-$$ 0 2 = + $$
--
-$$ q px x $$
-e $ctg\alpha$ e $ctg\beta$ sono radici di
-$$ 0 2 = + $$
--
-$$ s rx x , $$
-quanto vale il prodotto $rs$ espresso in funzione di $p$ e $q?$
-
-$8.$ Un professore interroga i suoi alunni a due per volta. Stabilire quante possibili coppie
-diverse può interrogare, sapendo che la classe è di $20$ studenti.
-
-___________________________
-
-Durata massima della prova: $6$ ore.
-È consentito soltanto l’uso di calcolatrici non programmabili.
-Non è ammesso lasciare l’aula degli esami prima che siano trascorse tre ore dalla dettatura del tema.
-
-Americhe emisfero boreale - Sessione suppletiva 2004
-Tema di MATEMATICA
+- una **sfera** di raggio $r$ ha volume $V = \dfrac{4}{3}\pi r^3$; da $\dfrac{4}{3}\pi r^3 = 40\pi$ si ricava $r^3 = 30$, cioè $r = \sqrt[3]{30}$;
+- un **cono** di raggio di base $r$ e altezza $h$ ha volume $V = \dfrac{1}{3}\pi r^2 h$; da $\dfrac{1}{3}\pi r^2 h = 40\pi$ si ricava $r^2 h = 120$, ad esempio $r = 2$ e $h = 30$.
 
 *Fonte:* [📄 PDF p.31](https://drive.google.com/file/d/1eLt08L2v4ueTtfs2qAPJA0i6aYiFXjrg/view)
-
 
 #maturita/soluzione #area/analisi #cluster/studio_di_funzione
