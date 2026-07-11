@@ -312,6 +312,8 @@ img.concept-icon {
 // ── left rail (collapsed = icons; body.rail-open = labelled drawer) ──
 .m-rail {
   position: fixed; left: 0; top: 0; bottom: 0; width: var(--rail-w);
+  box-sizing: border-box;   // side padding must stay INSIDE --rail-w so the content
+                            // margin (== --rail-w + gap) lines up with the rail edge
   background: var(--rail-bg); z-index: 1003;
   display: flex; flex-direction: column; align-items: center;
   // top pad centres the logo on the topbar mid-line: 10 + 44/2 = 32 = topbar-h/2
