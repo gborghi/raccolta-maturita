@@ -60,10 +60,10 @@ const RAIL: [string, string, string][] = [
 
 const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
   const bp = basePathOf(cfg?.baseUrl)
-  // Root-level single .md pages (cerca.md, statistiche.md) emit FLAT as `slug.html`,
-  // so they resolve at `/slug` (no trailing slash). Folder hubs emit `slug/index.html`
-  // and want the trailing slash. Appending `/` to a flat page → GH-Pages 404.
-  const FLAT = new Set(["", "cerca", "statistiche"])
+  // cerca.md is a root-level single note → emits FLAT as `cerca.html`, resolving at
+  // `/cerca` (no trailing slash); appending `/` would 404. Every other destination
+  // (incl. statistiche, now a folder index) emits `slug/index.html` → wants the slash.
+  const FLAT = new Set(["", "cerca"])
   const href = (slug: string) => `${bp}/${slug}${FLAT.has(slug) ? "" : "/"}`
   return (
     <div class={classNames(displayClass, "m-shell")}>

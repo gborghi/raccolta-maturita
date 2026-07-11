@@ -558,7 +558,12 @@ title: Statistiche della raccolta
 
 <div id="stats-root"><p class="stats-loading">Caricamento statistiche…</p></div>
 `
-  await fs.writeFile(path.join(CONTENT, "statistiche.md"), statistiche)
+  // emit as a FOLDER index (statistiche/index.md) so it resolves at /statistiche/
+  // with a trailing slash like the other hubs — a flat statistiche.md only answers
+  // at /statistiche (no slash) and 404s on /statistiche/. The folder slug
+  // "statistiche/index" also yields the right ../static fetch prefix in the renderer.
+  await fs.mkdir(path.join(CONTENT, "statistiche"), { recursive: true })
+  await fs.writeFile(path.join(CONTENT, "statistiche", "index.md"), statistiche)
 
   console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${prove.length} prove, paginated ${pagedLists} concept lists`)
   if (missingPdf.size) console.log(`WARN: ${missingPdf.size} PDF filenames unmapped (no Drive id): ${[...missingPdf].join(", ")}`)
