@@ -37,6 +37,48 @@ const FACETS: Facet[] = [
 
 const MAX_ROWS = 1000
 
+// KaTeX runs server-side on content pages, but the /cerca table is built
+// client-side from prove.json, so summaries arrive as raw `$…$`. Lazily pull the
+// KaTeX runtime + auto-render from the same jsDelivr version the latex plugin
+// already links (katex.min.css is loaded on this page), then typeset each freshly
+// rendered results table. Cached so the scripts load at most once.
+const KATEX_VER = "0.16.11"
+let katexPromise: Promise<any> | null = null
+function loadScript(src: string): Promise<void> {
+  return new Promise((resolve, reject) => {
+    const s = document.createElement("script")
+    s.src = src
+    s.async = true
+    s.onload = () => resolve()
+    s.onerror = () => reject(new Error("load failed: " + src))
+    document.head.appendChild(s)
+  })
+}
+function ensureKatex(): Promise<any> {
+  if (katexPromise) return katexPromise
+  const w = window as any
+  if (w.renderMathInElement) return (katexPromise = Promise.resolve(w.renderMathInElement))
+  const base = "https://cdn.jsdelivr.net/npm/katex@" + KATEX_VER + "/dist/"
+  katexPromise = loadScript(base + "katex.min.js")
+    .then(() => loadScript(base + "contrib/auto-render.min.js"))
+    .then(() => (window as any).renderMathInElement || null)
+    .catch(() => null)
+  return katexPromise
+}
+function typesetMath(el: HTMLElement): void {
+  ensureKatex().then((fn) => {
+    if (!fn) return
+    fn(el, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+      ],
+      throwOnError: false,
+      ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code", "option"],
+    })
+  })
+}
+
 // pagination identical to the concept-page tables (pagedList.inline.ts)
 const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = Tutti
 const LS_KEY = "rgf-cerca-perpage"
@@ -308,8 +350,9 @@ async function init() {
     }
     resultsBox.innerHTML =
       countLine +
-      `<table class="qtable-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>` +
+      `<div class="qtable-scroll"><table class="qtable-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table></div>` +
       pager
+    typesetMath(resultsBox)
     resultsBox.querySelectorAll<HTMLElement>("th.qtable-th").forEach((th) =>
       th.addEventListener("click", () => {
         const k = th.dataset.k as keyof P

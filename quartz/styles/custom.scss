@@ -429,6 +429,9 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.2r
 .cerca-results th.sorted-desc::after { content: " \2193"; }
 .cerca-results td:nth-child(3), .cerca-results td:nth-child(4) { text-align: center; }
 .cerca-results tr:hover td { background: var(--highlight); }
+// keep a wide results table inside its column: scroll internally instead of
+// overflowing the page to the right (mirrors div.paged-list behaviour)
+.qtable-scroll { overflow-x: auto; max-width: 100%; -webkit-overflow-scrolling: touch; }
 
 // ── PagedList (concept-page dynamic tables) ──
 div.paged-list { margin: 1rem 0; overflow-x: auto; }
