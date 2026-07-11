@@ -48,7 +48,9 @@
 .page-header { margin-top: 0 !important; }
 
 #quartz-root.page {
-  margin-left: var(--rail-w);
+  // +gap so content never butts against the rail edge (most visible once the rail
+  // is expanded and its labels reach toward the right edge).
+  margin-left: calc(var(--rail-w) + 22px);
   padding-top: calc(var(--navbar-h) + 1rem);
   transition: margin-left 0.18s ease;
 }
@@ -81,11 +83,16 @@ body.rail-open { --rail-w: var(--rail-w-open); }
     width: min(520px, 42vw) !important;
   }
   #quartz-root .sidebar.left > * { margin: 0 !important; }
-  // fill the full topbar height and centre the controls on its mid-line
-  #quartz-root .sidebar.left .toolbar {
-    display: flex; flex-direction: row; align-items: center; gap: 0.5rem;
-    width: 100%; height: 100%; margin: 0; padding: 0;
+  // The real Quartz toolbar row is `.flex-component` (there is NO `.toolbar`
+  // element). Fill the full bar height and force every control — and the inline
+  // wrapper divs Quartz puts around each one — onto the vertical mid-line.
+  #quartz-root .sidebar.left .flex-component {
+    display: flex; flex-direction: row; align-items: center; flex-wrap: nowrap;
+    gap: 0.5rem; width: 100%; height: 100%; margin: 0; padding: 0;
   }
+  #quartz-root .sidebar.left .flex-component > * { align-self: center !important; }
+  // drop the mobile hamburger/spacer that would otherwise sit in the desktop row
+  #quartz-root .sidebar.left .mobile-only { display: none !important; }
   // the search becomes the wide "pill" of the topbar (same 40px height as the toggles)
   #quartz-root .sidebar.left .search { flex: 1 1 auto; display: flex; align-items: center; }
   #quartz-root .sidebar.left .search > .search-button {
