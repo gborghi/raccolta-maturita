@@ -30,16 +30,16 @@ title: Maturità Scientifica — Raccolta Prove
 </div>
 
 <div class="mh-quick">
-  <a class="mh-qcard" href="Topics"><span><b>Argomenti</b><span>20 argomenti</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Methods"><span><b>Metodi</b><span>25 metodi</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Skills"><span><b>Competenze</b><span>14 competenze</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Tipi-funzione"><span><b>Tipi di funzione</b><span>11 tipi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="topics"><span><b>Argomenti</b><span>20 argomenti</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="methods"><span><b>Metodi</b><span>25 metodi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="skills"><span><b>Competenze</b><span>14 competenze</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="tipi-funzione"><span><b>Tipi di funzione</b><span>11 tipi</span></span><span class="mh-arrow">→</span></a>
 </div>
 
 <div class="mh-quick">
-  <a class="mh-qcard" href="Prove"><span><b>Prove</b><span>612 temi interi</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Problemi"><span><b>Problemi</b><span>791 singoli</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Quesiti"><span><b>Quesiti</b><span>1583 singoli</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="prove"><span><b>Prove</b><span>612 temi interi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="problemi"><span><b>Problemi</b><span>791 singoli</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="quesiti"><span><b>Quesiti</b><span>1583 singoli</span></span><span class="mh-arrow">→</span></a>
   <a class="mh-qcard accent" href="cerca"><span><b>Cerca per tag</b><span>Ricerca a faccette</span></span><span class="mh-arrow">→</span></a>
 </div>
 

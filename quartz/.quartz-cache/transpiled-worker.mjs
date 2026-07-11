@@ -1128,6 +1128,71 @@ function addGlobalPageResources(ctx, componentResources) {
     document.addEventListener('nav', __chrome);
   `);
   componentResources.afterDOMLoaded.push(`
+    // \u2500\u2500 rail "Vista grafo" toggle: show the button only where a graph exists,
+    //    and on click open the fullscreen global graph (fallback: scroll the
+    //    local right-rail graph into view). \u2500\u2500
+    function __graphBtn(){
+      var btn = document.querySelector('[data-graph-toggle]');
+      if (!btn) return;
+      var has = document.querySelector('.global-graph-icon, .sidebar.right .graph, .graph');
+      btn.hidden = !has;
+      if (has && !btn.__wired){
+        btn.__wired = true;
+        btn.addEventListener('click', function(){
+          var gg = document.querySelector('.global-graph-icon');
+          if (gg){ gg.click(); return; }
+          var g = document.querySelector('.sidebar.right .graph') || document.querySelector('.graph');
+          if (g) g.scrollIntoView({ behavior:'smooth', block:'center' });
+        });
+      }
+    }
+    // \u2500\u2500 /statistiche renderer (inline-SVG-free bar charts from static/stats.json) \u2500\u2500
+    function __esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+    function __fmt(n){ try { return (n||0).toLocaleString('it-IT'); } catch(e){ return ''+(n||0); } }
+    function __kpis(s){
+      var k=[['Problemi & quesiti',s.total],['Problemi',s.byType.problema],['Quesiti',s.byType.quesito],['Prove intere',s.proveIntere],['Anni coperti',s.counts.years],['Cluster',s.counts.clusters],['Argomenti',s.counts.topics],['Metodi',s.counts.methods],['Competenze',s.counts.skills]];
+      return '<div class="stkpis">'+k.map(function(x){return '<div class="stkpi"><b>'+__fmt(x[1])+'</b><span>'+__esc(x[0])+'</span></div>';}).join('')+'</div>';
+    }
+    function __hbars(items,cls){
+      if(!items||!items.length) return '';
+      var max=Math.max.apply(null,items.map(function(x){return x[1];}));
+      return '<div class="stbars '+(cls||'')+'">'+items.map(function(x){
+        var w=max?Math.max(3,Math.round(x[1]/max*100)):0;
+        return '<div class="stbar"><span class="stbar-l" title="'+__esc(x[0])+'">'+__esc(x[0])+'</span><span class="stbar-t"><span class="stbar-f" style="width:'+w+'%"></span></span><span class="stbar-n">'+__fmt(x[1])+'</span></div>';
+      }).join('')+'</div>';
+    }
+    function __ybars(items){
+      if(!items||!items.length) return '';
+      var max=Math.max.apply(null,items.map(function(x){return x[1];}));
+      return '<div class="styears">'+items.map(function(x){
+        var h=max?Math.max(4,Math.round(x[1]/max*100)):0, lab=(Number(x[0])%5===0)?x[0]:'';
+        return '<div class="styear" title="'+__esc(x[0])+': '+x[1]+'"><span class="styear-b" style="height:'+h+'%"></span><span class="styear-x">'+lab+'</span></div>';
+      }).join('')+'</div>';
+    }
+    function __sec(t,body){ return '<section class="stsec"><h2>'+__esc(t)+'</h2>'+body+'</section>'; }
+    function __two(a,b){ return '<div class="sttwo">'+a+b+'</div>'; }
+    function __statsHTML(s){
+      return __kpis(s)
+        + __sec('Problemi e quesiti per anno (1875\u20132025)', '<div class="styears-wrap">'+__ybars(s.byYear)+'</div>')
+        + __sec('Per tipo', __hbars([['Problemi',s.byType.problema],['Quesiti',s.byType.quesito]],'wide'))
+        + __sec('Per area', __hbars(s.byArea))
+        + __two(__sec('Argomenti pi\xF9 ricorrenti', __hbars(s.topTopics)), __sec('Metodi pi\xF9 ricorrenti', __hbars(s.topMethods)))
+        + __two(__sec('Competenze pi\xF9 ricorrenti', __hbars(s.topSkills)), __sec('Cluster tematici', __hbars(s.clusters)));
+    }
+    function __renderStats(){
+      var root=document.getElementById('stats-root');
+      if(!root || root.__done) return; root.__done=true;
+      var slug=(document.body && document.body.dataset.slug)||'';
+      var prefix='../'.repeat((slug.match(/\\//g)||[]).length);
+      fetch(prefix+'static/stats.json').then(function(r){return r.json();}).then(function(s){
+        root.innerHTML=__statsHTML(s);
+      }).catch(function(){ root.innerHTML='<p class="stats-loading">Impossibile caricare le statistiche.</p>'; });
+    }
+    function __statsGraph(){ __graphBtn(); __renderStats(); }
+    __statsGraph();
+    document.addEventListener('nav', __statsGraph);
+  `);
+  componentResources.afterDOMLoaded.push(`
     function __renameGrafo(){
       document.querySelectorAll('h3').forEach(function(h){
         if (h.textContent.trim() === 'Vista grafico') h.textContent = 'Vista grafo';
@@ -23823,6 +23888,7 @@ var init_Navbar = __esm({
       ["Prove", "prove"],
       ["Problemi", "problemi"],
       ["Quesiti", "quesiti"],
+      ["Statistiche", "statistiche"],
       ["Cerca", "cerca"]
     ];
     __name(basePathOf, "basePathOf");
@@ -23836,6 +23902,8 @@ var init_Navbar = __esm({
       prove: `<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5"/><path d="M9 13h6M9 17h4"/>`,
       problemi: `<path d="M9 3.2a1.9 1.9 0 0 1 3.8 0c0 .6-.3.9-.3 1.4h3.9v3.9c.5 0 .8-.3 1.4-.3a1.9 1.9 0 0 1 0 3.8c-.6 0-.9-.3-1.4-.3v3.9h-3.9c0 .5.3.8.3 1.4a1.9 1.9 0 0 1-3.8 0c0-.6.3-.9.3-1.4H5.4v-3.9c-.5 0-.8.3-1.4.3a1.9 1.9 0 0 1 0-3.8c.6 0 .9.3 1.4.3V4.6H9c0-.5-.3-.8-.3-1.4z"/>`,
       quesiti: `<path d="M21 11.5a8.4 8.4 0 0 1-8.5 8.5 8.9 8.9 0 0 1-3.8-.9L3 21l1.9-5.7a8.4 8.4 0 0 1-.9-3.8A8.4 8.4 0 0 1 12.5 3 8.4 8.4 0 0 1 21 11.5z"/><path d="M10.3 9.4a2.3 2.3 0 0 1 4.4.8c0 1.5-2.2 1.8-2.2 3.1"/><circle cx="12.4" cy="16.1" r="0.6" fill="currentColor" stroke="none"/>`,
+      stats: `<path d="M3 3v18h18"/><rect x="7" y="11" width="3" height="6" rx="0.5"/><rect x="12" y="6" width="3" height="11" rx="0.5"/><rect x="17" y="14" width="3" height="3" rx="0.5"/>`,
+      grafo: `<circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="7" r="2.4"/><circle cx="12" cy="17.5" r="2.4"/><path d="M8.1 7.2 10.4 15.4M16.1 8.9l-3 6.2M8.4 6.4h7"/>`,
       github: `<path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.9-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02a9.5 9.5 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2Z"/>`
     };
     svg = /* @__PURE__ */ __name((name, fill = false) => `<svg viewBox="0 0 24 24" fill="${fill ? "currentColor" : "none"}" stroke="${fill ? "none" : "currentColor"}" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">${ICON[name]}</svg>`, "svg");
@@ -23848,6 +23916,7 @@ var init_Navbar = __esm({
       ["Prove", "prove", "prove"],
       ["Problemi", "problemi", "problemi"],
       ["Quesiti", "quesiti", "quesiti"],
+      ["Statistiche", "statistiche", "stats"],
       ["Cerca", "cerca", "cerca"]
     ];
     Navbar = /* @__PURE__ */ __name(({ cfg, displayClass }) => {
@@ -23867,6 +23936,18 @@ var init_Navbar = __esm({
               dangerouslySetInnerHTML: { __html: svg(icon) }
             }
           )),
+          /* @__PURE__ */ jsx10(
+            "button",
+            {
+              type: "button",
+              class: "m-rail-btn m-rail-graph",
+              title: "Vista grafo",
+              "aria-label": "Vista grafo",
+              "data-graph-toggle": true,
+              hidden: true,
+              dangerouslySetInnerHTML: { __html: svg("grafo") }
+            }
+          ),
           /* @__PURE__ */ jsx10(
             "a",
             {

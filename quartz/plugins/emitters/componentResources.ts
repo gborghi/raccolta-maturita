@@ -317,6 +317,72 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     window.addEventListener('resize', function(){ __setNavH(); __subnavUpd(); });
     document.addEventListener('nav', __chrome);
   `)
+  // Rail graph toggle + /statistiche dashboard renderer. Both re-run on SPA nav.
+  componentResources.afterDOMLoaded.push(`
+    // ── rail "Vista grafo" toggle: show the button only where a graph exists,
+    //    and on click open the fullscreen global graph (fallback: scroll the
+    //    local right-rail graph into view). ──
+    function __graphBtn(){
+      var btn = document.querySelector('[data-graph-toggle]');
+      if (!btn) return;
+      var has = document.querySelector('.global-graph-icon, .sidebar.right .graph, .graph');
+      btn.hidden = !has;
+      if (has && !btn.__wired){
+        btn.__wired = true;
+        btn.addEventListener('click', function(){
+          var gg = document.querySelector('.global-graph-icon');
+          if (gg){ gg.click(); return; }
+          var g = document.querySelector('.sidebar.right .graph') || document.querySelector('.graph');
+          if (g) g.scrollIntoView({ behavior:'smooth', block:'center' });
+        });
+      }
+    }
+    // ── /statistiche renderer (inline-SVG-free bar charts from static/stats.json) ──
+    function __esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+    function __fmt(n){ try { return (n||0).toLocaleString('it-IT'); } catch(e){ return ''+(n||0); } }
+    function __kpis(s){
+      var k=[['Problemi & quesiti',s.total],['Problemi',s.byType.problema],['Quesiti',s.byType.quesito],['Prove intere',s.proveIntere],['Anni coperti',s.counts.years],['Cluster',s.counts.clusters],['Argomenti',s.counts.topics],['Metodi',s.counts.methods],['Competenze',s.counts.skills]];
+      return '<div class="stkpis">'+k.map(function(x){return '<div class="stkpi"><b>'+__fmt(x[1])+'</b><span>'+__esc(x[0])+'</span></div>';}).join('')+'</div>';
+    }
+    function __hbars(items,cls){
+      if(!items||!items.length) return '';
+      var max=Math.max.apply(null,items.map(function(x){return x[1];}));
+      return '<div class="stbars '+(cls||'')+'">'+items.map(function(x){
+        var w=max?Math.max(3,Math.round(x[1]/max*100)):0;
+        return '<div class="stbar"><span class="stbar-l" title="'+__esc(x[0])+'">'+__esc(x[0])+'</span><span class="stbar-t"><span class="stbar-f" style="width:'+w+'%"></span></span><span class="stbar-n">'+__fmt(x[1])+'</span></div>';
+      }).join('')+'</div>';
+    }
+    function __ybars(items){
+      if(!items||!items.length) return '';
+      var max=Math.max.apply(null,items.map(function(x){return x[1];}));
+      return '<div class="styears">'+items.map(function(x){
+        var h=max?Math.max(4,Math.round(x[1]/max*100)):0, lab=(Number(x[0])%5===0)?x[0]:'';
+        return '<div class="styear" title="'+__esc(x[0])+': '+x[1]+'"><span class="styear-b" style="height:'+h+'%"></span><span class="styear-x">'+lab+'</span></div>';
+      }).join('')+'</div>';
+    }
+    function __sec(t,body){ return '<section class="stsec"><h2>'+__esc(t)+'</h2>'+body+'</section>'; }
+    function __two(a,b){ return '<div class="sttwo">'+a+b+'</div>'; }
+    function __statsHTML(s){
+      return __kpis(s)
+        + __sec('Problemi e quesiti per anno (1875–2025)', '<div class="styears-wrap">'+__ybars(s.byYear)+'</div>')
+        + __sec('Per tipo', __hbars([['Problemi',s.byType.problema],['Quesiti',s.byType.quesito]],'wide'))
+        + __sec('Per area', __hbars(s.byArea))
+        + __two(__sec('Argomenti più ricorrenti', __hbars(s.topTopics)), __sec('Metodi più ricorrenti', __hbars(s.topMethods)))
+        + __two(__sec('Competenze più ricorrenti', __hbars(s.topSkills)), __sec('Cluster tematici', __hbars(s.clusters)));
+    }
+    function __renderStats(){
+      var root=document.getElementById('stats-root');
+      if(!root || root.__done) return; root.__done=true;
+      var slug=(document.body && document.body.dataset.slug)||'';
+      var prefix='../'.repeat((slug.match(/\\//g)||[]).length);
+      fetch(prefix+'static/stats.json').then(function(r){return r.json();}).then(function(s){
+        root.innerHTML=__statsHTML(s);
+      }).catch(function(){ root.innerHTML='<p class="stats-loading">Impossibile caricare le statistiche.</p>'; });
+    }
+    function __statsGraph(){ __graphBtn(); __renderStats(); }
+    __statsGraph();
+    document.addEventListener('nav', __statsGraph);
+  `)
   // i18n tweak without forking the shared graph plugin: rename the panel title
   // "Vista grafico" -> "Vista grafo" in the DOM on every SPA navigation.
   componentResources.afterDOMLoaded.push(`

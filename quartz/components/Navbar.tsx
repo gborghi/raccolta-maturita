@@ -20,6 +20,7 @@ const LINKS: [string, string][] = [
   ["Prove", "prove"],
   ["Problemi", "problemi"],
   ["Quesiti", "quesiti"],
+  ["Statistiche", "statistiche"],
   ["Cerca", "cerca"],
 ]
 
@@ -44,6 +45,8 @@ const ICON: Record<string, string> = {
   prove: `<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5"/><path d="M9 13h6M9 17h4"/>`,
   problemi: `<path d="M9 3.2a1.9 1.9 0 0 1 3.8 0c0 .6-.3.9-.3 1.4h3.9v3.9c.5 0 .8-.3 1.4-.3a1.9 1.9 0 0 1 0 3.8c-.6 0-.9-.3-1.4-.3v3.9h-3.9c0 .5.3.8.3 1.4a1.9 1.9 0 0 1-3.8 0c0-.6.3-.9.3-1.4H5.4v-3.9c-.5 0-.8.3-1.4.3a1.9 1.9 0 0 1 0-3.8c.6 0 .9.3 1.4.3V4.6H9c0-.5-.3-.8-.3-1.4z"/>`,
   quesiti: `<path d="M21 11.5a8.4 8.4 0 0 1-8.5 8.5 8.9 8.9 0 0 1-3.8-.9L3 21l1.9-5.7a8.4 8.4 0 0 1-.9-3.8A8.4 8.4 0 0 1 12.5 3 8.4 8.4 0 0 1 21 11.5z"/><path d="M10.3 9.4a2.3 2.3 0 0 1 4.4.8c0 1.5-2.2 1.8-2.2 3.1"/><circle cx="12.4" cy="16.1" r="0.6" fill="currentColor" stroke="none"/>`,
+  stats: `<path d="M3 3v18h18"/><rect x="7" y="11" width="3" height="6" rx="0.5"/><rect x="12" y="6" width="3" height="11" rx="0.5"/><rect x="17" y="14" width="3" height="3" rx="0.5"/>`,
+  grafo: `<circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="7" r="2.4"/><circle cx="12" cy="17.5" r="2.4"/><path d="M8.1 7.2 10.4 15.4M16.1 8.9l-3 6.2M8.4 6.4h7"/>`,
   github: `<path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.9-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02a9.5 9.5 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2Z"/>`,
 }
 const svg = (name: string, fill = false) =>
@@ -60,6 +63,7 @@ const RAIL: [string, string, string][] = [
   ["Prove", "prove", "prove"],
   ["Problemi", "problemi", "problemi"],
   ["Quesiti", "quesiti", "quesiti"],
+  ["Statistiche", "statistiche", "stats"],
   ["Cerca", "cerca", "cerca"],
 ]
 
@@ -81,6 +85,18 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
             dangerouslySetInnerHTML={{ __html: svg(icon) }}
           />
         ))}
+        {/* graph toggle — an ACTION, not a destination. The chrome driver hides it
+            on pages without a right-rail graph (e.g. home) and, on click, reveals +
+            builds the "Vista grafo" panel. */}
+        <button
+          type="button"
+          class="m-rail-btn m-rail-graph"
+          title="Vista grafo"
+          aria-label="Vista grafo"
+          data-graph-toggle
+          hidden
+          dangerouslySetInnerHTML={{ __html: svg("grafo") }}
+        />
         <a
           class="m-rail-gh"
           href="https://github.com/gborghi/raccolta-maturita"

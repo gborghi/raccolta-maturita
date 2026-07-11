@@ -417,6 +417,32 @@ async function main() {
   const years = new Set(prove.map((p) => p.anno).filter(Boolean))
   const clusterTally = {}
   for (const p of prove) if (p.cluster) clusterTally[p.cluster] = (clusterTally[p.cluster] || 0) + 1
+
+  // ── /statistiche dataset (static/stats.json): aggregates over the atomic items ──
+  const clean = (s) => String(s).split("/").pop().trim()
+  const tally = (arr) => { const m = {}; for (const x of arr) { const k = clean(x); if (k) m[k] = (m[k] || 0) + 1 } return m }
+  const topN = (obj, n) => Object.entries(obj).sort((a, b) => b[1] - a[1]).slice(0, n)
+  const yearTally = {}
+  for (const p of prove) if (p.anno) yearTally[p.anno] = (yearTally[p.anno] || 0) + 1
+  const topicTally = {}, methodTally = {}, skillTally = {}
+  for (const p of prove) {
+    for (const t of p.topics || []) { const k = clean(t); if (k) topicTally[k] = (topicTally[k] || 0) + 1 }
+    for (const m of p.methods || []) { const k = clean(m); if (k) methodTally[k] = (methodTally[k] || 0) + 1 }
+    for (const s of p.skills || []) { const k = clean(s); if (k) skillTally[k] = (skillTally[k] || 0) + 1 }
+  }
+  const stats = {
+    total: prove.length,
+    byType: { problema: nProblemi, quesito: nQuesiti },
+    proveIntere: nProveIntere,
+    byYear: Object.entries(yearTally).sort((a, b) => Number(a[0]) - Number(b[0])),
+    byArea: topN(tally(prove.map((p) => p.area)), 12),
+    topTopics: topN(topicTally, 18),
+    topMethods: topN(methodTally, 18),
+    topSkills: topN(skillTally, 18),
+    clusters: Object.entries(clusterTally).sort((a, b) => b[1] - a[1]),
+    counts: { topics: nTopics, methods: nMethods, skills: nSkills, ftypes: nFtypes, clusters: nClusters, years: years.size },
+  }
+  await fs.writeFile(path.join(path.dirname(STATIC_JSON), "stats.json"), JSON.stringify(stats))
   // primary clusters shown as cards: [display, description, icon-svg-inner]
   const CLUSTERS = [
     ["Studio di Funzione", "Limiti, asintoti, grafici, esponenziali e logaritmi", `<path d="M3 20c4-14 14 6 18-8"/>`],
@@ -459,16 +485,16 @@ ${clusterCards}
 </div>
 
 <div class="mh-quick">
-  <a class="mh-qcard" href="Topics"><span><b>Argomenti</b><span>${nTopics} argomenti</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Methods"><span><b>Metodi</b><span>${nMethods} metodi</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Skills"><span><b>Competenze</b><span>${nSkills} competenze</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Tipi-funzione"><span><b>Tipi di funzione</b><span>${nFtypes} tipi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="topics"><span><b>Argomenti</b><span>${nTopics} argomenti</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="methods"><span><b>Metodi</b><span>${nMethods} metodi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="skills"><span><b>Competenze</b><span>${nSkills} competenze</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="tipi-funzione"><span><b>Tipi di funzione</b><span>${nFtypes} tipi</span></span><span class="mh-arrow">→</span></a>
 </div>
 
 <div class="mh-quick">
-  <a class="mh-qcard" href="Prove"><span><b>Prove</b><span>${fmt(nProveIntere)} temi interi</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Problemi"><span><b>Problemi</b><span>${fmt(nProblemi)} singoli</span></span><span class="mh-arrow">→</span></a>
-  <a class="mh-qcard" href="Quesiti"><span><b>Quesiti</b><span>${fmt(nQuesiti)} singoli</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="prove"><span><b>Prove</b><span>${fmt(nProveIntere)} temi interi</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="problemi"><span><b>Problemi</b><span>${fmt(nProblemi)} singoli</span></span><span class="mh-arrow">→</span></a>
+  <a class="mh-qcard" href="quesiti"><span><b>Quesiti</b><span>${fmt(nQuesiti)} singoli</span></span><span class="mh-arrow">→</span></a>
   <a class="mh-qcard accent" href="cerca"><span><b>Cerca per tag</b><span>Ricerca a faccette</span></span><span class="mh-arrow">→</span></a>
 </div>
 
@@ -488,6 +514,16 @@ Seleziona uno o più tag per filtrare i ${prove.length} singoli problemi e quesi
 <div id="cerca"></div>
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
+
+  const statistiche = `---
+title: Statistiche della raccolta
+---
+
+<p class="stats-intro">Panoramica quantitativa dell'archivio: distribuzione per anno (1875–2025), tipo di quesito, area, e gli argomenti / metodi / competenze più ricorrenti — calcolati sui ${fmt(prove.length)} problemi e quesiti indicizzati.</p>
+
+<div id="stats-root"><p class="stats-loading">Caricamento statistiche…</p></div>
+`
+  await fs.writeFile(path.join(CONTENT, "statistiche.md"), statistiche)
 
   console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${prove.length} prove, paginated ${pagedLists} concept lists`)
   if (missingPdf.size) console.log(`WARN: ${missingPdf.size} PDF filenames unmapped (no Drive id): ${[...missingPdf].join(", ")}`)
