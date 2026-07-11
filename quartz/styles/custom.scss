@@ -21,10 +21,10 @@
   --rail-fg: #C79B7E;
   --rail-active-bg: rgba(255, 109, 0, 0.16);
   --rail-active-fg: #FF9E45;
-  --rail-w: 76px;
+  --rail-w: 76px;             // collapsed rail width (icons); body.rail-open widens it
+  --rail-w-open: 212px;       // expanded rail width (icon + label)
   --topbar-h: 64px;
-  --subnav-h: 48px;
-  --navbar-h: 112px;          // topbar + subnav; the chrome script refines it
+  --navbar-h: 64px;           // == topbar height (no more subnav); script refines it
   --radius: 14px;
 }
 [saved-theme="dark"] {
@@ -50,7 +50,11 @@
 #quartz-root.page {
   margin-left: var(--rail-w);
   padding-top: calc(var(--navbar-h) + 1rem);
+  transition: margin-left 0.18s ease;
 }
+// expanding the rail widens --rail-w for the whole shell, so the topbar and the
+// content grid slide right in step (the rail pushes, it does not overlay).
+body.rail-open { --rail-w: var(--rail-w-open); }
 
 @media all and (min-width: 800px) {
   // RIGHT rail (TOC / backlinks / graph) starts under the fixed chrome; scroll it.
@@ -77,14 +81,15 @@
     width: min(520px, 42vw) !important;
   }
   #quartz-root .sidebar.left > * { margin: 0 !important; }
+  // fill the full topbar height and centre the controls on its mid-line
   #quartz-root .sidebar.left .toolbar {
     display: flex; flex-direction: row; align-items: center; gap: 0.5rem;
-    width: 100%; margin: 0; padding: 0;
+    width: 100%; height: 100%; margin: 0; padding: 0;
   }
-  // the search becomes the wide "pill" of the topbar
-  #quartz-root .sidebar.left .search { flex: 1 1 auto; }
+  // the search becomes the wide "pill" of the topbar (same 40px height as the toggles)
+  #quartz-root .sidebar.left .search { flex: 1 1 auto; display: flex; align-items: center; }
   #quartz-root .sidebar.left .search > .search-button {
-    width: 100%; height: 42px; border-radius: 12px;
+    width: 100%; height: 40px; border-radius: 12px;
     background: var(--surface-2); border: 1px solid var(--border);
     color: var(--gray); font-size: 0.9rem; padding: 0 0.9rem; gap: 0.5rem;
   }
@@ -97,8 +102,11 @@
     border: 1px solid var(--border); border-radius: 11px;
     background: var(--surface); margin: 0;
   }
+  // the stock toggle SVGs are position:absolute (top:calc(50% - 10px), no left) —
+  // that pins the glyph to the left edge and ignores the button's flexbox. Put them
+  // back in flow so the icon centres on BOTH axes inside the 40px square.
   #quartz-root .sidebar.left .darkmode svg,
-  #quartz-root .sidebar.left .readermode svg { margin: 0; }
+  #quartz-root .sidebar.left .readermode svg { position: static; top: auto; margin: 0; }
 }
 
 // The Quartz page grid keeps a LEFT sidebar track, but the Explorer is disabled
@@ -120,10 +128,10 @@ body[data-slug="index"] .center { max-width: 1180px; margin-inline: auto; }
 body[data-slug="index"] .article-title,
 body[data-slug="index"] .page-title { display: none !important; }
 
-// Narrow screens: chrome collapses (rail hidden, topbar/subnav static, toolbar
+// Narrow screens: chrome collapses (rail hidden, topbar static, toolbar
 // back into normal flow at the top of the page).
 @media all and (max-width: 799px) {
-  #quartz-root.page { margin-left: 0; padding-top: calc(var(--topbar-h) + var(--subnav-h) + 0.5rem); }
+  #quartz-root.page { margin-left: 0; padding-top: calc(var(--topbar-h) + 0.5rem); }
 }
 
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
@@ -294,7 +302,7 @@ img.concept-icon {
 // ─────────────────────────────────────────────────────────────────────────────
 .m-shell { font-family: var(--bodyFont); }
 
-// ── left icon rail ──
+// ── left rail (collapsed = icons; body.rail-open = labelled drawer) ──
 .m-rail {
   position: fixed; left: 0; top: 0; bottom: 0; width: var(--rail-w);
   background: var(--rail-bg); z-index: 1003;
@@ -304,32 +312,54 @@ img.concept-icon {
   box-shadow: 2px 0 18px rgba(40, 18, 6, 0.16);
   overflow-y: auto; overflow-x: hidden;          // fit the full section list on short viewports
   scrollbar-width: none; -ms-overflow-style: none;
+  transition: width 0.18s ease;
 }
 .m-rail::-webkit-scrollbar { display: none; width: 0; }
 .m-rail-logo {
-  width: 44px; height: 44px; border-radius: 13px; margin-bottom: 12px; flex: 0 0 auto;
+  width: 44px; height: 44px; border-radius: 13px; margin-bottom: 8px; flex: 0 0 auto;
   background: var(--accent-orange); color: #fff !important;
   display: flex; align-items: center; justify-content: center;
   font-family: var(--titleFont); font-weight: 800; font-size: 20px;
   background-image: none; text-decoration: none !important;
   box-shadow: 0 6px 14px -4px rgba(255, 109, 0, 0.6);
 }
-.m-rail-btn, .m-rail-gh {
-  width: 44px; height: 44px; border-radius: 13px; flex: 0 0 auto;
-  display: flex; align-items: center; justify-content: center;
-  color: var(--rail-fg) !important; background-image: none;
-  text-decoration: none !important; transition: background 0.15s ease, color 0.15s ease;
+// each destination is [ 44px icon slot | label ]; collapsed the button is exactly
+// the icon slot, so the glyph is centred in the 76px rail.
+.m-rail-btn, .m-rail-toggle {
+  display: flex; align-items: center; flex: 0 0 auto; overflow: hidden;
+  width: 44px; height: 44px; border-radius: 13px;
+  color: var(--rail-fg) !important; background: none; background-image: none; border: none;
+  text-decoration: none !important; cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
 }
-.m-rail-btn svg, .m-rail-gh svg { width: 21px; height: 21px; }
-.m-rail-btn:hover, .m-rail-gh:hover { background: rgba(255, 255, 255, 0.08); color: var(--rail-active-fg) !important; }
+.m-rail-toggle { height: 34px; margin-bottom: 4px; }
+.m-rail-ic {
+  flex: 0 0 44px; width: 44px; height: 100%;
+  display: flex; align-items: center; justify-content: center;
+}
+.m-rail-ic svg { width: 21px; height: 21px; }
+.m-rail-toggle .m-rail-ic svg { width: 18px; height: 18px; transition: transform 0.2s ease; }
+.m-rail-lbl {
+  font-family: var(--bodyFont); font-weight: 600; font-size: 14px; white-space: nowrap;
+  opacity: 0; max-width: 0; overflow: hidden; transition: opacity 0.15s ease;
+}
+.m-rail-btn:hover, .m-rail-toggle:hover { background: rgba(255, 255, 255, 0.08); color: var(--rail-active-fg) !important; }
 .m-rail-btn.active { background: var(--rail-active-bg); color: var(--rail-active-fg) !important; }
 .m-rail-gh { margin-top: auto; }
+
+// expanded: rail widens, buttons stretch to full-width rows, labels reveal
+body.rail-open .m-rail { align-items: stretch; padding-left: 10px; padding-right: 10px; }
+body.rail-open .m-rail-btn, body.rail-open .m-rail-toggle { width: auto; }
+body.rail-open .m-rail-logo { align-self: flex-start; }
+body.rail-open .m-rail-lbl { opacity: 1; max-width: 170px; }
+body.rail-open .m-rail-toggle .m-rail-ic svg { transform: rotate(180deg); }
 
 // ── topbar ──
 .m-topbar {
   position: fixed; top: 0; left: var(--rail-w); right: 0; height: var(--topbar-h);
   background: var(--surface); border-bottom: 1px solid var(--border);
   display: flex; align-items: center; gap: 18px; padding: 0 26px; z-index: 1000;
+  transition: left 0.18s ease;
 }
 .m-brand {
   display: inline-flex; align-items: center; gap: 10px;
@@ -343,50 +373,10 @@ img.concept-icon {
 }
 .m-topbar-spacer { flex: 1 1 auto; }
 
-// ── horizontal sub-nav ──
-.m-subnav {
-  position: fixed; top: var(--topbar-h); left: var(--rail-w); right: 0; height: var(--subnav-h);
-  background: var(--surface); border-bottom: 1px solid var(--border);
-  display: flex; align-items: center; z-index: 999; padding: 0 8px;
-}
-.m-subnav-scroll {
-  flex: 1 1 auto; display: flex; align-items: center; gap: 6px;
-  overflow-x: auto; height: 100%; padding: 0 40px;
-  scrollbar-width: none; -ms-overflow-style: none;
-}
-.m-subnav-scroll::-webkit-scrollbar { display: none; width: 0; height: 0; }
-.m-subnav-link {
-  font-family: var(--bodyFont); font-weight: 600; font-size: 14px;
-  padding: 6px 12px; border-radius: 9px; white-space: nowrap;
-  color: var(--ink-soft) !important; background-image: none; text-decoration: none !important;
-  transition: background 0.15s ease, color 0.15s ease;
-}
-.m-subnav-link:hover { background: var(--surface-2); color: var(--ink-strong) !important; }
-.m-subnav-link.active { background: var(--tint-orange); color: var(--accent-orange-2) !important; }
-.m-subnav-fade {
-  position: absolute; top: 0; bottom: 0; width: 70px; z-index: 2;
-  pointer-events: none; opacity: 0; transition: opacity 0.2s;
-}
-.m-subnav-fade.left { left: 0; background: linear-gradient(90deg, var(--surface) 30%, transparent); }
-.m-subnav-fade.right { right: 0; background: linear-gradient(270deg, var(--surface) 30%, transparent); }
-.m-subnav-arrow {
-  position: absolute; top: 50%; transform: translateY(-50%);
-  width: 30px; height: 30px; border-radius: 50%; z-index: 3;
-  background: var(--surface); border: 1px solid var(--border);
-  box-shadow: 0 3px 10px -3px rgba(79, 32, 13, 0.35);
-  display: flex; align-items: center; justify-content: center;
-  color: var(--accent-orange); cursor: pointer; opacity: 0; pointer-events: none;
-  transition: opacity 0.2s, transform 0.15s;
-}
-.m-subnav-arrow svg { width: 16px; height: 16px; }
-.m-subnav-arrow.left { left: 12px; }
-.m-subnav-arrow.right { right: 12px; }
-.m-subnav-arrow:hover { transform: translateY(-50%) scale(1.1); }
-
 // ── responsive: below 800px the rail hides and chrome goes static ──
 @media (max-width: 799px) {
   .m-rail { display: none; }
-  .m-topbar, .m-subnav { left: 0; }
+  .m-topbar { left: 0; }
   .m-brand-mark { display: flex; }
   #quartz-root .sidebar.left { z-index: 2000; }
 }

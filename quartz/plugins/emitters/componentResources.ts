@@ -269,36 +269,32 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   // ── maturità custom scripts: push BEFORE the SPA router so their "nav"
   // listeners are registered before the first "nav" dispatch ──
   componentResources.afterDOMLoaded.push(cercaScript, pagedListScript, simzanGateScript)
-  // App-shell chrome driver: publish --navbar-h (topbar+subnav) so the sticky
-  // side rails offset correctly, drive the horizontal sub-nav scroll arrows/fades,
-  // and mark the active rail + sub-nav link for the current section.
+  // App-shell chrome driver: publish --navbar-h (== topbar height) so the sticky
+  // side rails offset correctly, drive the rail expand/collapse toggle, and mark
+  // the active rail link for the current section.
   componentResources.afterDOMLoaded.push(`
     function __setNavH(){
-      var t = document.querySelector('.m-topbar'), s = document.querySelector('.m-subnav');
-      var h = (t ? t.offsetHeight : 0) + (s ? s.offsetHeight : 0);
+      var t = document.querySelector('.m-topbar');
+      var h = t ? t.offsetHeight : 0;
       if (h) document.documentElement.style.setProperty('--navbar-h', h + 'px');
     }
-    function __subnavUpd(){
-      var sc = document.querySelector('[data-subnav-scroll]');
-      if (!sc) return;
-      var can = sc.scrollWidth > sc.clientWidth + 2;
-      var l = can && sc.scrollLeft > 2;
-      var r = can && sc.scrollLeft < sc.scrollWidth - sc.clientWidth - 2;
-      var set = function(sel, on){ document.querySelectorAll(sel).forEach(function(e){
-        e.style.opacity = on ? '1' : '0'; e.style.pointerEvents = on ? 'auto' : 'none'; }); };
-      set('[data-arrow="l"],[data-fade="l"]', l);
-      set('[data-arrow="r"],[data-fade="r"]', r);
-    }
-    function __subnavInit(){
-      var sc = document.querySelector('[data-subnav-scroll]');
-      if (!sc || sc.__init) return; sc.__init = true;
-      sc.addEventListener('scroll', __subnavUpd);
-      document.querySelectorAll('[data-arrow]').forEach(function(b){
-        b.addEventListener('click', function(){
-          sc.scrollBy({ left: (b.getAttribute('data-arrow')==='l'?-1:1)*260, behavior:'smooth' });
-        });
+    function __railInit(){
+      var btn = document.querySelector('[data-rail-toggle]');
+      if (!btn || btn.__wired) return; btn.__wired = true;
+      try { if (localStorage.getItem('rgf-rail-open') === '1') document.body.classList.add('rail-open'); } catch(e){}
+      var sync = function(){
+        var open = document.body.classList.contains('rail-open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        btn.setAttribute('aria-label', open ? 'Comprimi menu' : 'Espandi menu');
+        btn.setAttribute('title', open ? 'Comprimi menu' : 'Espandi menu');
+        var lbl = btn.querySelector('.m-rail-lbl'); if (lbl) lbl.textContent = open ? 'Comprimi' : 'Espandi';
+      };
+      sync();
+      btn.addEventListener('click', function(){
+        var open = document.body.classList.toggle('rail-open');
+        try { localStorage.setItem('rgf-rail-open', open ? '1' : '0'); } catch(e){}
+        sync();
       });
-      setTimeout(__subnavUpd, 60);
     }
     function __markActive(){
       // basepath-relative slug of the current page (drop the GH-Pages project prefix)
@@ -312,9 +308,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
         a.classList.toggle('active', on);
       });
     }
-    function __chrome(){ __setNavH(); __subnavInit(); __subnavUpd(); __markActive(); }
+    function __chrome(){ __setNavH(); __railInit(); __markActive(); }
     __chrome();
-    window.addEventListener('resize', function(){ __setNavH(); __subnavUpd(); });
+    window.addEventListener('resize', __setNavH);
     document.addEventListener('nav', __chrome);
   `)
   // Rail graph toggle + /statistiche dashboard renderer. Both re-run on SPA nav.
