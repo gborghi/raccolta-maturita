@@ -65,11 +65,14 @@
   // the Explorer is disabled. Relocate it into the fixed topbar as a right-aligned
   // row (top:0, NOT under the chrome). Keep overflow:visible so the search popout
   // escapes. !important beats the stock .sidebar offset rules.
+  // z-index MUST exceed the rail (1003): the search overlay is a fixed, full-viewport
+  // child of this box, so this element's stacking context caps how high the overlay
+  // can paint. At 1002 the overlay was trapped BEHIND the rail. 2000 lifts it clear.
   #quartz-root .sidebar.left {
     position: fixed !important; top: 0 !important; right: 1.1rem; left: auto; bottom: auto;
     width: auto; max-width: min(560px, 46vw); height: var(--topbar-h) !important;
     flex-direction: row; align-items: center; justify-content: flex-end; gap: 0.5rem;
-    margin: 0; padding: 0 !important; z-index: 1002 !important; overflow: visible; background: none;
+    margin: 0; padding: 0 !important; z-index: 2000 !important; overflow: visible; background: none;
     // widen so the search grows into a proper pill (container was shrink-to-fit)
     width: min(520px, 42vw) !important;
   }
@@ -296,11 +299,15 @@ img.concept-icon {
   position: fixed; left: 0; top: 0; bottom: 0; width: var(--rail-w);
   background: var(--rail-bg); z-index: 1003;
   display: flex; flex-direction: column; align-items: center;
-  padding: 18px 0; gap: 6px;
+  // top pad centres the logo on the topbar mid-line: 10 + 44/2 = 32 = topbar-h/2
+  padding: 10px 0 14px; gap: 5px;
   box-shadow: 2px 0 18px rgba(40, 18, 6, 0.16);
+  overflow-y: auto; overflow-x: hidden;          // fit the full section list on short viewports
+  scrollbar-width: none; -ms-overflow-style: none;
 }
+.m-rail::-webkit-scrollbar { display: none; width: 0; }
 .m-rail-logo {
-  width: 44px; height: 44px; border-radius: 13px; margin-bottom: 12px;
+  width: 44px; height: 44px; border-radius: 13px; margin-bottom: 12px; flex: 0 0 auto;
   background: var(--accent-orange); color: #fff !important;
   display: flex; align-items: center; justify-content: center;
   font-family: var(--titleFont); font-weight: 800; font-size: 20px;
@@ -308,7 +315,7 @@ img.concept-icon {
   box-shadow: 0 6px 14px -4px rgba(255, 109, 0, 0.6);
 }
 .m-rail-btn, .m-rail-gh {
-  width: 46px; height: 46px; border-radius: 14px; flex: 0 0 auto;
+  width: 44px; height: 44px; border-radius: 13px; flex: 0 0 auto;
   display: flex; align-items: center; justify-content: center;
   color: var(--rail-fg) !important; background-image: none;
   text-decoration: none !important; transition: background 0.15s ease, color 0.15s ease;
@@ -381,7 +388,7 @@ img.concept-icon {
   .m-rail { display: none; }
   .m-topbar, .m-subnav { left: 0; }
   .m-brand-mark { display: flex; }
-  #quartz-root .sidebar.left { z-index: 1002; }
+  #quartz-root .sidebar.left { z-index: 2000; }
 }
 
 // ── /cerca faceted search page ──

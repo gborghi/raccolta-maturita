@@ -1,0 +1,15 @@
+---
+title: Irrazionale
+tipo: ftype
+concept_id: ftype_irrazionale
+tags:
+  - graph/ftype
+---
+<img class="concept-icon" src="../static/decor/irrazionale.svg" alt="" loading="lazy" />
+
+
+*Tipo di funzione* — **58** problemi/quesiti.
+
+## Problemi e quesiti
+
+<div class="paged-list" data-src="cl/53.json" data-count="58"></div>

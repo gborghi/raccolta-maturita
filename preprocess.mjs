@@ -62,13 +62,18 @@ const CONCEPT_DIRS = ["Topics", "Methods", "Skills", "Clusters", "Tipi-funzione"
 const DECOR_DIR = path.join(ROOT, "quartz", "static", "decor")
 const DECOR = new Set(
   existsSync(DECOR_DIR)
-    ? readdirSync(DECOR_DIR).filter((f) => f.endsWith(".svg")).map((f) => f.slice(0, -4))
+    ? readdirSync(DECOR_DIR).filter((f) => f.endsWith(".svg")).map((f) => f.slice(0, -4).toLowerCase())
     : [],
 )
 
+// Slugs are LOWERCASED to match the crawl-links plugin, which lowercases every
+// in-body link it resolves (its bundled slugifyPath calls .toLowerCase()). If the
+// emitted page paths kept their folder case (/Svolgimenti/…) they would 404 against
+// those lowercased links (/svolgimenti/…). Lowercasing here keeps pages + links in
+// agreement, and survives `quartz plugin restore` (we don't patch the plugin).
 function sluggify(s) {
   return s.split("/").map((seg) =>
-    seg.replace(/\s/g, "-").replace(/&/g, "-and-").replace(/%/g, "-percent").replace(/\?/g, "").replace(/#/g, "")
+    seg.replace(/\s/g, "-").replace(/&/g, "-and-").replace(/%/g, "-percent").replace(/\?/g, "").replace(/#/g, "").toLowerCase()
   ).join("/").replace(/\/$/, "")
 }
 function slugFromRel(rel) {
@@ -326,9 +331,14 @@ async function main() {
   for (const rel of files) {
     if (SKIP_FILES.has(path.basename(rel))) continue
     const src = path.join(VAULT, rel)
-    const dest = path.join(CONTENT, rel)
+    // Emit at the slugged (lowercased) path so page URLs match the links crawl-links
+    // resolves (it lowercases every in-body link). Applies to md pages AND assets,
+    // since embeds (![[img]]) are lowercased the same way.
+    const isMd = rel.endsWith(".md")
+    const relSlug = sluggify(rel.replace(/\.md$/, "").split(path.sep).join("/")) + (isMd ? ".md" : "")
+    const dest = path.join(CONTENT, relSlug)
     await fs.mkdir(path.dirname(dest), { recursive: true })
-    if (!rel.endsWith(".md")) {
+    if (!isMd) {
       await fs.copyFile(src, dest); assetsCopied++; continue
     }
     const raw = await fs.readFile(src, "utf8")

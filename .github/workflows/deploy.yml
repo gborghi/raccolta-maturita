@@ -36,6 +36,8 @@ jobs:
         run: npx quartz build
         env:
           NODE_OPTIONS: --max-old-space-size=8192
+      - name: Redirect legacy capital URLs (lowercase migration)
+        run: node redirect404.mjs
       - name: Password-protect SimZan (copyrighted) pages
         run: node protect_simzan.mjs
         env:
