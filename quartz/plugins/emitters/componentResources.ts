@@ -337,38 +337,93 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
         });
       }
     }
-    // ── /statistiche renderer (inline-SVG-free bar charts from static/stats.json) ──
+    // ── /statistiche renderer (interactive bar/stack/heatmap charts, no libs) ──
+    var __PAL=['#FF6D00','#E85D00','#3a6ea5','#1E8449','#8E44AD','#D4AC0D','#16A085','#C0392B'];
+    var __S=null, __evoHidden={};
     function __esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
     function __fmt(n){ try { return (n||0).toLocaleString('it-IT'); } catch(e){ return ''+(n||0); } }
+    function __tipEl(){ var t=document.getElementById('__sttip'); if(!t){ t=document.createElement('div'); t.id='__sttip'; t.className='sttip'; document.body.appendChild(t); } return t; }
+    function __tipShow(html,ev){ var t=__tipEl(); t.innerHTML=html; t.style.opacity='1'; var x=ev.clientX+14, y=ev.clientY+14; if(x+220>window.innerWidth) x=ev.clientX-220; t.style.left=x+'px'; t.style.top=y+'px'; }
+    function __tipHide(){ var t=document.getElementById('__sttip'); if(t) t.style.opacity='0'; }
     function __kpis(s){
       var k=[['Problemi & quesiti',s.total],['Problemi',s.byType.problema],['Quesiti',s.byType.quesito],['Prove intere',s.proveIntere],['Anni coperti',s.counts.years],['Cluster',s.counts.clusters],['Argomenti',s.counts.topics],['Metodi',s.counts.methods],['Competenze',s.counts.skills]];
       return '<div class="stkpis">'+k.map(function(x){return '<div class="stkpi"><b>'+__fmt(x[1])+'</b><span>'+__esc(x[0])+'</span></div>';}).join('')+'</div>';
     }
+    function __lbl(x){ var name=__esc(x[0]); return x[2] ? '<a class="stbar-l" href="'+__esc(x[2])+'" title="'+name+'">'+name+'</a>' : '<span class="stbar-l" title="'+name+'">'+name+'</span>'; }
     function __hbars(items,cls){
       if(!items||!items.length) return '';
       var max=Math.max.apply(null,items.map(function(x){return x[1];}));
       return '<div class="stbars '+(cls||'')+'">'+items.map(function(x){
         var w=max?Math.max(3,Math.round(x[1]/max*100)):0;
-        return '<div class="stbar"><span class="stbar-l" title="'+__esc(x[0])+'">'+__esc(x[0])+'</span><span class="stbar-t"><span class="stbar-f" style="width:'+w+'%"></span></span><span class="stbar-n">'+__fmt(x[1])+'</span></div>';
+        return '<div class="stbar">'+__lbl(x)+'<span class="stbar-t"><span class="stbar-f" style="width:'+w+'%"></span></span><span class="stbar-n">'+__fmt(x[1])+'</span></div>';
       }).join('')+'</div>';
     }
-    function __ybars(items){
+    // stacked per-year bars: [year, problemi, quesiti]
+    function __yearChart(items){
       if(!items||!items.length) return '';
-      var max=Math.max.apply(null,items.map(function(x){return x[1];}));
-      return '<div class="styears">'+items.map(function(x){
-        var h=max?Math.max(4,Math.round(x[1]/max*100)):0, lab=(Number(x[0])%5===0)?x[0]:'';
-        return '<div class="styear" title="'+__esc(x[0])+': '+x[1]+'"><span class="styear-b" style="height:'+h+'%"></span><span class="styear-x">'+lab+'</span></div>';
+      var max=Math.max.apply(null,items.map(function(x){return x[1]+x[2];}));
+      var bars=items.map(function(x){
+        var tot=x[1]+x[2], hp=max?(x[1]/max*100):0, hq=max?(x[2]/max*100):0, lab=(Number(x[0])%10===0)?x[0]:'';
+        var tip='<b>'+__esc(x[0])+'</b><br>'+x[1]+' problemi · '+x[2]+' quesiti<br>'+tot+' totali';
+        return '<div class="styear" data-tip="'+__esc(tip).replace(/"/g,"&quot;")+'"><span class="styear-stack"><span class="styear-q" style="height:'+hq+'%"></span><span class="styear-p" style="height:'+hp+'%"></span></span><span class="styear-x">'+lab+'</span></div>';
+      }).join('');
+      return '<div class="stlegend"><span><i style="background:var(--accent-orange)"></i>Problemi</span><span><i style="background:var(--accent-teal)"></i>Quesiti</span></div>'
+        + '<div class="styears-wrap"><div class="styears">'+bars+'</div></div>';
+    }
+    // stacked topic composition per decade, with toggleable legend
+    function __evoHTML(){
+      var td=__S.topicDecade, dec=td.decades, tops=td.topics;
+      var vis=tops.map(function(t,i){return i;}).filter(function(i){return !__evoHidden[tops[i]];});
+      var cols=dec.map(function(d,di){
+        var sum=vis.reduce(function(a,i){return a+td.matrix[i][di];},0)||1;
+        var segs=vis.map(function(i){
+          var v=td.matrix[i][di], h=v/sum*100; if(v===0) return '';
+          var tip='<b>'+__esc(tops[i])+'</b><br>'+__esc(d+'')+'s: '+v+' ('+Math.round(h)+'%)';
+          return '<span class="evo-seg" style="height:'+h+'%;background:'+__PAL[i%8]+'" data-tip="'+__esc(tip).replace(/"/g,"&quot;")+'"></span>';
+        }).join('');
+        return '<div class="evo-col"><div class="evo-stack">'+segs+'</div><span class="evo-x">'+__esc(d+'')+'</span></div>';
+      }).join('');
+      var leg=tops.map(function(t,i){
+        return '<button type="button" class="evo-leg'+(__evoHidden[t]?' off':'')+'" data-evo-toggle="'+__esc(t)+'"><i style="background:'+__PAL[i%8]+'"></i>'+__esc(t)+'</button>';
+      }).join('');
+      return '<div class="evo-legend">'+leg+'</div><div class="evo-chart">'+cols+'</div>';
+    }
+    // heatmap topic × decade (per-row normalized)
+    function __heatHTML(){
+      var td=__S.topicDecade, dec=td.decades, tops=td.topics;
+      var head='<div class="heat-row heat-head"><span class="heat-lbl"></span>'+dec.map(function(d){return '<span class="heat-cell heat-hx">'+String(d).slice(2)+'</span>';}).join('')+'</div>';
+      var rows=tops.map(function(t,i){
+        var row=td.matrix[i], rmax=Math.max.apply(null,row)||1;
+        var cells=row.map(function(v,di){
+          var a=v/rmax, tip='<b>'+__esc(t)+'</b><br>'+__esc(dec[di]+'')+'s: '+v;
+          return '<span class="heat-cell" style="background:rgba(232,93,0,'+(v?0.12+a*0.88:0).toFixed(3)+')" data-tip="'+__esc(tip).replace(/"/g,"&quot;")+'">'+(v||'')+'</span>';
+        }).join('');
+        return '<div class="heat-row"><span class="heat-lbl" title="'+__esc(t)+'">'+__esc(t)+'</span>'+cells+'</div>';
+      }).join('');
+      return '<div class="heat-wrap"><div class="heat">'+head+rows+'</div></div>';
+    }
+    function __formats(items){
+      return '<div class="stformats">'+items.map(function(x,i){
+        return '<div class="stfmt"><span class="stfmt-era">'+__esc(x[0])+'</span><span class="stfmt-dot" style="background:'+__PAL[i%8]+'"></span><span class="stfmt-lbl">'+__esc(x[1])+'</span></div>';
       }).join('')+'</div>';
     }
-    function __sec(t,body){ return '<section class="stsec"><h2>'+__esc(t)+'</h2>'+body+'</section>'; }
+    function __sec(t,body,note){ return '<section class="stsec"><h2>'+__esc(t)+'</h2>'+(note?'<p class="stnote">'+note+'</p>':'')+body+'</section>'; }
     function __two(a,b){ return '<div class="sttwo">'+a+b+'</div>'; }
     function __statsHTML(s){
       return __kpis(s)
-        + __sec('Problemi e quesiti per anno (1875–2025)', '<div class="styears-wrap">'+__ybars(s.byYear)+'</div>')
-        + __sec('Per tipo', __hbars([['Problemi',s.byType.problema],['Quesiti',s.byType.quesito]],'wide'))
-        + __sec('Per area', __hbars(s.byArea))
+        + __sec('Problemi e quesiti per anno', __yearChart(s.byYearType), 'Ogni barra è un anno d’esame; passa il mouse per il dettaglio. Le prove ante 1999 provengono dalla raccolta Battaia–Suppa.')
+        + __sec('Evoluzione degli argomenti per decennio', '<div id="evo-root">'+__evoHTML()+'</div>', 'Composizione percentuale degli 8 argomenti più frequenti. Clicca una voce in legenda per escluderla.')
+        + __sec('Mappa di calore: argomenti × decennio', __heatHTML())
         + __two(__sec('Argomenti più ricorrenti', __hbars(s.topTopics)), __sec('Metodi più ricorrenti', __hbars(s.topMethods)))
-        + __two(__sec('Competenze più ricorrenti', __hbars(s.topSkills)), __sec('Cluster tematici', __hbars(s.clusters)));
+        + __two(__sec('Competenze più ricorrenti', __hbars(s.topSkills)), __sec('Tipi di funzione', __hbars(s.topFtypes)))
+        + __two(__sec('Cluster tematici', __hbars(s.clusters)), __sec('Per area', __hbars(s.byArea)))
+        + __sec('Evoluzione del formato della prova', __formats(s.formats));
+    }
+    function __statsBind(root){
+      if(root.__bound) return; root.__bound=true;
+      root.addEventListener('mousemove', function(e){ var el=e.target.closest && e.target.closest('[data-tip]'); if(el) __tipShow(el.getAttribute('data-tip'), e); else __tipHide(); });
+      root.addEventListener('mouseleave', __tipHide);
+      root.addEventListener('click', function(e){ var b=e.target.closest && e.target.closest('[data-evo-toggle]'); if(!b) return; e.preventDefault(); var t=b.getAttribute('data-evo-toggle'); __evoHidden[t]=!__evoHidden[t]; var er=document.getElementById('evo-root'); if(er) er.innerHTML=__evoHTML(); });
     }
     function __renderStats(){
       var root=document.getElementById('stats-root');
@@ -376,12 +431,12 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       var slug=(document.body && document.body.dataset.slug)||'';
       var prefix='../'.repeat((slug.match(/\\//g)||[]).length);
       fetch(prefix+'static/stats.json').then(function(r){return r.json();}).then(function(s){
-        root.innerHTML=__statsHTML(s);
+        __S=s; __evoHidden={}; root.innerHTML=__statsHTML(s); __statsBind(root);
       }).catch(function(){ root.innerHTML='<p class="stats-loading">Impossibile caricare le statistiche.</p>'; });
     }
     function __statsGraph(){ __graphBtn(); __renderStats(); }
     __statsGraph();
-    document.addEventListener('nav', __statsGraph);
+    document.addEventListener('nav', function(){ __tipHide(); __statsGraph(); });
   `)
   // i18n tweak without forking the shared graph plugin: rename the panel title
   // "Vista grafico" -> "Vista grafo" in the DOM on every SPA navigation.

@@ -418,28 +418,63 @@ async function main() {
   const clusterTally = {}
   for (const p of prove) if (p.cluster) clusterTally[p.cluster] = (clusterTally[p.cluster] || 0) + 1
 
-  // ── /statistiche dataset (static/stats.json): aggregates over the atomic items ──
+  // ── /statistiche dataset (static/stats.json): aggregates over the atomic items.
+  //     Chart set inspired by the print appendix (Vol.5) but computed from the
+  //     vault's per-item classification (topics/methods/skills), not text regex. ──
   const clean = (s) => String(s).split("/").pop().trim()
   const tally = (arr) => { const m = {}; for (const x of arr) { const k = clean(x); if (k) m[k] = (m[k] || 0) + 1 } return m }
   const topN = (obj, n) => Object.entries(obj).sort((a, b) => b[1] - a[1]).slice(0, n)
+  // [name,count] -> [name,count,href] so bars can link to the concept page
+  const withHref = (entries, folder) => entries.map(([name, count]) => [name, count, folder + "/" + sluggify(name)])
   const yearTally = {}
   for (const p of prove) if (p.anno) yearTally[p.anno] = (yearTally[p.anno] || 0) + 1
-  const topicTally = {}, methodTally = {}, skillTally = {}
+  const topicTally = {}, methodTally = {}, skillTally = {}, ftypeTally = {}
   for (const p of prove) {
     for (const t of p.topics || []) { const k = clean(t); if (k) topicTally[k] = (topicTally[k] || 0) + 1 }
     for (const m of p.methods || []) { const k = clean(m); if (k) methodTally[k] = (methodTally[k] || 0) + 1 }
     for (const s of p.skills || []) { const k = clean(s); if (k) skillTally[k] = (skillTally[k] || 0) + 1 }
+    for (const f of p.ftypes || []) { const k = clean(f); if (k) ftypeTally[k] = (ftypeTally[k] || 0) + 1 }
   }
+  // per-year problema/quesito split (stacked year bars)
+  const yearTypeMap = {}
+  for (const p of prove) {
+    if (!p.anno) continue
+    ;(yearTypeMap[p.anno] ??= { problema: 0, quesito: 0 })
+    if (p.tipo === "problema") yearTypeMap[p.anno].problema++
+    else if (p.tipo === "quesito") yearTypeMap[p.anno].quesito++
+  }
+  const byYearType = Object.keys(yearTypeMap).sort((a, b) => Number(a) - Number(b)).map((y) => [y, yearTypeMap[y].problema, yearTypeMap[y].quesito])
+  // top topics × decade (drives the stacked-evolution chart AND the heatmap)
+  const decadesSet = new Set(), topicDec = {}
+  for (const p of prove) {
+    const yr = Number(p.anno); if (!Number.isFinite(yr)) continue
+    const d = Math.floor(yr / 10) * 10; decadesSet.add(d)
+    for (const t of p.topics || []) { const k = clean(t); if (!k) continue; (topicDec[k] ??= {})[d] = (topicDec[k][d] || 0) + 1 }
+  }
+  const decades = [...decadesSet].sort((a, b) => a - b)
+  const evoTopics = topN(topicTally, 8).map((x) => x[0])
+  const topicMatrix = evoTopics.map((t) => decades.map((d) => (topicDec[t] && topicDec[t][d]) || 0))
   const stats = {
     total: prove.length,
     byType: { problema: nProblemi, quesito: nQuesiti },
     proveIntere: nProveIntere,
     byYear: Object.entries(yearTally).sort((a, b) => Number(a[0]) - Number(b[0])),
-    byArea: topN(tally(prove.map((p) => p.area)), 12),
-    topTopics: topN(topicTally, 18),
-    topMethods: topN(methodTally, 18),
-    topSkills: topN(skillTally, 18),
-    clusters: Object.entries(clusterTally).sort((a, b) => b[1] - a[1]),
+    byYearType,
+    byArea: withHref(topN(tally(prove.map((p) => p.area)), 12), "topics").map((r) => [r[0], r[1]]), // area has no page → drop href
+    topTopics: withHref(topN(topicTally, 18), "topics"),
+    topMethods: withHref(topN(methodTally, 18), "methods"),
+    topSkills: withHref(topN(skillTally, 18), "skills"),
+    topFtypes: withHref(topN(ftypeTally, 12), "tipi-funzione"),
+    clusters: withHref(Object.entries(clusterTally).sort((a, b) => b[1] - a[1]), "clusters"),
+    topicDecade: { topics: evoTopics, decades, matrix: topicMatrix },
+    // exam-format eras (faithful to the Vol.5 "formato_esami" figure)
+    formats: [
+      ["fino al 2000", "Tre problemi (se ne svolge uno)"],
+      ["2001–2018", "Due problemi + questionario di 10 quesiti (1 problema + 5 quesiti)"],
+      ["2019", "Prova mista di Matematica e Fisica"],
+      ["2020–2022", "Prove predisposte dalle commissioni d'istituto"],
+      ["2023–2025", "Due problemi + questionario di 8 quesiti"],
+    ],
     counts: { topics: nTopics, methods: nMethods, skills: nSkills, ftypes: nFtypes, clusters: nClusters, years: years.size },
   }
   await fs.writeFile(path.join(path.dirname(STATIC_JSON), "stats.json"), JSON.stringify(stats))
