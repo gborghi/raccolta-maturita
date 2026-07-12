@@ -562,6 +562,23 @@ ul.section-ul > li.section-li:hover {
 }
 ul.section-ul { list-style: none; padding: 0; }
 
+// Reflow each row (Quartz's rigid `fit-content 3fr 1fr` grid put the tags in a
+// right column that escaped the card and pushed a horizontal overflow when the
+// rail expands). Flex-wrap instead: [date][title] on one line, tags on a
+// full-width line BELOW — all inside the white card; long slug titles wrap.
+ul.section-ul > li.section-li > .section {
+  display: flex !important; grid-template-columns: none !important;
+  flex-wrap: wrap; align-items: baseline; column-gap: 14px; row-gap: 4px; min-width: 0;
+}
+li.section-li > .section > .meta { flex: 0 0 auto; margin: 0; white-space: nowrap; }
+li.section-li > .section > .desc { flex: 1 1 55%; min-width: 0; margin: 0; }
+li.section-li > .section > .desc h3 { margin: 0; }
+li.section-li > .section > .desc h3 > a { overflow-wrap: anywhere; word-break: break-word; }
+li.section-li > .section > .tags {
+  display: flex !important; flex: 1 1 100%; flex-wrap: wrap;
+  justify-content: flex-start; gap: 7px; margin: 2px 0 0;
+}
+
 // ── Home page: hero + stat strip + cluster/quick cards (HTML emitted by preprocess.mjs) ──
 // home page: the hero carries the title, so hide the stock ArticleTitle + meta
 body[data-slug="index"] .page-title,
