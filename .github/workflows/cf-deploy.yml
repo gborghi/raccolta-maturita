@@ -1,0 +1,87 @@
+name: Deploy Cloudflare
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cf-deploy
+  cancel-in-progress: false
+
+jobs:
+  cloudflare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm ci
+      - name: Restore Quartz plugins
+        run: npx quartz plugin restore
+      - name: Point baseUrl at Cloudflare Pages
+        # quartz.config.yaml on main stays github.io so the existing GitHub
+        # Pages workflow is unchanged. This job must not ship that baseUrl.
+        run: |
+          python3 << 'PY'
+          from pathlib import Path
+          import re
+          p = Path("quartz.config.yaml")
+          t = p.read_text()
+          n, out = re.subn(r"(?m)^  baseUrl: .*", "  baseUrl: raccolta-maturita.pages.dev", t, count=1)
+          if n != 1:
+              raise SystemExit(f"baseUrl rewrite matched {n} lines")
+          p.write_text(out)
+          print("baseUrl -> raccolta-maturita.pages.dev")
+          PY
+      - name: Build Quartz
+        run: npx quartz build
+        env:
+          NODE_OPTIONS: --max-old-space-size=13312
+      - name: Redirect legacy capital URLs
+        run: node redirect404.mjs
+      - name: Password-protect SimZan pages
+        run: node protect_simzan.mjs
+        env:
+          SIMZAN_PASS: ${{ secrets.SIMZAN_PASS }}
+      - name: Shrink heavy assets
+        run: node shrink_build.mjs
+      - name: Emit Cloudflare Pages files
+        run: |
+          if [ -f emit-cf-files.mjs ]; then
+            node emit-cf-files.mjs
+          else
+            python3 << 'PY'
+          from pathlib import Path
+          pub = Path("public")
+          pub.mkdir(exist_ok=True)
+          base = "https://raccolta-maturita.pages.dev"
+          exts = ["js", "css", "woff2", "svg", "png", "jpg", "jpeg", "webp", "avif"]
+          lines = [
+              "/*",
+              "  X-Content-Type-Options: nosniff",
+              "  Referrer-Policy: strict-origin-when-cross-origin",
+              "  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://gc.zgo.at; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net data:; img-src 'self' data: blob:; connect-src 'self' https://cdn.jsdelivr.net https://gc.zgo.at; frame-src https://drive.google.com https://docs.google.com; object-src 'none'; base-uri 'self'",
+          ]
+          for e in exts:
+              lines.append(f"/*.{e}")
+              lines.append("  Cache-Control: public, max-age=604800, immutable")
+          (pub / "_headers").write_text("\n".join(lines) + "\n")
+          (pub / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {base}/sitemap.xml\n")
+          (pub / ".nojekyll").write_text("")
+          print("[emit-cf] wrote _headers + robots.txt + .nojekyll")
+          PY
+          fi
+      - name: Deploy Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: 88534a293fdf2c50b43a2fecdb0b59ed
+          command: pages deploy public --project-name raccolta-maturita --branch main
