@@ -79,6 +79,10 @@ jobs:
           print("[emit-cf] wrote _headers + robots.txt + .nojekyll")
           PY
           fi
+      - name: Drop PDFs hosted on Drive
+        run: |
+          rm -rf public/static/pdf
+          find public -type f -size +24M -print -delete
       - name: Deploy Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
