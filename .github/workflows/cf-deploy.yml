@@ -35,16 +35,16 @@ jobs:
           import re
           p = Path("quartz.config.yaml")
           t = p.read_text()
-          n, out = re.subn(r"(?m)^  baseUrl: .*", "  baseUrl: raccolta-maturita.pages.dev", t, count=1)
+          out, n = re.subn(r"(?m)^[ \t]*baseUrl:.*", "  baseUrl: raccolta-maturita.pages.dev", t, count=1)
           if n != 1:
-              raise SystemExit(f"baseUrl rewrite matched {n} lines")
+              raise SystemExit(f"baseUrl rewrite matched {n}")
           p.write_text(out)
           print("baseUrl -> raccolta-maturita.pages.dev")
           PY
       - name: Build Quartz
         run: npx quartz build
         env:
-          NODE_OPTIONS: --max-old-space-size=13312
+          NODE_OPTIONS: --max-old-space-size=6144
       - name: Redirect legacy capital URLs
         run: node redirect404.mjs
       - name: Password-protect SimZan pages
